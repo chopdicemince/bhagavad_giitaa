@@ -1,0 +1,843 @@
+\documentclass{book}
+
+\usepackage{devanagari}
+
+\begin{document}
+% ------------------------------------------------------------------------------
+\title{A Translation of\\The Bhagavad Giitaa}
+\author{Winston C. Yang}
+\maketitle
+% ------------------------------------------------------------------------------
+\chapter*{Introduction}
+
+The ``Bhagavad Gittaa'' is a religious text of India, written in the
+language of Sanskrit. Today, relatively few people speak Sanskrit
+fluently, but there is a movement to revive it. In India, there is
+much religious text that was written in Sanskrit. Many people may be
+able to read and pronounce the Sanskrit, but they may not fully
+understand its meaning.
+
+``Bhagavad Giitaa'' means ``holy song'' (``bhagavad'' has various
+translations, one of which is ``holy''). It is part of another text,
+the ``Mahaabhaarata,'' whose name means ``big India'' (mahaa +
+bhaarata), and which is a history of the ancient world. In The
+Bhagavad Giitaa, Lord K.r.s.na (sometimes spelled ``Krishna'') gave
+advice to his friend Arjuna. After eighteen days of fighting their
+enemies, they are victorious.
+% ------------------------------------------------------------------------------
+\chapter*{Transliterating Sanskrit into English}
+
+Simply, {\em transliterate} means to spell a word of one language by
+using the alphabet of another language. Transliteration is not
+perfect. People may have different opinions about how to transliterate
+a given word.
+
+Sanskrit has sounds which an English speaker may not be able to
+distinguish, without much practice. For example:
+
+\begin{itemize}
+
+\item Sanskrit distinguishes between aspirated and non-aspirated
+  sounds.
+
+  Simply, {\em aspirate} means to pronounce a sound with a big
+  breath---with a big puff of air. Try the following experiment. Put
+  your hand near your mouth. Pronounce ``pin.'' Notice the amount of
+  air hitting your hand. Next, pronounce ``spin.'' Notice the amount
+  of air hitting your hand. It may be less. You are aspirating the
+  ``p'' in ``pin,'' but you are not aspirating the ``p'' in ``spin.''
+
+\item Sanskrit distinguishes between dental and retroflex sounds.
+
+  Try the following experiment. Clench your teeth. Slip your tongue
+  between your teeth, so that the tip sticks out a little from your
+  teeth. Say ``knee.'' You are prouncing a dental sound, the ``n.''
+  Next, stop clenching your teeth. Place your tongue so that the tip
+  is on the top of your mouth and behind your top front teeth. Say
+  ``knee'' again. You are pronouncing a retroflex sound, the ``n.''
+  The retroflex ``n'' might seem ``fuzzier'' or ``more nasal'' than
+  the dental ``n.''
+
+\end{itemize}
+
+To transliterate Sanskrit into English, people sometimes introduced
+extra characters, to help represent some of these extra sounds in
+Sanskrit.
+% ------------------------------------------------------------------------------
+\section*{Some transliterations}
+
+People have invented various ways to transliterate Sanskrit into
+English. Some transliterations are below, with their advantages and
+disadvantages.
+
+\begin{itemize}
+
+\item IAST: International Alphabet for Sanskrit Transliteration.
+
+  Advantages: You can use uppercase and lowercase letters normally, as
+  you would in regular English. (Some other transliterations might
+  treat lowercase letters and uppercase letters differently.)
+
+  Disadvantages: If you want to type some of the characters on a
+  U.S. English keyboard, you need to use special software.
+
+\item ITRANS.
+
+  Advantages: You can type all of the characters using a U.S. English
+  keyboard without using special software.
+
+  Disadvantages: This tranlisteration uses lowercase and uppercase
+  letters. It may look unusual.
+
+\item HK: Harvard-Kyoto Transliteration.
+
+  Advantages: This transliteration uses only English letters.
+
+  Disadvantages: This transliteration uses lowercase and uppercase
+  letters. It may look unusual.
+
+\item Velthuis Transliteration.
+
+  Advantages: This transliteration is a version of the IAST that you
+  can type on a U.S. English keyboard without using special software.
+
+\end{itemize}
+
+The tables on the next pages show the above transliterations. The
+transliterations have differences, but they also have
+similarities. Try to be familiar with parts of all of them.
+
+If you know the International Alphabet for Sanskrit Transliteration
+(IAST), then it is easy to learn the Velthuis Transliteration. It
+might be helpful to look at these two transliterations first. Notice
+how you can easily change an IAST character into a Velthuis
+character. After you are familiar with these transliterations, look at
+the ITRANS or Harvard-Kyoto transliterations.
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Sanskrit alphabet}
+
+The Sanskrit alphabet is two alphabets, one for vowels, and one for
+consonants. The vowels are first.
+
+It is helpful to think of Sanskrit vowels as occurring in pairs. In
+the following table, lines separate pairs of vowels.
+
+\subsection*{Sanskrit vowels}
+
+\begin{tabular}{llllll}
+  Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
+  \hline
+  1&{\dn a}&a&a&a&a\\
+  2&{\dn aa}&aa&$\overline{\rm a}$&aa, A&A\\
+  \hline
+  3&{\dn i}&i&i&i&i\\
+  4&{\dn ii}&ii&$\overline{\rm \i}$, $\overline{\rm i}$, &ii, I&I\\
+  \hline
+  5&{\dn u}&u&u&u&u\\
+  6&{\dn uu}&uu&$\overline{\rm u}$&uu, U&U\\
+  \hline
+  7&{\dn .r}&.r&\d{r}&RRi, R\^{}i&R\\
+  8&{\dn .R}&.rr&$\overline{\d{r}}$&RRI, R\^{}I&RR\\
+  \hline
+  9&{\dn .l}&.l&\d{l}&LLi, L\^{}i&lR\\
+  10&{\dn .L}&.ll&$\overline{\d{l}}$&LLI, L\^{}I&lRR\\
+  \hline
+  11&{\dn e}&e&e&e&e\\
+  12&{\dn ai}&ai&ai&ai&ai\\
+  \hline
+  13&{\dn o}&o&o&o&o\\
+  14&{\dn au}&au&au&au&au\\
+  \hline
+  15&{\dn .m}&.m&\.{m}&M&M\\
+  16&{\dn .h}&.h&\d{h}&H&H\\
+\end{tabular}
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Sanskrit consonants}
+
+It may be helpful to think of the Sanskrit consonants as syllables:
+each Sanskrit consonant is really a consonant and a vowel. This vowel
+is the same for all consonants. It is transliterated as ``a'' and
+rhymes with the words ``but,'' ``cut,'' and ``gut.'' For example, one
+of the first Sanskrit consonants is {\dn ga}, which is transliterated
+as ``ga'', and sounds exactly like ``gut.'' Sometimes people do not
+transliterate the ``a'' for a Sanskrit consonant, but try to
+transliterate it.
+
+It is helpful to think of the Sanskrit consonants as occurring in
+groups. In the following table, lines separate groups of consonants.
+
+\begin{tabular}{llllll}
+  Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
+  \hline
+  1&{\dn k}&ka&ka&ka&ka\\
+  2&{\dn kh}&kha&kha&kha&kha\\
+  3&{\dn g}&ga&ga&ga&ga\\
+  4&{\dn gh}&gha&gha&gha&gha\\
+  5&{\dn "n}&''na&\.{n}a&\~{}Na&Ga\\
+  \hline
+  6&{\dn c}&ca&ca&ch&ca\\
+  7&{\dn ch}&cha&cha&Cha&cha\\
+  8&{\dn j}&ja&ja&ja&ja\\
+  9&{\dn jh}&jha&jha&jha&jha\\
+  10&{\dn ~n}&\~{}na&\~{n}a&\~{}na&Ja\\
+  \hline
+  11&{\dn .t}&.ta&\d{t}a&Ta&Ta\\
+  12&{\dn .th}&.tha&\d{t}ha&Tha&Tha\\
+  13&{\dn .d}&.da&\d{d}a&Da&Da\\
+  14&{\dn .dh}&.dha&\d{d}ha&Dha&Dha\\
+  15&{\dn .n}&.na&\d{n}a&Na&Na\\
+  \hline
+  16&{\dn t}&ta&ta&ta&ta\\
+  17&{\dn th}&tha&tha&tha&tha\\
+  18&{\dn d}&da&da&da&da\\
+  19&{\dn dh}&dha&dha&dha&dha\\
+  20&{\dn n}&na&na&na&na\\
+  \hline
+  21&{\dn p}&pa&pa&pa&pa\\
+  22&{\dn ph}&pha&pha&pha&pha\\
+  23&{\dn b}&ba&ba&ba&ba\\
+  24&{\dn bh}&bha&bha&bha&bha\\
+  25&{\dn m}&ma&ma&ma&ma\\
+  \hline
+  26&{\dn y}&ya&ya&ya&ya\\
+  27&{\dn r}&ra&ra&ra&ra\\
+  28&{\dn l}&la&la&la&la\\
+  29&{\dn v}&va&va&va, wa&va\\
+  \hline
+  30&{\dn "s}&"sa&\'{s}a&sh&za\\
+  31&{\dn .s}&.sa&\d{s}a&Sha&Sa\\
+  32&{\dn s}&sa&sa&sa&sa\\
+  \hline
+  33&{\dn h}&ha&ha&ha&ha\\
+\end{tabular}
+\clearpage
+% ------------------------------------------------------------------------------
+\chapter*{Short introduction to Sanskrit grammar}
+
+Below are some points about Sanskrit grammar:
+
+\begin{itemize}
+
+\item Sanskrit does not have uppercase or lowercase letters.
+
+\item Sanskrit has three genders: male, female, and neuter.
+
+\item Sanskrit has three ``pluralities'': singular, dual, and plural
+  (three or more objects).
+
+\item Sanskrit does not have indefinite articles (``a'' or ``an'').
+
+\item Some Sanskrit vowels have two versions, called ``short'' and
+  ``long.'' Sometimes, these names are descriptive: the long version
+  is pronounced longer than the short version. Sometimes, the names
+  are not descriptive: the long version and short version are really
+  different vowels.
+
+\item In Sanskrit, people might pronounce a given letter or word in
+  more than one way. For example, {\dn va} va is sometimes pronounced
+  with a ``v'' sound, and sometimes pronounced with a ``w'' sound.
+
+  So, despite what you might hear or read, it is not always true that
+  in Sanskrit, ``what you write is what you say, and what you say is
+  what you write.''
+
+\item Sanskrit has many characters which represent two or more
+  characters. We will call these special characters ``ligatures.''
+  Sometimes a ligature looks like the characters that it represents,
+  and sometimes it does not. There are many ligatures, and you must
+  memorize them.
+
+  Example: {\dn ki} ki = {\dn ka} ka + {\dn i} i.
+
+\item Sanksrit uses ``sandhi,'' which is the changing of sounds in two
+  consecutive words, to try to make the words easier to pronounce or
+  to sound better.
+
+  Possibly an example will be helpful. Say the following sentence
+  fast:
+
+  \begin{quote}
+    What are you going to do?
+  \end{quote}
+
+  The sentence might sound like the following sentence:
+
+  \begin{quote}
+    Water you gonna do?
+  \end{quote}
+
+  In Sanskrit, you might see only the second sentence written. It is a
+  sandhi version of the first sentence.
+
+\item Sanskrit uses cases, also called declensions. A case is a form
+  of a noun that indicates its relationship to other nouns.
+
+  Possibly an example will be helpul. Consider the following
+  sentences.
+
+  \begin{quote}
+    Hey, Sam. The person walked from the chair and sang the song for
+    the child by using the microphone belonging to the woman at the
+    podium.
+  \end{quote}
+
+  Below, we rewrite the sentences, giving the cases of the nouns.
+
+  \begin{quote}
+    Sam-vocative-case. Person-nominative-case walked
+    table-ablative-case and sang song-accusative-case
+    child-dative-case microphone-instrumental-case woman-genitive-case
+    podium-locative-case.
+  \end{quote}
+
+  Sanskrit has eight cases. By convention, people may list them in the
+  order in the following table. The cases are sometimes called {\dn
+    prathamaa vibhakti} prathamaa vibhakti (``first case''), {\dn
+    dvitiiyaa vibhakti} dvitiiyaa vibhakti (``second case''), ...
+
+  \begin{tabular}{lllll}
+    Index&Description 1&Description 2&Description 3&Description 4\\
+    \hline
+    1&{\dn prathamaa}&{\dn kartaa}&nominative&subject\\
+    &prathamaa&kartaa\\
+    \hline
+    2&{\dn dvitiiyaa}&{\dn karman}&accusative&object\\
+    &dvitiiyaa&karman\\
+    \hline
+    3&{\dn t.rtiiyaa}&{\dn kara.na}&instrumental&with, using\\
+    &t.rtiiyaa&kara.na\\
+    \hline
+    4&{\dn caturthii}&{\dn sampradaana}&dative&for, to\\
+    &chaturthii&sampradaana\\
+    \hline
+    5&{\dn pa~ncamii}&{\dn apaadaana}&ablative&from\\
+    &pa\~{}ncamii&apaadaana\\
+    \hline
+    6&{\dn .sa.s.tii}&{\dn sambandha}&genitive&possessive\\
+    &.sa.s.tii&sambandha\\
+    \hline
+    7&{\dn saptamii}&{\dn adhikara.na}&locative&at\\
+    &saptamii&adhikara.na\\
+    \hline
+    8&&{\dn sambodhana}&vocative&I'm talking to you\\
+    &&sambodhana\\
+  \end{tabular}
+
+\item In Sanskrit, because of cases, you may be able to rearrange the
+  nouns in a sentence without changing the meaning. However, the
+  conventional word order is subject-object-verb.
+
+\end{itemize}
+% ------------------------------------------------------------------------------
+\chapter*{Organization of this text}
+
+For the rest of this text, we use the following format. For each verse
+in the Bhagavad Giitaa, we use two pages, a left page and a right page
+that face each other. The left page has a table:
+
+\begin{itemize}
+
+\item One column has Sanskrit.
+
+\item One column has the Velthuis transliteration, with very long
+  dashes indicating syllable breaks.
+
+\item One column has the low-level translation, which is a
+  word-by-word translation, or something close to it.
+
+\end{itemize}
+
+Below the table is a medium-level translation, which puts together the
+low-level translation into a readable English sentence, without
+changing the word order much.
+
+The right page has notes, if any.
+
+We do not have a ``high-level'' translation, which might involve
+greatly rewriting the medium-level translation. Possibly the low-level
+and medium-level translations are good for learning Sanskrit.
+% ------------------------------------------------------------------------------
+\chapter*{Chapter 1}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 1}
+
+\begin{tabular}{llll}
+  0&{\dn d.rtaraa.s.tra}&d.r|ta|raa|.s.tra&D.rtaraa.s.tra\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &&&\\
+  1a&{\dn dharmak.setre}&dhar|ma|k.se|tre&dharma + k.setre\\
+  &&&= {\dn dharma} + {\dn k.setre}\\
+  &&&= devotion + at place\\
+  &&&\\
+  &{\dn kuruk.setre}&ku|ru|k.se|tre&kuruk + k.setre\\
+  &&&= {\dn kuruk} + {\dn k.setre}\\
+  &&&= Kuruk + at place\\ \hline
+  &&&\\
+  1b&{\dn samavetaa}&sa|ma|ve|taa&together\\
+  &&\\
+  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&wanting to fight\\ \hline
+  &&&\\
+  2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&maama + kaa.h\\
+  &&&= {\dn maama} + {\dn kaa.h}\\
+  &&&= my + males\\
+  &&&\\
+  &{\dn paa.n.davaa"scaiva}&paa.n|.da|vaa"s|cai|va&paa.n.davaa.h + ca + eva\\
+  &&&= {\dn paa.n.davaa.h} + {\dn ca} + {\dn eva}\\
+  &&&= Paa.ndavaas + and + really\\ \hline
+  &&&\\
+  2b&{\dn kimakurvata}&ki|ma|kur|va|ta&kim + akurvata\\
+  &&&= {\dn kim} + {\dn akurvata}\\
+  &&&= what + did they do\\
+  &&&\\
+  &{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+D.rtaraa.s.tra said, ``At the devotion place, at the Kuruk place,
+together, and wanting to fight, are my male Paa.n.davaas. Really, what
+did they do, Sa\~{}njaya?''
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item D.rtaraa.s.tra is the name of a king.
+
+\item {\dn vad} vad: to say.
+
+\item {\dn dharma.h} dharma.h (male): devotion.
+
+\item {\dn k.setram} k.setram (neuter): place.
+
+  {\dn k.setre} k.setre (locative case, 7): at a/the place.
+
+\item {\dn samavetaa.h} samavetaa.h (plural adjective): together.
+
+\item {\dn sa~njaya} sa\~{}njaya: Sa\~{}njaya is a secretary of King
+  D.rtaraa.s.tra.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 2}
+
+\begin{tabular}{llll}
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya& Sa\~{}njaya\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &&&\\
+  1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
+  &&&\\
+  &{\dn tu}&tu&but\\
+  &&&\\
+  &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|nii|ka.m&paa.n.da.vaa + aniikam\\
+  &&&= {\dn paa.n.davaa} + {\dn aniikam}\\
+  &&&= Paa.n.davaa + army\\ \hline
+  &&&\\
+  1b&{\dn vyuu.dha.m}&vyuu|.dha.m&arranged\\
+  &&&\\
+  &{\dn duryodhanas}&dur|yo|dha|nas&Duryodhana\\
+  &&&\\
+  &{\dn tadaa}&ta|daa&then\\ \hline
+  &&&\\
+  2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
+  &&&\\
+  &{\dn upasa"ngamya}&u|pa|sa\~{}n|gam|ya&approaching\\ \hline
+  &&&\\
+  2b&{\dn raajaa}&raa|jaa&kings\\
+  &&&\\
+  &{\dn vacavam}&va|ca|nam&something spoken\\
+  &&&\\
+  &{\dn abraviit}&a|bra|viit&said\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Sa\~{}njaya said: ``But, having seen the Paa.n.davaa army arranged,
+King Duryodhana then was approaching the teacher. The kings said
+something.''
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item {\dn d.r.s.t} d.r.s.t: to see.
+
+\item {\dn aniika.h} aniika.h (male): army.
+
+  {\dn aniikam} aniikam (accusative case, 2): army.
+
+\item {\dn aacaarya.h} aacaarya.h (male): teacher.
+
+  {\dn aacaaryam} aacaaryam (accusative case, 2): teacher.
+
+\item {\dn raaja.h} raaja.h (male): king.
+
+  {\dn raajaa.h} raajaa.h (plural): kings.
+
+  The text uses ``kings'' instead of ``king.'' I do not know why.
+
+\item {\dn vacanam} vacanam (neuter): something spoken.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 3}
+
+\begin{tabular}{llll}
+  1a&{\dn pa"syaitaam}&pa"s|yai|taam&pa"syatu + etaam\\
+  &&&= {\dn pa"syatu} + {\dn etaam}\\
+  &&&= see + these\\
+  &&&\\
+  &{\dn paa.n.duputraa.naam}&paa.n|.du|pu|traa|.naam&paa.n.du + putraa.naam\\
+  &&&= {\dn paa.n.du} + {\dn putraam}\\
+  &&&= Paa.n.du + sons\\ \hline
+  &&&\\
+  1b&{\dn aacaarya}&aa|caar|ya&teacher\\
+  &&&\\
+  &{\dn mahatii.m}&ma|ha|tii.m&big\\
+  &&&\\
+  &{\dn camuum}&ca|muum&army\\ \hline
+  &&&\\
+  2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&arranged\\
+  &&&\\
+  &{\dn drupadaputre.na}&dru|pa|da|pu|tre|.na&drupada + putre.na\\
+  &&&= {\dn drupada} + {\dn putre.na}\\
+  &&&= Drupada + using son\\ \hline
+  &&&\\
+  2b&{\dn tava}&ta|va&your\\
+  &&&\\
+  &{\dn "si.sye.na}&"si.s|ye|.na&using student\\
+  &&&\\
+  &{\dn dhiimataa}&dhii|ma|taa&wise\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+See these Paa.ndu's sons, O teacher---a big army, arranged, using
+Drupada's son, your wise student.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item {\dn pa"syatu} pa"syatu (imperative tense, singular): see.
+
+\item {\dn putra.h} putra.h: son.
+
+  {\dn putre.na} putre.na (instrumental case, 3): using a/the son.
+
+  {\dn putraa.h} putraa.h (plural): sons.
+
+  {\dn putraam} putraam (accusative case, 2): sons.
+
+\item {\dn camuu} camuu (female): army.
+
+  {\dn camuum} camuum (accusative case, 2): army.
+
+\item {\dn vyuu.dha} vyuu.dha (adjective): arranged.
+
+  {\dn vyuu.dhaam} vyuu.dhaam (accusative case, 2): arranged.
+
+\item {\dn "si.sya.h} "si.sya.h (male): student.
+
+  {\dn "si.sye.na} "si.sye.na (instrumental case, 3): using a/the student.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 4}
+
+\begin{tabular}{llll}
+  1a&{\dn atra}&a|tra&here\\
+  &&&\\
+  &{\dn "suuraa}&"suu|raa&heros\\
+  &&&\\
+  &{\dn mahe.svaasaa}&ma|he.s|vaa|saa&mahaa + i.svaasa\\
+  &&&= {\dn mahaa} + {\dn i.svaasa}\\
+  &&&= big + archers\\ \hline
+  &&&\\
+  1b&{\dn bhiimaarjunasamaa}&bhii|maar|ju|na|sa|maa&bhiima + arjuna + samaa\\
+  &&&= {\dn bhiima} + {\dn arjuna} + {\dn samaa}\\
+  &&&= Bhiima + Arjuna + equal\\
+  &&&\\
+  &{\dn yudhi}&yu|dhi&at a/the fight\\ \hline
+  &&&\\
+  2a&{\dn yuyodhaano}&yu|yo|dhaa|no&Yuyudhaana\\
+  &&&\\
+  &{\dn viraa.ta"sca}&vi|raa|.ta"s|ca&viraa.ta.h + ca\\
+  &&&= {\dn viraa.ta.h} + {\dn ca}\\
+  &&&= Viraa.ta + and\\ \hline
+  &&&\\
+  2b&{\dn drupada"sca}&dru|pa|da"s|ca&drupada.h + ca\\
+  &&&= {\dn drupada.h} + {\dn ca}\\
+  &&&= Drupada + and\\
+  &&&\\
+  &{\dn mahaaratha.h}&ma|jaa|ra|tha|.h(a)&mahaa + ratha.h\\
+  &&&= {\dn mahaa} + {\dn ratha.h}\\
+  &&&= big + chariot\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Here are big archer heros equal to Bhiima and Arjuna, at the fight:
+Yuyudhaana, Viraata, and Drupada, and a big chariot.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item {\dn "suura.h} "suura.h (male): hero.
+
+  {\dn "suuraa.h} "suuraa.h (plural): heros.
+
+\item {\dn i.svaasa.h} i.svaasa.h (male): archer.
+
+\item {\dn sama} sama (adjective): equal.
+
+  {\dn samaa.h} samaa.h (plural): equal.
+
+\item {\dn yudh} yudh (female): a fight.
+
+  {\dn yudhi} yudhi (locative case, 7): at a/the fight.
+
+\item  Drupada is a male god.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 5}
+
+\begin{tabular}{llll}
+  1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r.s|.ta|ke|tu"s|&\\
+  &&ce|ki|taa|na|.h(a)&dh.r.s.taketu.h + cekitaana.h\\
+  &&&= {\dn dh.r.s.taketu.h} + {\dn cekitaana.h}\\
+  &&&= Dh.r.s.taketu + Cekitaana\\ \hline
+  &&&\\
+  1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|ca&kaa"siraaja.h + ca\\
+  &&&= {\dn kaa"siraaja.h} + {\dn ca}\\
+  &&&= Kaa"siraaja + and\\
+  &&&\\
+  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
+  &&&\\
+  2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&\\
+  &&kun|ti|bhos|ja"s|ca&purujit + kuntibhoja.h + ca\\
+  &&&= {\dn purujit} + {\dn kuntibhoja.h} + {\dn ca}\\
+  &&&= Purujit + Kuntibhoja + and\\ \hline
+  &&&\\
+  2b&{\dn "saibya"sca}&"sai|bya"s|ca&"saibya.h + ca\\
+  &&&= {\dn "saibya.h} + {\dn ca}\\
+  &&&= Saibya + and\\
+  &&&\\
+  &{\dn narapu~ngava.h}&na|ra|pu\~{}n|ga|va|.h(a)&nara.h + pu\~{}ngava.h\\
+  &&&= {\dn nara.h} + {\dn pu~ngava.h}\\
+  &&&= man + best\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Dh.r.s.taketu, Cekitaana, and Kaa"siraaja are very powerful. Purujit,
+Kuntibhoja, and Saibya are a best man.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item You can put {\dn ca} ca after a list of nouns, or between every
+  pair of consecutive nouns in a list. Here, possibly the {\dn ca} at
+  the end of Line 2a was put there to make the text sound good.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 6}
+
+\begin{tabular}{llll}
+  1a&{\dn yudhaamanyu"sca}&yu|dhaa|man|yu"s|ca&yudhaamanyu.h + ca\\
+  &&&= {\dn yudhaamanyu.h} + {\dn ca}\\
+  &&&= Yudhaamanyu + and\\
+  &&&\\
+  &{\dn vikraanta}&vi|kraan|ta&strong\\ \hline
+  &&&\\
+  1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|ca&uttamaujaa.h + ca\\
+  &&&= {\dn uttamaujaa.h} + {\dn ca}\\
+  &&&= Uttamaujaa + and\\
+  &&&\\
+  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
+  &&&\\
+  2a&{\dn saubhadro}&sau|bha|dro&son of Subhadraa\\
+  &&&\\
+  &{\dn draupadeyaa"sca}&drau|pa|de|yaa"s|ca&draupadeyaa.h + ca\\
+  &&&= {\dn draupadeyaa.h} + {\dn ca}\\
+  &&&= sons of Draupadii and\\ \hline
+  &&&\\
+  2b&{\dn sarva}&sar|va&all\\
+  &&&\\
+  &{\dn eva}&e|va&really\\
+  &&&\\
+  &{\dn mahaarathaa.h}&ma|haa|ra|thaa|.h(aa)& mahaa + ratha.h\\
+  &&&= {\dn mahaa} + {\dn ratha.h}\\
+  &&&= big chariots\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Strong Yudhaamanyu, very powerful Uttamaujaa, the son of Subhadraa,
+and the sons of Draupadii, are all really big chariots (chariot
+warriors).
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 7}
+
+\begin{tabular}{llll}
+  1a&{\dn asmaakam}&as|maa|kam&our\\
+  &&&\\
+  &{\dn tu}&tu&but\\
+  &&&\\
+  &{\dn vi"si.s.taa}&vi|"si.s|.taa&excellent\\
+  &&&\\
+  &{\dn ye}&ye&who\\ \hline
+  &&&\\
+  1b&{\dn taannibodha}&taan|ni|bo|dha&taan + nibodha\\
+  &&&= {\dn taan} + {\dn nibhodha}\\
+  &&&= them + consider\\
+  &&&\\
+  &{\dn dvijottama}&dvi|jot|ta|ma&dvija + uttama\\
+  &&&= {\dn dvija} + {\dn uttama}\\
+  &&&= O Brahman + O excellent\\ \hline
+  &&\\\
+  2a&{\dn naayakaa}&naa|ya|kaa&naayakaa.h\\
+  &&&= {\dn naayakaa.h}\\
+  &&&= captains\\
+  &&&\\
+  &{\dn mama}&ma|ma&my\\
+  &&&\\
+  &{\dn sainyasya}&sai|nya|sya&solider's\\ \hline
+  &&&\\
+  2b&{\dn samj~naartham}&sam|j\~{}naar|tham&samj\~{}naa + artham\\
+  &&&= {\dn samj\~{}naa} + {\dn artham}\\
+  &&&= ? + meanings\\
+  &&&\\
+  &{\dn taanbraviimite}&taan|bra|vii|mi|te&taan + braviimi + te\\
+  &&&= {\dn taan} + {\dn braviimi} + {\dn te}\\
+  &&&= them + I speak + to you\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+But, consider them, our excellent ones, who are my solider's captains;
+I speak to you about them and their meaning.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+  \item {\dn nibudh} nibudh: to consider.
+
+  \item {\dn naayaka.h} naayaka.h (male): captain.
+
+  \item {\dn sainya.h} sainya.h (male): soldier.
+
+  \item {\dn bruu} bruu: to speak.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 8}
+
+\begin{tabular}{llll}
+  1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|bhii.s|ma"s|ca&bhavaan + bhii.sma.h + ca\\
+  &&&= {\dn bhavaan} + {\dn bhii.sma.h} + {\dn ca}\\
+  &&&= you + Bhii.sma + and\\
+  &&&\\
+  &{\dn kar.na"sca}&kar|.na"s|ca&kar.na.h + ca\\
+  &&&= {\dn kar.na.h} + {\dn ca}\\
+  &&&= Kar.na + and\\ \hline
+  &&&\\
+  1b&{\dn k.rpa"sca}&k.r|pa"s|ca&k.rpa.h + ca\\
+  &&&= {\dn k.rpa.h} + {\dn ca}\\
+  &&&= K.rpa + and\\
+  &&&\\
+  &{\dn samiti.mjaya.h}&sai|mi|ti.m|ja|ya|.h(a)&saimitim + jaya.h\\
+  &&&= {\dn saimitim} + {\dn jaya.h}\\
+  &&&= always + victorious\\ \hline
+  &&&\\
+  2a&{\dn a"svatthaamaa}&a"s|vat|thaa|maa&A"svatthaamaa\\
+  &&&\\
+  &{\dn vikar.na"sca}&vi|kar|.na"s|ca&vikar.na.h + ca\\
+  &&&= {\dn vikar.na.h} + {\dn ca}\\
+  &&&= Vikar.na + and\\ \hline
+  &&&\\
+  2b&{\dn saumadattistathaiva}&sau|ma|dat|tis|ta|thai|va&saumadatti.h + tathaa + eva\\
+  &&&= {\dn saumadatti.h} + {\dn tathaa} + {\dn eva}\\
+  &&&= son of Saumadatta + so + really\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.na, and the son of Sumadatta are so (victorious), really.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+\clearpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 9}
+
+\begin{tabular}{llll}
+  1a&{\dn anye}&an|ye&others\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn bahava.h}&ba|ha|va|ha&many\\
+  &&&\\
+  &{\dn "suuraa}&"suu|raa&"suuraa.h\\
+  &&&= {\dn "suuraa.h}\\
+  &&&= heroes\\ \hline
+  &&&\\
+  1b&{\dn madarthe}&ma|dar|the&me(?) + arthe\\
+  &&&= {\dn me} + {\dn arthe}\\
+  &&&= for me + for the sake of\\
+  &&&\\
+  &{\dn tyaktajiivitaa.h}&tyak|ta|&\\
+  &&jii|vi|taa|.h(aa)&tyakta + jiivitam\\
+  &&&= {\dn tyakta} + {\dn jiivitam}\\
+  &&&= abandoned + life\\ \hline
+  &&&\\
+  2a&{\dn naanaa"sastraprahara.naa.h}&naa|naa|"sa|stra|&\\
+  &&pra|ha|ra|.naa|.h(aa)&naanaa + "sastra + prahara.naa.h\\
+  &&&= various + weapon + weapons\\ \hline
+  &&&\\
+  2b&{\dn sarve}&sar|ve&all\\
+  &&&\\
+  &{\dn yuddhavi"saaradaa.h}&yud|dha|&\\
+  &&vi|"saa|ra|daa|.h(aa)&yuddha + vi"saaradaa.h\\
+  &&&= war + experienced\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Others and many heroes, for the sake of me, abandoned life. All have
+various weapons and war experience.
+
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+\clearpage
+% ------------------------------------------------------------------------------
+\end{document}
