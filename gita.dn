@@ -617,10 +617,11 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
 \section*{Chapter 1, Verse 5}
 
 \begin{tabular}{llll}
-  1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r.s|.ta|ke|tu"s|&\\
-  &&ce|ki|taa|na|.h(a)&dh.r.s.taketu.h + cekitaana.h\\
+  1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r.s|.ta|ke|tu"s|&dh.r.s.taketu.h\\
+  &&ce|ki|taa|na|.h(a)&+ cekitaana.h\\
   &&&= {\dn dh.r.s.taketu.h} + {\dn cekitaana.h}\\
-  &&&= Dh.r.s.taketu + Cekitaana\\ \hline
+  &&&= Dh.r.s.taketu\\
+  &&&+ Cekitaana\\ \hline
   &&&\\
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|ca&kaa"siraaja.h + ca\\
   &&&= {\dn kaa"siraaja.h} + {\dn ca}\\
@@ -628,10 +629,15 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
   &&&\\
-  2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&\\
-  &&kun|ti|bhos|ja"s|ca&purujit + kuntibhoja.h + ca\\
-  &&&= {\dn purujit} + {\dn kuntibhoja.h} + {\dn ca}\\
-  &&&= Purujit + Kuntibhoja + and\\ \hline
+  2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
+  &&kun|ti|bhos|ja"s|&+ kuntibhoja.h\\
+  &&ca&+ ca\\
+  &&&= {\dn purujit}\\
+  &&&+ {\dn kuntibhoja.h}\\
+  &&&+ {\dn ca}\\
+  &&&= Purujit\\
+  &&&+ Kuntibhoja\\
+  &&&+ and\\ \hline
   &&&\\
   2b&{\dn "saibya"sca}&"sai|bya"s|ca&"saibya.h + ca\\
   &&&= {\dn "saibya.h} + {\dn ca}\\
@@ -759,7 +765,8 @@ I speak to you about them and their meaning.
 \section*{Chapter 1, Verse 8}
 
 \begin{tabular}{llll}
-  1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|bhii.s|ma"s|ca&bhavaan + bhii.sma.h + ca\\
+  1a&{\dn bhavaanbhii.sma"sca}&bha|vaan&bhavaan\\
+  &&bhii.s|ma"s|ca&+ bhii.sma.h + ca\\
   &&&= {\dn bhavaan} + {\dn bhii.sma.h} + {\dn ca}\\
   &&&= you + Bhii.sma + and\\
   &&&\\
@@ -771,7 +778,8 @@ I speak to you about them and their meaning.
   &&&= {\dn k.rpa.h} + {\dn ca}\\
   &&&= K.rpa + and\\
   &&&\\
-  &{\dn samiti.mjaya.h}&sai|mi|ti.m|ja|ya|.h(a)&saimitim + jaya.h\\
+  &{\dn samiti.mjaya.h}&sai|mi|ti.m&saimitim\\
+  &&|ja|ya|.h(a)&+ jaya.h\\
   &&&= {\dn saimitim} + {\dn jaya.h}\\
   &&&= always + victorious\\ \hline
   &&&\\
@@ -781,9 +789,11 @@ I speak to you about them and their meaning.
   &&&= {\dn vikar.na.h} + {\dn ca}\\
   &&&= Vikar.na + and\\ \hline
   &&&\\
-  2b&{\dn saumadattistathaiva}&sau|ma|dat|tis|ta|thai|va&saumadatti.h + tathaa + eva\\
+  2b&{\dn saumadattistathaiva}&sau|ma|dat|&saumadatti.h\\
+  &&tis|ta|thai|va&+ tathaa + eva\\
   &&&= {\dn saumadatti.h} + {\dn tathaa} + {\dn eva}\\
-  &&&= son of Saumadatta + so + really\\
+  &&&= son of Saumadatta\\
+  &&&+ so + really\\
   &&&\\
   &{\dn ca}&ca&and\\
 \end{tabular}
