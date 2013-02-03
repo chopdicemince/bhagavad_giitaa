@@ -1049,4 +1049,73 @@ instruments really simultaneously sounded. That sound was tumultuous.
 \subsection*{Notes}
 \clearpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 14}
+
+\begin{tabular}{llll}
+  1a&{\dn tata.h}&ta|ta|.h(a)&then\\
+  &&&\\
+  &{\dn "svetairhayairyukte}&"sve|tair|&"svetai.h = {\dn "sveti.h} = with white\\
+  &&&\\
+  &&ha|yair|&hayai.h = {\dn hayai.h} = with horses\\
+  &&&\\
+  &&yuk|te&yukte = {\dn yukte} = in a yoke\\ \hline
+  &&&\\
+  1b&{\dn mahati}&ma|ha|ti&to honor\\
+  &&&\\
+  &{\dn syandane}&syan|da|ne&in a chariot\\
+  &&&\\
+  &{\dn sthitau}&sthi|tau&near\\ \hline
+  &&&\\
+  2a&{\dn maadhava.h}&maa|dha|va|.h(a)&K.r.s.na\\
+  &&&\\
+  &{\dn paa.n.dava"scaiva}&paa.n|.da|va"s|&Arjuna\\
+  &&&\\
+  &&cai|&ca = {\dn ca} = and\\
+  &&&\\
+  &&va&eva = {\dn eva} = really\\ \hline
+  &&&\\
+  2b&{\dn divyau}&div|yau&divine (dual form)\\
+  &&&\\
+  &{\dn "sa~nkhau}&"sa\~{}n|khau&two conch shells\\
+  &&&\\
+  &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&sounded\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Then, with white horses in a yoke, honored in a chariot nearby,
+K.r.s.na and Arjuna really sounded two divine conch shells.
+\clearpage
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item Male adjective: {\dn "sveta.h} = "sveta.h = white.
+
+  Plus plural: {\dn "svetaa.h} = "svetaa.h = white.
+
+  Plus instrumental case, 3: {\dn "svetai.h} = "svetai.h = with white.
+
+\item Male noun: {\dn haya.h} = haya.h = horse.
+
+  Plus plural: {\dn hayaa.h} = hayaa.h = horses.
+
+  Plus instrumental case, 3: {\dn hayai.h} = hayai.h = with horses.
+
+\item Neuter noun: {\dn yuktam} = yuktam = yoke.
+
+  Plus locative case, 7: {\dn yukte} = yukte = in a yoke.
+
+\item Male noun: {\dn syandana.h} = syandana.h = chariot.
+
+  Plus locative case, 7: {\dn syandane} = syandane = in a chariot.
+
+\item Male noun: {\dn "sa~nkha.h} = "sa\~{}nkha.h = conch shell.
+
+  Plus dual: {\dn "sa~nkhau} = "sa\~{}nkhau = two conch shells.
+
+\end{itemize}
+\clearpage
+% ------------------------------------------------------------------------------
 \end{document}
