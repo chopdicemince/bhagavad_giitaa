@@ -364,15 +364,15 @@ medium-level translations are good for learning Sanskrit.
 \section*{Chapter 1, Verse 1}
 
 \begin{tabular}{llll}
-  0&{\dn d.rtaraa.s.tra}&d.r|ta|raa|.s.tra&D.rtaraa.s.tra\\
+  0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&said\\ \hline
   &&&\\
-  1a&{\dn dharmak.setre}&dhar|ma|k.se|tre&dharma + k.setre\\
+  1a&{\dn dharmak.setre}&dhar|mak|.se|tre&dharma + k.setre\\
   &&&= {\dn dharma} + {\dn k.setre}\\
   &&&= devotion + at place\\
   &&&\\
-  &{\dn kuruk.setre}&ku|ru|k.se|tre&kuruk + k.setre\\
+  &{\dn kuruk.setre}&ku|ruk|.se|tre&kuruk + k.setre\\
   &&&= {\dn kuruk} + {\dn k.setre}\\
   &&&= Kuruk + at place\\ \hline
   &&&\\
@@ -639,7 +639,7 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
   &&&+ Kuntibhoja\\
   &&&+ and\\ \hline
   &&&\\
-  2b&{\dn "saibya"sca}&"sai|bya"s|ca&"saibya.h + ca\\
+  2b&{\dn "saibya"sca}&"saib|ya"s|ca&"saibya.h + ca\\
   &&&= {\dn "saibya.h} + {\dn ca}\\
   &&&= Saibya + and\\
   &&&\\
@@ -730,7 +730,7 @@ warriors).
   &&&\\
   &{\dn mama}&ma|ma&my\\
   &&&\\
-  &{\dn sainyasya}&sai|nya|sya&solider's\\ \hline
+  &{\dn sainyasya}&sain|yas|ya&solider's\\ \hline
   &&&\\
   2b&{\dn samj~naartham}&sam|j\~{}naar|tham&samj\~{}naa + artham\\
   &&&= {\dn samj\~{}naa} + {\dn artham}\\
