@@ -348,11 +348,9 @@ pages that face each other. The left page has a table:
 
 \end{itemize}
 
-Below the table is a medium-level translation, which puts the
+The right page has a medium-level translation, which puts the
 low-level translations into a sentence, without changing the word
-order much.
-
-The right page has notes, if any.
+order much. The right page also has notes.
 
 We do not have a high-level translation, which might involve greatly
 rewriting the medium-level translation. Possibly the low-level and
@@ -394,13 +392,13 @@ medium-level translations are good for learning Sanskrit.
   &&&\\
   &{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 D.rtaraa.s.tra said, ``At the devotion place, at the Kuruk place,
 together, and wanting to fight, are my male Paa.n.davaas. Really, what
 did they do, Sa\~{}njaya?''
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -455,13 +453,13 @@ did they do, Sa\~{}njaya?''
   &&&\\
   &{\dn abraviit}&a|bra|viit&said\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Sa\~{}njaya said: ``But, having seen the Paa.n.davaa army arranged,
 King Duryodhana then was approaching the teacher. The kings said
 something.''
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -517,12 +515,12 @@ something.''
   &&&\\
   &{\dn dhiimataa}&dhii|ma|taa&wise\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 See these Paa.ndu's sons, O teacher---a big army, arranged, using
 Drupada's son, your wise student.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -584,12 +582,12 @@ Drupada's son, your wise student.
   &&&= {\dn mahaa} + {\dn ratha.h}\\
   &&&= big + chariot\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Here are big archer heros equal to Bhiima and Arjuna, at the fight:
 Yuyudhaana, Viraata, and Drupada, and a big chariot.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -647,12 +645,12 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
   &&&= {\dn nara.h} + {\dn pu~ngava.h}\\
   &&&= man + best\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Dh.r.s.taketu, Cekitaana, and Kaa"siraaja are very powerful. Purujit,
 Kuntibhoja, and Saibya are a best man.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -694,13 +692,13 @@ Kuntibhoja, and Saibya are a best man.
   &&&= {\dn mahaa} + {\dn ratha.h}\\
   &&&= big chariots\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Strong Yudhaamanyu, very powerful Uttamaujaa, the son of Subhadraa,
 and the sons of Draupadii, are all really big chariots (chariot
 warriors).
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -740,12 +738,12 @@ warriors).
   &&&= {\dn taan} + {\dn braviimi} + {\dn te}\\
   &&&= them + I speak + to you\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 But, consider them, our excellent ones, who are my solider's captains;
 I speak to you about them and their meaning.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -797,11 +795,11 @@ I speak to you about them and their meaning.
   &&&\\
   &{\dn ca}&ca&and\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.na, and the son of Sumadatta are so (victorious), really.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -838,13 +836,12 @@ You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.
   &&vi|"saa|ra|daa|.h(aa)&yuddha + vi"saaradaa.h\\
   &&&= war + experienced\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Others and many heroes, for the sake of me, abandoned life. All have
 various weapons and war experience.
-
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -879,13 +876,13 @@ various weapons and war experience.
   &&&= {\dn bhii.ma} + {\dn abhirak.sitam}\\
   &&&= Bhii.ma + protected\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Not enough (without limit) is our strength, which is protected by
 Bhii.sma. But enough (limited) is this strengh of them (the
 Paa.n.davas), which is protected by Bhiima.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -925,11 +922,11 @@ Paa.n.davas), which is protected by Bhiima.
   &&&\\
   &{\dn hi}&hi&surely\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 At the main points, and at all places, because of (the) division (of your military forces), ready for Bhii.sma, really
 providing protection, you all really, surely, (are).
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -976,13 +973,13 @@ providing protection, you all really, surely, (are).
   &&&\\
   &{\dn prataapavaan}&pra|taa|pa|vaan&powerful one\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Uniting his (Duryodhana's) happiness, the Kuru (dynasty's) old man and
 paternal grandfather (named Bhii.sma), made a lion sound and roared
 loudly---the conch shell was blown by the powerful one (Bhii.sma).
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -1039,12 +1036,12 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&\\
   &&bha|vat&abhavat = {\dn abhavat} = was\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Then conch shells, a kettle drum, small drums, and some kinds of
 instruments really simultaneously sounded. That sound was tumultuous.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -1080,12 +1077,12 @@ instruments really simultaneously sounded. That sound was tumultuous.
   &&&\\
   &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&sounded\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Then, with white horses in a yoke, honored in a chariot nearby,
 K.r.s.na and Arjuna really sounded two divine conch shells.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -1153,6 +1150,7 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
   &&&= {\dn v.rka.h} + {\dn udaram}\\
   &&&= wolf + stomach\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1161,7 +1159,6 @@ Devadatta (Arjuna's conch shell) was blown by Arjuna, and Pau.n.dra
 (Bhiima's conch shell), a big conch shell, was blown by Bhiima, (who
 was a person) of action and (a person) with a wolf stomach (he could
 eat at lot).
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -1196,13 +1193,13 @@ eat at lot).
   &&&= the name of a conch shell\\
   &&&(dual form)
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Anantavijaya (a conch shell), was blown by the king, Kuntii's son:
 Yudhi.s.thira. Nakula and Sahedeva blew (the two conch shells)
 Sugho.sa and Ma.nipu.spaka.
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
@@ -1255,6 +1252,7 @@ Sugho.sa and Ma.nipu.spaka.
   &&&= {\dn aparaajita.h}\\
   &&&= undefeated\\
 \end{tabular}
+\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1262,8 +1260,6 @@ The king of Kaa"sii, the best archer; "Skiha.n.dii, a big warrior;
 Dh.r.s.tadyumna (a son of King Drupada); Viraa.ta (a prince who helped
 the Paa.n.davas); Saatyaki (the charioteer of Lord K.r.s.na), an
 undefeated one...
-
-\clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 \clearpage
