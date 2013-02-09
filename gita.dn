@@ -462,9 +462,13 @@ did they do, Sa\~{}njaya?''
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\\
-  &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|nii|ka.m&paa.n.da.vaa + aniikam\\
-  &&&= {\dn paa.n.davaa} + {\dn aniikam}\\
-  &&&= Paa.n.davaa + army\\ \hline
+  &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|&paa.n.da.vaa\\
+  &&&= {\dn paa.n.davaa}\\
+  &&&= Paa.n.davaa\\
+  &&&\\
+  &&nii|ka.m&aniikam\\
+  &&&= {\dn aniikam}\\
+  &&&= army\\ \hline
   &&&\\
   1b&{\dn vyuu.dha.m}&vyuu|.dha.m&arranged\\
   &&&\\
@@ -474,7 +478,7 @@ did they do, Sa\~{}njaya?''
   &&&\\
   2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
   &&&\\
-  &{\dn upasa"ngamya}&u|pa|sa\~{}n|gam|ya&approaching\\ \hline
+  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&approaching\\ \hline
   &&&\\
   2b&{\dn raajaa}&raa|jaa&kings\\
   &&&\\
@@ -494,23 +498,30 @@ something.''
 
 \begin{itemize}
 
-\item {\dn d.r.s.t} d.r.s.t: to see.
+\item Verb: {\dn d.r.s.t} = d.r.s.t = to see.
 
-\item {\dn aniika.h} aniika.h (male): army.
+  Plus present perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa =
+  having seen.
 
-  {\dn aniikam} aniikam (accusative case, 2): army.
+\item Male noun: {\dn aniika.h} = aniika.h = army.
 
-\item {\dn aacaarya.h} aacaarya.h (male): teacher.
+  Plus accusative case, 2: {\dn aniikam} = aniikam = army.
 
-  {\dn aacaaryam} aacaaryam (accusative case, 2): teacher.
+\item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
 
-\item {\dn raaja.h} raaja.h (male): king.
+  Plus accusative case, 2: {\dn aacaaryam} = aacaaryam = teacher.
 
-  {\dn raajaa.h} raajaa.h (plural): kings.
+\item Male noun: {\dn raaja.h} = raaja.h = king.
+
+  Plus plural: {\dn raajaa.h} = raajaa.h = kings.
 
   The text uses ``kings'' instead of ``king.'' I do not know why.
 
-\item {\dn vacanam} vacanam (neuter): something spoken.
+\item Neuter noun: {\dn vacanam} = vacanam = something spoken.
+
+\item Verb: {\dn bruu} = bruu = to say.
+
+  Plus past tense: {\dn abraviit} = abraviit = said.
 
 \end{itemize}
 \clearpage
