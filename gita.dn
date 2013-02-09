@@ -363,40 +363,52 @@ medium-level translations are good for learning Sanskrit.
 
 \begin{tabular}{llll}
   0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
+  &&&(the name of a king)\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&said\\ \hline
   &&&\\
-  1a&{\dn dharmak.setre}&dhar|mak|.se|tre&dharma + k.setre\\
-  &&&= {\dn dharma} + {\dn k.setre}\\
-  &&&= devotion + at place\\
+  1a&{\dn dharmak.setre}&dhar|ma|&dharma.h\\
+  &&&= {\dn dharma.h}\\
+  &&&= devotion\\
   &&&\\
-  &{\dn kuruk.setre}&ku|ruk|.se|tre&kuruk + k.setre\\
-  &&&= {\dn kuruk} + {\dn k.setre}\\
-  &&&= Kuruk + at place\\ \hline
+  &&k.se|tre&at a/the place\\
   &&&\\
-  1b&{\dn samavetaa}&sa|ma|ve|taa&together\\
+  &{\dn kuruk.setre}&ku|ru|&Kuru\\
+  &&&\\
+  &&k.se|tre&at a/the place\\ \hline
+  &&&\\
+  1b&{\dn samavetaa}&sa|ma|ve|taa&samavetaa.h\\
+  &&&= {\dn samavetaa.h}\\
+  &&&= together\\
   &&\\
   &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&wanting to fight\\ \hline
   &&&\\
-  2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&maama + kaa.h\\
-  &&&= {\dn maama} + {\dn kaa.h}\\
-  &&&= my + males\\
+  2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&my\\
   &&&\\
-  &{\dn paa.n.davaa"scaiva}&paa.n|.da|vaa"s|cai|va&paa.n.davaa.h + ca + eva\\
-  &&&= {\dn paa.n.davaa.h} + {\dn ca} + {\dn eva}\\
-  &&&= Paa.ndavaas + and + really\\ \hline
+  &{\dn paa.n.davaa"scaiva}&paa.n|.da|vaa"s|&paa.n.davaa.h\\
+  &&&= {\dn paa.n.davaa.h}\\
+  &&&= Paa.ndavaas\\
+  &&&(the five sons of Paa.n.du)\\
   &&&\\
-  2b&{\dn kimakurvata}&ki|ma|kur|va|ta&kim + akurvata\\
-  &&&= {\dn kim} + {\dn akurvata}\\
-  &&&= what + did they do\\
+  &&cai|&ca = {\dn ca} = and\\
+  &&&\\
+  &&va&eva = {\dn eva} = really\\ \hline
+  &&&\\
+  2b&{\dn kimakurvata}&ki|ma|&kim = {\dn kim} = what\\
+  &&&\\
+  &&kur|va|ta&akurvata\\
+  &&&= {\dn akurvata}\\
+  &&&= they did\\
   &&&\\
   &{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&(the name of a\\
+  &&&secretary of the king)
 \end{tabular}
 \clearpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-D.rtaraa.s.tra said, ``At the devotion place, at the Kuruk place,
+(King) D.rtaraa.s.tra said, ``At the devotion place, at the Kuru place,
 together, and wanting to fight, are my male Paa.n.davaas. Really, what
 did they do, Sa\~{}njaya?''
 % ------------------------------------------------------------------------------
@@ -404,20 +416,37 @@ did they do, Sa\~{}njaya?''
 
 \begin{itemize}
 
-\item D.rtaraa.s.tra is the name of a king.
+\item D.rtaraa.s.tra was the son of king, and he had a brother named
+  Paa.n.du. D.rtaraa.s.tra was blind from birth, so Paa.n.du became
+  king.
 
-\item {\dn vad} vad: to say.
+  Paa.n.du died, and his five sons, called Paa.n.davaas, became
+  kings. The Paa.n.davaas are the good guys.
 
-\item {\dn dharma.h} dharma.h (male): devotion.
+  D.rtaraa.s.tra had one hundred sons. Duryodhana was the oldest. He
+  wanted to be king. He is a bad guy.
 
-\item {\dn k.setram} k.setram (neuter): place.
+\item Verb: {\dn vad} = vad = to say.
 
-  {\dn k.setre} k.setre (locative case, 7): at a/the place.
+  Plus past tense: {\dn uvaaca} = uvaaca = he/she/it said.
 
-\item {\dn samavetaa.h} samavetaa.h (plural adjective): together.
+\item Male noun: {\dn dharma.h} = dharma.h = devotion.
 
-\item {\dn sa~njaya} sa\~{}njaya: Sa\~{}njaya is a secretary of King
-  D.rtaraa.s.tra.
+\item Neuter noun: {\dn k.setram} = k.setram = place.
+
+  Plus locative case, 7: {\dn k.setre} = k.setre = at a/the place.
+
+\item Male adjective: {\dn samaveta.h} = samaveta.h = together.
+
+  Plus plural: {\dn samavetaa.h} = samavetaa.h = together.
+
+\item Male adjective: {\dn maamaka.h} = maamaka.h = my.
+
+  Plus plural: {\dn maamakaa.h} = maamakaa.h = my.
+
+\item Verb: {\dn k.r} = k.r = to do.
+
+  Plus past tense: {\dn akurvata} = akurvata = they did.
 
 \end{itemize}
 \clearpage
