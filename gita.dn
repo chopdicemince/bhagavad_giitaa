@@ -529,13 +529,21 @@ something.''
 \section*{Chapter 1, Verse 3}
 
 \begin{tabular}{llll}
-  1a&{\dn pa"syaitaam}&pa"s|yai|taam&pa"syatu + etaam\\
-  &&&= {\dn pa"syatu} + {\dn etaam}\\
-  &&&= see + these\\
+  1a&{\dn pa"syaitaam}&pa"s|yai|&pa"syatu\\
+  &&&= {\dn pa"syatu}\\
+  &&&= see\\
   &&&\\
-  &{\dn paa.n.duputraa.naam}&paa.n|.du|pu|traa|.naam&paa.n.du + putraa.naam\\
-  &&&= {\dn paa.n.du} + {\dn putraam}\\
-  &&&= Paa.n.du + sons\\ \hline
+  &&taam&etaam\\
+  &&&= {\dn etaam}\\
+  &&&= these\\
+  &&&\\
+  &{\dn paa.n.duputraa.naam}&paa.n|.du|&paa.n.du\\
+  &&&= {\dn paa.n.du}\\
+  &&&= Paa.n.du\\
+  &&&\\
+  &&pu|traa|.naam&putraa.naam\\
+  &&&= {\dn putraam}\\
+  &&&= sons\\ \hline
   &&&\\
   1b&{\dn aacaarya}&aa|caar|ya&teacher\\
   &&&\\
@@ -545,9 +553,13 @@ something.''
   &&&\\
   2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&arranged\\
   &&&\\
-  &{\dn drupadaputre.na}&dru|pa|da|pu|tre|.na&drupada + putre.na\\
-  &&&= {\dn drupada} + {\dn putre.na}\\
-  &&&= Drupada + using son\\ \hline
+  &{\dn drupadaputre.na}&dru|pa|da|&drupada\\
+  &&&= {\dn drupada}\\
+  &&&= Drupada\\
+  &&&\\
+  &&pu|tre|.na&putre.na\\
+  &&&= {\dn putre.na}\\
+  &&&= using son\\ \hline
   &&&\\
   2b&{\dn tava}&ta|va&your\\
   &&&\\
@@ -559,34 +571,40 @@ something.''
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-See these Paa.ndu's sons, O teacher---a big army, arranged, using
+See these Paa.n.du's sons, O teacher---a big army, arranged, using
 Drupada's son, your wise student.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
-\item {\dn pa"syatu} pa"syatu (imperative tense, singular): see.
+\item Verb: {\dn d.r.s.t} = d.r.s.t = to see.
 
-\item {\dn putra.h} putra.h: son.
+  Plus imperative tense, singular form: {\dn pa"syatu} = pa"syatu = see.
 
-  {\dn putre.na} putre.na (instrumental case, 3): using a/the son.
+\item Male noun: {\dn putra.h} = putra.h = son.
 
-  {\dn putraa.h} putraa.h (plural): sons.
+  Plus instrumental case, 3: {\dn putre.na} = putre.na = using a/the son.
 
-  {\dn putraam} putraam (accusative case, 2): sons.
+\item  Male noun, plural: {\dn putraa.h} = putraa.h = sons.
 
-\item {\dn camuu} camuu (female): army.
+  Plus accusative case, 2: {\dn putraam} = putraam = sons.
 
-  {\dn camuum} camuum (accusative case, 2): army.
+\item Female adjective: {\dn mahatii} = mahatii = big.
 
-\item {\dn vyuu.dha} vyuu.dha (adjective): arranged.
+  Plus accusative case, 2: {\dn mahatiim} = mahatiim = big.
 
-  {\dn vyuu.dhaam} vyuu.dhaam (accusative case, 2): arranged.
+\item Female noun: {\dn camuu} = camuu = army.
 
-\item {\dn "si.sya.h} "si.sya.h (male): student.
+  Plus accusative case, 2: {\dn camuum} = camuum = army.
 
-  {\dn "si.sye.na} "si.sye.na (instrumental case, 3): using a/the student.
+\item Female adjective: {\dn vyuu.dhaa} = vyuu.dhaa = arranged.
+
+  Plus accusative case, 2: {\dn vyuu.dhaam} = vyuu.dhaam = arranged.
+
+\item Male noun: {\dn "si.sya.h} = "si.sya.h = student.
+
+  Plus instrumental case, 3: {\dn "si.sye.na} = "si.sye.na = using a/the student.
 
 \end{itemize}
 \clearpage
