@@ -614,58 +614,72 @@ Drupada's son, your wise student.
 \begin{tabular}{llll}
   1a&{\dn atra}&a|tra&here\\
   &&&\\
-  &{\dn "suuraa}&"suu|raa&heros\\
+  &{\dn "suuraa}&"suu|raa&"suuraa.h\\
+  &&&= {\dn "suuraa.h}\\
+  &&&= heros\\
   &&&\\
-  &{\dn mahe.svaasaa}&ma|he.s|vaa|saa&mahaa + i.svaasa\\
-  &&&= {\dn mahaa} + {\dn i.svaasa}\\
-  &&&= big + archers\\ \hline
+  &{\dn mahe.svaasaa}&ma|he.s|&maha\\
+  &&&= {\dn maha}\\
+  &&&= big\\
   &&&\\
-  1b&{\dn bhiimaarjunasamaa}&bhii|maar|ju|na|sa|maa&bhiima + arjuna + samaa\\
-  &&&= {\dn bhiima} + {\dn arjuna} + {\dn samaa}\\
-  &&&= Bhiima + Arjuna + equal\\
+  &&vaa|saa&i.svaasaa.h\\
+  &&&= {\dn i.svaasaa.h}\\
+  &&&= archers\\ \hline
+  &&&\\
+  1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
+  &&&\\
+  &&ju|na|&arjuna = {\dn arjuna} = Arjuna\\
+  &&&\\
+  &&sa|maa&samaa = {\dn samaa} = equal\\
   &&&\\
   &{\dn yudhi}&yu|dhi&at a/the fight\\ \hline
   &&&\\
-  2a&{\dn yuyodhaano}&yu|yo|dhaa|no&Yuyudhaana\\
+  2a&{\dn yuyudhaano}&yu|yu|dhaa|no&Yuyudhaana\\
   &&&\\
-  &{\dn viraa.ta"sca}&vi|raa|.ta"s|ca&viraa.ta.h + ca\\
-  &&&= {\dn viraa.ta.h} + {\dn ca}\\
-  &&&= Viraa.ta + and\\ \hline
+  &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
+  &&&= {\dn viraa.ta.h}\\
+  &&&= Viraa.ta\\
   &&&\\
-  2b&{\dn drupada"sca}&dru|pa|da"s|ca&drupada.h + ca\\
-  &&&= {\dn drupada.h} + {\dn ca}\\
-  &&&= Drupada + and\\
+  &&ca&{\dn ca} = and\\ \hline
   &&&\\
-  &{\dn mahaaratha.h}&ma|jaa|ra|tha|.h(a)&mahaa + ratha.h\\
-  &&&= {\dn mahaa} + {\dn ratha.h}\\
-  &&&= big + chariot\\
+  2b&{\dn drupada"sca}&dru|pa|da"s|&drupada.h\\
+  &&&= {\dn drupada.h}\\
+  &&&= Drupada\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn mahaaratha.h}&ma|haa|&maha\\
+  &&&= {\dn maha}\\
+  &&&= big\\
+  &&&\\
+  &&ra|tha|.h(a)&ratha.h\\
+  &&&= {\dn ratha.h}\\
+  &&&= chariot/warrior\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Here are big archer heros equal to Bhiima and Arjuna, at the fight:
-Yuyudhaana, Viraata, and Drupada, and a big chariot.
+Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
-\item {\dn "suura.h} "suura.h (male): hero.
+\item Male noun: {\dn "suura.h} = "suura.h = hero.
 
-  {\dn "suuraa.h} "suuraa.h (plural): heros.
+\item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
 
-\item {\dn i.svaasa.h} i.svaasa.h (male): archer.
+\item Male adjective: {\dn sama.h} = sama.h = equal.
 
-\item {\dn sama} sama (adjective): equal.
+  Plus plural: {\dn samaa.h} = samaa.h = equal.
 
-  {\dn samaa.h} samaa.h (plural): equal.
+\item Female noun: {\dn yudh} = yudh = fight.
 
-\item {\dn yudh} yudh (female): a fight.
+  Plus locative case, 7: {\dn yudhi} = yudhi = at a/the fight.
 
-  {\dn yudhi} yudhi (locative case, 7): at a/the fight.
-
-\item  Drupada is a male god.
+\item Drupada is a male god.
 
 \end{itemize}
 \newpage
