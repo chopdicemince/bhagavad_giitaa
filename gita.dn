@@ -688,34 +688,44 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
 
 \begin{tabular}{llll}
   1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r.s|.ta|ke|tu"s|&dh.r.s.taketu.h\\
-  &&ce|ki|taa|na|.h(a)&+ cekitaana.h\\
-  &&&= {\dn dh.r.s.taketu.h} + {\dn cekitaana.h}\\
+  &&&= {\dn dh.r.s.taketu.h}\\
   &&&= Dh.r.s.taketu\\
-  &&&+ Cekitaana\\ \hline
   &&&\\
-  1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|ca&kaa"siraaja.h + ca\\
-  &&&= {\dn kaa"siraaja.h} + {\dn ca}\\
-  &&&= Kaa"siraaja + and\\
+  &&ce|ki|taa|na|.h(a)&cekitaana.h\\
+  &&&= {\dn cekitaana.h}\\
+  &&&= Cekitaana\\ \hline
+  &&&\\
+  1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
+  &&&= {\dn kaa"siraaja.h}\\
+  &&&= Kaa"siraaja\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
   &&&\\
   2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
-  &&kun|ti|bhos|ja"s|&+ kuntibhoja.h\\
-  &&ca&+ ca\\
   &&&= {\dn purujit}\\
-  &&&+ {\dn kuntibhoja.h}\\
-  &&&+ {\dn ca}\\
   &&&= Purujit\\
-  &&&+ Kuntibhoja\\
-  &&&+ and\\ \hline
   &&&\\
-  2b&{\dn "saibya"sca}&"saib|ya"s|ca&"saibya.h + ca\\
-  &&&= {\dn "saibya.h} + {\dn ca}\\
-  &&&= Saibya + and\\
+  &&kun|ti|bhos|ja"s|&kuntibhoja.h\\
+  &&&= {\dn kuntibhoja.h}\\
+  &&&= Kuntibhoja\\
   &&&\\
-  &{\dn narapu~ngava.h}&na|ra|pu\~{}n|ga|va|.h(a)&nara.h + pu\~{}ngava.h\\
-  &&&= {\dn nara.h} + {\dn pu~ngava.h}\\
-  &&&= man + best\\
+  &&ca&= {\dn ca} = and\\ \hline
+  &&&\\
+  2b&{\dn "saibya"sca}&"saib|ya"s|&"saibya.h\\
+  &&&= {\dn "saibya.h}\\
+  &&&= Saibya\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn narapu"ngava.h}&na|ra|&nara.h\\
+  &&&= {\dn nara.h}\\
+  &&&= man\\
+  &&&\\
+  &&pu"n|ga|va|.h(a)&pu"ngava.h\\
+  &&&= {\dn pu"ngava.h}\\
+  &&&= best\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
