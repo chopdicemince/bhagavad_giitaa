@@ -113,7 +113,7 @@ might be helpful to look at these two transliterations first. Notice
 how you can easily change an IAST character into a Velthuis
 character. After you are familiar with these transliterations, look at
 the ITRANS or Harvard-Kyoto transliterations.
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Sanskrit alphabet}
 
@@ -152,7 +152,7 @@ the following table, lines separate pairs of vowels.
   15&{\dn .m}&.m&\.{m}&M&M\\
   16&{\dn .h}&.h&\d{h}&H&H\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Sanskrit consonants}
 
@@ -212,7 +212,7 @@ groups. In the following table, lines separate groups of consonants.
   \hline
   33&{\dn h}&ha&ha&ha&ha\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \chapter*{Short introduction to Sanskrit grammar}
 
@@ -357,7 +357,7 @@ rewriting the medium-level translation. Possibly the low-level and
 medium-level translations are good for learning Sanskrit.
 % ------------------------------------------------------------------------------
 \chapter*{Chapter 1}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 1}
 
@@ -404,7 +404,7 @@ medium-level translations are good for learning Sanskrit.
   &&&(the name of a\\
   &&&secretary of the king)
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -449,7 +449,7 @@ did they do, Sa\~{}njaya?''
   Plus past tense: {\dn akurvata} = akurvata = they did.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 2}
 
@@ -486,7 +486,7 @@ did they do, Sa\~{}njaya?''
   &&&\\
   &{\dn abraviit}&a|bra|viit&said\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -524,7 +524,7 @@ something.''
   Plus past tense: {\dn abraviit} = abraviit = said.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 3}
 
@@ -567,7 +567,7 @@ something.''
   &&&\\
   &{\dn dhiimataa}&dhii|ma|taa&wise\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -607,7 +607,7 @@ Drupada's son, your wise student.
   Plus instrumental case, 3: {\dn "si.sye.na} = "si.sye.na = using a/the student.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 4}
 
@@ -640,7 +640,7 @@ Drupada's son, your wise student.
   &&&= {\dn mahaa} + {\dn ratha.h}\\
   &&&= big + chariot\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -668,7 +668,7 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
 \item  Drupada is a male god.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 5}
 
@@ -703,7 +703,7 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot.
   &&&= {\dn nara.h} + {\dn pu~ngava.h}\\
   &&&= man + best\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -719,7 +719,7 @@ Kuntibhoja, and Saibya are a best man.
   the end of Line 2a was put there to make the text sound good.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 6}
 
@@ -750,7 +750,7 @@ Kuntibhoja, and Saibya are a best man.
   &&&= {\dn mahaa} + {\dn ratha.h}\\
   &&&= big chariots\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -759,7 +759,7 @@ and the sons of Draupadii, are all really big chariots (chariot
 warriors).
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 7}
 
@@ -796,7 +796,7 @@ warriors).
   &&&= {\dn taan} + {\dn braviimi} + {\dn te}\\
   &&&= them + I speak + to you\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -816,7 +816,7 @@ I speak to you about them and their meaning.
   \item {\dn bruu} bruu: to speak.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 8}
 
@@ -853,14 +853,14 @@ I speak to you about them and their meaning.
   &&&\\
   &{\dn ca}&ca&and\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.na, and the son of Sumadatta are so (victorious), really.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 9}
 
@@ -894,7 +894,7 @@ You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.
   &&vi|"saa|ra|daa|.h(aa)&yuddha + vi"saaradaa.h\\
   &&&= war + experienced\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -902,7 +902,7 @@ Others and many heroes, for the sake of me, abandoned life. All have
 various weapons and war experience.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 10}
 
@@ -934,7 +934,7 @@ various weapons and war experience.
   &&&= {\dn bhii.ma} + {\dn abhirak.sitam}\\
   &&&= Bhii.ma + protected\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -943,7 +943,7 @@ Bhii.sma. But enough (limited) is this strengh of them (the
 Paa.n.davas), which is protected by Bhiima.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 11}
 
@@ -980,7 +980,7 @@ Paa.n.davas), which is protected by Bhiima.
   &&&\\
   &{\dn hi}&hi&surely\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 At the main points, and at all places, because of (the) division (of your military forces), ready for Bhii.sma, really
@@ -1001,7 +1001,7 @@ providing protection, you all really, surely, (are).
 \item {\dn abhirak.s} abhirak.s: to protect.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 12}
 
@@ -1031,7 +1031,7 @@ providing protection, you all really, surely, (are).
   &&&\\
   &{\dn prataapavaan}&pra|taa|pa|vaan&powerful one\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1051,7 +1051,7 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
 
 \end{itemize}
 
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 13}
 
@@ -1094,7 +1094,7 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&\\
   &&bha|vat&abhavat = {\dn abhavat} = was\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1102,7 +1102,7 @@ Then conch shells, a kettle drum, small drums, and some kinds of
 instruments really simultaneously sounded. That sound was tumultuous.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 14}
 
@@ -1135,7 +1135,7 @@ instruments really simultaneously sounded. That sound was tumultuous.
   &&&\\
   &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&sounded\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1171,7 +1171,7 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
   Plus dual: {\dn "sa"nkhau} = "sa"nkhau = two conch shells.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 15}
 
@@ -1208,7 +1208,7 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
   &&&= {\dn v.rka.h} + {\dn udaram}\\
   &&&= wolf + stomach\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1219,7 +1219,7 @@ was a person) of action and (a person) with a wolf stomach (he could
 eat at lot).
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
 
@@ -1251,7 +1251,7 @@ eat at lot).
   &&&= the name of a conch shell\\
   &&&(dual form)
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1260,7 +1260,7 @@ Yudhi.s.thira. Nakula and Sahedeva blew (the two conch shells)
 Sugho.sa and Ma.nipu.spaka.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 17}
 
@@ -1310,7 +1310,7 @@ Sugho.sa and Ma.nipu.spaka.
   &&&= {\dn aparaajita.h}\\
   &&&= undefeated\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1320,7 +1320,7 @@ the Paa.n.davas); Saatyaki (the charioteer of Lord K.r.s.na), an
 undefeated one...
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 18}
 
@@ -1363,7 +1363,7 @@ undefeated one...
   &&&\\
   &&p.r|thak&{\dn p.rthak} = separately\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1379,7 +1379,7 @@ with big forearms---they blew conch shells separately.
   Plus vocative case, 8: p.rthiviipate = {\dn p.rthiviipate} = O King.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 19}
 
@@ -1414,7 +1414,7 @@ with big forearms---they blew conch shells separately.
   &&&\\
   &&bhya|nu|naa|da|yan&resounding\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1442,7 +1442,7 @@ hearts, the sky, and the earth, and really was a resounding tumult.
 \item Neuter noun: {\dn tumulam} = tumulam = tulmult.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 20}
 
@@ -1491,7 +1491,7 @@ hearts, the sky, and the earth, and really was a resounding tumult.
   &&&\\
   &&pa|te&O master\\
 \end{tabular}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
@@ -1607,6 +1607,6 @@ here.
 \item Female noun: {\dn kaamaa} = kaamaa = want.
 
 \end{itemize}
-\clearpage
+\newpage
 % ------------------------------------------------------------------------------
 \end{document}
