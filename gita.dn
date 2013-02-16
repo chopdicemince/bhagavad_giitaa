@@ -748,41 +748,64 @@ Kuntibhoja, and Saibya are a best man.
 \section*{Chapter 1, Verse 6}
 
 \begin{tabular}{llll}
-  1a&{\dn yudhaamanyu"sca}&yu|dhaa|man|yu"s|ca&yudhaamanyu.h + ca\\
-  &&&= {\dn yudhaamanyu.h} + {\dn ca}\\
-  &&&= Yudhaamanyu + and\\
+  1a&{\dn yudhaamanyu"sca}&yu|dhaa|man|yu"s|&yudhaamanyu.h\\
+  &&&= {\dn yudhaamanyu.h}\\
+  &&&= Yudhaamanyu\\
+  &&&\\
+  &&ca&{\dn ca} = ca\\
   &&&\\
   &{\dn vikraanta}&vi|kraan|ta&strong\\ \hline
   &&&\\
-  1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|ca&uttamaujaa.h + ca\\
-  &&&= {\dn uttamaujaa.h} + {\dn ca}\\
-  &&&= Uttamaujaa + and\\
+  1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|&uttamaujaa.h\\
+  &&&= {\dn uttamaujaa.h}\\
+  &&&= Uttamaujaa\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
   &&&\\
-  2a&{\dn saubhadro}&sau|bha|dro&son of Subhadraa\\
+  2a&{\dn saubhadro}&sau|bha|dro&saubadra.h\\
+  &&&= {\dn saubadra.h}\\
+  &&&= son of Subhadraa\\
   &&&\\
-  &{\dn draupadeyaa"sca}&drau|pa|de|yaa"s|ca&draupadeyaa.h + ca\\
-  &&&= {\dn draupadeyaa.h} + {\dn ca}\\
-  &&&= sons of Draupadii and\\ \hline
+  &{\dn draupadeyaa"sca}&drau|pa|de|yaa"s|&draupadeyaa.h\\
+  &&&= {\dn draupadeyaa.h}\\
+  &&&= sons of Draupadii\\
+  &&&\\
+  &&ca&{\dn ca} = and\\ \hline
   &&&\\
   2b&{\dn sarva}&sar|va&all\\
   &&&\\
   &{\dn eva}&e|va&really\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|ra|thaa|.h(aa)& mahaa + ratha.h\\
-  &&&= {\dn mahaa} + {\dn ratha.h}\\
-  &&&= big chariots\\
+  &{\dn mahaarathaa.h}&ma|haa|&maha\\
+  &&&= {\dn maha}\\
+  &&&= big\\
+  &&&\\
+  &&ra|thaa|.h(aa)&rathaa.h\\
+  &&&= {\dn rathaa.h}\\
+  &&&= chariots/warriors\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 Strong Yudhaamanyu, very powerful Uttamaujaa, the son of Subhadraa,
-and the sons of Draupadii, are all really big chariots (chariot
-warriors).
+and the sons of Draupadii, are all really big warriors.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
+
+\begin{itemize}
+
+\item Male noun: {\dn draupadeya.h} = draupadeya.h = a son of Draupadii.
+
+  Plus plural: {\dn draupadeyaa.h} = draupadeyaa.h = sons of Draupadii.
+
+\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
+
+  Plus plural: {\dn rathaa.h} = rathaa.h = chariots/warriors.
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 7}
