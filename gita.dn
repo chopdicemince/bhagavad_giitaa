@@ -811,7 +811,7 @@ and the sons of Draupadii, are all really big warriors.
 \section*{Chapter 1, Verse 7}
 
 \begin{tabular}{llll}
-  1a&{\dn asmaakam}&as|maa|kam&our\\
+  1a&{\dn asmaaka.m}&as|maa|ka.m&our\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\\
@@ -819,48 +819,81 @@ and the sons of Draupadii, are all really big warriors.
   &&&\\
   &{\dn ye}&ye&who\\ \hline
   &&&\\
-  1b&{\dn taannibodha}&taan|ni|bo|dha&taan + nibodha\\
-  &&&= {\dn taan} + {\dn nibhodha}\\
-  &&&= them + consider\\
+  1b&{\dn taannibodha}&taan|&{\dn taan}\\
+  &&&= them\\
   &&&\\
-  &{\dn dvijottama}&dvi|jot|ta|ma&dvija + uttama\\
-  &&&= {\dn dvija} + {\dn uttama}\\
-  &&&= O Brahman + O excellent\\ \hline
-  &&\\\
+  &&ni|bo|dha&nibodhatu\\
+  &&&= {\dn nibhodhatu}\\
+  &&&= consider\\
+  &&&\\
+  &{\dn dvijottama}&dvi|jot|&dvija\\
+  &&&= {\dn dvija}\\
+  &&&= O Brahman\\
+  &&&\\
+  &&ta|ma&uttama\\
+  &&&= {\dn uttama}\\
+  &&&= O excellent\\ \hline
+  &&&\\\
   2a&{\dn naayakaa}&naa|ya|kaa&naayakaa.h\\
   &&&= {\dn naayakaa.h}\\
   &&&= captains\\
   &&&\\
   &{\dn mama}&ma|ma&my\\
   &&&\\
-  &{\dn sainyasya}&sain|yas|ya&solider's\\ \hline
+  &{\dn sainyasya}&sain|ya|sya&solider's\\ \hline
   &&&\\
-  2b&{\dn samj~naartham}&sam|j\~{}naar|tham&samj\~{}naa + artham\\
-  &&&= {\dn samj\~{}naa} + {\dn artham}\\
-  &&&= ? + meanings\\
+  2b&{\dn sa.mj~naartha.m}&sa.m|j\~{}naar|&sa.mj\~{}naa\\
+  &&&= {\dn sa.mj\~{}naa}\\
+  &&&= ?\\
   &&&\\
-  &{\dn taanbraviimite}&taan|bra|vii|mi|te&taan + braviimi + te\\
-  &&&= {\dn taan} + {\dn braviimi} + {\dn te}\\
-  &&&= them + I speak + to you\\
+  &&tha.m&artha.m\\
+  &&&= {\dn artha.m}\\
+  &&&= meaning\\
+  &&&\\
+  &{\dn taanbraviimite}&taan|&{\dn taan}\\
+  &&&= them\\
+  &&&\\
+  &&bra|vii|mi|&{\dn braviimi}\\
+  &&&= I say\\
+  &&&\\
+  &&te&{\dn te}\\
+  &&&= to you\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-But, consider them, our excellent ones, who are my solider's captains;
-I speak to you about them and their meaning.
+But, our excellent ones, consider them, O excellent Brahman, (they who
+are) my solider's captains. For meaning, about them, I say things to
+you.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
-  \item {\dn nibudh} nibudh: to consider.
+\item Verb: {\dn nibudh} nibudh: to consider.
 
-  \item {\dn naayaka.h} naayaka.h (male): captain.
+  Plus imperative tense and singular form: {\dn nibodhatu} = nibodhatu = consider.
 
-  \item {\dn sainya.h} sainya.h (male): soldier.
+\item Male noun: {\dn dvija.h} = dvija.h = Brahman.
 
-  \item {\dn bruu} bruu: to speak.
+  Plus vocative case, 8: {\dn dvija} = dvija = O Brahman.
+
+\item Male noun: {\dn naayaka.h} = naayaka.h = captain.
+
+  Plus plural form: {\dn naayakaa.h} = naayakaa.h = captains.
+
+\item Male noun: {\dn sainya.h} = sainya.h = soldier.
+
+  Plus genitive case, 6: {\dn sainyasya} = sainyasya = solider's.
+
+\item Male noun: {\dn artha.h} = artha.h = meaning.
+
+  Plus accusative case, 2: {\dn artham} = artham = meaning.
+
+\item Verb: {\dn bruu} bruu: to say.
+
+  Plus present tense and first person form: {\dn braviimi} = braviimi = I say.
 
 \end{itemize}
 \newpage
