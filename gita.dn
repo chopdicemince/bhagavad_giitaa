@@ -4,6 +4,14 @@
 
 \begin{document}
 % ------------------------------------------------------------------------------
+\newcommand{\accusativecase}{accusative case, 2}
+\newcommand{\instrumentalcase}{instrumental case, 3}
+\newcommand{\dativecase}{dative case, 4}
+\newcommand{\ablativecase}{ablative case, 5}
+\newcommand{\genitivecase}{genitive case, 6}
+\newcommand{\locativecase}{locative case, 7}
+\newcommand{\vocativecase}{vocative case, 8}
+% ------------------------------------------------------------------------------
 \title{A Translation of\\The Bhagavad Giitaa}
 \author{Winston C. Yang}
 \maketitle
@@ -434,7 +442,7 @@ did they do, Sa\~{}njaya?''
 
 \item Neuter noun: {\dn k.setram} = k.setram = place.
 
-  Plus locative case, 7: {\dn k.setre} = k.setre = at a/the place.
+  Plus \locativecase: {\dn k.setre} = k.setre = at a/the place.
 
 \item Male adjective: {\dn samaveta.h} = samaveta.h = together.
 
@@ -505,11 +513,11 @@ something.''
 
 \item Male noun: {\dn aniika.h} = aniika.h = army.
 
-  Plus accusative case, 2: {\dn aniikam} = aniikam = army.
+  Plus \accusativecase: {\dn aniikam} = aniikam = army.
 
 \item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
 
-  Plus accusative case, 2: {\dn aacaaryam} = aacaaryam = teacher.
+  Plus \accusativecase: {\dn aacaaryam} = aacaaryam = teacher.
 
 \item Male noun: {\dn raaja.h} = raaja.h = king.
 
@@ -584,27 +592,27 @@ Drupada's son, your wise student.
 
 \item Male noun: {\dn putra.h} = putra.h = son.
 
-  Plus instrumental case, 3: {\dn putre.na} = putre.na = using a/the son.
+  Plus \instrumentalcase: {\dn putre.na} = putre.na = using a/the son.
 
 \item  Male noun, plural form: {\dn putraa.h} = putraa.h = sons.
 
-  Plus accusative case, 2: {\dn putraam} = putraam = sons.
+  Plus \accusativecase: {\dn putraam} = putraam = sons.
 
 \item Female adjective: {\dn mahatii} = mahatii = big.
 
-  Plus accusative case, 2: {\dn mahatiim} = mahatiim = big.
+  Plus \accusativecase: {\dn mahatiim} = mahatiim = big.
 
 \item Female noun: {\dn camuu} = camuu = army.
 
-  Plus accusative case, 2: {\dn camuum} = camuum = army.
+  Plus \accusativecase: {\dn camuum} = camuum = army.
 
 \item Female adjective: {\dn vyuu.dhaa} = vyuu.dhaa = arranged.
 
-  Plus accusative case, 2: {\dn vyuu.dhaam} = vyuu.dhaam = arranged.
+  Plus \accusativecase: {\dn vyuu.dhaam} = vyuu.dhaam = arranged.
 
 \item Male noun: {\dn "si.sya.h} = "si.sya.h = student.
 
-  Plus instrumental case, 3: {\dn "si.sye.na} = "si.sye.na = using a/the student.
+  Plus \instrumentalcase: {\dn "si.sye.na} = "si.sye.na = using a/the student.
 
 \end{itemize}
 \newpage
@@ -677,7 +685,7 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
 
 \item Female noun: {\dn yudh} = yudh = fight.
 
-  Plus locative case, 7: {\dn yudhi} = yudhi = at a/the fight.
+  Plus \locativecase: {\dn yudhi} = yudhi = at a/the fight.
 
 \item Drupada is a male god.
 
@@ -877,7 +885,7 @@ you.
 
 \item Male noun: {\dn dvija.h} = dvija.h = Brahman.
 
-  Plus vocative case, 8: {\dn dvija} = dvija = O Brahman.
+  Plus \vocativecase: {\dn dvija} = dvija = O Brahman.
 
 \item Male noun: {\dn naayaka.h} = naayaka.h = captain.
 
@@ -885,11 +893,11 @@ you.
 
 \item Male noun: {\dn sainya.h} = sainya.h = soldier.
 
-  Plus genitive case, 6: {\dn sainyasya} = sainyasya = solider's.
+  Plus \genitivecase: {\dn sainyasya} = sainyasya = solider's.
 
 \item Male noun: {\dn artha.h} = artha.h = meaning.
 
-  Plus accusative case, 2: {\dn artham} = artham = meaning.
+  Plus \accusativecase: {\dn artham} = artham = meaning.
 
 \item Verb: {\dn bruu} bruu: to say.
 
@@ -1103,11 +1111,11 @@ providing protection, you all really, surely, (are).
 
 \item {\dn ayanam} ayanam (noun): the point of an equinox or solstice.
 
-  {\dn ayane.su} ayane.su (locative case, 7).
+  {\dn ayane.su} ayane.su (\locativecase).
 
 \item {\dn sarva} sarva (adjective): all.
 
-  {\dn sarve.su} sarve.su (locative case, 7).
+  {\dn sarve.su} sarve.su (\locativecase).
 
 \item {\dn abhirak.s} abhirak.s: to protect.
 
@@ -1136,7 +1144,7 @@ providing protection, you all really, surely, (are).
   &&&= {\dn vinad} + {\dn uccai.h}\\
   &&&= to roar + loudly\\ \hline
   &&&\\
-  2b&{\dn "sa"nkham}&"sa"n|kham&conch shell (accusative case, 2)\\
+  2b&{\dn "sa"nkham}&"sa"n|kham&conch shell (\accusativecase)\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&blew\\
   &&&\\
@@ -1261,21 +1269,21 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
 
   Plus plural form: {\dn "svetaa.h} = "svetaa.h = white.
 
-  Plus instrumental case, 3: {\dn "svetai.h} = "svetai.h = with white.
+  Plus \instrumentalcase: {\dn "svetai.h} = "svetai.h = with white.
 
 \item Male noun: {\dn haya.h} = haya.h = horse.
 
   Plus plural form: {\dn hayaa.h} = hayaa.h = horses.
 
-  Plus instrumental case, 3: {\dn hayai.h} = hayai.h = with horses.
+  Plus \instrumentalcase: {\dn hayai.h} = hayai.h = with horses.
 
 \item Neuter noun: {\dn yuktam} = yuktam = yoke.
 
-  Plus locative case, 7: {\dn yukte} = yukte = in a yoke.
+  Plus \locativecase: {\dn yukte} = yukte = in a yoke.
 
 \item Male noun: {\dn syandana.h} = syandana.h = chariot.
 
-  Plus locative case, 7: {\dn syandane} = syandane = in a chariot.
+  Plus \locativecase: {\dn syandane} = syandane = in a chariot.
 
 \item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
 
@@ -1288,7 +1296,7 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
 
 \begin{tabular}{llll}
   1a&{\dn paa~ncajanya.m}&paa\~{}n|ca|jan|ya.m&Paa\~{}ncajanya\\
-  &&&(accusative case, 2)\\
+  &&&(\accusativecase)\\
   &&&= K.r.s.na's conch shell\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
@@ -1297,12 +1305,12 @@ K.r.s.na and Arjuna really sounded two divine conch shells.
   &&&= K.r.s.na\\ \hline
   &&&\\
   1b&{\dn devadatta.m}&de|va|dat|ta.m&Devadatta\\
-  &&&(accusative case, 2)\\
+  &&&(\accusativecase)\\
   &&&= Arjuna's conch shell\\
   &&&\\
   &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya|.h(a)&Dhana\~{}njaya = Arjuna\\ \hline
   &&&\\
-  2a&{\dn pau.n.dra.m}&pau.n|.dra.m&Pau.n.dra (accusative case, 2)\\
+  2a&{\dn pau.n.dra.m}&pau.n|.dra.m&Pau.n.dra (\accusativecase)\\
   &&&= Bhiima's conch shell\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&blew\\
@@ -1336,7 +1344,7 @@ eat at lot).
 
 \begin{tabular}{llll}
   1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&Anantavijaya\\
-  &&&(accusative case, 2)\\
+  &&&(\accusativecase)\\
   &&&= the name of a conch shell\\ \hline
   &&&\\
   &{\dn raajaa}&raa|jaa&raaja.h\\
@@ -1487,7 +1495,7 @@ with big forearms---they blew conch shells separately.
 
 \item Male noun: p.rthiviipati = {\dn p.rthiviipati} = king.
 
-  Plus vocative case, 8: p.rthiviipate = {\dn p.rthiviipate} = O King.
+  Plus \vocativecase: p.rthiviipate = {\dn p.rthiviipate} = O King.
 
 \end{itemize}
 \newpage
@@ -1542,13 +1550,13 @@ hearts, the sky, and the earth, and really was a resounding tumult.
 
   Plus plural form: {\dn h.rdayaani} = h.rdayaani = hearts.
 
-  Plus accusative case, 2: the form is the same.
+  Plus \accusativecase: the form is the same.
 
 \item Male noun: {\dn nabha.h} = nabha.h = sky.
 
 \item Female noun: {\dn p.rthivii} = p.rthivii = earth.
 
-  Plus accusative case, 2: {\dn p.rthiviim} = p.rthiviim = earth.
+  Plus \accusativecase: {\dn p.rthiviim} = p.rthiviim = earth.
 
 \item Neuter noun: {\dn tumulam} = tumulam = tulmult.
 
@@ -1623,7 +1631,7 @@ Lord K.r.s.na, he then said this sentence, O big master (O King).
 
 \item Male noun: {\dn sampaata.h} = sampaata.h = fall.
 
-  Plus locative case, 7: {\dn sampaate} = sampaate = in a/the fall.
+  Plus \locativecase: {\dn sampaate} = sampaate = in a/the fall.
 
 \item Verb: {\dn uda~nca} = uda\~{}nca = to lift.
 
@@ -1650,7 +1658,7 @@ Lord K.r.s.na, he then said this sentence, O big master (O King).
   &&&\\
   &&ma|dhye&between\\
   &&&\\
-  1b&{\dn ratha.m}&ra|tha.m&chariot (accusative case, 2)\\
+  1b&{\dn ratha.m}&ra|tha.m&chariot (\accusativecase)\\
   &&&\\
   &{\dn sthaapaya}&sthaa|pa|ya&stop (imperative tense)\\
   &&&\\
@@ -1697,15 +1705,15 @@ here.
 
 \item Female noun: {\dn senaa} = senaa = army.
 
-  Plus dual form and genitive case, 6: {\dn senayo.h} = senayo.h = army's.
+  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = army's.
 
 \item Female pronoun: {\dn ubhayaa} = ubhayaa = both.
 
-  Plus dual form and genitive case, 6: {\dn ubhayo.h} = ubhayo.h = both's.
+  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = both's.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot.
 
-  Plus accusative case, 2: {\dn ratham} = ratham = chariot.
+  Plus \accusativecase: {\dn ratham} = ratham = chariot.
 
 \item Verb: {\dn sthaa} = sthaa = to stop.
 
@@ -1755,7 +1763,7 @@ With whom, with me, I have to fight, in this war, in effort.
 
 \item Male pronoun: {\dn ka.h} = ka.h = who/what.
 
-  Plus instrumental case, 3: {\dn kai.h} = kai.h = with whom/what.
+  Plus \instrumentalcase: {\dn kai.h} = kai.h = with whom/what.
 
 \item Neuter noun: {\dn yoddha} = yoddham = fight.
 
@@ -1763,7 +1771,7 @@ With whom, with me, I have to fight, in this war, in effort.
 
 \item Male noun: {\dn samudyama.h} = samudyama.h = effort.
 
-  Plus locative case, 7: {\dn samudyame} = samudyame = in effort.
+  Plus \locativecase: {\dn samudyame} = samudyame = in effort.
 
 \end{itemize}
 \newpage
@@ -1822,11 +1830,11 @@ be in a fight for Dh.rtaraa.s.tra's son's bad mind.
 
 \item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
 
-  Plus genitive case, 6: {\dn dhaartaraa.s.trasya} = dhaartaraa.s.trasya = Dh.rtaraa.s.tra's son's.
+  Plus \genitivecase: {\dn dhaartaraa.s.trasya} = dhaartaraa.s.trasya = Dh.rtaraa.s.tra's son's.
 
 \item Neuter noun: {\dn yuddham} = yuddham = fight.
 
-  Plus locative case, 7: {\dn yuddhe} = yuddhe = in a/the fight.
+  Plus \locativecase: {\dn yuddhe} = yuddhe = in a/the fight.
 
 \end{itemize}
 \newpage
@@ -1888,19 +1896,19 @@ stopped the best chariot.
 
 \item Male noun: {\dn gu.daake"sa.h} = gu.daake"sa.h = Arjuna.
 
-  Plus instrumental case, 3: {\dn gu.daake"sena} = gu.daake"sena = using/by Arjuna.
+  Plus \instrumentalcase: {\dn gu.daake"sena} = gu.daake"sena = using/by Arjuna.
 
 \item Male noun: {\dn bhaarata.h} = bhaarata.h = a descendant of Bharata.
 
-  Plus vocative case, 8: {\dn bhaarata} = bhaarata = O descendant of Bharata.
+  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata.
 
 \item Female noun: {\dn senaa} = senaa = army.
 
-  Plus dual form and genitive case, 6: {\dn senayo.h} = senayo.h = two armies'.
+  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = two armies'.
 
 \item Female adjective: {\dn ubhayaa} = ubhayaa = both.
 
-  Plus dual form and genitive case, 6: {\dn ubhayo.h} = ubhayo.h = two things'.
+  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = two things'.
 
 \item Verb: {\dn sthaa} = sthaa = to stop.
 
@@ -1969,7 +1977,7 @@ said, ``O son of P.rthaa, see these Kurus, together.''
 
 \item Male noun: {\dn paartha.h} = paartha.h = son of P.rthaa.
 
-  Plus vocative case, 8: {\dn paartha} = paartha = O son of P.rthaa.
+  Plus \vocativecase: {\dn paartha} = paartha = O son of P.rthaa.
 
 \item Verb: {\dn pa"s} = pa"s = to see.
 
@@ -2038,13 +2046,13 @@ brothers-in-law, fathers-in-law, and friends also, in the two armies.
 \begin{itemize}
 
 \item This verse lists many male nouns in the plural form and
-  accusative case, 2. Most end in ``n.''
+  \accusativecase. Most end in ``n.''
 
   \begin{itemize}
 
   \item Male noun: {\dn pit.r} = pit.r = father.
 
-    Plus plural form and accusative case, 2: {\dn pit.r.rn} = pit.r.rn = fathers.
+    Plus plural form and \accusativecase: {\dn pit.r.rn} = pit.r.rn = fathers.
 
   \item Male noun: {\dn pitaamaha.h} = pitaamaha.h = grandfather.
 
@@ -2090,11 +2098,11 @@ brothers-in-law, fathers-in-law, and friends also, in the two armies.
 
 \item Female noun: {\dn senaa} = senaa = army.
 
-  Plus dual form and locative case, 7: {\dn senayo.h} = senayo.h = in two armies.
+  Plus dual form and \locativecase: {\dn senayo.h} = senayo.h = in two armies.
 
 \item Female pronoun: {\dn ubhayaa} = ubhayaa = two female nouns.
 
-  Plus dual form and locative case, 7: {\dn ubhayo.h} = ubhayo.h = in two female nouns.
+  Plus dual form and \locativecase: {\dn ubhayo.h} = ubhayo.h = in two female nouns.
 
 \end{itemize}
 \newpage
@@ -2158,11 +2166,11 @@ sad, he said this \dots
 
 \item Male noun: {\dn bandhu.h} = bandu.h = relative.
 
-  Plus plural form and accusative case, 2: {\dn bandhuun} = bandhuun = relatives.
+  Plus plural form and \accusativecase: {\dn bandhuun} = bandhuun = relatives.
 
 \item Female noun: {\dn k.rpaa} = k.rpaa = compassion.
 
-  Plus instrumental case, 3: {\dn k.rpayaa} = k.rpayaa = with compassion = ``please.''
+  Plus \instrumentalcase: {\dn k.rpayaa} = k.rpayaa = with compassion = ``please.''
 
 \item Verb: {\dn vi.sad} = vi.sad = to be sad.
 
@@ -2228,19 +2236,19 @@ legs weaken, and my mouth dries up.
 
 \item Male noun: {\dn svajana.h} = svajana.h = group of relatives.
 
-  Plus accusative case, 2: {\dn svajanam} = svajanam = group of relatives.
+  Plus \accusativecase: {\dn svajanam} = svajanam = group of relatives.
 
 \item Male noun: {\dn k.r.s.na.h} = k.r.s.na.h = K.r.s.na.
 
-  Plus vocative case, 8: {\dn k.r.s.na} = k.r.s.na = O K.r.s.na.
+  Plus \vocativecase: {\dn k.r.s.na} = k.r.s.na = O K.r.s.na.
 
 \item Male adjective: {\dn yuyutsu} = yuyutsu = wanting to fight.
 
-  Plus accusative case, 2: {\dn yuyutsum} = yuyutsum = wanting to fight.
+  Plus \accusativecase: {\dn yuyutsum} = yuyutsum = wanting to fight.
 
 \item Male adjective: {\dn samupasthita} = samupasthita = acquired.
 
-  Plus accusative case, 2: {\dn samupasthitam} = samupasthitam = acquired.
+  Plus \accusativecase: {\dn samupasthitam} = samupasthitam = acquired.
 
 \item Verb: {\dn sad} = sad = to weaken.
 
