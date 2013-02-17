@@ -901,35 +901,49 @@ you.
 \section*{Chapter 1, Verse 8}
 
 \begin{tabular}{llll}
-  1a&{\dn bhavaanbhii.sma"sca}&bha|vaan&bhavaan\\
-  &&bhii.s|ma"s|ca&+ bhii.sma.h + ca\\
-  &&&= {\dn bhavaan} + {\dn bhii.sma.h} + {\dn ca}\\
-  &&&= you + Bhii.sma + and\\
+  1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|&bhavaan = {\dn bhavaan} = you\\
   &&&\\
-  &{\dn kar.na"sca}&kar|.na"s|ca&kar.na.h + ca\\
-  &&&= {\dn kar.na.h} + {\dn ca}\\
-  &&&= Kar.na + and\\ \hline
+  &&bhii.s|ma"s|&bhii.sma.h = {\dn bhii.sma.h} = Bhii.sma\\
   &&&\\
-  1b&{\dn k.rpa"sca}&k.r|pa"s|ca&k.rpa.h + ca\\
-  &&&= {\dn k.rpa.h} + {\dn ca}\\
-  &&&= K.rpa + and\\
+  &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn samiti.mjaya.h}&sai|mi|ti.m&saimitim\\
-  &&|ja|ya|.h(a)&+ jaya.h\\
-  &&&= {\dn saimitim} + {\dn jaya.h}\\
-  &&&= always + victorious\\ \hline
+  &{\dn kar.na"sca}&kar|.na"s|&kar.na.h\\
+  &&&= {\dn kar.na.h}\\
+  &&&= Kar.na\\
+  &&&\\
+  &&ca&{\dn ca} = and\\ \hline
+  &&&\\
+  1b&{\dn k.rpa"sca}&k.r|pa"s|&k.rpa.h\\
+  &&&= {\dn k.rpa.h}\\
+  &&&= K.rpa\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn samiti.mjaya.h}&sai|mi|ti.m|&saimitim\\
+  &&&= {\dn saimitim}\\
+  &&&= always\\
+  &&&\\
+  &&ja|ya|.h(a)&jaya.h\\
+  &&&= {\dn jaya.h}\\
+  &&&= victorious\\ \hline
   &&&\\
   2a&{\dn a"svatthaamaa}&a"s|vat|thaa|maa&A"svatthaamaa\\
   &&&\\
-  &{\dn vikar.na"sca}&vi|kar|.na"s|ca&vikar.na.h + ca\\
-  &&&= {\dn vikar.na.h} + {\dn ca}\\
-  &&&= Vikar.na + and\\ \hline
+  &{\dn vikar.na"sca}&vi|kar|.na"s|&vikar.na.h\\
+  &&&= {\dn vikar.na.h}\\
+  &&&= Vikar.na\\
   &&&\\
-  2b&{\dn saumadattistathaiva}&sau|ma|dat|&saumadatti.h\\
-  &&tis|ta|thai|va&+ tathaa + eva\\
-  &&&= {\dn saumadatti.h} + {\dn tathaa} + {\dn eva}\\
+  &&ca&{\dn ca} = and\\ \hline
+  &&&\\
+  2b&{\dn saumadattistathaiva}&sau|ma|dat|tis|&saumadatti.h\\
+  &&&= {\dn saumadatti.h}\\
   &&&= son of Saumadatta\\
-  &&&+ so + really\\
+  &&&\\
+  &&ta|thai|&= tathaa\\
+  &&&= {\dn tathaa}\\
+  &&&= so\\
+  &&&\\
+  &&va&eva = {\dn eva} = really\\
   &&&\\
   &{\dn ca}&ca&and\\
 \end{tabular}
