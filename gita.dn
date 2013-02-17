@@ -1026,32 +1026,47 @@ various sword weapons. All are war-experienced.
 \section*{Chapter 1, Verse 10}
 
 \begin{tabular}{llll}
-  1a&{\dn aparyaaptam}&a|par|yaap|tam&a + paryaaptam\\
-  &&&= {\dn a} + {\dn paryaaptam}\\
-  &&&= not + enough\\
+  1a&{\dn aparyaapta.m}&a|&not\\
   &&&\\
-  &{\dn tadasmaaka.m}&ta|das|maa|ka.m&tat + asmaakam\\
-  &&&= {\dn tat} + {\dn asmaakam}\\
-  &&&= that + our\\ \hline
+  &&par|yaap|ta.m&paryaapta.m\\
+  &&&= {\dn paryaapta.m}\\
+  &&&= enough\\
+  &&&\\
+  &{\dn tadasmaaka.m}&ta|&tat\\
+  &&&= {\dn tat}\\
+  &&&= that\\
+  &&&\\
+  &&das|maa|ka.m&asmaakam\\
+  &&&= {\dn asmaakam}\\
+  &&&= our\\ \hline
   &&&\\
   1b&{\dn bala.m}&ba|la.m&strength\\
   &&&\\
-  &{\dn bhii.smaabhirak.sitam}&bhii.s|maa|&bhii.sma\\
-  &&bhi|rak|.si|tam&+ abhirak.sitam\\
-  &&&= {\dn bhii.sma} + {\dn abhirak.sitam}\\
-  &&&= Bhii.sma + protected\\ \hline
+  &{\dn bhii.smaabhirak.sitam}&bhii.s|maa|&bhii.sma.h\\
+  &&&= {\dn bhii.sma.h}\\
+  &&&= Bhii.sma\\
   &&&\\
-  2a&{\dn paryaaptam}&par|yaap|tam&enough\\
-  &{\dn tvidamete.saa.m}&tvi|da|me|te|.saam&tu + idam + ete.saam\\
-  &&&= {\dn tu} + {\dn idam} + {\dn ete.saam}\\
-  &&&= but + this + them\\ \hline
+  &&bhi|rak|.si|tam&abhirak.sitam\\
+  &&&= {\dn abhirak.sitam}\\
+  &&&= protected\\ \hline
+  &&&\\
+  2a&{\dn paryaapta.m}&par|yaap|ta.m&enough\\
+  &&&\\
+  &{\dn tvidamete.saa.m}&tvi|&tu = {\dn tu} = but\\
+  &&&\\
+  &&da|me|&idam = {\dn idam} = this\\
+  &&&\\
+  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = them\\ \hline
   &&&\\
   2b&{\dn bala.m}&ba|la.m&strength\\
   &&&\\
-  &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima\\
-  &&bhi|rak|.si|tam&+ abhirak.sitam\\
-  &&&= {\dn bhii.ma} + {\dn abhirak.sitam}\\
-  &&&= Bhii.ma + protected\\
+  &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima.h\\
+  &&&= {\dn bhii.ma.h}\\
+  &&&= Bhii.ma\\
+  &&&\\
+  &&bhi|rak|.si|tam&abhirak.sitam\\
+  &&&= {\dn abhirak.sitam}\\
+  &&&= protected\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1062,6 +1077,14 @@ Bhii.sma. But enough (limited) is this strengh of them (the
 Paa.n.davas), which is protected by Bhiima.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
+
+\begin{itemize}
+
+\item Neuter noun: {\dn balam} = balam = strength.
+
+\item Neuter adjective: {\dn abhirak.sitam} = abhirak.sitam = protected.
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 11}
