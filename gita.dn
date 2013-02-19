@@ -2389,4 +2389,79 @@ really burns.
 \end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 30}
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn "saknomyavasthaatu.m}&"sak|no|mya|&"saknomi\\
+  &&&= {\dn "saknomi}\\
+  &&&= (I am) able\\
+  &&&\\
+  &&vas|thaa|tu.m&avasthaatu.m\\
+  &&&= {\dn avasthaatu.m}\\
+  &&&= to stay\\ \hline
+  &&&\\
+  1b&{\dn bhramatiiva}&bhra|ma|tii|&bhramati\\
+  &&&= {\dn bhramati}\\
+  &&&= (he/she/it) wanders\\
+  &&&\\
+  &&va&iva = {\dn iva} = as\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn me}&me&my\\
+  &&&\\
+  &{\dn mana.h}&ma|na|.h(a)&mind\\ \hline
+  &&&\\
+  2a&{\dn nimittaani}&ni|mit|taa|ni&causes (noun, not verb)\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn pa"syaami}&pa"s|yaa|mi&(I) see\\ \hline
+  &&&\\
+  2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&opposites\\
+  &&&\\
+  &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+(Arjuna said:) And I am not able to stay, and my mind wanders, and I
+see causes of opposites (adversity), O K.r.s.na.
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item Verb: {\dn "sak} = "sak = to be able.
+
+  Plus present tense and first person and singular form: {\dn "saknomi} = "saknomi = I am able.
+
+\item Verb: {\dn avasthaa} = avasthaa = to stay.
+
+\item Verb: {\dn bhram} = bhram = to wander.
+
+  Plus present tense and third person and singular form: {\dn bhramati} = bhramati = (he/she/it) wanders.
+
+\item Male noun: {\dn mana.h} = mana.h = mind.
+
+\item Neuter noun: {\dn nimittam} = nimittam = cause.
+
+  Plus plural form: {\dn nimittaani} = nimittaani = causes.
+
+\item Neuter noun: {\dn vipariitam} = vipariitam = opposite.
+
+  Plus plural form: {\dn vipariitaani} = vipariitaani = opposites.
+
+\item Male noun: {\dn ke"sava.h} = ke"sava.h = K.r.s.na.
+
+  Plus \vocativecase: {\dn ke"sava} = ke"sava = O K.r.s.na.
+
+\end{itemize}
+\newpage
+% ------------------------------------------------------------------------------
 \end{document}
