@@ -1234,13 +1234,17 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta|.h(a)&then\\
   &&&\\
-  &{\dn "sa"nkhaa"sca}&"sa"n|khaa"s|ca&"sa"nkhaa.h + ca\\
-  &&&= {\dn "sa"nkhaa.h} + {\dn ca}\\
-  &&&= conch shells + and\\
+  &{\dn "sa"nkhaa"sca}&"sa"n|khaa"s|&"sa"nkhaa.h\\
+  &&&= {\dn "sa"nkhaa.h}\\
+  &&&= conch shells\\
   &&&\\
-  &{\dn bherya"sca}&bher|ya"s|ca&bhera.h + ca\\
-  &&&= {\dn bhera.h} + {\dn ca}\\
-  &&&= kettle drum + and\\ \hline
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn bherya"sca}&bher|ya"s|&bhera.h\\
+  &&&= {\dn bhera.h}\\
+  &&&= kettle drum\\
+  &&&\\
+  &&ca&{\dn ca} = and\\ \hline
   &&&\\
   1b&{\dn pa.navaanakagomukhaa.h}&pa|.na|vaa|&pa.navaa.h\\
   &&&= {\dn pa.navaa.h}\\
@@ -1250,7 +1254,7 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&\\
   &&go|mu|khaa|.h(aa)&gomukhaa.h\\
   &&&= {\dn gomukaa.h}\\
-  &&&= some kinds of instruments\\
+  &&&= horns\\
   &&&\\
   2a&{\dn sahasaivaabhyahanyanta}&sa|ha|sai|&sahasaa\\
   &&&= {\dn sahasaa}\\
@@ -1258,14 +1262,16 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&\\
   &&vaa|&eva = {\dn eva} = really\\
   &&&\\
-  &&bhya|han|yan|ta&simultaneously sounded\\ \hline
+  &&bhya|han|yan|ta&abhyahanyanta\\
+  &&&= {\dn abhyahanyanta}\\
+  &&&= simultaneously sounded\\ \hline
   &&&\\\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that\\
   &&&\\
   &{\dn "sabdastumulo.abhavat}&"sab|das|&"sabda.h = {\dn "sabda.h} = sound\\
   &&&\\
-  &&tu|mu|lo|&tumula\\
-  &&&= {\dn tumula}\\
+  &&tu|mu|lo|&tumula.h\\
+  &&&= {\dn tumula.h}\\
   &&&= tumultuous\\
   &&&\\
   &&(.a)bha|vat&abhavat = {\dn abhavat} = was\\
@@ -1274,10 +1280,38 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Then conch shells, a kettle drum, small drums, and some kinds of
-instruments really simultaneously sounded. That sound was tumultuous.
+Then conch shells, a kettle drum, small drums, a drum, and horns,
+suddenly really simultaneously sounded. That sound was tumultuous.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
+
+\begin{itemize}
+
+\item Male noun: {\dn "sa"nka.h} = "sa"nka.h = conch shell.
+
+  Plus plural form: {\dn "sa"nkaa.h} = "sa"nkaa.h = conch shells.
+
+\item Male noun: {\dn bhera.h} = bhera.h = kettle drum.
+
+\item Male noun: {\dn pa.nava.h} = pa.nava.h = small drum.
+
+  Plus plural form: {\dn pa.navaa.h} = pa.navaa.h = small drums.
+
+\item Male noun: {\dn aanaka.h} = aanaka.h = drum.
+
+\item Male noun: {\dn gomukha.h} = gomukha.h = horn.
+
+  Plus plural form: {\dn gomukhaa.h} = gomukhaa.h = horns.
+
+\item Male noun: {\dn "sabda.h} = "sabda.h = sound.
+
+\item Male adjective: {\dn tumula.h} = tumula.h = noisy.
+
+\item Verb: {\dn bhuu} = bhuu = to be.
+
+  Plus past tense and third person form and singular form: {\dn abhavat} = abhavat = (he/she/it) was.
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 14}
