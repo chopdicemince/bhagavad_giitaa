@@ -1165,22 +1165,31 @@ At the main points, at all places, ready---really, protect the part
   &&&\\
   &{\dn sa~njanayanhar.sa.m}&sa\~{}n|ja|na|yan|&act of uniting\\
   &&&\\
-  &&har|.sam&happiness\\ \hline
+  &&har|.sa.m&happiness\\ \hline
   &&&\\
-  1b&{\dn kuruv.rddha.h}&ku|ru|v.rd|dha|.h(a)&kuru + v.rddha.h\\
-  &&&= Kuru + old man\\
+  1b&{\dn kuruv.rddha.h}&ku|ru|&Kuru\\
   &&&\\
-  &{\dn pitaama.h}&pi|taa|ma|.h(a)&paternal grandfather\\ \hline
+  &&v.rd|dha|.h(a)&v.rddha.h\\
+  &&&= {\dn v.rddha.h}\\
+  &&&= old man\\
   &&&\\
-  2a&{\dn si.mhanaada.m}&si.m|ha|naa|da.m&si.mha.h + naada.h\\
-  &&&= {\dn si.mha.h} + {\dn naada.h}\\
-  &&&= lion + sound\\
+  &{\dn pitaamaha.h}&pi|taa|ma|ha|.h(a)&paternal grandfather\\ \hline
   &&&\\
-  &{\dn vinadyoccai.h}&vi|nad|yoc|cai|.h(i)&vinad + uccai.h\\
-  &&&= {\dn vinad} + {\dn uccai.h}\\
-  &&&= to roar + loudly\\ \hline
+  2a&{\dn si.mhanaada.m}&si.m|ha|&si.mha.h\\
+  &&&= {\dn si.mha.h}\\
+  &&&= lion\\
   &&&\\
-  2b&{\dn "sa"nkham}&"sa"n|kham&conch shell (\accusativecase)\\
+  &&naa|da.m&sound\\
+  &&&\\
+  &{\dn vinadyoccai.h}&vi|nad|&vinad\\
+  &&&= {\dn vinad}\\
+  &&&= to roar\\
+  &&&\\
+  &&yoc|cai|.h(i)&uccai.h\\
+  &&&= {\dn uccai.h}\\
+  &&&= loudly\\ \hline
+  &&&\\
+  2b&{\dn "sa"nkha.m}&"sa"n|kha.m&conch shell\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&blew\\
   &&&\\
@@ -1191,18 +1200,30 @@ At the main points, at all places, ready---really, protect the part
 \subsection*{Translation}
 
 Uniting his (Duryodhana's) happiness, the Kuru (dynasty's) old man and
-paternal grandfather (named Bhii.sma), made a lion sound and roared
+paternal grandfather (named Bhii.sma) made a lion sound and roared
 loudly---the conch shell was blown by the powerful one (Bhii.sma).
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
-\item {\dn sa~njanam} sa\~{}njanam (neuter noun): act of uniting.
+\item Neuter noun: {\dn sa~njanam} = sa\~{}njanam = act of uniting.
 
-\item {\dn prataapa.h} prataapa.h (male noun): power.
+\item Male noun: {\dn har.sa.h} = har.sa.h = happiness.
 
-\item {\dn "sa"nkha.h} "sa"nkha.h (male noun): conch shell.
+  Plus \accusativecase: {\dn har.sam} = {\dn har.sam} = happiness.
+
+\item Male noun: {\dn si.mha.h} = si.mha.h = lion.
+
+\item Male noun: {\dn naada.h} = naada.h = sound.
+
+  Plus \accusativecase: {\dn naadam} = naadam = sound.
+
+\item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
+
+  Plus \accusativecase: {\dn "sa"nkham} = "sa"nkham = conch shell.
+
+\item Male noun: {\dn prataapa.h} = prataapa.h = power.
 
 \end{itemize}
 
