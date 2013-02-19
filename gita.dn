@@ -436,7 +436,7 @@ did they do, Sa\~{}njaya?''
 
 \item Verb: {\dn vad} = vad = to say.
 
-  Plus past tense: {\dn uvaaca} = uvaaca = he/she/it said.
+  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Male noun: {\dn dharma.h} = dharma.h = devotion.
 
@@ -588,7 +588,7 @@ Drupada's son, your wise student.
 
 \item Verb: {\dn d.r.s.t} = d.r.s.t = to see.
 
-  Plus imperative tense, singular form: {\dn pa"syatu} = pa"syatu = see.
+  Plus imperative tense and singular form: {\dn pa"syatu} = pa"syatu = see.
 
 \item Male noun: {\dn putra.h} = putra.h = son.
 
@@ -901,7 +901,7 @@ you.
 
 \item Verb: {\dn bruu} bruu: to say.
 
-  Plus present tense and first person form: {\dn braviimi} = braviimi = I say.
+  Plus present tense and first person form and singular form: {\dn braviimi} = braviimi = (I) say.
 
 \end{itemize}
 \newpage
@@ -1696,7 +1696,9 @@ Lord K.r.s.na, he then said this sentence, O big master (O King).
   &&&\\
   1b&{\dn ratha.m}&ra|tha.m&chariot (\accusativecase)\\
   &&&\\
-  &{\dn sthaapaya}&sthaa|pa|ya&stop (imperative tense)\\
+  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu\\
+  &&&= {\dn sthaapayatu}\\
+  &&&= stop\\
   &&&\\
   &{\dn me.acyuta}&me|&my\\
   &&&\\
@@ -1753,7 +1755,7 @@ here.
 
 \item Verb: {\dn sthaa} = sthaa = to stop.
 
-  Plus imperative tense: {\dn sthaapaya} = sthaapaya = stop.
+  Plus imperative tense and singular form: {\dn sthaapayatu} = sthaapayatu = stop.
 
 \item Verb: {\dn niriik.se} = niriik.se = to see.
 
@@ -1926,7 +1928,7 @@ stopped the best chariot.
 
 \item Verb: {\dn vad} = vad = to say.
 
-  Plus past tense: {\dn uvaaca} = uvaaca = said.
+  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
 
   Or plus adjective: {\dn ukta.h} = ukta.h = said.
 
@@ -2009,7 +2011,7 @@ said, ``O son of P.rthaa, see these Kurus, together.''
 
 \item Verb: {\dn d.r.s.t} = d.r.s.t = to say.
 
-  Plus past tense: {\dn uvaaca} = uvaaca = said.
+  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Male noun: {\dn paartha.h} = paartha.h = son of P.rthaa.
 
@@ -2264,7 +2266,7 @@ legs weaken, and my mouth dries up.
 
 \item Verb: {\dn vad} = vad = to say.
 
-  Plus past tense: {\dn uvaaca} = uvaaca = said.
+  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Verb: {\dn d.r.s.t} = to see.
 
@@ -2288,7 +2290,7 @@ legs weaken, and my mouth dries up.
 
 \item Verb: {\dn sad} = sad = to weaken.
 
-  Plus present tense and plural form: {\dn siidanti} = siidanti = (they) weaken.
+  Plus present tense and third person form and plural form: {\dn siidanti} = siidanti = (they) weaken.
 
 \item Neuter noun: {\dn gaatram} = gaatram = arm or leg; limb.
 
@@ -2298,7 +2300,7 @@ legs weaken, and my mouth dries up.
 
 \item Verb: {\dn pari"su.s} = to dry up.
 
-  Plus present tense and singular form: {\dn pari"su.syati} = pari"su.syati = (he/she/it) dries up.
+  Plus present tense and third person form and singular form: {\dn pari"su.syati} = pari"su.syati = (he/she/it) dries up.
 
 \end{itemize}
 \newpage
@@ -2364,7 +2366,7 @@ really burns.
 
 \item Verb: {\dn jan} = jan = to be born.
 
-  Plus present tense and singular form: {\dn jaayate} = jaayate = is being born = is happening.
+  Plus present tense and third person form and singular form: {\dn jaayate} = jaayate = (he/she/it) is being born = (he/she/it) is happening.
 
 \item Male noun: {\dn gaa.n.diiva.h} = gaa.n.diiva.h = bow (in archery).
 
@@ -2374,7 +2376,7 @@ really burns.
 
 \item Verb: {\dn sra.ms} = sra.ms = to slip.
 
-  Plus present tense and singular form: {\dn sra.msate} = sra.msate = slips.
+  Plus present tense and third person form and singular form: {\dn sra.msate} = sra.msate = (he/she/it) slips.
 
 \item Male noun: {\dn hasta.h} = hasta.h = hand.
 
@@ -2384,7 +2386,7 @@ really burns.
 
 \item Verb: {\dn paridah} = paridah = to burn.
 
-  Plus present tense and singular form: {\dn paridahyate} = paridahyate = burns.
+  Plus present tense and third person form and singular form: {\dn paridahyate} = paridahyate = (he/she/it) burns.
 
 \end{itemize}
 \newpage
@@ -2439,13 +2441,13 @@ see causes of opposites (adversity), O K.r.s.na.
 
 \item Verb: {\dn "sak} = "sak = to be able.
 
-  Plus present tense and first person and singular form: {\dn "saknomi} = "saknomi = I am able.
+  Plus present tense and first person form and singular form: {\dn "saknomi} = "saknomi = I am able.
 
 \item Verb: {\dn avasthaa} = avasthaa = to stay.
 
 \item Verb: {\dn bhram} = bhram = to wander.
 
-  Plus present tense and third person and singular form: {\dn bhramati} = bhramati = (he/she/it) wanders.
+  Plus present tense and third person form and singular form: {\dn bhramati} = bhramati = (he/she/it) wanders.
 
 \item Male noun: {\dn mana.h} = mana.h = mind.
 
