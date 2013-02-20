@@ -12,22 +12,22 @@
 \newcommand{\locativecase}{locative case, 7}
 \newcommand{\vocativecase}{vocative case, 8}
 % ------------------------------------------------------------------------------
-\title{A Translation of\\The Bhagavad Giitaa}
+\title{A Translation of\\The Bhagavad Gita}
 \author{Winston C. Yang}
 \maketitle
 % ------------------------------------------------------------------------------
 \chapter*{Introduction}
 
-The ``Bhagavad Gittaa'' is a religious text of India, written in the
+The Bhagavad Gita (or ``Giitaa'') is a religious text of Hinduism, written in the
 language of Sanskrit. Today, relatively few people speak Sanskrit
 fluently, but there is a movement to revive it. In India, there is
 much religious text that was written in Sanskrit. Many people may be
 able to read and pronounce the Sanskrit, but they may not fully
 understand its meaning.
 
-``Bhagavad Giitaa'' means ``holy song'' (``bhagavad'' has various
+``Bhagavad Gita'' means ``holy song'' (``bhagavad'' has various
 translations, one of which is ``holy''). It is part of another text,
-the ``Mahaabhaarata,'' whose name means ``big India'' (mahaa +
+the Mahabharata (or ``Mahaabhaarata''), whose name means ``big India'' (mahaa +
 bhaarata), and which is a history of the ancient world. In The
 Bhagavad Giitaa, Lord K.r.s.na (sometimes spelled ``Krishna'') gave
 advice to his friend Arjuna. After eighteen days of fighting their
@@ -125,11 +125,32 @@ the ITRANS or Harvard-Kyoto transliterations.
 % ------------------------------------------------------------------------------
 \section*{Sanskrit alphabet}
 
+The script (written version of Sanskrit) is called Devanagari (or
+``Devanaagarii'').
+
 The Sanskrit alphabet is two alphabets, one for vowels, and one for
 consonants. The vowels are first.
 
-It is helpful to think of Sanskrit vowels as occurring in pairs. In
-the following table, lines separate pairs of vowels.
+It is helpful to think of Sanskrit vowels as occurring in pairs:
+
+\begin{itemize}
+
+\item In each pair of vowels, the vowels look similar.
+
+\item For some pairs of vowels, the vowels are called ``short'' and
+  ``long,'' with the short vowel being first.
+
+\item For some pairs of vowels, the short vowel and long vowel are the
+  same vowel, except, as their names suggest, you pronounce the short
+  vowel for a short time, and the long vowel for a long time.
+
+\item But for some pairs of vowels, the short vowel and long vowel are
+  different vowels, according to the International Phonetic Alphabet
+  (IPA).
+
+\end{itemize}
+
+In the following table, lines separate pairs of vowels.
 
 \subsection*{Sanskrit vowels}
 
@@ -169,12 +190,14 @@ each Sanskrit consonant is really a consonant and a vowel. This vowel
 is the same for all consonants. It is transliterated as ``a'' and
 rhymes with the words ``but,'' ``cut,'' and ``gut.'' For example, one
 of the first Sanskrit consonants is {\dn ga}, which is transliterated
-as ``ga'', and sounds exactly like ``gut.'' Sometimes people do not
-transliterate the ``a'' for a Sanskrit consonant, but try to
-transliterate it.
+as ``ga'', and sounds exactly like ``gut,'' without the ``t.''
+Sometimes people do not transliterate the ``a'' for a Sanskrit
+consonant, but if you transliterate Sanskrit, try to transliterate the
+``a.''
 
 It is helpful to think of the Sanskrit consonants as occurring in
 groups. In the following table, lines separate groups of consonants.
+\newpage
 
 \begin{tabular}{llllll}
   Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
@@ -224,7 +247,7 @@ groups. In the following table, lines separate groups of consonants.
 % ------------------------------------------------------------------------------
 \chapter*{Short introduction to Sanskrit grammar}
 
-Below are some points about Sanskrit grammar:
+Below are some points about Sanskrit:
 
 \begin{itemize}
 
@@ -285,20 +308,17 @@ Below are some points about Sanskrit grammar:
   Possibly an example will be helpul. Consider the following
   sentences.
 
-  \begin{quote}
-    Hey, Sam. The person walked from the chair and sang the song for
-    the child by using the microphone belonging to the woman at the
-    podium.
-  \end{quote}
-
-  Below, we rewrite the sentences, giving the cases of the nouns.
-
-  \begin{quote}
-    Sam-vocative-case. Person-nominative-case walked
-    table-ablative-case and sang song-accusative-case
-    child-dative-case microphone-instrumental-case woman-genitive-case
-    podium-locative-case.
-  \end{quote}
+  \begin{tabular}{l|l}
+    English form&Sanksrit form\\ \hline
+    Hey, Sam.&Sam-vocative-case.\\
+    The person walked&Person-nominative-case walked\\
+    from the chair&chair-ablative-case\\
+    and sang the song&and sang song-accusative-case\\
+    for the child& child-dative-case\\
+    by using the microphone&microphone-instrumental-case\\
+    belonging to the woman&woman-genitive-case\\
+    at the podium.&podium-locative-case.\\
+  \end{tabular}
 
   Sanskrit has eight cases. By convention, people may list them in the
   order in the following table. The cases are sometimes called {\dn
@@ -326,7 +346,7 @@ Below are some points about Sanskrit grammar:
     6&{\dn .sa.s.tii}&{\dn sambandha}&genitive&possessive\\
     &.sa.s.tii&sambandha\\
     \hline
-    7&{\dn saptamii}&{\dn adhikara.na}&locative&at\\
+    7&{\dn saptamii}&{\dn adhikara.na}&locative&at, in, on\\
     &saptamii&adhikara.na\\
     \hline
     8&&{\dn sambodhana}&vocative&I'm talking to you\\
@@ -334,8 +354,9 @@ Below are some points about Sanskrit grammar:
   \end{tabular}
 
 \item In Sanskrit, because of cases, you may be able to rearrange the
-  nouns in a sentence without changing the meaning. However, the
-  conventional word order is subject-object-verb.
+  words in a sentence without changing the meaning. However, the
+  conventional word order is subject-object-verb, and adjectives
+  should come before nouns, preferably.
 
 \end{itemize}
 % ------------------------------------------------------------------------------
