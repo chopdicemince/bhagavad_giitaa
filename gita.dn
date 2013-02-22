@@ -2878,4 +2878,110 @@ Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = ``there.''
 \end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 1, Verse 34}
+
+\begin{tabular}{llll}
+  1a&{\dn maatulaa.h}&maa|tu|laa|.h(aa)&maternal uncles\\
+  &&&\\
+  &{\dn "sva"suraa.h}&"sva|"su|raa|.h(aa)&fathers-in-law\\
+  &&&\\ \hline
+  &&&\\
+  1a+&{\dn pautraa.h}&pau|traa|.h(aa)&sons of sons\\ \hline
+  &&&\\
+  1b&{\dn "syaalaa.h}&"syaa|laa|.h(aa)&brothers of wives\\
+  &&&\\
+  &{\dn sambandhinastathaa}&sam|ban|dhi|nas|&sambandhina.h\\
+  &&&= {\dn sambandhina.h}\\
+  &&&= relative\\
+  &&&\\
+  &&ta|thaa&so\\ \hline
+  &&&\\
+  2a&{\dn etaanna}&e|taan|&etaani = {\dn etaani} = these\\
+  &&&\\
+  &&na&not\\
+  &&&\\
+  &{\dn hantumicchaami}&han|tu|&hantum\\
+  &&&= {\dn hantum}\\
+  &&&= killing\\
+  &&&\\
+  &&mic|chaa|mi&icchaami\\
+  &&&= {\dn icchaami}\\
+  &&&= (I) like\\ \hline
+  &&&\\
+  2b&{\dn ghnato.api}&ghna|to|&killing\\
+  &&&\\
+  &&(.a)pi&api = {\dn api} = also\\
+  &&&\\
+  &{\dn madhusuudana}&ma|dhu|&madhum\\
+  &&&= {\dn madhum}\\
+  &&&= honey\\
+  &&&\\
+  &&suu|da|na&O destruction\\
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\subsection*{Translation}
+
+Maternal uncles, fathers-in-law, sons of sons, brothers of wives, a
+relative---so, these I do not like killing also, O honey destruction
+(another name for K.r.s.na, who killed the demon Madhu, whose name
+means ``honey'').
+% ------------------------------------------------------------------------------
+\subsection*{Notes}
+
+\begin{itemize}
+
+\item If you chant line 1a and line 1a+ without pronouncing the
+  ``.h(aa)'' parts, then these two lines fit one of the Gita
+  melodies. However, if you pronounce the ``.h(aa)'' parts, then line
+  1a+ does not fit the melody.
+
+\item Male noun: {\dn maatula.h} = maatula.h = maternal uncle.
+
+  Plus plural form: {\dn maatulaa.h} = maatulaa.h = maternal uncles.
+
+\item Male noun: {\dn "sva"sura.h} = "sva"sura.h = father-in-law.
+
+  Plus plural form: {\dn "sva"suraa.h} = "sva"suraa.h = fathers-in-law.
+
+\item Male noun: {\dn pautra.h} = pautra.h = son of a son.
+
+  Plus plural form: {\dn pautraa.h} = pautraa.h = sons of sons.
+
+\item Male noun: {\dn "syaala.h} = "syaala.h = brother of a wife.
+
+  Plus plural form: {\dn "syaalaa.h} = "syaalaa.h = brothers of wives.
+
+\item Male noun: {\dn sambandhina.h} = sambandhina.h = relative.
+
+\item Neuter pronoun: {\dn etat} = etat = this.
+
+  Plus plural form: {\dn etaani} = etaani = these.
+
+\item Male noun: {\dn hantu.h} = hantu.h = killing.
+
+  Plus \accusativecase: {\dn hantum} = hantum = killing.
+
+\item Verb: {\dn i.s} = i.s = to like.
+
+  Plus present tense and first person and singular form:
+
+  {\dn icchaami} = icchaami = (I) like.
+
+\item Male (?) noun: {\dn ghnata.h} = ghnata.h = killing.
+
+\item Neuter noun: {\dn madhum} = madhum = honey.
+
+\item Neuter noun: {\dn suudanam} = suudanam = destruction.
+
+\item Neuter noun: {\dn madhusuudanam} = madhusuudanam = honey destruction = K.r.s.na.
+
+  (K.r.s.na killed the demon Madhu.)
+
+  Plus \vocativecase: {\dn madhusuudana} = madhusuudana = O honey destruction = O K.r.sna.
+
+\end{itemize}
+\newpage
+% ------------------------------------------------------------------------------
 \end{document}
