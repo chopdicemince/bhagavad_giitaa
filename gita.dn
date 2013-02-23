@@ -1519,41 +1519,59 @@ eat at lot).
 
 \begin{tabular}{llll}
   1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&Anantavijaya\\
-  &&&(\accusativecase)\\
-  &&&= the name of a conch shell\\ \hline
+  &&&= the name of a conch shell\\
   &&&\\
   &{\dn raajaa}&raa|jaa&raaja.h\\
   &&&= {\dn raaja.h}\\
   &&&= king\\ \hline
   &&&\\
-  1b&{\dn kuntiiputro}&kun|tii|pu|tro&kuntii + putra.h\\
-  &&&= {\dn kuntii} + {\dn putra.h}\\
-  &&&= Kuntii + son\\
+  1b&{\dn kuntiiputro}&kun|tii|&Kuntii\\
   &&&\\
-  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra|.h(a)&Yudi.s.thira\\ \hline
+  &&pu|tro&putra.h\\
+  &&&= {\dn putra.h}\\
+  &&&= son\\
+  &&&\\
+  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra|.h(a)&Yudhi.s.thira\\ \hline
   &&&\\
   2a&{\dn nakula.h}&na|ku|la|.h(a)&Nakula\\
   &&&\\
-  &{\dn sahadeva"sca}&sa|ha|de|va"s|ca&sahadeva.h + ca\\
-  &&&= {\dn sahadeva.h} + {\dn ca}\\
-  &&&= Sahadeva + and\\ \hline
+  &{\dn sahadeva"sca}&sa|ha|de|va"s|&sahadeva.h\\
+  &&&= {\dn sahadeva.h}\\
+  &&&= Sahadeva\\
+  &&&\\
+  &&ca&{\dn ca} = and\\ \hline
   &&&\\
   2b&{\dn sugho.sama.nipu.spakau}&su|gho|.sa|&Sugho.sa\\
   &&&= the name of a conch shell\\
   &&&\\
   &&ma|.ni|pu.s|pa|kau&Ma.nipu.spaka\\
   &&&= the name of a conch shell\\
-  &&&(dual form)
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Anantavijaya (a conch shell), was blown by the king, Kuntii's son:
+Anantavijaya (a conch shell), was blown by the king: Kuntii's son,
 Yudhi.s.thira. Nakula and Sahedeva blew (the two conch shells)
 Sugho.sa and Ma.nipu.spaka.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
+
+\begin{itemize}
+
+\item Male (?) noun: {\dn anantavijaya.h} = anantavijaya.h = Anantavijaya = the name of a conch shell.
+
+  Plus \accusativecase: {\dn anantavijayam} = anantavijayam = Anantavijaya = the name of a conch shell.
+
+\item Male (?) noun: {\dn sugho.sa.h} = sugho.sa.h = Sugho.sa = the name of a conch shell.
+
+\item Male (?) noun: {\dn ma.nipu.spaka.h} = ma.nipu.spaka.h = Ma.nipuspaka = the name of a conch shell.
+
+  Plus dual form: {\dn ma.nipu.spakau} = ma.nipu.spakau. Note: the
+  ending {\dn kau} = kau refers to two conch shells named Sugho.sa and
+  Ma.nipu.spaka, not two conch shells named Ma.nipu.spaka.
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 17}
