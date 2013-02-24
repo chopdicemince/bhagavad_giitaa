@@ -1723,11 +1723,11 @@ with a big forearm---they blew conch shells separately.
   &&&= {\dn gho.sa.h}\\
   &&&= sound\\
   &&&\\
-  &{\dn dhaartaraa.s.traa.naa.m}&dhaar|ta|raa.s|.traa|.naa.m&D.r.taraa.s.tra's\\
-  &&&sons\\ \hline
+  &{\dn dhaartaraa.s.traa.naa.m}&dhaar|ta|raa.s|.traa|.naa.m&Dh.r.taraa.s.tra's\\
+  &&&sons'\\ \hline
   1b&{\dn h.rdayaani}&h.r|da|yaa|ni&hearts\\
   &&&\\
-  &{\dn vyadaarayat}&vya|daa|ra|yat&shattered\\ \hline
+  &{\dn vyadaarayat}&vya|daa|ra|yat&pierced (?)\\ \hline
   &&&\\
   2a&{\dn nabha"sca}&na|bha"s|&nabha.h\\
   &&&= {\dn nabha.h}\\
@@ -1735,7 +1735,7 @@ with a big forearm---they blew conch shells separately.
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn p.rthivii.m}&p.r|thi|viim&earth\\
+  &{\dn p.rthivii.m}&p.r|thi|vii.m&earth\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\\
@@ -1751,7 +1751,7 @@ with a big forearm---they blew conch shells separately.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-That sound (of the conch shells) shattered D.r.taraa.s.tra's son's
+That sound (of the conch shells) pierced D.r.taraa.s.tra's sons'
 hearts, the sky, and the earth, and really was a resounding tumult.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
@@ -1760,11 +1760,19 @@ hearts, the sky, and the earth, and really was a resounding tumult.
 
 \item Male noun: {\dn gho.sa.h} = gho.sa.h = sound.
 
+\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
+
+  Plus plural form and \genitivecase: {\dn dhaartaraa.s.traa.naam} = dhaartaraa.s.traa.naam = Dh.rtaraa.s.tra's sons'.
+
 \item Neuter noun: {\dn h.rdayam} = h.rdayam = heart.
 
-  Plus plural form: {\dn h.rdayaani} = h.rdayaani = hearts.
+  Plus plural form and \accusativecase: {\dn h.rdayaani} = h.rdayaani = hearts.
 
-  Plus \accusativecase: the form is the same.
+\item Verb: {\dn vyad} = vyad = to pierce.
+
+  Plus past tense and third person form and singular form (?):
+
+  {\dn vyadaarayat} = vyadaarayat = pierced.
 
 \item Male noun: {\dn nabha.h} = nabha.h = sky.
 
