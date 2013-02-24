@@ -1580,11 +1580,13 @@ Sugho.sa and Ma.nipu.spaka.
   1a&{\dn kaa"sya"sca}&kaa"s|ya"s|&kaa"sya.h\\
   &&&= {\dn kaa"sya.h}\\
   &&&= the king of Kaa"sii\\
-  &&ca&and\\
   &&&\\
-  &{\dn parame.svaasa.h}&pa|ra|me.s|&parama\\
-  &&&= {\dn parama}\\
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn parame.svaasa.h}&pa|ra|me.s|&parama.h\\
+  &&&= {\dn parama.h}\\
   &&&= best\\
+  &&&\\
   &&vaa|sa|.h(a)&i.svaasa.h\\
   &&&= {\dn i.svaasa.h}\\
   &&&= archer\\ \hline
@@ -1596,6 +1598,7 @@ Sugho.sa and Ma.nipu.spaka.
   &{\dn mahaaratha.h}&ma|haa|&maha\\
   &&&= {\dn maha}\\
   &&&= big\\
+  &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
   &&&= chariot/warrior\\ \hline
@@ -1603,21 +1606,19 @@ Sugho.sa and Ma.nipu.spaka.
   2a&{\dn dh.r.s.tadyumno}&dh.r.s|.tad|yum|no&dh.r.s.tadyumna.h\\
   &&&= {\dn dh.r.s.tadyumna.h}\\
   &&&= Dh.r.s.tadyumna\\
-  &&&(a son of King Drupada)\\
   &&&\\
   &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
-  &&&(a prince who helped\\
-  &&&the Paa.n.davas)\\
-  &&ca&and\\ \hline
+  &&&\\
+  &&ca&{\dn ca} = and\\ \hline
   &&&\\
   2b&{\dn saatyaki"scaaparaajita.h}&saat|ya|ki"s|&saatyaki.h\\
   &&&= {\dn saatyaki.h}\\
   &&&= Saatyaki\\
-  &&&(the charioteer of\\
-  &&&Lord K.r.s.na)\\
-  &&caa|&and\\
+  &&&\\
+  &&caa|&ca = {\dn ca} = and\\
+  &&&\\
   &&pa|raa|ji|ta|.h(a)&aparaajita.h\\
   &&&= {\dn aparaajita.h}\\
   &&&= undefeated\\
@@ -1629,9 +1630,21 @@ Sugho.sa and Ma.nipu.spaka.
 The king of Kaa"sii, the best archer; "Skiha.n.dii, a big warrior;
 Dh.r.s.tadyumna (a son of King Drupada); Viraa.ta (a prince who helped
 the Paa.n.davas); Saatyaki (the charioteer of Lord K.r.s.na), an
-undefeated one \dots
+undefeated one; \dots
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
+
+\begin{itemize}
+
+\item Male adjective: {\dn parama.h} = parama.h = best.
+
+\item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
+
+\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
+
+\item Male adjective: {\dn aparaajita.h} = aparaajita.h = undefeated.
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 18}
@@ -3112,7 +3125,7 @@ our happiness, perhaps, O K.r.s.na?
   &&naa|ta|taa|yi|na|.h(a)&aatataayina.h\\
   &&&= {\dn aatataayina.h}\\
   &&&= warrior\\ \hline
-  &&&\\ 
+  &&&\\
   2a&{\dn tasmaannaarhaa}&tas|maan|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
@@ -3148,7 +3161,7 @@ relatives. Surely, by killing, how happy will we be, O K.r.s.na?
 \item Verb: {\dn aa"sri} = aa"sri = enter.
 
   Plus present tense and third person and singular form:
-  
+
   {\dn aa"srayete} = aa"srayete = (he/she/it) enters.
 
 \item Pronoun: {\dn aham} = aham = I.
