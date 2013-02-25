@@ -1796,27 +1796,28 @@ hearts, the sky, and the earth, and really was a resounding tumult.
   &&d.r.s.t|vaa&{\dn d.r.s.tvaa}\\
   &&&= having seen\\ \hline
   &&&\\
-  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&Dh.r.taraa.s.tra's sons\\
+  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
   &&&\\
   &&ka|pi|&kapi.h = {\dn kapi.h} = monkey\\
   &&&\\
   &&dhva|ja|.h(a)&flag\\ \hline
   &&&\\
-  2a&{\dn prav.rtte}&pra|v.rt|te&started\\
+  2a&{\dn prav.rtte}&pra|v.rt|te&having started\\
   &&&\\
   &{\dn "sastrasampaate}&"sas|tra|&"sastra.h = {\dn "sastra.h} = arrow\\
   &&&\\
   &&sam|paa|te&in a/the fall\\ \hline
   &&&\\
   2b&{\dn dhanurudyamya}&dha|nu|&dhanum = {\dn dhanum} = bow\\
+  &&&(in archery)\\
   &&&\\
   &&ru|dyam|ya&udyamya\\
   &&&= {\dn udyamya}\\
   &&&= having lifted\\
   &&&\\
-  &{\dn paa.n.dava.h}&paa.n|da|va|.h(a)&a son of Paa.n.du\\ \hline
+  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&a son of Paa.n.du\\ \hline
   &&&\\
-  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sam&Lord K.r.s.na\\
+  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&K.r.s.na\\
   &&&\\
   &{\dn tadaa}&ta|daa&then\\
   &&&\\
@@ -1836,11 +1837,11 @@ hearts, the sky, and the earth, and really was a resounding tumult.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-(Sa\~{}njaya tells King D.rtaraa.s.tra:) Then, having seen
-Dh.rtaraa.s.tra's sons, having a monkey flag (a symbol of the the
-monkey god Hanumaan), a son of Paa.n.du (named Arjuna), started an
-arrow in a fall (started shooting an arrow), having lifted a bow. To
-Lord K.r.s.na, he then said this sentence, O big master (O King).
+(Sa\~{}njaya told King Dh.rtaraa.s.tra:) Then, having seen
+Dh.rtaraa.s.tra's sons, having a monkey flag (a symbol of the monkey
+god Hanumaan), a son of Paa.n.du (named Arjuna), having started an
+arrow in a fall (having started shooting an arrow), having lifted a
+bow---to K.r.s.na, he then said this sentence, O big master (O King).
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -1851,14 +1852,40 @@ Lord K.r.s.na, he then said this sentence, O big master (O King).
   Plus present perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa =
   having seen.
 
+\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
+
+  Plus plural form and \accusativecase: {\dn dhaartaraa.s.traan} = dhaartaraa.s.traan = Dh.rtaraa.s.tra's sons.
+
+\item Male noun: {\dn kapi.h} = kapi.h = monkey.
+
+\item Male noun: {\dn dhvaja.h} = dhvaja.h = flag.
+
+\item Verb: {\dn prav.rt} = prav.rt = to start.
+
+  Plus present perfect participle: {\dn prav.rtte} = prav.rtte = having started.
+
+\item Male noun: {\dn "sastra.h} = "sastra.h = arrow.
+
 \item Male noun: {\dn sampaata.h} = sampaata.h = fall.
 
   Plus \locativecase: {\dn sampaate} = sampaate = in a/the fall.
+
+\item Neuter noun: {\dn dhanum} = dhanum = bow (in archery).
 
 \item Verb: {\dn uda~nca} = uda\~{}nca = to lift.
 
   Plus present perfect participle: {\dn udyamya} = udyamya = having
   lifted.
+
+\item Male noun: {\dn h.r.siike"sa.h} = h.r.siike"sa.h = K.r.s.na.
+
+  Plus \accusativecase: {\dn h.r.siike"sam} = h.r.siike"sam = K.r.s.na.
+
+\item Neuter noun: {\dn vaakyam} = vaakyam = sentence.
+
+\item Male noun: {\dn pati.h} = pati.h = master.
+
+  Plus \vocativecase: {\dn pate} = pate = O master.
 
 \end{itemize}
 \newpage
