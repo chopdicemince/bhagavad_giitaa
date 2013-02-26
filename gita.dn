@@ -1899,15 +1899,15 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
   &&&\\
   1a&{\dn senayorubhayprmadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= two army's\\
+  &&&= two armies'\\
   &&&\\
   &&ru|bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= both's\\
+  &&&= both things'\\
   &&&\\
   &&ma|dhye&between\\
   &&&\\
-  1b&{\dn ratha.m}&ra|tha.m&chariot (\accusativecase)\\
+  1b&{\dn ratha.m}&ra|tha.m&chariot\\
   &&&\\
   &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu\\
   &&&= {\dn sthaapayatu}\\
@@ -1917,16 +1917,12 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
   &&&\\
   &&'cyu|ta&acyuta\\
   &&&= {\dn acyuta}\\
-  &&&= O Permanent One\\
-  &&&(O Lord K.r.s.na)\\ \hline
+  &&&= O Permanent\\
+  &&&(O K.r.s.na)\\ \hline
   &&&\\
-  2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat\\
-  &&&= {\dn yaavat}\\
-  &&&= while\\
+  2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat = {\dn yaavat} = while\\
   &&&\\
-  &&de|taan|&etaani\\
-  &&&= {\dn etaani}\\
-  &&&= these (neuter)\\
+  &&de|taan|&etaan = {\dn etaan} = these\\
   &&&\\
   &&ni|riik|.se|&see\\
   &&&\\
@@ -1938,16 +1934,16 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
   &&&\\
   &&kaa|maa|&want\\
   &&&\\
-  &&na|va|sthi|taan&avisthita\\
-  &&&= {\dn avisthita}\\
+  &&na|va|sthi|taan&avisthitaan\\
+  &&&= {\dn avisthitaan}\\
   &&&= placed\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Arjuna said: Between the two armies, stop my chariot, O Permanent One
-(O Lord K.r.s.na), while I see these who want to fight, who are placed
+Arjuna said: Between the two armies, stop my chariot, O Permanent (O
+K.r.s.na), while I see these who have a want to fight, who were placed
 here.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
@@ -1956,11 +1952,11 @@ here.
 
 \item Female noun: {\dn senaa} = senaa = army.
 
-  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = army's.
+  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = two armies'.
 
 \item Female pronoun: {\dn ubhayaa} = ubhayaa = both.
 
-  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = both's.
+  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = both things'.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot.
 
@@ -1970,11 +1966,23 @@ here.
 
   Plus imperative tense and singular form: {\dn sthaapayatu} = sthaapayatu = stop.
 
+\item Male adjective: {\dn acyuta.h} = acyuta.h = permanent.
+
+  Plus \vocativecase: {\dn acyuta} = acyuta = O Permanent.
+
+\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
+
+  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
+
 \item Verb: {\dn niriik.se} = niriik.se = to see.
 
 \item Neuter noun: {\dn yoddham} = yoddham = fight.
 
 \item Female noun: {\dn kaamaa} = kaamaa = want.
+
+\item Male pronoun: {\dn avasthita.h} = avasthita.h = placed.
+
+  Plus plural form and \accusativecase: {\dn avasthitaan} = avasthitaan = placed.
 
 \end{itemize}
 \newpage
