@@ -2048,17 +2048,17 @@ effort.
 \section*{Chapter 1, Verse 23}
 
 \begin{tabular}{llll}
-  1a&{\dn yotsyamaanaanavek.se.aha.m}&yot|sya|maa|naa|&fighters\\
+  1a&{\dn yotsyamaanaanavek.se.aha.m}&yot|sya|maa|naa|&fighters (?)\\
   &&&\\
   &&na|vek|.se|&avek.se\\
   &&&= {\dn avek.se}\\
-  &&&= let me see\\
+  &&&= (I) see\\
   &&&\\
   &&'ha.m&aha.m = {\dn aha.m} = I\\ \hline
   &&&\\
   2a&{\dn ya}&ya&ye = {\dn ye} = who\\
   &&&\\
-  &{\dn ete.atra}&e|te|&these (males)\\
+  &{\dn ete.atra}&e|te|&these\\
   &&&\\
   &&'tra&atra\\
   &&&= {\dn atra}\\
@@ -2066,32 +2066,44 @@ effort.
   &&&\\
   &{\dn samaagataa.h}&sa|maa|ga|taa|.h(aa)&together\\ \hline
   &&&\\
-  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|tra|sya&Dh.rtaraa.s.tra's son's\\
+  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&Dh.rtaraa.s.tra's son's\\
   &&&\\
-  &{\dn durbuddher}&dur|bud|dher&durbuddhi\\
-  &&&= {\dn durbuddhi}\\
-  &&&= dur + buddhi\\
-  &&&= {\dn dur} + {\dn buddhi}\\
+  &{\dn durbuddher}&dur|bud|dher&dur + buddhi.h\\
+  &&&= {\dn dur} + {\dn buddhi.h}\\
   &&&= bad + mind\\ \hline
   &&&\\
   2b&{\dn yuddhepriyacikiir.sava.h}&yud|dhe|&in a/the fight\\
   &&&\\
-  &&pri|ya|&loved\\
+  &&pri|ya|&priya.h\\
+  &&&= {\dn priya.h}\\
+  &&&= loved\\
   &&&\\
-  &&ci|kiir|.sa|va|.h(a)&wishing\\
+  &&ci|kiir|.sa|va|.h(a)&wishing (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Let me see these fighters who are here together, who love and wish to
-be in a fight for Dh.rtaraa.s.tra's son's bad mind.
+I see fighters, these who are here together, for Dh.rtaraa.s.tra's
+son's bad mind, loving and wishing to be in a fight.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
+\item (?) Male noun: {\dn yotsyamaana.h} = yotsyamaana.h = fighter.
+
+  Plus plural form and \accusativecase: {\dn yotsyamaanaan} = yotsyamaanaan = fighters.
+
 \item Verb: {\dn avek.s} = avek.s = to see.
+
+  Plus present tense and first person form and singular form:
+
+  {\dn avek.se} = avek.se = (I) see.
+
+\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
+
+  Plus plural form: {\dn ete} = ete = these.
 
 \item Male adjective: {\dn samaagata.h} = samaagata.h = together.
 
@@ -2101,9 +2113,19 @@ be in a fight for Dh.rtaraa.s.tra's son's bad mind.
 
   Plus \genitivecase: {\dn dhaartaraa.s.trasya} = dhaartaraa.s.trasya = Dh.rtaraa.s.tra's son's.
 
+\item Female adjective: {\dn dur} = dur = bad.
+
+\item Female noun: {\dn buddhi.h} = buddhi.h = mind.
+
 \item Neuter noun: {\dn yuddham} = yuddham = fight.
 
   Plus \locativecase: {\dn yuddhe} = yuddhe = in a/the fight.
+
+\item Male adjective: {\dn priya.h} = priya.h = loved.
+
+\item Verb: {\dn cikiir.saa} = cikiir.saa = wish.
+
+  (?) Plus change: {\dn cikiir.sava.h} = cikiir.sava.h = wishing.
 
 \end{itemize}
 \newpage
