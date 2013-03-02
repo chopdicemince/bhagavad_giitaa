@@ -2219,7 +2219,7 @@ stopped the best chariot between the two armies.
 \begin{tabular}{llll}
   1a&{\dn bhii.smadro.napramukhata.h}&bhii.s|ma|&Bhii.sma\\
   &&&\\
-  &&dro|.na&Dro.na\\
+  &&dro|.na|&Dro.na\\
   &&&\\
   &&pra|mu|kha|ta|.h(a)&in front of\\ \hline
   &&&\\
@@ -2229,9 +2229,11 @@ stopped the best chariot between the two armies.
   &&&\\
   &{\dn mahiik.sitaam}&ma|hii|&world\\
   &&&\\
-  &&k.si|taam&chiefs\\ \hline
+  &&k.si|taam&k.sitaan\\
+  &&&= {\dn k.sitaan}\\
+  &&&= inhabitants\\ \hline
   &&&\\
-  2a&{\dn uvaaca}&u|vaa|ca&said\\
+  2a&{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\\
   &{\dn paartha}&paar|tha&O son of P.rthaa\\
   &&&\\
@@ -2239,11 +2241,11 @@ stopped the best chariot between the two armies.
   &&&= {\dn pa"syatu}\\
   &&&= see\\
   &&&\\
-  &&taan|&etaani\\
-  &&&= {\dn etaani}\\
+  &&taan|&etaan\\
+  &&&= {\dn etaan}\\
   &&&= these\\ \hline
   &&&\\
-  2b&&sa|ma|ve|taan|&together\\
+  2b&&sa|ma|ve|taan|&all\\
   &&&\\
   &&ku|ruu|&kuruun\\
   &&&= {\dn kuruun}\\
@@ -2257,8 +2259,8 @@ stopped the best chariot between the two armies.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-In front of Bhii.sma, Dro.na, and all world chiefs, Lord K.r.s.na
-said, ``O son of P.rthaa, see these Kurus, together.''
+In front of Bhii.sma, Dro.na, and all world inhabitants, K.r.s.na
+said, ``O son of P.rthaa, see all these Kurus.''
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -2266,9 +2268,15 @@ said, ``O son of P.rthaa, see these Kurus, together.''
 
 \item Female noun: {\dn mahii} = mahii = world.
 
-\item Verb: {\dn d.r.s.t} = d.r.s.t = to say.
+\item (?) Male noun: {\dn k.sita.h} = k.sita.h = inhabitant.
 
-  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
+  Plus plural form and \accusativecase: {\dn k.sitaan} = k.sitaan = inhabitants.
+
+\item Verb: {\dn vad} = vad = to say.
+
+  Plus past tense and third person form and singular form:
+
+  {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Male noun: {\dn paartha.h} = paartha.h = son of P.rthaa.
 
@@ -2277,6 +2285,18 @@ said, ``O son of P.rthaa, see these Kurus, together.''
 \item Verb: {\dn pa"s} = pa"s = to see.
 
   Plus imperative tense and singular form: {\dn pa"syatu} = pa"syatu = see.
+
+\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
+
+  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
+
+\item Male adjective: {\dn samaveta.h} = samaveta.h = all.
+
+  Plus plural form and \accusativecase: {\dn samavetaan} = samavetaan = all.
+
+\item Male noun: {\dn kuru.h} = kuru.h = Kuru.
+
+  Plus plural form and \accusativecase: {\dn kuruun} = kuruun = Kurus.
 
 \end{itemize}
 \newpage
