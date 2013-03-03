@@ -394,7 +394,7 @@ medium-level translations are good for learning Sanskrit.
   0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
   &&&(the name of a king)\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
   &&&\\
   1a&{\dn dharmak.setre}&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
@@ -457,7 +457,9 @@ did they do, Sa\~{}njaya?''
 
 \item Verb: {\dn vad} = vad = to say.
 
-  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
+  Plus past tense and third person form and singular form:
+
+  {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Male noun: {\dn dharma.h} = dharma.h = devotion.
 
@@ -485,7 +487,7 @@ did they do, Sa\~{}njaya?''
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya& Sa\~{}njaya\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
   &&&\\
   1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
   &&&\\
@@ -1895,7 +1897,7 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
   &&&\\
   1a&{\dn senayorubhayprmadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
@@ -2135,7 +2137,7 @@ Dh.rtaraa.s.tra's son's bad mind, loving and wishing to be in a fight.
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
   &&&\\
   1a&{\dn evamukto}&e|va|&evam = {\dn evam} = thus\\
   &&&\\
@@ -2548,7 +2550,7 @@ sad, he said this \dots
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
   &&&\\
   1a&{\dn d.r.s.tvema.m}&d.r.s.t|ve|&d.r.s.tvaa\\
   &&&= {\dn d.r.s.tvaa}\\
@@ -2590,7 +2592,9 @@ legs weaken, and my mouth dries up.
 
 \item Verb: {\dn vad} = vad = to say.
 
-  Plus past tense and third person form and singular form: {\dn uvaaca} = uvaaca = (he/she/it) said.
+  Plus past tense and third person form and singular form:
+
+  {\dn uvaaca} = uvaaca = (he/she/it) said.
 
 \item Verb: {\dn d.r.s.t} = to see.
 
