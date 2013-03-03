@@ -309,7 +309,8 @@ Below are some points about Sanskrit:
   sentences.
 
   \begin{tabular}{l|l}
-    English form&Sanksrit form\\ \hline
+    English form&Sanksrit form\\
+    \hline
     Hey, Sam.&Sam-vocative-case.\\
     The person walked&Person-nominative-case walked\\
     from the chair&chair-ablative-case\\
@@ -394,7 +395,8 @@ medium-level translations are good for learning Sanskrit.
   0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
   &&&(the name of a king)\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn dharmak.setre}&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
@@ -404,13 +406,15 @@ medium-level translations are good for learning Sanskrit.
   &&&\\
   &{\dn kuruk.setre}&ku|ru|&Kuru\\
   &&&\\
-  &&k.se|tre&at a/the place\\ \hline
+  &&k.se|tre&at a/the place\\
+  \hline
   &&&\\
   1b&{\dn samavetaa}&sa|ma|ve|taa&samavetaa.h\\
   &&&= {\dn samavetaa.h}\\
   &&&= together\\
   &&\\
-  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&wanting to fight\\ \hline
+  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&wanting to fight\\
+  \hline
   &&&\\
   2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&my\\
   &&&\\
@@ -421,7 +425,8 @@ medium-level translations are good for learning Sanskrit.
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\ \hline
+  &&va&eva = {\dn eva} = really\\
+  \hline
   &&&\\
   2b&{\dn kimakurvata}&ki|ma|&kim = {\dn kim} = what\\
   &&&\\
@@ -487,7 +492,8 @@ did they do, Sa\~{}njaya?''
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya& Sa\~{}njaya\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
   &&&\\
@@ -499,17 +505,20 @@ did they do, Sa\~{}njaya?''
   &&&\\
   &&nii|ka.m&aniikam\\
   &&&= {\dn aniikam}\\
-  &&&= army\\ \hline
+  &&&= army\\
+  \hline
   &&&\\
   1b&{\dn vyuu.dha.m}&vyuu|.dha.m&arranged\\
   &&&\\
   &{\dn duryodhanas}&dur|yo|dha|nas&Duryodhana\\
   &&&\\
-  &{\dn tadaa}&ta|daa&then\\ \hline
+  &{\dn tadaa}&ta|daa&then\\
+  \hline
   &&&\\
   2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
   &&&\\
-  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&approaching\\ \hline
+  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&approaching\\
+  \hline
   &&&\\
   2b&{\dn raajaa}&raa|jaa&kings\\
   &&&\\
@@ -574,13 +583,15 @@ something.''
   &&&\\
   &&pu|traa|.naam&putraa.naam\\
   &&&= {\dn putraam}\\
-  &&&= sons\\ \hline
+  &&&= sons\\
+  \hline
   &&&\\
   1b&{\dn aacaarya}&aa|caar|ya&teacher\\
   &&&\\
   &{\dn mahatii.m}&ma|ha|tii.m&big\\
   &&&\\
-  &{\dn camuum}&ca|muum&army\\ \hline
+  &{\dn camuum}&ca|muum&army\\
+  \hline
   &&&\\
   2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&arranged\\
   &&&\\
@@ -590,7 +601,8 @@ something.''
   &&&\\
   &&pu|tre|.na&putre.na\\
   &&&= {\dn putre.na}\\
-  &&&= using son\\ \hline
+  &&&= using son\\
+  \hline
   &&&\\
   2b&{\dn tava}&ta|va&your\\
   &&&\\
@@ -655,7 +667,8 @@ Drupada's son, your wise student.
   &&&\\
   &&vaa|saa&i.svaasaa.h\\
   &&&= {\dn i.svaasaa.h}\\
-  &&&= archers\\ \hline
+  &&&= archers\\
+  \hline
   &&&\\
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
   &&&\\
@@ -663,7 +676,8 @@ Drupada's son, your wise student.
   &&&\\
   &&sa|maa&samaa = {\dn samaa} = equal\\
   &&&\\
-  &{\dn yudhi}&yu|dhi&at a/the fight\\ \hline
+  &{\dn yudhi}&yu|dhi&at a/the fight\\
+  \hline
   &&&\\
   2a&{\dn yuyudhaano}&yu|yu|dhaa|no&Yuyudhaana\\
   &&&\\
@@ -671,7 +685,8 @@ Drupada's son, your wise student.
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn drupada"sca}&dru|pa|da"s|&drupada.h\\
   &&&= {\dn drupada.h}\\
@@ -724,7 +739,8 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
   &&&\\
   &&ce|ki|taa|na|.h(a)&cekitaana.h\\
   &&&= {\dn cekitaana.h}\\
-  &&&= Cekitaana\\ \hline
+  &&&= Cekitaana\\
+  \hline
   &&&\\
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
   &&&= {\dn kaa"siraaja.h}\\
@@ -732,7 +748,8 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
+  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\
+  \hline
   &&&\\
   2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
   &&&= {\dn purujit}\\
@@ -742,7 +759,8 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
   &&&= {\dn kuntibhoja.h}\\
   &&&= Kuntibhoja\\
   &&&\\
-  &&ca&= {\dn ca} = and\\ \hline
+  &&ca&= {\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn "saibya"sca}&"saib|ya"s|&"saibya.h\\
   &&&= {\dn "saibya.h}\\
@@ -785,7 +803,8 @@ Kuntibhoja, and Saibya are a best man.
   &&&\\
   &&ca&{\dn ca} = ca\\
   &&&\\
-  &{\dn vikraanta}&vi|kraan|ta&strong\\ \hline
+  &{\dn vikraanta}&vi|kraan|ta&strong\\
+  \hline
   &&&\\
   1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|&uttamaujaa.h\\
   &&&= {\dn uttamaujaa.h}\\
@@ -793,7 +812,8 @@ Kuntibhoja, and Saibya are a best man.
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\ \hline
+  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\
+  \hline
   &&&\\
   2a&{\dn saubhadro}&sau|bha|dro&saubadra.h\\
   &&&= {\dn saubadra.h}\\
@@ -803,7 +823,8 @@ Kuntibhoja, and Saibya are a best man.
   &&&= {\dn draupadeyaa.h}\\
   &&&= sons of Draupadii\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn sarva}&sar|va&all\\
   &&&\\
@@ -848,7 +869,8 @@ and the sons of Draupadii, are all really big warriors.
   &&&\\
   &{\dn vi"si.s.taa}&vi|"si.s|.taa&excellent\\
   &&&\\
-  &{\dn ye}&ye&who\\ \hline
+  &{\dn ye}&ye&who\\
+  \hline
   &&&\\
   1b&{\dn taannibodha}&taan|&{\dn taan}\\
   &&&= them\\
@@ -863,7 +885,8 @@ and the sons of Draupadii, are all really big warriors.
   &&&\\
   &&ta|ma&uttama\\
   &&&= {\dn uttama}\\
-  &&&= O excellent\\ \hline
+  &&&= O excellent\\
+  \hline
   &&&\\\
   2a&{\dn naayakaa}&naa|ya|kaa&naayakaa.h\\
   &&&= {\dn naayakaa.h}\\
@@ -871,7 +894,8 @@ and the sons of Draupadii, are all really big warriors.
   &&&\\
   &{\dn mama}&ma|ma&my\\
   &&&\\
-  &{\dn sainyasya}&sain|ya|sya&solider's\\ \hline
+  &{\dn sainyasya}&sain|ya|sya&solider's\\
+  \hline
   &&&\\
   2b&{\dn sa.mj~naartha.m}&sa.m|j\~{}naar|&sa.mj\~{}naa\\
   &&&= {\dn sa.mj\~{}naa}\\
@@ -942,7 +966,8 @@ you.
   &&&= {\dn kar.na.h}\\
   &&&= Kar.na\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   1b&{\dn k.rpa"sca}&k.r|pa"s|&k.rpa.h\\
   &&&= {\dn k.rpa.h}\\
@@ -956,7 +981,8 @@ you.
   &&&\\
   &&ja|ya|.h(a)&jaya.h\\
   &&&= {\dn jaya.h}\\
-  &&&= victorious\\ \hline
+  &&&= victorious\\
+  \hline
   &&&\\
   2a&{\dn a"svatthaamaa}&a"s|vat|thaa|maa&A"svatthaamaa\\
   &&&\\
@@ -964,7 +990,8 @@ you.
   &&&= {\dn vikar.na.h}\\
   &&&= Vikar.na\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn saumadattistathaiva}&sau|ma|dat|tis|&saumadatti.h\\
   &&&= {\dn saumadatti.h}\\
@@ -998,7 +1025,8 @@ You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.
   &&&\\
   &{\dn "suuraa}&"suu|raa&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
-  &&&= heroes\\ \hline
+  &&&= heroes\\
+  \hline
   &&&\\
   1b&{\dn madarthe}&ma|dar|the&me(?) + arthe\\
   &&&= {\dn me} + {\dn arthe}\\
@@ -1012,7 +1040,8 @@ You---Bhii.sma, Kar.na, and K.rpa---are always victorious. A"svatthaamaa, Vikar.
   &&&\\
   &&"sa|stra|&sword\\
   &&&\\
-  &&pra|ha|ra|.naa|.h(aa)&weapons (?)\\ \hline
+  &&pra|ha|ra|.naa|.h(aa)&weapons (?)\\
+  \hline
   &&&\\
   2b&{\dn sarve}&sar|ve&all\\
   &&&\\
@@ -1061,7 +1090,8 @@ various sword weapons. All are war-experienced.
   &&&\\
   &&das|maa|ka.m&asmaakam\\
   &&&= {\dn asmaakam}\\
-  &&&= our\\ \hline
+  &&&= our\\
+  \hline
   &&&\\
   1b&{\dn bala.m}&ba|la.m&strength\\
   &&&\\
@@ -1071,7 +1101,8 @@ various sword weapons. All are war-experienced.
   &&&\\
   &&bhi|rak|.si|tam&abhirak.sitam\\
   &&&= {\dn abhirak.sitam}\\
-  &&&= protected\\ \hline
+  &&&= protected\\
+  \hline
   &&&\\
   2a&{\dn paryaapta.m}&par|yaap|ta.m&enough\\
   &&&\\
@@ -1079,7 +1110,8 @@ various sword weapons. All are war-experienced.
   &&&\\
   &&da|me|&idam = {\dn idam} = this\\
   &&&\\
-  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = them\\ \hline
+  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = them\\
+  \hline
   &&&\\
   2b&{\dn bala.m}&ba|la.m&strength\\
   &&&\\
@@ -1117,7 +1149,8 @@ Paa.n.davas), which is protected by Bhiima.
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at all (places)\\ \hline
+  &{\dn sarve.su}&sar|ve|.su&at all (places)\\
+  \hline
   &&&\\
   1b&{\dn yathaabhaagamavasthitaa.h}&ya|thaa|&as\\
   &&&\\
@@ -1127,7 +1160,8 @@ Paa.n.davas), which is protected by Bhiima.
   &&&\\
   &&vas|thi|taa|.h(aa)&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
-  &&&= ready for\\ \hline
+  &&&= ready for\\
+  \hline
   &&&\\
   2a&{\dn bhii.smamevaabhirak.santu}&bhii.s|ma|&bhii.smam\\
   &&&= {\dn bhii.smam}\\
@@ -1138,7 +1172,8 @@ Paa.n.davas), which is protected by Bhiima.
   &&bhi|rak|.san|tu&abhirak.santu\\
   &&&= {\dn abhirak.santu}\\
   &&&= (you, three or more)\\
-  &&&\quad protect\\ \hline
+  &&&\quad protect\\
+  \hline
   &&&\\
   2b&{\dn bhavanta.h}&bha|van|ta|.h(a)&you\\
   &&&\\
@@ -1188,7 +1223,8 @@ At the main points, at all places, ready---really, protect the part
   &&&\\
   &{\dn sa~njanayanhar.sa.m}&sa\~{}n|ja|na|yan|&act of uniting\\
   &&&\\
-  &&har|.sa.m&happiness\\ \hline
+  &&har|.sa.m&happiness\\
+  \hline
   &&&\\
   1b&{\dn kuruv.rddha.h}&ku|ru|&Kuru\\
   &&&\\
@@ -1196,7 +1232,8 @@ At the main points, at all places, ready---really, protect the part
   &&&= {\dn v.rddha.h}\\
   &&&= old man\\
   &&&\\
-  &{\dn pitaamaha.h}&pi|taa|ma|ha|.h(a)&paternal grandfather\\ \hline
+  &{\dn pitaamaha.h}&pi|taa|ma|ha|.h(a)&paternal grandfather\\
+  \hline
   &&&\\
   2a&{\dn si.mhanaada.m}&si.m|ha|&si.mha.h\\
   &&&= {\dn si.mha.h}\\
@@ -1210,7 +1247,8 @@ At the main points, at all places, ready---really, protect the part
   &&&\\
   &&yoc|cai|.h(i)&uccai.h\\
   &&&= {\dn uccai.h}\\
-  &&&= loudly\\ \hline
+  &&&= loudly\\
+  \hline
   &&&\\
   2b&{\dn "sa"nkha.m}&"sa"n|kha.m&conch shell\\
   &&&\\
@@ -1267,7 +1305,8 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&= {\dn bhera.h}\\
   &&&= kettle drum\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   1b&{\dn pa.navaanakagomukhaa.h}&pa|.na|vaa|&pa.navaa.h\\
   &&&= {\dn pa.navaa.h}\\
@@ -1287,7 +1326,8 @@ loudly---the conch shell was blown by the powerful one (Bhii.sma).
   &&&\\
   &&bhya|han|yan|ta&abhyahanyanta\\
   &&&= {\dn abhyahanyanta}\\
-  &&&= simultaneously sounded\\ \hline
+  &&&= simultaneously sounded\\
+  \hline
   &&&\\\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that\\
   &&&\\
@@ -1352,13 +1392,15 @@ suddenly really simultaneously sounded. That sound was tumultuous.
   &&&\\
   &&yuk|te&yukte\\
   &&&= {\dn yukte}\\
-  &&&= in a/the yoke\\ \hline
+  &&&= in a/the yoke\\
+  \hline
   &&&\\
   1b&{\dn mahati}&ma|ha|ti&to honor\\
   &&&\\
   &{\dn syandane}&syan|da|ne&in a/the chariot\\
   &&&\\
-  &{\dn sthitau}&sthi|tau&there\\ \hline
+  &{\dn sthitau}&sthi|tau&there\\
+  \hline
   &&&\\
   2a&{\dn maadhava.h}&maa|dha|va|.h(a)&K.r.s.na\\
   &&&\\
@@ -1369,7 +1411,8 @@ suddenly really simultaneously sounded. That sound was tumultuous.
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\ \hline
+  &&va&eva = {\dn eva} = really\\
+  \hline
   &&&\\
   2b&{\dn divyau}&div|yau&divine\\
   &&&\\
@@ -1436,12 +1479,14 @@ K.r.s.na and Arjuna really blew two divine conch shells.
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
   &&&= {\dn h.r.siike"sa.h}\\
   &&&= H.r.siike"sa\\
-  &&&= K.r.s.na\\ \hline
+  &&&= K.r.s.na\\
+  \hline
   &&&\\
   1b&{\dn devadatta.m}&de|va|dat|ta.m&Devadatta\\
   &&&= Arjuna's conch shell\\
   &&&\\
-  &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya|.h(a)&Dhana\~{}njaya = Arjuna\\ \hline
+  &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya|.h(a)&Dhana\~{}njaya = Arjuna\\
+  \hline
   &&&\\
   2a&{\dn pau.n.dra.m}&pau.n|.dra.m&Pau.n.dra\\
   &&&= Bhiima's conch shell\\
@@ -1454,7 +1499,8 @@ K.r.s.na and Arjuna really blew two divine conch shells.
   &&&\\
   &&"sa"n|kha.m&"sa"nkham\\
   &&&= {\dn "sa"nkham}\\
-  &&&= conch shell\\ \hline
+  &&&= conch shell\\
+  \hline
   &&&\\
   2b&{\dn bhiimakarmaa}&bhii|ma|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
@@ -1525,7 +1571,8 @@ eat at lot).
   &&&\\
   &{\dn raajaa}&raa|jaa&raaja.h\\
   &&&= {\dn raaja.h}\\
-  &&&= king\\ \hline
+  &&&= king\\
+  \hline
   &&&\\
   1b&{\dn kuntiiputro}&kun|tii|&Kuntii\\
   &&&\\
@@ -1533,7 +1580,8 @@ eat at lot).
   &&&= {\dn putra.h}\\
   &&&= son\\
   &&&\\
-  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra|.h(a)&Yudhi.s.thira\\ \hline
+  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra|.h(a)&Yudhi.s.thira\\
+  \hline
   &&&\\
   2a&{\dn nakula.h}&na|ku|la|.h(a)&Nakula\\
   &&&\\
@@ -1541,7 +1589,8 @@ eat at lot).
   &&&= {\dn sahadeva.h}\\
   &&&= Sahadeva\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn sugho.sama.nipu.spakau}&su|gho|.sa|&Sugho.sa\\
   &&&= the name of a conch shell\\
@@ -1591,7 +1640,8 @@ Sugho.sa and Ma.nipu.spaka.
   &&&\\
   &&vaa|sa|.h(a)&i.svaasa.h\\
   &&&= {\dn i.svaasa.h}\\
-  &&&= archer\\ \hline
+  &&&= archer\\
+  \hline
   &&&\\
   1b&{\dn "sikha.n.dii}&"si|kha.n|.dii&"Sikha.n.dii\\
   &&&\\
@@ -1603,7 +1653,8 @@ Sugho.sa and Ma.nipu.spaka.
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
-  &&&= chariot/warrior\\ \hline
+  &&&= chariot/warrior\\
+  \hline
   &&&\\
   2a&{\dn dh.r.s.tadyumno}&dh.r.s|.tad|yum|no&dh.r.s.tadyumna.h\\
   &&&= {\dn dh.r.s.tadyumna.h}\\
@@ -1613,7 +1664,8 @@ Sugho.sa and Ma.nipu.spaka.
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   2b&{\dn saatyaki"scaaparaajita.h}&saat|ya|ki"s|&saatyaki.h\\
   &&&= {\dn saatyaki.h}\\
@@ -1660,11 +1712,13 @@ undefeated one; \dots
   &&&= {\dn draupadeyaa.h}\\
   &&&= Draupadii's sons\\
   &&&\\
-  &&ca&{\dn ca} = and\\ \hline
+  &&ca&{\dn ca} = and\\
+  \hline
   &&&\\
   1b&{\dn sarva"sa.h}&sar|va|"sa|.h(a)&all\\
   &&&\\
-  &{\dn p.rthiviipate}&p.r|thi|vii|pa|te&O King\\ \hline
+  &{\dn p.rthiviipate}&p.r|thi|vii|pa|te&O King\\
+  \hline
   &&&\\
   2a&{\dn saubhadra"sca}&sau|bha|dra"s|&saubhadra.h\\
   &&&= {\dn saubhadra.h}\\
@@ -1678,7 +1732,8 @@ undefeated one; \dots
   &&&\\
   &&baa|hu|.h(u)&baahu.h\\
   &&&= {\dn baahu.h}\\
-  &&&= forearm\\ \hline
+  &&&= forearm\\
+  \hline
   &&&\\
   2b&{\dn "sa"nkhaandadhmu.h}&"sa"n|khaan|&conch shells\\
   &&&\\
@@ -1726,10 +1781,12 @@ with a big forearm---they blew conch shells separately.
   &&&= sound\\
   &&&\\
   &{\dn dhaartaraa.s.traa.naa.m}&dhaar|ta|raa.s|.traa|.naa.m&Dh.r.taraa.s.tra's\\
-  &&&sons'\\ \hline
+  &&&sons'\\
+  \hline
   1b&{\dn h.rdayaani}&h.r|da|yaa|ni&hearts\\
   &&&\\
-  &{\dn vyadaarayat}&vya|daa|ra|yat&pierced (?)\\ \hline
+  &{\dn vyadaarayat}&vya|daa|ra|yat&pierced (?)\\
+  \hline
   &&&\\
   2a&{\dn nabha"sca}&na|bha"s|&nabha.h\\
   &&&= {\dn nabha.h}\\
@@ -1741,7 +1798,8 @@ with a big forearm---they blew conch shells separately.
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\ \hline
+  &&va&eva = {\dn eva} = really\\
+  \hline
   &&&\\
   2b&{\dn tumulo.abhyanunaadayan}&tu|mu|lo|&tumulam\\
   &&&= {\dn tumulam}\\
@@ -1796,19 +1854,22 @@ hearts, the sky, and the earth, and really was a resounding tumult.
   &&&= at\\
   &&&\\
   &&d.r.s.t|vaa&{\dn d.r.s.tvaa}\\
-  &&&= having seen\\ \hline
+  &&&= having seen\\
+  \hline
   &&&\\
   1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
   &&&\\
   &&ka|pi|&kapi.h = {\dn kapi.h} = monkey\\
   &&&\\
-  &&dhva|ja|.h(a)&flag\\ \hline
+  &&dhva|ja|.h(a)&flag\\
+  \hline
   &&&\\
   2a&{\dn prav.rtte}&pra|v.rt|te&having started\\
   &&&\\
   &{\dn "sastrasampaate}&"sas|tra|&"sastra.h = {\dn "sastra.h} = arrow\\
   &&&\\
-  &&sam|paa|te&in a/the fall\\ \hline
+  &&sam|paa|te&in a/the fall\\
+  \hline
   &&&\\
   2b&{\dn dhanurudyamya}&dha|nu|&dhanum = {\dn dhanum} = bow\\
   &&&(in archery)\\
@@ -1817,7 +1878,8 @@ hearts, the sky, and the earth, and really was a resounding tumult.
   &&&= {\dn udyamya}\\
   &&&= having lifted\\
   &&&\\
-  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&a son of Paa.n.du\\ \hline
+  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&a son of Paa.n.du\\
+  \hline
   &&&\\
   3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&K.r.s.na\\
   &&&\\
@@ -1825,7 +1887,8 @@ hearts, the sky, and the earth, and really was a resounding tumult.
   &&&\\
   &{\dn vaakyamidamaaha}&vaa|kya|&vaakyam\\
   &&&= {\dn vaakyam}\\
-  &&&= sentence\\ \hline
+  &&&= sentence\\
+  \hline
   &&&\\
   3b&&mi|da|&idam = {\dn idam} = this\\
   &&&\\
@@ -1897,7 +1960,8 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn senayorubhayprmadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
@@ -1920,7 +1984,8 @@ bow---to K.r.s.na, he then said this sentence, O big master (O King).
   &&'cyu|ta&acyuta\\
   &&&= {\dn acyuta}\\
   &&&= O Permanent\\
-  &&&(O K.r.s.na)\\ \hline
+  &&&(O K.r.s.na)\\
+  \hline
   &&&\\
   2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat = {\dn yaavat} = while\\
   &&&\\
@@ -2003,7 +2068,8 @@ here, \dots
   &{\dn yoddhavyamasminra.nasamudyame}&yod|dha|vya|&yoddhavyam\\
   &&&= {\dn yoddhavyam}\\
   &&&= something that needs\\
-  &&&\quad fighting against (?)\\ \hline
+  &&&\quad fighting against (?)\\
+  \hline
   &&&\\
   1b&&mas|min|&asmin\\
   &&&= {\dn asmin}\\
@@ -2056,7 +2122,8 @@ effort.
   &&&= {\dn avek.se}\\
   &&&= (I) see\\
   &&&\\
-  &&'ha.m&aha.m = {\dn aha.m} = I\\ \hline
+  &&'ha.m&aha.m = {\dn aha.m} = I\\
+  \hline
   &&&\\
   2a&{\dn ya}&ya&ye = {\dn ye} = who\\
   &&&\\
@@ -2066,13 +2133,15 @@ effort.
   &&&= {\dn atra}\\
   &&&= here\\
   &&&\\
-  &{\dn samaagataa.h}&sa|maa|ga|taa|.h(aa)&together\\ \hline
+  &{\dn samaagataa.h}&sa|maa|ga|taa|.h(aa)&together\\
+  \hline
   &&&\\
   2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&Dh.rtaraa.s.tra's son's\\
   &&&\\
   &{\dn durbuddher}&dur|bud|dher&dur + buddhi.h\\
   &&&= {\dn dur} + {\dn buddhi.h}\\
-  &&&= bad + mind\\ \hline
+  &&&= bad + mind\\
+  \hline
   &&&\\
   2b&{\dn yuddhepriyacikiir.sava.h}&yud|dhe|&in a/the fight\\
   &&&\\
@@ -2137,7 +2206,8 @@ Dh.rtaraa.s.tra's son's bad mind, loving and wishing to be in a fight.
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn evamukto}&e|va|&evam = {\dn evam} = thus\\
   &&&\\
@@ -2145,11 +2215,13 @@ Dh.rtaraa.s.tra's son's bad mind, loving and wishing to be in a fight.
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
   &&&= {\dn h.r.siike"sa.h}\\
-  &&&= K.r.s.na\\ \hline
+  &&&= K.r.s.na\\
+  \hline
   &&&\\
   1b&{\dn gu.daake"sena}&gu|.daa|ke|"se|na&using/by Arjuna\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\ \hline
+  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  \hline
   &&&\\
   2a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
@@ -2159,7 +2231,8 @@ Dh.rtaraa.s.tra's son's bad mind, loving and wishing to be in a fight.
   &&&= {\dn ubhayo.h}\\
   &&&= in two things\\
   &&&\\
-  &&ma|dhye&between/among\\ \hline
+  &&ma|dhye&between/among\\
+  \hline
   &&&\\
   2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having stopped\\
   &&&\\
@@ -2223,7 +2296,8 @@ stopped the best chariot between the two armies.
   &&&\\
   &&dro|.na|&Dro.na\\
   &&&\\
-  &&pra|mu|kha|ta|.h(a)&in front of\\ \hline
+  &&pra|mu|kha|ta|.h(a)&in front of\\
+  \hline
   &&&\\
   1b&{\dn sarve.saa.m}&sar|ve|.saa.m&all\\
   &&&\\
@@ -2233,7 +2307,8 @@ stopped the best chariot between the two armies.
   &&&\\
   &&k.si|taam&k.sitaan\\
   &&&= {\dn k.sitaan}\\
-  &&&= inhabitants\\ \hline
+  &&&= inhabitants\\
+  \hline
   &&&\\
   2a&{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\\
@@ -2245,7 +2320,8 @@ stopped the best chariot between the two armies.
   &&&\\
   &&taan|&etaan\\
   &&&= {\dn etaan}\\
-  &&&= these\\ \hline
+  &&&= these\\
+  \hline
   &&&\\
   2b&&sa|ma|ve|taan|&all\\
   &&&\\
@@ -2316,7 +2392,8 @@ said, ``O son of P.rthaa, see all these Kurus.''
   &&&\\
   &&sthi|taan|&standing\\
   &&&\\
-  &&paar|tha|.h(a)&prince (Arjuna)\\ \hline
+  &&paar|tha|.h(a)&prince (Arjuna)\\
+  \hline
   &&&\\
   1b&{\dn pit.Rnatha}&pi|t.rr|na|&pit.rrn\\
   &&&= {\dn pit.Rn}\\
@@ -2326,7 +2403,8 @@ said, ``O son of P.rthaa, see all these Kurus.''
   &&&= {\dn atha}\\
   &&&= then\\
   &&&\\
-  &{\dn pitaamahaan}&pi|taa|ma|haan&grandfathers\\ \hline
+  &{\dn pitaamahaan}&pi|taa|ma|haan&grandfathers\\
+  \hline
   &&&\\
   2a&\multicolumn{3}{l}{\dn aacaaryaanmaatulaanbhraat.Rnputraanpautraansakhii.mstathaa}\\
   &&&\\
@@ -2334,7 +2412,8 @@ said, ``O son of P.rthaa, see all these Kurus.''
   &&&\\
   &&maa|tu|laan|&maternal uncles\\
   &&&\\
-  &&bhraa|t.rrn&brothers\\ \hline
+  &&bhraa|t.rrn&brothers\\
+  \hline
   &&&\\
 \end{tabular}
 \newpage
@@ -2401,7 +2480,8 @@ brothers-in-law, fathers-in-law, and friends also, in the two armies.
   &&&= {\dn sakhiin}\\
   &&&= brothers-in-law\\
   &&&\\
-  &&ta|thaa&so\\ \hline
+  &&ta|thaa&so\\
+  \hline
   &&&\\
   3a&{\dn "sva"suraansuh.rda"scaiva}&"sva|"su|raan|&fathers-in-law\\
   &&&\\
@@ -2411,7 +2491,8 @@ brothers-in-law, fathers-in-law, and friends also, in the two armies.
   &&&\\
   &&cai|&and\\
   &&&\\
-  &&va&eva = {\dn eva} = also\\ \hline
+  &&va&eva = {\dn eva} = also\\
+  \hline
   &&&\\
   3b&{\dn senayorubhayorapi}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
@@ -2482,7 +2563,8 @@ half.
   &&&= {\dn sa.h}\\
   &&&= he/that\\
   &&&\\
-  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii: Arjuna\\ \hline
+  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii: Arjuna\\
+  \hline
   &&&\\
   1b&{\dn sarvaanbandhuunavasthitaan}&sar|vaan|&all\\
   &&&\\
@@ -2492,7 +2574,8 @@ half.
   &&&\\
   &&va|sthi|taan&avasthitaan\\
   &&&= {\dn avasthitaan}\\
-  &&&= standing\\ \hline
+  &&&= standing\\
+  \hline
   &&&\\
   2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by compassion\\
   &&&= ``please''\\
@@ -2502,7 +2585,8 @@ half.
   &&&\\
   &&vi.s|.to&aavi.s.ta.h\\
   &&&= {\dn aavi.s.ta.h}\\
-  &&&= filled\\ \hline
+  &&&= filled\\
+  \hline
   &&&\\
   2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&sadness (?)\\
   &&&\\
@@ -2576,7 +2660,8 @@ with sadness, he said this: \dots
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn d.r.s.tvema.m}&d.r.s.t|ve|&d.r.s.tvaa\\
   &&&= {\dn d.r.s.tvaa}\\
@@ -2586,17 +2671,20 @@ with sadness, he said this: \dots
   &&&\\
   &{\dn svajana.m}&sva|ja|na.m&group of relatives\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\ \hline
+  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  \hline
   &&&\\
   1b&{\dn yuyutsu.m}&yu|yut|su.m&wanting to fight\\
   &&&\\
-  &{\dn samupasthitam}&sa|mu|pas|thi|tam&acquired\\ \hline
+  &{\dn samupasthitam}&sa|mu|pas|thi|tam&acquired\\
+  \hline
   &&&\\
   2a&{\dn siidanti}&sii|dan|ti&(they) weaken\\
   &&&\\
   &{\dn mama}&ma|ma&my\\
   &&&\\
-  &{\dn gaatraa.ni}&gaa|traa|.ni&arms and legs\\ \hline
+  &{\dn gaatraa.ni}&gaa|traa|.ni&arms and legs\\
+  \hline
   &&&\\
   2b&{\dn mukha.m}&mu|kha.m&mouth\\
   &&&\\
@@ -2670,7 +2758,8 @@ legs weaken, and my mouth dries up.
   &&&\\
   &{\dn "sariire}&"sa|rii|re&on a/the body\\
   &&&\\
-  &{\dn me}&me&my\\ \hline
+  &{\dn me}&me&my\\
+  \hline
   &&&\\
   1b&{\dn romahar.sa"sca}&ro|ma|har|.sa"s|&romahar.sa.h\\
   &&&= {\dn romahar.sa.h}\\
@@ -2680,13 +2769,15 @@ legs weaken, and my mouth dries up.
   &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&is being born\\
-  &&&= is happening\\ \hline
+  &&&= is happening\\
+  \hline
   &&&\\
   2a&{\dn gaa.n.diiva.m}&gaa.n|.dii|va.m&bow (in archery)\\
   &&&\\
   &{\dn sra.msate}&sra.m|sa|te&slips\\
   &&&\\
-  &{\dn hastaattvakcaiva}&has|taat|&from a/the hand\\ \hline
+  &{\dn hastaattvakcaiva}&has|taat|&from a/the hand\\
+  \hline
   &&&\\
   &&tvak|&{\dn tvac}\\
   &&&= {\dn tvac}\\
@@ -2758,7 +2849,8 @@ really burns.
   &&&\\
   &&vas|thaa|tu.m&avasthaatu.m\\
   &&&= {\dn avasthaatu.m}\\
-  &&&= to stay\\ \hline
+  &&&= to stay\\
+  \hline
   &&&\\
   1b&{\dn bhramatiiva}&bhra|ma|tii|&bhramati\\
   &&&= {\dn bhramati}\\
@@ -2770,13 +2862,15 @@ really burns.
   &&&\\
   &{\dn me}&me&my\\
   &&&\\
-  &{\dn mana.h}&ma|na|.h(a)&mind\\ \hline
+  &{\dn mana.h}&ma|na|.h(a)&mind\\
+  \hline
   &&&\\
   2a&{\dn nimittaani}&ni|mit|taa|ni&causes (noun, not verb)\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn pa"syaami}&pa"s|yaa|mi&(I) see\\ \hline
+  &{\dn pa"syaami}&pa"s|yaa|mi&(I) see\\
+  \hline
   &&&\\
   2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&opposites\\
   &&&\\
@@ -2831,7 +2925,8 @@ see causes of opposites (adversity), O K.r.s.na.
   &&&= {\dn "sreya.h}\\
   &&&= credit\\
   &&&\\
-  &&'nu|pa"s|yaa|mi&(I) see\\ \hline
+  &&'nu|pa"s|yaa|mi&(I) see\\
+  \hline
   &&&\\
   1b&{\dn hatvaa}&hat|vaa&hatyaa\\
   &&&= {\dn hatyaa}\\
@@ -2841,7 +2936,8 @@ see causes of opposites (adversity), O K.r.s.na.
   &&&= {\dn svajanam}\\
   &&&= group of relatives\\
   &&&\\
-  &&maa|ha|ve&in a/the war\\ \hline
+  &&maa|ha|ve&in a/the war\\
+  \hline
   &&&\\
   2a&{\dn na}&na&not\\
   &&&\\
@@ -2849,7 +2945,8 @@ see causes of opposites (adversity), O K.r.s.na.
   &&&\\
   &{\dn vijaya.m}&vi|ja|ya.m&victory\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\ \hline
+  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  \hline
   &&&\\
   2b&{\dn na}&na&not\\
   &&&\\
@@ -2925,7 +3022,8 @@ things of happiness.
   &&&\\
   &{\dn raajyena}&raa|jye|na&with a/the kingdom\\
   &&&\\
-  &{\dn govinda}&go|vin|da&O K.r.s.na\\ \hline
+  &{\dn govinda}&go|vin|da&O K.r.s.na\\
+  \hline
   &&&\\
   1b&{\dn ki.m}&ki.m&what\\
   &&&\\
@@ -2935,7 +3033,8 @@ things of happiness.
   &&&\\
   &&jii|vi|te|na&with life\\
   &&&\\
-  &{\dn vaa}&vaa&(yes/no question)\\ \hline
+  &{\dn vaa}&vaa&(yes/no question)\\
+  \hline
   &&&\\
   2a&{\dn ye.saamarthe}&ye|.saa|&ye.saam\\
   &&&= {\dn ye.saam}\\
@@ -2947,7 +3046,8 @@ things of happiness.
   &&&\\
   &{\dn kaa"nk.sita.m}&kaa"nk|.si|ta.m&is wished for (?)\\
   &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = to us\\ \hline
+  &{\dn no}&no&na.h = {\dn na.h} = to us\\
+  \hline
   &&&\\
   2b&{\dn raajya.m}&raa|jya.m&kingdom\\
   &&&\\
@@ -3020,7 +3120,8 @@ happiness?
   &&&\\
   &{\dn dhanaani}&dha|naa|ni&pieces of money\\
   &&&\\
-  &{\dn ca}&ca&and\\ \hline
+  &{\dn ca}&ca&and\\
+  \hline
   &&&\\
   2a&{\dn aacaaryaa.h}&aa|caar|yaa|.h(aa)&teachers\\
   &&&\\
@@ -3028,7 +3129,8 @@ happiness?
   &&&\\
   &{\dn putraastathaiva}&pu|traas|&putraa.h\\
   &&&= {\dn putraa.h}\\
-  &&&= sons\\ \hline
+  &&&= sons\\
+  \hline
   &&&\\
   2b&&ta|thai|&tathaa\\
   &&&= {\dn tathaa}\\
@@ -3099,9 +3201,11 @@ Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = ``there.''
   1a&{\dn maatulaa.h}&maa|tu|laa|.h(aa)&maternal uncles\\
   &&&\\
   &{\dn "sva"suraa.h}&"sva|"su|raa|.h(aa)&fathers-in-law\\
-  &&&\\ \hline
   &&&\\
-  1a+&{\dn pautraa.h}&pau|traa|.h(aa)&sons of sons\\ \hline
+  \hline
+  &&&\\
+  1a+&{\dn pautraa.h}&pau|traa|.h(aa)&sons of sons\\
+  \hline
   &&&\\
   1b&{\dn "syaalaa.h}&"syaa|laa|.h(aa)&brothers of wives\\
   &&&\\
@@ -3109,7 +3213,8 @@ Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = ``there.''
   &&&= {\dn sambandhina.h}\\
   &&&= relative\\
   &&&\\
-  &&ta|thaa&so\\ \hline
+  &&ta|thaa&so\\
+  \hline
   &&&\\
   2a&{\dn etaanna}&e|taan|&etaani = {\dn etaani} = these\\
   &&&\\
@@ -3121,7 +3226,8 @@ Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = ``there.''
   &&&\\
   &&mic|chaa|mi&icchaami\\
   &&&= {\dn icchaami}\\
-  &&&= (I) like\\ \hline
+  &&&= (I) like\\
+  \hline
   &&&\\
   2b&{\dn ghnato.api}&ghna|to|&killing\\
   &&&\\
@@ -3208,7 +3314,8 @@ whose name means ``honey'').
   &&&= {\dn trailokyam}\\
   &&&= group of three worlds\\
   &&&\\
-  &&raa|jya|sya&kingdom's\\ \hline
+  &&raa|jya|sya&kingdom's\\
+  \hline
   &&&\\
   1b&{\dn heto.h}&he|to|.h(o)&for\\
   &&&\\
@@ -3218,13 +3325,15 @@ whose name means ``honey'').
   &&&\\
   &{\dn mahik.rte}&ma|hii|&earth\\
   &&&\\
-  &&k.r|te&for the sake of\\ \hline
+  &&k.r|te&for the sake of\\
+  \hline
   &&&\\
   2a&{\dn nihatya}&ni|ha|tya&by killing\\
   &&&\\
   &{\dn dhaartaraa.s.traanna.h}&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
   &&&\\
-  &&na|.h(a)&our\\ \hline
+  &&na|.h(a)&our\\
+  \hline
   &&&\\
   2b&{\dn kaa}&kaa&what\\
   &&&\\
@@ -3296,7 +3405,8 @@ our happiness, perhaps, O K.r.s.na?
   &&&\\
   &&das|maan|&asmaan\\
   &&&= {\dn asmaan}\\
-  &&&= us\\ \hline
+  &&&= us\\
+  \hline
   &&&\\
   1b&&hat|vai|&hatvaa\\
   &&&= {\dn hatvaa}\\
@@ -3308,7 +3418,8 @@ our happiness, perhaps, O K.r.s.na?
   &&&\\
   &&naa|ta|taa|yi|na|.h(a)&aatataayina.h\\
   &&&= {\dn aatataayina.h}\\
-  &&&= warrior\\ \hline
+  &&&= warrior\\
+  \hline
   &&&\\
   2a&{\dn tasmaannaarhaa}&tas|maan|&tasmaat\\
   &&&= {\dn tasmaat}\\
@@ -3322,7 +3433,8 @@ our happiness, perhaps, O K.r.s.na?
   &&&\\
   &{\dn vaya.m}&va|ya.m&we\\
   &&&\\
-  &{\dn hantu.m}&han|tu.m&killing\\ \hline
+  &{\dn hantu.m}&han|tu.m&killing\\
+  \hline
   &&&\\
 \end{tabular}
 \newpage
@@ -3378,7 +3490,8 @@ relatives. Surely, by killing, how happy will we be, O K.r.s.na?
   &&&\\
   &&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
   &&&\\
-  &&sa|baan|dha|vaan&related\\ \hline
+  &&sa|baan|dha|vaan&related\\
+  \hline
   &&&\\
   3a&{\dn svajana.m}&sva|ja|na.m&group of relatives\\
   &&&\\
@@ -3386,7 +3499,8 @@ relatives. Surely, by killing, how happy will we be, O K.r.s.na?
   &&&\\
   &{\dn katha.m}&ka|tha.m&how\\
   &&&\\
-  &{\dn hatvaa}&hat|vaa&by killing\\ \hline
+  &{\dn hatvaa}&hat|vaa&by killing\\
+  \hline
   &&&\\
   3c&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
   &&&\\
@@ -3441,7 +3555,8 @@ half.
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn pa"syanti}&pa"s|yan|ti&(they) see\\ \hline
+  &{\dn pa"syanti}&pa"s|yan|ti&(they) see\\
+  \hline
   &&&\\
   1b&{\dn lobhopahatacetasa.h}&lo|bho|&lobha.h\\
   &&&= {\dn lobha.h}\\
@@ -3453,13 +3568,15 @@ half.
   &&&\\
   &&ce|ta|sa|.h(a)&cetas\\
   &&&= {\dn cetas}\\
-  &&&= mind\\ \hline
+  &&&= mind\\
+  \hline
   &&&\\
   2a&{\dn kulak.sayak.rta.m}&ku|la|k.sa|ya|&decay of a family\\
   &&&\\
   &&k.r|ta.m&deed\\
   &&&\\
-  &{\dn do.sa.m}&do|.sa.m&fault\\ \hline
+  &{\dn do.sa.m}&do|.sa.m&fault\\
+  \hline
   &&&\\
   2b&{\dn mitradrohe}&mi|tra|&mitram\\
   &&&= {\dn mitram}\\
@@ -3535,7 +3652,8 @@ an attack on a friend as a sin; \dots
   &&&\\
   &&mas|maa|bhi|.h(i)&asmaabhi.h\\
   &&&= {\dn asmaabhi.h}\\
-  &&&= with/by us\\ \hline
+  &&&= with/by us\\
+  \hline
   &&&\\
   2a&{\dn paapaadasmaannivartitum}&paa|paa&paapaat\\
   &&&= {\dn paapaat}\\
@@ -3545,13 +3663,15 @@ an attack on a friend as a sin; \dots
   &&&= {\dn asmaat}\\
   &&&= these\\
   &&&\\
-  &&ni|var|ti|tum&abandoned\\ \hline
+  &&ni|var|ti|tum&abandoned\\
+  \hline
   &&&\\
   2a&{\dn kulak.sayak.rta.m}&ku|la|k.sa|ya|&decay of a family\\
   &&&\\
   &&k.r|ta.m&deed\\
   &&&\\
-  &{\dn do.sa.m}&do|.sa.m&sin\\ \hline
+  &{\dn do.sa.m}&do|.sa.m&sin\\
+  \hline
   &&&\\
   2b&{\dn prapa"syadbhirjanaardana}&pra|pa"s|yad|bhir|&prapa"syadhi.h\\
   &&&= {\dn prapa"syadbhi.h}\\
@@ -3609,11 +3729,13 @@ people who can see (by sensible people), O K.r.s.na.
 \begin{tabular}{llll}
   1a&{\dn kulak.saye}&ku|la|k.sa|ye&in a/the decay of a family\\
   &&&\\
-  &{\dn pra.na"syanti}&pra|.na"s|yan|ti&(they) disappear\\ \hline
+  &{\dn pra.na"syanti}&pra|.na"s|yan|ti&(they) disappear\\
+  \hline
   &&&\\
   1b&{\dn kuladharmaa.h}&ku|la|dhar|maa|.h(aa)&family natures\\
   &&&\\
-  &{\dn sanaatanaa.h}&sa|naa|ta|naa|.h(aa)&eternal\\ \hline
+  &{\dn sanaatanaa.h}&sa|naa|ta|naa|.h(aa)&eternal\\
+  \hline
   &&&\\
   2a&{\dn dharme}&dhar|me&in a/the nature\\
   &&&\\
@@ -3625,7 +3747,8 @@ people who can see (by sensible people), O K.r.s.na.
   &&&\\
   &&k.rts|na|&k.rtsnam\\
   &&&= {\dn k.rtsnam}\\
-  &&&= all\\ \hline
+  &&&= all\\
+  \hline
   &&&\\
   2b&&ma|dhar|mo|&adharma.h\\
   &&&= {\dn adharma.h}\\
@@ -3703,7 +3826,8 @@ family, also.
   &&&= {\dn abhibhavaat}\\
   &&&= having overcome (?)\\
   &&&\\
-  &&k.r.s|.na&O K.r.s.na\\ \hline
+  &&k.r.s|.na&O K.r.s.na\\
+  \hline
   &&&\\
   1b&{\dn pradu.syanti}&pra|du.s|yan|ti&(they) sin\\
   &&&\\
@@ -3711,13 +3835,15 @@ family, also.
   &&&= {\dn kulam}\\
   &&&= family\\
   &&&\\
-  &&stri|ya|.h(a)&women\\ \hline
+  &&stri|ya|.h(a)&women\\
+  \hline
   &&&\\
   2a&{\dn strii.su}&strii|.su&in a/the woman\\
   &&&\\
   &{\dn du.s.taasu}&du.s.|taa|su&evil\\
   &&&\\
-  &{\dn vaar.s.neya}&vaar.s|.ne|ya&O Vaar.s.neya\\ \hline
+  &{\dn vaar.s.neya}&vaar.s|.ne|ya&O Vaar.s.neya\\
+  \hline
   &&&\\
   2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is being born\\
   &&&\\
@@ -3798,7 +3924,8 @@ unwanted, mixed-caste child.
   &&&= {\dn narakaayate}\\
   &&&= (he/she/it) is hellish\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\ \hline
+  &&va&eva = {\dn eva} = really\\
+  \hline
   &&&\\
   1b&{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
@@ -3808,7 +3935,8 @@ unwanted, mixed-caste child.
   &&&\\
   &{\dn kulasya}&ku|la|sya&family's\\
   &&&\\
-  &{\dn ca}&ca&and\\ \hline
+  &{\dn ca}&ca&and\\
+  \hline
   &&&\\
   2a&{\dn patanti}&pa|tan|ti&(they) fall\\
   &&&\\
@@ -3818,7 +3946,8 @@ unwanted, mixed-caste child.
   &&&\\
   &{\dn hye.saa.m}&hye|&hi = {\dn hi} = certainly\\
   &&&\\
-  &&.saa.m&{\dn e.saa.m} = their\\ \hline
+  &&.saa.m&{\dn e.saa.m} = their\\
+  \hline
   &&&\\
   2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&stopped\\
   &&&\\
@@ -3903,7 +4032,8 @@ water and food offered to their ancestors are stopped.
   &&&= {\dn kulam}\\
   &&&= family\\
   &&&\\
-  &&ghnaa|naa.m&killers' (?)\\ \hline
+  &&ghnaa|naa.m&killers' (?)\\
+  \hline
   &&&\\
   1b&{\dn var.nasa"nkarakaarakai.h}&var|.na|sa"n|ka|ra|&var.na.h + sa"nkara.h\\
   &&&= {\dn var.na.h} + {\dn sa"nkara.h}\\
@@ -3911,7 +4041,8 @@ water and food offered to their ancestors are stopped.
   &&&= unwanted,\\
   &&&\quad mixed-caste children\\
   &&&\\
-  &&kaa|ra|kai|.h(i)&by/using factors\\ \hline
+  &&kaa|ra|kai|.h(i)&by/using factors\\
+  \hline
   &&&\\
   2a&{\dn utsaadyante}&ut|saa|dyan|te&destroyed\\
   &&&\\
@@ -3919,7 +4050,8 @@ water and food offered to their ancestors are stopped.
   &&&= {\dn jaati.h}\\
   &&&= group\\
   &&&\\
-  &&dhar|maa|.h(aa)&natures\\ \hline
+  &&dhar|maa|.h(aa)&natures\\
+  \hline
   &&&\\
   2b&{\dn kuladharmaa"sca"saa"svataa.h}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
@@ -3999,11 +4131,13 @@ family natures, too, for eternity.
   &&&= {\dn kulam}\\
   &&&= family\\
   &&&\\
-  &&dhar|maa|.naa.m&natures'\\ \hline
+  &&dhar|maa|.naa.m&natures'\\
+  \hline
   &&&\\
   1b&{\dn manu.syaa.naa.m}&ma|nu.s|yaa|.naa.m&men's\\
   &&&\\
-  &{\dn janaardana}&ja|naar|da|na&O K.r.s.na\\ \hline
+  &{\dn janaardana}&ja|naar|da|na&O K.r.s.na\\
+  \hline
   &&&\\
   2a&{\dn narake}&na|ra|ke&in hell\\
   &&&\\
@@ -4011,7 +4145,8 @@ family natures, too, for eternity.
   &&&\\
   &{\dn vaaso}&vaa|so&vaasa.h\\
   &&&= {\dn vaasa.h}\\
-  &&&= residence\\ \hline
+  &&&= residence\\
+  \hline
   &&&\\
   2b&{\dn bhavatiityanu"su"sruma}&bha|va|tii|&bhavati\\
   &&&= {\dn bhavati}\\
@@ -4082,7 +4217,8 @@ family natures, too, for eternity.
   &&&\\
   &{\dn mahatpaapa.m}&ma|hat|&big\\
   &&&\\
-  &&paa|pa.m&sin\\ \hline
+  &&paa|pa.m&sin\\
+  \hline
   &&&\\
   1b&{\dn kartu.m}&kar|tu.m&doing\\
   &&&\\
@@ -4090,7 +4226,8 @@ family natures, too, for eternity.
   &&&= {\dn vyavasitaa.h}\\
   &&&= sure\\
   &&&\\
-  &{\dn vayam}&va|yam&we\\ \hline
+  &{\dn vayam}&va|yam&we\\
+  \hline
   &&&\\
   2a&{\dn yadraajyasukhalobhena}&yad|&yat = {\dn yat} = that\\
   &&&\\
@@ -4102,7 +4239,8 @@ family natures, too, for eternity.
   &&&= {\dn sukham}\\
   &&&= happiness\\
   &&&\\
-  &&lo|bhe|na&using/by greed\\ \hline
+  &&lo|bhe|na&using/by greed\\
+  \hline
   &&&\\
   2b&{\dn hantu.m}&han|tu.m&killing\\
   &&&\\
@@ -4167,13 +4305,15 @@ kingdom happiness, we are ready for killing of a group of relatives.
   &&&\\
   &&pra|tii|kaa|ra|ma&apratiikaaram\\
   &&&= {\dn apratiikaaram}\\
-  &&&= not resisting\\ \hline
+  &&&= not resisting\\
+  \hline
   &&&\\
   1b&&"sa|stra.m&a"sastram\\
   &&&= {\dn a"sastram}\\
   &&&= unarmed\\
   &&&\\
-  &{\dn "sastrapaa.naya.h}&"sa|stra|paa|.na|ya|.h(a)&armed (?)\\ \hline
+  &{\dn "sastrapaa.naya.h}&"sa|stra|paa|.na|ya|.h(a)&armed (?)\\
+  \hline
   &&&\\
   2a&{\dn dhaartaraa.s.traa}&dhaar|ta|raa.s|.traa&dhaartaraa.s.traa.h\\
   &&&= {\dn dhaartaraa.s.traa.h}\\
@@ -4181,7 +4321,8 @@ kingdom happiness, we are ready for killing of a group of relatives.
   &&&\\
   &{\dn ra.ne}&ra|.ne&on the battlefield\\
   &&&\\
-  &{\dn hanyustanme}&han|yus|&killing (?)\\ \hline
+  &{\dn hanyustanme}&han|yus|&killing (?)\\
+  \hline
   &&&\\
   2b&&tan|&tat = {\dn tat} = that\\
   &&&\\
@@ -4249,7 +4390,8 @@ comfortable.
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\ \hline
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  \hline
   &&&\\
   1a&{\dn evamuktvaarjuna.h}&e|va|mukt|&evam = {\dn evam} = thus\\
   &&&\\
@@ -4261,7 +4403,8 @@ comfortable.
   &&&= {\dn arjuna.h}\\
   &&&= Arjuna\\
   &&&\\
-  &{\dn sa"nkhye}&sa"n|khye&on a/the battlefield\\ \hline
+  &{\dn sa"nkhye}&sa"n|khye&on a/the battlefield\\
+  \hline
   &&&\\
   1b&{\dn rathopastha}&ra|tho|&ratha.h\\
   &&&= {\dn ratha.h}\\
@@ -4273,13 +4416,15 @@ comfortable.
   &&&\\
   &{\dn upaavi"sat}&u|paa|vi|"sat&upaavi"sati\\
   &&&= {\dn upaavi"sati}\\
-  &&&= (he/she/it) enters\\ \hline
+  &&&= (he/she/it) enters\\
+  \hline
   &&&\\
   2a&{\dn vis.rjya}&vi|s.r|jya&let go\\
   &&&\\
   &{\dn sa"sara.m}&sa|"sa|ra.m&with an arrow\\
   &&&\\
-  &{\dn caapa.m}&caa|pa.m&bow (in archery)\\ \hline
+  &{\dn caapa.m}&caa|pa.m&bow (in archery)\\
+  \hline
   &&&\\
   2b&{\dn "sokasa.mvignamaanasa.h}&"so|ka|&"soka.h\\
   &&&= {\dn "soka.h}\\
