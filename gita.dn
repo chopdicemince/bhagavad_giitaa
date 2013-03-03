@@ -2476,71 +2476,97 @@ half.
 \begin{tabular}{llll}
   1a&{\dn taansamiik.sya}&taan|&those\\
   &&&\\
-  &&sa|miik|.sya&having seen carefully\\
+  &&sa|miik|.sya&having seen carefully (?)\\
   &&&\\
   &{\dn sa}&sa&sa.h\\
   &&&= {\dn sa.h}\\
   &&&= he/that\\
   &&&\\
-  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii\\ \hline
+  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii: Arjuna\\ \hline
   &&&\\
   1b&{\dn sarvaanbandhuunavasthitaan}&sar|vaan|&all\\
   &&&\\
-  &&ban|dhuu|&bandhuun\\
+  &&ban|dhuu|na|&bandhuun\\
   &&&= {\dn bandhuun}\\
   &&&= relatives\\
   &&&\\
-  &&na|va|sthi|taan&avasthitaan\\
+  &&va|sthi|taan&avasthitaan\\
   &&&= {\dn avasthitaan}\\
-  &&&= placed\\ \hline
+  &&&= standing\\ \hline
   &&&\\
-  2a&{\dn k.rpayaa}&k.r|pa|yaa&with compassion\\
+  2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by compassion\\
   &&&= ``please''\\
   &&&\\
-  &{\dn parayaavi.s.to}&pa|ra|yaa|&high-ranking\\
+  &{\dn parayaavi.s.to}&pa|ra|yaa|&using/by a/the\\
+  &&&\quad most important thing\\
   &&&\\
   &&vi.s|.to&aavi.s.ta.h\\
   &&&= {\dn aavi.s.ta.h}\\
-  &&&= filled with\\ \hline
+  &&&= filled\\ \hline
   &&&\\
-  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&while being sad\\
+  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&sadness (?)\\
   &&&\\
-  &&ni|da|&idam\\
+  &&ni|da|ma|&idam\\
   &&&= {\dn idam}\\
   &&&= this\\
   &&&\\
-  &&ma|bra|viit&abraviit\\
+  &&bra|viit&abraviit\\
   &&&= {\dn abraviit}\\
-  &&&= said\\
+  &&&= (he/she/it) said\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Those relatives and friends, having been seen carefully by that son of
-Kuntii, Arjuna---(they had been) placed (on the field), and (they
-were) high-ranking---Arjuna was filled with compassion. While being
-sad, he said this \dots
+Those, having been seen carefully by that son of Kuntii, Arjuna---all
+relatives, standing, were seen by him---by the most compassion, filled
+with sadness, he said this: \dots
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
 \begin{itemize}
 
+\item Male pronoun: {\dn sa.h} = sa.h = that.
+
+  Plus plural form and \accusativecase: {\dn taan} = taan = those.
+
 \item Verb: {\dn samiik.s} = samiik.s = to see carefully.
 
-\item Male noun: {\dn bandhu.h} = bandu.h = relative.
+  (?) Plus present perfect participle: {\dn samiik.sya} = samiik.sya = having seen carefully.
+
+\item Male pronoun, in plural form: {\dn sarva.h} = sarva.h = all.
+
+  Plus \accusativecase: {\dn sarvaan} = sarvaan = all.
+
+\item Male noun: {\dn bandhu.h} = bandhu.h = relative.
 
   Plus plural form and \accusativecase: {\dn bandhuun} = bandhuun = relatives.
 
+\item Male adjective: {\dn avasthita.h} = avasthita.h = standing.
+
+  Plus plural form and \accusativecase: {\dn avasthitaan} = avasthitaan = standing.
+
 \item Female noun: {\dn k.rpaa} = k.rpaa = compassion.
 
-  Plus \instrumentalcase: {\dn k.rpayaa} = k.rpayaa = with compassion = ``please.''
+  Plus \instrumentalcase: {\dn k.rpayaa} = k.rpayaa = using/by compassion = ``please.''
+
+\item Female noun: {\dn paraa} = paraa = most important thing.
+
+  Plus \instrumentalcase: {\dn parayaa} = parayaa = using/by a/the most important thing.
+
+\item Male adjective: {\dn aavi.s.ta.h} = aavi.s.ta.h = filled.
 
 \item Verb: {\dn vi.sad} = vi.sad = to be sad.
 
+  (?) Plus noun form: {\dn vi.siidan} = vi.siidan = sadness.
+
+\item Indeclinable: {\dn idam} = idam = this.
+
 \item Verb: {\dn bruu} = bruu = to say.
 
-  Plus past tense: {\dn abraviit} = abraviit = said.
+  Plus past tense and third person form and singular form:
+
+  {\dn abraviit} = abraviit = (he/she/it) said.
 
 \end{itemize}
 \newpage
