@@ -1,3 +1,0 @@
-devnag gita.dn gita.tex
-latex gita.tex
-xdg-open gita.dvi
