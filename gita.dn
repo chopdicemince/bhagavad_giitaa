@@ -721,9 +721,9 @@ Drupada's son, your wise student.
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn mahaaratha.h}&ma|haa|&maha\\
-  &&&= {\dn maha}\\
-  &&&= big\\
+  &{\dn mahaaratha.h}&ma|haa|&mahaata.h\\
+  &&&= {\dn mahaata.h}\\
+  &&&= great\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
@@ -734,7 +734,7 @@ Drupada's son, your wise student.
 \subsection*{Translation}
 
 Here are big archer heros equal to Bhiima and Arjuna, at the fight:
-Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
+Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -753,6 +753,10 @@ Yuyudhaana, Viraata, and Drupada, and a big chariot/warrior.
   Plus \locativecase: {\dn yudhi} = yudhi = at a/the fight.
 
 \item Drupada is a male god.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+
+\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
 \end{itemize}
 \newpage
@@ -857,9 +861,9 @@ Kuntibhoja, and Saibya are a best man.
   &&&\\
   &{\dn eva}&e|va&really\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|&maha\\
-  &&&= {\dn maha}\\
-  &&&= big\\
+  &{\dn mahaarathaa.h}&ma|haa|&mahaataa.h\\
+  &&&= {\dn mahaataa.h}\\
+  &&&= great\\
   &&&\\
   &&ra|thaa|.h(aa)&rathaa.h\\
   &&&= {\dn rathaa.h}\\
@@ -870,7 +874,7 @@ Kuntibhoja, and Saibya are a best man.
 \subsection*{Translation}
 
 Strong Yudhaamanyu, very powerful Uttamaujaa, the son of Subhadraa,
-and the sons of Draupadii, are all really big warriors.
+and the sons of Draupadii, are all really great warriors.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -879,6 +883,10 @@ and the sons of Draupadii, are all really big warriors.
 \item Male noun: {\dn draupadeya.h} = draupadeya.h = a son of Draupadii.
 
   Plus plural form: {\dn draupadeyaa.h} = draupadeyaa.h = sons of Draupadii.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+
+  Plus plural form: {\dn mahaataa.h} = mahaataa.h = great.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
@@ -1520,12 +1528,12 @@ K.r.s.na and Arjuna really blew two divine conch shells.
   &&&\\
   &{\dn dadhmau}&dadh|mau&blew\\
   &&&\\
-  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaa\\
-  &&&= {\dn mahaa}\\
-  &&&= big\\
+  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaatam\\
+  &&&= {\dn mahaatam}\\
+  &&&= great\\
   &&&\\
-  &&"sa"n|kha.m&"sa"nkham\\
-  &&&= {\dn "sa"nkham}\\
+  &&"sa"n|kha.m&"sa"nkha.m\\
+  &&&= {\dn "sa"nkha.m}\\
   &&&= conch shell\\
   \hline
   &&&\\
@@ -1551,7 +1559,7 @@ K.r.s.na and Arjuna really blew two divine conch shells.
 
 Paa\~{}ncajanya (K.r.s.na's conch shell) was blown by K.r.s.na,
 Devadatta (Arjuna's conch shell) was blown by Arjuna, and Pau.n.dra
-(Bhiima's conch shell), a big conch shell, was blown by Bhiima, (who
+(Bhiima's conch shell), a great conch shell, was blown by Bhiima, (who
 was a person) of action and (a person) with a wolf stomach (he could
 eat at lot).
 % ------------------------------------------------------------------------------
@@ -1574,6 +1582,10 @@ eat at lot).
 \item Male (?) noun: {\dn pau.n.dra.h} = pau.n.dra.h = Pau.n.dra = Bhiima's conch shell.
 
   Plus \accusativecase: {\dn pau.n.dram} = pau.n.dram = Pau.n.dra = Bhiima's conch shell.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+
+  Plus \accusativecase: {\dn mahaatam} = mahaatam = great.
 
 \item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
 
@@ -1674,9 +1686,9 @@ Sugho.sa and Ma.nipu.spaka.
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn mahaaratha.h}&ma|haa|&maha\\
-  &&&= {\dn maha}\\
-  &&&= big\\
+  &{\dn mahaaratha.h}&ma|haa|&mahaata.h\\
+  &&&= {\dn mahaata.h}\\
+  &&&= great\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
@@ -1708,7 +1720,7 @@ Sugho.sa and Ma.nipu.spaka.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-The king of Kaa"sii, the best archer; "Skiha.n.dii, a big warrior;
+The king of Kaa"sii, the best archer; "Skiha.n.dii, a great warrior;
 Dh.r.s.tadyumna (a son of King Drupada); Viraa.ta (a prince who helped
 the Paa.n.davas); Saatyaki (the charioteer of Lord K.r.s.na), an
 undefeated one; \dots
@@ -1720,6 +1732,8 @@ undefeated one; \dots
 \item Male adjective: {\dn parama.h} = parama.h = best.
 
 \item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
@@ -1753,9 +1767,9 @@ undefeated one; \dots
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn mahaabaahu.h}&ma|haa|&maha\\
-  &&&= {\dn maha}\\
-  &&&= big\\
+  &{\dn mahaabaahu.h}&ma|haa|&mahaata.h\\
+  &&&= {\dn mahaata.h}\\
+  &&&= great\\
   &&&\\
   &&baa|hu|.h(u)&baahu.h\\
   &&&= {\dn baahu.h}\\
@@ -1775,7 +1789,7 @@ undefeated one; \dots
 \subsection*{Translation}
 
 \dots Drupada; Draupadii's sons; and all; O King; and Subhadraa's son,
-with a big forearm---they blew conch shells separately.
+with a great forearm---they blew conch shells separately.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -1788,6 +1802,8 @@ with a big forearm---they blew conch shells separately.
 \item Male noun: {\dn p.rthiviipati} = p.rthiviipati = king.
 
   Plus \vocativecase: {\dn p.rthiviipate} = p.rthiviipate = O King.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
 
 \item Male noun: {\dn baahu.h} = baahu.h = forearm.
 
