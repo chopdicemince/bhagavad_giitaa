@@ -27,13 +27,25 @@ understand its meaning.
 
 ``Bhagavad Gita'' means ``holy song'' (``bhagavad'' has various
 translations, one of which is ``holy''). It is part of another text,
-the Mahabharata (or ``Mahaabhaarata''), whose name means ``big India'' (mahaa +
-bhaarata), and which is a history of the ancient world. In The
+the Mahabharata (or ``Mahaabhaarata''), whose name means ``great India'' (mahaa +
+bhaarata), and which is a history of the ancient world. In the
 Bhagavad Giitaa, Lord K.r.s.na (sometimes spelled ``Krishna'') gave
 advice to his friend Arjuna. After eighteen days of fighting their
 enemies, they are victorious.
 % ------------------------------------------------------------------------------
-\chapter*{Transliterating Sanskrit into English}
+\chapter*{Sanskrit transliterations}
+
+Note: A serious discussion of Sanskrit, or any other language, should
+probably use the International Phonetic Alphabet (IPA). A rough
+description of the IPA is that it has a unique character for every
+unique sound in all human languages. Some IPA characters are English
+letters and can easily be typed on an a U.S English keyboard, but many
+IPA characters require special software. My typesetting knowledge and
+linguistic knowledge are limited, and I will not use the IPA.\\
+
+Devanagari is the traditional script (written characters) of
+Sanskrit. In this book, we will write Sanskrit in two main ways:
+Devanagari, and the Velthuis transliteration.
 
 Simply, {\em transliterate} means to spell a word of one language by
 using the alphabet of another language. Transliteration is not
@@ -89,7 +101,7 @@ disadvantages.
   Disadvantages: If you want to type some of the characters on a
   U.S. English keyboard, you need to use special software.
 
-\item ITRANS.
+\item ITRANS. Indian Languages Transliteration.
 
   Advantages: You can type all of the characters using a U.S. English
   keyboard without using special software.
@@ -125,11 +137,10 @@ the ITRANS or Harvard-Kyoto transliterations.
 % ------------------------------------------------------------------------------
 \section*{Sanskrit alphabet}
 
-The script (written version of Sanskrit) is called Devanagari (or
-``Devanaagarii'').
+The Sanskrit alphabet is two alphabets: one for vowels
+(Table~\ref{vowels}), and one for consonants (Table~\ref{consonants}).
 
-The Sanskrit alphabet is two alphabets, one for vowels, and one for
-consonants. The vowels are first.
+\subsection*{Sanskrit vowels}
 
 It is helpful to think of Sanskrit vowels as occurring in pairs:
 
@@ -150,38 +161,7 @@ It is helpful to think of Sanskrit vowels as occurring in pairs:
 
 \end{itemize}
 
-In the following table, lines separate pairs of vowels.
-
-\subsection*{Sanskrit vowels}
-
-\begin{tabular}{llllll}
-  Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
-  \hline
-  1&{\dn a}&a&a&a&a\\
-  2&{\dn aa}&aa&$\overline{\rm a}$&aa, A&A\\
-  \hline
-  3&{\dn i}&i&i&i&i\\
-  4&{\dn ii}&ii&$\overline{\rm \i}$, $\overline{\rm i}$, &ii, I&I\\
-  \hline
-  5&{\dn u}&u&u&u&u\\
-  6&{\dn uu}&uu&$\overline{\rm u}$&uu, U&U\\
-  \hline
-  7&{\dn .r}&.r&\d{r}&RRi, R\^{}i&R\\
-  8&{\dn .R}&.rr&$\overline{\d{r}}$&RRI, R\^{}I&RR\\
-  \hline
-  9&{\dn .l}&.l&\d{l}&LLi, L\^{}i&lR\\
-  10&{\dn .L}&.ll&$\overline{\d{l}}$&LLI, L\^{}I&lRR\\
-  \hline
-  11&{\dn e}&e&e&e&e\\
-  12&{\dn ai}&ai&ai&ai&ai\\
-  \hline
-  13&{\dn o}&o&o&o&o\\
-  14&{\dn au}&au&au&au&au\\
-  \hline
-  15&{\dn .m}&.m&\.{m}&M&M\\
-  16&{\dn .h}&.h&\d{h}&H&H\\
-\end{tabular}
-\newpage
+In Table~\ref{vowels}, lines separate pairs of vowels.
 % ------------------------------------------------------------------------------
 \subsection*{Sanskrit consonants}
 
@@ -196,53 +176,100 @@ consonant, but if you transliterate Sanskrit, try to transliterate the
 ``a.''
 
 It is helpful to think of the Sanskrit consonants as occurring in
-groups. In the following table, lines separate groups of consonants.
-\newpage
+groups. In Table~\ref{consonants}, lines separate groups of
+consonants.
+% ------------------------------------------------------------------------------
+\begin{table}
+  \centering
 
-\begin{tabular}{llllll}
-  Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
-  \hline
-  1&{\dn k}&ka&ka&ka&ka\\
-  2&{\dn kh}&kha&kha&kha&kha\\
-  3&{\dn g}&ga&ga&ga&ga\\
-  4&{\dn gh}&gha&gha&gha&gha\\
-  5&{\dn "n}&''na&\.{n}a&\~{}Na&Ga\\
-  \hline
-  6&{\dn c}&ca&ca&ch&ca\\
-  7&{\dn ch}&cha&cha&Cha&cha\\
-  8&{\dn j}&ja&ja&ja&ja\\
-  9&{\dn jh}&jha&jha&jha&jha\\
-  10&{\dn ~n}&\~{}na&\~{n}a&\~{}na&Ja\\
-  \hline
-  11&{\dn .t}&.ta&\d{t}a&Ta&Ta\\
-  12&{\dn .th}&.tha&\d{t}ha&Tha&Tha\\
-  13&{\dn .d}&.da&\d{d}a&Da&Da\\
-  14&{\dn .dh}&.dha&\d{d}ha&Dha&Dha\\
-  15&{\dn .n}&.na&\d{n}a&Na&Na\\
-  \hline
-  16&{\dn t}&ta&ta&ta&ta\\
-  17&{\dn th}&tha&tha&tha&tha\\
-  18&{\dn d}&da&da&da&da\\
-  19&{\dn dh}&dha&dha&dha&dha\\
-  20&{\dn n}&na&na&na&na\\
-  \hline
-  21&{\dn p}&pa&pa&pa&pa\\
-  22&{\dn ph}&pha&pha&pha&pha\\
-  23&{\dn b}&ba&ba&ba&ba\\
-  24&{\dn bh}&bha&bha&bha&bha\\
-  25&{\dn m}&ma&ma&ma&ma\\
-  \hline
-  26&{\dn y}&ya&ya&ya&ya\\
-  27&{\dn r}&ra&ra&ra&ra\\
-  28&{\dn l}&la&la&la&la\\
-  29&{\dn v}&va&va&va, wa&va\\
-  \hline
-  30&{\dn "s}&"sa&\'{s}a&sh&za\\
-  31&{\dn .s}&.sa&\d{s}a&Sha&Sa\\
-  32&{\dn s}&sa&sa&sa&sa\\
-  \hline
-  33&{\dn h}&ha&ha&ha&ha\\
-\end{tabular}
+  \caption{Sanskrit vowels. The transliterations abbreviations are as follows. IAST: International Alphabet for Sanskrit Transliteration. ITRANS: Indian Languages Transliteration. HK: Harvard-Kyoto Transliteration.}
+
+  \label{vowels}
+
+  \begin{tabular}{llllll}
+    \\
+    Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
+    \hline
+    1&{\dn a}&a&a&a&a\\
+    2&{\dn aa}&aa&$\overline{\rm a}$&aa, A&A\\
+    \hline
+    3&{\dn i}&i&i&i&i\\
+    4&{\dn ii}&ii&$\overline{\rm \i}$, $\overline{\rm i}$, &ii, I&I\\
+    \hline
+    5&{\dn u}&u&u&u&u\\
+    6&{\dn uu}&uu&$\overline{\rm u}$&uu, U&U\\
+    \hline
+    7&{\dn .r}&.r&\d{r}&RRi, R\^{}i&R\\
+    8&{\dn .R}&.rr&$\overline{\d{r}}$&RRI, R\^{}I&RR\\
+    \hline
+    9&{\dn .l}&.l&\d{l}&LLi, L\^{}i&lR\\
+    10&{\dn .L}&.ll&$\overline{\d{l}}$&LLI, L\^{}I&lRR\\
+    \hline
+    11&{\dn e}&e&e&e&e\\
+    12&{\dn ai}&ai&ai&ai&ai\\
+    \hline
+    13&{\dn o}&o&o&o&o\\
+    14&{\dn au}&au&au&au&au\\
+    \hline
+    15&{\dn .m}&.m&\.{m}&M&M\\
+    16&{\dn .h}&.h&\d{h}&H&H\\
+  \end{tabular}
+\end{table}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{table}
+  \centering
+
+  \caption{Sanskrit consonants. The transliteration abbreviations are as follows. IAST: International Alphabet for Sanskrit Transliteration. ITRANS: Indian Languages Transliteration. HK: Harvard-Kyoto Transliteration.}
+
+  \label{consonants}
+
+  \begin{tabular}{llllll}
+    \\
+    Index&Sanskrit&Velthuis&IAST&ITRANS&HK\\
+    \hline
+    1&{\dn k}&ka&ka&ka&ka\\
+    2&{\dn kh}&kha&kha&kha&kha\\
+    3&{\dn g}&ga&ga&ga&ga\\
+    4&{\dn gh}&gha&gha&gha&gha\\
+    5&{\dn "n}&''na&\.{n}a&\~{}Na&Ga\\
+    \hline
+    6&{\dn c}&ca&ca&ch&ca\\
+    7&{\dn ch}&cha&cha&Cha&cha\\
+    8&{\dn j}&ja&ja&ja&ja\\
+    9&{\dn jh}&jha&jha&jha&jha\\
+    10&{\dn ~n}&\~{}na&\~{n}a&\~{}na&Ja\\
+    \hline
+    11&{\dn .t}&.ta&\d{t}a&Ta&Ta\\
+    12&{\dn .th}&.tha&\d{t}ha&Tha&Tha\\
+    13&{\dn .d}&.da&\d{d}a&Da&Da\\
+    14&{\dn .dh}&.dha&\d{d}ha&Dha&Dha\\
+    15&{\dn .n}&.na&\d{n}a&Na&Na\\
+    \hline
+    16&{\dn t}&ta&ta&ta&ta\\
+    17&{\dn th}&tha&tha&tha&tha\\
+    18&{\dn d}&da&da&da&da\\
+    19&{\dn dh}&dha&dha&dha&dha\\
+    20&{\dn n}&na&na&na&na\\
+    \hline
+    21&{\dn p}&pa&pa&pa&pa\\
+    22&{\dn ph}&pha&pha&pha&pha\\
+    23&{\dn b}&ba&ba&ba&ba\\
+    24&{\dn bh}&bha&bha&bha&bha\\
+    25&{\dn m}&ma&ma&ma&ma\\
+    \hline
+    26&{\dn y}&ya&ya&ya&ya\\
+    27&{\dn r}&ra&ra&ra&ra\\
+    28&{\dn l}&la&la&la&la\\
+    29&{\dn v}&va&va&va, wa&va\\
+    \hline
+    30&{\dn "s}&"sa&\'{s}a&sh&za\\
+    31&{\dn .s}&.sa&\d{s}a&Sha&Sa\\
+    32&{\dn s}&sa&sa&sa&sa\\
+    \hline
+    33&{\dn h}&ha&ha&ha&ha\\
+  \end{tabular}
+\end{table}
 \newpage
 % ------------------------------------------------------------------------------
 \chapter*{Short introduction to Sanskrit grammar}
