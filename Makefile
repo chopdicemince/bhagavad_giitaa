@@ -8,7 +8,7 @@ gita.dvi: gita.tex
 gita.tex: gita.dn chapter1.tex
 	devnag gita.dn
 
-chapter1.tex:
+chapter1.tex: chapter1.dn
 	devnag chapter1.dn
 
 clean:
