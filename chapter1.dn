@@ -206,8 +206,8 @@ something.''
   &&&= {\dn pa"syatu}\\
   &&&= see\\
   &&&\\
-  &&taam&etaam\\
-  &&&= {\dn etaam}\\
+  &&taam&etaan\\
+  &&&= {\dn etaan}\\
   &&&= these\\
   &&&\\
   &{\dn paa.n.duputraa.naam}&paa.n|.du|&paa.n.du\\
@@ -219,7 +219,7 @@ something.''
   &&&= sons\\
   \hline
   &&&\\
-  1b&{\dn aacaarya}&aa|caar|ya&teacher\\
+  1b&{\dn aacaarya}&aa|caar|ya&O teacher\\
   &&&\\
   &{\dn mahatii.m}&ma|ha|tii.m&big\\
   &&&\\
@@ -247,7 +247,7 @@ something.''
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-See these Paa.n.du sons, O teacher---a big army, arranged, using
+See these Paa.n.du sons'---O teacher---big army, arranged, using
 Drupada's son, your wise student.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
@@ -258,13 +258,19 @@ Drupada's son, your wise student.
 
   Plus imperative tense and singular form: {\dn pa"syatu} = pa"syatu = see.
 
+\item Male pronoun: {\dn e.sa.h} = e.sa.h = he/this.
+
+  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
+
 \item Male noun: {\dn putra.h} = putra.h = son.
 
-  Plus \instrumentalcase: {\dn putre.na} = putre.na = using a/the son.
+  Plus plural form and \genitivecase: {\dn putraa.naam} = putraa.naam = sons'.
 
-\item  Male noun, plural form: {\dn putraa.h} = putraa.h = sons.
+  Or plus \instrumentalcase: {\dn putre.na} = putre.na = using a/the son.
 
-  Plus \accusativecase: {\dn putraam} = putraam = sons.
+\item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
+
+  Plus \vocativecase: {\dn aacaarya} = aacaarya = O teacher.
 
 \item Female adjective: {\dn mahatii} = mahatii = big.
 
