@@ -414,5 +414,6 @@ rewriting the medium-level translation. Possibly the low-level and
 medium-level translations are good for learning Sanskrit.
 % ------------------------------------------------------------------------------
 \include{chapter1}
+\include{chapter2}
 % ------------------------------------------------------------------------------
 \end{document}
