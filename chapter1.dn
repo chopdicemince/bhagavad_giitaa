@@ -300,9 +300,9 @@ Drupada's son, your wise student.
   &&&= {\dn "suuraa.h}\\
   &&&= heros\\
   &&&\\
-  &{\dn mahe.svaasaa}&ma|he.s|&maha\\
-  &&&= {\dn maha}\\
-  &&&= big\\
+  &{\dn mahe.svaasaa}&ma|he.s|&mahaataa.h\\
+  &&&= {\dn mahaataa.h}\\
+  &&&= great\\
   &&&\\
   &&vaa|saa&i.svaasaa.h\\
   &&&= {\dn i.svaasaa.h}\\
@@ -313,7 +313,7 @@ Drupada's son, your wise student.
   &&&\\
   &&ju|na|&arjuna = {\dn arjuna} = Arjuna\\
   &&&\\
-  &&sa|maa&samaa = {\dn samaa} = equal\\
+  &&sa|maa&samaa.h = {\dn samaa.h} = equal\\
   &&&\\
   &{\dn yudhi}&yu|dhi&at a/the fight\\
   \hline
@@ -345,7 +345,7 @@ Drupada's son, your wise student.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-Here are big archer heros equal to Bhiima and Arjuna, at the fight:
+Here are great archer heros equal to Bhiima and Arjuna, at the fight:
 Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
@@ -354,7 +354,15 @@ Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
 
 \item Male noun: {\dn "suura.h} = "suura.h = hero.
 
+  Plus plural form: {\dn "suuraa.h} = "suuraa.h = heros.
+
+\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+
+  Plus plural form: {\dn mahaataa.h} = mahaataa.h = great.
+
 \item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
+
+  Plus plural form: {\dn i.svaasaa.h} = i.svaasaa.h = archers.
 
 \item Male adjective: {\dn sama.h} = sama.h = equal.
 
@@ -365,8 +373,6 @@ Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
   Plus \locativecase: {\dn yudhi} = yudhi = at a/the fight.
 
 \item Drupada is a male god.
-
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
