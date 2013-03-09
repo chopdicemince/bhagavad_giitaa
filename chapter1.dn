@@ -2902,21 +2902,16 @@ Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = ``there.''
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\\
-  &{\dn madhusuudana}&ma|dhu|&madhum\\
-  &&&= {\dn madhum}\\
-  &&&= honey\\
-  &&&\\
-  &&suu|da|na&O destruction\\
-  &&&\\
+  &{\dn madhusuudana}&ma|dhu|suu|da|na&O Madhu killer\\
+  &&&= O K.r.s.na\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
 (Arjuna said:) Maternal uncles, fathers-in-law, sons of sons, brothers
-of wives, a relative---so, these I do not like killing also, O honey
-destruction (another name for K.r.s.na, who killed the demon Madhu,
-whose name means ``honey'').
+of wives, a relative---so, these I do not like killing also, O Madhu
+killer (O K.r.s.na).
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -2961,15 +2956,17 @@ whose name means ``honey'').
 
 \item Male (?) noun: {\dn ghnata.h} = ghnata.h = killing.
 
-\item Neuter noun: {\dn madhum} = madhum = honey.
+\item Male noun: {\dn madhusuudana.h} = madhusuudana.h = Madhu killer = K.r.s.na.
 
-\item Neuter noun: {\dn suudanam} = suudanam = destruction.
+  Plus \vocativecase: {\dn madhusuudana} = madhusuudana = O Madhu killer = O K.r.sna.
 
-\item Neuter noun: {\dn madhusuudanam} = madhusuudanam = honey destruction = K.r.s.na.
+  K.r.s.na killed a demon named Madhu (``honey'').
 
-  (K.r.s.na killed the demon Madhu.)
+  Neuter noun: {\dn madhum} = madhum = honey.
 
-  Plus \vocativecase: {\dn madhusuudana} = madhusuudana = O honey destruction = O K.r.sna.
+  Neuter noun: {\dn suudanam} = suudanam = killing.
+
+  (?) Plus change: {\dn suudana.h} = suudana.h = killer.
 
 \end{itemize}
 \newpage
