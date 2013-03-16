@@ -1,6 +1,7 @@
 \documentclass{book}
 
 \usepackage{devanagari}
+\usepackage{graphicx}
 
 \begin{document}
 % ------------------------------------------------------------------------------
@@ -412,6 +413,31 @@ order much. The right page also has notes.
 We do not have a high-level translation, which might involve greatly
 rewriting the medium-level translation. Possibly the low-level and
 medium-level translations are good for learning Sanskrit.
+% ------------------------------------------------------------------------------
+\chapter*{Melody for singing the verses}
+
+In the Bhagavad Gita, a verse might contain two lines. Each line might
+be made of two parts, each with eight syllables. So a verse might
+contain thirty-two syllables.
+
+Some verses might have more or fewer lines, and some lines might have
+more or fewer syllables.
+
+The number of syllables in a line can vary, depending on whether
+people pronounce visargas as syllables. A visarga is a symbol at the
+end of some words that looks like a colon. It is transliterated as
+``.h'' in the Velthuis transliteration. The Sanskrit word for visarga
+is {\dn visarga.h} = visarga.h = discharge, which itself has a
+visarga.
+
+When people say the verses, they might sing. They might use the melody
+in Figure~\ref{figure:music}, or another melody.
+
+\begin{figure}[h]
+  \includegraphics[width=\columnwidth]{music.png}
+  \caption{You can use this melody to sing some lines of the Bhagavad Gita, or you can use another melody.}
+  \label{figure:music}
+\end{figure}
 % ------------------------------------------------------------------------------
 \include{chapter1}
 \include{chapter2}
