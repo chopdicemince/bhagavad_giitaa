@@ -7,8 +7,8 @@ gita.pdf: gita.tex
 
 gita.tex: gita.dn \
   chapter_about_the_bhagavad_gita.tex \
-  chapter_transliteration.tex \
   chapter_about_sanskrit.tex \
+  chapter_transliteration.tex \
   chapter_alphabet.tex \
   chapter_organization.tex \
   chapter_melody.tex \
@@ -19,11 +19,11 @@ gita.tex: gita.dn \
 chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
 	devnag chapter_about_the_bhagavad_gita.dn
 
-chapter_transliteration.tex: chapter_transliteration.dn
-	devnag chapter_transliteration.dn
-
 chapter_about_sanskrit.tex: chapter_about_sanskrit.dn
 	devnag chapter_about_sanskrit.dn
+
+chapter_transliteration.tex: chapter_transliteration.dn
+	devnag chapter_transliteration.dn
 
 chapter_alphabet.tex: chapter_alphabet.dn
 	devnag chapter_alphabet.dn
