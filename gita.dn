@@ -24,7 +24,7 @@ the Bhagavad Gita}
 \include{chapter_about_sanskrit}
 \include{chapter_organization}
 \include{chapter_melody}
-%\include{chapter1}
+\include{chapter1}
 \include{chapter2}
 % ------------------------------------------------------------------------------
 \end{document}
