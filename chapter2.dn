@@ -2108,9 +2108,9 @@ is not killed or in being killed in the body.
 \section*{Chapter 2, Verse 21}
 
 \begin{tabular}{llll}
-  1a&{\dn vedaavinaa"sina.m}&ve|daa&veda.h\\
-  &&&= {\dn veda.h}\\
-  &&&= knowledge\\
+  1a&{\dn vedaavinaa"sina.m}&ve|daa&veda\\
+  &&&= {\dn veda}\\
+  &&&= (he/she/it) knows (?)\\
   &&&\\
   &&vi|naa|"si|na.m&avinaa"sina.m\\
   &&&= {\dn avinaa"sina.m}\\
@@ -2153,10 +2153,10 @@ is not killed or in being killed in the body.
 % ------------------------------------------------------------------------------
 \subsection*{Translation}
 
-(K.r.s.na said to Arjuna:) Whoever has knowledge of this (the soul),
-which is not perishable, is eternal, is not born, and is not
-changeable---how can he, the man, O Arjuna, cause someone to kill? Or
-how can he kill someone?
+(K.r.s.na said to Arjuna:) Whoever knows this (the soul), which is not
+perishable, is eternal, is not born, and is not changeable---how can
+he, the man, O Arjuna, cause someone to kill? Or how can he kill
+someone?
 % ------------------------------------------------------------------------------
 \subsection*{Notes}
 
@@ -2164,23 +2164,35 @@ how can he kill someone?
 
 \item Male noun: {\dn veda.h} = veda.h = knowledge.
 
-\item Neuter adjective: {\dn vinaa"sinam} = vinaa"sinam = perishable.
+  (?) Plus change: {\dn veda} = veda = (he/she/it) knows.
 
-  Plus prefix: {\dn avinaa"sinam} = avinaa"sinam = not perishable.
+\item Male adjective: {\dn vinaa"sina.h} = vinaa"sina.h = perishable.
 
-\item Neuter adjective: {\dn nityam} = nityam = eternal.
+  Plus prefix: {\dn avinaa"sina.h} = avinaa"sina.h = not perishable.
+
+  Plus \accusativecase: {\dn avinaa"sinam} = avinaa"sinam = not perishable.
+
+\item Male adjective: {\dn nitya.h} = nitya.h = eternal.
+
+  Plus \accusativecase: {\dn nityam} = nityam = eternal.
 
 \item (?) Male pronoun: {\dn ya.h} = ya.h = who.
 
-\item Neuter pronoun: {\dn enam} = enam = this.
+\item (?) Male pronoun: {\dn ena.h} = ena.h = this.
 
-\item Neuter pronoun: {\dn jam} = jam = born.
+  (?) Plus \accusativecase: {\dn enam} = enam = this.
 
-  Plus prefix: {\dn ajam} = ajam = not born.
+\item Male adjective: {\dn ja.h} = ja.h = born.
 
-\item Neuter pronoun: {\dn vyayam} = vyayam = changeable.
+  Plus prefix: {\dn aja.h} = aja.h = not born.
 
-  Plus prefix: {\dn avyayam} = avyayam = not changeable.
+  Plus \accusativecase: {\dn ajam} = ajam = not born.
+
+\item Male adjective: {\dn vyaya.h} = vyaya.h = changeable.
+
+  Plus prefix: {\dn avyaya.h} = avyaya.h = not changeable.
+
+  Plus \accusativecase: {\dn avyayam} = avyayam = not changeable.
 
 \item Male pronoun: {\dn sa.h} = sa.h = that/he/it.
 
