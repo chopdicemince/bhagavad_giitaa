@@ -1,0 +1,115 @@
+\chapter*{Short introduction to Sanskrit grammar}
+
+Below are some points about Sanskrit:
+
+\begin{itemize}
+
+\item Sanskrit does not have uppercase or lowercase letters.
+
+\item Sanskrit has three genders: male, female, and neuter.
+
+\item Sanskrit has three ``pluralities'': singular, dual, and plural
+  (three or more objects).
+
+\item Sanskrit does not have indefinite articles (``a'' or ``an'').
+
+\item Some Sanskrit vowels have two versions, called ``short'' and
+  ``long.'' Sometimes, these names are descriptive: the long version
+  is pronounced longer than the short version. Sometimes, the names
+  are not descriptive: the long version and short version are really
+  different vowels.
+
+\item In Sanskrit, people might pronounce a given letter or word in
+  more than one way. For example, {\dn va} va is sometimes pronounced
+  with a ``v'' sound, and sometimes pronounced with a ``w'' sound.
+
+  So, despite what you might hear or read, it is not always true that
+  in Sanskrit, ``what you write is what you say, and what you say is
+  what you write.''
+
+\item Sanskrit has many characters which represent two or more
+  characters. We will call these special characters ``ligatures.''
+  Sometimes a ligature looks like the characters that it represents,
+  and sometimes it does not. There are many ligatures, and you must
+  memorize them.
+
+  Example: {\dn ki} ki = {\dn ka} ka + {\dn i} i.
+
+\item Sanksrit uses ``sandhi,'' which is the changing of sounds in two
+  consecutive words, to try to make the words easier to pronounce or
+  to sound better.
+
+  Possibly an example will be helpful. Say the following sentence
+  fast:
+
+  \begin{quote}
+    What are you going to do?
+  \end{quote}
+
+  The sentence might sound like the following sentence:
+
+  \begin{quote}
+    Water you gonna do?
+  \end{quote}
+
+  In Sanskrit, you might see only the second sentence written. It is a
+  sandhi version of the first sentence.
+
+\item Sanskrit uses cases, also called declensions. A case is a form
+  of a noun that indicates its relationship to other nouns.
+
+  Possibly an example will be helpul. Consider the following
+  sentences.
+
+  \begin{tabular}{l|l}
+    English form&Sanksrit form\\
+    \hline
+    Hey, Sam.&Sam-vocative-case.\\
+    The person walked&Person-nominative-case walked\\
+    from the chair&chair-ablative-case\\
+    and sang the song&and sang song-accusative-case\\
+    for the child& child-dative-case\\
+    by using the microphone&microphone-instrumental-case\\
+    belonging to the woman&woman-genitive-case\\
+    at the podium.&podium-locative-case.\\
+  \end{tabular}
+
+  Sanskrit has eight cases. By convention, people may list them in the
+  order in the following table. The cases are sometimes called {\dn
+    prathamaa vibhakti} prathamaa vibhakti (``first case''), {\dn
+    dvitiiyaa vibhakti} dvitiiyaa vibhakti (``second case''), \dots
+
+  \begin{tabular}{lllll}
+    Index&Description 1&Description 2&Description 3&Description 4\\
+    \hline
+    1&{\dn prathamaa}&{\dn kartaa}&nominative&subject\\
+    &prathamaa&kartaa\\
+    \hline
+    2&{\dn dvitiiyaa}&{\dn karman}&accusative&object\\
+    &dvitiiyaa&karman\\
+    \hline
+    3&{\dn t.rtiiyaa}&{\dn kara.na}&instrumental&with, using\\
+    &t.rtiiyaa&kara.na\\
+    \hline
+    4&{\dn caturthii}&{\dn sampradaana}&dative&for, to\\
+    &chaturthii&sampradaana\\
+    \hline
+    5&{\dn pa~ncamii}&{\dn apaadaana}&ablative&from\\
+    &pa\~{}ncamii&apaadaana\\
+    \hline
+    6&{\dn .sa.s.tii}&{\dn sambandha}&genitive&possessive\\
+    &.sa.s.tii&sambandha\\
+    \hline
+    7&{\dn saptamii}&{\dn adhikara.na}&locative&at, in, on\\
+    &saptamii&adhikara.na\\
+    \hline
+    8&&{\dn sambodhana}&vocative&I'm talking to you\\
+    &&sambodhana\\
+  \end{tabular}
+
+\item In Sanskrit, because of cases, you may be able to rearrange the
+  words in a sentence without changing the meaning. However, the
+  conventional word order is subject-object-verb, and adjectives
+  should come before nouns, preferably.
+
+\end{itemize}
