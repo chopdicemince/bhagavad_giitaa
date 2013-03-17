@@ -13,7 +13,9 @@
 \newcommand{\locativecase}{locative case, 7}
 \newcommand{\vocativecase}{vocative case, 8}
 % ------------------------------------------------------------------------------
-\title{A Translation of\\The Bhagavad Gita}
+\title{Learn Sanskrit\\
+by reading a translation of\\
+the Bhagavad Gita}
 \author{Winston C. Yang}
 \maketitle
 % ------------------------------------------------------------------------------
@@ -22,7 +24,7 @@
 \include{chapter_about_sanskrit}
 \include{chapter_organization}
 \include{chapter_melody}
-\include{chapter1}
+%\include{chapter1}
 \include{chapter2}
 % ------------------------------------------------------------------------------
 \end{document}
