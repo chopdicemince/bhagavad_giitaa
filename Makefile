@@ -13,7 +13,9 @@ gita.tex: gita.dn \
   chapter_organization.tex \
   chapter_melody.tex \
   chapter1.tex \
-  chapter2.tex
+  chapter2.tex \
+  chapter10.tex \
+
 	devnag gita.dn
 # ------------------------------------------------------------------------------
 chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
@@ -39,6 +41,9 @@ chapter1.tex: chapter1.dn
 
 chapter2.tex: chapter2.dn
 	devnag chapter2.dn
+
+chapter10.tex: chapter10.dn
+	devnag chapter10.dn
 # ------------------------------------------------------------------------------
 clean:
 	rm --force *.aux *.log *.dvi *.tex *~ .*~ *.*~

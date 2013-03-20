@@ -27,5 +27,6 @@ the Bhagavad Gita}
 \include{chapter_melody}
 \include{chapter1}
 \include{chapter2}
+\include{chapter10}
 % ------------------------------------------------------------------------------
 \end{document}
