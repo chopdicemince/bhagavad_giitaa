@@ -300,8 +300,8 @@ Drupada's son, your wise student.
   &&&= {\dn "suuraa.h}\\
   &&&= heros\\
   &&&\\
-  &{\dn mahe.svaasaa}&ma|he.s|&mahaataa.h\\
-  &&&= {\dn mahaataa.h}\\
+  &{\dn mahe.svaasaa}&ma|he.s|&mahaanta.h\\
+  &&&= {\dn mahaanta.h}\\
   &&&= great\\
   &&&\\
   &&vaa|saa&i.svaasaa.h\\
@@ -333,8 +333,8 @@ Drupada's son, your wise student.
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn mahaaratha.h}&ma|haa|&mahaata.h\\
-  &&&= {\dn mahaata.h}\\
+  &{\dn mahaaratha.h}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
   &&&= great\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
@@ -356,9 +356,9 @@ Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
 
   Plus plural form: {\dn "suuraa.h} = "suuraa.h = heros.
 
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+\item Male adjective: {\dn mahaan} = mahaan = great.
 
-  Plus plural form: {\dn mahaataa.h} = mahaataa.h = great.
+  Plus plural form: {\dn mahaanta.h} = mahaanta.h = great.
 
 \item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
 
@@ -487,8 +487,8 @@ Kuntibhoja, and Saibya are a best man.
   &&&\\
   &{\dn eva}&e|va&really\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|&mahaataa.h\\
-  &&&= {\dn mahaataa.h}\\
+  &{\dn mahaarathaa.h}&ma|haa|&mahaanta.h\\
+  &&&= {\dn mahaanta.h}\\
   &&&= great\\
   &&&\\
   &&ra|thaa|.h(aa)&rathaa.h\\
@@ -510,9 +510,9 @@ and the sons of Draupadii, are all really great warriors.
 
   Plus plural form: {\dn draupadeyaa.h} = draupadeyaa.h = sons of Draupadii.
 
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+\item Male adjective: {\dn mahaan} = mahaan = great.
 
-  Plus plural form: {\dn mahaataa.h} = mahaataa.h = great.
+  Plus plural form: {\dn mahaanta.h} = mahaanta.h = great.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
@@ -1154,8 +1154,8 @@ K.r.s.na and Arjuna really blew two divine conch shells.
   &&&\\
   &{\dn dadhmau}&dadh|mau&blew\\
   &&&\\
-  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaatam\\
-  &&&= {\dn mahaatam}\\
+  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaantam\\
+  &&&= {\dn mahaantam}\\
   &&&= great\\
   &&&\\
   &&"sa"n|kha.m&"sa"nkha.m\\
@@ -1209,9 +1209,9 @@ eat at lot).
 
   Plus \accusativecase: {\dn pau.n.dram} = pau.n.dram = Pau.n.dra = Bhiima's conch shell.
 
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+\item Male adjective: {\dn mahaan} = mahaan = great.
 
-  Plus \accusativecase: {\dn mahaatam} = mahaatam = great.
+  Plus \accusativecase: {\dn mahaantam} = mahaantam = great.
 
 \item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
 
@@ -1312,8 +1312,8 @@ Sugho.sa and Ma.nipu.spaka.
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn mahaaratha.h}&ma|haa|&mahaata.h\\
-  &&&= {\dn mahaata.h}\\
+  &{\dn mahaaratha.h}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
   &&&= great\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
@@ -1359,7 +1359,7 @@ undefeated one; \dots
 
 \item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
 
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+\item Male adjective: {\dn mahaan} = mahaan = great.
 
 \item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
 
@@ -1393,8 +1393,8 @@ undefeated one; \dots
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn mahaabaahu.h}&ma|haa|&mahaata.h\\
-  &&&= {\dn mahaata.h}\\
+  &{\dn mahaabaahu.h}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
   &&&= great\\
   &&&\\
   &&baa|hu|.h(u)&baahu.h\\
@@ -1429,7 +1429,7 @@ with a great forearm---they blew conch shells separately.
 
   Plus \vocativecase: {\dn p.rthiviipate} = p.rthiviipate = O King.
 
-\item Male adjective: {\dn mahaata.h} = mahaata.h = great.
+\item Male adjective: {\dn mahaan} = mahaan = great.
 
 \item Male noun: {\dn baahu.h} = baahu.h = forearm.
 
