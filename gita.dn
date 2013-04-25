@@ -5,6 +5,19 @@
 
 \begin{document}
 % ------------------------------------------------------------------------------
+\newcommand\note[1]{[#1]}
+% ------------------------------------------------------------------------------
+% Parts of speech.
+\newcommand{\noun}{noun}
+\newcommand{\adjective}{adjective}
+\newcommand{\pronoun}{pronoun}
+% ------------------------------------------------------------------------------
+% Genders.
+\newcommand{\male}{male}
+\newcommand{\female}{female}
+\newcommand{\neuter}{neuter}
+% ------------------------------------------------------------------------------
+% Cases/declensions.
 \newcommand{\accusativecase}{accusative case, 2}
 \newcommand{\instrumentalcase}{instrumental case, 3}
 \newcommand{\dativecase}{dative case, 4}
@@ -12,6 +25,21 @@
 \newcommand{\genitivecase}{genitive case, 6}
 \newcommand{\locativecase}{locative case, 7}
 \newcommand{\vocativecase}{vocative case, 8}
+% ------------------------------------------------------------------------------
+% Verbs.
+%
+% Note: LaTeX already has a command called ``\verb''.
+\newcommand{\verbb}{verb}
+\newcommand{\infinitive}{infinitive}
+\newcommand{\pasttense}{past tense}
+\newcommand{\presenttense}{present tense}
+\newcommand{\futuretense}{future tense}
+\newcommand{\firstperson}{first person}
+\newcommand{\secondperson}{second person}
+\newcommand{\thirdperson}{third person}
+\newcommand{\singular}{singular}
+\newcommand{\dual}{dual}
+\newcommand{\plural}{plural}
 % ------------------------------------------------------------------------------
 \title{Learn Sanskrit\\
 by reading a translation of\\
