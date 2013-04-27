@@ -6997,97 +6997,73 @@ whose all senses are restrained---his knowledge is complete.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 69}
 
+(K.r.s.na said to Arjuna:)\\
+
+What dream of each person---on it, a sage wakes up and is
+restrained. On what the people wake up---it is a dream to a visible
+sage.\\
+
 \begin{tabular}{llll}
   1a&{\dn yaa}&yaa&what (?)\\
+  &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn ni"saa}&ni|"saa&vision; night; dream\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&sarva.h\\
   &&&= {\dn sarva.h}\\
   &&&= each\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&bhuu|taa|naa.m&of people; living things; spirits\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn bhuutam} = bhuutam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn tasyaa.m}&ta|syaam&at/in/on her/it\\
+  &&&\note{\pronoun, \female, \locativecase}\\
+  &&&\note{from {\dn saa} = saa = she/it}\\
   &&&\\
   &{\dn jaagarti}&jaa|gar|ti&(he/she/it) wakes up;\\
   &&&\quad is vigilant;\\
   &&&\quad is attentive\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn jaag.r} = jaag.r}\\
   &&&\\
   &{\dn sa.myamii}&sa.m|ya|mii&``to bind; suppress; restrain'' (?)\\
   \hline
   &&&\\
-  2a&{\dn yasyaa.m}&ya|syaa.m&at/in/on what\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yasyaa.m}&ya|syaa.m&at/in/on what (?)\\
+  &&&\note{\pronoun, \female, \locativecase}\\
   &&&\\
   &{\dn jaagrati}&jaa|gra|ti&(they) wake up;\\
   &&&\quad are vigilant;\\
   &&&\quad are attentive\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn jaag.r} = jaag.r}\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&people; living things; spirits\\
+  &&&\note{\noun, \neuter, \plural}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn saa}&saa&she/it\\
+  &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn ni"saa}&ni|"saa&vision; night; dream\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &{\dn pa"syato}&pa"s|ya|ta|.h(a)&visible\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn mune.h}&mu|ne|.h(e)&sage (?)\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) What dream of each person---on it, a sage
-wakes up and is restrained. On what the people wake up---it is a dream
-to a visible sage.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Female pronoun: {\dn yaa} = yaa = what.
-
-  Plus \locativecase: {\dn yasyaam} = yasyaam = at/in/on what.
-
-\item Female noun: {\dn ni"saa} = ni"saa = vision; night; dream.
-
-\item Male pronoun: {\dn sarva.h} = sarva.h = each.
-
-\item Neuter noun: {\dn bhuutam} = bhuutam = person; living thing; spirit
-
-  Plus plural form: {\dn bhuutaani} = bhuutaani = people; living things; spirits.
-
-  Plus \genitivecase: {\dn bhuutaanaam} = bhuutaanaam = of people; living things; spirits.
-
-\item Female pronoun: {\dn saa} = saa = she/it.
-
-  Plus \locativecase: {\dn tasyaam} = tasyaam = at/in/on her/it.
-
-\item Infinitive: (?) = (?) = to wake up; be vigilant; be attentive.
-
-  Root: {\dn jaag.r} = jaag.r.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn jaagarti} = jaagarti = (he/she/it) wakes up; is vigilant; is attentive.
-
-  Or plus plural form:
-
-  {\dn jaagrati} = jaagrati = (they) wake up; are vigilant; are attentive.
-
-\item Infinitive: (?) = (?) = to bind; suppress; restrain.
-
-  Root: {\dn sa.myam} = sa.myam.
-
-  (?) Plus change: {\dn sa.myamii} = sa.myamii = (?).
-
-\item Male adjective: {\dn pa"syata.h} = pa"syata.h = visible.
-
-\item (?) Male noun: {\dn mune.h} = mune.h = sage.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 70}
