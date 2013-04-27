@@ -6803,41 +6803,68 @@ come?
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 67}
 
+(K.r.s.na said to Arjuna:)\\
+
+Certainly, of wandering senses which the mind follows---that, of this,
+carries off knowledge, like wind and a boat on water.\\
+
 \begin{tabular}{llll}
   1a&{\dn indriyaa.naa.m}&in|dri|yaa|.naa.m&of body organs; senses; power\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &{\dn hi}&hi&certainly\\
   &&&\\
   &{\dn carataa.m}&ca|ra|taa.m&``not fixed; moving; wandering'' (?)\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn yanmano.anuvidhiiyate}&yan|&yat = {\dn yat} = which\\
   &&&\\
   &&ma|no|&mana.h\\
   &&&= {\dn mana.h}\\
   &&&= mind\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'nu|vi|dhii|ya|te&anuvidhiiyate\\
   &&&= {\dn anuvidhiiyate}\\
   &&&= (he/she/it) follows; yields; conforms\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn anuvidhaa} = anuvidhaa}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tadasya}&ta|da|&tat = {\dn tat} = that/it\\
+  &&&(or {\dn tad} = tad)\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
+  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn harati}&ha|ra|ti&(he/she/it) destroys; takes; carries off\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn h.R} = h.rr}\\
   &&&\\
   &{\dn praj~naa.m}&praj|\~{}naa.m&intelligence; understanding; knowledge\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn praj~naa} = praj\~{}naa}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn vaayurnaavamivaambhasi}&vaa|yur|&vaayu.h\\
   &&&= {\dn vaayu.h}\\
   &&&= air; wind; breath\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&naa|va|mi&naavam\\
   &&&= {\dn naavam}\\
   &&&= boat; ship\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn naava.h} = naava.h}\\
   &&&\\
   &&vaam|&iva\\
   &&&= {\dn iva}\\
@@ -6846,66 +6873,9 @@ come?
   &&bha|si&ambhasi\\
   &&&= {\dn abhasi}\\
   &&&= at/in/on water (?)\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn ambhas} = ambhas}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Certainly, of wandering senses which the
-mind follows---that, of this, carries off knowledge, like wind and a
-boat on water.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn indriyam} = indriyam = body organ; sense; power.
-
-  Plus plural form and \genitivecase: {\dn indriyaa.naam} = indriyaa.naam = of \dots
-
-\item Adjective: {\dn cara} = cara = not fixed; moving; wandering.
-
-  (?) Plus change: {\dn carataam} = carataam = (?)
-
-\item Male noun: {\dn mana.h} = mana.h = mind.
-
-\item Infinitive: (?) = (?) = to follow; yield; conform.
-
-  Root: {\dn anuvidhaa} = anuvidhaa.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn anuvidhiiyate} = anuvidhiiyate = (he/she/it) follows; yields; conforms.
-
-\item Neuter pronoun: {\dn tat} = tat = that/it.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-  Plus \genitivecase: {\dn asya} = asya = of \dots
-
-\item Infinitive: (?) = (?) = to destroy; take; carry off.
-
-  Root: {\dn h.R} = h.rr.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn harati} = harati = (he/she/it) destroys; takes; carries off.
-
-\item Female noun: {\dn praj~naa} = praj\~{}naa = intelligence; understanding; knowledge.
-
-  Plus \accusativecase: {\dn praj~naam} = praj\~{}naam.
-
-\item Male noun: {\dn vaayu.h} = vaayu.h = air; wind; breath.
-
-\item Male noun: {\dn naava.h} = naava.h = boat; ship.
-
-  Plus \accusativecase: {\dn naavam} = naavam.
-
-\item Neuter noun: {\dn ambhas} = ambhas = water.
-
-  (?) Plus \locativecase: {\dn ambhasi} = ambhasi = at/in/on water.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 68}
