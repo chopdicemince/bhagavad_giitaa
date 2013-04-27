@@ -1,4 +1,9 @@
-\newcommand\note[1]{[#1]}
+\usepackage{xcolor}
+% ------------------------------------------------------------------------------
+% Change the text color.
+\definecolor{mygray}{gray}{0.6}
+\newcommand{\mytextcolor}{\textcolor{mygray}}
+\newcommand\note[1]{\mytextcolor{[#1]}}
 % ------------------------------------------------------------------------------
 % Parts of speech.
 \newcommand{\noun}{noun}

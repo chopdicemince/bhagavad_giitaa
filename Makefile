@@ -15,6 +15,7 @@ gita.tex: gita.dn \
   chapter1.tex \
   chapter2.tex \
   chapter10.tex \
+  mymacros.sty \
 
 	devnag gita.dn
 # ------------------------------------------------------------------------------
