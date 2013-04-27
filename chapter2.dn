@@ -6910,6 +6910,11 @@ boat on water.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 68}
 
+(K.r.s.na said to Arjuna:)\\
+
+Therefore, O great-arm one (Arjuna), one whose all senses are
+restrained---his knowledge is complete.\\
+
 \begin{tabular}{llll}
   1a&{\dn tasmaaadyasya}&tas|maa|dya|&tasmaat\\
   &&&= {\dn tasmaat}\\
@@ -6917,82 +6922,64 @@ boat on water.
   &&&\\
   &&sya&yasya\\
   &&&= {\dn yasya}\\
-  &&&= whose (?)\\
+  &&&= of one (?)\\
+  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
   &&&= great\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&baa|ho&baahu.h\\
   &&&= {\dn baahu.h}\\
   &&&= arm\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn nig.rhiitaani}&ni|g.r|hii|taa|ni&held down; held back; restrained\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn nig.rhiitam} = nig.rhiitam}\\
   &&&\\
   &{\dn sarva"sa.h}&sar|va|"sa|.h(a)&all\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn indriyaa.niindriyaarthebhyastasya}&in|dri|yaa|.niin|&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\
   &&&= body organs; senses; power\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &&dri|yaar|&indriyam\\
   &&&= {\dn indriyam}\\
   &&&= body organ; sense; power\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&the|bhya|&arthebhya.h\\
   &&&= {\dn arthebhya.h}\\
   &&&= (?)\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2a&&sta|sya&tasya\\
   &&&= {\dn tasya}\\
   &&&= his/its\\
+  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  &&&\note{\male, from {\dn sa.h} = sa.h}\\
+  &&&\note{\neuter, from {\dn tat} = tat or {\dn tad} = tad}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&intelligence; understanding;\\
   &&&\quad knowledge\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &{\dn prati.s.thitaa}&pra|ti.s|.thi|taa&complete; fixed; accomplished\\
+  &&&\note{\adjective, \female}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Therefore, O great-arm one (Arjuna), one
-whose all senses are restrained---his knowledge is complete.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male adjective: {\dn mahaan} = mahaan = great.
-
-\item Male noun: {\dn baahu.h} = baahu.h = arm.
-
-\item Neuter noun: {\dn nig.rhiitam} = nig.rhiitam = held down; held back; restrained.
-
-  Plus plural form: {\dn nig.rhiitaani} = nig.rhiitaani.
-
-\item Neuter noun: {\dn indriyam} = indriyam = body organ; sense; power.
-
-  Plus plural form: {\dn indriyaa.ni} = indriyaa.ni.
-
-\item Male pronoun: {\dn sa.h} = sa.h = that/he.
-
-  Plus \genitivecase: {\dn tasya} = tasya = his.
-
-\item Neuter pronoun: {\dn tat} = tat = that/it.
-
-  Or: {\dn tad} = tad = that/it.
-
-  Plus \genitivecase: {\dn tasya} = tasya = its.
-
-\item Female noun: {\dn praj~naa} = praj\~{}naa = intelligence; understanding; knowledge.
-
-\item Female adjective: {\dn prati.s.thitaa} = prati.s.thitaa = complete; fixed; accomplished.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 69}
