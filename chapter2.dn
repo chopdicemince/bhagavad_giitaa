@@ -7205,6 +7205,11 @@ enter a steady and great body of ocean water being filled, \dots
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 71}
 
+(K.r.s.na said to Arjuna:)\\
+
+Despite desires, one of all men who behaves without desire, not
+desiring possessions, humble---he learns peace.\\
+
 \begin{tabular}{llll}
   1a&{\dn vihaaya}&vi|haa|ya&disregarding; overlooking; despite\\
   &&&\note{\adjective}\\
@@ -7213,18 +7218,22 @@ enter a steady and great body of ocean water being filled, \dots
   &&&= {\dn kaamaan}\\
   &&&= sexual desires; wishes; desires\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
   &&.h(a)&ya.h = {\dn ya.h} = one (?)\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sarvaanpumaa.m"scarati}&sar|vaan|&all; each\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&&pu|maa.m"s|&pumaan\\
   &&&= {\dn pumaan}\\
   &&&= men (?)\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn puman} = puman}\\
   &&&\\
   &&ca|ra|ti&(he/she/it) walks; wanders; behaves\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -7234,6 +7243,10 @@ enter a steady and great body of ocean water being filled, \dots
   &&&\note{\adjective, \male}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn nirmamo}&nir|ma|mo&nirmama.h\\
   &&&= {\dn nirmama.h}\\
   &&&= disinterested;\\
@@ -7245,6 +7258,7 @@ enter a steady and great body of ocean water being filled, \dots
   &&&\note{\adjective, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
   &&&\note{\pronoun, \male}\\
   &&&\\
@@ -7261,24 +7275,6 @@ enter a steady and great body of ocean water being filled, \dots
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn adhigam} = adhigam}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Despite desires, one of all men who behaves
-without desire, not desiring possessions, humble---he learns peace.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item \note{\noun, \male} {\dn kaama.h} = kaama.h = sexual desire; wish; desire.
-
-\item \note{\pronoun, \male} {\dn sarva.h} = sarva.h = each.
-
-\item \note{\noun, \male} {\dn puman} = puman = man.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 72}
