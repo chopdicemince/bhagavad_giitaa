@@ -5621,8 +5621,10 @@ person is said to be resolute and wise.\\
   &{\dn kaamaansarvaanpaartha}&kaa|maan|&love; sexual love; desires\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
+  \hline
   &&&\\
-  &&sar|vaan|&each/all\\
+  % ----------------------------------------------------------------------------
+  1b&&sar|vaan|&each/all\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
