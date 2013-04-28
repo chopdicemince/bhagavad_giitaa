@@ -6001,96 +6001,70 @@ turtle limb---all senses, his knowledge is complete.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 59}
 
+(K.r.s.na said to Arjuna:)\\
+
+Objects of fasting return for a person, with a leaving out of taste,
+but the taste also is (still there). Having seen more of this (a
+better taste), the person stops (from desiring the tastes of the
+objects).\\
+
 \begin{tabular}{llll}
   1a&{\dn vi.sayaa}&vi|.sa|yaa&vi.sayaa.h\\
   &&&= {\dn vi.sayaa.h}\\
   &&&= topics; objects\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vi.saya.h} = vi.saya.h}\\
   &&&\\
   &{\dn vinivartante}&vi|ni|var|tan|te&``return; end; stop'' (?)\\
   \hline
   &&&\\
-  2b&{\dn niraahaarasya}&ni|raa|haa|ra|sya&of fasting\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn niraahaarasya}&ni|raa|haa|ra|sya&of fasting\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn niraahaara.h} = niraahaara.h}\\
   &&&\\
   &{\dn dehina.h}&de|hi|na|.h(a)&for a/the person; living thing; soul (?)\\
+  &&&\note{\noun, \male, \dativecase}\\
+  &&&\note{from {\dn dehin} = dehin}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn rasavarja.m}&ra|sa|&rasa.h\\
   &&&= {\dn rasa.h}\\
   &&&= taste; seasoning; mixture\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&var|ja.m&leaving out\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn varja.h} = varja.h}\\
   &&&\\
   &{\dn raso.apyasya}&ra|so|&rasa.h\\
   &&&= {\dn rasa.h}\\
   &&&= taste; seasoning; mixture\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'pya|&api = {\dn api} = also\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
+  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn para.m}&pa|ra.m&more; better; best\\
+  &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn pa"s} = pa"s}\\
   &&&\\
   &{\dn nivartate}&ni|var|ta|te&(he/she/it) disappears; stops; turns back\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn niv.rt} = niv.rt}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Objects of fasting return for a person,
-with a leaving out of taste, but the taste also is (still
-there). Having seen more of this (a better taste), the person stops
-(from desiring the tastes of the objects).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn vi.saya.h} = vi.saya.h = topic; object.
-
-  Plus plural form: {\dn vi.sayaa.h} = vi.sayaa.h.
-
-\item Neuter noun: {\dn vinivartam} = vinivartam = return; end; stop.
-
-  (?) Plus change: {\dn vinivartante} = vinivartante = (?).
-
-\item Male noun: {\dn niraahaara.h} = niraahaara.h = fasting.
-
-  Plus \genitivecase: {\dn niraahaarasya} = niraahaarasya = of fasting.
-
-\item Male noun: {\dn dehin} = dehin = person; living thing; soul.
-
-  (?) Plus \dativecase: {\dn dehina.h} = dehina.h = for \dots
-
-\item Male noun: {\dn rasa.h} = rasa.h = taste; seasoning; mixture.
-
-\item Male noun: {\dn varja.h} = varja.h = leaving out.
-
-  Plus \accusativecase: {\dn varja.m} = varja.m.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-  Plus \genitivecase: {\dn asya} = asya = of \dots
-
-\item Neuter adjective: {\dn param} = param = more; better; best.
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Root: {\dn pa"s} = pa"s.
-
-  Plus perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa = having seen.
-
-\item Infinitive: (?) = (?) = to disappear; stop; turn back.
-
-  Root: {\dn niv.rt} = niv.rt.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn nivartate} = nivartate = (he/she/it) disappears; stops; turns back.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 60}
