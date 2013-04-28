@@ -5380,102 +5380,76 @@ heard and something heard.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 53}
 
+(K.r.s.na said to Arjuna:)\\
+
+When your confused knowledge will keep fixed, in concentration, and
+when your mind is not disturbed, then you will get devotion.\\
+
 \begin{tabular}{llll}
   1a&{\dn "srutivipratipannaa}&"sru|ti&"sruti.h\\
   &&&= {\dn "sruti.h}\\
   &&&= knowledge; sound\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&vi|pra|ti|pan|naa&mistaken; forbidden; confused\\
+  &&&\note{\adjective, \female}\\
   &&&\\
   &{\dn te}&te&your\\
+  &&&\note{\pronoun, \secondperson, \genitivecase}\\
+  &&&\note{\singular}\\
+  &&&\note{or {\dn tava} = tava}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn yadaa}&ya|daa&when\\
   &&&\\
-  &{\dn sthaasyati}&sthaa|sya|ti&(he/she/it) will keep; put; fix\\
+  &{\dn sthaasyati}&sthaa|sya|ti&(he/she/it) will keep; put; fix (?)\\
+  &&&\note{\verbb, \futuretense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
   &{\dn ni"scalaa}&ni"s|ca|laa&fixed\\
+  &&&\note{\adjective, \female}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn samaadhaavacalaa}&sa|maa|dhaa|va|&samaadhau\\
   &&&= {\dn samaadhau}\\
   &&&= at/in/on completion; union;\\
   &&&\quad concentration\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn samaadhi.h} = samaadhi.h}\\
   &&&\\
   &&ca|laa|&acalaa\\
   &&&= {\dn acalaa}\\
   &&&= steady; not moving; not disturbed\\
+  &&&\note{\adjective, \female}\\
+  &&&\note{from {\dn a} + {\dn calaa} = a + calaa}\\
   &&&\\
-  &{\dn buddhistadaa}&bud|dhis|&buddhi.h\\
+  &{\dn buddhistadaa}&bud|dhi|sta|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
   &&&= reason; knowledge; mind\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
-  2b&&ta|daa&then\\
+  % ----------------------------------------------------------------------------
+  2b&&daa&tadaa = {\dn tadaa} = then\\
   &&&\\
   &{\dn yogamavaapsyasi}&yo|ga|ma|&yogam\\
   &&&= {\dn yogam}\\
   &&&= union; devotion; work\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &&vaap|sya|si&avaapsyasi\\
   &&&= {\dn avaapsyasi}\\
   &&&= (you) will get (?)\\
+  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{root: {\dn avaap} = avaap}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) When your confused knowledge will keep
-fixed, in concentration, and when your mind is not disturbed, then you
-will get devotion.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female noun: {\dn "sruti.h} = "sruti.h = knowledge; sound.
-
-\item Female adjective: {\dn vipratipannaa} = vipratipannaa = mistaken; forbidden; confused.
-
-\item Pronoun, in second person form and singular form: {\dn tvam} = tvam = you.
-
-  Plus \genitivecase: {\dn tava} = tava = your.
-
-  Or: {\dn te} = te.
-
-\item Infinitive: {\dn sthaapayitum} = sthaapayitum = to keep; put; fix.
-
-  Root: {\dn sthaa} = sthaa.
-
-  (?) Plus future tense and third person form and singular form:
-
-  {\dn sthaasyati} = sthaasyati = (he/she/it) will \dots
-
-\item Female adjective: {\dn ni"scalaa} = ni"scalaa = fixed.
-
-\item Male noun: {\dn samaadhi.h} = samaadhi.h = completion; union; concentration.
-
-  Plus \locativecase: {\dn samaadhau} = samaadhau = at/in/on \dots
-
-\item Female adjective: {\dn calaa} = calaa = not steady; moving; disturbed.
-
-  Plus prefix: {\dn acalaa} = not \dots
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = reason; knowledge; mind.
-
-\item Male noun: {\dn yoga.h} = yoga.h = union; devotion; work.
-
-  Plus \accusativecase: {\dn yogam} = yogam.
-
-\item Infinitive: (?) = (?) = to get.
-
-  Root: {\dn avaap} = avaap.
-
-  (?) Plus future tense and second person form and singular form:
-
-  {\dn avaapsyasi} = avaapsyasi = (you) will \dots
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 54}
