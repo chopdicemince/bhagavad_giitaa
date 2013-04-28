@@ -5716,95 +5716,80 @@ person is said to be resolute and wise.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 56}
 
+(K.r.s.na said to Arjuna:)\\
+
+Serene in minds in sorrows; destititute of desire in happiness;
+without desire, fear, or anger---such a person is said to be a sage
+with a resolute mind.\\
+
 \begin{tabular}{llll}
   1a&{\dn du.hkhe.svanudvignamanaa.h}&du.h|khe|.sva|&du.hkhe.su\\
   &&&= {\dn du.hkhe.su}\\
   &&&= at/in/on sorrows; sufferings; difficulties\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn du.hkham} = du.hkham}\\
   &&&\\
   &&nud|vig|na|&anudvigna\\
   &&&= {\dn anudvigna}\\
   &&&= serene; carefree\\
   &&&\\
-  &&ma|naa|.h(aa)&imaginary\\
+  &&ma|naa|.h(aa)&minds\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn mana.h} = mana.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn sukhe.su}&su|khe|.su&at/in/on happiness\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn vigatasp.rha.h}&vi|ga|ta|&dark; gloomy; destitute\\
+  &&&\note{\adjective}\\
   &&&\\
-  &&sp.r|ha|.h(a)&desire; wish; pleasure\\
+  &&sp.r|ha|.h(a)&``desire; wish; pleasure'' (?)\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn viitaraagabhayakrodha.h}&vii|ta|&gone; lost; covered\\
+  &&&\note{\adjective}\\
   &&&\\
-  &&raa|ga|&redness; desire; dye\\
+  &&raa|ga|&raaga.h\\
+  &&&= {\dn raaga.h}\\
+  &&&= redness; desire; dye\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&bha|ya|&fear; danger; sickness\\
+  &&bha|ya|&bhayam\\
+  &&&= {\dn bhayam}\\
+  &&&= fear; danger; sickness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&kro|dha|.h(a)&anger; passion\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn sthitadhiirmunirucyate}&sthi|ta|&resolute; engaged in; present\\
+  &&&\note{\adjective}\\
   &&&\\
   &&dhiir|&dhii\\
   &&&= {\dn dhii}\\
   &&&= wisdom; prayer; mind\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&mu|ni|ru|&muni.h\\
   &&&= {\dn muni.h}\\
   &&&= holy man; sage; ascetic\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
   &&&= (he/she/it) is said; called; regarded\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Serene in imaginary sorrows; destititute of
-desire in happiness; without desire, fear, or anger---such a person is
-said to be a sage with a resolute mind.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn du.hkham} = du.hkham = sorrow; suffering; difficulty.
-
-  Plus plural form and \locativecase: {\dn du.hkhe.su} = du.hkhe.su = at/in/on sorrows; sufferings; difficulties.
-
-\item Male adjective: {\dn mana.h} = mana.h = imaginary.
-
-  Plus plural form: {\dn manaa.h} = manaa.h.
-
-\item Neuter noun: {\dn sukham} = sukham = happiness.
-
-  Plus plural form and \locativecase: {\dn sukhe.su} = sukhe.su = at/in/on \dots
-
-\item (?) Male noun: {\dn sp.rha.h} = sp.rha.h = desire; wish; pleasure.
-
-\item Male noun: {\dn raaga.h} = raaga.h = redness; desire; dye.
-
-\item Neuter noun: {\dn bhayam} = bhayam = fear; danger; sickness.
-
-\item Male noun: {\dn krodha.h} = krodha.h = anger; passion.
-
-\item Adjective: {\dn sthita} = sthita = resolute; engaged in; present.
-
-\item Female noun: {\dn dhii} = dhii = wisdom; prayer; mind.
-
-\item Male noun: {\dn muni.h} = muni.h = holy man; sage; ascetic.
-
-\item Infinitive: (?) = (?) = to be said; called; regarded.
-
-  Root: {\dn vac} = vac.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn ucyate} = ucyate = (he/she/it) is said; called; regarded.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 57}
