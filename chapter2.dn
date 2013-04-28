@@ -5480,115 +5480,83 @@ will get devotion.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 54}
 
+Arjuna said: What language is of someone wise and resolute, or of
+someone engaged in concentration, O K.r.sna? What resolute wisdom does
+he or she say? What does he or she sit near? (In) what (manner) does
+he or she walk?\\
+
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn sthitapraj~nasya}&sthi|ta|&resolute; firm; present\\
+  &&&\note{\adjective}\\
   &&&\\
   &&praj|\~{}na|sya&of something wise\\
+  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from {\dn praj~na.h} = praj\~{}na.h}\\
   &&&\\
   &{\dn kaa}&kaa&what\\
+  &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn bhaa.saa}&bhaa|.saa&language; complaint; accusation\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn samaadhisthasya}&sa|maa|dhi|&completion; joinining; concentration\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&stha|sya&of something engaged in; present; devoted to\\
+  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn sthitadhii.h}&sthi|ta|&resolute; firm; present\\
+  &&&\note{\adjective}\\
   &&&\\
   &&dhii|.h(ii)&prayer; wisdom; meditation\\
+  &&&\note{\noun, \female, \plural, \accusativecase}\\
+  &&&\note{from {\dn dhii} = dhii}\\
   &&&\\
   &{\dn ki.m}&ki.m&what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn prabhaa.seta}&pra|bhaa|.se|ta&(he/she/it) say; talk to; call\\
+  &{\dn prabhaa.seta}&pra|bhaa|.se|ta&(he/she/it) say; talk to; call (?)\\
+  &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
+  &&&\note{root: {\dn prabhaa.s} = prabhaa.s}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn kimaasiita}&ki|maa|&kim = {\dn kim} = what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&sii|ta&aasiita\\
   &&&= {\dn aasiita}\\
   &&&= (he/she/it) sit near (?)\\
+  &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
+  &&&\note{root: {\dn aasad} = aasad}\\
   &&&\\
-  &{\dn vrajeta}&vra|je|ta&(he/she/it) walk; wander; move\\
+  &{\dn vrajeta}&vra|je|ta&(he/she/it) walk; wander; move (?)\\
+  &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vraj} = vraj}\\
   &&&\\
   &{\dn kim}&kim&what\\
+  &&&\note{\pronoun, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Arjuna said: What language is of someone wise and resolute, or of
-someone engaged in concentration, O K.r.sna? What resolute wisdom does
-he or she say? What does he or she sit near? (In) what (manner) does
-he or she walk?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say. Root: {\dn vad} = vad.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Adjective: {\dn sthita} = sthita = resolute; firm; present.
-
-\item Male adjective: {\dn praj~na.h} = praj\~{}na.h = wise.
-
-  Plus \genitivecase: {\dn praj~nasya} = praj\~{}nasya = of something \dots
-
-\item Female pronoun: {\dn kaa} = kaa = what.
-
-\item Female noun: {\dn bhaa.saa} = bhaa.saa = language; complaint; accusation.
-
-\item Male noun: {\dn samaadhi.h} = samaadhi.h = completion; joining; concentration.
-
-\item Male adjective: {\dn stha.h} = stha.h = engaged in; present; devoted to.
-
-  Plus \genitivecase: {\dn sthasya} = sthasya = of something \dots
-
-\item Male noun: {\dn ke"sava.h} = ke"sava.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn ke"sava} = ke"sava = O K.r.s.na.
-
-\item Female noun: {\dn dhii} = dhii = prayer; wisdom; meditation.
-
-  Plus plural form and \accusativecase: {\dn dhii.h} = dhii.h = prayers; wisdom; meditation.
-
-\item Neuter pronoun: {\dn kim} = kim = what.
-
-\item Infinitive: (?) = (?) = to say; talk to; call. Root: {\dn prabhaa.s} = prabhaa.s.
-
-  (?) Plus subjunctive mood and third person form and singular form:
-
-  {\dn prabhaa.seta} = prabhaa.seta = (he/she/it) \dots
-
-\item Infinitive: (?) = (?) = to sit near. Root: {\dn aasad} = aasad.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn aasiidati} = aasiidati = (he/she/it) sits near.
-
-  (?) Plus subjunctive mood and third person form and singular form:
-
-  {\dn aasiita} = aasiita = (he/she/it) sit near.
-
-\item Infinitive: (?) = (?) = to walk; wander; move. Root: {\dn vraj} = vraj.
-
-  (?) Plus subjunctive mood and third person form and singular form:
-
-  {\dn vrajeta} = vrajeta = (he/she/it) \dots
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 55}
