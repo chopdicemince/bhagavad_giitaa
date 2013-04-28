@@ -6586,109 +6586,81 @@ control, a person gets tranquility.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 65}
 
+(K.r.s.na said to Arjuna:)\\
+
+In calmness, the disappearance of each of the things of sadness is
+born---a happy mind, certainly. Knowledge is present around, fast.\\
+
 \begin{tabular}{llll}
   1a&{\dn prasaade}&pra|saa|de&at/in/on serenity; grace; calmness\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn prasaada.h} = prasaada.h}\\
   &&&\\
   &{\dn sarvadu.hkhaanaa.m}&sar|va|&sarva.h\\
   &&&= {\dn sarva.h}\\
   &&&= each\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&du.h|khaa|naa.m&of things of sadness;\\
   &&&\quad pain;\\
   &&&\quad difficulty\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn du.hkham} = du.hkham}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn haanirasyopajaayate}&haa|ni|ra|&haani.h\\
   &&&= {\dn haani.h}\\
   &&&= damage; loss; disappearance\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&syo|&asya = {\dn asya} = of this\\
+  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&pa|jaa|ya|te&upajaayate\\
   &&&= {\dn upajaayate}\\
   &&&= (he/she/it) is born; exists; is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn upajan} = upajan}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn prasannacetaso}&pra|san|na|&happy; kind; clear\\
+  &&&\note{\adjective}\\
   &&&\\
   &&ce|ta|so&cetasa.h\\
   &&&= {\dn cetasa.h}\\
-  &&&= of consciousness; intelligence; mind\\
+  &&&= of consciousness; intelligence; mind (?)\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{from {\dn cetas} = cetas}\\
   &&&\\
   &{\dn hyaa"su}&hyaa|&hi = {\dn hi} = certainly\\
   &&&\\
   &&"su&aa"su\\
   &&&= {\dn aa"su}\\
   &&&= fast\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn buddhi.h}&bud|dhi|.h(i)&intelligence; knowledge; mind\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &{\dn paryavati.s.thate}&par|ya|&pari\\
   &&&= {\dn pari}\\
   &&&= near; around\\
+  &&&\note{\adverb}\\
   &&&\\
   &&va|ti.s|.tha|te&avati.s.thate\\
   &&&= {\dn avati.s.thate}\\
   &&&= (he/she/it) stands; exists; is present\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn avasthaa} = avasthaa}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) In calmness, the disappearance of each of
-the things of sadness is born---a happy mind, certainly. Knowledge is
-present around, fast.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn prasaada.h} = prasaada.h = serenity; grace; calmness.
-
-  Plus \accusativecase: {\dn prasaade} = prasaade = at/in/on \dots
-
-\item Male noun: {\dn sarva.h} = sarva.h = each.
-
-\item Neuter noun: {\dn du.hkham} = du.hkham = thing of sadness; pain; difficulty.
-
-  Plus plural form and \genitivecase: {\dn du.hkhanaa.m} = du.hkhanaa.m = of things of sadness; pain; difficulty.
-
-\item Female noun: {\dn haani.h} = haani.h = damage; loss; disappearance.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-  Plus \genitivecase: {\dn asya} = asya = of \dots
-
-\item Infinitive: (?) = (?) = to be born; exist; be.
-
-  Root: {\dn upajan} = upajan.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn upajaayate} = upajaayate = (he/she/it) is born; exists; is.
-
-\item Adjective: {\dn prasanna} = prasanna = happy; kind; clear.
-
-\item Neuter noun: {\dn cetas} = cetas = consciousness; intelligence; mind.
-
-  (?) Plus \genitivecase: {\dn cetasa.h} = cetasa.h = of \dots
-
-\item Adjective: {\dn aa"su} = aa"su = fast.
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = intelligence; knowledge; mind.
-
-\item Adverb: {\dn pari} = pari = near; around.
-
-\item Infinitve: (?) = (?) = to stand; exist; be present.
-
-  Root: {\dn avasthaa} = avasthaa.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn avati.s.thate} = avati.s.thate = (he/she/it) stands; exists; is present.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 66}
