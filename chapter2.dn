@@ -4886,106 +4886,82 @@ non-action.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 48}
 
+(K.r.s.na said to Arjuna:)\\
+
+Devoted to an endeavor, do actions, O Arjuna, having abandoned
+association with, and having been equal in, success and
+non-success. This equanimity is called ``yoga.''\\
+
 \begin{tabular}{llll}
   1a&{\dn yogastha.h}&yo|ga|&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= union; endeavor; job\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&sta|.h(a)&devoted to;\\
   &&&engaged in;\\
   &&&existing in\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn kuru}&ku|ru&(you) do (?)\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&actions\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn karmam} = karmam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn sa"nga.m}&sa"n|ga.m&joining; group; association\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
   &&&\\
   &{\dn tyaktvaa}&tyak|tvaa&having abandoned\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn dhana~njaya}&dha|na\~{}n|ja|ya&O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn dhana~njaya.h} = dhana\~{}njaya.h}\\
   \hline
   &&&\\
-  2a&{\dn siddhyasiddhyo.h}&sid|dhya|sid|dhyo|.h(o)&in success and non-success\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn siddhyasiddhyo.h}&sid|dhya|&siddhi.h\\
+  &&&= {\dn siddhi.h}\\
+  &&&= success\\
+  &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn samo}&sa|mo&equal\\
+  &&sid|dhyo.h&asiddhyo.h\\
+  &&&= {\dn asiddhyo.h}\\
+  &&&= at/in/on non-success\\
+  &&&\note{\noun, \female, \locativecase}\\
+  &&&\note{from {\dn a} + {\dn siddhi.h} = a + siddhi.h}\\
+  &&&\\
+  &{\dn samo}&sa|mo&sama.h\\
+  &&&= {\dn sama.h}\\
+  &&&= equal\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn bhuutvaa}&bhuut|vaa&having been\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn samatva.m}&sa|ma|tva.m&equanimity\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn yoga}&yo|ga&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= union; endeavor; job\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn ucyate}&u|cya|te&is said; is called\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Devoted to an endeavor, do actions, O
-Arjuna, having abandoned association with, and having been equal in,
-success and non-success. This equanimity is called ``yoga.''
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn yoga.h} = yoga.h = union; endeavor; job.
-
-\item Male adjective: {\dn stha.h} = stha.h = devoted to; engaged in; existing in.
-
-\item Infinitive: {\dn kartum} = kartum = to do.
-
-  Plus imperative mood and singular form: {\dn karotu} = karotu = (you) do.
-
-  (?) Or: {\dn kuru} = kuru = (you) do.
-
-\item Neuter noun: {\dn karmam} = karmam = action.
-
-  Plus plural form: {\dn karmaa.ni} = karmaa.ni = actions.
-
-\item Male noun: {\dn sa"nga.h} = sa"nga.h = joining; association; attachment.
-
-  Plus \accusativecase: {\dn sa"ngam} = sa"ngam = joining; association; attachment.
-
-\item Infinitive: {\dn tyaktum} = tyaktum = to abandon.
-
-  Root: {\dn tyaj} = tyaj.
-
-  Plus perfect participle: {\dn tyaktvaa} = tyaktvaa = having abandoned.
-
-\item (?) Male noun: {\dn dhana~njaya.h} = dhana\~{}njaya.h = Arjuna.
-
-  Plus \vocativecase: {\dn dhana~njaya} = dhana\~{}njaya = O Arjuna.
-
-\item Male adjective: {\dn sama.h} = sama.h = equal.
-
-\item Female noun: {\dn siddhi.h} = siddhi.h = success.
-
-  Plus prefix: {\dn asiddhi.h} = asiddhi.h = non-success.
-
-  Plus merge: {\dn siddhyasiddhi.h} = siddhyasiddhi.h = success and non-success.
-
-  Plus \locativecase: {\dn siddhyasiddhyo.h} = siddhyasiddhyo.h = in success and non-success.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Root: {\dn bhuu} = bhuu.
-
-  Plus perfect participle: {\dn bhuutvaa} = bhuutvaa = having been.
-
-\item Neuter noun: {\dn samatvam} = samatvam = equanimity.
-
-\item Infinitive: (?) = (?) = to be said; to be called. Root: {\dn vac} = vac.
-
-  Plus present tense and third person form and singular form:
-  {\dn ucyate} = ucyate = (he/she/it) is said; is called.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 49}
