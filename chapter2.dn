@@ -4492,93 +4492,76 @@ action; many things; eating; wealth; to movement.''
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 44}
 
+(K.r.s.na said to Arjuna:)\\
+
+The eating-wealth of near people---by it, the resolve of minds, based
+on reason, is carried off. A pair of reconciliations is not allotted
+(does not occur).\\
+
 \begin{tabular}{llll}
   1a&{\dn bhogai"svaryaprasaktaanaa.m}&bho|gai|&bhoga.h\\
   &&&= {\dn bhoga.h}\\
   &&&= wealth; sensual pleasure; eating\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&"svar|ya|&ai"svaryam\\
   &&&= {\dn ai"svaryam}\\
   &&&= wealth\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pra|sak|taa|naa.m&near people's; near things'\\
+  &&pra|sak|taa|naa.m&of near people; near things (?)\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn prasakta.h} = prasakta.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn tayaapah.rtacetasaam}&ta|yaa|&using/by that/her/it\\
+  &&&\note{\pronoun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn saa} = saa = that/she/it}\\
   &&&\\
   &&pa|h.r|ta|&apah.rta\\
   &&&= {\dn apah.rta}\\
-  &&&= taken\\
+  &&&= taken; carried off; stolen\\
+  &&&\note{\adjective}\\
   &&&\\
-  &&ce|ta|saam&minds'\\
+  &&ce|ta|saam&of minds\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn cetas} = cetas}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn vyavasaayaatmikaa}&vya|va|saa|yaat|&vyavasaaya.h\\
   &&&= {\dn vyavasaaya.h}\\
   &&&= job; resolve; state\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&mi|kaa&aatmikaa\\
   &&&= {\dn aatmikaa}\\
   &&&= based on (?)\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn buddhi.h}&bud|dhi|.h(i)&reason; mind\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
-  2b&{\dn samaadhau}&sa|maa|dhau&two adjustments\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn samaadhau}&sa|maa|dhau&two adjustments;\\
+  &&&reconciliations;\\
+  &&&completions\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{from {\dn samadhaa} = samadhaa}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn vidhiiyate}&vi|dhii|ya|te&(he/she/it) is distributed\\
+  &{\dn vidhiiyate}&vi|dhii|ya|te&(he/she/it) is distributed;\\
+  &&&allotted for;\\
+  &&&intended for\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vidhaa} = vidhaa}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Near people's eating and wealth, by it, the
-minds' resolve, based on reason, is taken, and, with two adjustments,
-is not distributed (does not occur).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn bhoga.h} = bhoga.h = wealth; sensual pleasure; eating.
-
-\item Neuter noun: {\dn ai"svaryam} = ai"svaryam = wealth.
-
-\item (?) Male noun: {\dn prasakta.h} = prasakta.h = near person; near thing.
-
-  Plus plural form and \genitivecase: {\dn prasaktaanaam} = prasaktaanaam = near people's; near things'.
-
-\item Female pronoun: {\dn saa} = saa = that/she/it.
-
-  Plus \instrumentalcase: {\dn tayaa} = tayaa = using/by that/her/it.
-
-\item Adjective: {\dn apah.rta} = apah.rta = taken.
-
-\item Neuter noun: {\dn cetas} = cetas = mind.
-
-  Plus plural form and \genitivecase: {\dn cetasaam} = cetasaam = minds'.
-
-\item Male noun: {\dn vyavasaaya.h} = vyavasaaya.h = job; resolve; state.
-
-\item (?) Adjective: {\dn aatmikaa} = aatmikaa = based on.
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = reason; mind.
-
-\item (?) Male noun: {\dn samaadhaa} = samaadhaa = adjustment.
-
-  Plus dual form: {\dn samaadhau} = samaadhau = two adjustments.
-
-\item Infinitive: (?) = (?) = to be distributed.
-
-  Root: {\dn vidhaa} = vidhaa.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn vidhiiyate} = vidhiiyate = (he/she/it) is distributed.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 45}
