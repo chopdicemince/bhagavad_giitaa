@@ -4706,6 +4706,12 @@ worldy care, like ones' selves (?).
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 46}
 
+(K.r.s.na said to Arjuna:)\\
+
+Just as meaning is in a well, and every place is covered in water,
+similarly, a Brahman caste member's clever person is at every place,
+in knowledge.\\
+
 \begin{tabular}{llll}
   1a&{\dn yaavaanartha}&yaa|vaa|nar|&yaavaan\\
   &&&= {\dn yaavaan}\\
@@ -4714,72 +4720,53 @@ worldy care, like ones' selves (?).
   &&tha&artha.h\\
   &&&= {\dn artha.h}\\
   &&&= meaning\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn udapaane}&u|da|paa|ne&in a/the well\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn udapaanam} = udapaanam}\\
   \hline
   &&&\\
-  1b&{\dn sarvata.h}&sar|va|ta|.h(a)&every place\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn sarvata.h}&sar|va|ta|.h(a)&each place\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn samplutodake}&sam|plu|to|&sampluta\\
   &&&= {\dn sampluta}\\
   &&&= covered\\
+  &&&\note{\adjective}\\
   &&&\\
   &&da|ke|&udake\\
   &&&= {\dn udake}\\
   &&&= in water\\
-  \hline
-  2a&{\dn taavaansarve.su}&taa|vaan|&similarly (?)\\
-  &&&\\
-  &&sar|ve|.su&at every place\\
-  &&&\\
-  &{\dn vede.su}&ve|de|.su&in knowledge\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn udakam} = udakam}\\
   \hline
   &&&\\
-  2b&{\dn braahma.nasya}&braah|ma|.na|sya&Brahman caste member's\\
-  &&&\\
-  &{\dn vijaanata.h}&vi|jaa|na|ta|.h(a)&clever person\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Just as meaning is in a well, and every
-place is covered in water, similarly, a Brahman caste member's clever
-person is at every place, in knowledge.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Phrases: {\dn yaavaan} \dots {\dn taavaan} \dots = just as \dots, similarly, \dots
-
-\item Male noun: {\dn artha.h} = artha.h = meaning.
-
-\item Neuter noun: {\dn udapaanam} = udapaanam = well.
-
-  Plus \locativecase: {\dn udapaane} = udapaane = in a/the well.
-
-\item Male noun: {\dn sarvata.h} = sarvata.h = every place.
-
-  Plus \locativecase: {\dn sarve.su} = sarve.su = at every place.
-
-\item Neuter noun: {\dn udakam} = udakam = water.
-
-  Plus \locativecase: {\dn udake} = udake = in water.
-
-\item Male noun: {\dn veda.h} = veda.h = knowledge.
-
-  Plus \locativecase: {\dn vede.su} = vede.su = in knowledge.
-
-\item (?) Male noun: {\dn braahmana.h} = braahmana.h = Brahman caste member.
-
-  (?) Plus \genitivecase: {\dn braahma.nasya} = braahma.nasya = Brahman caste member's.
-
-\item Female noun: {\dn vijaanataa} = vijaanataa = cleverness.
-
-  Plus ``person-doer'' form: Male noun: {\dn vijaanata.h} = vijaanata.h = clever person.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn taavaansarve.su}&taa|vaan|&similarly (?)\\
+  &&&\\
+  &&sar|ve|.su&at each place\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\\
+  &{\dn vede.su}&ve|de|.su&in knowledge\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn veda.h} = veda.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn braahma.nasya}&braah|ma|.na|sya&of a Brahman caste member (?)\\
+  &&&\note{\male, \noun, \genitivecase}\\
+  &&&\note{from {\dn braahmana.h} = braahmana.h}\\
+  &&&\\
+  &{\dn vijaanata.h}&vi|jaa|na|ta|.h(a)&clever person (?)\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: \noun, \female, {\dn vijaanataa} = vijaanataa = cleverness}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 47}
@@ -4869,7 +4856,7 @@ actions. Do not be a joining in your non-action.\\
   &&kar|ma|.ni&akarma.ni\\
   &&&= {\dn akarma.ni}\\
   &&&= in non-action (?)\\
-  &&&\note{from: \noun, \neuter, {\dn a} + {\dn karmam} = a + karmam}\\ 
+  &&&\note{from: \noun, \neuter, {\dn a} + {\dn karmam} = a + karmam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
