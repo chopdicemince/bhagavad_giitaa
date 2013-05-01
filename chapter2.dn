@@ -4393,101 +4393,85 @@ following things'': \dots).
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 43}
 
+(K.r.s.na said to Arjuna:)\\
+
+\dots sexual love by the self; aiming for heaven as the highest point;
+a birth-action-fruit gift; special action; many things; eating;
+wealth; to movement.\\
+
 \begin{tabular}{llll}
   1a&{\dn kaamaatmaana.h}&kaa|maat|&kaama.h\\
   &&&= {\dn kaama.h}\\
   &&&= sexual love\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&maa|na|.h(a)&(?) aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
   &&&= self\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn svargaparaa}&svar|ga|&svarga.h\\
   &&&= {\dn svarga.h}\\
   &&&= heaven\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&pa|raa&highest point\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn janmakarmaphalapradaam}&jan|ma|&janma.h\\
   &&&= {\dn janma.h}\\
   &&&= birth\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
   &&&= action\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
   &&&= fruit\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&pra|daam&gift\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn pradaa} = pradaa}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn kriyaavi"se.sabahulaa.m}&kri|yaa|&action\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&vi|"se|.sa&special\\
+  &&&\note{\adjective}\\
   &&&\\
   &&ba|hu|laa.m&many\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{from {\dn bahulaa} = bahulaa}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn bhogai"svaryagati.m}&bho|gai|&bhoga.h\\
   &&&= {\dn bhoga.h}\\
   &&&= eating\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&"svar|ya|&ai"svaryam\\
   &&&= {\dn ai"svaryam}\\
   &&&= wealth\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&ga|ti.m&movement\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn gati.h} = gati.h}\\
   &&&\\
   &{\dn prati}&pra|ti&to\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) ``\dots sexual love by the self; aiming for
-heaven as the highest point; a birth-action-fruit gift; special
-action; many things; eating; wealth; to movement.''
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn kaama.h} = kaama.h = sexual love.
-
-\item (?) Male noun: {\dn aatmaana.h} = aatmaana.h = self.
-
-\item Male noun: {\dn svarga.h} = svarga.h = heaven.
-
-\item Female noun: {\dn paraa} = paraa = highest point.
-
-\item Male noun: {\dn janma.h} = janma.h = birth.
-
-\item Neuter noun: {\dn karmam} = karmam = action.
-
-\item Neuter noun: {\dn phalam} = phalam = fruit.
-
-\item Female noun: {\dn pradaa} = pradaa = gift.
-
-  Plus \accusativecase: {\dn pradaam} = pradaam = gift.
-
-\item Female noun: {\dn kriyaa} = kriyaa = action.
-
-\item Adjective: {\dn vi"se.sa} = vi"se.sa = special.
-
-\item Female adjective: {\dn bahulaa} = bahulaa = many.
-
-  Plus \accusativecase: {\dn bahulaam} = bahulaam = many.
-
-\item Male noun: {\dn bhoga.h} = bhoga.h = eating.
-
-\item Neuter noun: {\dn ai"svaryam} = ai"svaryam = wealth.
-
-\item Female noun: {\dn gati.h} = gati.h = movement.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 44}
