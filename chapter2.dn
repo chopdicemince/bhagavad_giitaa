@@ -4290,6 +4290,14 @@ are not resolute is many-branched and infinite.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 42}
 
+(K.r.s.na said to Arjuna:)\\
+
+People who enjoy knowledge, but who are not wise, say this flowery
+group of words, O prince (O Arjuna):\\
+
+``Not another thing is (the purpose of life),'' says a sayer,
+(``except the following things:'' \dots).\\
+
 \begin{tabular}{llll}
   1a&{\dn yaamimaa.m}&yaa|mi&yaam\\
   &&&= {\dn yaam}\\
@@ -4297,107 +4305,72 @@ are not resolute is many-branched and infinite.
   &&&\\
   &&maa.m&imaa.m = {\dn imaa.m} = this\\
   &&&\\
-  &{\dn pu.spitaa.m}&pu.s|pi|taa.m&flowery things'\\
+  &{\dn pu.spitaa.m}&pu.s|pi|taa.m&flowery\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{similar: {\dn pu.spam} = pu.spam = flower}\\
   &&&\\
   &{\dn vaaca.m}&vaa|ca.m&word (?)\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn pravadantyavipa"scita.h}&pra|va|dan|tya|&pravadanti\\
   &&&= {\dn pravadanti}\\
   &&&= (they) say\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn pravad} = pravad}\\
   &&&\\
   &&vi|pa"s|ci|ta|.h(a)&avipa"scita.h\\
   &&&= {\dn avipa"scita.h}\\
   &&&= not wise\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from {\dn a} + {\dn vipa"scita.h} = a + vipa"scita.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn vedavaadarataa.h}&ve|da|vaa|da|ra|taa|.h(aa)&people who enjoy knowledge\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vedavaadarata.h} = vedavaadarata.h}\\
+  &&&\note{from: \noun, \male, {\dn veda.h} = veda.h = knowledge}\\
+  &&&\note{from: \noun, \male, {\dn vaada.h} = vaada.h = discussion}\\
+  &&&\note{from: \noun, \neuter, {\dn ratam} = ratam = enjoyment}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naanyadastiiti}&naa|&na = {\dn na} = not\\
   &&&\\
   &&nya|da|&anyat\\
   &&&= {\dn anyat}\\
   &&&= another; other\\
+  &&&\note{\adjective}\\
   &&&\\
   &&stii|&asti\\
   &&&= {\dn asti}\\
   &&&= (he/she/it) is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
   &&ti&iti = {\dn iti} = ``end of quote''\\
   &&&\\
-  &{\dn vaadina.h}&vaa|di|na|.h(a)&sayer\\
+  &{\dn vaadina.h}&vaa|di|na|.h(a)&sayer (?)\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) People who enjoy knowledge, but who are not
-wise, say this flowery group of words, O prince (O Arjuna): ``Not
-another thing is (the purpose of life),'' says a sayer, (``except the
-following things'': \dots).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn pu.spam} = pu.spam = flower.
-
-  (?) Plus neuter adjective form: {\dn pu.spitam} = pu.spitam = flowery.
-
-  Plus plural form and \genitivecase: {\dn pu.spitaam} = pu.spitaam = flowery things'.
-
-\item Infinitive: (?) = (?) = to say.
-
-  Root: {\dn pravad} = pravad.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn pravadanti} = pravadanti = (they) say.
-
-\item Male adjective: {\dn vipa"scita.h} = vipa"scita.h = wise.
-
-  Plus prefix: {\dn avipa"scita.h} = avipa"scita.h = not wise.
-
-\item Male noun: {\dn vedavaadarata.h} = vedavaadarata.h = person who enjoys knowledge.
-
-  Plus plural form: {\dn vedavaadarataa.h} = vedavaadarataa.h = people who enjoy knowledge.
-
-  This word has the following parts:
-
-  Male noun: {\dn veda.h} = veda.h = knowledge.
-
-  Male noun: {\dn vaada.h} = vaada.h = discussion.
-
-  Neuter noun: {\dn ratam} = ratam = enjoyment.
-
-\item Adjective: {\dn anyat} = anyat = another; other.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Root: {\dn as} = as.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn asti} = asti = (he/she/it) is.
-
-\item Adjective: {\dn vaadin} = vaadin = saying.
-
-  (?) Plus male noun form: {\dn vaadina.h} = vaadina.h = sayer.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 43}
 
 (K.r.s.na said to Arjuna:)\\
 
-\dots sexual love by the self; aiming for heaven as the highest point;
-a birth-action-fruit gift; special action; many things; eating;
-wealth; to movement.\\
+``\dots sexual love by the self; aiming for heaven as the highest
+point; a birth-action-fruit gift; special action; many things; eating;
+wealth; to movement.''\\
 
 \begin{tabular}{llll}
   1a&{\dn kaamaatmaana.h}&kaa|maat|&kaama.h\\
