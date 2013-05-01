@@ -4583,125 +4583,98 @@ is not distributed (does not occur).
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 45}
 
+(K.r.s.na said to Arjuna:)\\
+
+The three qualities are topics and knowledge. Be out of (above) the
+three qualities, O Arjuna, and be without two things (without
+duality), be eternal, and be without worldy care, be yourself (?).\\
+
 \begin{tabular}{llll}
   1a&{\dn traigu.nyavi.sayaa}&trai|&trii.ni\\
   &&&= {\dn trii.ni}\\
   &&&= three\\
+  &&&\note{\numberr}\\
   &&&\\
   &&gu|.nya|&gu.nya.h\\
   &&&= {\dn gu.nya.h}\\
   &&&= quality; string; thread; rope\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&vi|.sa|yaa&vi.sayaa.h\\
   &&&= {\dn vi.sayaa.h}\\
   &&&= topics\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vi.saya.h} = vi.saya.h}\\
   &&&\\
   &{\dn vedaa}&ve|daa&vedaa.h\\
   &&&= {\dn vedaa.h}\\
   &&&= knowledge\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn veda.h} = veda.h}\\
   \hline
   &&&\\
-  &{\dn nistraigu.nyo}&nis|&out\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn nistraigu.nyo}&nis|&out\\
+  &&&\note{\adjective}\\
   &&&\\
   &&trai|&trii.ni\\
   &&&= {\dn trii.ni}\\
   &&&= three\\
+  &&&\note{\numberr}\\
   &&&\\
   &&gu.n|yo&gu.nya.h\\
   &&&= {\dn gu.nya.h}\\
   &&&= quality; string; thread; rope\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
-  &{\dn bhavaarjuna}&bha|vaar|&bhavatu\\
+  &{\dn bhavaarjuna}&bha|vaar|&bhavatu (?)\\
   &&&= {\dn bhavatu}\\
   &&&= (you) be\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn arjuna.h} = arjuna.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2a&{\dn nirdvandvo}&nir|dvan|dvo&nirdvandva.h\\
   &&&= {\dn nirdvandva.h}\\
   &&&= without two things\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from: \prefix, {\dn nir} = nir = without}\\
+  &&&\note{from: \noun, \neuter, {\dn dvandum} = dvandum = two things}\\
   &&&\\
   &{\dn nityasattvastho}&ni|tya|&eternal\\
+  &&&\note{\adjective}\\
   &&&\\
   &&sat|tva|&sattvam\\
   &&&= {\dn sattvam}\\
   &&&= existence\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&stho&stha.h = {\dn stha.h} = existing\\
+  &&&\note{\adjective, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn niryogak.sema}&nir|yo|ga|k.se|ma&without worldly care\\
+  &&&\note{\adjective}\\
+  &&&\note{from: \prefix, {\dn nir} = nir = without}\\
+  &&&\note{from: \noun, \male, {\dn yoga.h} = yoga.h = union; endeavor; job}\\
+  &&&\note{from: \noun, \male, {\dn k.sema.h} = k.sema.h = security; peace; comfort}\\
   &&&\\
-  &{\dn aatmavaan}&aat|ma|vaan&like ones' selves (?)\\
+  &{\dn aatmavaan}&aat|ma|vaan&``self'' (?)\\
+  &&&\note{from: \prefix, {\dn aatma} = aatma = self}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) The three qualities are topics and
-knowledge. Be out of (above) the three qualities, O Arjuna, and be
-without two things (without duality), be eternal, and be without
-worldy care, like ones' selves (?).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item  Number: {\dn trii.ni} = trii.ni = three.
-
-\item  Male noun: {\dn gu.na.h} = gu.na.h = quality; string; thread; rope.
-
-  In Yogic philosophy, everything is made of the three gu.nas: raja, sattva, and tamas.
-
-\item Male noun: {\dn vi.saya.h} = vi.saya.h = topic.
-
-  Plus plural form: {\dn vi.sayaa.h} = vi.sayaa.h = topic.
-
-\item Male noun: {\dn veda.h} = veda.h = knowledge.
-
-  Plus plural form: {\dn vedaa.h} = vedaa.h = knowledge.
-
-\item Adjective: {\dn nis} = nis = out.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Root: {\dn bhuu} = bhuu.
-
-  Plus imperative mood and singular form: {\dn bhavatu} = bhavatu = (you) be.
-
-\item Male adjective: {\dn nirdvandva.h} = nirdvandva.h = without two things.
-
-  This word has the following parts:
-
-  (?) Prefix: {\dn nir} = nir = without.
-
-  Neuter noun: {\dn dvandvam} = dvandvam = two things.
-
-\item Adjective: {\dn nitya} = nitya = eternal.
-
-\item Neuter noun: {\dn sattvam} = sattvam = existence.
-
-\item Male adjective: {\dn stha.h} = stha.h = existing.
-
-\item Adjective: {\dn niryogak.sema} = niryogak.sema = without worldly care.
-
-  This word has the following parts:
-
-  (?) Prefix: {\dn nir} = nir = without.
-
-  Male noun: {\dn yoga.h} = yoga.h = union; endeavor; job.
-
-  Male noun: {\dn k.sema.h} = k.sema.h = security; peace; comfort.
-
-\item Male noun: {\dn aatmavat} = aatmavat = like one's self.
-
-  (?) Plus plural form and \accusativecase: {\dn aatmavaan} = aatmavaan = like ones' selves.
-
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 46}
