@@ -4196,35 +4196,61 @@ fear.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 41}
 
+(K.r.s.na said to Arjuna:)\\
+
+Resoluteness is based on one mind, in this (world), O son of Kuru (O
+Arjuna). Certainly, the mind of amateurs is many-branched and
+infinite.\\
+
 \begin{tabular}{llll}
   1a&{\dn vyavasaayaatmikaa}&vya|va|saa|yaat|&vyavasaaya.h\\
   &&&= {\dn vyavasaaya.h}\\
   &&&= resoluteness\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&mi|kaa&aatmikaa\\
   &&&= {\dn aatmikaa}\\
-  &&&= based on\\
+  &&&= based on (?)\\
+  &&&\note{\adjective, \female}\\
   &&&\\
   &{\dn buddhirekeha}&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
   &&&= reason; mind\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&&re|ke|&ekaa = {\dn ekaa} = one\\
+  &&&\note{\numberr, \female}\\
   &&&\\
   &&ha&iha = {\dn iha} = in this (world)\\
+  &&&\note{\adverb}\\
   &&&\\
   &{\dn kurunandana}&ku|ru|nan|da|na&O son of Kuru\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn kurunandana.h} = kurunandana.h}\\
+  &&&\note{from: \noun, \male, {\dn kuru.h} = kuru.h = Kuru}\\
+  &&&\note{from: \noun, \male, {\dn nandana.h} = nandana.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn bahu"saakhaa}&ba|hu|"saa|khaa&many-branched\\
+  &&&\note{\adjective, \female}\\
+  &&&\note{from: \adjective, {\dn bahu} = bahu = many/much}\\
+  &&&\note{from: \noun, \female, {\dn "saakhaa} = "saakhaa = branch}\\
   &&&\\
   &{\dn hyanantaa"sca}&hya|&hi = {\dn hi} = certainly\\
+  &&&\note{\adverb}\\
   &&&\\
   &&nan|taa"s|&anantaa.h\\
   &&&= {\dn anantaa.h}\\
   &&&= infinite; eternal\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn ananta.h} = ananta.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
@@ -4232,60 +4258,16 @@ fear.
   2b&{\dn buddhayo.avyavasaayinaam}&bud|dha|yo|&buddhaya.h\\
   &&&= {\dn buddhaya.h}\\
   &&&= ``mind'' (?)\\
+  &&&\note{similar: {\dn buddhi.h} = buddhi.h}\\
+  &&&\note{= knowledge; mind; intelligence}\\
   &&&\\
   &&'vya|va|saa|yi|naam&avyavasaayinaam\\
   &&&= {\dn avyavasaayinaam}\\
-  &&&= of people who are not resolute\\
+  &&&= of amateurs (?)\\
+  &&&\note{\noun, \female, \plural, \genitivecase}\\
+  &&&\note{similar: \noun, \female, {\dn avyavasaayii} = avyavasaayii}\\
+  &&&\note{= amateur}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Resoluteness is based on one mind, in this
-(world), O son of Kuru (O Arjuna). Certainly, the mind of people who
-are not resolute is many-branched and infinite.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn vyavasaaya.h} = vyavasaaya.h = resoluteness.
-
-\item (?) Female adjective: {\dn aatmikaa} = aatmikaa = based on.
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = reason; mind.
-
-  (?) Plus change: {\dn buddhaya.h} = buddhaya.h = (?).
-
-\item Female number: {\dn ekaa} = ekaa = one.
-
-\item Male noun: {\dn kurunandana.h} = kurunandana.h = son of Kuru = Arjuna.
-
-  Plus \vocativecase: {\dn kurunandana} = kurunandana = O son of Kuru = O Arjuna.
-
-  This word has the following parts:
-
-  Male noun: {\dn kuru.h} = kuru.h = Kuru.
-
-  Male noun: {\dn nandana.h} = nandana.h = son.
-
-\item Female adjective: {\dn bahu"saakhaa} = many-branched.
-
-  This word has the following parts:
-
-  Adjective: {\dn bahu} = bahu = much/many.
-
-  Female noun: {\dn "saakhaa} = "saakhaa = branch.
-
-\item Male adjective: {\dn ananta.h} = ananta.h = infinite; eternal.
-
-  Plus plural form: {\dn anantaa.h} = anantaa.h = infinite; eternal.
-
-\item (?) Male noun: {\dn avyavasaayina.h} = avyavasaayina.h = person who is not resolute.
-
-  Plus plural form and \genitivecase: {\dn avyavasaayinaam} = avyavasaayinaam = of people who are not resolute.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 42}
