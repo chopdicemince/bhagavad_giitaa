@@ -3975,116 +3975,88 @@ fight, be similar. Thus, you will not gain evil.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 39}
 
+(K.r.s.na said to Arjuna:)\\
+
+This, for you, is said, in the Sankhya philosophy, a reason, in
+union. But hear this, using reasoning, O suitable prince (O suitable
+Arjuna), by which you will throw away your action bond.\\
+
 \begin{tabular}{llll}
   1a&{\dn e.saa}&e|.saa&this\\
+  &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn te.abhihitaa}&te|&for you\\
+  &&&\note{\pronoun, \secondperson, \singular, \dativecase}\\
+  &&&\note{or {\dn tubhyam} = tubhyam}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'bhi|hi|taa&abhihitaa\\
   &&&= {\dn abhihitaa}\\
   &&&= said\\
+  &&&\note{\adjective, \female}\\
   &&&\\
   &{\dn saa"nkhye}&saa"n|khye&in the Sankhya philosophy\\
+  &&&\note{\noun, \female, \locativecase}\\
+  &&&\note{from {\dn saa"nkhyam} = saa"nkhyam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn buddhiryoge}&bud|dhir|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
   &&&= reason; mind\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&yo|ge&in union\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &{\dn tvimaa.m}&tvi|&tu = {\dn tu} = but\\
   &&&\\
   &&maa.m&imaa.m = {\dn imaa.m} = this\\
   &&&\\
-  &{\dn "s.r.nu}&"s.r.nu&hear\\
+  &{\dn "s.r.nu}&"s.r.nu&(?) "s.r.notu\\
+  &&&= {\dn "s.r.notu}\\
+  &&&= (you) hear\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn "sru} = "sru}\\
   \hline
   &&&\\
-  2a&{\dn buddhyaa}&bud|dhyaa&using/by reason;\\
-  &&&using/by a/the mind\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn buddhyaa}&bud|dhyaa&using/by reason; mind\\
+  &&&\note{\female, \noun, \instrumentalcase}\\
+  &&&\note{from {\dn buddhi.h} = buddhi.h}\\
   &&&\\
   &{\dn yukto}&yuk|to&yukta.h\\
   &&&= {\dn yukta.h}\\
   &&&= suitable\\
+  &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn yayaa}&ya|yaa&using/by which\\
+  &{\dn yayaa}&ya|yaa&using/by which (?)\\
+  &&&\note{\pronoun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
   \hline
+  % ----------------------------------------------------------------------------
   &&&\\
   2b&{\dn karmabandha.m}&kar|ma|ban|dha.m&action bond\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn karmabandha.h} = karmabandha.h}\\
+  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam}\\
+  &&&\note{from: \noun, \male, {\dn bandha.h} = bandha.h}\\
   &&&\\
-  &{\dn prahaasyasi}&pra|haa|sya|si&(you) throw away\\
+  &{\dn prahaasyasi}&pra|haa|sya|si&(?) (you) will throw away;\\
+  &&&attack;\\
+  &&&hurt;\\
+  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{root: {\dn prah.r} = prah.r}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) This, for you, is said, in the Sankhya
-philosophy, a reason, in union. But hear this, using reasoning, O
-suitable prince (O suitable Arjuna), by which you throw away your
-action bond.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female pronoun: {\dn e.saa} = e.saa = this.
-
-\item Pronoun, in second person form and dual form: {\dn tvam} = tvam = you.
-
-  Plus \dativecase: {\dn te} = te = for you.
-
-  Or: {\dn tubhyam} = tubhyam = for you.
-
-\item Female adjective: {\dn abhihitaa} = abhihitaa = said.
-
-\item Female noun: {\dn saa"nkhyam} = saa"nkhyam = Sankhya philosophy.
-
-  Plus \locativecase: {\dn saa"nkhye} = saa"nkhye = in the Sankhya philosophy.
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = reason; mind.
-
-  Plus \instrumentalcase: {\dn buddhyaa} = buddhyaa = using/by reason; using/by a/the mind.
-
-\item Male noun: {\dn yoga.h} = yoga.h = union.
-
-  Plus \locativecase: {\dn yoge} = yoge = in union.
-
-\item Infinitive: {\dn "srotum} = "srotum = to hear.
-
-  Plus imperative mood and singular form:
-
-  {\dn "s.r.notu} = "s.r.notu = hear.
-
-  (?) Alternative form: {\dn "s.r.nu} = "s.r.nu = hear.
-
-\item Male adjective: {\dn yukta.h} = yukta.h = suitable.
-
-\item (?) Female pronoun: {\dn yaa} = yaa = which.
-
-  Plus \instrumentalcase: {\dn yayaa} = yayaa = using/by which.
-
-\item Male noun: {\dn paartha.h} = paartha.h = prince = Arjuna.
-
-  Plus \vocativecase: {\dn paartha} = paartha = O prince = O Arjuna.
-
-\item Male noun: {\dn karmabandha.h} = karmabandha.h = action bond.
-
-  This word has the following parts:
-
-  Neuter noun: {\dn karmam} = karmam = action.
-
-  Male noun: {\dn bhanda.h} = bhanda.h = bond.
-
-\item Infinitive: (?) = (?) = to throw away.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn paraasyasi} = paraasyasi = (you) throw away.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 40}
