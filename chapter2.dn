@@ -3466,100 +3466,72 @@ then, having abandoned self nature and fame, you get evil.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 34}
 
+(K.r.s.na said to Arjuna:)\\
+
+And also, people will tell non-fame. They are not changeable (?). And
+non-fame of a respectable man prevails from death.\\
+
+(Paraphrase: People will talk about your infamy after your death.)\\
+
 \begin{tabular}{llll}
   1a&{\dn akiirti.m}&a|kiir|ti.m&non-fame\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn a} + {\dn kiirti.h} = a + kiirti.h}\\
   &&&\\
   &{\dn caapi}&caa|&ca = {\dn ca} = and\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&people\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn bhuutam} = bhuutam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn kathayi.syanti}&ka|tha|yi|.syan|ti&(they) will tell\\
+  &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn kath} = kath}\\
   &&&\\
-  &{\dn te.avyayaam}&te|&they\\
+  &{\dn te.avyayaam}&te|&those/they\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he/it}\\
   &&&\\
   &&'vya|yaam&avyayaam\\
   &&&= {\dn avyayaam}\\
   &&&= not changeable (?)\\
+  &&&\note{similar: {\dn vyaya} = vyaya = changeable}\\
   \hline
   &&&\\
-  2a&{\dn sambhaavitasya}&sam|bhaa|vi|ta|sya&respectable man's\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn sambhaavitasya}&sam|bhaa|vi|ta|sya&(?) of a/the respectable man\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn sambhaavita.h} = sambhaavita.h}\\
   &&&\\
   &{\dn caakiirtirmara.naadatiricyate}&caa|&ca = {\dn ca} = and\\
   &&&\\
   &&kiir|tir|&akiirti.h\\
   &&&= {\dn akiirti.h}\\
   &&&= non-fame\\
+  &&&\note{\noun, \female}\\
+  &&&\note{from {\dn a} + {\dn kiirti.h} = a + kiirti.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&ma|ra|.naa|da|&mara.naat\\
   &&&= {\dn mara.naat}\\
-  &&&= ``death'' (?)\\
+  &&&= from death\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{from {\dn mara.nam} = mara.nam}\\
   &&&\\
   &&ti|ri|cya|te&atiricyate\\
   &&&= {\dn atiricyate}\\
   &&&= (he/she/it) prevails\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn atiric} = atiric}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) And also, people will tell of your non-fame
-with no change (that is, forever). And a respectable man's non-fame
-prevails over death (that is, non-fame wins over death, or non-fame is
-worse than death).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female noun: {\dn kiirti.h} = kiirti.h = fame.
-
-  Plus prefix: {\dn akiirti.h} = akiirti.h = non-fame.
-
-  Plus \accusativecase: {\dn akiirtim} = akiirtim = non-fame.
-
-\item Neuter noun: {\dn bhuutam} = bhuutam = person.
-
-  Plus plural form: {\dn bhuutaani} = bhuutaani = people.
-
-\item Infinitive: (?) = (?) = to tell.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn kathayanti} = kathayanti = (they) tell.
-
-  Plus future tense:
-
-  {\dn kathayi.syanti} = kathayi.syanti = (they) will tell.
-
-\item Male pronoun: {\dn sa.h} = sa.h = that/he/it.
-
-  Plus plural form: {\dn te} = te = those/they.
-
-\item Male adjective: {\dn vyaya.h} = vyaya.h = changeable.
-
-  Plus prefix: {\dn avyaya.h} = avyaya.h = not changeable.
-
-  (?) Plus change: {\dn avyayaam} = avyayaam = not changeable.
-
-\item (?) Male noun: {\dn sambhaavita.h} = sambhaavita.h = respectable man.
-
-  Plus \genitivecase: {\dn sambhaavitasya} = sambhaavitasya = respectable man's.
-
-\item Neuter noun: {\dn mara.nam} = mara.nam = death.
-
-  Plus change: {\dn mara.naat} = mara.naat = (?).
-
-\item Infinitive: (?) = (?) = to prevail.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn atiricyate} = atiricyate = (he/she/it) prevails.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 35}
