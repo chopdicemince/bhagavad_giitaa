@@ -3675,29 +3675,51 @@ highly respected, you strive for small importance.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 36}
 
+(K.r.s.na said to Arjuna:)\\
+
+Your enemies will say many not-to-be-said sounds, abusing your
+ability. From more sadness, certainly, what can come?\\
+
 \begin{tabular}{llll}
-  1a&{\dn avaacyavaadaa.m"sca}&a|vaa|cya|&not speakable\\
+  1a&{\dn avaacyavaadaa.m"sca}&a|vaa|cya|&not to be said\\
+  &&&\note{\adjective}\\
+  &&&\note{from {\dn a} + {\dn vaacya} = a + vaacya}\\
   &&&\\
   &&vaa|daa.m"s|&vaadaan\\
   &&&= {\dn vaadaan}\\
   &&&= sounds\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn vaada.h} = vaada.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn bahuunvadi.syanti}&ba|huun|&much/many\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn bahu.h} = bahu.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&&va|di|.syan|ti&(they) will say\\
+  &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn vad} = vad}\\
   &&&\\
   &{\dn tavaahitaa.h}&ta|vaa|&tava\\
   &&&= {\dn tava}\\
   &&&= your\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&hi|taa|.h(aa)&ahitaa.h\\
   &&&= {\dn ahitaa.h}\\
   &&&= enemies\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn ahita.h} = ahita.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn nindantastava}&nin|dan|tas|&nindanta.h\\
   &&&= {\dn nindanta.h}\\
   &&&= blaming/abusing (?)\\
@@ -3705,73 +3727,29 @@ highly respected, you strive for small importance.
   &&ta|va&tava\\
   &&&= {\dn tava}\\
   &&&= your\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn saamarthya.m}&saa|mar|thya.m&ability\\
+  &&&\note{\noun, \neuter}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn tatodu.hkhatara.m}&ta|to|&tata.h = {\dn tata.h} = from\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
   &&&= sadness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&ta|ra.m&more\\
+  &&&\note{\suffix}\\
   &&&\\
   &{\dn nu}&nu&certainly\\
   &&&\\
   &{\dn kim}&kim&what\\
+  &&&\note{\pronoun, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Your enemies will say many unspeakable
-sounds, abusing your ability. From more sadness, certainly, what can
-come?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus an adjective form: {\dn vaacya} = vaacya = speakable.
-
-  Plus prefix: {\dn avaacya} = avaacya = not speakable.
-
-  Plus future tense and third person form and plural form:
-
-  {\dn vadi.syanti} = vadi.syanti = (they) will say.
-
-\item Male noun: {\dn vaada.h} = vaada.h = sound.
-
-  Plus plural form and \accusativecase: {\dn vaadaan} = vaadaan = sounds.
-
-\item Male adjective: {\dn bahu.h} = bahu.h = much/many.
-
-  Plus \accusativecase: {\dn bahuun} = bahuun = much/many.
-
-\item Pronoun, in second person form and singular form: {\dn tvam} = tvam = you.
-
-  Plus \genitivecase: {\dn tava} = tava = your.
-
-\item Male noun: {\dn ahita.h} = ahita.h = enemy.
-
-  Plus plural form: {\dn ahitaa.h} = ahitaa.h = enemies.
-
-\item Female noun: {\dn nindaa} = nindaa = blame/abuse.
-
-  (?) Plus adjective form: {\dn nindanta.h} = nindanta.h = blaming/abusing.
-
-\item Neuter noun: {\dn saamarthyam} = saamarthyam = ability.
-
-\item Neuter noun: {\dn du.hkham} = du.hkham = sadness.
-
-\item Suffix: {\dn taram} = taram = more.
-
-\item Neuter pronoun: {\dn kim} = kim = what.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 37}
