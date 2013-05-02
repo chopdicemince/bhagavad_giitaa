@@ -3876,30 +3876,59 @@ up, O son of Kuntii (O Arjuna), and for the fight, be certain.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 38}
 
+(K.r.s.na said to Arjuna:)\\
+
+Having done happiness and sadness, in the same way; profit and
+non-profit; victory and non-victory---from there, for the fight, be
+similar. Thus, you will not gain evil.\\
+
 \begin{tabular}{llll}
   1a&{\dn sukhadu.hkhe}&su|kha|&sukham\\
   &&&= {\dn sukham}\\
   &&&= happiness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&du.h|khe&in sadness\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn du.hkham} = du.hkham}\\
   &&&\\
-  &{\dn same}&sa|me&``in the same;'' same\\
+  &{\dn same}&sa|me&at/in/on the same thing\\
+  &&&\note{\adjective, \neuter, \locativecase}\\
+  &&&\note{from {\dn samam} = samam}\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&having done\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
   \hline
   &&&\\
-  1b&{\dn laabhaalaabhau}&laa|bhaa|laa|bhau&profit and loss\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn laabhaalaabhau}&laa|bhaa|laa|bhau&profit and non-profit\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{from: \noun, \male, {\dn laabha.h} = laabha.h}\\
+  &&&\note{from: \noun, \male, {\dn a} + {\dn laabha.h} = a + laabha.h}\\
   &&&\\
-  &{\dn jayaajayau}&ja|yaa|ja|yau&victory and loss\\
+  &{\dn jayaajayau}&ja|yaa|ja|yau&victory and non-victory\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{from: \noun, \male, {\dn jaya.h} = jaya.h}\\
+  &&&\note{from: \noun, \male, {\dn a} + {\dn jaya.h} = a + jaya.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = from there\\
+  &&&\note{\adverb}\\
   &&&\\
   &{\dn yuddhaaya}&yud|dhaa|ya&for a/the fight\\
+  &&&\note{\noun, \neuter, \dativecase}\\
+  &&&\note{from {\dn yuddham} = yuddham}\\
   &&&\\
   &{\dn yujyasva}&yu|jyas|va&similar (?)\\
+  &&&\note{similar: \adjective, {\dn yujya} = yujya = similar}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naiva.m}&nai|&na = {\dn na} = not\\
   &&&\\
   &&va.m&eva.m = {\dn eva.m} = thus\\
@@ -3907,70 +3936,14 @@ up, O son of Kuntii (O Arjuna), and for the fight, be certain.
   &{\dn paapamavaapsyasi}&paa|pa|ma&paapam\\
   &&&= {\dn paapam}\\
   &&&= evil\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&vaap|sya|si&avaapsyasi\\
   &&&= {\dn avaapsyasi}\\
-  &&&= (you) will gain\\
+  &&&= (you) will gain; reach; get\\
+  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{root: {\dn avaap} = avaap}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Having done happiness and sadness, in the
-same way; profit and loss; victory and loss---from there, for the
-fight, be similar. Thus, you will not gain evil.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn sukham} = sukham = happiness.
-
-\item Neuter noun: {\dn du.hkham} = du.hkham = sadness.
-
-  Plus \locativecase: {\dn du.hkhe} = du.hkhe = in sadness.
-
-\item (?) Neuter adjective: {\dn samam} = samam = same.
-
-  Plus \locativecase: {\dn same} = same = ``in the same;'' same.
-
-\item Infinitive: {\dn kartum} = kartum = to do.
-
-  Plus perfect participle: {\dn k.rtvaa} = k.rtvaa = having done.
-
-\item Male noun, in dual form: {\dn laabhaalaabhau} = laabhaalaabhau = profit and loss.
-
-  This word has the following parts:
-
-  Male noun: {\dn laabha.h} = laabha.h = profit.
-
-  Plus prefix: {\dn alaabha.h} = alaabha.h = non-profit; loss.
-
-\item Male noun, in dual form: {\dn jayaajayau} = jayaajayau = victory and loss.
-
-  This word has the following parts:
-
-  Male noun: {\dn jaya.h} = jaya.h = victory.
-
-  Plus prefix: {\dn ajaya.h} = ajaya.h = non-victory; loss.
-
-\item Neuter noun: {\dn yuddham} = yuddham = fight.
-
-  Plus \dativecase: {\dn yuddhaaya} = yuddhaaya = for a/the fight.
-
-\item Adjective: {\dn yujya} = yujya = similar.
-
-  (?) Plus change: {\dn yujyasva} = yujyasva = (?).
-
-\item Neuter noun: {\dn paapam} = paapam = evil.
-
-\item Infinitive: (?) = (?) = to gain.
-
-  Plus future tense and second person form and singular form:
-
-  {\dn avaapsyasi} = avaapsyasi = (you) will gain.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 39}
