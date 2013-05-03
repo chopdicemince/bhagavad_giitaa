@@ -3274,92 +3274,72 @@ another warrior caste person's.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 32}
 
+(K.r.s.na said to Arjuna:)\\
+
+And by chance, having a heavenly door open, people in the warrior
+caste are happy, O prince (O Arjuna)---they get such a fight.\\
+
 \begin{tabular}{llll}
   1a&{\dn yad.rcchayaa}&ya|d.rc|cha|yaa&using/by chance\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\\
   &{\dn copapanna.m}&co|&ca = {\dn ca} = and\\
   &&&\\
   &&pa|pan|na.m&upapanna.m\\
   &&&= {\dn upapanna.m}\\
-  &&&= ``having''\\
+  &&&= adequate; having; existing\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
-  1b&{\dn svargadvaaramapaav.rtam}&svar|ga|&heavenly\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn svargadvaaramapaav.rtam}&svar|ga|&svarga.h\\
+  &&&= {\dn svarga.h}\\
+  &&&= heaven\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&dvaa|ra|ma|&dvaaram\\
   &&&= {\dn dvaaram}\\
   &&&= door\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&paa|v.r|tam&apaav.rtam\\
   &&&= {\dn apaav.rtam}\\
-  &&&= open\\
+  &&&= open; not covered; not restrained\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
-  2a&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
-  &&&\\
-  &{\dn k.satriyaa.h}&k.sa|tri|yaa|.h(aa)&warrior caste people\\
-  &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
-  &&&= O Arjuna\\
-  \hline
-  &&&\\
-  2b&{\dn labhante}&la|bhan|te&(they) get\\
-  &&&\\
-  &{\dn yuddhamiid.r"sam}&yud|dha|mii|&yuddham\\
-  &&&= {\dn yuddham}\\
-  &&&= fight (noun)\\
-  &&&\\
-  &&d.r|"sam&iid.r"sam\\
-  &&&= {\dn iid.r"sam}\\
-  &&&= of this kind\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) And by chance, having a heavenly door open,
-warrior caste people are happy, O prince (O Arjuna)---they get a fight
-of this kind.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female noun: {\dn yad.rcchaa} = yad.rcchaa = chance.
-
-  Plus \instrumentalcase: {\dn yad.rcchayaa} = yad.rcchayaa = using/by chance.
-
-\item Neuter adjective: {\dn upapannam} = upapannam = ``having.''
-
-\item Male noun: {\dn svarga.h} = svarga.h = heaven.
-
-  Plus adjective form: {\dn svarga} = svarga = heavenly.
-
-\item Neuter noun: {\dn dvaaram} = dvaaram = door.
-
-\item Neuter noun: {\dn apaav.rtam} = apaav.rtam = open.
-
-\item Male adjective: {\dn sukhina.h} = sukhina.h = happy.
-
-\item Male noun: {\dn k.satriya.h} = k.satriya.h = warrior caste person.
-
-  Plus plural form: {\dn k.satriyaa.h} = k.satriyaa.h = warrior caste people.
-
-\item Male noun: {\dn paartha.h} = paartha.h = prince = Arjuna.
-
-  Plus \vocativecase: {\dn paartha} = paartha = O prince = O Arjuna.
-
-\item Infinitve: (?) = (?) = to get.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn labhante} = labhante = (they) get.
-
-\item Neuter noun: {\dn yuddham} = yuddham = fight.
-
-\item Neuter adjective: {\dn iid.r"sam} = iid.r"sam = of this kind.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &{\dn k.satriyaa.h}&k.sa|tri|yaa|.h(aa)&people in the warrior caste\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn k.satriya.h} = k.satriya.h}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn labhante}&la|bhan|te&(they) get\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn labh} = labh}\\
+  &&&\\
+  &{\dn yuddhamiid.r"sam}&yud|dha|mii|&yuddham\\
+  &&&= {\dn yuddham}\\
+  &&&= fight; battle; war\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&d.r|"sam&iid.r"sam\\
+  &&&= {\dn iid.r"sam}\\
+  &&&= like; such\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 33}
