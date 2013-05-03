@@ -3364,104 +3364,74 @@ of this kind.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 33}
 
+(K.r.s.na said to Arjuna:)\\
+
+Then, if you will not do this nature fight, then, having abandoned
+self nature and fame, you will get evil.\\
+
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&then\\
   &&&\\
   &{\dn cettvamima.m}&cet|&if\\
   &&&\\
   &&tva|mi|&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &&ma.m&ima.m = {\dn ima.m} = this\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn dharmya.m}&dhar|mya.m&``nature'' (?)\\
+  &&&\note{similar: \noun, \male, {\dn dharma.h} = dharma.h}\\
   \hline
   &&&\\
-  1b&{\dn sa"ngraama.m}&sa"n|graa|ma.m&``fight'' (?)\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn sa"ngraama.m}&sa"n|graa|ma.m&fight; battle; war\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa"ngraama.h} = sa"ngraama.h}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn kari.syasi}&ka|ri|.sya|si&(you) do (?)\\
+  &{\dn kari.syasi}&ka|ri|.sya|si&(?) (you) will do\\
+  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
   \hline
   &&&\\
-  2a&{\dn tata.h}&ta|ta|.h(a)&then\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tata.h}&ta|ta|.h(a)&then; from that; from there\\
+  &&&\note{\adverb}\\
   &&&\\
   &{\dn svadharma.m}&sva|dhar|ma.m&self nature\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from: \adjective, {\dn sva} = sva = self}\\
+  &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h = nature}\\
   &&&\\
   &{\dn kiirti.m}&kiir|ti.m&fame\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn kiirti.h} = kiirti.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn hitvaa}&hit|vaa&having abandoned\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn hi} = hi}\\
   &&&\\
   &{\dn paapamavaapsyasi}&paa|pa|ma&paapam\\
   &&&= {\dn paapam}\\
   &&&= evil\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&vaap|sya|si&avaapsyasi\\
   &&&= {\dn avaapsyasi}\\
-  &&&= (you) get\\
+  &&&= (?) (you) will get; reach\\
+  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{root: {\dn avaap} = avaap}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Then, if you do not do this fight nature,
-then, having abandoned self nature and fame, you get evil.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-  Plus \accusativecase: {\dn imam} = imam = this.
-
-\item Pronoun, in second person and singular form: {\dn tvam} = tvam = you.
-
-\item Male noun: {\dn dharma.h} = dharma.h = nature.
-
-\item Infinitive: (?) = (?) = to fight.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn sa"ngraamayate} = sa"ngraamayate = (he/she/it) fights.
-
-\item Infinitive: (?) = (?) = to do.
-
-  (?) Plus present tense and second person form and singular form:
-
-  {\dn kari.syasi} = kari.syasi = (you) do.
-
-\item Male noun: {\dn svadharma.h} = svadharma.h = self nature.
-
-  Plus \accusativecase: {\dn svadharmam} = svadharmam = self nature.
-
-  This word has the following parts:
-
-  Male noun: {\dn sva.h} = sva.h = self.
-
-  Male noun: {\dn dharma.h} = dharma.h = nature.
-
-\item Female noun: {\dn kiirti.h} = kiirthi.h = fame.
-
-  Plus \accusativecase: {\dn kiirtim} = kiirtim = fame.
-
-\item Infinitive: {\dn tyaktum} = tyaktum = to abandon.
-
-  Root: {\dn tyaj} = tyaj.
-
-  Plus perfect participle: {\dn hitvaa} = hitvaa = having abandoned.
-
-\item Neuter noun: {\dn paapam} = paapam = evil.
-
-\item Infinitive: (?) = (?) = to get.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn avaapsyasi} = avaapsyasi = (you) get.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 34}
