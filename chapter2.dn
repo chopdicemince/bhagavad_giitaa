@@ -3161,10 +3161,21 @@ Arjuna). Therefore you do not deserve to lament each being.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 31}
 
+(K.r.s.na said to Arjuna:)\\
+
+And also, (because) of seen self nature, you are not able to
+tremble. Certainly, confidence from nature and from a fight are not of
+another person in the warrior caste (in other words: you are a person
+in the warrior caste, and the confidence is yours).\\
+
 \begin{tabular}{llll}
   1a&{\dn svadharmamapi}&sva|dhar|ma|ma&svadharma.h\\
   &&&= {\dn svadharma.h}\\
   &&&= self nature\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: \adjective, {\dn sva} = sva = self}\\
+  &&&\note{from: \noun, \male,}\\
+  &&&\note{{\dn dharma.h} = dharma.h = nature}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
@@ -3172,104 +3183,65 @@ Arjuna). Therefore you do not deserve to lament each being.
   &&&\\
   &&vek|.sya&avek.sya\\
   &&&= {\dn avek.sya}\\
-  &&&= seeing (?)\\
+  &&&= (?) ``see; experience; consider''\\
+  &&&\note{similar: root: {\dn avek.s} = avek.s}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn na}&na&not\\
   &&&\\
   &{\dn vikampitumarhasi}&vi|kam|pi|tu|mar&vikampitum\\
   &&&= {\dn vikampitum}\\
-  &&&= to tremble\\
+  &&&= to tremble; waver; change\\
+  &&&\note{\verbb, \infinitive}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve\\
+  &&&= (you) deserve;\\
+  &&&are able to;\\
+  &&&are required to\\
+  &&&\note{\verbb, \presenttense,}\\
+  &&&\note{\secondperson, \singular}\\
+  &&&\note{root: {\dn arh} = arh}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn dharmyaaddhi}&dhar|myaad|&dharmyaat\\
   &&&= {\dn dharmyaat}\\
-  &&&= ``duty'' (?)\\
+  &&&= (?) ``nature''\\
+  &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h = nature}\\
   &&&\\
   &&dhi&hi = {\dn hi} = certainly\\
   &&&\\
   &{\dn yuddhaacchreyo.anyatk.satriyasya}&yud|dhaac|&yuddhaat\\
   &&&= {\dn yuddhaat}\\
-  &&&= ``fight'' (?)\\
+  &&&= from a/the fight\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{from {\dn yuddham} = yuddham}\\
   &&&\\
   &&chre|yo|&"sreya.h\\
   &&&= {\dn "sreya.h}\\
-  &&&= trust\\
+  &&&= trust; confidence; credit\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&'nyat|&anyat = {\dn anyat} = another\\
+  &&'nyat|&anyat = {\dn anyat} = another/other\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
-  2b&&k.sa|tri|ya|sya&warrior caste person's\\
+  % ----------------------------------------------------------------------------
+  2b&&k.sa|tri|ya|sya&of a person in the warrior caste\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn k.satriya.h} = k.satriya.h}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) And also, seeing self nature, you do not
-deserve to tremble. Certainly, the trust in duty and a fight is not
-another warrior caste person's.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn svadharma.h} = svadharma.h = self nature.
-
-  This word has the following parts:
-
-  Male noun: {\dn sva.h} = sva.h = self.
-
-  Male noun: {\dn dharma.h} = dharma.h = nature.
-
-\item Infinitive: (?) = (?) = to see.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn avek.sate} = avek.sate = (he/she/it) sees.
-
-  (?) Plus change: present participle: {\dn avek.sya} = avek.sya = seeing.
-
-\item Infinitive: {\dn vikampitum} = vikampitum = to tremble.
-
-\item Infinitive: (?) = (?) = to deserve.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn arhasi} = arhasi = (you) deserve.
-
-\item Male noun: {\dn dharma.h} = dharma.h = nature.
-
-  (?) Plus change: {\dn dharmyaat} = dharmyaat = (?).
-
-\item Neuter noun: {\dn yuddham} = yuddham = fight.
-
-  (?) Plus change: {\dn yuddhaat} = yuddhaat = (?).
-
-\item Male noun: {\dn "sreya.h} = "sreya.h = trust.
-
-\item Adjective: {\dn anyat} = anyat = another.
-
-\item Male noun: {\dn k.satriya.h} = k.satriya.h = warrior caste person.
-
-  Plus \genitivecase: {\dn k.satriyasya} = k.satriyasya = warrior caste person's.
-
-  India had, or still has, a caste system with five levels. The second highest caste is the warriors.
-
-\item Infinitive: (?) = (?) = to be.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn vidyate} = vidyate = (he/she/it) is.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 32}
