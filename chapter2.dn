@@ -3063,100 +3063,79 @@ any thing about this (the soul), really.
 % ------------------------------------------------------------------------------
 \section*{Chaper 2, Verse 30}
 
+(K.r.s.na said to Arjuna:)\\
+
+This soul is always not to be killed---this soul in the body and of
+each body---O descendant of Bharata (O Arjuna). Therefore you do not
+deserve to lament each being.\\
+
 \begin{tabular}{llll}
   1a&{\dn dehii}&de|hii&soul (?)\\
+  &&&\note{similar: \noun, \male, {\dn deha.h} = deha.h = body}\\
   &&&\\
   &{\dn nityamavadhyo.aya.m}&ni|tya|ma|&nityam\\
   &&&= {\dn nityam}\\
-  &&&= always\\
+  &&&= eternally; always\\
+  &&&\note{\adverb}\\
+  &&&\note{from {\dn nitya} = nitya = eternal}\\
   &&&\\
   &&va|dhyo|&avadhya.h\\
   &&&= {\dn avadhya.h}\\
   &&&= not to be killed\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from {\dn a} + {\dn vadhya.h} = a + vadhya.h}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
   \hline
   &&&\\
-  1b&{\dn dehe}&de|he&in/on a/the body\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn dehe}&de|he&at/in/on a/the body\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&each one's\\
+  &{\dn sarvasya}&sar|va|sya&of each\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tasmaatsarvaa.ni}&tas|maat|&therefore\\
   &&&\\
   &&sar|vaa|.ni&each\\
+  &&&\note{\noun, \neuter, \plural, \accusativecase}\\
+  &&&\note{from {\dn sarvam} = sarvam = each}\\
+  &&&\note{here, \nominativecase = \accusativecase}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings\\
+  &{\dn bhuutaani}&bhuu|taa|ni&beings; animals; spirits\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{here, \nominativecase = \accusativecase}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn na}&na&not\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &{\dn "socitumarhasi}&"so|ci|tu|mar&"socitum\\
   &&&= {\dn "socitum}\\
   &&&= to lament\\
+  &&&\note{\verbb, \infinitive}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve\\
+  &&&= (you) deserve; are worthy of; are able\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) This soul is always not to be killed---this
-thing in each one's body---O descendant of Bharata (O
-Arjuna). Therefore you do not deserve to lament each being.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn deha.h} = deha.h = body.
-
-  (?) Plus change: {\dn dehii} = dehii = soul.
-
-  Or plus \locativecase: {\dn dehe} = dehe = in/on a/the body.
-
-\item Male adjective: {\dn vadhya.h} = vadhya.h = to be killed.
-
-  Plus prefix: {\dn avadhya.h} = avadhya.h = not to be killed.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-\item Male pronoun: {\dn sarva.h} = sarva.h = each.
-
-  Plus \genitivecase: {\dn sarvasya} = sarvasya = each one's.
-
-\item Male noun: {\dn bhaarata.h} = bhaarata.h = descendant of Bharata = Arjuna.
-
-  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata = O Arjuna.
-
-\item Neuter pronoun: {\dn sarvam} = sarvam = each.
-
-  Plus plural form: {\dn sarvaa.ni} = sarvaa.ni = each.
-
-  Plus \accusativecase: Same form.
-
-\item Neuter noun: {\dn bhuutam} = bhuutam = being.
-
-  Plus plural form: {\dn bhuutaani} = bhuutaani = beings.
-
-  Plus \accusativecase: Same form.
-
-\item Pronoun, in second person form and singular form: {\dn tvam} = tvam = you.
-
-\item Infinitve: (?) = (?) = to deserve.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn arhasi} = arhasi = (you) deserve.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 31}
