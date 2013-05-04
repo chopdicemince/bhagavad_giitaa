@@ -2545,33 +2545,55 @@ eternal soul is.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 25}
 
+(K.r.s.na said to Arjuna:)\\
+
+(About the soul:) This is not visible, this is not thinkable, this is
+not changeable---this is regarded (as such). Therefore, thus, having
+known this, you do not deserve to lament.\\
+
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyakto.ayamacintyo.ayamavikaaryo.ayamucyate}\\
   &&&\\
   &&a|vyak|to|&avyakta.h\\
   &&&= {\dn avyakta.h}\\
-  &&&= not visible\\
+  &&&= not visible; clear; evident\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from {\dn a} + {\dn vyakta.h} = a + vyakta.h}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&cin|tyo|&acintya.h\\
   &&&= {\dn acintya.h}\\
   &&&= not thinkable\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from {\dn a} + {\dn cintya.h} = a + cintya.h}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&&ma|vi|kaar|yo|&avikaarya.h\\
   &&&= {\dn avikaarya.h}\\
   &&&= not changeable\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from {\dn a} + {\dn vikaarya.h}}\\
   &&&\\
   &&'ya|mu|&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
-  &&&= (he/she/it) is said\\
+  &&&= (he/she/it) is said; regarded as; called\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tasmaadeva.m}&tas|maa|de|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
@@ -2581,72 +2603,28 @@ eternal soul is.
   &{\dn viditvaina.m}&vi|di|tvai|&viditvaa\\
   &&&= {\dn viditvaa}\\
   &&&= having known\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this\\
+  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naanu"socitumarhasi}&naa|&na = {\dn na} = not\\
   &&&\\
   &&nu|"so|ci|tu|mar|&anu"socitum\\
   &&&= {\dn anu"socitum}\\
   &&&= to lament\\
+  &&&\note{\verbb, \infinitive}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve\\
+  &&&= (you) deserve; are worthy of; are able\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) This (the soul) is not visible, this (the
-soul) is not thinkable, this (the soul) is not changeable---it is said
-(these things are said by people). Therefore, thus, having known this
-(the soul), you do not deserve to lament.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male adjective: {\dn vyakta.h} = vyakta.h = visible.
-
-  Plus prefix: {\dn avyakta.h} = avyakta.h = not visible.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-\item Verb: {\dn cint} = cint = to think.
-
-  Plus male adjective form: {\dn cintya.h} = cintya.h = thinkable.
-
-  Plus prefix: {\dn acintya.h} = acintya.h = not thinkable.
-
-\item Verb: {\dn vik.r} = vik.r = to change.
-
-  Plus male adjective form: {\dn vikaarya.h} = vikaarya.h = changeable.
-
-  Plus prefix: {\dn avikaarya.h} = avikaarya.h = not changeable.
-
-\item Verb: {\dn vac} = vac = to be said.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn ucyate} = ucyate = (he/she/it) is said.
-
-\item Verb: {\dn vid} = vid = to know.
-
-  Plus perfect participle: {\dn viditvaa} = viditvaa = having known.
-
-\item (?) Male pronoun: {\dn ena.h} = ena.h = this.
-
-  (?) Plus \accusativecase: {\dn enam} = enam = this.
-
-\item Verb: {\dn arh} = arh = to deserve.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn arhasi} = arhasi = (you) deserve.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 26}
