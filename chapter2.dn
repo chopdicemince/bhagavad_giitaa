@@ -2228,111 +2228,88 @@ someone?
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 22}
 
+(K.r.s.na said to Arjuna:)\\
+
+Just as old garments are abandoned, a man holds new, other
+garments. Likewise, old, different bodies are abandoned, and a person
+goes with a new soul.\\
+
 \begin{tabular}{llll}
   1a&{\dn vaasaa.msi}&vaa|saa.m|si&(?) vaasaa.h\\
   &&&= {\dn vaasaa.h}\\
-  &&&= garments\\
+  &&&= garments; homes; situations\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vaasa.h} = vaasa.h}\\
   &&&\\
-  &{\dn jiir.naani}&jiir|.naa|ni&ruined\\
+  &{\dn jiir.naani}&jiir|.naa|ni&ruined; old; decrepit\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn jiir.nam} = jiir.nam}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&as\\
+  &{\dn yathaa}&ya|thaa&as; like; just as\\
   &&&\\
-  &{\dn vihaaya}&vi|haa|ya&abandoned\\
+  &{\dn vihaaya}&vi|haa|ya&despite; abandoning; overlooking\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
-  1b&{\dn navaani}&na|vaa|ni&new\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn navaani}&na|vaa|ni&new; recent; young\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn navam} = navam}\\
   &&&\\
-  &{\dn g.rh.naati}&g.rh|.naa|ti&(he/she/it) holds\\
+  &{\dn g.rh.naati}&g.rh|.naa|ti&(he/she/it) holds; takes; understands\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn grah} = grah}\\
   &&&\\
   &{\dn naro.aparaa.ni}&na|ro|&nara.h\\
   &&&= {\dn nara.h}\\
   &&&= man\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'pa|raa|.ni&aparaa.ni\\
   &&&= {\dn aparaa.ni}\\
-  &&&= other\\
+  &&&= others\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn aparam} = aparam}\\
   \hline
   &&&\\
-  2a&{\dn tathaa}&ta|thaa&thus\\
-  &&&\\
-  &{\dn "sariiraa.ni}&"sa|rii|raa|.ni&bodies\\
-  &&&\\
-  &{\dn vihaaya}&vi|haa|ya&abandoned\\
-  &&&\\
-  &{\dn jiir.naanyanyaani}&jiir|.naa|nya|&jiir.naani\\
-  &&&= {\dn jiir.naani}\\
-  &&&= ruined\\
-  \hline
-  &&&\\
-  2b&&nyaa|ni&anyaani\\
-  &&&= {\dn anyaani}\\
-  &&&= different\\
-  &&&\\
-  &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets\\
-  &&&\\
-  &{\dn navaani}&na|vaa|ni&new\\
-  &&&\\
-  &{\dn dehii}&de|hii&``body'' (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) As ruined garments are abandoned, a man
-holds new, other garments. Thus (likewise), ruined, different bodies
-are abandoned, and the soul meets a new body.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn vaasa.h} = vaasa.h = garment.
-
-  Plus plural form: {\dn vaasaa.h} = vaasaa.h = garments.
-
-\item Neuter adjective: {\dn jiir.nam} = jiir.nam = ruined.
-
-  Plus plural form: {\dn jiir.naani} = jiir.naani = ruined.
-
-\item Verb: {\dn vihaa} = vihaa = to abandon.
-
-  (?) Plus change: {\dn vihaaya} = vihaaya = abandoned.
-
-\item Neuter adjective: {\dn navam} = navam = new.
-
-  Plus plural form: {\dn navaani} = navaani = new.
-
-\item Verb: {\dn grah} = grah = to hold.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn g.rh.naati} = g.rh.naati = (he/she/it) holds.
-
-\item Male noun: {\dn nara.h} = nara.h = man.
-
-\item Neuter adjective: {\dn aparam} = aparam = other.
-
-  Plus plural form: {\dn aparaa.ni} = aparaa.ni = other.
-
-\item Neuter noun: {\dn "sariiram} = "sariiram = body.
-
-  Plus plural form: {\dn "sariiraa.ni} = "sariiraa.ni = bodies.
-
-\item Neuter adjective: {\dn anyam} = anyam = different.
-
-  Plus plural form: {\dn anyaani} = anyaani = different.
-
-\item Verb: {\dn samyaa} = samyaa = to meet.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn sa.myaati} = sa.myaati = (he/she/it) meets.
-
-\item Male noun: {\dn deha.h} = deha.h = body.
-
-  Plus change: {\dn dehii} = dehii = (?).
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn tathaa}&ta|thaa&thus; so; likewise\\
+  &&&\\
+  &{\dn "sariiraa.ni}&"sa|rii|raa|.ni&bodies; feces; anatomies\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn "sariiram} = "sariiram}\\
+  &&&\\
+  &{\dn vihaaya}&vi|haa|ya&despite; abandoning; overlooking\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &{\dn jiir.naanyanyaani}&jiir|.naa|nya|&jiir.naani\\
+  &&&= {\dn jiir.naani}\\
+  &&&= ruined; old; decrepit\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn jiir.nam} = jiir.nam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&nyaa|ni&anyaani\\
+  &&&= {\dn anyaani}\\
+  &&&= another; other; different\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn anyam} = anyam}\\
+  &&&\\
+  &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets; goes with; joins\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn sa.myaa} = sa.myaa}\\
+  &&&\\
+  &{\dn navaani}&na|vaa|ni&new\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{root: {\dn navam} = navam}\\
+  &&&\\
+  &{\dn dehii}&de|hii&soul (?)\\
+  &&&\note{similar: \noun, \male, {\dn deha.h} = deha.h = body}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 23}
