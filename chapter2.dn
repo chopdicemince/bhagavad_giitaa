@@ -2651,110 +2651,80 @@ soul) is not thinkable, this (the soul) is not changeable---it is said
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 26}
 
+(K.r.s.na said to Arjuna:)\\
+
+Also, and do you think that this (the soul) is eternally born and
+eternally dead (that is, the soul is born infinitely often, and dies
+infinitely often)?  Thus, also, you, O great-arm person (O Arjuna), do
+not deserve to lament this (the soul).\\
+
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&also\\
   &&&\\
   &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this\\
+  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
   &{\dn nityajaata.m}&ni|tya|jaa|ta.m&eternally born\\
+  &&&\note{\adjective}\\
+  &&&\note{from: \adjective, {\dn nitya} = nitya = eternal}\\
+  &&&\note{from: \adjective, {\dn jaata} = jaata = born}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn nitya.m}&ni|tya.m&eternal\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
   &{\dn manyase}&man|ya|se&(you) think\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn man} = man}\\
   &&&\\
   &{\dn m.rtam}&m.r|tam&dead\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn m.rta.h} = m.rta.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tathaapi}&ta|thaa|&thus\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|baa|ho&O great-arm person\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from: \adjective, \male, {\dn mahaan} = mahaan = great}\\
+  &&&\note{from: \noun, \male, {\dn baahu.h} = baahu.h = arm}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naina.m}&nai|&na = {\dn na} = not\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
+  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
   &{\dn "socitumarhasi}&"so|ci|tu|mar|&"socitum\\
   &&&= {\dn "socitum}\\
   &&&= to lament\\
+  &&&\note{\verbb, \infinitive}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve\\
+  &&&= (you) deserve; are worthy of; are able\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Also, and do you think that this eternal
-thing (the soul) is eternally born and dead? Thus, also, you, O
-great-arm person (O Arjuna), do not deserve to lament this (the soul).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Male noun: {\dn ena.h} = ena.h = this.
-
-  (?) Plus \accusativecase: {\dn enam} = enam = this.
-
-\item Male adjective: {\dn nityajaata.h} = nityajaata.h = eternally born.
-
-  Plus \accusativecase: {\dn nityajaatam} = nityajaatam = eternally born.
-
-  (Male adjective: {\dn nitya.h} = nitya.h = eternal.)
-
-  (Verb: {\dn jan} = jan = to be born.)
-
-  (Adjective or past participle: {\dn jaata} = jaata = born.)
-
-\item Male adjective: {\dn nitya.h} = nitya.h = eternal.
-
-  Plus \accusativecase: {\dn nityam} = nityam = eternal.
-
-\item Verb: {\dn man} = man = to think.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn manyase} = manyase = (you) think.
-
-\item Verb: {\dn m.rd} = m.rd = to kill.
-
-  (?) Plus past participle: {\dn m.rta} = m.rta = dead.
-
-  Plus male gender: {\dn m.rta.h} = m.rta.h = dead.
-
-  Plus \accusativecase: {\dn m.rtam} = m.rtam = dead.
-
-\item Pronoun in second person form and singular form: {\dn tvam} = tvam = you.
-
-\item Male noun: {\dn mahaabaahu.h} = mahaabaahu.h = great-arm person.
-
-  Plus \vocativecase: {\dn mahaabaaho} = mahaabaaho = O great-arm person.
-
-  This word has the following parts:
-
-  Male adjective: {\dn mahaan} = mahaan = great.
-
-  Male noun: {\dn baahu.h} = baahu.h = arm.
-
-\item Verb: {\dn arh} = arh = to deserve.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn arhasi} = arhasi = (you) deserve.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 27}
