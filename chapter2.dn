@@ -2114,116 +2114,88 @@ is not killed or in being killed in the body.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 21}
 
+(K.r.s.na said to Arjuna:)\\
+
+(About the soul:) Whoever has knowledge that this is without death, is
+eternal, is not born, and is not changeable---how can he, the man, O
+prince (O Arjuna), have something killed, or kill something?\\
+
 \begin{tabular}{llll}
-  1a&{\dn vedaavinaa"sina.m}&ve|daa&veda\\
-  &&&= {\dn veda}\\
-  &&&= (he/she/it) knows (?)\\
+  1a&{\dn vedaavinaa"sina.m}&ve|daa&veda.h\\
+  &&&= {\dn veda.h}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&vi|naa|"si|na.m&avinaa"sina.m\\
   &&&= {\dn avinaa"sina.m}\\
-  &&&= not perishable\\
+  &&&= (?)\\
+  &&&\note{similar: \prefix, {\dn a} = a = not}\\
+  &&&\note{similar: \noun, \neuter, {\dn vina"sanam} = vina"sanam}\\
+  &&&\note{= death; disappearance; loss}\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&eternal\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn ya}&ya&ya.h = {\dn ya.h} = who (?)\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn enamajamavyayam}&e|na|ma|&enam = {\dn enam} = this\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
   &&ja|ma|&ajam = {\dn ajam} = not born\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h = born}\\
   &&&\\
   &&vya|yam&avyayam\\
   &&&= {\dn avyayam}\\
   &&&= not changeable\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male,}\\
+  &&&\note{{\dn vyaya.h} = vyaya.h = changeable}\\
   \hline
   &&&\\
-  2a&{\dn katha.m}&ka|tha.m&how\\
-  &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he/it\\
-  &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa|.h(a)&man\\
-  &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
-  &&&= O Arjuna\\
-  \hline
-  &&&\\
-  2b&{\dn ka.m}&ka.m&whom (?)\\
-  &&&\\
-  &{\dn ghaatayati}&ghaa|ta|ya|ti&(he/she/it) causes\\
-  &&&\quad someone to kill\\
-  &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) kills\\
-  &&&\\
-  &{\dn kam}&kam&whom (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) Whoever knows this (the soul), which is not
-perishable, is eternal, is not born, and is not changeable---how can
-he, the man, O Arjuna, cause someone to kill? Or how can he kill
-someone?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn veda.h} = veda.h = knowledge.
-
-  (?) Plus change: {\dn veda} = veda = (he/she/it) knows.
-
-\item Male adjective: {\dn vinaa"sina.h} = vinaa"sina.h = perishable.
-
-  Plus prefix: {\dn avinaa"sina.h} = avinaa"sina.h = not perishable.
-
-  Plus \accusativecase: {\dn avinaa"sinam} = avinaa"sinam = not perishable.
-
-\item Male adjective: {\dn nitya.h} = nitya.h = eternal.
-
-  Plus \accusativecase: {\dn nityam} = nityam = eternal.
-
-\item (?) Male pronoun: {\dn ya.h} = ya.h = who.
-
-\item (?) Male pronoun: {\dn ena.h} = ena.h = this.
-
-  (?) Plus \accusativecase: {\dn enam} = enam = this.
-
-\item Male adjective: {\dn ja.h} = ja.h = born.
-
-  Plus prefix: {\dn aja.h} = aja.h = not born.
-
-  Plus \accusativecase: {\dn ajam} = ajam = not born.
-
-\item Male adjective: {\dn vyaya.h} = vyaya.h = changeable.
-
-  Plus prefix: {\dn avyaya.h} = avyaya.h = not changeable.
-
-  Plus \accusativecase: {\dn avyayam} = avyayam = not changeable.
-
-\item Male pronoun: {\dn sa.h} = sa.h = that/he/it.
-
-\item Male noun: {\dn puru.sa.h} = puru.sa.h = man.
-
-\item Male noun: {\dn paartha.h} = paartha.h = prince = Arjuna.
-
-  Plus \vocativecase: {\dn paartha} = paartha = O prince = O Arjuna.
-
-\item Male pronoun: {\dn ka.h} = ka.h = what/who.
-
-  (?) Plus \accusativecase: {\dn kam} = kam = what/whom.
-
-\item Verb: {\dn han} = han = to kill.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn hanti} = hanti = (he/she/it) kills.
-
-  Plus causative form:
-
-  {\dn ghaatayati} = ghaatayati = (he/she/it) causes someone to kill.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn katha.m}&ka|tha.m&how\\
+  &&&\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he/it\\
+  &&&\note{\pronoun, \male}\\
+  &&&\\
+  &{\dn puru.sa.h}&pu|ru|.sa|.h(a)&man; person; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn ka.m}&ka.m&what/whom (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ka.h} = ka.h = what/who}\\
+  &&&\\
+  &{\dn ghaatayati}&ghaa|ta|ya|ti&(he/she/it) has someone\\
+  &&&killed; punished; destroyed\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn han} = han}\\
+  &&&\\
+  &{\dn hanti}&han|ti&(he/she/it) destroys; hits; kills\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn han} = han}\\
+  &&&\\
+  &{\dn kam}&kam&what/whom (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ka.h} = ka.h = what/who}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 22}
