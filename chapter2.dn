@@ -1781,107 +1781,78 @@ this non-decay thing (the soul?)---not any person is able to do it.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 18}
 
+(K.r.s.na said to Arjuna:)\\
+
+These bodies are perishable, said K.r.s.na. The soul is of something
+not measurable, eternal, and not perishable. Therefore, fight, O
+descendant of Bharata (O Arjuna).\\
+
 \begin{tabular}{llll}
-  1a&{\dn antavanta}&an|ta|van|ta&perishable (?)\\
+  1a&{\dn antavanta}&an|ta|van|ta&perishable; having an end (?)\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn ime}&i|me&these\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
   &&&= {\dn dehaa.h}\\
   &&&= bodies\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn deha.h} = deha.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn nityasyoktaa.h}&ni|tya|syok|&nityasya\\
   &&&= {\dn nityasya}\\
-  &&&= ocean's/eternity's\\
+  &&&= of something eternal\\
+  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &&taa|.h(aa)&uktaa.h\\
   &&&= {\dn uktaa.h}\\
-  &&&= said\\
+  &&&= said (?)\\
   &&&\\
-  &{\dn "sariiri.na.h}&"sa|rii|ri|.na|.h(a)&soul with a body\\
+  &{\dn "sariiri.na.h}&"sa|rii|ri|.na|.h(a)&(?) soul; man; animal\\
+  &&&\note{similar: \noun, \male: {\dn "sariirin} = "sariirin}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn anaa"sino.aprameyasya}&a|naa|"si|no|&anaa"sina.h\\
   &&&= {\dn anaa"sina.h}\\
-  &&&= not perishable\\
+  &&&= not perishable;\\
+  &&&not destructive;\\
+  &&&not destroying\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, {\dn naa"sin} = naa"sin}\\
   &&&\\
   &&'pra|me|ya|sya&aprameyasya\\
   &&&= {\dn aprameyasya}\\
-  &&&= unprovableness's/\\
-  &&&\quad unmeasurableness's\\
+  &&&= of something not measurable; not proved\\
+  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn prameya.h} = prameya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn tasmaadyudhyasva}&tas|maa|dyu|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
   &&&\\
-  &&dhya|&(?) yudh\\
-  &&&= {\dn yudh}\\
-  &&&= to fight\\
-  &&&\\
-  &&sva&(?) asva\\
-  &&&= {\dn asva}\\
-  &&&= without possessions\\
+  &&dhya|sva&(?) yudhyasva\\
+  &&&= {\dn yudhyasva}\\
+  &&&= (you) fight\\
+  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{root: {\dn yudh} = yudh}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-These bodies are perishable, said K.r.s.na. The unmeasurableness's
-soul with a body is not perishable. Therefore, fight without
-possessions, O descendant of Bharata (O Arjuna).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Adjective: {\dn antavat} = antavat = perishable.
-
-  (?) Plus change: {\dn antavanta} = antavanta = perishable.
-
-\item Male noun: {\dn deha.h} = deha.h = body.
-
-  Plus plural form: {\dn dehaa.h} = dehaa.h = bodies.
-
-\item Male noun: {\dn nitya.h} = nitya.h = ocean/eternity.
-
-  Plus \genitivecase: {\dn nityasya} = nityasya = ocean's/eternity's.
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-  (?) Plus adjective form: Male adjective: {\dn ukta.h} = ukta.h = said.
-
-  Plus plural form: {\dn uktaa.h} = uktaa.h = said.
-
-\item Male noun: {\dn "sariiri.na.h} = "sariiri.na.h = soul with a body.
-
-\item Male adjective: {\dn naa"sina.h} = naa"sina.h = perishable.
-
-  Plus prefix: {\dn anaa"sina.h} = anaa"sina.h = not perishable.
-
-\item Male noun: {\dn prameya.h} = prameya.h = provableness/measurableness.
-
-  Plus prefix: {\dn aprameya.h} = aprameya.h = unprovableness/unmeasurablenss.
-
-  Plus \genitivecase: {\dn aprameyasya} = aprameyasya = unprovableness's/unmeasurableness's.
-
-\item Verb: {\dn yudh} = yudh = to fight.
-
-\item Adjective: {\dn asva} = asva = without possessions.
-
-\item Male noun: {\dn bhaarata.h} = bhaarata.h = descendant of Bharata = Arjuna.
-
-  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata = O Arjuna.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 19}
