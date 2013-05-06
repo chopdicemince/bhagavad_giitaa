@@ -1886,107 +1886,84 @@ possessions, O descendant of Bharata (O Arjuna).
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 19}
 
+(K.r.s.na said:)\\
+
+(About the soul:) Who feels that this is a killer? And who thinks
+thinks that this is killed? Those two statements are not
+knowledge. This does not kill and is not killed.\\
+
 \begin{tabular}{llll}
-  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = who\\
+  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = who (?)\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn ena.m}&e|na.m&this\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn vetti}&vet|ti&(he/she/it) feels\\
+  &{\dn vetti}&vet|ti&(he/she/it) feels; is acquained with; knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn hantaara.m}&han|taa|ra.m&killer (?)\\
+  &{\dn hantaara.m}&han|taa|ra.m&(?)\\
+  &&&\note{similar: \noun, \male, {\dn hant.r} = hant.r = killer}\\
   \hline
   &&&\\
-  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = who\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = who (?)\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
   &&na.m&ena.m = {\dn ena.m} = this\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn manyate}&man|ya|te&(he/she/it) thinks\\
+  &{\dn manyate}&man|ya|te&(he/she/it) thinks; knows; regards\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn man} = man}\\
   &&&\\
-  &{\dn hatam}&ha|tam&killed\\
+  &{\dn hatam}&ha|tam&killed; destroyed; hurt\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn hata.h} = hata.h}\\
   \hline
   &&&\\
-  2a&{\dn ubhau}&u|bhau&``two''\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn ubhau}&u|bhau&two\\
+  &&&\note{\adjective}\\
   &&&\\
-  &{\dn tau}&tau&those two\\
+  &{\dn tau}&tau&those two; they\\
+  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he/it}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
   &{\dn vijaaniito}&vi|jaa|nii|to&vijaaniita.h\\
   &&&= {\dn vijaaniita.h}\\
-  &&&= knower (?)\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn vijaaniite} = vijaaniite = (he/she/it) knows;}\\
+  &&&\note{understands; learns}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naaya.m}&naa|&na = {\dn na} = not\\
   &&&\\
   &&ya.m&aya.m = {\dn aya.m} = this\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) hits/kills\\
+  &{\dn hanti}&han|ti&(he/she/it) destroys; hits; kills\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn hanyate}&han|ya|te&(he/she/it) is hit/killed\\
+  &{\dn hanyate}&han|ya|te&(he/she/it) is hit; killed\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn han} = han}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said:) Who feels that this (the soul) is a killer, and who
-thinks thinks that this (the soul) is killed, is not a knower of those
-two things. This (the soul) does not kill and is not killed.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Male pronoun: {\dn ena.h} = ena.h = this.
-
-  (?) Plus \accusativecase: {\dn enam} = enam = this.
-
-\item Verb: {\dn vid} = vid = to feel.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn vetti} = vetti = (he/she/it) feels.
-
-\item Male noun: {\dn hant.r} = hant.r = killer.
-
-  (?) Plus change: {\dn hantaaram} = hantaaram = killer.
-
-\item Verb: {\dn man} = man = to think.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn manyate} = manyate = (he/she/it) thinks.
-
-\item Male adjective: {\dn hata.h} = hata.h = killed.
-
-  (?) Plus \accusativecase: {\dn hatam} = hatam = killed.
-
-\item Male pronoun: {\dn sa.h} = sa.h = that/he/it.
-
-  Plus dual form: {\dn tau} = tau = those two/they.
-
-\item Verb: {\dn vij~na} = vij\~{}na = to know.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn vijaaniite} = vijaaniite = (he/she/it) knows.
-
-  (?) Plus change: {\dn vijaaniita.h} = vijaaniita.h = knower.
-
-\item Male pronoun: {\dn ayam} = ayam = this.
-
-\item Verb: {\dn han} = han = to hit/kill.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn hanti} = hanti = (he/she/it) hits/kills.
-
-  Plus passive voice: {\dn hanyate} = hanyate = (he/she/it) is hit/killed.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 20}
