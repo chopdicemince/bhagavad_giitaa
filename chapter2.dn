@@ -1570,112 +1570,94 @@ and is brave. He is suitable for immortality.
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
 
+(K.r.s.na said to Arjuna:)\\
+
+A non-eternal thing is not existence. Non-existence is not eternal.
+But also, the conclusion of these two statements is seen---and the
+truth of these two statements---by people who know or see.\\
+
 \begin{tabular}{llll}
   1a&{\dn naasato}&naa|&na = {\dn na} = not\\
   &&&\\
   &&sa|to&asata.h\\
   &&&= {\dn asata.h}\\
-  &&&= non-eternal thing (?)\\
+  &&&= (?)\\
+  &&&\note{similar: \prefix, {\dn a} = a = not}\\
+  &&&\note{similar: \adjective, {\dn satata} = satata}\\
+  &&&\note{= constant; continuous; eternal}\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
+  &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
   &&&\\
   &{\dn bhaavo}&bhaa|vo&bhaava.h\\
   &&&= {\dn bhaava.h}\\
   &&&= existence\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn naabhaavo}&naa|&na = {\dn na} = not\\
   &&&\\
   &&bhaa|vo&abhaava.h\\
   &&&= {\dn abhaava.h}\\
   &&&= non-existence\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \noun, \male, {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
+  &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn sata.h}&sa|ta|.h(a)&eternal thing (?)\\
+  &{\dn sata.h}&sa|ta|.h(a)&(?)\\
+  &&&\note{similar: \adjective, {\dn satata} = satata}\\
+  &&&\note{= constant; continuous; eternal}\\
   \hline
   &&&\\
-  2a&{\dn ubhayorapi}&u|bha|yo|ra&ubhayo.h\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn ubhayorapi}&u|bha|yo|ra|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= two things'\\
+  &&&= at/in/on or of two things\\
+  &&&\note{\pronoun, \male, \dual, \locativecase}\\
+  &&&\note{or \genitivecase}\\
+  &&&\note{from {\dn ubhaya.h} = ubhaya.h}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
   &{\dn d.r.s.to.antastvanayostattvadar"sibhi.h}&d.r.s|.to'n|&d.r.s.ta.h\\
   &&&= {\dn d.r.s.ta.h}\\
   &&&= seen\\
+  &&&\note{\adjective, \pastparticiple, \male}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
-  &&&= end\\
+  &&&= end; death; conclusion\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&stva|&tu = {\dn tu} = but\\
   &&&\\
   &&na|yo|stat|&anayo.h\\
   &&&= {\dn anayo.h}\\
-  &&&= two things'\\
+  &&&= at/in/on or of two things (?)\\
+  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{or \genitivecase}\\
+  &&&\note{from {\dn ana.h} = ana.h}\\
   &&&\\
   &&tva|&tattvam\\
   &&&= {\dn tattvam}\\
-  &&&= truth\\
+  &&&= truth; essence; principle\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dar|"si|bhi|.h(i)&using/by knowers or seers\\
+  &&dar|"si|bhi|.h(i)&using/by people who know or see (?)\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn dar"sivas} = dar"sivas}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said:) A non-eternal thing is not existence. In other words,
-non-existence is not an eternal thing. These two things' end
-(conclusion) also has been seen---and these two things' truth---by
-knowers and seers.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Adjective: {\dn satata} = satata = eternal.
-
-  (?) Plus noun form: Male noun: {\dn sata.h} = sata.h = eternal thing.
-
-  Or plus prefix: {\dn asatata} = asatata = non-eternal.
-
-  (?) Plus noun form: Male noun: {\dn asata.h} = asata.h = non-eternal thing.
-
-\item Verb: {\dn vid} = vid = to be.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn vidyate} = vidyate = (he/she/it) is.
-
-\item Male noun: {\dn bhaava.h} = bhaava.h = existence.
-
-  Plus prefix: {\dn abhaava.h} = abhaava.h = non-existence.
-
-\item Male pronoun: {\dn ubhaya.h} = ubhaya.h = two things.
-
-  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = two things'.
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus adjective form: {\dn d.r.s.ta.h} = d.r.s.t.a.h = seen.
-
-\item Male noun: {\dn anta.h} = anta.h = end.
-
-\item (?) Male pronoun: {\dn ana.h} = ana.h = he/this.
-
-  Plus dual form and \genitivecase: {\dn anayo.h} = anayo.h = two things'.
-
-\item Neuter pronoun: {\dn tattvam} = tattvam = truth.
-
-\item Male noun: {\dn dar"sivas} = dar"sivas = one who knows or sees.
-
-  (?) Plus change: {\dn dar"si.h} = dar"si.h = knower or seer.
-
-  Plus plural form and \instrumentalcase: {\dn dar"sibhi.h} = dar"sibhi.h = using/by knowers or seers.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 17}
