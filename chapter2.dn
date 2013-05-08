@@ -1469,8 +1469,16 @@ things. Make yourself be something above them, O descendant of Bharata
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 15}
 
+(K.r.s.na said to Arjuna:)\\
+
+Certainly, these do not hurt one man---O man bull (O man of
+excellence, O Arjuna)---who is the same in sadness and in happiness,
+and is brave. He is suitable for immortality.\\
+
 \begin{tabular}{llll}
-  1a&{\dn ya.m}&ya.m&(?)\\
+  1a&{\dn ya.m}&ya.m&one (?)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn hi}&hi&certainly\\
   &&&\\
@@ -1478,94 +1486,64 @@ things. Make yourself be something above them, O descendant of Bharata
   &&&\\
   &{\dn vyathayantyete}&vya|tha|yan|tye|&vyathayanti\\
   &&&= {\dn vyathayanti}\\
-  &&&= (they) hurt\\
+  &&&= (they) hurt; disturb; scare\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn vyath} = vyath}\\
   &&&\\
   &&te&ete = {\dn ete} = these\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he/it}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn puru.sa.m}&pu|ru|.sa.m&man\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
   &&&\\
   &{\dn puru.sar.sabha}&pu|ru|.sar|.sa|bha&O man bull\\
   &&&= O man of excellence\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from: \noun, \male, {\dn puru.sa.h} = puru.sa.h = man}\\
+  &&&\note{from: \noun, \male, {\dn .r.sabha.h} = .r.sabha.h = bull}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn samadu.hkhasukha.m}&sa|ma|&sama\\
   &&&= {\dn sama}\\
   &&&= same\\
+  &&&\note{\adjective}\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
   &&&= sadness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&su|kha.m&happiness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn dhiira.m}&dhii|ra.m&brave\\
+  &{\dn dhiira.m}&dhii|ra.m&brave; strong; intelligent\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn dhiira.h} = dhiira.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = that/he/it\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &&'m.r|ta|tvaa|ya&am.rtatvaaya\\
   &&&= {\dn am.rtatvaaya}\\
   &&&= for immortality\\
+  &&&\note{\noun, \neuter, \dativecase}\\
+  &&&\note{from {\dn am.rtatvam} = am.rtatvam}\\
   &&&\\
   &{\dn kalpate}&kal|pa|te&(he/she/it) is suitable for\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn kl.rp} = kl.rp}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said:) Certainly, these do not hurt a man, O man bull (O man
-of excellence, O Arjuna), who is the same in sadness and in happiness,
-and is brave. He is suitable for immortality.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Verb: {\dn vyath} = vyath = to hurt.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn vyathayanti} = vyathayanti = (they) hurt.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this/he/it.
-
-  Plus plural form: {\dn ete} = ete = these.
-
-\item Male noun: {\dn puru.sa.h} = puru.sa.h = man.
-
-  Plus \accusativecase: {\dn puru.sam} = puru.sam = man.
-
-\item Male noun: {\dn puru.sar.sabha.h} = puru.sar.sabha.h = man bull = man of excellence = Arjuna.
-
-  Plus \vocativecase: {\dn puru.sar.sabha} = puru.sar.sabha = O man bull = O man of excellence = O Arjuna.
-
-  (Male noun: {\dn puru.sa.h} = puru.sa.h = man.)
-
-  (Male noun: {\dn .r.sabha.h} = .r.sabha.h = bull.)
-
-\item Adjective: {\dn sama} = sama = same.
-
-\item Neuter noun: {\dn du.hkham} = du.hkham = sadness.
-
-\item Neuter noun: {\dn sukham} = sukham = happiness.
-
-\item Neuter adjective: {\dn dhiiram} = dhiiram = brave.
-
-\item Male pronoun: {\dn sa.h} = sa.h = that/he/it.
-
-\item Neuter noun: {\dn am.rtatvam} = am.rtatvam = immortality.
-
-  Plus \dativecase: {\dn am.rtatvaaya} = am.rtatvaaya = for immortality.
-
-\item Verb: {\dn kl.rp} = kl.rp = to be suitable for.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn kalpate} = kalpate = (he/she/it) is suitable for.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
