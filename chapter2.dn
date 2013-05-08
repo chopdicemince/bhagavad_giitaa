@@ -1267,89 +1267,77 @@ from herefter not be.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 13}
 
+(K.r.s.na said to Arjuna:)\\
+
+Just as the soul in this body goes through childhood, adolescence, and
+old age, so it goes to a different body at achievement (death). A
+brave person there is not confused.\\
+
 \begin{tabular}{llll}
   1a&{\dn dehino.asminyathaa}&de|hi|no|&dehina.h\\
   &&&= {\dn dehina.h}\\
-  &&&= soul\\
+  &&&= soul (?)\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&'smin|&asmin = {\dn asmin} = in this\\
+  &&'smin|&asmin = {\dn asmin} = at/in/on this\\
+  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &&ya|thaa&because\\
+  &&ya|thaa&as; like; just as\\
   &&&\\
-  &{\dn dehe}&de|he&in/on the body\\
+  &{\dn dehe}&de|he&at/in/on the body\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn deha.h} = deha.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn kaumaara.m}&kau|maa|ra.m&childhood\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn yauvana.m}&yau|va|na.m&youth\\
+  &{\dn yauvana.m}&yau|va|na.m&adolescence\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn jaraa}&ja|raa&old age\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
-  2a&{\dn tathaa}&ta|thaa&so\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tathaa}&ta|thaa&thus; so; likewise\\
   &&&\\
   &\multicolumn{3}{l}{\dn dehaantarapraaptirdhiirastatra}\\
   &&&\\
   &&de|haan|ta|ra|&dehaantaram\\
   &&&= {\dn dehaantaram}\\
   &&&= other body\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dehaantara.h} = dehaantara.h}\\
+  &&&\note{from: \noun, \male, {\dn deha.h} = deha.h = body}\\
+  &&&\note{from: \adjective, \male, {\dn antara.h} = antara.h}\\
+  &&&\note{= near; different; related}\\
   &&&\\
-  &&praa|tir|&praapti.h\\
+  &&praap|tir|&praapti.h\\
   &&&= {\dn praapti.h}\\
-  &&&= gain\\
+  &&&= getting; achievement; reaching\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&dhii|ra|&dhiira.h\\
   &&&= {\dn dhiira.h}\\
-  &&&= brave\\
+  &&&= brave; strong; intelligent\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&sta|tra&tatra = {\dn tatra} = there\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn muhyati}&mu|hya|ti&(he/she/it) is confused\\
+  &{\dn muhyati}&mu|hya|ti&(he/she/it) is confused; perplexed; mistaken\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn muh} = muh}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said:) Because the soul in this body goes through childhood,
-youth, and old age, so it goes to another body at ``gain'' (death). A
-brave person there is not confused.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn dehina.h} = dehina.h = soul.
-
-\item Male noun: {\dn deha.h} = deha.h = body.
-
-  Plus \locativecase: {\dn dehe} = dehe = in/on the body.
-
-\item Neuter noun: {\dn kaumaaram} = kaumaaram = childhood.
-
-\item Neuter noun: {\dn yauvanam} = yauvanam = youth.
-
-\item Female noun: {\dn jaraa} = jaraa = old age.
-
-\item Neuter noun: {\dn dehaantaram} = dehaantaram = other body.
-
-  (Male noun: {\dn deha.h} = deha.h = body.)
-
-  (Neuter noun: {\dn antaram} = antaram = other.)
-
-\item Male noun: {\dn praapti.h} = praapti.h = gain.
-
-\item Male adjective: {\dn dhiira.h} = dhiira.h = brave.
-
-\item Verb: {\dn muh} = muh = to be confused.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn muhyati} = muhyati = (he/she/it) is confused.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 14}
