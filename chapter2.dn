@@ -1066,126 +1066,99 @@ armies, to the person in despair (Arjuna), this group of words: \dots
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 11}
 
+The god (K.r.s.na) said: You (Arjuna) are a person who laments things
+that are not lamentable, and you say wise sayings. Lives gone, and
+lives not gone---scholars do not lament them.\\
+
 \begin{tabular}{llll}
   0&{\dn "sribhagavaanuvaaca}&"sri|&{\dn "sri} = ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&bhagavaan\\
-  &&&= {\dn bhagavaan}\\
-  &&&= god\\
-  &&&= K.r.s.na\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = god = K.r.s.na\\
+  &&&\note{\noun}\\
   &&&\\
-  &&vaa|ca&uvaaca\\
-  &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
+  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn a"socyaananva"socastva.m}&a|"so|cyaa|nan|&a"socyaan\\
   &&&= {\dn a"socyaan}\\
-  &&&= not lamentable\\
+  &&&= not lamentable; not miserable; fortunate\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn "socya.h} = "socya.h}\\
   &&&\\
   &&va|"so|cas|&anva"soca.h\\
   &&&= {\dn anva"soca.h}\\
-  &&&= person who laments\\
+  &&&= person who laments (?)\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&tva.m&{\dn tva.m} = you (Arjuna)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  \hline
   &&&\\
-  1b&{\dn praj~naavaadaa.m"sca}&praj|\~{}naa|&praj\~{}naan\\
-  &&&= {\dn praj~naan}\\
-  &&&= wise\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn praj~naavaadaa.m"sca}&praj|\~{}naa|&praj\~{}naan = {\dn praj~naan} = wise\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn praj~na.h} = praj\~{}na.h}\\
   &&&\\
   &&vaa|daa.m"s|&vaadaan\\
   &&&= {\dn vaadaan}\\
-  &&&= talks (noun)\\
+  &&&= sayings; sounds; discussions\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn vaada.h} = vaada.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn bhaa.sase}&bhaa|.sa|se&(you) say\\
+  &{\dn bhaa.sase}&bhaa|.sa|se&(you) talk; say; speak\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn bhaa.s} = bhaa.s}\\
   \hline
   &&&\\
-  2a&{\dn gataasuunagataasuu.m"sca}&ga|taa|&gataan = {\dn gataan} = gone\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn gataasuunagataasuu.m"sca}&ga|taa|&gataan\\
+  &&&= {\dn gataan}\\
+  &&&= gone; dead; understood\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn gata.h} = gata.h}\\
   &&&\\
-  &&suu|na&asuun = {\dn asuun} = lives (noun)\\
+  &&suu|na&asuun = {\dn asuun} = lives; breaths; spirits\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
-  &&ga|taa|&agataan = {\dn agataan} = not gone\\
+  &&ga|taa|&agataan\\
+  &&&= {\dn agataan}\\
+  &&&= not gone; not dead; not understood\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn gata.h} = gata.h}\\
   &&&\\
-  &&suu.m"s|&asuun = {\dn asuun} = lives (noun)\\
+  &&suu.m"s|&asuun\\
+  &&&= {\dn asuun}\\
+  &&&= lives; breaths; spirits\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn naanu"socanti}&naa|&na = {\dn na} = not\\
   &&&\\
   &&nu|"so|can|ti&anu"socanti\\
   &&&= {\dn anu"socanti}\\
   &&&= (they) lament\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn anu"suc} = anu"suc}\\
   &&&\\
-  &{\dn pa.n.ditaa.h}&pa.n|.di|taa|.h(aa)&scholars\\
+  &{\dn pa.n.ditaa.h}&pa.n|.di|taa|.h(aa)&scholars; philosophers; teachers\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-The god (K.r.s.na) said: You (Arjuna) are a person who laments things
-that are not lamentable, and you say wise talks. Scholars do not
-lament lives gone and lives not gone.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Neuter noun: {\dn bhagavaan} = bhagavaan = god = K.r.s.na.
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Male adjective: {\dn a"socya.h} = a"socya.h = not lamentable.
-
-  Plus plural form and \accusativecase: {\dn a"socyaan} = a"socyaan = not lamentable.
-
-\item Verb: {\dn anu"suc} = anu"suc = to lament.
-
-  Plus ``person-doer'' form: Male noun: {\dn anva"soca.h} = anva"soca.h = person who laments.
-
-  Or plus present tense and third person form and plural form:
-
-  {\dn anu"sucanti} = anu"sucanti = (they) lament.
-
-\item Pronoun, in second person form and singular form: {\dn tvam} = tvam = you.
-
-\item Male adjective: {\dn praaj~na.h} = praaj\~{}na.h = wise.
-
-  Plus plural form and \accusativecase: {\dn praaj~naan} = praaj\~{}naan = wise.
-
-\item Male noun: {\dn vaada.h} = vaada.h = talk.
-
-  Plus plural form and \accusativecase: {\dn vaadaan} = vaadaan = talks.
-
-\item Verb: {\dn bhaa.s} = bhaa.s = to say.
-
-  Plus present tense and second person form and singular form:
-
-  {\dn bhaa.sase} = bhaa.sase = (you) say.
-
-\item Male adjective: {\dn gata.h} = gata.h = gone.
-
-  Plus plural form and \accusativecase: {\dn gataan} = gataan = gone.
-
-  Or plus prefix: {\dn agata.h} = agata.h = not gone.
-
-  Plus plural form and \accusativecase: {\dn agataan} = agataan = not gone.
-
-\item Male noun: {\dn asu.h} = asu.h = life.
-
-  Plus plural form and \accusativecase: {\dn asuun} = asuun = lives.
-
-\item Male noun: {\dn pa.n.dita.h} = pa.n.dita.h = scholar.
-
-  Plus plural form: {\dn pa.n.ditaa.h} = pa.n.ditaa.h = scholars.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 12}
