@@ -1190,6 +1190,12 @@ lament lives gone and lives not gone.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 12}
 
+(K.r.s.na said to Arjuna:)\\
+
+No, but really, I never not was, or you not were, or these kings not
+were. No, and really, not in the impending future, will we from now
+and after not be.\\
+
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
@@ -1198,25 +1204,38 @@ lament lives gone and lives not gone.
   &&vaa|&eva = {\dn eva} = really\\
   &&&\\
   &&ha.m&aha.m = {\dn aha.m} = I\\
+  &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn jaatu}&jaa|tu&never\\
+  &{\dn jaatu}&jaa|tu&never; possibly; perhaps\\
+  &&&\note{\adverb}\\
   &&&\\
   &{\dn naasa.m}&naa|&na = {\dn na} = not\\
   &&&\\
   &&sa.m&aasam = {\dn aasam} = (I) was\\
+  &&&\note{\verbb, \pasttense, \firstperson}\\
+  &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn na}&na&not\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
+  &&&\note{\pronoun, \secondperson}\\
   &&&\\
   &{\dn neme}&ne|&na = {\dn na} = not\\
   &&&\\
   &&me&ime = {\dn ime} = these\\
+  &&&\note{\pronoun, \male, \plural}\\
   &&&\\
   &{\dn janaadhipaa.h}&ja|naa|dhi|paa|.h(aa)&kings\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn janaadhipa.h} = janaadhipa.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn na}&na&not\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
@@ -1226,43 +1245,23 @@ lament lives gone and lives not gone.
   &{\dn na}&na&not\\
   &&&\\
   &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma|.h(a)&impending\\
+  &&&\note{\adjective, \firstperson, \plural}\\
+  &&&\note{from {\dn bhavi.sya} = bhavi.sya}\\
   \hline
   &&&\\
-  2b&{\dn sarve}&sar|ve&all\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sarve}&sar|ve&at/in/on each\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn vayamata.h}&va|ya|ma|&vayam = {\dn vayam} = we\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{from {\dn aham} = aham}\\
   &&&\\
   &&ta|.h(a)&from\\
   &&&\\
   &{\dn param}&pa|ram&after\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-(K.r.s.na said:) No, but really, I never not was, or you not were, or
-these kings not were. No, and really, never in the future, will we all
-from herefter not be.
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-\begin{itemize}
-
-\item Adjective: {\dn bhavi.sya} = bhavi.sya = impending.
-
-  Plus first person form and plural form: {\dn bhavi.syaama.h} = bhavi.syaama.h = impending.
-
-\item Male noun: {\dn janaadhipa.h} = janaadhipa.h = king.
-
-  Plus plural form: {\dn janaadhipaa.h} = janaadhipaa.h = kings.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Plus past tense and first person form and singular form:
-
-  {\dn aasam} = aasam = (I) was.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 13}
