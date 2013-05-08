@@ -1354,117 +1354,98 @@ brave person there is not confused.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 14}
 
+(K.r.s.na said to Arjuna:)\\
+
+But material contacts, O son of Kunti (O Arjuna)---coldness and
+hotness, happiness and unhappiness---are giving, have an appearance
+and a disappearance, and are not eternal. Make yourself be something
+above them, O descendant of Bharata (O Arjuna).\\
+
 \begin{tabular}{llll}
-  1a&{\dn maatraaspar"saastu}&maa|traa|spar|"saas|&maatraaspar"saa.h\\
+  1a&{\dn maatraaspar"saastu}&maa|traa|spar|"saa|&maatraaspar"saa.h\\
   &&&= {\dn maatraaspar"saa.h}\\
   &&&= material contacts\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn maatraaspar"sa.h} = maatraaspar"sa.h}\\
+  &&&\note{from: \noun, \female, {\dn maatraa}}\\
+  &&&\note{= maatraa = material}\\
+  &&&\note{from: \noun, \male, {\dn spar"sa.h} = spar"sa.h}\\
+  &&&\note{= contact}\\
   &&&\\
-  &&tu&{\dn tu} = but\\
+  &&stu&tu = {\dn tu} = but\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O Kunti's son\\
+  &{\dn kaunteya}&kaun|te|ya&O son of Kunti\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn "siito.s.nasukhadu.hkhadaa.h}&"sii|to.s|&"siitam = {\dn "siitam} = coldness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&.na|&u.s.na = {\dn u.s.na} = hotness\\
+  &&.na|&u.s.na.h = {\dn u.s.na.h} = hotness\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&su|kha|&sukham = {\dn sukham} = happiness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&du.h|kha|&du.hkham = {\dn du.hkham} = pain\\
+  &&du.h|kha|&du.hkham\\
+  &&&= {\dn du.hkham}\\
+  &&&= unhappiness; sorrow; pain\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&daa|.h(aa)&giver (?)\\
+  &&daa|.h(aa)&(?) offering; producing; giving\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn da.h} = da.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn aagamaapaayino.anityaastaa.mstitik.sasva}\\
   &&&\\
   &&aa|ga|maa|&aagama.h\\
   &&&= {\dn aagama.h}\\
-  &&&= appearance\\
+  &&&= appearance; approach; studying\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&paa|yi|no|&apaayina.h\\
   &&&= {\dn apaayina.h}\\
   &&&= disappearance (?)\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'ni|tyaa|&anityaa.h\\
   &&&= {\dn anityaa.h}\\
-  &&&= temporary things (?)\\
+  &&&= not eternal\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn nitya.h} = nitya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&staa.m|&taan\\
-  &&&= {\dn taan}\\
+  &&&= {\dn taani}\\
   &&&= those/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he/it}\\
   &&&\\
   &&sti|tik|.sa|&titik.sa.h\\
   &&&= {\dn titik.sa.h}\\
   &&&= something above (?)\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&sva&sva.h\\
-  &&&= {\dn sva.h}\\
+  &&sva&sva\\
+  &&&= {\dn sva}\\
   &&&= self\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendent of Bharata\\
   &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said:) But material contacts, O Kunti's son (O
-Arjuna)---coldness and hotness, happiness and pain, from a
-giver---have an appearance and a disappearance, and are temporary
-things. Make yourself be something above them, O descendant of Bharata
-(O Arjuna).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn maatraaspar"sa.h} = maatraaspar"sa.h = material contact.
-
-  Plus plural form: {\dn maatraaspar"saa.h} = maatraaspar"saa.h = material contacts.
-
-  (Female noun: {\dn maatraa} = maatraa = material.)
-
-  (Male noun: {\dn spar"sa.h} = spar"sa.h = contact.)
-
-\item Male noun: {\dn kaunteya.h} = kaunteya.h = Kunti's son = Arjuna.
-
-  Plus \vocativecase: {\dn kaunteya} = kaunteya = O Kunti's son = O Arjuna.
-
-\item Neuter noun: {\dn "sitam} = "sitam = coldness.
-
-\item Male noun: {\dn u.s.na.h} = u.s.na.h = hotness.
-
-\item Neuter noun: {\dn sukham} = sukham = happiness.
-
-\item Nueter noun: {\dn du.hkham} = du.hkham = pain.
-
-\item Verb: {\dn daa} = daa = to give.
-
-  (?) Plus ``person-doer'' form: Male noun: {\dn daa.h} = daa.h = giver.
-
-\item Male noun: {\dn aagama.h} = aagama.h = appearance.
-
-\item (?) Male noun: {\dn apaayina.h} = apaayina.h = disappearance.
-
-\item (?) Male noun: {\dn anitya.h} = anitya.h = temporary thing.
-
-  Plus plural form: {\dn anityaa.h} = anityaa.h = temporary things.
-
-\item Male pronoun: {\dn sa.h} = sa.h = he/that/it.
-
-  Plus plural form and \accusativecase: {\dn taan} = taan = those/them.
-
-\item (?) Male noun: {\dn titik.sa.h} = titik.sa.h = something above.
-
-\item Male noun: {\dn sva.h} = sva.h = self.
-
-\item Male noun: {\dn bhaarata.h} = bhaarata.h = descendant of Bharata = Arjuna.
-
-  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata = O Arjuna.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 15}
