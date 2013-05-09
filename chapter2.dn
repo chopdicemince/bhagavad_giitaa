@@ -769,37 +769,65 @@ student of you, having surrendered myself to you.
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 8}
+{
+\footnotesize
+(Arjuna said to K.r.s.na:)\\
 
+Certainly, I do not see my driving away that drying sorrow of my
+senses, or getting---on the ground, without an enemy---a wealthy
+kingdom of the gods, and also power.\\
+
+}
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
   &{\dn hi}&hi&certainly\\
   &&&\\
   &{\dn prapa"syaami}&pra|pa"s|yaa|mi&(I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn prapa"s} = prapa"s}\\
   &&&\\
   &{\dn mamaapanudyaad}&ma|maa|&mama = {\dn mama} = my\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham}\\
   &&&\\
   &&pa|nu|dyaad&apanudyaat\\
   &&&= {\dn apanudyaat}\\
-  &&&= can drive away (?)\\
+  &&&= from driving away (?)\\
+  &&&\note{\adjective, gender?, \ablativecase}\\
+  &&&\note{from {\dn apanuda} = apanuda}\\
   \hline
   &&&\\
-  1b&{\dn yacchokamuccho.sa.namindriyaa.naam}&yac|&yat = {\dn yat} = that\\
+  % ----------------------------------------------------------------------------
+  1b&\multicolumn{3}{l}{\dn yacchokamuccho.sa.namindriyaa.naam}\\
+  &&yac|&yat = {\dn yat} = that\\
   &&&\\
   &&cho|ka|muc|&"sokam\\
   &&&= {\dn "sokam}\\
-  &&&= burning/grief\\
+  &&&= flame; sorrow; burning\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn "soka.h} = "soka.h}\\
   &&&\\
   &&cho|.sa|.na|min|&uccho.sa.nam\\
   &&&= {\dn uccho.sa.nam}\\
   &&&= drying\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn uccho.sa.na.h} = uccho.sa.na.h}\\
   &&&\\
   &&dri|yaa|.naam&indriyaa.naam\\
   &&&= {\dn indriyaa.naam}\\
-  &&&= senses'\\
+  &&&= of (the) body organs; senses; powers\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn indriyam} = indriyam}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn avaapya}&a|vaa|pya&getting\\
+  &&&\note{\verbb, \gerund}\\
+  &&&\note{root: {\dn avaap} = avaap}\\
   &&&\\
   &{\dn bhuumaavasapatnam.rddha.m}&bhuu|maa|va|&bhuumau\\
   &&&= {\dn bhuumau}\\
@@ -807,14 +835,24 @@ student of you, having surrendered myself to you.
   &&&\\
   &&sa|pat|na|m.rd|&asapatnam\\
   &&&= {\dn asapatnam}\\
-  &&&= without an enemy\\
+  &&&= without an enemy; not disturbed; peaceful\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \noun, \male, {\dn sapatna.h} = sapatna.h}\\
   &&&\\
-  &&dha.m&.rddham = {\dn .rddham} = rich\\
+  &&dha.m&.rddham = {\dn .rddham} = thriving; abundant; wealthy\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
-  2b&{\dn raajya.m}&raa|jya.m&kingdom\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn raajya.m}&raa|jya.m&kingdom; country; government\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn suraa.naamapi}&su|raa|.naa|ma|&suraa.naam = {\dn suraa.naam} = gods'\\
+  &{\dn suraa.naamapi}&su|raa|.naa|ma|&suraa.naam\\
+  &&&= {\dn suraa.naam}\\
+  &&&= of sages; gods; suns\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn sura.h} = sura.h}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
@@ -822,67 +860,9 @@ student of you, having surrendered myself to you.
   &&&\\
   &&dhi|pa|tyam&aadhipatyam\\
   &&&= {\dn aadhipatyam}\\
-  &&&= power\\
+  &&&= power; rule; supremacy\\
+  &&&\note{\noun, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) I certainly do not see how I can drive away my drying
-senses' grief. Getting---on the ground, without an enemy---a rich
-kingdom, is also gods' power.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Verb: {\dn prapa"s} = prapa"s = to see.
-
-  Plus present tense and first person form and singular form:
-
-  {\dn prapa"syaami} = prapa"syaami = (I) see.
-
-\item Pronoun in first person form and singular form: {\dn aham} = aham = I.
-
-  Plus \genitivecase: {\dn mama} = mama = my.
-
-  (Or {\dn me} = me = my.)
-
-\item Verb: {\dn apanud} = apanud = to drive away.
-
-  (?) Plus change: {\dn apanudyaat} = apanudyaat = can drive away.
-
-\item Male noun: {\dn "soka.h} = "soka.h = burning/grief.
-
-  Plus \accusativecase: {\dn "sokam} = "sokam = burning/grief.
-
-\item Neuter adjective: {\dn uccho.sa.nam} = uccho.sa.nam = drying.
-
-\item Neuter noun: {\dn indriyam} = indriyam = sense.
-
-  Plus plural form and \genitivecase: {\dn indriyaa.naam} = indriyaa.naam = senses'.
-
-\item Verb: {\dn avaap} = avaap = to get.
-
-  Plus gerund form: {\dn avaapya} = avaapya = getting.
-
-\item Neuter adjective: {\dn asapatnam} = asapatnam = without an enemy.
-
-  (Prefix: {\dn a} = a = not.)
-
-  (Male noun: {\dn sapatna.h} = sapatna.h = enemy.)
-
-\item Neuter adjective: {\dn .rddham} = .rddham = rich.
-
-\item Neuter noun: {\dn raajyam} = raajyam = kingdom.
-
-\item Male noun: {\dn sura.h} = sura.h = god.
-
-  Plus plural form and \genitivecase: {\dn suraa.naam} = suraa.naam = gods'.
-
-\item Neuter noun: {\dn aadhipatyam} = aadhipatyam = power.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 9}
