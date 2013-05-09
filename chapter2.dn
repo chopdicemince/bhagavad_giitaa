@@ -974,94 +974,78 @@ became quiet, certainly.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 10}
 
+(Sa\~{}njaya said to King Dh.rtaraa.s.tra:)\\
+
+You---K.r.s.na said, like comedy---O descendant of Bharata (O
+Dh.rtaraa.s.tra)---between the two armies, to the person in despair
+(Arjuna), this group of words: \dots\\
+
 \begin{tabular}{llll}
   1a&{\dn tvamuvaaca}&tva|mu|&tvam\\
   &&&= {\dn tvam}\\
-  &&&= you (singular)\\
+  &&&= you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
   &&&= (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   &&&\\
   &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa|.h(a)&K.r.s.na\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn prahasanniva}&pra|ha|san|&prahasanam\\
   &&&= {\dn prahasanam}\\
-  &&&= comedy\\
+  &&&= comedy; ridicule; mocking\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ni|va&iva = {\dn iva} = so\\
+  &&ni|va&iva = {\dn iva} = so; like; as if\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Dh.rtaraa.s.tra\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn senayorubhayormadhye}&se|na|yo|ru|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= two armies'\\
+  &&&= of or at/in/on two armies\\
+  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= two things'\\
+  &&&= of or at/in/on two things\\
+  &&&\note{\pronoun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ma|dhye&between\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn vi.siidantamida.m}&vi|.sii|dan|ta|mi|&vi.siidantam\\
   &&&= {\dn vi.siidantam}\\
   &&&= person in despair (?)\\
   &&&= Arjuna\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn vi.siidanta.h} = vi.siidanta.h}\\
   &&&\\
   &&dam&idam = {\dn idam} = this\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn vaca.h}&va|ca|.h(a)&(?)\\
-  &&&= vacanam\\
+  &&&vacanam\\
   &&&= {\dn vacanam}\\
-  &&&= group of words\\
+  &&&= word; group of words; sentence\\
+  &&&\note{\noun, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Sa\~{}njaya said:) You, O descendant of Bharata (O
-Dh.rtaraa.s.tra)---K.r.s.na said, with some comedy, between the two
-armies, to the person in despair (Arjuna), this group of words: \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Neuter noun: {\dn prahasanam} = prahasanam = comedy.
-
-\item Male noun: {\dn bhaarata.h} = bhaarata.h = descendant of Bharata = D.rtaraa.s.tra.
-
-  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata = O D.rtaraa.s.tra.
-
-\item Female noun: {\dn senaa} = senaa = army.
-
-  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = two armies'.
-
-\item Female pronoun: {\dn ubhayaa} = ubhayaa = two things.
-
-  Plus \genitivecase: {\dn ubhayo.h} = ubhayo.h = two things'.
-
-\item Verb: {\dn vi.sad} = vi.sad = to despair.
-
-  (?) Plus change: {\dn vi.siidanta.h} = vi.siidanta.h = person in despair.
-
-  Plus \accusativecase: {\dn vi.siidantam} = vi.siidantam = person in despair.
-
-\item Neuter pronoun: {\dn idam} = idam = this.
-
-\item Neuter noun: {\dn vacanam} = vacanam = group of words.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 11}
