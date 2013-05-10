@@ -335,104 +335,78 @@ Arjuna).
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 4}
 
+Arjuna said (to K.r.s.na): How---against Bhii.sma---can I, in the
+war---and against Dro.na---O Madhu killer (O K.r.s.na), using arrows,
+counterattack---these two are respectable---O enemy killer (O
+K.r.s.na)?\\
+
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn katha.m}&ka|tha.m&how\\
   &&&\\
   &{\dn bhii.smamaha.m}&bhii.s|ma|ma|&Bhii.sma\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn bhii.sma.h} = bhii.s.ma.h}\\
   &&&\\
   &&ha.m&aha.m = {\dn aha.m} = I\\
+  &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn sa"nkhye}&sa"n|khye&in a/the war\\
+  &{\dn sa"nkhye}&sa"n|khye&at/in/on a/the war; battle; battlefield\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn sa"nkhyam} = sa"nkhyam}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn dro.na.m}&dro|.na.m&Dro.na\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dro.na.h} = dro.na.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
   &{\dn madhusuudhana}&ma|dhu|suu|da|na&O Madhu killer\\
   &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn madhusuudana.h} = madhusuudana.h}\\
+  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
+  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
+  &&&\note{``Madhu'' is also the name of a demon}\\
   \hline
   &&&\\
-  2a&{\dn i.subhi.h}&i|.su|bhi|.h(i)&using arrows\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn i.subhi.h}&i|.su|bhi|.h(i)&using/by arrows\\
+  &&&\note{\noun, \male, \female, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn i.su.h} = i.su.h}\\
   &&&\\
   &{\dn pratiyotsyaami}&pra|ti|yot|syaa|mi&(I) counterattack (?)\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn puujaarhaavarisuudana}&puu|jaar|haa|va|&puujaarhau\\
-  &&&= {\dn puurjaarhau}\\
-  &&&= respectable\\
+  &&&= {\dn puujaarhau}\\
+  &&&= respectable; venerable; honorable\\
+  &&&\note{\adjective, \male, \dual}\\
+  &&&\note{from {\dn puujaarha.h} = puujaarha.h}\\
   &&&\\
   &&ri|suu|da|na&arisuudana\\
   &&&= {\dn arisuudana}\\
   &&&= O enemy killer\\
   &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn arisuudana.h} = arisuudana.h}\\
+  &&&\note{from: \noun, \male, {\dn ari.h} = ari.h = enemy}\\
+  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Arjuna said: How, against respectable Bhii.sma and Dro.na, can I, in
-the war, O Madhu killer (O K.r.s.na), using arrows, counterattack, O
-enemy killer (O K.r.s.na)?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Male noun: {\dn bhii.sma.h} = bhii.sma.h = Bhii.sma.
-
-  Plus \accusativecase: {\dn bhii.smam} = bhii.smam = Bhii.sma.
-
-\item Neuter noun: {\dn sa"nkhyam} = sa"nkhyam = war.
-
-  Plus \locativecase: {\dn sa"nkhye} = sa"nkhye = in a/the war.
-
-\item Male noun: {\dn dro.na.h} = dro.na.h = Dro.na.
-
-  Plus \accusativecase: {\dn dro.nam} = dro.nam = Dro.na.
-
-\item Male noun: {\dn madhusuudana.h} = madhusuudana.h = Madhu killer = K.r.s.na.
-
-  Plus \vocativecase: {\dn madusuudana} = madhusuudana = O Madhu killer = O K.r.s.na.
-
-  K.r.s.na killed a demon named Madhu (``honey'').
-
-  Neuter noun: {\dn madhum} = madhum = honey.
-
-  Neuter noun: {\dn suudanam} = suudanam = killing.
-
-  (?) Plus change: {\dn suudana.h} = suudana.h = killer.
-
-\item (?) Female noun: {\dn i.su} = i.su = arrow.
-
-  Plus plural form and \instrumentalcase: {\dn i.subhi.h} = i.subhi.h = using arrows.
-
-\item Male adjective: {\dn puujaarha.h} = puujaarha.h = respectable.
-
-  Plus dual form: {\dn puujaarhau} = puujaarhau = respectable.
-
-\item Male noun: {\dn arisuudana.h} = arisuudana.h = enemy killer = K.r.s.na.
-
-  Plus \vocativecase: {\dn arisuudana} = arisuudana = O enemy killer = O K.r.s.na.
-
-  (Male noun: {\dn ari.h} = ari.h = enemy.)
-
-  (Neuter noun: {\dn suudanam} = suudanam = killing.)
-
-  ((?) Plus change: {\dn suudana.h} = suudana.h = killer.)
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 5}
