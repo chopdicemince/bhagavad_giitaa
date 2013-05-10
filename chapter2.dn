@@ -436,111 +436,103 @@ enemy killer (O K.r.s.na)?
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 5}
+{
+\small
+(Arjuna said to K.r.s.na:)\\
 
+Not having killed teachers---certainly great becomings---we have
+confidence to enjoy begging, also, in this life, in the world. But,
+having killed wealth-desire teachers, we, in this life, really, \dots
+we enjoy (?) \dots enjoyable things that are blood-stained.\\
+
+}
 \begin{tabular}{llll}
   1a&{\dn guruunahatvaa}&gu|ruu|na|&guruun = {\dn guruun} = teachers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn guru.h} = guru.h}\\
   &&&\\
   &&hat|vaa&ahatvaa\\
   &&&= {\dn ahatvaa}\\
   &&&= not having killed (?)\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\prefix, {\dn a} = a = not}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
   &{\dn hi}&hi&certainly\\
   &&&\\
-  &{\dn mahaanubhaavaan}&ma|haa|nu|bhaa|vaan&great souls (?)\\
+  &{\dn mahaanubhaavaan}&ma|haa|nu|bhaa|vaan&great becomings\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from: \adjective, \male, {\dn mahaan} = mahaan}\\
+  &&&\note{from: \noun, \male, {\dn uubhaava.h} = uubhaava.h}\\
   \hline
   &&&\\
-  1b&{\dn "sreyo}&"sre|yo&"sreya.h = {\dn "sreya.h} = trust\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn "sreyo}&"sre|yo&"sreya.h\\
+  &&&= {\dn "sreya.h}\\
+  &&&= credit; trust; confidence\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn bhoktu.m}&bhok|tu.m&enjoyment (?)\\
+  &{\dn bhoktu.m}&bhok|tu.m&(?) to eat often; to enjoy often\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn bhuj} = bhuj}\\
   &&&\\
-  &{\dn bhaik.syamapiiha}&bhaik|.sya|ma|&bhaik.syam = {\dn bhaik.syam} = charity\\
+  &{\dn bhaik.syamapiiha}&bhaik|.sya|ma|&bhaik.syam = {\dn bhaik.syam} = begging\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&pii|&api = {\dn api} = also\\
   &&&\\
   &&ha|&iha = {\dn iha} = in this life\\
   &&&\\
-  &&lo|ke&in a/the world\\
+  &{\dn loke}&lo|ke&at/in/on a/the world; people; place\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn loka.h} = loka.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn hatvaarthakaamaa.mstu}&hat|vaar|&hatvaa\\
   &&&= {\dn hatvaa}\\
   &&&= having killed (?)\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
   &&tha|&artha.h\\
   &&&= {\dn artha.h}\\
-  &&&= meaning/profit\\
+  &&&= meaning; wealth; purpose\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&kaa|maa.ms|&kaamaam\\
+  &&kaa|maa.m|&kaamaam\\
   &&&= {\dn kaamaam}\\
-  &&&= desire\\
+  &&&= wish; desire\\
+  &&&\note{\noun, \female, \accusativecase}\\
   &&&\\
-  &&tu&{\dn tu} = but\\
+  &&stu&tu = {\dn tu} = but\\
   &&&\\
   &{\dn guruunihaiva}&gu|ruu|ni|&guruun = {\dn guruun} = teachers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn guru.h} = guru.h}\\
   &&&\\
   &&hai|&iha = {\dn iha} = in this life\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn bhu~njiiya}&bhu\~{}n|jii|ya&(?)\\
   &&&\\
   &{\dn bhogaanrudhirapradigdhaan}&bho|gaan|&enjoyable things\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
   &&ru|dhi|ra|&rudhiram = {\dn rudhiram} = blood\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pra|dig|dhaan&smeared\\
+  &&pra|dig|dhaan&stained; covered; smeared\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn pradigdha.h} = pradigdha.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) Not having killed teachers---certainly great souls, we
-should have a trust of enjoyment of charity also in this life, in the
-world. Having killed profit-desiring teachers, we, in this life,
-really, and enjoyable things, are blood-smeared.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn guru.h} = guru.h = teacher.
-
-  Plus plural form and \accusativecase: {\dn guruun} = guruun = teachers.
-
-\item Verb: {\dn han} = han = to kill.
-
-  (?) Plus perfect participle: {\dn hatvaa} = hatvaa = having killed.
-
-  Plus prefix: {\dn ahatvaa} = ahatvaa = not having killed.
-
-\item Male noun: {\dn "sreya.h} = "sreya.h = trust.
-
-\item Male noun: {\dn bhaik.sya.h} = bhaik.sya.h = charity.
-
-  Plus \accusativecase: {\dn bhaik.syam} = bhaik.syam = charity.
-
-\item Male noun: {\dn loka.h} = loka.h = world.
-
-  Plus \locativecase: {\dn loke} = loke = in a/the world.
-
-\item Male noun: {\dn artha.h} = artha.h = meaning/profit.
-
-\item Female noun: {\dn kaamaa} = kaamaa = desire.
-
-  Plus \accusativecase: {\dn kaamaam} = kaamaam = desire.
-
-\item Male noun: {\dn bhoga.h} = bhoga.h = enjoyable thing.
-
-  Plus plural form and \accusativecase: {\dn bhogaan} = bhogaan = enjoyable things.
-
-\item Neuter noun: {\dn rudhiram} = rudhiram = blood.
-
-\item Male adjective: {\dn pradigdha.h} = pradigdha.h = smeared.
-
-  Plus plural form and \accusativecase: {\dn pradigdhaan} = pradigdhaan = smeared.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 6}
