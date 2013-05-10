@@ -545,107 +545,106 @@ really, and enjoyable things, are blood-smeared.
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 6}
 
+(Arjuna said to K.r.s.na:)\\
+
+No, and this knowledge, one of two things for us is better: if we
+conquer, or if, yes or no, they conquer us. \dots (?) \dots Really,
+not having killed, we will certainly live. Those placed at the front
+(of the army or battlefield) are the sons of Dh.rtaraa.s.tra.\\
+
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
   &{\dn caitadvidma.h}&cai|&{\dn ca} = and\\
   &&&\\
   &&tad|&etat = {\dn etat} = this\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&vid|ma|.h(a)&knowledge (?)\\
+  &&vid|ma|.h(a)&(?)\\
+  &&&\note{similar: \noun, \neuter, {\dn vidman} = vidman}\\
+  &&&\note{= wisdom; knowledge; intelligence}\\
   &&&\\
-  &{\dn kataranno}&ka|ta|ran|&katarat\\
-  &&&= {\dn katarat}\\
-  &&&= one of two things\\
+  &{\dn kataranno}&ka|ta|ran|&(?) katarat = {\dn katarat} = one of two things\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&no&na.h = {\dn na.h} = for us\\
+  &&no&na.h = {\dn na.h} = us; for us; of us\\
+  &&&\note{\pronoun, \firstperson, \plural,}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn gariiyo}&ga|rii|yo&gariiya.h (?)\\
-  &&&= something better (?)\\
+  &{\dn gariiyo}&ga|rii|yo&gariiya.h = better; heavier; more valuable\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{similar: \adjective, {\dn gariiyas} = gariiyas}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yadvaa}&yad|vaa&if\\
   &&&\\
-  &{\dn jayema}&ja|ye|ma&we conquer (?)\\
+  &{\dn jayema}&ja|ye|ma&(we) win; are victorious; conquer\\
+  &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
+  &&&\note{root: {\dn ji} = ji}\\
   &&&\\
   &{\dn yadi}&ya|di&if\\
   &&&\\
   &{\dn vaa}&vaa&''yes/no?''\\
   &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = for us\\
+  &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us\\
+  &&&\note{\pronoun, \firstperson, \plural,}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn jayeyu.h}&ja|ye|yu|.h(u)&they conquer (?)\\
+  &{\dn jayeyu.h}&ja|ye|yu|.h(u)&(they) win; are victorious; conquer\\
+  &&&\note{\verbb, \subjunctivemood, \thirdperson, \plural}\\
+  &&&\note{root: {\dn ji} = ji}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2a&{\dn yaaneva}&yaa|ne|&yaan (?)\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   &&&\\
   &{\dn hatvaa}&hat|vaa&having killed (?)\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn jijiivi.saamas}&ji|jii|vi|.saa|mas&jijiivi.saama.h (?)\\
+  &{\dn jijiivi.saamas}&ji|jii|vi|.saa|mas&(?) jijiivi.syaama.h\\
+  &&&= {\dn jijiivi.syaama.h}\\
+  &&&= (we) will certainly live\\
+  &&&\note{\verbb, \futuretense, \firstperson, \plural}\\
+  &&&\note{root: {\dn jiiv} = jiiv}\\
   \hline
   &&&\\
-  2b&{\dn te.avasthitaa.h}&te|&they\\
-  &&&\\
-  &&'vas|thi|taa|.h(aa)&avasthitaa.h\\
-  &&&= {\dn avasthitaa.h}\\
-  &&&= placed\\
-  &&&\\
-  &{\dn pramukhe}&pra|mu|khe&at the leader/front\\
-  &&&\\
-  &{\dn dhaartaraa.s.traa.h}&dhaar|ta|raa.s|.traa|.h(aa)&Dh.rtaraa.s.tra's sons\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) No, and this knowledge, one of two things for us is
-something better: if we conquer, or if they conquer us. \dots (?)\dots
-They, Dh.rtaraa.s.tra's sons, are placed at the front (of the
-battlefield).
+\begin{tabular}{llll}
+  2b&{\dn te.avasthitaa.h}&te|&those\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that}\\
+  &&&\\
+  &&'vas|thi|taa|.h(aa)&avasthitaa.h\\
+  &&&= {\dn avasthitaa.h}\\
+  &&&= placed; firm; fixed\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn avasthita.h} = avasthita.h}\\
+  &&&\\
+  &{\dn pramukhe}&pra|mu|khe&at/in/on somewhere that is\\
+  &&&first; excellent; principal\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn pramukha.h} = pramukha.h}\\
+  &&&\\
+  &{\dn dhaartaraa.s.traa.h}&dhaar|ta|raa.s|.traa|.h(aa)&sons of Dh.rtaraa.s.tra\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
+\end{tabular}
+\newpage
 % ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter pronoun: {\dn etat} = etat = this.
-
-\item Neuter noun: {\dn vidman} = vidman = knowledge.
-
-\item Neuter pronoun: {\dn katarat} = katarat = one of two things.
-
-\item Pronoun, in first person form and singular form: {\dn aham} = aham = I.
-
-  Plus plural form and \dativecase: {\dn na.h} = na.h = for us.
-
-\item Verb: {\dn ji} = ji = to conquer.
-
-\item Verb: {\dn han} = han = to kill.
-
-  (?) Plus perfect participle: {\dn hatvaa} = hatvaa = having killed.
-
-\item Verb: {\dn jiiv} = jiiv = to live.
-
-\item Male pronoun: {\dn sa.h} = sa.h = he/it/that.
-
-  Plus plural form: {\dn te} = te = they/those.
-
-\item Male adjective: {\dn avasthita.h} = avasthita.h = placed.
-
-  Plus plural form: {\dn avasthitaa.h} = avasthitaa.h = placed.
-
-\item Male noun: {\dn pramukha.h} = pramukha.h = leader.
-
-  Plus \locativecase: {\dn pramukhe} = pramukhe = at the leader/front.
-
-\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
-
-  Plus plural form: {\dn dhaartaraa.s.traa.h} = dhaartaraa.s.traa.h = Dh.rtaraa.s.tra's sons.
-
-\end{itemize}
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 7}
