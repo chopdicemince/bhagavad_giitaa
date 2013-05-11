@@ -3,109 +3,90 @@
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 1}
 
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+
+To him (Arjuna), thus, filled with compassion, with a tearful uneasy
+eye, grieving, this statement was said by Madhu killer (K.r.s.na):
+\dots\\
+
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
-  1a&{\dn ta.m}&ta.m&to him (Arjuna)\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn ta.m}&ta.m&him (Arjuna)\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&thus\\
   &&&\\
-  &{\dn k.rpayaavi.s.tama"srupuur.naakulek.sa.nam}&k.r|pa|yaa|&using/by compassion\\
+  &{\dn k.rpayaavi.s.tama"srupuur.naakulek.sa.nam}&k.r|pa|yaa|&using/by grace; favor; compassion\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn k.rpaa} = k.rpaa}\\
   &&&\\
-  &&vi.s|.ta|&aavi.s.ta = {\dn aavi.s.ta} = filled\\
+  &&vi.s|.ta|&aavi.s.ta = {\dn aavi.s.ta} = entered; filled; having\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
-  1b&&ma"s|ru|&a"srum\\
-  &&&= {\dn a"srum}\\
-  &&&= tear\\
+  % ----------------------------------------------------------------------------
+  1b&&ma"s|ru|&a"srum = {\dn a"srum} = tear\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&puur|.naa|&puur.na\\
   &&&= {\dn puur.na}\\
-  &&&= full\\
+  &&&= full; strong; abundant\\
+  &&&\note{\adjective}\\
   &&&\\
   &&ku|lek|&aakula\\
   &&&= {\dn aakula}\\
-  &&&= uneasy\\
+  &&&= uneasy; bewildered; agitated\\
+  &&&\note{\adjective}\\
   &&&\\
   &&.sa|.nam&iik.sa.nam\\
   &&&= {\dn iik.sa.nam}\\
-  &&&= eye\\
+  &&&= sight; view; eye\\
+  &&&\note{\noun, \neuter}\\
   \hline
   &&&\\
-  2a&{\dn vi.siidantamida.m}&vi|.sii|dan|ta|mi&vi.siidantam\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn vi.siidantamida.m}&vi|.sii|dan|ta|mi|&vi.siidantam\\
   &&&= {\dn vi.siidantam}\\
-  &&&= grieving (?)\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \neuter, {\dn vi.saadanam} = vi.saadanam}\\
+  &&&\note{= grief}\\
   &&&\\
   &&da.m&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &{\dn vaakyamuvaaca}&vaa|kya|&vaakyam\\
   &&&= {\dn vaakyam}\\
-  &&&= group of words\\
+  &&&= sentence; group of words; statement\\
+  &&&\note{\noun, \neuter}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&mu|vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
   &&&= (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   &&&\\
   &{\dn madhusuudana.h}&\multicolumn{2}{l}{ma|dhu|suu|da|na|.h(a)}\\
   &&&Madhu killer\\
   &&&= K.r.s.na\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
+  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
+  &&&\note{``Madhu'' is also the name of a demon}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Sa\~{}njaya said: To him (Arjuna), thus, filled with compassion, with
-an eye full of tears, uneasy, grieving, this group of words was said
-by Madhu killer (K.r.s.na): \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Male pronoun: {\dn sa.h} = sa.h = he/it.
-
-  Plus \accusativecase: {\dn tam} = tam = to him/it.
-
-\item Female noun: {\dn k.rpaa} = k.rpaa = compassion.
-
-  Plus \instrumentalcase: {\dn k.rpayaa} = k.rpayaa = using/by compassion.
-
-\item Adjective: {\dn aavi.s.ta} = aavi.s.ta = filled.
-
-\item Neuter noun: {\dn a"srum} = a"srum = tear.
-
-\item Adjective: {\dn puur.na} = puur.na = full.
-
-\item Neuter noun: {\dn iik.sa.nam} = iik.sa.nam = eye.
-
-\item Neuter noun: {\dn vi.saadanam} = vi.saadanam = grief.
-
-  (?) Plus change: {\dn vi.siidantam} = vi.siidantam = causing grief.
-
-\item Neuter pronoun: {\dn idam} = idam = this.
-
-\item Neuter noun: {\dn vaakyam} = vaakyam = group of words.
-
-\item Male noun: {\dn madhusuudana.h} = madhusuudana.h = Madhu killer = K.r.s.na.
-
-  K.r.s.na killed a demon named Madhu (``honey'').
-
-  Neuter noun: {\dn madhum} = madhum = honey.
-
-  Neuter noun: {\dn suudanam} = suudanam = killing.
-
-  (?) Plus change: {\dn suudana.h} = suudana.h = killer.
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 2}
