@@ -188,94 +188,82 @@ Paa.n.dava army arranged, King Duryodhana was near the teacher
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 3}
 
+(King Duryodhana said to the teacher Dro.na:)\\
+
+See these (men) of the sons of Paa.n.du---O teacher---a great army,
+arranged, using the son of Drupada, your wise student.\\
+
 \begin{tabular}{llll}
-  1a&{\dn pa"syaitaam}&pa"s|yai|&pa"syatu\\
+  1a&{\dn pa"syaitaa.m}&pa"s|yai|&pa"syatu\\
   &&&= {\dn pa"syatu}\\
-  &&&= see\\
+  &&&= (you) see\\
+  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&taam&etaan\\
+  &&taa.m&etaan\\
   &&&= {\dn etaan}\\
   &&&= these\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this}\\
   &&&\\
-  &{\dn paa.n.duputraa.naam}&paa.n|.du|&paa.n.du\\
+  &{\dn paa.n.duputraa.naamaacaarya}&paa.n|.du|&paa.n.du\\
   &&&= {\dn paa.n.du}\\
   &&&= Paa.n.du\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&pu|traa|.naam&putraa.naam\\
-  &&&= {\dn putraam}\\
-  &&&= sons\\
+  &&pu|traa|.naa|&putraa.naam\\
+  &&&= {\dn putraa.naam}\\
+  &&&= of sons\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn putra.h} = putra.h}\\
   \hline
   &&&\\
-  1b&{\dn aacaarya}&aa|caar|ya&O teacher\\
+  % ----------------------------------------------------------------------------
+  1b&&maa|caar|ya&aacaarya = {\dn aacaarya} = O teacher\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
   &&&\\
-  &{\dn mahatii.m}&ma|ha|tii.m&big\\
+  &{\dn mahatii.m}&ma|ha|tii.m&great\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{from {\dn mahatii} = mahatii}\\
   &&&\\
   &{\dn camuum}&ca|muum&army\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn camuu.h} = camuu.h}\\
   \hline
   &&&\\
-  2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&arranged\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&moved apart; distributed; arranged\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{from {\dn vyuu.dhaa} = vyuu.dhaa}\\
   &&&\\
   &{\dn drupadaputre.na}&dru|pa|da|&drupada\\
   &&&= {\dn drupada}\\
   &&&= Drupada\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&pu|tre|.na&putre.na\\
   &&&= {\dn putre.na}\\
-  &&&= using a/the son\\
+  &&&= using/by a/the son\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn putra.h} = putra.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn tava}&ta|va&your\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &{\dn "si.sye.na}&"si.s|ye|.na&using a/the student\\
+  &{\dn "si.sye.na}&"si.s|ye|.na&using/by a/the student; scholar; disciple\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn "si.sya.h} = "si.sya.h}\\
   &&&\\
-  &{\dn dhiimataa}&dhii|ma|taa&wise\\
+  &{\dn dhiimataa}&dhii|ma|taa&(?) wise; learned; sensible\\
+  &&&\note{\adjective, \female (?)}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-See these Paa.n.du sons'---O teacher---big army, arranged, using
-Drupada's son, your wise student.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus imperative tense and singular form: {\dn pa"syatu} = pa"syatu = see.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = he/this.
-
-  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
-
-\item Male noun: {\dn putra.h} = putra.h = son.
-
-  Plus plural form and \genitivecase: {\dn putraa.naam} = putraa.naam = sons'.
-
-  Or plus \instrumentalcase: {\dn putre.na} = putre.na = using a/the son.
-
-\item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
-
-  Plus \vocativecase: {\dn aacaarya} = aacaarya = O teacher.
-
-\item Female adjective: {\dn mahatii} = mahatii = big.
-
-  Plus \accusativecase: {\dn mahatiim} = mahatiim = big.
-
-\item Female noun: {\dn camuu} = camuu = army.
-
-  Plus \accusativecase: {\dn camuum} = camuum = army.
-
-\item Female adjective: {\dn vyuu.dhaa} = vyuu.dhaa = arranged.
-
-  Plus \accusativecase: {\dn vyuu.dhaam} = vyuu.dhaam = arranged.
-
-\item Male noun: {\dn "si.sya.h} = "si.sya.h = student.
-
-  Plus \instrumentalcase: {\dn "si.sye.na} = "si.sye.na = using a/the student.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 4}
