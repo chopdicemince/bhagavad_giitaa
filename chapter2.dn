@@ -2828,15 +2828,17 @@ self nature and fame, you will get evil.\\
 
 (K.r.s.na said to Arjuna:)\\
 
-And also, people will tell non-fame. They are not changeable (?). And
-non-fame of a respectable man prevails from death.\\
+And also, people will talk about non-reputation. They are not
+changeable (?). And non-reputation of a respectable man prevails from
+death.\\
 
 (Paraphrase: People will talk about your infamy after your death.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn akiirti.m}&a|kiir|ti.m&non-fame\\
+  1a&{\dn akiirti.m}&a|kiir|ti.m&non-reputation; non-fame; non-glory\\
   &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from {\dn a} + {\dn kiirti.h} = a + kiirti.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
   &&&\\
   &{\dn caapi}&caa|&ca = {\dn ca} = and\\
   &&&\\
@@ -2848,7 +2850,7 @@ non-fame of a respectable man prevails from death.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn kathayi.syanti}&ka|tha|yi|.syan|ti&(they) will tell\\
+  1b&{\dn kathayi.syanti}&ka|tha|yi|.syan|ti&(they) will tell; talk\\
   &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
   &&&\note{root: {\dn kath} = kath}\\
   &&&\\
@@ -2874,9 +2876,10 @@ non-fame of a respectable man prevails from death.\\
   &&&\\
   &&kiir|tir|&akiirti.h\\
   &&&= {\dn akiirti.h}\\
-  &&&= non-fame\\
+  &&&= non-reputation; non-fame; non-glory\\
   &&&\note{\noun, \female}\\
-  &&&\note{from {\dn a} + {\dn kiirti.h} = a + kiirti.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
