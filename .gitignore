@@ -1,10 +1,4 @@
 *.aux
-*.fd
 *.log
-*.mf
 *.pdf
-*.pfb
-*.sty
 *.tex
-*.tfm
-dvng10.600pk
