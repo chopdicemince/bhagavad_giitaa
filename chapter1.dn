@@ -38,86 +38,82 @@ The main characters are:
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 1}
 
+(King) D.rtaraa.s.tra said (to Sa\~{}njaya), ``At the devotion place,
+at the Kuru place, together, and wanting to fight, are my male
+Paa.n.davas. And, really, what did they do, Sa\~{}njaya?''\\
+
 \begin{tabular}{llll}
   0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn dharmak.setre}&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= devotion\\
+  &&&= manner; devotion; religion; virtue\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&k.se|tre&at a/the place\\
+  &&k.se|tre&at/in/on a/the place\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn k.setram} = k.setram}\\
   &&&\\
   &{\dn kuruk.setre}&ku|ru|&Kuru\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&k.se|tre&at a/the place\\
+  &&k.se|tre&at/in/on a/the place\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn k.setram} = k.setram}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn samavetaa}&sa|ma|ve|taa&samavetaa.h\\
   &&&= {\dn samavetaa.h}\\
   &&&= together\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn samaveta.h} = samaveta.h}\\
   &&\\
-  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&wanting to fight\\
+  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&(?)\\
+  &&&\note{\adjective}\\
+  &&&\note{similar: \adjective, {\dn yuyutsu} = yuyutsu}\\
+  &&&\note{= wanting to fight}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&my\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn maamaka.h} = maamaka.h}\\
   &&&\\
   &{\dn paa.n.davaa"scaiva}&paa.n|.da|vaa"s|&paa.n.davaa.h\\
   &&&= {\dn paa.n.davaa.h}\\
   &&&= Paa.n.davas\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn paa.n.dava.h} = paa.n.dava.h}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn kimakurvata}&ki|ma|&kim = {\dn kim} = what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&kur|va|ta&akurvata\\
   &&&= {\dn akurvata}\\
-  &&&= they did\\
+  &&&= (?)\\
+  &&&\note{similar: {\dn akurvan} = akurvan = (they) did}\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(King) D.rtaraa.s.tra said, ``At the devotion place, at the Kuru
-place, together, and wanting to fight, are my male
-Paa.n.davas. Really, what did they do, Sa\~{}njaya?''
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Male noun: {\dn dharma.h} = dharma.h = devotion.
-
-\item Neuter noun: {\dn k.setram} = k.setram = place.
-
-  Plus \locativecase: {\dn k.setre} = k.setre = at a/the place.
-
-\item Male adjective: {\dn samaveta.h} = samaveta.h = together.
-
-  Plus plural form: {\dn samavetaa.h} = samavetaa.h = together.
-
-\item Male adjective: {\dn maamaka.h} = maamaka.h = my.
-
-  Plus plural form: {\dn maamakaa.h} = maamakaa.h = my.
-
-\item Infinitive: {\dn kartum} = kartum = to do.
-
-  Plus past tense: {\dn akurvata} = akurvata = they did.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 2}
