@@ -343,8 +343,7 @@ K.r.s.na)?\\
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 5}
-{
-\small
+
 (Arjuna said to K.r.s.na:)\\
 
 Not having killed teachers---certainly great becomings---we have
@@ -352,15 +351,12 @@ confidence to enjoy begging, also, in this life, in the world. But,
 having killed wealth-desire teachers, we, in this life, really, \dots
 we enjoy (?) \dots enjoyable things that are blood-stained.\\
 
-}
 \begin{tabular}{llll}
   1a&{\dn guruunahatvaa}&gu|ruu|na|&guruun = {\dn guruun} = teachers\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn guru.h} = guru.h}\\
   &&&\\
-  &&hat|vaa&ahatvaa\\
-  &&&= {\dn ahatvaa}\\
-  &&&= not having killed (?)\\
+  &&hat|vaa&ahatvaa = {\dn ahatvaa} = not having killed (?)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{\prefix, {\dn a} = a = not}\\
   &&&\note{root: {\dn han} = han}\\
@@ -547,8 +543,7 @@ not having killed, we will certainly live. Those placed at the front
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 7}
-{
-\tiny
+
 (Arjuna said to K.r.s.na:)\\
 
 In my poor, bad, and damaged self-manner, I ask you, with my
@@ -556,7 +551,6 @@ bewildered manner and nerves, that, with trust \dots (?) \dots, in
 certainty, to tell, surely, that (best thing) for me. I am a student
 of you. I, myself, am surrendered to you.\\
 
-}
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn kaarpa.nyado.sopahatasvabhaava.h}\\
   &&kaar|pa.n|ya|&kaarpa.nyam\\
@@ -580,7 +574,10 @@ of you. I, myself, am surrendered to you.\\
   &&&\note{from: {\dn bhaava.h} = bhaava.h}\\
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn p.rcchaami}&p.rc|chaa|mi&(I) ask; wish; desire\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn prach} = prach}\\
@@ -602,10 +599,7 @@ of you. I, myself, am surrendered to you.\\
   &&&\note{from {\dn cetaa} = cetaa}\\
   \hline
   &&&\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
   2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = that\\
   &&&\\
   &&chre|ya|.h(a)&"sreya.h\\
@@ -631,7 +625,10 @@ of you. I, myself, am surrendered to you.\\
   &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "si.syaste.aha.m}&"si.s|ya|&"si.sya.h\\
   &&&= {\dn "si.sya.h}\\
   &&&= student; scholar; disciple\\
@@ -661,16 +658,17 @@ of you. I, myself, am surrendered to you.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 8}
-{
-\footnotesize
+
 (Arjuna said to K.r.s.na:)\\
 
 Certainly, I do not see my driving away that drying sorrow of my
 senses, or getting---on the ground, without an enemy---a wealthy
 kingdom of the gods, and also power.\\
 
-}
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
@@ -701,9 +699,7 @@ kingdom of the gods, and also power.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn "soka.h} = "soka.h}\\
   &&&\\
-  &&cho|.sa|.na|min|&uccho.sa.nam\\
-  &&&= {\dn uccho.sa.nam}\\
-  &&&= drying\\
+  &&cho|.sa|.na|min|&uccho.sa.nam = {\dn uccho.sa.nam} = drying\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn uccho.sa.na.h} = uccho.sa.na.h}\\
   &&&\\
@@ -2412,7 +2408,6 @@ there are what lamentations (why be sad)?\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 29}
 
-{\tiny
 (K.r.s.na said to Arjuna:)\\
 
 Any person sees this (the soul) as full of miracles. Another person
@@ -2420,7 +2415,6 @@ says: thus, really. And another person hears that this (the soul) is
 full of miracles. And also, having heard (these things)---there is not
 really any knowledge.\\
 
-}
 \begin{tabular}{llll}
   1a&{\dn aa"scaryavatpa"syati}&aa"s|car|ya|vat|&full of miracles;\\
   &&&by a miracle;\\
@@ -2441,7 +2435,10 @@ really any knowledge.\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn aa"scaryavadvadati}&aa"s|car|ya|vad|&aa"scaryavat\\
   &&&= {\dn aa"scaryavat}\\
   &&&= full of miracles;\\
@@ -2466,10 +2463,7 @@ really any knowledge.\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
   2a&{\dn aa"scaryavaccainamanya.h}&aa"s|car|ya|vac|&aa"scaryavat\\
   &&&= {\dn aa"scaryavat}\\
   &&&= full of miracles;\\
@@ -2494,7 +2488,10 @@ really any knowledge.\\
   &&&\note{root: {\dn "sru} = "sru}\\
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "srutvaapyena.m}&"srut|vaa|&having heard\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn "sru} = "sru}\\
@@ -2518,6 +2515,9 @@ really any knowledge.\\
   &&&\\
   &{\dn ka"scit}&ka"s|cit&any\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chaper 2, Verse 30}
