@@ -118,81 +118,72 @@ Paa.n.davas. And, really, what did they do, Sa\~{}njaya?''\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 2}
 
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra): ``But, having seen the
+Paa.n.dava army arranged, King Duryodhana was near the teacher. The
+kings said this group of words: \dots''\\
+
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya& Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\\
-  &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|&paa.n.da.va\\
-  &&&= {\dn paa.n.dava}\\
+  &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|&paa.n.da.va.h\\
+  &&&= {\dn paa.n.dava.h}\\
   &&&= Paa.n.dava\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&nii|ka.m&aniikam\\
   &&&= {\dn aniikam}\\
-  &&&= army\\
+  &&&= battle; front; army\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn aniika.h} = aniika.h}\\
   \hline
   &&&\\
-  1b&{\dn vyuu.dha.m}&vyuu|.dha.m&arranged\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn vyuu.dha.m}&vyuu|.dha.m&moved apart; distributed; arranged\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn vyuu.dha.h} = vyuu.dha.h}\\
   &&&\\
-  &{\dn duryodhanas}&dur|yo|dha|nas&Duryodhana\\
+  &{\dn duryodhanastadaa}&dur|yo|dha|na|&Duryodhana\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn tadaa}&ta|daa&then\\
+  &&sta|daa&tadaa = {\dn tadaa} = then\\
   \hline
   &&&\\
-  2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
-  &&&\\
-  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&approaching\\
-  \hline
-  &&&\\
-  2b&{\dn raajaa}&raa|jaa&kings\\
-  &&&\\
-  &{\dn vacavam}&va|ca|nam&something spoken\\
-  &&&\\
-  &{\dn abraviit}&a|bra|viit&said\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Sa\~{}njaya said: ``But, having seen the Paa.n.dava army arranged,
-King Duryodhana then was approaching the teacher. The kings said
-something.''
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa =
-  having seen.
-
-\item Male noun: {\dn aniika.h} = aniika.h = army.
-
-  Plus \accusativecase: {\dn aniikam} = aniikam = army.
-
-\item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
-
-  Plus \accusativecase: {\dn aacaaryam} = aacaaryam = teacher.
-
-\item Male noun: {\dn raaja.h} = raaja.h = king.
-
-  Plus plural form: {\dn raajaa.h} = raajaa.h = kings.
-
-  The text uses ``kings'' instead of ``king.'' I do not know why.
-
-\item Neuter noun: {\dn vacanam} = vacanam = something spoken.
-
-\item Verb: {\dn bruu} = bruu = to say.
-
-  Plus past tense: {\dn abraviit} = abraviit = said.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
+  &&&\\
+  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&(?)\\
+  &&&\note{similar: \adjective, {\dn upasa"nga} = upasa"nga}\\
+  &&&\note{= adjunct; near; joined}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn raajaa}&raa|jaa&raajaa.h = {\dn raajaa.h} = kings\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn raaja.h} = raaja.h}\\
+  &&&\\
+  &{\dn vacanam}&va|ca|nam&saying; group of words; sentence\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn abraviit}&a|bra|viit&said (?)\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 3}
