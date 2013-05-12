@@ -302,7 +302,7 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&&\note{from {\dn i"svaasa.h} = i"svaasa.h}\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -320,7 +320,7 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&&\\
 \end{tabular}
 \newpage
-% --------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn yuyudhaano}&yu|yu|dhaa|no&yuyudhaana.h\\
   &&&= {\dn yuyudhaana.h}\\
@@ -335,7 +335,7 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   2b&{\dn drupada"sca}&dru|pa|da"s|&drupada.h\\
   &&&= {\dn drupada.h}\\
   &&&= Drupada\\
@@ -374,7 +374,7 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
   &&&= {\dn kaa"siraaja.h}\\
   &&&= Kaa"siraaja\\
@@ -388,7 +388,7 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   &&&\\
 \end{tabular}
 \newpage
-% --------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
   &&&= {\dn purujit}\\
@@ -403,7 +403,7 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   2b&{\dn "saibya"sca}&"saib|ya"s|&"saibya.h\\
   &&&= {\dn "saibya.h}\\
   &&&= "Saibya\\
@@ -425,72 +425,72 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 6}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+And strong Yudhaamanyu, and strong Uttamaujaa, the son of Subhadraa
+and the sons of Draupadii---all, really, are great warriors.\\
+
 \begin{tabular}{llll}
   1a&{\dn yudhaamanyu"sca}&yu|dhaa|man|yu"s|&yudhaamanyu.h\\
   &&&= {\dn yudhaamanyu.h}\\
   &&&= Yudhaamanyu\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = ca\\
   &&&\\
-  &{\dn vikraanta}&vi|kraan|ta&strong\\
+  &{\dn vikraanta}&vi|kraan|ta&bold; mighty; strong\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|&uttamaujaa.h\\
   &&&= {\dn uttamaujaa.h}\\
   &&&= Uttamaujaa\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn viiryavaan}&viir|ya|vaan&very powerful\\
+  &{\dn viiryavaan}&viir|ya|vaan&(?)\\
+  &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
+  &&&\note{= strong; powerful; vigorous}\\
   \hline
   &&&\\
-  2a&{\dn saubhadro}&sau|bha|dro&saubadra.h\\
-  &&&= {\dn saubadra.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn saubhadro}&sau|bha|dro&saubhadra.h\\
+  &&&= {\dn saubhadra.h}\\
   &&&= son of Subhadraa\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn draupadeyaa"sca}&drau|pa|de|yaa"s|&draupadeyaa.h\\
   &&&= {\dn draupadeyaa.h}\\
   &&&= sons of Draupadii\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn draupadeya.h} = draupadeya.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
-  2b&{\dn sarva}&sar|va&all\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sarva}&sar|va&sarva.h = {\dn sarva.h} = each; all\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn eva}&e|va&really\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|&mahaanta.h\\
+  &{\dn mahaarathaa.h}&ma|haa|&(?) mahaanta.h\\
   &&&= {\dn mahaanta.h}\\
   &&&= great\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn mahaan} = mahaan}\\
   &&&\\
   &&ra|thaa|.h(aa)&rathaa.h\\
   &&&= {\dn rathaa.h}\\
-  &&&= chariots/warriors\\
+  &&&= chariots; warriors; heros\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn ratha.h} = ratha.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Strong Yudhaamanyu, very powerful Uttamaujaa, the son of Subhadraa,
-and the sons of Draupadii, are all really great warriors.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn draupadeya.h} = draupadeya.h = a son of Draupadii.
-
-  Plus plural form: {\dn draupadeyaa.h} = draupadeyaa.h = sons of Draupadii.
-
-\item Male adjective: {\dn mahaan} = mahaan = great.
-
-  Plus plural form: {\dn mahaanta.h} = mahaanta.h = great.
-
-\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
-
-  Plus plural form: {\dn rathaa.h} = rathaa.h = chariots/warriors.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 7}
