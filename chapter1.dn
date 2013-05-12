@@ -664,65 +664,82 @@ son of Sumadatta are likewise, really.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 9}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+\dots other (?) \dots and many warrios, for me, for the meaning (for
+my sake), abandoned lives. They have many sword weapons. They are wise
+in each fight.\\
+
 \begin{tabular}{llll}
-  1a&{\dn anye}&an|ye&others\\
+  1a&{\dn anye}&an|ye&(?) at/in/on something different; other; strange\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn anaya.h} = anya.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
   &{\dn bahava.h}&ba|ha|va|.h(a)&many\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn "suuraa}&"suu|raa&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
-  &&&= heroes\\
+  &&&= warriors; brave men; heros\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn "suura.h} = "suura.h}\\
   \hline
   &&&\\
-  1b&{\dn madarthe}&ma|dar|the&me(?) + arthe\\
-  &&&= {\dn me} + {\dn arthe}\\
-  &&&= for me + for the sake of\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn madarthe}&ma|dar|&(?) me\\
+  &&&= {\dn me}\\
+  &&&= for me; of me\\
+  &&&\note{\pronoun, \firstperson, \dativecase,}\\
+  &&&\note{\locativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &&the&arthe\\
+  &&&= {\dn arthe}\\
+  &&&= at/in/on a/the meaning\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn artha.h} = artha.h}\\
   &&&\\
   &{\dn tyaktajiivitaa.h}&tyak|ta|&abandoned\\
+  &&&\note{\adjective}\\
   &&&\\
-  &&jii|vi|taa|.h(aa)&life (?)\\
+  &&jii|vi|taa|.h(aa)&(?)\\
+  &&&\note{\plural}\\
+  &&&\note{similar: \noun, \male, {\dn jiivatha.h} = jiivatha.h}\\
+  &&&\note{= breath; virtue; life}\\
   &&&\\
-  2a&{\dn naanaa"sastraprahara.naa.h}&naa|naa|&various\\
-  &&&\\
-  &&"sa|stra|&sword\\
-  &&&\\
-  &&pra|ha|ra|.naa|.h(aa)&weapons (?)\\
-  \hline
-  &&&\\
-  2b&{\dn sarve}&sar|ve&all\\
-  &&&\\
-  &{\dn yuddhavi"saaradaa.h}&yud|dha|&war\\
-  &&&\\
-  &&vi|"saa|ra|daa|.h(aa)&experienced\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Others and many heroes, for the sake of me, abandoned life and have
-various sword weapons. All are war-experienced.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn tyaktum} = tyaktum = to abandon.
-
-  Root: {\dn tyaj} = tyaj.
-
-  (?) Plus adjective form: {\dn tyakta} = tyakta = abandoned.
-
-\item Neuter noun: {\dn jiivitam} = jiivitam = life.
-
-\item Neuter noun: {\dn "sastram} = "sastram = sword.
-
-\item Neuter noun: {\dn prahara.nam} = prahara.nam = weapon.
-
-\item Neuter noun: {\dn yuddham} = yuddham = war.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn naanaa"sastraprahara.naa.h}&naa|naa|&various; many\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&"sa|stra|&"sastram\\
+  &&&= {\dn "sastram}\\
+  &&&= missle; sword; weapon\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&pra|ha|ra|.naa|.h(aa)&(?)\\
+  &&&\note{\plural}\\
+  &&&\note{similar: \noun, \neuter, {\dn prahara.nam} = prahara.nam}\\
+  &&&\note{= missle; attack; weapon}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sarve}&sar|ve&at/in/on each\\
+  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\\
+  &{\dn yuddhavi"saaradaa.h}&yud|dha|&yuddham\\
+  &&&= {\dn yuddham}\\
+  &&&= battle; fight; war\\
+  &&&\\
+  &&vi|"saa|ra|daa|.h(aa)&famous; skilled; wise\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn vi"saarada.h} = vi"saarada.h}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 10}
