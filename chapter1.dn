@@ -349,74 +349,70 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 5}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+Dh.r.s.taketu, Cekitaana, and Kaa"siraaja are powerful.  Purujit and
+Kuntibhoja, and Saibya are a man-bull (best man).\\
+
 \begin{tabular}{llll}
   1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r.s|.ta|ke|tu"s|&dh.r.s.taketu.h\\
   &&&= {\dn dh.r.s.taketu.h}\\
   &&&= Dh.r.s.taketu\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ce|ki|taa|na|.h(a)&cekitaana.h\\
   &&&= {\dn cekitaana.h}\\
   &&&= Cekitaana\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ------------------------------------------------------------------------------
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
   &&&= {\dn kaa"siraaja.h}\\
   &&&= Kaa"siraaja\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn viiryavaan}&viir|ya|vaan&very powerful (?)\\
+  &{\dn viiryavaan}&viir|ya|vaan&(?)\\
+  &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
+  &&&\note{= powerful; strong; vigorous}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% --------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
   &&&= {\dn purujit}\\
   &&&= Purujit\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&kun|ti|bhos|ja"s|&kuntibhoja.h\\
   &&&= {\dn kuntibhoja.h}\\
   &&&= Kuntibhoja\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
+  % ------------------------------------------------------------------------------
   2b&{\dn "saibya"sca}&"saib|ya"s|&"saibya.h\\
   &&&= {\dn "saibya.h}\\
-  &&&= Saibya\\
+  &&&= "Saibya\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn narapu"ngava.h}&na|ra|&nara.h\\
   &&&= {\dn nara.h}\\
   &&&= man\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&pu"n|ga|va|.h(a)&pu"ngava.h\\
   &&&= {\dn pu"ngava.h}\\
-  &&&= best\\
+  &&&= bull; best; eminent man\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Dh.r.s.taketu, Cekitaana, and Kaa"siraaja are very powerful. Purujit,
-Kuntibhoja, and Saibya are a best man.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item You can put {\dn ca} ca after a list of nouns, or between every
-  pair of consecutive nouns in a list. Here, possibly the {\dn ca} at
-  the end of Line 2a was put there to make the text sound good.
-
-\item Neuter noun: {\dn viiryan} = viiryan = power.
-
-  (?) Plus change: {\dn viiryavaan} = viiryavaan = very powerful.
-
-\item Male noun: {\dn nara.h} = nara.h = man.
-
-\item Male noun: {\dn pa"ngava.h} = pa"ngava.h = a best thing.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 6}
