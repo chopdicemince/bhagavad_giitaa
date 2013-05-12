@@ -960,89 +960,81 @@ conch shell.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 13}
 
+Then conch shells and a kettle drum and small drums, a drum, and a
+kind of musical instrument, suddenly and really were struck (?). That
+sound was tumultuous.\\
+
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta|.h(a)&then\\
   &&&\\
   &{\dn "sa"nkhaa"sca}&"sa"n|khaa"s|&"sa"nkhaa.h\\
   &&&= {\dn "sa"nkhaa.h}\\
   &&&= conch shells\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn bherya"sca}&bher|ya"s|&bhera.h\\
+  &{\dn bherya"sca}&bher|ya"s|&(?) bhera.h\\
   &&&= {\dn bhera.h}\\
   &&&= kettle drum\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn pa.navaanakagomukhaa.h}&pa|.na|vaa|&pa.navaa.h\\
   &&&= {\dn pa.navaa.h}\\
-  &&&= small drums\\
+  &&&= small drums; small cymbals\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn pa.nava.h} = pa.nava.h}\\
   &&&\\
-  &&na|ka|&aanaka = {\dn aanaka} = drum\\
+  &&na|ka|&aanaka.h\\
+  &&&= {\dn aanaka.h}\\
+  &&&= drum\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&go|mu|khaa|.h(aa)&gomukhaa.h\\
-  &&&= {\dn gomukaa.h}\\
-  &&&= horns\\
+  &&&= {\dn gomukhaa.h}\\
+  &&&= plural of a kind of musical instrument\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn gomukha.h} = gomukha.h}\\
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn sahasaivaabhyahanyanta}&sa|ha|sai|&sahasaa\\
   &&&= {\dn sahasaa}\\
   &&&= suddenly\\
+  &&&\note{\adjective}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = really\\
   &&&\\
   &&bhya|han|yan|ta&abhyahanyanta\\
   &&&= {\dn abhyahanyanta}\\
-  &&&= simultaneously sounded\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn hanyate} = hanyate = (he/she/it) is struck; is killed}\\
   \hline
-  &&&\\\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that\\
   &&&\\
-  &{\dn "sabdastumulo.abhavat}&"sab|das|&"sabda.h = {\dn "sabda.h} = sound\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
-  &&tu|mu|lo|&tumula.h\\
+  &{\dn "sabdastumulo.abhavat}&"sab|da|stu|&"sabda.h = {\dn "sabda.h} = sound\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&mu|lo|&tumula.h\\
   &&&= {\dn tumula.h}\\
   &&&= tumultuous\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&'bha|vat&abhavat = {\dn abhavat} = was\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Then conch shells, a kettle drum, small drums, a drum, and horns,
-suddenly really simultaneously sounded. That sound was tumultuous.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn "sa"nka.h} = "sa"nka.h = conch shell.
-
-  Plus plural form: {\dn "sa"nkaa.h} = "sa"nkaa.h = conch shells.
-
-\item Male noun: {\dn bhera.h} = bhera.h = kettle drum.
-
-\item Male noun: {\dn pa.nava.h} = pa.nava.h = small drum.
-
-  Plus plural form: {\dn pa.navaa.h} = pa.navaa.h = small drums.
-
-\item Male noun: {\dn aanaka.h} = aanaka.h = drum.
-
-\item Male noun: {\dn gomukha.h} = gomukha.h = horn.
-
-  Plus plural form: {\dn gomukhaa.h} = gomukhaa.h = horns.
-
-\item Male noun: {\dn "sabda.h} = "sabda.h = sound.
-
-\item Male adjective: {\dn tumula.h} = tumula.h = noisy.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Plus past tense and third person form and singular form: {\dn abhavat} = abhavat = (he/she/it) was.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 14}
