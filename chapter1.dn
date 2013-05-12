@@ -495,95 +495,98 @@ and the sons of Draupadii---all, really, are great warriors.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 7}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+But, our excellent ones, consider them, O excellent Brahman. They are
+my leaders of the soldier. The name meaning of those (the names of the
+leaders)--- I say for you.\\
+
 \begin{tabular}{llll}
   1a&{\dn asmaaka.m}&as|maa|ka.m&our\\
+  &&&\note{\pronoun, \secondperson, \plural, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\\
-  &{\dn vi"si.s.taa}&vi|"si.s|.taa&excellent\\
+  &{\dn vi"si.s.taa}&vi|"si.s|.taa&particular; preeminent; excellent\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn vi"si.s.ta.h} = vi"si.s.ta.h}\\
   &&&\\
-  &{\dn ye}&ye&who\\
+  &{\dn ye}&ye&(?) ones\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn taannibodha}&taan|&{\dn taan}\\
-  &&&= them\\
+  &&&= those/them\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&ni|bo|dha&nibodhatu\\
-  &&&= {\dn nibhodhatu}\\
-  &&&= consider\\
+  &&&= {\dn nibodhatu}\\
+  &&&= (you) consider; listen; know\\
+  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{root: {\dn nibudh} = nibudh}\\
   &&&\\
   &{\dn dvijottama}&dvi|jot|&dvija\\
   &&&= {\dn dvija}\\
   &&&= O Brahman\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn dvija.h} = dvija.h}\\
   &&&\\
   &&ta|ma&uttama\\
   &&&= {\dn uttama}\\
-  &&&= O excellent\\
+  &&&= best; greatest; excellent\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn naayakaa}&naa|ya|kaa&naayakaa.h\\
   &&&= {\dn naayakaa.h}\\
-  &&&= captains\\
+  &&&= captains; leaders; chiefs\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn naayaka.h} = naayaka.h}\\
   &&&\\
   &{\dn mama}&ma|ma&my\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn sainyasya}&sain|ya|sya&solider's\\
+  &{\dn sainyasya}&sain|ya|sya&of a/the solider\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn sainya.h} = sainya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn sa.mj~naartha.m}&sa.m|j\~{}naar|&sa.mj\~{}naa\\
-  &&&= {\dn sa.mj\~{}naa}\\
-  &&&= ?\\
+  &&&= {\dn sa.mj~naa}\\
+  &&&= noun; name; title\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&tha.m&artha.m\\
   &&&= {\dn artha.m}\\
   &&&= meaning\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn artha.h} = artha.h}\\
   &&&\\
   &{\dn taanbraviimite}&taan|&{\dn taan}\\
-  &&&= them\\
+  &&&= those/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&bra|vii|mi|&{\dn braviimi}\\
-  &&&= I say\\
+  &&&= (?) I say\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn bruu} = bruu}\\
   &&&\\
   &&te&{\dn te}\\
-  &&&= to you\\
+  &&&= for you; of you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-But, our excellent ones, consider them, O excellent Brahman, (they who
-are) my solider's captains. For meaning, about them, I say things to
-you.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Verb: {\dn nibudh} nibudh: to consider.
-
-  Plus imperative tense and singular form: {\dn nibodhatu} = nibodhatu = consider.
-
-\item Male noun: {\dn dvija.h} = dvija.h = Brahman.
-
-  Plus \vocativecase: {\dn dvija} = dvija = O Brahman.
-
-\item Male noun: {\dn naayaka.h} = naayaka.h = captain.
-
-  Plus plural form: {\dn naayakaa.h} = naayakaa.h = captains.
-
-\item Male noun: {\dn sainya.h} = sainya.h = soldier.
-
-  Plus \genitivecase: {\dn sainyasya} = sainyasya = solider's.
-
-\item Male noun: {\dn artha.h} = artha.h = meaning.
-
-  Plus \accusativecase: {\dn artham} = artham = meaning.
-
-\item Verb: {\dn bruu} bruu: to say.
-
-  Plus present tense and first person form and singular form: {\dn braviimi} = braviimi = (I) say.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 8}
