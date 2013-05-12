@@ -820,76 +820,70 @@ Bhiima-protected.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 11}
 
+(Duryodhana said to the warriors:)\\
+
+At the equinox and solstice points (at the main points), and at all
+places, as ready---really, you each protect the Bhii.sma
+part---really, surely.\\
+
 \begin{tabular}{llll}
-  1a&{\dn ayane.su}&a|ya|ne|.su&at the main points\\
+  1a&{\dn ayane.su}&a|ya|ne|.su&at/in/on the equinox and solstice points\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{from {\dn ayanam} = ayanam}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at all (places)\\
+  &{\dn sarve.su}&sar|ve|.su&at/in/on all places\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   \hline
   &&&\\
-  1b&{\dn yathaabhaagamavasthitaa.h}&ya|thaa|&as\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn yathaabhaagamavasthitaa.h}&ya|thaa|&as; like; just as\\
   &&&\\
   &&bhaa|ga|ma&bhaagam\\
   &&&= {\dn bhaagam}\\
   &&&= part\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn bhaaga.h} = bhaaga.h}\\
   &&&\\
   &&vas|thi|taa|.h(aa)&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
-  &&&= ready for\\
+  &&&= standing; ready; placed\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn avasthita.h} = avasthita.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn bhii.smamevaabhirak.santu}&bhii.s|ma|&bhii.smam\\
   &&&= {\dn bhii.smam}\\
   &&&= Bhii.sma\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn bhii.sma.h} = bhii.sma.h}\\
   &&&\\
   &&me|vaa|&eva = {\dn eva} = really\\
   &&&\\
   &&bhi|rak|.san|tu&abhirak.santu\\
   &&&= {\dn abhirak.santu}\\
-  &&&= (you, three or more)\\
-  &&&\quad protect\\
+  &&&= (you) guard; preserve; protect\\
+  &&&\note{\verbb, \imperativemood, \plural}\\
+  &&&\note{root: {\dn abhirak.s} = abhirak.s}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn bhavanta.h}&bha|van|ta|.h(a)&you\\
+  &&&\note{\pronoun, \secondperson, number?}\\
   &&&\\
-  &{\dn sarva}&sar|va&all\\
+  &{\dn sarva}&sar|va&each; all\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn eva}&e|va&really\\
   &&&\\
   &{\dn hi}&hi&surely\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-At the main points, at all places, ready---really, protect the part
-(parts of the army) and Bhii.sma---you all really surely are.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn ayanam} = ayanam = the point of an equinox or solstice; a main point.
-
-  Plus plural form and \locativecase: {\dn ayane.su} = ayane.su = at the points of an equinox or solstice; at the main points.
-
-\item Pronoun: {\dn sarva} = sarva = all.
-
-  Plus \locativecase: {\dn sarve.su} = sarve.su = at all (places).
-
-\item Male noun: {\dn bhaaga.h} = bhaaga.h = part.
-
-  Plus \accusativecase: {\dn bhaagam} = bhaagam = part.
-
-\item Male noun: {\dn bhii.sma.h} = bhii.sma.h = Bhii.sma.
-
-  Plus \accusativecase: {\dn bhii.smam} = bhii.smam = Bhii.sma.
-
-\item Verb: {\dn abhirak.s} = abhirak.s = to protect.
-
-  Plus imperative tense and plural form: {\dn abhirak.santu} = abhirak.santu = (you, three or more) protect.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 12}
