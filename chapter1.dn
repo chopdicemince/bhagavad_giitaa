@@ -165,11 +165,15 @@ Paa.n.dava army arranged, King Duryodhana was near the teacher
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aacaaryam}&aa|caar|yam&teacher\\
+  2a&{\dn aacaaryamupasa"ngamya}&aa|caar|ya|mu|&aacaaryam\\
+  &&&= {\dn aacaaryam}\\
+  &&&= teacher\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
   &&&\\
-  &{\dn upasa"ngamya}&u|pa|sa"n|gam|ya&(?)\\
+  &&pa|sa"n|gam|ya&upsa"ngamya\\
+  &&&= {\dn upasa"ngamya}\\
+  &&&= (?)\\
   &&&\note{similar: \adjective, {\dn upasa"nga} = upasa"nga}\\
   &&&\note{= adjunct; near; joined}\\
   \hline
@@ -179,10 +183,14 @@ Paa.n.dava army arranged, King Duryodhana was near the teacher
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn raaja.h} = raaja.h}\\
   &&&\\
-  &{\dn vacanam}&va|ca|nam&saying; group of words; sentence\\
+  &{\dn vacanamabraviit}&va|ca|na|ma|&vacanam\\
+  &&&= {\dn vacanam}\\
+  &&&= saying; group of words; sentence\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn abraviit}&a|bra|viit&said (?)\\
+  &&|bra|viit&abraviit\\
+  &&&= {\dn abraviit}\\
+  &&&= said (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
