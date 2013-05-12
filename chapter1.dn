@@ -268,90 +268,83 @@ arranged, using the son of Drupada, your wise student.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 4}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+Here are warriors---great archers equal to Bhiima and Arjuna---at the
+fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
+
 \begin{tabular}{llll}
   1a&{\dn atra}&a|tra&here\\
   &&&\\
   &{\dn "suuraa}&"suu|raa&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
-  &&&= heros\\
+  &&&= warriors; brave men; heros\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn "suura.h} = "suura.h}\\
   &&&\\
-  &{\dn mahe.svaasaa}&ma|he.s|&mahaanta.h\\
-  &&&= {\dn mahaanta.h}\\
-  &&&= great\\
+  &{\dn mahe.svaasaa}&ma|he.s|&maha\\
+  &&&= {\dn maha}\\
+  &&&= abundant; strong; great\\
+  &&&\note{\adjective}\\
   &&&\\
   &&vaa|saa&i.svaasaa.h\\
   &&&= {\dn i.svaasaa.h}\\
-  &&&= archers\\
+  &&&= bows; archers\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn i"svaasa.h} = i"svaasa.h}\\
   \hline
   &&&\\
+  % ------------------------------------------------------------------------------
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ju|na|&arjuna = {\dn arjuna} = Arjuna\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&sa|maa&samaa.h = {\dn samaa.h} = equal\\
+  &&sa|maa&samaa.h = {\dn samaa.h} = equal; complete; honest; similar\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn sama.h} = sama.h}\\
   &&&\\
-  &{\dn yudhi}&yu|dhi&at a/the fight\\
+  &{\dn yudhi}&yu|dhi&(?) at/in/on a/the fight\\
+  &&&\note{\noun, \female, \locativecase}\\
+  &&&\note{from {\dn yudh} = yudh}\\
   \hline
   &&&\\
-  2a&{\dn yuyudhaano}&yu|yu|dhaa|no&Yuyudhaana\\
+\end{tabular}
+\newpage
+% --------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yuyudhaano}&yu|yu|dhaa|no&yuyudhaana.h\\
+  &&&= {\dn yuyudhaana.h}\\
+  &&&= Yuyudhaana\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
+  % ------------------------------------------------------------------------------
   2b&{\dn drupada"sca}&dru|pa|da"s|&drupada.h\\
   &&&= {\dn drupada.h}\\
   &&&= Drupada\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn mahaaratha.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
   &&&= great\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
-  &&&= chariot/warrior\\
+  &&&= chariot; warrior; hero\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Here are great archer heros equal to Bhiima and Arjuna, at the fight:
-Yuyudhaana, Viraata, and Drupada, and a great chariot/warrior.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn "suura.h} = "suura.h = hero.
-
-  Plus plural form: {\dn "suuraa.h} = "suuraa.h = heros.
-
-\item Male adjective: {\dn mahaan} = mahaan = great.
-
-  Plus plural form: {\dn mahaanta.h} = mahaanta.h = great.
-
-\item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
-
-  Plus plural form: {\dn i.svaasaa.h} = i.svaasaa.h = archers.
-
-\item Male adjective: {\dn sama.h} = sama.h = equal.
-
-  Plus plural form: {\dn samaa.h} = samaa.h = equal.
-
-\item Female noun: {\dn yudh} = yudh = fight.
-
-  Plus \locativecase: {\dn yudhi} = yudhi = at a/the fight.
-
-\item Drupada is a male god.
-
-\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 5}
