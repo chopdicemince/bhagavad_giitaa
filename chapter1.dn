@@ -744,71 +744,78 @@ in each fight.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 10}
 
+(Duryodhana said to the teacher Dro.na:)\\
+
+Not limited is that, our power, which is Bhii.sma-protected. But
+limited is this, the power of those (the Paa.n.davas), which is
+Bhiima-protected.\\
+
 \begin{tabular}{llll}
-  1a&{\dn aparyaapta.m}&a|&not\\
+  1a&{\dn aparyaapta.m}&a|par|yaap|ta.m&not enough; not limited\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \neuter,}\\
+  &&&\note{{\dn paryaaptam} = paryaaptam}\\
   &&&\\
-  &&par|yaap|ta.m&paryaapta.m\\
-  &&&= {\dn paryaapta.m}\\
-  &&&= enough\\
-  &&&\\
-  &{\dn tadasmaaka.m}&ta|&tat\\
-  &&&= {\dn tat}\\
+  &{\dn tadasmaaka.m}&ta|da|&tad\\
+  &&&= {\dn tad}\\
   &&&= that\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&das|maa|ka.m&asmaakam\\
+  &&smaa|ka.m&asmaakam\\
   &&&= {\dn asmaakam}\\
   &&&= our\\
+  &&&\note{\pronoun, \firstperson, \plural,}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
-  1b&{\dn bala.m}&ba|la.m&strength\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn bala.m}&ba|la.m&power; force; strength\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn bhii.smaabhirak.sitam}&bhii.s|maa|&bhii.sma.h\\
   &&&= {\dn bhii.sma.h}\\
   &&&= Bhii.sma\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&bhi|rak|.si|tam&abhirak.sitam\\
   &&&= {\dn abhirak.sitam}\\
-  &&&= protected\\
+  &&&= guarded; protected; preserved\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
-  2a&{\dn paryaapta.m}&par|yaap|ta.m&enough\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn paryaapta.m}&par|yaap|ta.m&enough; limited\\
+  &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn tvidamete.saa.m}&tvi|&tu = {\dn tu} = but\\
   &&&\\
   &&da|me|&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = them\\
+  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = of those/them\\
+  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   \hline
   &&&\\
-  2b&{\dn bala.m}&ba|la.m&strength\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn bala.m}&ba|la.m&power; force; strength\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima.h\\
-  &&&= {\dn bhii.ma.h}\\
-  &&&= Bhii.ma\\
+  &&&= {\dn bhiima.h}\\
+  &&&= Bhiima\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&bhi|rak|.si|tam&abhirak.sitam\\
   &&&= {\dn abhirak.sitam}\\
-  &&&= protected\\
+  &&&= guarded; protected; preserved\\
+  &&&\note{\adjective, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Not enough (without limit) is our strength, which is protected by
-Bhii.sma. But enough (limited) is this strengh of them (the
-Paa.n.davas), which is protected by Bhiima.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn balam} = balam = strength.
-
-\item Neuter pronoun: {\dn idam} = idam = this.
-
-\item Neuter adjective: {\dn abhirak.sitam} = abhirak.sitam = protected.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 11}
