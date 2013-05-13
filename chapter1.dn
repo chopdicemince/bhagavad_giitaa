@@ -1112,99 +1112,74 @@ conch shells.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 15}
 
+Paa\~{}ncajanya (the conch shell of K.r.s.na) was blown by K.r.s.na,
+Devadatta (the conch shell of Arjuna) was blown by Arjuna, and
+Pau.n.dra (the conch shell of Bhiima), a great conch shell, was blown
+by Bhiima, known for action and a wolf stomach (big appetite).\\
+
 \begin{tabular}{llll}
   1a&{\dn paa~ncajanya.m}&paa\~{}n|ca|jan|ya.m&Paa\~{}ncajanya\\
-  &&&= K.r.s.na's conch shell\\
+  &&&= the conch shell of K.r.s.na\\
+  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
   &&&= {\dn h.r.siike"sa.h}\\
   &&&= H.r.siike"sa\\
   &&&= K.r.s.na\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn devadatta.m}&de|va|dat|ta.m&Devadatta\\
-  &&&= Arjuna's conch shell\\
+  &&&= the conch shell of Arjuna\\
+  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
   &&&\\
   &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya|.h(a)&Dhana\~{}njaya = Arjuna\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn pau.n.dra.m}&pau.n|.dra.m&Pau.n.dra\\
-  &&&= Bhiima's conch shell\\
+  &&&= the conch shell of Bhiima\\
+  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
   &&&\\
-  &{\dn dadhmau}&dadh|mau&blew\\
+  &{\dn dadhmau}&dadh|mau&(?) blew\\
   &&&\\
-  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaantam\\
-  &&&= {\dn mahaantam}\\
+  &{\dn mahaa"sa"nkha.m}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
   &&&= great\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&"sa"n|kha.m&"sa"nkha.m\\
   &&&= {\dn "sa"nkha.m}\\
   &&&= conch shell\\
+  &&&\note{\noun, \male, \accusativecase}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn bhiimakarmaa}&bhii|ma|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
   &&&= Bhiima\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&kar|maa&karmam\\
   &&&= {\dn karmam}\\
   &&&= action\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn v.rkodara.h}&v.r|ko|&v.rka.h\\
   &&&= {\dn v.rka.h}\\
   &&&= wolf\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&da|ra|.h(a)&udaram\\
   &&&= {\dn udaram}\\
-  &&&= stomach\\
+  &&&= stomach; abdomen; belly\\
+  &&&\note{\noun, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Paa\~{}ncajanya (K.r.s.na's conch shell) was blown by K.r.s.na,
-Devadatta (Arjuna's conch shell) was blown by Arjuna, and Pau.n.dra
-(Bhiima's conch shell), a great conch shell, was blown by Bhiima, (who
-was a person) of action and (a person) with a wolf stomach (he could
-eat at lot).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male (?) noun: {\dn paa~ncajanya.h} = paa\~{}ncajanya.h = Paa\~{}ncajanya = K.r.sna's conch shell.
-
-  Plus \accusativecase: {\dn paa~ncajanyam} = paa\~{}ncajanyam = Paa\~{}ncajanya = K.r.s.na's conch shell.
-
-\item Male noun: {\dn h.r.siike"sa.h} = h.r.siike"sa.h = H.r.siike"sa = K.r.s.na.
-
-\item Male (?) noun: {\dn devadatta.h} = devadatta.h = Devadatta = Arjuna's conch shell.
-
-  Plus \accusativecase: {\dn devadattam} = devadattam = Devadatta = Arjuna's conch shell.
-
-\item Male noun: {\dn dhana~njaya.h} = dhana\~{}njaya.h = Arjuna.
-
-\item Male (?) noun: {\dn pau.n.dra.h} = pau.n.dra.h = Pau.n.dra = Bhiima's conch shell.
-
-  Plus \accusativecase: {\dn pau.n.dram} = pau.n.dram = Pau.n.dra = Bhiima's conch shell.
-
-\item Male adjective: {\dn mahaan} = mahaan = great.
-
-  Plus \accusativecase: {\dn mahaantam} = mahaantam = great.
-
-\item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
-
-  Plus \accusativecase: {\dn "sa"nkham} = "sa"nkham = conch shell.
-
-\item Male noun: {\dn bhiima.h} = bhiima.h = Bhiima.
-
-\item Neuter noun: {\dn karmam} = karmam = action.
-
-\item Male noun: {\dn v.rka.h} = v.rka.h = wolf.
-
-\item Neuter noun: {\dn udaram} = udaram = stomach.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
