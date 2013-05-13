@@ -1240,80 +1240,80 @@ Sugho.sa and Ma.nipu.spaka.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 17}
 
+And the king of Kaa"sii, the best archer;\\
+and "Skiha.n.dii, a great warrior;\\
+Dh.r.s.tadyumna (a son of King Drupada) and Viraa.ta (a prince who helped the Paa.n.davas);\\
+and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
+\dots\\
+
 \begin{tabular}{llll}
   1a&{\dn kaa"sya"sca}&kaa"s|ya"s|&kaa"sya.h\\
   &&&= {\dn kaa"sya.h}\\
   &&&= the king of Kaa"sii\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
   &{\dn parame.svaasa.h}&pa|ra|me.s|&parama.h\\
   &&&= {\dn parama.h}\\
   &&&= best\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&vaa|sa|.h(a)&i.svaasa.h\\
   &&&= {\dn i.svaasa.h}\\
-  &&&= archer\\
+  &&&= bow; archer; warrior\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn "sikha.n.dii}&"si|kha.n|.dii&"Sikha.n.dii\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
   &{\dn mahaaratha.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
   &&&= great\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &&ra|tha|.h(a)&ratha.h\\
   &&&= {\dn ratha.h}\\
-  &&&= chariot/warrior\\
+  &&&= chariot; cart; warrior\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
-  2a&{\dn dh.r.s.tadyumno}&dh.r.s|.tad|yum|no&dh.r.s.tadyumna.h\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn dh.r.s.tadyumno}&dh.r.s|.ta|dyum|no&dh.r.s.tadyumna.h\\
   &&&= {\dn dh.r.s.tadyumna.h}\\
   &&&= Dh.r.s.tadyumna\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   \hline
   &&&\\
-  2b&{\dn saatyaki"scaaparaajita.h}&saat|ya|ki"s|&saatyaki.h\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn saatyaki"scaaparaajita.h}&saa|tya|ki"s|&saatyaki.h\\
   &&&= {\dn saatyaki.h}\\
   &&&= Saatyaki\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&caa|&ca = {\dn ca} = and\\
   &&&\\
   &&pa|raa|ji|ta|.h(a)&aparaajita.h\\
   &&&= {\dn aparaajita.h}\\
-  &&&= undefeated\\
+  &&&= not defeated\\
+  &&&\note{\adjective}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn paraajita.h} = paraajita.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-The king of Kaa"sii, the best archer; "Skiha.n.dii, a great warrior;
-Dh.r.s.tadyumna (a son of King Drupada); Viraa.ta (a prince who helped
-the Paa.n.davas); Saatyaki (the charioteer of Lord K.r.s.na), an
-undefeated one; \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male adjective: {\dn parama.h} = parama.h = best.
-
-\item Male noun: {\dn i.svaasa.h} = i.svaasa.h = archer.
-
-\item Male adjective: {\dn mahaan} = mahaan = great.
-
-\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
-
-\item Male adjective: {\dn aparaajita.h} = aparaajita.h = undefeated.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 18}
