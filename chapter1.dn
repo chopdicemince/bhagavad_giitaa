@@ -1039,95 +1039,75 @@ sound was tumultuous.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 14}
 
+Then, using white horses in a yoke, \dots (?) \dots in a chariot, and
+standing, K.r.s.na and the Paa.n.dava (Arjuna) really blew two divine
+conch shells.\\
+
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta|.h(a)&then\\
   &&&\\
   &{\dn "svetairhayairyukte}&"sve|tair|&"svetai.h\\
-  &&&= {\dn "sveti.h}\\
-  &&&= with white\\
+  &&&= {\dn "svetai.h}\\
+  &&&= using/by white\\
+  &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn "sveta.h} = "sveta.h}\\
   &&&\\
   &&ha|yair|&hayai.h\\
   &&&= {\dn hayai.h}\\
-  &&&= with horses\\
+  &&&= using/by horses\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn haya.h} = haya.h}\\
   &&&\\
   &&yuk|te&yukte\\
   &&&= {\dn yukte}\\
-  &&&= in a/the yoke\\
+  &&&= at/in/on a/the team; suitableness; yoke\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn yuktam} = yuktam}\\
   \hline
   &&&\\
-  1b&{\dn mahati}&ma|ha|ti&to honor\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn mahati}&ma|ha|ti&(?) (he/she/it) honors; reveres; rejoices\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn mah} = mah}\\
   &&&\\
-  &{\dn syandane}&syan|da|ne&in a/the chariot\\
+  &{\dn syandane}&syan|da|ne&at/in/on a/the flowing; chariot; coach\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn syandanam} = syandanam}\\
   &&&\\
-  &{\dn sthitau}&sthi|tau&there\\
+  &{\dn sthitau}&sthi|tau&present; prepared; standing\\
+  &&&\note{\adjective, \male, \dual}\\
+  &&&\note{from {\dn sthita.h} = sthita.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn maadhava.h}&maa|dha|va|.h(a)&K.r.s.na\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paa.n.dava"scaiva}&paa.n|.da|va"s|&paa.n.dava.h\\
   &&&= {\dn paa.n.dava.h}\\
   &&&= Paa.n.dava\\
   &&&= Arjuna\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn divyau}&div|yau&divine\\
+  &&&\note{\adjective, \male, \dual}\\
+  &&&\note{from {\dn divya.h} = divya.h}\\
   &&&\\
   &{\dn "sa"nkhau}&"sa"n|khau&two conch shells\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
-  &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&blew\\
+  &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&(?) blew\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Then, with white horses in a yoke, honored in a chariot there,
-K.r.s.na and Arjuna really blew two divine conch shells.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male adjective: {\dn "sveta.h} = "sveta.h = white.
-
-  Plus plural form: {\dn "svetaa.h} = "svetaa.h = white.
-
-  Plus \instrumentalcase: {\dn "svetai.h} = "svetai.h = with white.
-
-\item Male noun: {\dn haya.h} = haya.h = horse.
-
-  Plus plural form: {\dn hayaa.h} = hayaa.h = horses.
-
-  Plus \instrumentalcase: {\dn hayai.h} = hayai.h = with horses.
-
-\item Neuter noun: {\dn yuktam} = yuktam = yoke.
-
-  Plus \locativecase: {\dn yukte} = yukte = in a/the yoke.
-
-\item Male noun: {\dn syandana.h} = syandana.h = chariot.
-
-  Plus \locativecase: {\dn syandane} = syandane = in a/the chariot.
-
-\item Male adjective: {\dn sthita.h} = sthita.h = there.
-
-  Plus dual form: {\dn sthitau} = sthitau = there.
-
-\item Male noun: {\dn paa.n.dava.h} = paa.n.dava.h = Paa.n.dava = Arjuna.
-
-\item Male adjective: {\dn divya.h} = divya.h = divine.
-
-  Plus dual form: {\dn divyau} = divyau = divine.
-
-\item Male noun: {\dn "sa"nkha.h} = "sa"nkha.h = conch shell.
-
-  Plus dual form: {\dn "sa"nkhau} = "sa"nkhau = two conch shells.
-
-\item Verb: {\dn pradhmaa} = pradhmaa = to blow.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 15}
