@@ -1452,114 +1452,96 @@ sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 20}
 
+(Sa\~{}njaya said to King Dh.rtaraa.s.tra:)\\
+
+Then, having seen the sons of Dh.rtaraa.s.tra arranged---with a monkey
+flag (for the monkey god Hanumaan), with a started missle (arrow) in a
+fall, with a raised bow, the Paa.n.dava (Arjuna), to K.r.s.na, then
+said this group of words, O great master.\\
+
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&then\\
   &&&\\
   &{\dn vyavasthitaand.r.s.tvaa}&vya|va|sthi|taan|&{\dn vyavasthitaan}\\
-  &&&= at\\
+  &&&= present; placed; arranged\\
+  &&&\note{\adjective, \male, \plural,}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn vyavasthita.h} = vyavasthita.h}\\
   &&&\\
   &&d.r.s.t|vaa&{\dn d.r.s.tvaa}\\
   &&&= having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   \hline
   &&&\\
-  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&sons of Dh.rtaraa.s.tra\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
   &&ka|pi|&kapi.h = {\dn kapi.h} = monkey\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&dhva|ja|.h(a)&flag\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
-  2a&{\dn prav.rtte}&pra|v.rt|te&having started\\
+  % ----------------------------------------------------------------------------
+  2a&{\dn prav.rtte}&pra|v.rt|te&(?)\\
+  &&&\note{similar: \adjective, {\dn prav.rtta} = prav.rtta}\\
+  &&&\note{= started; happened}\\
   &&&\\
-  &{\dn "sastrasampaate}&"sas|tra|&"sastra.h = {\dn "sastra.h} = arrow\\
+  &{\dn "sastrasampaate}&"sas|tra|&"sastram\\
+  &&&= {\dn "sastram}\\
+  &&&= missle; sword; weapon\\
   &&&\\
-  &&sam|paa|te&in a/the fall\\
+  &&sam|paa|te&in a/the collision; clash; fall\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn sampaata.h} = sampaata.h}\\
   \hline
   &&&\\
-  2b&{\dn dhanurudyamya}&dha|nu|&dhanum = {\dn dhanum} = bow\\
-  &&&(in archery)\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn dhanurudyamya}&dha|nu|&dhanum = {\dn dhanum} = bow (in archery)\\
   &&&\\
   &&ru|dyam|ya&udyamya\\
   &&&= {\dn udyamya}\\
-  &&&= having lifted\\
+  &&&= undertaken; raised\\
+  &&&\note{\adjective}\\
   &&&\\
-  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&a son of Paa.n.du\\
+  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&Paa.n.dava\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&K.r.s.na\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
   &&&\\
   &{\dn tadaa}&ta|daa&then\\
   &&&\\
   &{\dn vaakyamidamaaha}&vaa|kya|&vaakyam\\
   &&&= {\dn vaakyam}\\
-  &&&= sentence\\
+  &&&= saying; sentence; group of words\\
+  &&&\note{\noun, \neuter}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   3b&&mi|da|&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&maa|ha|&aaha = {\dn aaha} = said\\
+  &&maa|ha|&aaha = {\dn aaha} = (?) said\\
+  &&&\note{root: {\dn ah} = ah}\\
   &&&\\
-  &{\dn mahiipate}&ma|hii|&mahii = {\dn mahii} = big\\
+  &{\dn mahiipate}&ma|hii|&(?) mahii = {\dn mahii} = great\\
+  &&&\note{\adjective, \female}\\
   &&&\\
   &&pa|te&O master\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn pati.h} = pati.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Sa\~{}njaya told King Dh.rtaraa.s.tra:) Then, having seen
-Dh.rtaraa.s.tra's sons, having a monkey flag (a symbol of the monkey
-god Hanumaan), a son of Paa.n.du (named Arjuna), having started an
-arrow in a fall (having started shooting an arrow), having lifted a
-bow---to K.r.s.na, he then said this sentence, O big master (O King).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa =
-  having seen.
-
-\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
-
-  Plus plural form and \accusativecase: {\dn dhaartaraa.s.traan} = dhaartaraa.s.traan = Dh.rtaraa.s.tra's sons.
-
-\item Male noun: {\dn kapi.h} = kapi.h = monkey.
-
-\item Male noun: {\dn dhvaja.h} = dhvaja.h = flag.
-
-\item Verb: {\dn prav.rt} = prav.rt = to start.
-
-  Plus perfect participle: {\dn prav.rtte} = prav.rtte = having started.
-
-\item Male noun: {\dn "sastra.h} = "sastra.h = arrow.
-
-\item Male noun: {\dn sampaata.h} = sampaata.h = fall.
-
-  Plus \locativecase: {\dn sampaate} = sampaate = in a/the fall.
-
-\item Neuter noun: {\dn dhanum} = dhanum = bow (in archery).
-
-\item Verb: {\dn uda~nca} = uda\~{}nca = to lift.
-
-  Plus perfect participle: {\dn udyamya} = udyamya = having
-  lifted.
-
-\item Male noun: {\dn h.r.siike"sa.h} = h.r.siike"sa.h = K.r.s.na.
-
-  Plus \accusativecase: {\dn h.r.siike"sam} = h.r.siike"sam = K.r.s.na.
-
-\item Neuter noun: {\dn vaakyam} = vaakyam = sentence.
-
-\item Male noun: {\dn pati.h} = pati.h = master.
-
-  Plus \vocativecase: {\dn pate} = pate = O master.
-
-\item Neuter pronoun: {\dn idam} = idam = this.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 21}
