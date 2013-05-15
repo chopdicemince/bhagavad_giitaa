@@ -1384,76 +1384,70 @@ they blew conch shells separately.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 19}
 
+That sound (of the conch shells) was (dividing?) to the hearts of the
+sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
+(resounding?) tumult.\\
+
 \begin{tabular}{llll}
-  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that\\
+  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn gho.so}&gho|.so&gho.sa.h\\
   &&&= {\dn gho.sa.h}\\
   &&&= sound\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn dhaartaraa.s.traa.naa.m}&dhaar|ta|raa.s|.traa|.naa.m&Dh.r.taraa.s.tra's\\
-  &&&sons'\\
+  &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa.s|.traa|.naa.m}\\
+  &&&\\ % Extra blank line.
+  &&&of sons of Dh.r.taraa.s.tra\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn h.rdayaani}&h.r|da|yaa|ni&hearts\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn h.rdayam} = h.rdayam}\\
   &&&\\
-  &{\dn vyadaarayat}&vya|daa|ra|yat&pierced (?)\\
+  &{\dn vyadaarayat}&vya|daa|ra|yat&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
+  &&&\note{\singular, {\dn vyadadharati} = vyadadharati}\\
+  &&&\note{= (he/she/it) divides; separates}\\
+  &&&\note{root: {\dn vidh.r} = vidh.r}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn nabha"sca}&na|bha"s|&nabha.h\\
   &&&= {\dn nabha.h}\\
   &&&= sky\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn p.rthivii.m}&p.r|thi|vii.m&earth\\
+  &{\dn p.rthivii.m}&p.r|thi|vii.m&earth; land; soil\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn p.rthivii} = p.rthivii}\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn tumulo.abhyanunaadayan}&tu|mu|lo|&tumulam\\
   &&&= {\dn tumulam}\\
   &&&= tumult\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&'bhya|nu|naa|da|yan&resounding\\
+  &&'bhya|nu|naa|da|yan&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
+  &&&\note{\singular, {\dn nadayati} = nadayati}\\
+  &&&\note{= (he/she/it) resounds; vibrates}\\
+  &&&\note{root: {\dn nad} = nad}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-That sound (of the conch shells) pierced D.r.taraa.s.tra's sons'
-hearts, the sky, and the earth, and really was a resounding tumult.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn gho.sa.h} = gho.sa.h = sound.
-
-\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
-
-  Plus plural form and \genitivecase: {\dn dhaartaraa.s.traa.naam} = dhaartaraa.s.traa.naam = Dh.rtaraa.s.tra's sons'.
-
-\item Neuter noun: {\dn h.rdayam} = h.rdayam = heart.
-
-  Plus plural form and \accusativecase: {\dn h.rdayaani} = h.rdayaani = hearts.
-
-\item Verb: {\dn vyad} = vyad = to pierce.
-
-  Plus past tense and third person form and singular form (?):
-
-  {\dn vyadaarayat} = vyadaarayat = pierced.
-
-\item Male noun: {\dn nabha.h} = nabha.h = sky.
-
-\item Female noun: {\dn p.rthivii} = p.rthivii = earth.
-
-  Plus \accusativecase: {\dn p.rthiviim} = p.rthiviim = earth.
-
-\item Neuter noun: {\dn tumulam} = tumulam = tulmult.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 20}
