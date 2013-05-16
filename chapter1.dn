@@ -1683,90 +1683,80 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 23}
 
+(Arjuna said:)\\
+
+I see \dots (?) \dots, \dots one (?) \dots, these here, assembled, for
+the wicked mind of the son (Duryodhana) of Dh.rtaraa.s.tra, in a war
+with a dear wish.\\
+
 \begin{tabular}{llll}
-  1a&{\dn yotsyamaanaanavek.se.aha.m}&yot|sya|maa|naa|&fighters (?)\\
+  1a&{\dn yotsyamaanaanavek.se.aha.m}&\multicolumn{2}{l}{yot|sya|maa|naa|na|}\\
   &&&\\
-  &&na|vek|.se|&avek.se\\
+  &&&yotsyamaanaan\\
+  &&&= {\dn yotsyamaanaan}\\
+  &&&= (?)\\
+  &&&\note{\noun?, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn yotsyamaana.h} = yotsyamaana.h}\\
+  &&&\\
+  &&vek|.se|&avek.se\\
   &&&= {\dn avek.se}\\
   &&&= (I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn avek.s} = avek.s}\\
   &&&\\
   &&'ha.m&aha.m = {\dn aha.m} = I\\
+  &&&\note{\pronoun, \firstperson}\\
   \hline
   &&&\\
-  2a&{\dn ya}&ya&ye = {\dn ye} = who\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn ya}&ya&(?) ya.h = {\dn ya.h} = one\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn ete.atra}&e|te|&these\\
+  &{\dn ete.atra}&e|te|&these/they\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&'tra&atra\\
   &&&= {\dn atra}\\
   &&&= here\\
   &&&\\
-  &{\dn samaagataa.h}&sa|maa|ga|taa|.h(aa)&together\\
+  &{\dn samaagataa.h}&\multicolumn{2}{l}{sa|maa|ga|taa|.h(aa)}\\
+  &&&\\
+  &&&joined; assembled; together\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn samaagata.h} = samaagata.h}\\
   \hline
   &&&\\
-  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&Dh.rtaraa.s.tra's son's\\
-  &&&\\
-  &{\dn durbuddher}&dur|bud|dher&dur + buddhi.h\\
-  &&&= {\dn dur} + {\dn buddhi.h}\\
-  &&&= bad + mind\\
-  \hline
-  &&&\\
-  2b&{\dn yuddhepriyacikiir.sava.h}&yud|dhe|&in a/the fight\\
-  &&&\\
-  &&pri|ya|&priya.h\\
-  &&&= {\dn priya.h}\\
-  &&&= loved\\
-  &&&\\
-  &&ci|kiir|.sa|va|.h(a)&wishing (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) I see fighters, these who are here together, for
-Dh.rtaraa.s.tra's son's bad mind, loving and wishing to be in a fight.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item (?) Male noun: {\dn yotsyamaana.h} = yotsyamaana.h = fighter.
-
-  Plus plural form and \accusativecase: {\dn yotsyamaanaan} = yotsyamaanaan = fighters.
-
-\item Verb: {\dn avek.s} = avek.s = to see.
-
-  Plus present tense and first person form and singular form:
-
-  {\dn avek.se} = avek.se = (I) see.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form: {\dn ete} = ete = these.
-
-\item Male adjective: {\dn samaagata.h} = samaagata.h = together.
-
-  Plus plural form: {\dn samaagataa.h} = samaagataa.h = together.
-
-\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
-
-  Plus \genitivecase: {\dn dhaartaraa.s.trasya} = dhaartaraa.s.trasya = Dh.rtaraa.s.tra's son's.
-
-\item Female adjective: {\dn dur} = dur = bad.
-
-\item Female noun: {\dn buddhi.h} = buddhi.h = mind.
-
-\item Neuter noun: {\dn yuddham} = yuddham = fight.
-
-  Plus \locativecase: {\dn yuddhe} = yuddhe = in a/the fight.
-
-\item Male adjective: {\dn priya.h} = priya.h = loved.
-
-\item Verb: {\dn cikiir.saa} = cikiir.saa = wish.
-
-  (?) Plus change: {\dn cikiir.sava.h} = cikiir.sava.h = wishing.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&of a son of Dh.rtaraa.s.tra\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
+  &&&\\
+  &{\dn durbuddheryuddhe}&dur|&(?) dur = {\dn dur} = bad; difficult; wicked\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&bud|dher&buddhi.h\\
+  &&&= {\dn buddhi.h}\\
+  &&&= knowledge; mind; intelligence\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  &&yud|dhe|&at/in/on a/the war; battle; fight\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn yuddham} = yuddham}\\
+  &&&\\
+  2b&{\dn priyacikiir.sava.h}&pri|ya|&priya\\
+  &&&= {\dn priya}\\
+  &&&= loved; favorite; dear\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ci|kiir|.sa|va|.h(a)&(?)\\
+  &&&\note{similar: \noun, \female, {\dn cikiir.saa} = cikiir.saa}\\
+  &&&\note{= desire; wish; intention}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 24}
