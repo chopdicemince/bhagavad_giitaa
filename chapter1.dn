@@ -1558,7 +1558,7 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
   &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   1a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
   &&&= of two armies; at/in/on two armies\\
@@ -1574,7 +1574,7 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
   &&ma|dhye&between\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   1b&{\dn ratha.m}&ra|tha.m&chariot; cart; warrior\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn ratha.h} = ratha.h}\\
@@ -1598,7 +1598,7 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
   &&&\\
 \end{tabular}
 \newpage
-% --------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat = {\dn yaavat} = while\\
   &&&\\
@@ -1615,7 +1615,7 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
   &&&\note{\pronoun, \firstperson}\\
   \hline
   &&&\\
-  % ------------------------------------------------------------------------------
+  % ----------------------------------------------------------------------------
   2b&{\dn yoddhukaamaanavasthitaan}&yod|dhu|&yoddham\\
   &&&= {\dn yoddham}\\
   &&&= fight\\
@@ -1635,61 +1635,50 @@ K.r.s.na), while I see these with fight-desires, placed, \dots\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 22}
 
+(Arjuna said to Arjuna:)\\
+
+\dots with me, to be fought, in this war, in effort.\\
+
 \begin{tabular}{llll}
   1a&{\dn kairmayaa}&kair|&kai.h\\
   &&&= {\dn kai.h}\\
-  &&&= with whom/what\\
+  &&&= (?) with whom/what\\
+  &&&\note{\pronoun, \male, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn ka.h} = ka.h = who/what}\\
   &&&\\
-  &&ma|yaa&with me\\
+  &&ma|yaa&using/by me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn saha}&sa|ha&with\\
   &&&\\
-  &{\dn yoddhavyamasminra.nasamudyame}&yod|dha|vya|&yoddhavyam\\
+  &\multicolumn{3}{l}{\dn yoddhavyamasminra.nasamudyame}\\
+  &&&\\
+  &&yod|dha|vya|&yoddhavyam\\
   &&&= {\dn yoddhavyam}\\
-  &&&= something that needs\\
-  &&&\quad fighting against (?)\\
+  &&&= (?) to be fought\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn yoddhavya.h} = yoddhavya.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&&mas|min|&asmin\\
   &&&= {\dn asmin}\\
-  &&&= in this\\
+  &&&= at/in/on this\\
+  &&&\note{\pronoun, \male, \locativecase}\\
   &&&\\
-  &&ra|.na|&war\\
+  &&ra|.na|&ra.nam\\
+  &&&= {\dn ra.nam}\\
+  &&&= war; fight; battlefield\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sa|mu|dya|me&in effort\\
+  &&sa|mu|dya|me&at/in/on effort; exertion; endeavor\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn samudyama.h} = samudyama.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) \dots, with me, whom I need to fight, in this war, in
-effort.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male pronoun: {\dn ka.h} = ka.h = who/what.
-
-  Plus plural form and \instrumentalcase: {\dn kai.h} = kai.h = with whom/what.
-
-\item First-person pronoun: {\dn aham} = aham = I.
-
-  Plus \instrumentalcase: {\dn mayaa} = mayaa = with me.
-
-\item Neuter noun: {\dn yoddham} = yoddham = fight.
-
-  Adjective: {\dn yoddhavya} = yoddhavya = ``needs fighting against.''
-
-  (?) Plus \accusativecase: {\dn yoddhavyam} = yoddhavyam = something that needs fighting against.
-
-\item Neuter noun: {\dn ra.nam} = ra.nam = war.
-
-\item Male noun: {\dn samudyama.h} = samudyama.h = effort.
-
-  Plus \locativecase: {\dn samudyame} = samudyame = in effort.
-
-\end{itemize}
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 23}
