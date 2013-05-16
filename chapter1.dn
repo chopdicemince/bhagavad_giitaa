@@ -1546,101 +1546,91 @@ said this group of words, O great master.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 21}
 
+Arjuna said: Between the two armies, stop my chariot, O Permanent (O
+K.r.s.na), while I see these with fight-desires, placed, \dots\\
+
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
-  1a&{\dn senayorubhayprmadhye}&se|na|yo|&senayo.h\\
+  % ------------------------------------------------------------------------------
+  1a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= two armies'\\
+  &&&= of two armies; at/in/on two armies\\
+  &&&\note{from {\dn senaa} = senaa}\\
+  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
   &&&\\
   &&ru|bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= both things'\\
+  &&&= of two things; at/in/on two things\\
+  &&&\note{\pronoun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ma|dhye&between\\
-  &&&\\
-  1b&{\dn ratha.m}&ra|tha.m&chariot\\
-  &&&\\
-  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu\\
-  &&&= {\dn sthaapayatu}\\
-  &&&= stop\\
-  &&&\\
-  &{\dn me.acyuta}&me|&my\\
-  &&&\\
-  &&'cyu|ta&acyuta\\
-  &&&= {\dn acyuta}\\
-  &&&= O Permanent\\
-  &&&(O K.r.s.na)\\
   \hline
   &&&\\
+  % ------------------------------------------------------------------------------
+  1b&{\dn ratha.m}&ra|tha.m&chariot; cart; warrior\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn ratha.h} = ratha.h}\\
+  &&&\\
+  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu = {\dn sthaapayatu} = (you) stop\\
+  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{root: {\dn sthaa} = sthaa}\\
+  &&&\\
+  &{\dn me.acyuta}&me|&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson, \singular,}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &&'cyu|ta&acyuta = {\dn acyuta} = O Permanent = O K.r.s.na\\
+  &&&\note{\adjective, \male, \vocativecase}\\
+  &&&\note{from {\dn acutya.h} = acyuta.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn cyuta.h} = cyuta.h}\\
+  &&&\note{= disappeared; gone; moved}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% --------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat = {\dn yaavat} = while\\
   &&&\\
-  &&de|taan|&etaan = {\dn etaan} = these\\
+  &&de|taan|&etaan = {\dn etaan} = these/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
-  &&ni|riik|.se|&see\\
+  &&ni|riik|.se|&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn niriik.sate} = niriik.sate = (he/she/it) sees}\\
+  &&&\note{root: {\dn niriik.s} = niriik.s}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  \hline
   &&&\\
+  % ------------------------------------------------------------------------------
   2b&{\dn yoddhukaamaanavasthitaan}&yod|dhu|&yoddham\\
   &&&= {\dn yoddham}\\
   &&&= fight\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kaa|maa|&want\\
+  &&kaa|maa|na|&sexual love; desire; love\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
-  &&na|va|sthi|taan&avisthitaan\\
+  &&va|sthi|taan&avisthitaan\\
   &&&= {\dn avisthitaan}\\
-  &&&= placed\\
+  &&&= ready; placed; standing\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn avasthita.h} = avasthita.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Arjuna said: Between the two armies, stop my chariot, O Permanent (O
-K.r.s.na), while I see these who have a want to fight, who were placed
-here, \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female noun: {\dn senaa} = senaa = army.
-
-  Plus dual form and \genitivecase: {\dn senayo.h} = senayo.h = two armies'.
-
-\item Female pronoun: {\dn ubhayaa} = ubhayaa = both.
-
-  Plus dual form and \genitivecase: {\dn ubhayo.h} = ubhayo.h = both things'.
-
-\item Male noun: {\dn ratha.h} = ratha.h = chariot.
-
-  Plus \accusativecase: {\dn ratham} = ratham = chariot.
-
-\item Verb: {\dn sthaa} = sthaa = to stop.
-
-  Plus imperative tense and singular form: {\dn sthaapayatu} = sthaapayatu = stop.
-
-\item Male adjective: {\dn acyuta.h} = acyuta.h = permanent.
-
-  Plus \vocativecase: {\dn acyuta} = acyuta = O Permanent.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
-
-\item Verb: {\dn niriik.se} = niriik.se = to see.
-
-\item Neuter noun: {\dn yoddham} = yoddham = fight.
-
-\item Female noun: {\dn kaamaa} = kaamaa = want.
-
-\item Male pronoun: {\dn avasthita.h} = avasthita.h = placed.
-
-  Plus plural form and \accusativecase: {\dn avasthitaan} = avasthitaan = placed.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 22}
