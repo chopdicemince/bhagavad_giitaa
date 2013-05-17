@@ -1837,92 +1837,76 @@ K.r.s.na having stopped the best chariot.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 25}
 
+In front of Bhii.sma, Dro.na, and all world inhabitants, K.r.s.na
+said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
+
 \begin{tabular}{llll}
   1a&{\dn bhii.smadro.napramukhata.h}&bhii.s|ma|&Bhii.sma\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&dro|.na|&Dro.na\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&pra|mu|kha|ta|.h(a)&in front of\\
   \hline
   &&&\\
-  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&all\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&(?) all\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn mahiik.sitaam}&ma|hii|&world\\
+  &{\dn mahiik.sitaam}&ma|hii|&{\dn mahii}\\
+  &&&= earth; space; world\\
+  &&&\note{\noun, \female}\\
   &&&\\
-  &&k.si|taam&k.sitaan\\
+  &&k.si|taam&(?) k.sitaan\\
   &&&= {\dn k.sitaan}\\
   &&&= inhabitants\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn k.sit} = k.sit}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn vad} = vad}\\
   &&&\\
   &{\dn paartha}&paar|tha&O son of P.rthaa\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn pa"syaitaansamavetaankuruuniti}&pa"s|yai|&pa"syatu\\
   &&&= {\dn pa"syatu}\\
-  &&&= see\\
+  &&&= (you) see\\
+  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&taan|&etaan\\
   &&&= {\dn etaan}\\
-  &&&= these\\
+  &&&= these/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
-  2b&&sa|ma|ve|taan|&all\\
+  % ----------------------------------------------------------------------------
+  2b&&sa|ma|ve|taan|&{\dn samavetaan}\\
+  &&&= together; united; assembled\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn samaveta.h} = samaveta.h}\\
   &&&\\
   &&ku|ruu|&kuruun\\
   &&&= {\dn kuruun}\\
   &&&= Kurus\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn kuru.h} = kuru.h}\\
   &&&\\
   &&ni|ti&iti\\
   &&&= {\dn iti}\\
   &&&= ``end of a quote''\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-In front of Bhii.sma, Dro.na, and all world inhabitants, K.r.s.na
-said, ``O son of P.rthaa, see all these Kurus.''
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Female noun: {\dn mahii} = mahii = world.
-
-\item (?) Male noun: {\dn k.sita.h} = k.sita.h = inhabitant.
-
-  Plus plural form and \accusativecase: {\dn k.sitaan} = k.sitaan = inhabitants.
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Male noun: {\dn paartha.h} = paartha.h = son of P.rthaa.
-
-  Plus \vocativecase: {\dn paartha} = paartha = O son of P.rthaa.
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus imperative tense and singular form: {\dn pa"syatu} = pa"syatu = see.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
-
-\item Male adjective: {\dn samaveta.h} = samaveta.h = all.
-
-  Plus plural form and \accusativecase: {\dn samavetaan} = samavetaan = all.
-
-\item Male noun: {\dn kuru.h} = kuru.h = Kuru.
-
-  Plus plural form and \accusativecase: {\dn kuruun} = kuruun = Kurus.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 26 (first half)}
