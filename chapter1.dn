@@ -1761,90 +1761,78 @@ with a dear wish.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 24}
 
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+
+Thus, (these words were) said to K.r.s.na by Arjuna, O descendant of
+Bharata (O King Dh.rtaraa.s.tra), between the two armies, with
+K.r.s.na having stopped the best chariot.\\
+
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn evamukto}&e|va|&evam = {\dn evam} = thus\\
   &&&\\
   &&muk|to&ukta = {\dn ukta} = said\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
   &&&= {\dn h.r.siike"sa.h}\\
   &&&= K.r.s.na\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn gu.daake"sena}&gu|.daa|ke|"se|na&using/by Arjuna\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn gu.daake"sa.h} = gu.daake"sa.h}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= in two armies\\
+  &&&= of two armies; at/in/on two armies\\
+  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&ru|bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= in two things\\
+  &&&= of two things; at/in/on two things\\
+  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ma|dhye&between/among\\
   \hline
   &&&\\
-  2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having stopped\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having put; kept; stopped\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
-  &{\dn rathottamam}&ra|thot|&ratha.h = {\dn ratha.h} = chariot\\
+  &{\dn rathottamam}&ra|thot|&ratha.h\\
+  &&&= {\dn ratha.h}\\
+  &&&= chariot; cart; warrior\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ta|mam&uttamam\\
   &&&= {\dn uttamam}\\
   &&&= best\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn uttama.h} = uttama.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Sa\~{}njaya said: Thus, (these words were) said to K.r.s.na by Arjuna,
-O descendant of Bharata (O King Dh.rtaraa.s.tra), with K.r.s.na having
-stopped the best chariot between the two armies.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-  Or plus past participle: {\dn ukta} = ukta = said.
-
-\item Male noun: {\dn h.r.siike"sa.h} = h.r.siike"sa.h = K.r.s.na.
-
-\item Male noun: {\dn gu.daake"sa.h} = gu.daake"sa.h = Arjuna.
-
-  Plus \instrumentalcase: {\dn gu.daake"sena} = gu.daake"sena = using/by Arjuna.
-
-\item Male noun: {\dn bhaarata.h} = bhaarata.h = descendant of Bharata.
-
-  Plus \vocativecase: {\dn bhaarata} = bhaarata = O descendant of Bharata.
-
-\item Female noun: {\dn senaa} = senaa = army.
-
-  Plus dual form and \locativecase: {\dn senayo.h} = senayo.h = in two armies.
-
-\item Female adjective: {\dn ubhayaa} = ubhayaa = both.
-
-  Plus dual form and \locativecase: {\dn ubhayo.h} = ubhayo.h = in two things.
-
-\item Verb: {\dn sthaa} = sthaa = to stop.
-
-  Plus perfect participle: {\dn sthaapayitvaa} = sthaapayitvaa = having stopped.
-
-\item Male noun: {\dn ratha.h} = ratha.h = chariot/warrior.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 25}
