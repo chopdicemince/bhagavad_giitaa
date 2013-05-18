@@ -2423,90 +2423,88 @@ victory, O K.r.s.na, and no kingdom, and things of happiness.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 32}
 
+(Arjuna said to K.r.s.na:)\\
+
+What (good) for us is using a kingdom, O K.r.s.na? What (good), using
+pleasures, using life, yes/no? For the sake of which ones (what
+people) is a wish for us for a kingdom, pleasures, and things of
+happiness?\\
+
 \begin{tabular}{llll}
   1a&{\dn ki.m}&ki.m&what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = to us\\
+  &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
+  &&&\note{\pronoun, \firstperson, \plural, \accusativecase,}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn raajyena}&raa|jye|na&with a/the kingdom\\
+  &{\dn raajyena}&raa|jye|na&using/by a/the kingdom; state; government\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn raajyam} = raajyam}\\
   &&&\\
   &{\dn govinda}&go|vin|da&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn govinda.h} = govinda.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn ki.m}&ki.m&what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &{\dn bhogairjiivitena}&bho|gair|&bhogai.h\\
   &&&= {\dn bhogai.h}\\
-  &&&= with pleasures\\
+  &&&= using/by pleasures; wealth; eating\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
-  &&jii|vi|te|na&with life\\
+  &&jii|vi|te|na&{\dn jiivitena}\\
+  &&&= using/by life; lifetime\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn jiivitam} = jiivitam}\\
   &&&\\
   &{\dn vaa}&vaa&(yes/no question)\\
   \hline
   &&&\\
-  2a&{\dn ye.saamarthe}&ye|.saa|&ye.saam\\
-  &&&= {\dn ye.saam}\\
-  &&&= of whom\\
-  &&&\\
-  &&mar|the&arthe\\
-  &&&= {\dn arthe}\\
-  &&&= for the sake of\\
-  &&&\\
-  &{\dn kaa"nk.sita.m}&kaa"nk|.si|ta.m&is wished for (?)\\
-  &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = to us\\
-  \hline
-  &&&\\
-  2b&{\dn raajya.m}&raa|jya.m&kingdom\\
-  &&&\\
-  &{\dn bhogaa.h}&bho|gaa|.h(aa)&pleasures\\
-  &&&\\
-  &{\dn sukhaani}&su|khaa|ni&things of happiness\\
-  &&&\\
-  &{\dn ca}&ca&and\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) What (use) to us (is it if we are) with a kingdom, O
-K.r.s.na, with pleasures, or with life? Of whom, for the sake of
-(whom), is a wish to us for a kingdom, pleasures, and things of
-happiness?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter pronoun: {\dn kim} = kim = what.
-
-\item Neuter noun: {\dn raajyam} = raajyam = kingdom.
-
-  Plus \instrumentalcase: {\dn raajyena} = raajyena = with a/the kingdom.
-
-\item Male noun: {\dn govinda.h} = govinda.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn govinda} = govinda = O K.r.s.na.
-
-\item Male noun: {\dn bhoga.h} = bhoga.h = pleasure.
-
-  Plus plural form and \instrumentalcase: {\dn bhogai.h} = bhogai.h = with pleasures.
-
-  Plus only plural form: {\dn bhogaa.h} = bhogaa.h = pleasures.
-
-\item Neuter noun: {\dn jiivitam} = jiivitam = life.
-
-  Plus \instrumentalcase: {\dn jiivitena} = jiivitena = with life.
-
-\item Indeclinable: {\dn arthe} = arthe = for the sake of.
-
-\item Verb: {\dn kaa"nk.s} = kaa"nk.s = to wish.
-
-\item Neuter noun: {\dn sukham} = sukham = thing of happiness.
-
-  Plus plural form: {\dn sukhaani} = sukhaani = things of happiness.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn ye.saamarthe}&ye|.saa|mar|&(?) ye.saam\\
+  &&&= {\dn ye.saam}\\
+  &&&= of ones\\
+  &&&\note{\pronoun, \plural, \genitivecase}\\
+  &&&\note{from {\dn ya.h} = ya.h = one}\\
+  &&&\\
+  &&the&arthe\\
+  &&&= {\dn arthe}\\
+  &&&= for the sake of; on behalf of\\
+  &&&\note{\suffix}\\
+  &&&\\
+  &{\dn kaa"nk.sita.m}&kaa"nk|.si|ta.m&(?)\\
+  &&&\note{similar: \noun, \female, {\dn kaa"nk.saa} = kaa"nk.saa}\\
+  &&&\note{= wish; desire}\\
+  &&&\\
+  &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
+  &&&\note{\pronoun, \firstperson, \plural, \accusativecase,}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn raajya.m}&raa|jya.m&kingdom; state; government\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn bhogaa.h}&bho|gaa|.h(aa)&pleasures; wealth; eating\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn bhoga.h} = bhoga.h}\\
+  &&&\\
+  &{\dn sukhaani}&su|khaa|ni&things of happiness\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn sukham} = sukham}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 33}
