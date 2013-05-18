@@ -1909,177 +1909,134 @@ said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 1, Verse 26 (first half)}
+\section*{Chapter 1, Verse 26}
+
+There, the prince (Arjuna) could see, standing, fathers, then paternal
+grandfathers, teachers, maternal uncles, brothers, sons, sons of sons,
+brothers of sisters of wives, fathers-in-law, and friends, really, in
+the two armies, also.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tatraapa"syatsthitaanpaartha.h}&ta|traa|&tatra\\
+  1a&\multicolumn{3}{l}{{\dn tatraapa"syatsthitaanpaartha.h}}\\
+  &&ta|traa|&tatra\\
   &&&= {\dn tatra}\\
   &&&= there\\
   &&&\\
   &&pa"s|yat|&apa"syat\\
   &&&= {\dn apa"syat}\\
-  &&&= (he/she/it) saw\\
+  &&&= (he/she/it) could see\\
+  &&&\note{\verbb, \presenttense, \conditionalmood,}\\
+  &&&\note{\thirdperson, \singular}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&sthi|taan|&standing\\
+  &&sthi|taan|&{\dn sthitaan}\\
+  &&&= present; standing; situated\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sthita.h} = sthita.h}\\
   &&&\\
-  &&paar|tha|.h(a)&prince (Arjuna)\\
+  &&paar|tha|.h(a)&{\dn paartha.h}\\
+  &&&= prince\\
+  &&&= Arjuna\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn pit.Rnatha}&pi|t.rr|na|&pit.rrn\\
   &&&= {\dn pit.Rn}\\
   &&&= fathers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
   &&tha&atha\\
   &&&= {\dn atha}\\
   &&&= then\\
   &&&\\
-  &{\dn pitaamahaan}&pi|taa|ma|haan&grandfathers\\
-  \hline
-  &&&\\
-  2a&\multicolumn{3}{l}{\dn aacaaryaanmaatulaanbhraat.Rnputraanpautraansakhii.mstathaa}\\
-  &&&\\
-  &&aa|caar|yaan|&teachers\\
-  &&&\\
-  &&maa|tu|laan|&maternal uncles\\
-  &&&\\
-  &&bhraa|t.rrn&brothers\\
+  &{\dn pitaamahaan}&pi|taa|ma|haan&paternal grandfathers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn pitaamaha.h} = pitaamaha.h}\\
   \hline
   &&&\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Translation of the first half and second half:
-
-There, standing, prince Arjuna saw fathers, then grandfathers,
-teachers, maternal uncles, brothers, sons, sons' sons,
-brothers-in-law, fathers-in-law, and friends also, in the two armies.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn apa"syat} = apa"syat = (he/she/it) saw.
-
-\item This verse lists many male adjectives and nouns in the plural form and \accusativecase. Most end in ``n.''
-
-  \begin{itemize}
-
-  \item Male adjective: {\dn sthita.h} = sthita.h = standing.
-
-    Plus plural form and \accusativecase: {\dn sthitaan} = sthitaan = standing.
-
-  \item Male noun: {\dn pit.r} = pit.r = father.
-
-     Plus \dots: {\dn pit.Rn} = pit.rrn = fathers.
-
-  \item Male noun: {\dn pitaamaha.h} = pitaamaha.h = grandfather.
-
-    Plus \dots: {\dn pitaamahaan} = pitaamahaan = grandfathers.
-
-  \item Male noun: {\dn aacaarya.h} = aacaarya.h = teacher.
-
-    Plus \dots: {\dn aacaaryaan} = aacaaryaan = teachers.
-
-  \item Male noun: {\dn maatula.h} = maatula.h = maternal uncle.
-
-    Plus \dots: {\dn maatulaan} = maatulaan = maternal uncles.
-
-  \item Male noun: {\dn bhraat.r} = bhraat.r = brother.
-
-    Plus \dots: {\dn bhraat.Rn} = bhraat.rrn = brothers.
-
-  \end{itemize}
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn aacaaryaanmaatulaanbhraat.Rnputraanpautraansakhii.mstathaa}\\
+  &&&\\
+  &&aa|caar|yaan|&{\dn aacaaryaan}\\
+  &&&= teachers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
+  &&&\\
+  &&maa|tu|laan|&{\dn maatulaan}\\
+  &&&= maternal uncles\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn maatula.h} = maatula.h}\\
+  &&&\\
+  &&bhraa|t.rrn&{\dn bhraat.Rn}\\
+  &&&= brothers\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn bhraat.r} = bhraat.r}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&pu|traan|&{\dn putraan}\\
+  &&&= sons\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn putra.h} = putra.h}\\
+  &&&\\
+  &&pau|traan|&{\dn pautraan}\\
+  &&&= sons of sons\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn pautra.h} = pautra.h}\\
+  &&&\\
+  &&sa|khii.m|&sakhiin\\
+  &&&= {\dn sakhiin}\\
+  &&&= brothers of sisters of wives\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sakhi.h} = sakhi.h}\\
+  &&&\\
+  &&sta|thaa&{\dn stathaa}\\
+  &&&= thus; likewise; so\\
+  \hline
+  &&&\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 1, Verse 26 (second half)}
-
 \begin{tabular}{llll}
-  2b&&pu|traan|&sons\\
+  3a&{\dn "sva"suraansuh.rda"scaiva}&"sva|"su|raan|&{\dn "sva"suraan}\\
+  &&&= fathers-in-law\\
   &&&\\
-  &&pau|traan|&sons' sons\\
-  &&&\\
-  &&sa|khii.ms|&sakhiin\\
-  &&&= {\dn sakhiin}\\
-  &&&= brothers-in-law\\
-  &&&\\
-  &&ta|thaa&so\\
-  \hline
-  &&&\\
-  3a&{\dn "sva"suraansuh.rda"scaiva}&"sva|"su|raan|&fathers-in-law\\
-  &&&\\
-  &&su|h.r|da"s|&suh.rda.h\\
+  &&su|h.r|da"s|&(?) suh.rda.h\\
   &&&= {\dn suh.rda.h}\\
   &&&= friends\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn suh.rt} = suh.rt}\\
   &&&\\
-  &&cai|&and\\
+  &&cai|&ca = {\dn ca} = and\\
   &&&\\
-  &&va&eva = {\dn eva} = also\\
+  &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   3b&{\dn senayorubhayorapi}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= in two armies\\
+  &&&= of two armies; at/in/on two armies\\
+  &&&\note{\noun, \female, \dual, \genitivecase,}\\
+  &&&\note{\locativecase}\\
+  &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&ru|bha|yo|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= in two things\\
+  &&&= of two things; at/in/on two things\\
+  &&&\note{\noun, \female, \dual, \genitivecase,}\\
+  &&&\note{\locativecase}\\
+  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ra|pi&api = {\dn api} = also\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-See a previous page for the translation of the first half and second
-half.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Below are male nouns in the plural form and \accusativecase.
-
-  \begin{itemize}
-
-  \item Male noun: {\dn putra.h} = putra.h = son.
-
-    Plus plural form and \accusativecase: {\dn putraan} = putraan = sons.
-
-  \item Male noun: {\dn pautra.h} = pautra.h = son's son.
-
-    Plus \dots: {\dn pautraan} = pautraan = son's sons.
-
-  \item Male noun: {\dn sakhi.h} = sakhi.h = brother-in-law.
-
-    Plus \dots: {\dn sakhiin} = sakhiin = brothers-in-law.
-
-  \item Male noun: {\dn "sva"sura.h} = "sva"sura.h = father-in-law.
-
-    Plus \dots: {\dn "sva"suraan} = "sva"suraan = fathers-in-law.
-
-  \item Male noun: {\dn suh.rta.h} = suh.rta.h = friend.
-
-    Plus \dots: {\dn suh.rda.h} = suh.rda.h = friends.
-
-  \end{itemize}
-
-\item Female noun: {\dn senaa} = senaa = army.
-
-  Plus dual form and \locativecase: {\dn senayo.h} = senayo.h = in two armies.
-
-\item Female pronoun: {\dn ubhayaa} = ubhayaa = two things.
-
-  Plus dual form and \locativecase: {\dn ubhayo.h} = ubhayo.h = in two things.
-
-\end{itemize}
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 27}
