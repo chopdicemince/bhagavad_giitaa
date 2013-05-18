@@ -2343,6 +2343,11 @@ mind wanders. And I see oppositive reasons, O K.r.s.na.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 31}
 
+(Arjuna said to K.r.s.na:)\\
+
+And I see no credit, having killed a family in a war. I wish for no
+victory, O K.r.s.na, and no kingdom, and things of happiness.\\
+
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
@@ -2350,94 +2355,70 @@ mind wanders. And I see oppositive reasons, O K.r.s.na.\\
   &&&\\
   &{\dn "sreyo.anupa"syaami}&"sre|yo|&"sreya.h\\
   &&&= {\dn "sreya.h}\\
-  &&&= credit\\
+  &&&= credit; confidence; trust\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&'nu|pa"s|yaa|mi&(I) see\\
+  &&'nu|pa"s|yaa|mi&anupa"syaami\\
+  &&&= {\dn anupa"syaami}\\
+  &&&= (I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn anud.r.s} = anud.r.s}\\
   \hline
   &&&\\
-  1b&{\dn hatvaa}&hat|vaa&hatyaa\\
-  &&&= {\dn hatyaa}\\
-  &&&= killing\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn hatvaa}&hat|vaa&(?) hatvaa\\
+  &&&= {\dn hatvaa}\\
+  &&&= having wounded; hit; killed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn svajanamaahave}&sva|ja|na|&svajanam\\
+  &{\dn svajanamaahave}&sva|ja|na|maa|&svajanam\\
   &&&= {\dn svajanam}\\
-  &&&= group of relatives\\
+  &&&= family; relative\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
-  &&maa|ha|ve&in a/the war\\
+  &&ha|ve&aahave\\
+  &&&= {\dn aahave}\\
+  &&&= at/in/on a/the war\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn aahavam} = aahavam}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn na}&na&not\\
   &&&\\
-  &{\dn kaa"nk.se}&kaa"nk|.se&(I) wish\\
+  &{\dn kaa"nk.se}&kaa"nk|.se&(I) wish; wait for; desire\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn kaa"nk.s} = kaa"nk.s}\\
   &&&\\
   &{\dn vijaya.m}&vi|ja|ya.m&victory\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn vijaya.h} = vijaya.h}\\
   &&&\\
   &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&{\dn na}&na&not\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn raajya.m}&raa|jya.m&kingdom\\
+  &{\dn raajya.m}&raa|jya.m&kingdom; state; government\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{from {\dn raajyam} = raajyam}\\
   &&&\\
   &{\dn sukhaani}&su|khaa|ni&things of happiness\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&and\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) And I see no credit in killing a group of relatives in
-a war. I wish for no victory, O K.r.s.na, and no kingdom, and no
-things of happiness.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn "sreya.h} = "sreya.h = credit.
-
-\item Verb: {\dn anupa"s} = anupa"s = to see.
-
-  ({\dn anupa"s} = anupa"s = {\dn anu} + {\dn pa"s} = anu + pa"s = over + see.)
-
-  Plus present tense and first person and singular form:
-
-  {\dn anupa"syaami} = anupa"syaami = (I) see.
-
-\item Female noun: {\dn hatyaa} = hatyaa = killing.
-
-\item Male noun: {\dn svajana.h} = svajana.h = group of relatives.
-
-  Plus \accusativecase: {\dn svajanam} = svajanam = group of relatives.
-
-\item Neuter noun: {\dn aahavam} = aahavam = war.
-
-  Plus \locativecase: {\dn aahave} = aahave = in a/the war.
-
-\item Verb: {\dn kaa"nk.s} = kaa"nk.s = to wish.
-
-  Plus present tense and first person and singular form:
-
-  {\dn kaa"nk.se} = kaa"nkse = (I) wish.
-
-\item Male noun: {\dn vijaya.h} = vijaya.h = victory.
-
-  Plus \accusativecase: {\dn vijayam} = vijayam = victory.
-
-\item Male noun: {\dn k.r.s.na.h} = k.r.s.na.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn k.r.s.na} = k.r.s.na = O K.r.s.na.
-
-\item Neuter noun: {\dn raajyam} = raajyam = kingdom.
-
-\item Neuter noun: {\dn sukham} = sukham = thing of happiness.
-
-  Plus plural form: {\dn sukhaani} = sukhaani = things of happiness.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 32}
