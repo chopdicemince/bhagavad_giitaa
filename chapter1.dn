@@ -2198,91 +2198,75 @@ ready, my arms and legs weaken, and my mouth dries up.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 29}
 
+(Arjuna said:)\\
+
+And a trembling is on my body. And a standing up of my hairs is being
+born. My bow slips from my hand. And my skin really burns.\\
+
 \begin{tabular}{llll}
   1a&{\dn vepathu"sca}&ve|pa|thu"s|&vepathu.h\\
   &&&= {\dn vepathu.h}\\
   &&&= trembling\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn "sariire}&"sa|rii|re&on a/the body\\
+  &{\dn "sariire}&"sa|rii|re&at/in/on a/the body\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn "sariiram} = "sariiram}\\
   &&&\\
-  &{\dn me}&me&my\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson, \dativecase,}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{from {\dn aham} = aham}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn romahar.sa"sca}&ro|ma|har|.sa"s|&romahar.sa.h\\
   &&&= {\dn romahar.sa.h}\\
-  &&&= act of hairs standing up\\
+  &&&= standing up of hairs\\
   &&&= goose pimples\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
   &&&\\
-  &{\dn jaayate}&jaa|ya|te&is being born\\
-  &&&= is happening\\
+  &{\dn jaayate}&jaa|ya|te&(he/she/it) is being born; is happening\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn jan} = jan}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn gaa.n.diiva.m}&gaa.n|.dii|va.m&bow (in archery)\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn gaa.n.diiva.h} = gaa.n.diiva.h}\\
   &&&\\
-  &{\dn sra.msate}&sra.m|sa|te&slips\\
+  &{\dn sra.msate}&sra.m|sa|te&(he/she/it) slips\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn sra.ms} = sra.ms}\\
   &&&\\
-  &{\dn hastaattvakcaiva}&has|taat|&from a/the hand\\
+  &{\dn hastaattvakcaiva}&has|taat|&{\dn hastaat}\\
+  &&&= from a/the hand\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{from {\dn hasta.h} = hasta.h}\\
   \hline
   &&&\\
-  &&tvak|&{\dn tvac}\\
+  % ----------------------------------------------------------------------------
+  2b&&tvak|&tvac\\
   &&&= {\dn tvac}\\
   &&&= skin\\
+  &&&\note{\noun, \female}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   &&&\\
-  &{\dn paridahyate}&pa|ri|da|hya|te&burns\\
+  &{\dn paridahyate}&pa|ri|da|hya|te&(he/she/it) burns\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn paridah} = paridah}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) A trembling on my body and an act of hairs standing up
-are happening. Gaa.n.diiva (my bow) slips from my hand, and my skin
-really burns.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn vepathu.h} = vepathu.h = trembling.
-
-\item Neuter noun: {\dn "sariiram} = "sariiram = body.
-
-  Plus \locativecase: {\dn "sariire} = "sariire = on a/the body.
-
-\item Male noun: {\dn romahar.sa.h} = romahar.sa.h = act of hairs standing up = goose pimples.
-
-\item Verb: {\dn jan} = jan = to be born.
-
-  Plus present tense and third person form and singular form: {\dn jaayate} = jaayate = (he/she/it) is being born = (he/she/it) is happening.
-
-\item Male noun: {\dn gaa.n.diiva.h} = gaa.n.diiva.h = bow (in archery).
-
-  Plus \accusativecase: {\dn gaa.n.diivam} = gaa.n.diivam = bow (in archery).
-
-  Note: {\dn gaa.n.diiva.h} = gaa.n.diiva.h can also mean the bow (in archery) of Arjuna.
-
-\item Verb: {\dn sra.ms} = sra.ms = to slip.
-
-  Plus present tense and third person form and singular form: {\dn sra.msate} = sra.msate = (he/she/it) slips.
-
-\item Male noun: {\dn hasta.h} = hasta.h = hand.
-
-  Plus \ablativecase: {\dn hastaat} = hastaat = from a/the hand.
-
-\item Female noun: {\dn tvac} = tvac = skin.
-
-\item Verb: {\dn paridah} = paridah = to burn.
-
-  Plus present tense and third person form and singular form: {\dn paridahyate} = paridahyate = (he/she/it) burns.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 30}
