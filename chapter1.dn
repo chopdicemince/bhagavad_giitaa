@@ -2590,109 +2590,83 @@ and paternal grandfathers.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 34}
 
+(Arjuna said to K.r.s.na:)\\
+
+Maternal uncles, fathers-in-law, sons of sons, brothers of wives,
+relatives, likewise---these, I do not like to kill, killing also, O
+Madhu killing (O K.r.s.na).\\
+
 \begin{tabular}{llll}
   1a&{\dn maatulaa.h}&maa|tu|laa|.h(aa)&maternal uncles\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn maatula.h} = maatula.h}\\
   &&&\\
   &{\dn "sva"suraa.h}&"sva|"su|raa|.h(aa)&fathers-in-law\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn "sva"sura.h} = "sva"sura.h}\\
   &&&\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a+&{\dn pautraa.h}&pau|traa|.h(aa)&sons of sons\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn pautra.h} = pautra.h}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn "syaalaa.h}&"syaa|laa|.h(aa)&brothers of wives\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn "syaala.h} = "syaala.h}\\
   &&&\\
-  &{\dn sambandhinastathaa}&sam|ban|dhi|nas|&sambandhina.h\\
+  &{\dn sambandhinastathaa}&sam|ban|dhi|na|&(?) sambandhina.h\\
   &&&= {\dn sambandhina.h}\\
-  &&&= relative\\
+  &&&= relatives\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn sambandhin} = sambandhin}\\
   &&&\\
-  &&ta|thaa&so\\
+  &&sta|thaa&tathaa\\
+  &&&= {\dn tathaa}\\
+  &&&= likewise; so; thus\\
   \hline
   &&&\\
-  2a&{\dn etaanna}&e|taan|&etaani = {\dn etaani} = these\\
-  &&&\\
-  &&na&not\\
-  &&&\\
-  &{\dn hantumicchaami}&han|tu|&hantum\\
-  &&&= {\dn hantum}\\
-  &&&= killing\\
-  &&&\\
-  &&mic|chaa|mi&icchaami\\
-  &&&= {\dn icchaami}\\
-  &&&= (I) like\\
-  \hline
-  &&&\\
-  2b&{\dn ghnato.api}&ghna|to|&killing\\
-  &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\\
-  &{\dn madhusuudana}&ma|dhu|suu|da|na&O Madhu killer\\
-  &&&= O K.r.s.na\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) Maternal uncles, fathers-in-law, sons of sons, brothers
-of wives, a relative---so, these I do not like killing also, O Madhu
-killer (O K.r.s.na).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item If you chant line 1a and line 1a+ without pronouncing the
-  ``.h(aa)'' parts, then these two lines fit one of the Gita
-  melodies. However, if you pronounce the ``.h(aa)'' parts, then line
-  1a+ does not fit the melody.
-
-\item Male noun: {\dn maatula.h} = maatula.h = maternal uncle.
-
-  Plus plural form: {\dn maatulaa.h} = maatulaa.h = maternal uncles.
-
-\item Male noun: {\dn "sva"sura.h} = "sva"sura.h = father-in-law.
-
-  Plus plural form: {\dn "sva"suraa.h} = "sva"suraa.h = fathers-in-law.
-
-\item Male noun: {\dn pautra.h} = pautra.h = son of a son.
-
-  Plus plural form: {\dn pautraa.h} = pautraa.h = sons of sons.
-
-\item Male noun: {\dn "syaala.h} = "syaala.h = brother of a wife.
-
-  Plus plural form: {\dn "syaalaa.h} = "syaalaa.h = brothers of wives.
-
-\item Male noun: {\dn sambandhina.h} = sambandhina.h = relative.
-
-\item Neuter pronoun: {\dn etat} = etat = this.
-
-  Plus plural form: {\dn etaani} = etaani = these.
-
-\item Male noun: {\dn hantu.h} = hantu.h = killing.
-
-  Plus \accusativecase: {\dn hantum} = hantum = killing.
-
-\item Verb: {\dn i.s} = i.s = to like.
-
-  Plus present tense and first person and singular form:
-
-  {\dn icchaami} = icchaami = (I) like.
-
-\item Male (?) noun: {\dn ghnata.h} = ghnata.h = killing.
-
-\item Male noun: {\dn madhusuudana.h} = madhusuudana.h = Madhu killer = K.r.s.na.
-
-  Plus \vocativecase: {\dn madhusuudana} = madhusuudana = O Madhu killer = O K.r.sna.
-
-  K.r.s.na killed a demon named Madhu (``honey'').
-
-  Neuter noun: {\dn madhum} = madhum = honey.
-
-  Neuter noun: {\dn suudanam} = suudanam = killing.
-
-  (?) Plus change: {\dn suudana.h} = suudana.h = killer.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn etaanna}&e|taan|&etaan = {\dn etaan} = these/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\\
+  &&na&not\\
+  &&&\\
+  &{\dn hantumicchaami}&han|tu|mic|&(?) hantum\\
+  &&&= {\dn hantum}\\
+  &&&= to kill\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\\
+  &&chaa|mi&icchaami\\
+  &&&= {\dn icchaami}\\
+  &&&= (I) like; wish; desire\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn i.s} = i.s}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn ghnato.api}&ghna|to|&(?) ghnata.h\\
+  &&&= {\dn ghnata.h}\\
+  &&&= killing; destroying; hitting\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'pi&api = {\dn api} = also\\
+  &&&\\
+  &{\dn madhusuudana}&ma|dhu|suu|da|na&O Madhu killing\\
+  &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn madhusuudana.h} = madhusuudana.h}\\
+  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
+  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
+  &&&\note{K.r.s.na killed a demon named ``Madhu''}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 35}
