@@ -2125,94 +2125,75 @@ sadness, he said this: \dots\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 28}
 
+Arjuna said: Having seen this family, O K.r.s.na, wanting to fight and
+ready, my arms and legs weaken, and my mouth dries up.\\
+
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn vad} = vad}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1a&{\dn d.r.s.tvema.m}&d.r.s.t|ve|&d.r.s.tvaa\\
   &&&= {\dn d.r.s.tvaa}\\
   &&&= having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&ma.m&{\dn ma.m} = this\\
+  &&ma.m&{\dn ima.m} = this\\
+  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &{\dn svajana.m}&sva|ja|na.m&group of relatives\\
+  &{\dn svajana.m}&sva|ja|na.m&family; relative\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
   &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   \hline
   &&&\\
-  1b&{\dn yuyutsu.m}&yu|yut|su.m&wanting to fight\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn yuyutsu.m}&yu|yut|su.m&(?) wanting to fight\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn yuyutsu.h} = yuyutsu.h}\\
   &&&\\
-  &{\dn samupasthitam}&sa|mu|pas|thi|tam&acquired\\
+  &{\dn samupasthitam}&sa|mu|pas|thi|tam&attained; ready; started\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn samupasthita.h} = samupasthita.h}\\
   \hline
   &&&\\
-  2a&{\dn siidanti}&sii|dan|ti&(they) weaken\\
-  &&&\\
-  &{\dn mama}&ma|ma&my\\
-  &&&\\
-  &{\dn gaatraa.ni}&gaa|traa|.ni&arms and legs\\
-  \hline
-  &&&\\
-  2b&{\dn mukha.m}&mu|kha.m&mouth\\
-  &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\\
-  &{\dn pari"su.syati}&pa|ri|"su|.sya|ti&(he/she/it) dries up\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Arjuna said: Having seen this group of relatives, O K.r.s.na, wanting
-to fight and acquired, (I have the following feelings:) my arms and
-legs weaken, and my mouth dries up.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn vaktum} = vaktum = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn uvaaca} = uvaaca = (he/she/it) said.
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus perfect participle: {\dn d.r.s.tvaa} = d.r.s.tvaa = having seen.
-
-\item Male noun: {\dn svajana.h} = svajana.h = group of relatives.
-
-  Plus \accusativecase: {\dn svajanam} = svajanam = group of relatives.
-
-\item Male noun: {\dn k.r.s.na.h} = k.r.s.na.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn k.r.s.na} = k.r.s.na = O K.r.s.na.
-
-\item Male adjective: {\dn yuyutsu} = yuyutsu = wanting to fight.
-
-  Plus \accusativecase: {\dn yuyutsum} = yuyutsum = wanting to fight.
-
-\item Male adjective: {\dn samupasthita} = samupasthita = acquired.
-
-  Plus \accusativecase: {\dn samupasthitam} = samupasthitam = acquired.
-
-\item Verb: {\dn sad} = sad = to weaken.
-
-  Plus present tense and third person form and plural form: {\dn siidanti} = siidanti = (they) weaken.
-
-\item Neuter noun: {\dn gaatram} = gaatram = arm or leg; limb.
-
-  Plus plural form: {\dn gaatraa.ni} = gaatraa.ni = arms or legs; limbs.
-
-\item Neuter noun: {\dn mukham} = mukham = mouth.
-
-\item Verb: {\dn pari"su.s} = to dry up.
-
-  Plus present tense and third person form and singular form: {\dn pari"su.syati} = pari"su.syati = (he/she/it) dries up.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn siidanti}&sii|dan|ti&(they) sit; sink; weaken\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn sad} = sad}\\
+  &&&\\
+  &{\dn mama}&ma|ma&of me (my)\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn gaatraa.ni}&gaa|traa|.ni&bodies; arms and legs\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn gaatram} = gaatram}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn mukha.m}&mu|kha.m&mouth; face; important part\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn pari"su.syati}&pa|ri|"su|.sya|ti&(he/she/it) dries up; shrivels; withers\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn pari"su.s} = pari"su.s}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 29}
