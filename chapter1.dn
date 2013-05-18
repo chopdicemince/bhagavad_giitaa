@@ -2041,105 +2041,86 @@ the two armies, also.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 27}
 
+Those, \dots were seen cautiously (?) \dots by that son (Arjuna) of
+Kuntii---all relatives, standing. By the most compassion, filled with
+sadness, he said this: \dots\\
+
 \begin{tabular}{llll}
-  1a&{\dn taansamiik.sya}&taan|&those\\
+  1a&{\dn taansamiik.sya}&taan|&{\dn taan}\\
+  &&&= those/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &&sa|miik|.sya&having seen carefully (?)\\
+  &&sa|miik|.sya&(?) {\dn samiik.sya}\\
+  &&&= cautiously\\
+  &&&\note{\adverb}\\
   &&&\\
   &{\dn sa}&sa&sa.h\\
   &&&= {\dn sa.h}\\
-  &&&= he/that\\
+  &&&= that/he\\
+  &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii: Arjuna\\
+  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii\\
+  &&&= Arjuna\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
-  1b&{\dn sarvaanbandhuunavasthitaan}&sar|vaan|&all\\
+  % ----------------------------------------------------------------------------
+  1b&\multicolumn{3}{l}{{\dn sarvaanbandhuunavasthitaan}}\\
+  &&&\\
+  &&sar|vaan|&{\dn sarvaan}\\
+  &&&= each; all\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &&ban|dhuu|na|&bandhuun\\
   &&&= {\dn bandhuun}\\
-  &&&= relatives\\
+  &&&= relatives; friends\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn bandhu.h} = bandhu.h}\\
   &&&\\
   &&va|sthi|taan&avasthitaan\\
   &&&= {\dn avasthitaan}\\
-  &&&= standing\\
+  &&&= standing; ready; placed\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn avasthita.h} = avasthita.h}\\
   \hline
   &&&\\
-  2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by compassion\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by favor; grace; compassion\\
   &&&= ``please''\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn k.rpaa} = k.rpaa}\\
   &&&\\
-  &{\dn parayaavi.s.to}&pa|ra|yaa|&using/by a/the\\
-  &&&\quad most important thing\\
+  &{\dn parayaavi.s.to}&pa|ra|yaa|&{\dn parayaa}\\
+  &&&= using/by a/the most important thing\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn paraa} = paraa}\\
   &&&\\
   &&vi.s|.to&aavi.s.ta.h\\
   &&&= {\dn aavi.s.ta.h}\\
-  &&&= filled\\
+  &&&= entered; filled\\
+  &&&\note{\adjective, \male}\\
   \hline
   &&&\\
-  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&sadness (?)\\
+  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&(?) {\dn vi.siidan}\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn vi.siidati} = vi.siidati = (he/she/it) is sad}\\
+  &&&\note{root: {\dn vi.sad} = vi.sad}\\
   &&&\\
   &&ni|da|ma|&idam\\
   &&&= {\dn idam}\\
   &&&= this\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&bra|viit&abraviit\\
+  &&bra|viit&(?) abraviit\\
   &&&= {\dn abraviit}\\
   &&&= (he/she/it) said\\
+  &&&\note{root: {\dn bruu} = bruu}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Those, having been seen carefully by that son of Kuntii, Arjuna---all
-relatives, standing, were seen by him---by the most compassion, filled
-with sadness, he said this: \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male pronoun: {\dn sa.h} = sa.h = that.
-
-  Plus plural form and \accusativecase: {\dn taan} = taan = those.
-
-\item Verb: {\dn samiik.s} = samiik.s = to see carefully.
-
-  (?) Plus perfect participle: {\dn samiik.sya} = samiik.sya = having seen carefully.
-
-\item Male pronoun, in plural form: {\dn sarva.h} = sarva.h = all.
-
-  Plus \accusativecase: {\dn sarvaan} = sarvaan = all.
-
-\item Male noun: {\dn bandhu.h} = bandhu.h = relative.
-
-  Plus plural form and \accusativecase: {\dn bandhuun} = bandhuun = relatives.
-
-\item Male adjective: {\dn avasthita.h} = avasthita.h = standing.
-
-  Plus plural form and \accusativecase: {\dn avasthitaan} = avasthitaan = standing.
-
-\item Female noun: {\dn k.rpaa} = k.rpaa = compassion.
-
-  Plus \instrumentalcase: {\dn k.rpayaa} = k.rpayaa = using/by compassion = ``please.''
-
-\item Female noun: {\dn paraa} = paraa = most important thing.
-
-  Plus \instrumentalcase: {\dn parayaa} = parayaa = using/by a/the most important thing.
-
-\item Male adjective: {\dn aavi.s.ta.h} = aavi.s.ta.h = filled.
-
-\item Verb: {\dn vi.sad} = vi.sad = to be sad.
-
-  (?) Plus noun form: {\dn vi.siidan} = vi.siidan = sadness.
-
-\item Neuter pronoun: {\dn idam} = idam = this.
-
-\item Verb: {\dn bruu} = bruu = to say.
-
-  Plus past tense and third person form and singular form:
-
-  {\dn abraviit} = abraviit = (he/she/it) said.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 28}
