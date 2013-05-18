@@ -2271,6 +2271,11 @@ born. My bow slips from my hand. And my skin really burns.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 30}
 
+(Arjuna said to K.r.s.na:)\\
+
+And I am not able to be fixed (steady; stable). And it is as if my
+mind wanders. And I see oppositive reasons, O K.r.s.na.\\
+
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
   &&&\\
@@ -2278,75 +2283,62 @@ born. My bow slips from my hand. And my skin really burns.\\
   &&&\\
   &{\dn "saknomyavasthaatu.m}&"sak|no|mya|&"saknomi\\
   &&&= {\dn "saknomi}\\
-  &&&= (I am) able\\
+  &&&= (I) can; am able\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn "sak} = "sak}\\
   &&&\\
-  &&vas|thaa|tu.m&avasthaatu.m\\
+  &&vas|thaa|tu.m&(?) avasthaatu.m\\
   &&&= {\dn avasthaatu.m}\\
-  &&&= to stay\\
+  &&&= to fix; establish; place\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
+  &&&\note{\singular, {\dn avasthaapayati} = avasthaapayati}\\
+  &&&\note{root: {\dn avasthaa} = avasthaa}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn bhramatiiva}&bhra|ma|tii|&bhramati\\
   &&&= {\dn bhramati}\\
-  &&&= (he/she/it) wanders\\
+  &&&= (he/she/it) moves unsteadily; wanders\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn bhram} = bhram}\\
   &&&\\
-  &&va&iva = {\dn iva} = as\\
+  &&va&iva = {\dn iva} = like; nearly; as if\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
-  &{\dn me}&me&my\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson, \dativecase,}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn mana.h}&ma|na|.h(a)&mind\\
+  &&&\note{\noun, \male}\\
   \hline
   &&&\\
-  2a&{\dn nimittaani}&ni|mit|taa|ni&causes (noun, not verb)\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn nimittaani}&ni|mit|taa|ni&reasons; causes; marks\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn nimittam} = nimittam}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\\
   &{\dn pa"syaami}&pa"s|yaa|mi&(I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   \hline
   &&&\\
-  2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&opposites\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&inverses; opposites\\
+  &&&\note{\noun\ or \adjective, \neuter, \plural, \accusativecase}\\
+  &&&\note{from {\dn vipariitam} = vipariitam}\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) And I am not able to stay, and my mind wanders, and I
-see causes of opposites (adversity), O K.r.s.na.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Infinitive: {\dn "saktum} = "saktum = to be able.
-
-  Root: {\dn "sak} = "sak.
-
-  Plus present tense and first person form and singular form: {\dn "saknomi} = "saknomi = I am able.
-
-\item Verb: {\dn avasthaa} = avasthaa = to stay.
-
-\item Verb: {\dn bhram} = bhram = to wander.
-
-  Plus present tense and third person form and singular form: {\dn bhramati} = bhramati = (he/she/it) wanders.
-
-\item Male noun: {\dn mana.h} = mana.h = mind.
-
-\item Neuter noun: {\dn nimittam} = nimittam = cause.
-
-  Plus plural form: {\dn nimittaani} = nimittaani = causes.
-
-\item Neuter noun: {\dn vipariitam} = vipariitam = opposite.
-
-  Plus plural form: {\dn vipariitaani} = vipariitaani = opposites.
-
-\item Male noun: {\dn ke"sava.h} = ke"sava.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn ke"sava} = ke"sava = O K.r.s.na.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 31}
