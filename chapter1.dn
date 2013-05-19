@@ -3110,101 +3110,79 @@ manner, all of the non-manner overcomes the family, also.
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 40}
 
+(Arjuna said to K.r.s.na:)\\
+
+From overcoming non-virtue, O K.r.s.na, the family women fall. In the
+bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
+(a child of parents of mixed castes; a bad person) is born.\\
+
 \begin{tabular}{llll}
-  1a&{\dn adharmaabhibhavaatk.r.s.na}&a|dhar|maa|&adharma.h\\
+  1a&\multicolumn{3}{l}{{\dn adharmaabhibhavaatk.r.s.na}}\\
+  &&&\\
+  &&a|dhar|maa|&adharma.h\\
   &&&= {\dn adharma.h}\\
   &&&= a + dharma.h\\
   &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + nature\\
+  &&&= not + manner; religion; devotion; virtue\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&bhi|bha|vaat|&abhibhavaat\\
+  &&bhi|bha|vaat|&(?) abhibhavaat\\
   &&&= {\dn abhibhavaat}\\
-  &&&= from overcoming\\
+  &&&= from humiliating; winning; overcoming\\
+  &&&\note{\adjective, \male, \ablativecase}\\
+  &&&\note{from {\dn abhibhava.h} = abhibhava.h}\\
   &&&\\
-  &&k.r.s|.na&O K.r.s.na\\
+  &&k.r.s|.na&{\dn k.r.s.na}\\
+  &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   \hline
   &&&\\
-  1b&{\dn pradu.syanti}&pra|du.s|yan|ti&(they) sin\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn pradu.syanti}&pra|du|.syan|ti&(they) become defiled; fall; worsen\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn pradu.s} = pradu.s}\\
   &&&\\
   &{\dn kulastriya.h}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&stri|ya|.h(a)&women\\
+  &&stri|ya|.h(a)&(?) women\\
+  &&&\note{\noun, \female, \plural}\\
+  &&&\note{from {\dn strii} = strii}\\
   \hline
   &&&\\
-  2a&{\dn strii.su}&strii|.su&in a/the woman\\
-  &&&\\
-  &{\dn du.s.taasu}&du.s|.taa|su&evil\\
-  &&&\\
-  &{\dn vaar.s.neya}&vaar.s|.ne|ya&O Vaar.s.neya\\
-  \hline
-  &&&\\
-  2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is being born\\
-  &&&\\
-  &{\dn var.nasa"nkara.h}&var|.na|sa"n|ka|ra|.h(a)&color mixture\\
-  &&&= unwanted,\\
-  &&&\quad mixed-caste child\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) From non-nature's overcoming things, O K.r.s.na, the
-family women sin. In the evil woman, O Vaar.s.neya, is being born an
-unwanted, mixed-caste child.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn dharma.h} = dharma.h = nature.
-
-  Note: There are many alternative meanings, such as ``religion,'' ``duty,'' ``virtue,'' or ``custom.''
-
-\item Verb: {\dn pradu.s} = pradu.s = to sin.
-
-  Plus present tense and third person and plural form:
-
-  {\dn pradu.syanti} = pradu.syanti = (they) sin.
-
-\item Male noun: {\dn abhibhava.h} = abhibhava.h = overcoming.
-
-  Plus \ablativecase: {\dn abhibhavaat} = abhibhavaat = from overcoming.
-
-\item Male noun: {\dn k.r.s.na.h} = k.r.s.na.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn k.r.s.na} = k.r.s.na = O K.r.s.na.
-
-\item Neuter noun: {\dn kulam} = kulam = family.
-
-\item Female noun: {\dn strii} = strii = woman.
-
-  Plus plural form: {\dn striya.h} = striya.h = women.
-
-  Or plus \locativecase: {\dn strii.su} = strii.su = in a/the woman.
-
-\item Female adjective: {\dn du.s.taa} = du.s.taa = evil.
-
-  Plus \locativecase: {\dn du.s.taasu} = du.s.taasu = evil.
-
-\item Male noun: {\dn vaar.s.neya.h} = vaar.s.neya.h = Vaar.s.neya = a descendant of V.r.s.ni.
-
-  Plus \vocativecase: {\dn vaar.s.neya} = vaar.s.neya = O Vaar.s.neya.
-
-\item Verb: {\dn jan} = jan = to be born.
-
-  Plus present tense and third person and singular form:
-
-  {\dn jaayate} = jaayate = (he/she/it) is being born.
-
-\item Male noun: {\dn var.nasa"nkara.h} = var.nasa"nkara.h = color mixture = unwanted, mixed-caste child (a child born to two people from different castes).
-
-  Male noun: {\dn var.na.h} = var.na.h = color.
-
-  Male noun: {\dn sa"nkara.h} = sa"nkara.h = mixture.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn strii.su}&strii|.su&at/in/on a/the women\\
+  &&&\note{\noun, \female, \plural, \locativecase}\\
+  &&&\note{from {\dn strii} = strii}\\
+  &&&\\
+  &{\dn du.s.taasu}&du.s|.taa|su&(?) at/in/on something wicked; guilty; bad\\
+  &&&\note{\adjective, \female, \plural, \locativecase}\\
+  &&&\note{from {\dn du.s.taa} = du.s.taa}\\
+  &&&\\
+  &{\dn vaar.s.neya}&vaar|.s.ne|ya&O descendent of Vaar.s.neya\\
+  &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn vaar.s.neya.h} = vaar.s.neya.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is born; grows; happens\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn jan} = jan}\\
+  &&&\\
+  &{\dn var.nasa"nkara.h}&var|.na|sa"n|ka|ra|.h(a)&color mixture\\
+  &&&= child of parents of difference castes\\
+  &&&= bad person\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: \noun, \male, {\dn var.na.h} = var.na.h = color}\\
+  &&&\note{from: \noun, \male, {\dn sa"nkara.h} = sa"nkara.h = mixture}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 41}
