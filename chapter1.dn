@@ -3187,107 +3187,90 @@ bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 41}
 
+(Arjuna said:)\\
+
+A mixture (a child of two parents of different castes; a bad person)
+is hellish, really, being of killers of a family, and of a
+family. Certainly, their fathers (ancestors) fall, because of
+suppressed-food-water-actions (suppressed offerings of food and
+water).\\
+
 \begin{tabular}{llll}
   1a&{\dn sa"nkaro}&sa"n|ka|ro&sa"nkara.h\\
   &&&= {\dn sa"nkara.h}\\
   &&&= mixture\\
-  &&&= unwanted, mixed-caste child\\
+  &&&= child of parents of different castes\\
+  &&&= bad person\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn narakaayaiva}&na|ra|kaa|yai|&narakaayate\\
   &&&= {\dn narakaayate}\\
   &&&= (he/she/it) is hellish\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn narakaaya} = narakaaya}\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ghnaa|naa.m&killers'\\
+  &&ghnaa|naa.m&{\dn ghnaanaa.m}\\
+  &&&= (?) of killers\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn ghna.h} = ghna.h}\\
   &&&\\
-  &{\dn kulasya}&ku|la|sya&family's\\
+  &{\dn kulasya}&ku|la|sya&of a/the family; clan; tribe\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{from {\dn kulam} = kulam}\\
   &&&\\
   &{\dn ca}&ca&and\\
   \hline
   &&&\\
-  2a&{\dn patanti}&pa|tan|ti&(they) fall\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn patanti}&pa|tan|ti&(they) fall; sink\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn pat} = pat}\\
   &&&\\
-  &{\dn pitaro}&pi|ta|ro&pitara.h\\
+  &{\dn pitaro}&pi|ta|ro&(?) pitara.h\\
   &&&= {\dn pitara.h}\\
-  &&&= group of fathers/ancestors\\
+  &&&= fathers; ancestors\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
   &{\dn hye.saa.m}&hye|&hi = {\dn hi} = certainly\\
   &&&\\
-  &&.saa.m&{\dn e.saa.m} = their\\
+  &&.saa.m&{\dn e.saa.m} = (?) of these; their\\
+  &&&\note{\pronoun, \male, \neuter, \plural, \genitivecase}\\
+  &&&\note{from: \male, {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from: \neuter, {\dn etat} = etat = this/it,}\\
+  &&&\note{or {\dn etad} = etad}\\
   \hline
   &&&\\
-  2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&stopped\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&suppressed; destroyed; hurt\\
+  &&&\note{\adjective}\\
   &&&\\
   &&pi.n|.do|&pi.n.da.h\\
   &&&= {\dn pi.n.da.h}\\
-  &&&= food offered to dead ancestors\\
+  &&&= ball of food offered to dead ancestors\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&da|ka|&udakam\\
   &&&= {\dn udakam}\\
   &&&= water\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kri|yaa|.h(aa)&actions\\
+  &&kri|yaa|.h(aa)&actions; sacrifices; work\\
+  &&&\note{\noun, \female, \plural}\\
+  &&&\note{from {\dn kriyaa} = kriyaa}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) An unwanted, mixed-caste child is hellish, really---it
-is a family-killers' family's child (it is from a family of killers of
-families). Their ancestors fall, certainly, because their actions of
-water and food offered to their ancestors are stopped.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn sa"nkara.h} = sa"nkara.h = mixture = unwanted, mixed-caste child (a child born to two people from different castes).
-
-\item Verb: {\dn narakaaya} = narakaaya = to be hellish.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn narakaayate} = narakaayate = (he/she/it) is hellish.
-
-\item Neuter noun: {\dn kulam} = kulam = family.
-
-  Plus \genitivecase: {\dn kulasya} = kulasya = family's.
-
-\item Adjective: {\dn ghna} = ghna = killing.
-
-  (?) Male noun: {\dn ghna.h} = ghna.h = killer.
-
-  Plus plural form and \genitivecase: {\dn ghnaanaam} = ghnaanaam = killers'.
-
-\item Verb: {\dn pat} = pat = to fall.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn patanti} = patanti = (they) fall.
-
-\item Male noun: {\dn pitara.h} = pitara.h = group of fathers/ancestors.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form and \genitivecase: {\dn e.saam} = e.saam = their.
-
-\item Adjective: {\dn lupta} = lupta = stopped.
-
-\item Male noun: {\dn pi.n.da.h} = pi.n.da.h = food offered to dead ancestors.
-
-\item Neuter noun: {\dn udakam} = udakam = water.
-
-\item Female noun: {\dn kriyaa} = kriyaa = action.
-
-  Plus plural form: {\dn kriyaa.h} = kriyaa.h = actions.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 42}
