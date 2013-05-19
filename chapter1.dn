@@ -2945,87 +2945,86 @@ as an action of evil, and being in a friend treachery as a sin \dots\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 38}
 
+(Arjuna said to K.r.s.na:)\\
+
+\dots How is (this idea) not known by us---(to keep away) from this
+evil, to get rid of the family end, which is an action of evil, using
+judicious things, O K.r.s.na.\\
+
 \begin{tabular}{llll}
   1a&{\dn katha.m}&ka|tha.m&how\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
-  &{\dn j~neyamasmaabhi.h}&j\~{}ne|ya|&j\~{}neyam\\
+  &{\dn j~neyamasmaabhi.h}&j\~{}ne|ya|ma|&j\~{}neyam\\
   &&&= {\dn j~neyam}\\
-  &&&= known (?)\\
+  &&&= known\\
+  &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&mas|maa|bhi|.h(i)&asmaabhi.h\\
+  &&smaa|bhi|.h(i)&asmaabhi.h\\
   &&&= {\dn asmaabhi.h}\\
-  &&&= with/by us\\
+  &&&= using/by us\\
+  &&&\note{\pronoun, \firstperson, \plural,}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
-  2a&{\dn paapaadasmaannivartitum}&paa|paa&paapaat\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn paapaadasmaannivartitum}&paa|paa|da|&paapaat\\
   &&&= {\dn paapaat}\\
-  &&&= from sin\\
+  &&&= from vice; crime; evil\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{from {\dn paapam} = paapam}\\
   &&&\\
-  &&das|maan|&asmaat\\
+  &&smaan|&asmaat\\
   &&&= {\dn asmaat}\\
-  &&&= these\\
+  &&&= from this\\
+  &&&\note{\pronoun, \male, \neuter, \ablativecase}\\
+  &&&\note{from: \male, {\dn ayam} = ayam = this}\\
+  &&&\note{from: \neuter, {\dn idam} = idam = this}\\
   &&&\\
-  &&ni|var|ti|tum&abandoned\\
+  &&ni|var|ti|tum&(?) {\dn nivartitum}\\
+  &&&= to disappear; stop; get rid of\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn niv.rt} = niv.rt}\\
   \hline
   &&&\\
-  2a&{\dn kulak.sayak.rta.m}&ku|la|k.sa|ya|&decay of a family\\
-  &&&\\
-  &&k.r|ta.m&deed\\
-  &&&\\
-  &{\dn do.sa.m}&do|.sa.m&sin\\
-  \hline
-  &&&\\
-  2b&{\dn prapa"syadbhirjanaardana}&pra|pa"s|yad|bhir|&prapa"syadhi.h\\
-  &&&= {\dn prapa"syadbhi.h}\\
-  &&&= with/by people who can see\\
-  &&&\\
-  &&ja|naar|da|na&O K.r.s.na\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-\dots (Arjuna said:) how is this idea not known by us? Away from sin!
-Abandon this idea: the decay (killing) of a family, a deed of sin, by
-people who can see (by sensible people), O K.r.s.na.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Verb: {\dn j~naa} = j\~{}naa = to know.
-
-\item Pronoun, in first person form and singular form: {\dn aham} = aham = I.
-
-  Plus plural form and \instrumentalcase: {\dn asmaabhi.h} = asmaabhi.h = with/by us.
-
-\item Neuter noun: {\dn paapam} = paapam = sin.
-
-  Plus \ablativecase: {\dn paapaat} = paapaat = from sin.
-
-\item Verb: {\dn niv.rt} = niv.rt = to abandon.
-
-  Plus change (?): {\dn nivartitum} = nivartitum = abandoned.
-
-\item Male noun: {\dn kulak.saya.h} = kulak.saya.h = decay of a family.
-
-  (Neuter noun: {\dn kulam} = kulam = family.)
-
-  (Male noun: {\dn k.saya.h} = k.saya.h = decay.)
-
-\item Neuter noun: {\dn k.rtam} = k.rtam = deed.
-
-\item Male noun: {\dn do.sa.h} = do.sa.h = sin.
-
-\item Verb: {\dn prapa"s} = prapa"s = to see.
-
-  Plus adjective form: {\dn prapa"syat} = prapa"syat = seeing.
-
-  Plus noun form (?) and \instrumentalcase: {\dn prapa"syadbhi.h} = prapa"syadbhi.h = with/by people who can see.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn kulak.sayak.rta.m}&ku|la|&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&k.sa|ya|&k.saya.h\\
+  &&&= {\dn k.saya.h}\\
+  &&&= decay; decline; end\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&k.r|ta.m&{\dn k.rtam}\\
+  &&&= service; work; action\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn do.sa.m}&do|.sa.m&defect; evil; crime\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn do.sa.h} = do.sa.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn prapa"syadbhirjanaardana}&pra|pa"s|yad|bhir|&(?) prapa"syadbhi.h\\
+  &&&= {\dn prapa"syadbhi.h}\\
+  &&&= using/by things judicious; sensible; discerning\\
+  &&&\note{\adjective, gender?, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn prapa"syat} = prapa"syat}\\
+  &&&\\
+  &&ja|naar|da|na&janaardana.h\\
+  &&&= {\dn janaardana.h}\\
+  &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn janaardana.h} = janaardana.h}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 39}
