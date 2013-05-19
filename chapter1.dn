@@ -2741,39 +2741,58 @@ perhaps, O K.r.s.na?\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 1, Verse 36 (first half)}
+\section*{Chapter 1, Verse 36}
+
+(Arjuna said to K.r.s.na:)\\
+
+Evil really enters us, having killed these warriors. Therefore we are
+not proper to kill the sons of Dh.rtaraa.s.tra and family. Surely,
+having killed, how happy may we be, O K.r.s.na?\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn paapamevaa"srayedasmaanhatvaitaanaatataayina.h}}\\
   &&&\\
   &&paa|pa|&paapam\\
   &&&= {\dn paapam}\\
-  &&&= vice\\
+  &&&= crime; evil; vice\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&me|vaa"s|&eva = {\dn eva} = really\\
+  &&me|vaa|&eva = {\dn eva} = really\\
   &&&\\
-  &&ra|ye|&aa"srayete\\
-  &&&= {\dn aa"srayete}\\
-  &&&= (he/she/it) enters\\
+  &&"sra|ye|das|&(?) aa"srayet\\
+  &&&= {\dn aa"srayet}\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
+  &&&\note{\singular, {\dn aa"srayate} = aa"srayate}\\
+  &&&\note{= (he/she/it) enters; attaches; inhabits}\\
+  &&&\note{root: {\dn aa"sri} = aa"sri}\\
   &&&\\
-  &&das|maan|&asmaan\\
+  &&maan|&asmaan\\
   &&&= {\dn asmaan}\\
   &&&= us\\
+  &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
-  1b&&hat|vai|&hatvaa\\
+  % ----------------------------------------------------------------------------
+  1b&&hat|vai|&(?) hatvaa\\
   &&&= {\dn hatvaa}\\
-  &&&= by killing\\
+  &&&= having hit; wounded; killed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &&taa|&etaan\\
-  &&&= {\dn etaan}\\
-  &&&= these\\
+  &&taa|naa|&etaan = {\dn etaan} = these/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = that/he}\\
   &&&\\
-  &&naa|ta|taa|yi|na|.h(a)&aatataayina.h\\
-  &&&= {\dn aatataayina.h}\\
-  &&&= warrior\\
+  &&ta|taa|yi|na|.h(a)&(?) aatataayina.h = {\dn aatataayina.h} = warriors\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn aatataayin} = aatataayin}\\
   \hline
   &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn tasmaannaarhaa}&tas|maan|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
@@ -2782,113 +2801,60 @@ perhaps, O K.r.s.na?\\
   &&&\\
   &&haa&arhaa.h\\
   &&&= {\dn arhaa.h}\\
-  &&&= worthy\\
+  &&&= worthy; able; proper\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn arha.h} = arha.h}\\
   &&&\\
   &{\dn vaya.m}&va|ya.m&we\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn hantu.m}&han|tu.m&killing\\
+  &{\dn hantu.m}&han|tu.m&(?) to hit; wound; kill\\
+  &&&\note{\verbb, \infinitive}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&\multicolumn{3}{l}{\dn dhaartaraa.s.traansabaandhavaan}\\
+  &&&\\
+  &&dhaar|ta|raa.s|.traan|&sons of Dh.rtaraa.s.tra\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
+  &&&\\
+  &&sa|baan|dha|vaan&(?)\\
   \hline
   &&&\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-Translation of the first half and second half:
-
-(Arjuna said:) Vice really enters us by (our hypothetically) killing
-those warriors. Therefore it is not worthy that we do killing of
-Dh.rtaraa.s.tra's sons, related people, and a group of
-relatives. Surely, by killing, how happy will we be, O K.r.s.na?
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn paapam} = paapam = vice.
-
-\item Verb: {\dn aa"sri} = aa"sri = enter.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn aa"srayete} = aa"srayete = (he/she/it) enters.
-
-\item Pronoun: {\dn aham} = aham = I.
-
-  Plus plural form and \accusativecase: {\dn asmaan} = asmaan = us.
-
-  Plus only plural form: {\dn vayam} = vayam = we.
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form and \accusativecase: {\dn etaan} = etaan = these.
-
-\item Male noun: {\dn aatataayina.h} = aatataayina.h = warrior.
-
-\item Male adjective: {\dn arha.h} = arha.h = worthy.
-
-  Plus plural form: {\dn arhaa.h} = arhaa.h = worthy.
-
-\item Male noun: {\dn hantu.h} = hantu.h = killing.
-
-  Plus \accusativecase: {\dn hantum} = hantum = killing.
-
-\end{itemize}
-\newpage
-% ------------------------------------------------------------------------------
-\section*{Chapter 1, Verse 36 (second half)}
-
 \begin{tabular}{llll}
-  2b&\multicolumn{3}{l}{\dn dhaartaraa.s.traansabaandhavaan}\\
-  &&&\\
-  &&dhaar|ta|raa.s|.traan|&Dh.rtaraa.s.tra's sons\\
-  &&&\\
-  &&sa|baan|dha|vaan&related\\
-  \hline
-  &&&\\
-  3a&{\dn svajana.m}&sva|ja|na.m&group of relatives\\
+  3a&{\dn svajana.m}&sva|ja|na.m&family; relative\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\\
   &{\dn katha.m}&ka|tha.m&how\\
   &&&\\
-  &{\dn hatvaa}&hat|vaa&by killing\\
+  &{\dn hatvaa}&hat|vaa&(?) having hit; wounded; killed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn han} = han}\\
   \hline
   &&&\\
-  3c&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
+  3c&{\dn sukhina.h}&su|khi|na|.h(a)&(?) happy\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn sukhin} = sukhin}\\
   &&&\\
-  &{\dn syaama}&syaa|ma&(we will) be\\
+  &{\dn syaama}&syaa|ma&(we) be\\
+  &&&\note{\verbb, \subjunctivemood, \firstperson, \plural}\\
+  &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn maadhava}&maa|dha|va&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn maadhava.h} = maadhava.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-See a previous page for the translation of the first half and second
-half.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h = Dh.rtaraa.s.tra's son.
-
-  Plus plural form and \accusativecase: {\dn dhaartaraa.s.traan} = dhaartaraa.s.traan = Dh.rtaraa.s.tra's sons.
-
-\item Male adjective: {\dn sabaandhava.h} = sabaandhava.h = related.
-
-  Plus plural form and \accusativecase: {\dn sabaandhavaan} = sabaandhavaan = related.
-
-\item Male noun: {\dn svajana.h} = svajana.h = group of relatives.
-
-  Plus \accusativecase: {\dn svajanam} = svajanam = group of relatives.
-
-\item Male noun: {\dn maadhava.h} = maadhava.h = K.r.s.na.
-
-  Plus \vocativecase: {\dn maadhava} = maadhava = O K.r.s.na.
-
-\end{itemize}
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 37}
