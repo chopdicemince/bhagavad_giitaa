@@ -3029,91 +3029,83 @@ judicious things, O K.r.s.na.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 39}
 
+(Arjuna said:)\\
+
+In a family end, the ancient family manners disappear. In a lost
+manner, all of the non-manner overcomes the family, also.
+
 \begin{tabular}{llll}
-  1a&{\dn kulak.saye}&ku|la|k.sa|ye&in a/the decay of a family\\
+  1a&{\dn kulak.saye}&ku|la|&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn pra.na"syanti}&pra|.na"s|yan|ti&(they) disappear\\
+  &&k.sa|ye&{\dn k.saye}\\
+  &&&= at/in/on a/the decay; decline; end\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn k.saya.h} = k.saya.h}\\
+  &&&\\
+  &{\dn pra.na"syanti}&pra|.na"s|yan|ti&(they) disappear; flee; die\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn pra.na"s}= pra.na"s}\\
   \hline
   &&&\\
-  1b&{\dn kuladharmaa.h}&ku|la|dhar|maa|.h(aa)&family natures\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn kuladharmaa.h}&ku|la|&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn sanaatanaa.h}&sa|naa|ta|naa|.h(aa)&eternal\\
+  &&dhar|maa|.h(aa)&{\dn dharmaa.h}\\
+  &&&= manners; religions; devotions; virtues\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&&\\
+  &{\dn sanaatanaa.h}&sa|naa|ta|naa|.h(aa)&eternal; ancient; unending\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn sanaatana.h} = sanaatana.h}\\
   \hline
   &&&\\
-  2a&{\dn dharme}&dhar|me&in a/the nature\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn dharme}&dhar|me&at/in/on a/the manner; religion; devotion; virtue\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &{\dn na.s.te}&na.s|.te&destroyed\\
+  &{\dn na.s.te}&na.s|.te&at/in/on something lost; spoiled; destroyed\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn na.s.ta.h} = na.s.ta.h}\\
   &&&\\
-  &{\dn kula.m}&ku|la.m&family\\
+  &{\dn kula.m}&ku|la.m&family; clan; tribe\\
+  &&&\note{\noun, \neuter, \accusativecase}\\
+  &&&\note{Here, \nominativecase\ = \accusativecase}\\
   &&&\\
   &\multicolumn{3}{l}{\dn k.rtsnamadharmo.abhibhavatyuta}\\
   &&&\\
   &&k.rts|na|&k.rtsnam\\
   &&&= {\dn k.rtsnam}\\
   &&&= all\\
+  &&&\note{\adjective}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   2b&&ma|dhar|mo|&adharma.h\\
   &&&= {\dn adharma.h}\\
   &&&= a + dharma.h\\
   &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + nature\\
+  &&&= not + manner; religion; devotion; virtue\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'bhi|bha|va|tyu|&abhibhavati\\
   &&&= {\dn abhibhavati}\\
-  &&&= (he/she/it) overcomes\\
+  &&&= (he/she/it) humiliates; wins; overcomes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn abhibhuu} = abhibhuu}\\
   &&&\\
-  &&ta&uta = {\dn uta} = also.
+  &&ta&uta = {\dn uta} = or; and; also\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) In the decay of a family, the eternal family natures
-disappear. In the destroyed nature, all the non-nature overcomes the
-family, also.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn kulak.saya.h} = kulak.saya.h = decay of a family.
-
-  Plus \locativecase: {\dn kulak.saye} = kulak.saye = in a/the decay of a family.
-
-  (Neuter noun: {\dn kulam} = kulam = family.)
-
-  (Male noun: {\dn k.saya.h} = k.saya.h = decay.)
-
-\item Verb: {\dn pra.na"s} = pra.na"s = to disappear.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn pra.na"syanti} = pra.na"syanti = (they) disappear.
-
-\item Male noun: {\dn dharma.h} = dharma.h = nature.
-
-  Plus plural form: {\dn dharmaa.h} = dharmaa.h = natures.
-
-  Or plus only \locativecase: {\dn dharme} = dharme = in a/the nature.
-
-  Note: There are many alternative meanings, such as ``religion,'' ``duty,'' ``virtue,'' or ``custom.''
-
-\item Male adjective: {\dn sanaatana.h} = sanaatana.h = eternal.
-
-  Plus plural form: {\dn sanaatanaa.h} = sanaatanaa.h = eternal.
-
-\item Male adjective: {\dn na.s.ta.h} = na.s.ta.h = destroyed.
-
-  Plus \locativecase: {\dn na.s.te} = na.s.te = destroyed.
-
-\item Verb: {\dn abhibhuu} = abhibhuu = {\dn abhi} + {\dn bhuu} = abhi + bhuu = over + be = overcome.
-
-  Plus present tense and third person form and singular form:
-
-  {\dn abhibhavati} = abhibhavati = (he/she/it) overcomes.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 40}
