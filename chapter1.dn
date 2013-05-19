@@ -3275,107 +3275,91 @@ water).\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 42}
 
+(Arjuna said:)\\
+
+By these vices of family-killers, by color-mixture-tolls (tolls of
+children of parents of different castes; tolls of bad people), the
+eternal caste-virtues and eternal family-virtues fall.\\
+
 \begin{tabular}{llll}
   1a&{\dn do.sairetai.h}&do|.sai|&do.sai.h\\
   &&&= {\dn do.sai.h}\\
-  &&&= by/using defects\\
+  &&&= using/by defects; crime; vices\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn do.sa.h} = do.sa.h}\\
   &&&\\
   &&re|tai|.h(i)&etai.h\\
   &&&= {\dn etai.h}\\
-  &&&= by/using these\\
+  &&&= using/by these/them\\
+  &&&\note{\pronoun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn ete} = ete = this/he}\\
   &&&\\
   &{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ghnaa|naa.m&killers' (?)\\
+  &&ghnaa|naa.m&(?) of killers\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn ghna.h} = ghna.h}\\
   \hline
   &&&\\
-  1b&{\dn var.nasa"nkarakaarakai.h}&var|.na|sa"n|ka|ra|&var.na.h + sa"nkara.h\\
+  % ----------------------------------------------------------------------------
+  1b&\multicolumn{3}{l}{{\dn var.nasa"nkarakaarakai.h}}\\
+  &&&\\
+  &&\multicolumn{2}{l}{var|.na|sa"n|ka|ra|}\\
+  &&&\\
+  &&&var.na.h + sa"nkara.h\\
   &&&= {\dn var.na.h} + {\dn sa"nkara.h}\\
   &&&= color + mixture\\
-  &&&= unwanted,\\
-  &&&\quad mixed-caste children\\
+  &&&= child of parents of different castes\\
+  &&&= bad person\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: \noun, \male, {\dn var.na.h} = var.na.h = color}\\
+  &&&\note{from: \noun, \male, {\dn sa"nkara.h} = sa"nkara.h = mixture}\\
   &&&\\
-  &&kaa|ra|kai|.h(i)&by/using factors\\
+  &&kaa|ra|kai|.h(i)&using/by coconut half-shells; tolls; taxes\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn karaka.h} = karaka.h}\\
   \hline
   &&&\\
-  2a&{\dn utsaadyante}&ut|saa|dyan|te&destroyed\\
-  &&&\\
-  &{\dn jaatidharmaa.h}&jaa|ti|&jaati.h\\
-  &&&= {\dn jaati.h}\\
-  &&&= group\\
-  &&&\\
-  &&dhar|maa|.h(aa)&natures\\
-  \hline
-  &&&\\
-  2b&{\dn kuladharmaa"sca"saa"svataa.h}&ku|la|&kulam\\
-  &&&= {\dn kulam}\\
-  &&&= family\\
-  &&&\\
-  &&dhar|maa"s|&dharmaa.h\\
-  &&&= {\dn dharmaa.h}\\
-  &&&= natures\\
-  &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\\
-  &&"saa"s|va|taa|.h(aa)&eternal\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-By these defects of family killers, by factors of color mixtures
-(unwanted, mixed-caste children), group natures are destroyed, and
-family natures, too, for eternity.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn do.sa.h} = do.sa.h = defect.
-
-  Plus plural form and \instrumentalcase: {\dn do.sai.h} = do.sai.h = by/using defects.
-
-\item Male pronoun: {\dn ete} = ete = this.
-
-  Plus plural form and \instrumentalcase: {\dn etai.h} = etai.h = by/using these.
-
-\item Neuter noun: {\dn kulam} = kulam = family.
-
-\item Adjective: {\dn ghna} = ghna = killing.
-
-  (?) Male noun: {\dn ghna.h} = ghna.h = killer.
-
-  Plus plural form and \genitivecase: {\dn ghnaanaam} = ghnaanaam = killers'.
-
-\item Male noun: {\dn var.na"sa"nkara.h} = var.na"sa"nkara.h = color mixture = unwanted, mixed-caste children (children born to two people from different castes).
-
-  Male noun: {\dn var.na.h} = var.na.h = color.
-
-  Male noun: {\dn sa"nkara.h} = sa"nkara.h = mixture.
-
-\item Male noun: {\dn kaaraka.h} = kaaraka.h = factor.
-
-  Plus plural form and \instrumentalcase: {\dn kaarakai.h} = kaarakai.h = by/using factors.
-
-\item Verb: {\dn utsad} = utsad = to destroy.
-
-  (?) Plus change: {\dn utsaadyante} = utsaadyante = destroyed.
-
-\item Female noun: {\dn jaati.h} = jaati.h = group.
-
-\item Male noun: {\dn dharma.h} = dharma.h = nature.
-
-  Plus plural form: {\dn dharmaa.h} = dharmaa.h = natures.
-
-  Note: There are many alternative meanings, such as ``religion,'' ``duty,'' ``virtue,'' or ``custom.''
-
-\item Male adjective: {\dn "saa"svata.h} = "saa"svata.h = eternal.
-
-  Plus plural form: {\dn "saa"svataa.h} = "saa"svataa.h = eternal.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn utsaadyante}&ut|saa|dyan|te&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn utsadati} = utsadati = (he/she/it) gets lost; sinks; falls}\\
+  &&&\note{root: {\dn udsad} = udsad}\\
+  &&&\\
+  &{\dn jaatidharmaa.h}&jaa|ti|&jaati.h\\
+  &&&= {\dn jaati.h}\\
+  &&&= clan; race; caste\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&dhar|maa|.h(aa)&manners; religions; devotions; virtues\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn kuladharmaa"sca}&ku|la|&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&dhar|maa"s|&dharmaa.h\\
+  &&&= {\dn dharmaa.h}\\
+  &&&= manners; religions; devotions; virtues\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\\
+  &{\dn "saa"svataa.h}&"saa"s|va|taa|.h(aa)&eternal; unending; constant\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn "saa"svata.h} = "saa"svata.h}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 43}
