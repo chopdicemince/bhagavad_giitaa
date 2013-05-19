@@ -2859,6 +2859,11 @@ having killed, how happy may we be, O K.r.s.na?\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 37}
 
+(Arjuna said:)\\
+
+If, also, these do not see---with greed-damaged minds---a family end
+as an action of evil, and being in a friend treachery as a sin \dots\\
+
 \begin{tabular}{llll}
   1a&{\dn yadyapyete}&ya|dya|&yadi\\
   &&&= {\dn yadi}\\
@@ -2870,92 +2875,72 @@ having killed, how happy may we be, O K.r.s.na?\\
   &&&\\
   &&te&ete\\
   &&&= {\dn ete}\\
-  &&&= these\\
+  &&&= these/they\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\\
   &{\dn pa"syanti}&pa"s|yan|ti&(they) see\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn lobhopahatacetasa.h}&lo|bho|&lobha.h\\
   &&&= {\dn lobha.h}\\
-  &&&= greed\\
+  &&&= strong desire; greed; cupidity\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &&pa|ha|ta&upahata.h\\
+  &&pa|ha|ta|&upahata.h\\
   &&&= {\dn upahata.h}\\
-  &&&= weakened\\
+  &&&= damaged; weakened; hurt\\
+  &&&\note{\adjective, \male}\\
   &&&\\
-  &&ce|ta|sa|.h(a)&cetas\\
-  &&&= {\dn cetas}\\
-  &&&= mind\\
+  &&ce|ta|sa|.h(a)&(?) minds; conciousness; hearts\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn cetas} = cetas}\\
   \hline
   &&&\\
-  2a&{\dn kulak.sayak.rta.m}&ku|la|k.sa|ya|&decay of a family\\
-  &&&\\
-  &&k.r|ta.m&deed\\
-  &&&\\
-  &{\dn do.sa.m}&do|.sa.m&fault\\
-  \hline
-  &&&\\
-  2b&{\dn mitradrohe}&mi|tra|&mitram\\
-  &&&= {\dn mitram}\\
-  &&&= friend\\
-  &&&\\
-  &&dro|he&in a/the attack\\
-  &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\\
-  &{\dn paatakam}&paa|ta|kam&sin\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) If, also, they do not see---with a greed-weakened
-mind---the decay (killing) of a family as a faulty deed, or being in
-an attack on a friend as a sin; \dots
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male pronoun: {\dn e.sa.h} = e.sa.h = this.
-
-  Plus plural form: {\dn ete} = ete = these.
-
-\item Infinitive: {\dn dra.s.tum} = dra.s.tum = to see.
-
-  Plus present tense and third person form and plural form:
-
-  {\dn pa"syanti} = pa"syanti = (they) see.
-
-\item Male noun: {\dn lobha.h} = lobha.h = greed.
-
-\item Male adjective: {\dn upahata.h} = upahata.h = weakened.
-
-\item Neuter noun: {\dn cetas} = cetas = mind.
-
-\item Male noun: {\dn kulak.saya.h} = kulak.saya.h = decay of a family.
-
-  (Neuter noun: {\dn kulam} = kulam = family.)
-
-  (Male noun: {\dn k.saya.h} = k.saya.h = decay.)
-
-\item Neuter noun: {\dn k.rtam} = k.rtam = deed.
-
-\item Male noun: {\dn do.sa.h} = do.sa.h = fault.
-
-  Plus \accusativecase: {\dn do.sam} = do.sam = fault.
-
-\item Neuter noun: {\dn mitram} = mitram = friend.
-
-\item Male noun: {\dn droha.h} = droha.h = attack.
-
-  Plus \locativecase: {\dn drohe} = drohe = in a/the attack.
-
-\item Neuter noun: {\dn paatakam} = paatakam = sin.
-
-\end{itemize}
+\begin{tabular}{llll}
+  2a&{\dn kulak.sayak.rta.m}&ku|la|&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= family; clan; tribe\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&k.sa|ya|&k.saya.h\\
+  &&& = {\dn k.saya.h}\\
+  &&&= decay; decline; end\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&k.r|ta.m&{\dn k.rta.m}\\
+  &&&= work; action; service\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn do.sa.m}&do|.sa.m&defect; vice; evil\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn do.sa.h} = do.sa.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn mitradrohe}&mi|tra|&mitram\\
+  &&&= {\dn mitram}\\
+  &&&= friend\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&dro|he&{\dn drohe}\\
+  &&&= at/in/on a/the rebellion; attack; treachery\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn droha.h} = droha.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\\
+  &{\dn paatakam}&paa|ta|kam&sin; crime; loss of caste\\
+  &&&\note{\noun, \neuter}\\
+\end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 38}
