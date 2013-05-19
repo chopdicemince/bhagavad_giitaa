@@ -3434,86 +3434,81 @@ their dwelling is,'' \dots (?) \dots.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 44}
 
+(Arjuna said:)\\
+
+Ah! Alas. We are sure to do a big crime, that using our
+kingdom-happiness-greed, we are ready to kill a family.\\
+
 \begin{tabular}{llll}
-  1a&{\dn aho}&a|ho&alas\\
+  1a&{\dn aho}&a|ho&ah!\\
   &&&\\
   &{\dn bata}&ba|ta&alas\\
   &&&\\
-  &{\dn mahatpaapa.m}&ma|hat|&big\\
+  &{\dn mahatpaapa.m}&ma|hat|&{\dn mahat}\\
+  &&&= big\\
+  &&&\note{\adjective}\\
   &&&\\
-  &&paa|pa.m&sin\\
+  &&paa|pa.m&{\dn paapa.m}\\
+  &&&= crime; evil; vice\\
+  &&&\note{\noun, \neuter, \accusativecase}\\
+  &&&\note{Here, \nominativecase\ = \accusativecase}\\
   \hline
   &&&\\
+  % ----------------------------------------------------------------------------
   1b&{\dn kartu.m}&kar|tu.m&to do\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn vyavasitaa}&vya|va|si|taa&vyavasitaa.h\\
   &&&= {\dn vyavasitaa.h}\\
-  &&&= sure\\
+  &&&= done; sure; undertaken\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn vyavasita.h} = vyavasita.h}\\
   &&&\\
   &{\dn vayam}&va|yam&we\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
-  2a&{\dn yadraajyasukhalobhena}&yad|&yat = {\dn yat} = that\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yadraajyasukhalobhena}&ya|draa|&yat = {\dn yat} = that\\
   &&&\\
-  &&raa|jya|&raajyam\\
+  &&jya|&raajyam\\
   &&&= {\dn raajyam}\\
-  &&&= kingdom\\
+  &&&= kingdom; state; government\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&su|kha|&sukham\\
   &&&= {\dn sukham}\\
   &&&= happiness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&lo|bhe|na&using/by greed\\
+  &&lo|bhe|na&{\dn lobhena}\\
+  &&&= using/by greed; strong desire; cupidity\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn lobha.h} = lobha.h}\\
   \hline
   &&&\\
-  2b&{\dn hantu.m}&han|tu.m&killing\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn hantu.m}&han|tu.m&(?) to kill\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn svajanamudyataa.h}&sva|ja|na|&svajana.h\\
-  &&&= {\dn svajana.h}\\
-  &&&= group of relatives\\
+  &{\dn svajanamudyataa.h}&sva|ja|na|mu|&svajanam\\
+  &&&= {\dn svajanam}\\
+  &&&= family; relative\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
-  &&mu|dya|taa|.h(aa)&udyataa.h\\
+  &&dya|taa|.h(aa)&udyataa.h\\
   &&&= {\dn udyataa.h}\\
-  &&&= ready\\
+  &&&= ready; undertaking; started\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn udyata.h} = udyata.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(Arjuna said:) Alas, alas, we are to do a big sin: using our greed for
-kingdom happiness, we are ready for killing of a group of relatives.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn paapam} = paapam = sin.
-
-\item Infinitive: {\dn kartum} = kartum = to do.
-
-\item Male adjective: {\dn vyavasita.h} = vyavasita.h = sure.
-
-  Plus plural form: {\dn vyavasitaa.h} = vyavasitaa.h = sure.
-
-\item Neuter noun: {\dn raajyam} = raajyam = kingdom.
-
-\item Neuter noun: {\dn sukham} = sukham = happiness.
-
-\item Male noun: {\dn lobha.h} = lobha.h = greed.
-
-  Plus \instrumentalcase: {\dn lobhena} = lobhena = using/by greed.
-
-\item Male noun: {\dn hantu.h} = hantu.h = killing.
-
-  Plus \accusativecase: {\dn hantum} = hantum = killing.
-
-\item Male noun: {\dn svajana.h} = svajana.h = group of relatives.
-
-\item Male adjective: {\dn udyata.h} = udyata.h = ready.
-
-  Plus plural form: {\dn udyataa.h} = udyataa.h = ready.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 45}
