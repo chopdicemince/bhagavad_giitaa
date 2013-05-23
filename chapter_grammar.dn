@@ -1,0 +1,204 @@
+\chapter*{Grammar}
+% ------------------------------------------------------------------------------
+\section*{Genders}
+
+Sanskrit has three genders.
+
+\begin{itemize}
+
+\item The male gender is {\dn pu.mli"ngam} = pu.mli"ngam, which
+  literally means ``male gender'':
+
+  \begin{itemize}
+
+  \item \note{\noun, \male, {\dn puru.sa.h} = puru.sa.h = male}
+
+  \item \note{\noun, \neuter, {\dn li"ngam} = li"ngam = penis; gender; sign}
+
+  \end{itemize}
+
+\item The female gender is {\dn striili"ngam} = striili"ngam, which
+  literally means ``female gender'':
+
+  \begin{itemize}
+
+  \item \note{\noun, \female, {\dn strii} = strii = woman; female; wife}
+
+  \item \note{\noun, \neuter, {\dn li"ngam} = li"ngam = penis; gender; sign}
+
+  \end{itemize}
+
+\item The neuter gender is {\dn napu.msakali"ngam} =
+  napu.msakali"ngam, which literally means ``neuter gender'':
+
+  \begin{itemize}
+
+  \item \note{\noun, \neuter, {\dn napu.msakam} = napu.msakam = neuter gender}
+
+  \item \note{\noun, \neuter, {\dn li"ngam} = li"ngam = penis; gender; sign}
+
+  \end{itemize}
+
+\end{itemize}
+
+Nouns have genders. Adjectives have genders. Verbs sometimes have
+genders.
+% ------------------------------------------------------------------------------
+\section*{Letters}
+
+The writing system of Sanskrit is Devanagari:
+
+\begin{quote}
+  \note{\noun, \female, {\dn devanaagarii} = devanaagarii}
+\end{quote}
+
+In Devanagari, the letters are syllables---when you pronounce each
+letter, you are pronouncing a vowel, or a consonant, followed by a
+vowel. (We ignore the two following special letters: {\dn a.m} = a.m
+and {\dn a.h} = a.h.)
+
+The pronunciation of some letters is a consonant, followed by a
+vowel. Such a letter will sometimes have a special stroke called a
+virama ({\dn viraama} = viraama):
+
+\begin{quote}
+  \note{\noun, \male, {\dn viraama.h} = viraama.h = pause; stop; end}
+\end{quote}
+
+A viraama indicates that the vowel is not to be pronounced. A viraama
+looks like a backslash (the character $\backslash$) at the bottom
+right of the letter. Examples:
+
+\begin{itemize}
+
+  \item Without viraama: {\dn ka} = ka. With viraama: {\dn k} = k.
+
+  \item Without viraama: {\dn kha} = kha. With viraama: {\dn kh} = kh.
+
+\end{itemize}
+% ------------------------------------------------------------------------------
+\section*{Verbs}
+
+In Sanskrit, a verb ``tense'' is called a {\dn lakaara} = lakaara:
+
+\begin{quote}
+  \note{\noun, \male, {\dn lakaara.h} = lakaara.h = tense}
+\end{quote}
+
+However, a Sanskrit ``tense'' is not exactly the same as an English
+tense---a Sanskrit ``tense'' can be an English tense, or an English
+mood.
+
+Simply, a tense is a form of a verb that shows time, and a mood is a
+form of a verb that shows how the speaker feels about something.
+
+Sanskrit has ten verb ``tenses,'' below. Other people may list them in
+different orders.\\
+
+\begin{tabular}{llll}
+  Verb tense or mood&Sanskrit&Transliteration&Informal description\\
+  \hline
+  &&\\
+  present tense&{\dn la.t}&la.t&I walk.\\
+  &&\\
+  past tense (imperfect)&{\dn la"n}&la"n&I have walked.\\
+  &&\\
+  past tense (aorist)&{\dn lu"n}&lu"n&I did something with walking.\\
+  &&\\
+  past tense (perfect)&{\dn li.t}&li.t&I had walked.\\
+  &&\\
+  future tense (possibly)&{\dn lu.t}&lu.t&I may walk.\\
+  &&\\
+  future tense (certain)&{\dn l.r.t}&l.r.t&I will walk.\\
+  &&\\
+  conditional mood&{\dn l.r"n}&l.r"n&If I go, then I would walk.\\
+  &&\\
+  potential mood&{\dn vidhili"n}&vidhili"n&I can walk. I might walk.\quad\dots\\
+  &&&(can; could; may; might; should; would)\\
+  &&\\
+  benedictive mood&{\dn a"siirli"n}&a"siirli"n&I want to walk. I wish to walk.\\
+  &&\\
+  imperative mood&{\dn lo.t}&lo.t&Walk! Let's walk!\\
+\end{tabular}
+
+\begin{itemize}
+
+\item Verbs about yourself are called {\dn aatmanepada} = aatmanepada,
+  which literally means ``self word'':
+
+  \begin{itemize}
+
+  \item \note{\noun, \male, {\dn aatmaa} = aatmaa = self}
+
+  \item \note{\noun, \neuter, {\dn padam} = padam = foot; step; word}
+
+  \end{itemize}
+
+  For these verbs, the doer of the action is also the receiver.
+
+  People might call these verbs ``reflexive verbs.''
+
+\item Verbs about others are called {\dn parasmaipada} = parasmaipada,
+  which literally means ``other word'':
+
+  \begin{itemize}
+
+  \item \note{\adjective, {\dn para} = para = other; another}
+
+  \item \note{\noun, \neuter, {\dn padam} = padam = foot; step; word}
+
+  \end{itemize}
+
+  For these verbs, the doer of the action is not the receiver of the
+  action.
+
+\item Verbs about both yourself and others are called {\dn ubhayapada}
+  = ubhayapada, which literally means ``both word'':
+
+  \begin{itemize}
+
+  \item \note{\adjective, {\dn ubhaya} = ubhaya = both; two}
+
+  \item \note{\noun, \neuter, {\dn padam} = padam = foot; step; word}
+
+  \end{itemize}
+
+  For these verbs, the doer of the action can be the receiver of the
+  action, but it does not have to be.
+
+\end{itemize}
+
+Each verb has a ``root.'' A verb form has the following parts:
+
+\begin{enumerate}
+
+\item Prefix, which can be nothing.
+
+\item Root, called a {\dn dhaatu} = dhaatu:
+
+  \begin{quote}
+    \note{\noun, \male, {\dn dhaatu.h} = dhaatu.h = verb root; ingredient; component}
+  \end{quote}
+
+\item Infix, called a {\dn vikara.napratyaya.h} = vikara.napratyaya.h,
+  which literally means ``change affix'':
+
+  \begin{itemize}
+
+  \item \note{\noun, \neuter, {\dn vikara.nam} = vikara.nam = change}
+
+  \item \note{\noun, \male, {\dn pratyaya.h} = pratyaya.h = affix}
+
+  \end{itemize}
+
+\item Suffix, called a {\dn ti"npratyaya.h} = ti"npratyaya.h.
+
+  \begin{itemize}
+
+  \item \note{{\dn ti"n} = ti"n = (?)}
+
+  \item \note{\noun, \male, {\dn pratyaya.h} = pratyaya.h = affix}
+
+  \end{itemize}
+
+\end{enumerate}

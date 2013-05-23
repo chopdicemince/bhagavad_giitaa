@@ -15,6 +15,7 @@ gita.tex: gita.dn \
   chapter1.tex \
   chapter2.tex \
   chapter10.tex \
+  chapter_grammar.tex \
   mymacros.sty \
 
 	devnag gita.dn
@@ -45,6 +46,9 @@ chapter2.tex: chapter2.dn
 
 chapter10.tex: chapter10.dn
 	devnag chapter10.dn
+
+chapter_grammar.tex: chapter_grammar.dn
+	devnag chapter_grammar.dn
 # ------------------------------------------------------------------------------
 clean:
 	rm --force *.aux *.log *.dvi *.tex *~ .*~ *.*~

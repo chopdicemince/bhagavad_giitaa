@@ -22,5 +22,6 @@ the Bhagavad Gita}
 \include{chapter1}
 \include{chapter2}
 \include{chapter10}
+\include{chapter_grammar}
 % ------------------------------------------------------------------------------
 \end{document}
