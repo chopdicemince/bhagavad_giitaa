@@ -1,0 +1,84 @@
+\chapter*{Chapter 3}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 3, Verse 1}
+
+Arjuna said (to K.r.s.na):\\
+
+If knowledge is thought better for you than action, O K.r.s.na, then
+that is what action, in awfulness, that you command me, O K.r.s.na?\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn jyaayasii}&jyaa|ya|sii&(?)\\
+  &&&\note{similar: \adjective, {\dn jyaayas} = jyaayas}\\
+  &&&\note{= stronger; greater; larger; better}\\
+  &&&\\
+  &{\dn cetkarma.naste}&cet|&cet = {\dn cet} = if\\
+  &&&\\
+  &&kar|ma|.na|&(?)\\
+  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
+  &&&\note{= action; work}\\
+  &&&\\
+  &&ste&te = {\dn te} = for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular,}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam = you}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn mataa}&ma|taa&thought; imagined; believed\\
+  &&&\note{\adjective, \female}\\
+  &&&\\
+  &{\dn buddhirjanaardana}&bud|dhir|&buddhi.h\\
+  &&&= {\dn buddhi.h}\\
+  &&&= intelligence; knowledge; thought; mind\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&ja|naar|da|na&{\dn janaardana} = O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn janaardana.h} = janaardana.h}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tatkim}&tat|&{\dn tat} = that/it\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&kim|&{\dn kim} = what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn karma.ni}&kar|ma|.ni&related to action or work\\
+  &&&\note{\adjective}\\
+  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam}\\
+  &&&\note{= action; work}\\
+  &&&\\
+  &{\dn ghore}&gho|re&at/in/on awfulness; horror\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn ghora.h} = ghora.h}\\
+  &&&\\
+  &{\dn maa.m}&maa.m&me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn niyojayasi}&ni|yo|ja|ya|si&(you) join; appoint; command\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn niyuj} = niyuj}\\
+  &&&\\
+  &{\dn ke"sava}&ke|"se|va&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+\end{tabular}
+% ------------------------------------------------------------------------------

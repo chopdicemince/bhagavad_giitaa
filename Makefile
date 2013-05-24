@@ -14,6 +14,7 @@ gita.tex: gita.dn \
   chapter_melody.tex \
   chapter1.tex \
   chapter2.tex \
+  chapter3.tex \
   chapter10.tex \
   chapter_grammar.tex \
   mymacros.sty \
@@ -43,6 +44,9 @@ chapter1.tex: chapter1.dn
 
 chapter2.tex: chapter2.dn
 	devnag chapter2.dn
+
+chapter3.tex: chapter3.dn
+	devnag chapter3.dn
 
 chapter10.tex: chapter10.dn
 	devnag chapter10.dn
