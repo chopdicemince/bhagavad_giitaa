@@ -255,8 +255,8 @@ get up, O wounder of enemies (O Arjuna).\\
   &&&\\
   &&ti.s|.tha&utti.s.thatu\\
   &&&= {\dn utti.s.thatu}\\
-  &&&= get up\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&= (you) get up\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn udsthaa} = udsthaa}\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&O wounder of enemies\\
@@ -1570,7 +1570,7 @@ descendant of Bharata (O Arjuna).\\
   &&dhya|sva&(?) yudhyasva\\
   &&&= {\dn yudhyasva}\\
   &&&= (you) fight\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn yudh} = yudh}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
@@ -3112,7 +3112,7 @@ Arjuna).  For the fight, be certain.\\
   &&ti.s|.tha&utti.s.thatu\\
   &&&= {\dn utti.s.thatu}\\
   &&&= (you) get up; stand\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn utthaa} = utthaa}\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
@@ -3249,7 +3249,7 @@ Arjuna), by which you will throw away your action bond.\\
   &{\dn "s.r.nu}&"s.r.nu&(?) "s.r.notu\\
   &&&= {\dn "s.r.notu}\\
   &&&= (you) hear\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   \hline
   &&&\\
@@ -3721,7 +3721,7 @@ duality), be eternal, and be without worldy care, be yourself (?).\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &{\dn bhavaarjuna}&bha|vaar|&(?) bhavatu = {\dn bhavatu} = (you) be\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &&ju|na&arjuna = {\dn arjuna} = O Arjuna\\
@@ -3912,7 +3912,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&'stva|&astu = {\dn astu} = (you) be\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
   &&kar|ma|.ni&akarma.ni\\
@@ -4063,7 +4063,7 @@ for fruit (of their actions).\\
   &&vic|cha&anvicchatu\\
   &&&= {\dn anvicchatu}\\
   &&&= (you) seek\\
-  &&&\note{\verbb, \imperativemood, \singular}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn avi.s} = avi.s}\\
   \hline
   &&&\\
