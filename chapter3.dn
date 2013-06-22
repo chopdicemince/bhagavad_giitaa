@@ -1899,3 +1899,81 @@ to action.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 3, Verse 23}
+
+(K.r.s.na said to Arjuna:)\\
+
+If, surely, I do not \dots subsist (?) \dots, ever, related to action
+and not weary---men, all together, follow my path, O prince (O
+Arjuna).\\
+
+\begin{tabular}{llll}
+  1a&{\dn yadi}&ya|di&if\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn hyaha.m}&hya|&hi = {\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn varteya.m}&var|te|ya.m&(?)\\
+  &&&\note{similar: \noun, \male, {\dn varta.h} = varta.h}\\
+  &&&\note{= urethra; subsistence; livelihood}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn jaatu}&jaa|tu&ever\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn karma.nyatandrita.h}&kar|ma|.nya|&karma.ni\\
+  &&&= {\dn karma.ni}\\
+  &&&= related to action\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&tan|dri|ta\quad(|.h(a))&atandrita.h\\
+  &&&= {\dn atandrita.h}\\
+  &&&= not + weary; weak; listless\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn tandrita.h} = tandrita.h}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn mama}&ma|ma&of me (mine)\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn vartmaanuvartante}&vart|maa|&vartman\\
+  &&&= {\dn vartman}\\
+  &&&= track of a wheel; path; way\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&nu|var|tan|te&anuvartante\\
+  &&&= {\dn anuvartante}\\
+  &&&= (they) attend; follow; obey\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn anuv.rt} = anuv.rt}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn manu.syaa.h}&ma|nu|.syaa\quad(|.h(aa))&humans; men; husbands\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&all together; wholly\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
