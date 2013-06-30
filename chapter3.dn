@@ -2873,3 +2873,83 @@ devotion is fear-producing.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 3, Verse 36}
+
+Arjuna said:\\
+
+Therefore, using what suitable (thing), does evil consume a man,
+without (his) desire, also, O descendant of V.r.s.ni (O Arjuna), as if
+from force, commanded?\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn atha}&a|tha&hence; therefore; now\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn kena}&ke|na&using/by what\\
+  &&&\note{\pronoun, \adjective, \male, \instrumentalcase}\\
+  &&&\note{from {\dn ka.h} = ka.h}\\
+  &&&\\
+  &{\dn prayukto.aya.m}&pra|yuk|to|&prayukta.h\\
+  &&&= {\dn prayukta.h}\\
+  &&&= suitable; begun; done\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&'ya.m&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn paapa.m}&paa|pa.m&paapam\\
+  &&&= {\dn paapam}\\
+  &&&= evil; vice; crime\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn carati}&ca|ra|ti&(he/she/it) moves; behaves; consumes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn car} = car}\\
+  &&&\\
+  &{\dn puuru.sa.h}&puu|ru|.sa\quad(|.h(a))&man; person; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn anicchannapi}&a|nic|chan|&{\dn anicchan}\\
+  &&&= (?) not + desire\\
+  &&&\note{similar: \prefix, {\dn a} = a = not}\\
+  &&&\note{similar: \noun, \female, {\dn icchaa} = icchaa}\\
+  &&&\\
+  &&na|pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn vaar.s.neya}&vaar|.s.ne|ya&O descendant of V.r.s.ni\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn vaar.s.neya.h} = vaar.s.neya.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn balaadiva}&ba|laa|di|&balaat\\
+  &&&= {\dn balaat}\\
+  &&&= from stamina; force; power\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{from {\dn balam} = balam}\\
+  &&&\\
+  &&va&iva = {\dn iva} = as if\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn niyojita.h}&ni|yo|ji|ta\quad(|.h(a))&commanded; attached; placed\\
+  &&&\note{\adjective}
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
