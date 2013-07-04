@@ -341,3 +341,91 @@ is higher (older). How may I know this: you, at the beginning, said
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 4, Verse 5}
+
+God (K.r.s.na) said (to Arjuna):\\
+
+Many of my and your births are passed, O Arjuna. I have knowledge of
+all of them. You do not, O destroyer of enemies (O Arjuna).\\
+
+\begin{tabular}{llll}
+  0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
+  &&&\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
+  &&&\note{\noun, \male?}\\
+  &&&\\
+  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn bahuuni}&ba|huu|ni&many\\
+  &&&\note{\adjective, \noun, \pronoun, \neuter, \plural}\\
+  &&&\note{from {\dn bahu} = bahu}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn vyatiitaani}&vya|ti|taa|ni&passed; gone; abandoned\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn janmaani}&jan|maa|ni&births\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn janmam} = janmam}\\
+  &&&\\
+  &{\dn tava}&ta|va&of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular,}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&ju|na&arjuna.h = {\dn arjuna.h} = Arjuna\\
+  &&&\note{\noun, \male}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn taanyaha.m}&taa|nya|&taani\\
+  &&&= {\dn taani}\\
+  &&&= those/they\\
+  &&&\note{\pronoun, \neuter, \plural,}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn veda}&ve|da&veda.h\\
+  &&&= {\dn veda.h}\\
+  &&&= knowledge; getting\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn sarvaa.ni}&sar|vaa|ni&all\\
+  &&&\note{\adjective, \noun, \pronoun, \adverb, \neuter, \plural}\\
+  &&&\note{from {\dn sarvam} = sarvam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &{\dn vettha}&vet|tha&(?)\\
+  &&&\\
+  &{\dn parantapa}&pa|ran|ta|pa&O destroyer of enemies\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn parantapa.h} = parantapa.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
