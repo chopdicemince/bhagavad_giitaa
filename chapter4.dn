@@ -255,3 +255,89 @@ are my follower and friends.'' Surely, this mystery is the best.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 4, Verse 4}
+
+Arjuna said (to K.r.s.na):\\
+
+``Your birth is lower (younger). The birth of Vivasvaan (the sun god)
+is higher (older). How may I know this: you, at the beginning, said
+(things to Vivasvaan)?''\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn apara.m}&a|pa|ra.m&aparam = {\dn aparam} = other; inferior; lower\\
+  &&&\note{\adjective, \male?, \accusativecase?}\\
+  &&&\note{from {\dn apara.h} = apara.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn para.h} = para.h}\\
+  &&&\\
+  &{\dn bhavato}&bha|va|to&bhavata.h = {\dn bhavata.h} = your\\
+  &&&\note{\pronoun, \secondperson, \singular, \male}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{from {\dn bhavaan} = bhavaan}\\
+  &&&\\
+  &{\dn janma}&jan|ma&janma.h\\
+  &&&= {\dn janma.h}\\
+  &&&= birth\\
+  &&&\note{\noun, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn para.m}&pa|ra.m&param\\
+  &&&= {\dn param}\\
+  &&&= other; superior; next\\
+  &&&\note{\adjective, \male?, \accusativecase?}\\
+  &&&\note{from {\dn para.h} = para.h}\\
+  &&&\\
+  &{\dn janma}&jan|ma&janma.h\\
+  &&&= {\dn janma.h}\\
+  &&&= birth\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn vivasvata.h}&vi|va|sva|ta\quad(|.h(a))&of Vivasvaan (the sun god)\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn vivasvaan} = vivasvaan}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn kathametadvijaaniiyaa.m}&ka|tha|me|&katham\\
+  &&&= {\dn katham}\\
+  &&&= how\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &&tad&etad = {\dn etad} = this/it\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&vi|jaa|nii|yaa.m&vijaaniiyaam\\
+  &&&= {\dn vijaaniiyaam}\\
+  &&&= (?) (I) may know; understand; learn\\
+  &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
+  &&&\note{root: {\dn vij~naa} = vij\~{}naa}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn tvamaadau}&tva|maa|&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &&dau&adau = {\dn adau} = at the beginning\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn proktavaan}&prok|ta|vaan&(?) (he) said; declared\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular, \male}\\
+  &&&\note{root: (?)}\\
+  &&&\\
+  &{\dn iti}&i|ti&``end of quote''\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
