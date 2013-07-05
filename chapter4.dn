@@ -522,3 +522,80 @@ self-magic.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 4, Verse 7}
+
+(K.r.s.na said to Arjuna:)\\
+
+When, when, surely, a decrease of virtue happens, O descendant of
+Bharata (O Arjuna), (and a) rise of non-virtue (happens), then I let
+go of myself (and appear as an avatar to influence human affairs).\\
+
+\begin{tabular}{llll}
+  1a&{\dn yadaa}&ya|daa&when\\
+  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn yadaa}&ya|daa&when\\
+  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn dharmasya}&dhar|ma|sya&of conduct; virtue; devotion; religion\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn glaanirbhavati}&glaa|nir|&glaani.h\\
+  &&&= {\dn glaani.h}\\
+  &&&= decrease; faigue; sickness\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&bha|va|ti&(he/she/it) happens; is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn abhyutthaanamadharmasya}&a|bhyut|thaa|na|ma|&abhyutthaanam\\
+  &&&= {\dn abhyutthaanam}\\
+  &&&= rise; exaltation; power\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&dhar|ma|sya&adharmasya\\
+  &&&= {\dn adharmasya}\\
+  &&&= not + of conduct; virtue; devotion; religion\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn tadaatmaana.m}&ta|daat|&tadaa = {\dn tadaa} = then\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&maa|na.m&aatmaanam\\
+  &&&= {\dn aatmaanam}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \male, {\dn aatmaan} = aatmaan}\\
+  &&&\note{= self; soul}\\
+  &&&\\
+  &{\dn s.rjaamyaham}&s.r|jaa|mya|&s.rjaami\\
+  &&&= {\dn s.rjaami}\\
+  &&&= (I) let go; cause; get\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn s.rj} = s.rj}\\
+  &&&\\
+  &&ham&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
