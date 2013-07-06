@@ -864,3 +864,85 @@ happened.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section{Chapter 4, Verse 11}
+
+(Kr.s.na said to Arjuna:)\\
+
+Just as ones seek refuge with me, so, really, I honor those. Men
+follow my path, O prince (O Arjuna), all together.\\
+
+\begin{tabular}{llll}
+  1a&{\dn ye}&ye&(?) ones\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\\
+  &{\dn yathaa}&ya|thaa&just as\\
+  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn maa.m}&maa.m&maam\\
+  &&&= {\dn maam}\\
+  &&&= me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham}\\
+  &&&\\
+  &{\dn prapadyante}&pa|pa|dyan|te&(they) do; seek refuge with\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn prapad} = prapad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn taa.mstathaiva}&taa.m|&taan = {\dn taan} = those/them\\
+  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &&sta|thai|&tathaa = {\dn tathaa} = so\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn bhajaamyaham}&bha|jaa|mya|&bhajaami\\
+  &&&= {\dn bhajaami}\\
+  &&&= (I) revere; honor; worship\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn bhaj} = bhaj}\\
+  &&&\\
+  &&ham&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn mama}&ma|ma&of me (my)\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn vartmaanuvartante}&vart|maa|&vartman\\
+  &&&= {\dn vartman}\\
+  &&&= track of a wheel; path\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&nu|var|tan|te&anuvartante\\
+  &&&= {\dn anuvartante}\\
+  &&&= (they) obey; respect; follow\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn anuv.rt} = anuv.rt}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn manu.syaa.h}&ma|nu|.sysaa\quad(|.h(aa))&men; husbands; humans\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&all together\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
