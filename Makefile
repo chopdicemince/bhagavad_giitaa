@@ -18,6 +18,7 @@ gita.tex: gita.dn \
   chapter4.tex \
   chapter10.tex \
   chapter_grammar.tex \
+  chapter_examples_of_cases.tex \
   mymacros.sty \
 
 	devnag gita.dn
@@ -57,6 +58,9 @@ chapter10.tex: chapter10.dn
 
 chapter_grammar.tex: chapter_grammar.dn
 	devnag chapter_grammar.dn
+
+chapter_examples_of_cases.tex: chapter_examples_of_cases.dn
+	devnag chapter_examples_of_cases.dn
 # ------------------------------------------------------------------------------
 clean:
 	rm --force *.aux *.log *.dvi *.tex *~ .*~ *.*~

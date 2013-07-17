@@ -25,5 +25,6 @@ the Bhagavad Gita}
 \include{chapter4}
 \include{chapter10}
 \include{chapter_grammar}
+\include{chapter_examples_of_cases}
 % ------------------------------------------------------------------------------
 \end{document}
