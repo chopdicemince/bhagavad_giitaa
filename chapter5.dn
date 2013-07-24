@@ -1,0 +1,97 @@
+\chapter{Chapter 5}
+\newpage
+% ------------------------------------------------------------------------------
+\section{Chapter 5, Verse 1}
+
+Arjuna said:\\
+
+O K.r.s.na, you say renunciation of actions again, and union. Which
+one in these two---confidence---that is for me---say, definitely.\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn sannyaasa.m}&san|nyaa|sa.m&sannyaasam\\
+  &&&= {\dn sannyaasam}\\
+  &&&= renunciation; abandonment; asceticism\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn sannyaasa.h} = sannyaasa.h}\\
+  &&&\\
+  &{\dn karma.naa.m}&kar|ma|.naa.m&karma.naam\\
+  &&&= {\dn karma.naam}\\
+  &&&= of actions; works\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\\
+  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn punaryoga.m}&pu|nar|&puna.h = {\dn puna.h} = again\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &&yo|ga.m&yogam = {\dn yogam} = union; action; work\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn "sa.msasi}&"sa.m|sa|si&(you) say; predict; praise; revile\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn "sa.ms} = "sa.ms}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yacchreya}&yac|&yat = {\dn yat} = that/which\\
+  &&&\note{part of speech?}\\
+  &&&\\
+  &&chre|ya&"sreya.h\\
+  &&&= {\dn "sreya.h}\\
+  &&&= credit; trust; confidence\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn etayoreka.m}&e|ta|yo|re|&etayo.h\\
+  &&&= {\dn etayo.h}\\
+  &&&= of these/them two;\\
+  &&&at/in/on these/them two\\
+  &&&\note{\pronoun, \male, \dual,}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\\
+  &&ka.m&ekam = {\dn ekam} = one\\
+  &&&\note{\numberr, \neuter}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn tanme}&tan|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&me&{\dn me}\\
+  &&&= for me; of me\\
+  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn bruuhi}&bruu|hi&(?) bruute\\
+  &&&= {\dn bruute}\\
+  &&&= (you) say; proclaim; tell\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn bruu} = bruu}\\
+  &&&\\
+  &{\dn suni"scitam}&su|ni"s|ci|tam&definitely\\
+  &&&\note{\adverb}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
