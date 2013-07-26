@@ -898,3 +898,84 @@ water.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 5, Verse 11}
+
+(K.r.s.na said to Arjuna:)\\
+
+Using the body, using the mind, using knowledge, using pure things,
+using senses, also, followers do action, having abandoned attachment,
+(with) soul-purity.\\
+
+\begin{tabular}{llll}
+  1a&{\dn kaayena}&kaa|ye|na&using/by a/the body\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn kaaya.h} = kaaya.h}\\
+  &&&\\
+  &{\dn manasaa}&ma|na|saa&(?) using/by a/the mind; intelligence; spirit\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn manas} = manas}\\
+  &&&\\
+  &{\dn buddhyaa}&bud|dhyaa&using/by a/the mind; intelligence; knowledge\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn buddhi.h} = buddhi.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn kevalairindriyairapi}&ke|va|lai|rin|&kevalai.h\\
+  &&&= {\dn kevalai.h}\\
+  &&&= using/by things pure; alone; complete\\
+  &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn kevala.h} = kevala.h}\\
+  &&&\\
+  &&dri|yai|ra|&indriyai.h\\
+  &&&= {\dn indriyai.h}\\
+  &&&= using/by senses; body organs; powers\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn indriyam} = indriyam}\\
+  &&&\\
+  &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yogina.h}&yo|gi|na\quad(.h(a))&(?)\\
+  &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
+  &&&\note{= follower; magician; devotee}\\
+  &&&\\
+  &{\dn karma}&kar|ma&karmam\\
+  &&&= {\dn karmam}\\
+  &&&= action; work\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn kurvanti}&kur|van|ti&(they) do\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn sa"nga.m}&sa"n|ga.m&sa"ngam\\
+  &&&= {\dn sa"ngam}\\
+  &&&= union; association; devotion; attachment\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
+  &&&\\
+  &{\dn tyaktvaatma"suddhaye}&tyakt|vaat|&tyaktvaa\\
+  &&&= {\dn tyaktvaa}\\
+  &&&= having abandoned\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\\
+  &&ma|&aatma\\
+  &&&= {\dn aatma}\\
+  &&&= self; soul\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&"sud|dha|ye&{\dn "suddhaye}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn "suddha} = "suddha}\\
+  &&&\note{= pure; correct; upright}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
