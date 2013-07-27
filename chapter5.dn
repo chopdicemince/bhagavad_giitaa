@@ -1491,3 +1491,74 @@ stains.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 5, Verse 18}
+
+(K.r.s.na said to Arjuna:)\\
+
+Knowledge and propriety are produced. And wise men are same-seeing
+(impartial) at a Brahman, (at) a cow, (at) a female elephant, (at) a
+female dog, and really, at a dog-eater (an outcast).\\
+
+\begin{tabular}{llll}
+  1a&{\dn vidyaavinayasampanne}&vi|dyaa|&{\dn vidyaa}\\
+  &&&= knowledge; magic; science\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&vi|na|ya|&vinaya.h\\
+  &&&= {\dn vinaya.h}\\
+  &&&= propriety; control; discipline\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&sam|pan|ne&{\dn sampanne}\\
+  &&&= at/in/on something supplied; produced\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn sampanna.h} = sampanna.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  &{\dn braahma.ne}&braah|ma|.ne&at/in/on a Brahman\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn braahma.na.h} = braahma.na.h}\\
+  &&&\\
+  &{\dn gavi}&ga|vi&(?)\\
+  &&&\note{similar: \noun, \female, {\dn gavii} = gavii}\\
+  &&&\note{= cow}\\
+  &&&\\
+  &{\dn hastini}&ha|sti|ni&(?)\\
+  &&&\note{similar: \noun, \female, {\dn hastinii} = hastinii}\\
+  &&&\note{= female elephant}\\
+  \hline
+  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn "suni}&"su|ni&(?)\\
+  &&&\note{similar: \noun, \female, {\dn "sunii} = "sunii}\\
+  &&&\note{= female dog}\\
+  &&&\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn "svapaake}&"sva|paa|ke&at/in/on a/the dog-eater; outcast\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn "svapaaka.h} = "svapaaka.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn pa.n.ditaa.h}&pa.n|.di|taa\quad(|.h(aa))&wise men; scholars; teachers\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
+  &&&\\
+  &{\dn samadar"sina.h}&sa|ma|dar|"si|na\quad(|.h(a))&(?)\\
+  &&&\note{similar: \adjective, {\dn sama} = sama = same}\\
+  &&&\note{similar: \adjective, {\dn dar"sin} = dar"sin = seeing}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
