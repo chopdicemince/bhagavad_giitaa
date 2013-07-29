@@ -17,6 +17,7 @@ gita.tex: gita.dn \
   chapter3.tex \
   chapter4.tex \
   chapter5.tex \
+  chapter6.tex \
   chapter10.tex \
   chapter_grammar.tex \
   chapter_examples_of_cases.tex \
@@ -56,6 +57,9 @@ chapter4.tex: chapter4.dn
 
 chapter5.tex: chapter5.dn
 	devnag chapter5.dn
+
+chapter6.tex: chapter6.dn
+	devnag chapter6.dn
 
 chapter10.tex: chapter10.dn
 	devnag chapter10.dn
