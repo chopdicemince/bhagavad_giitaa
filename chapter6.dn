@@ -949,3 +949,89 @@ grass remainder, \dots\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 6, Verse 12}
+
+(K.r.s.na said to Arjuna:)\\
+
+There, (with) one-apex (focused) mind, having done
+yoked-thought-sense-action, seated on the seat, doing yoking, the self
+is virtuous.\\
+
+\begin{tabular}{llll}
+  1a&{\dn tatraikaagra.m}&ta|trai|&tatra = {\dn tatra} = there\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&kaa|&ekam = {\dn ekam} = one\\
+  &&&\note{\numberr, \neuter}\\
+  &&&\\
+  &&gra.m&agram\\
+  &&&= {\dn agram}\\
+  &&&= apex; origin\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn k.rtvaa}&k.rt|vaa&having done\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn yatacittendriyakriya.h}&ya|ta|&{\dn yata}\\
+  &&&= yoked; controlled; subdued; governed\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&cit|ten|&cittam\\
+  &&&= {\dn cittam}\\
+  &&&= thought; knowledge; intelligence; mind\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&dri|ya|&indriyam\\
+  &&&= {\dn indriyam}\\
+  &&&= sense; body organ; power\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&kri|ya\quad(|.h(a))&{\dn kriya.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \female, {\dn kriyaa} = kriyaa}\\
+  &&&\note{= action; work}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn upavi"syaasane}&u|pa|vi|"syaa|&upavi"sya\\
+  &&&= {\dn upavi"sya}\\
+  &&&= seated\\
+  &&&\note{\adjective, \indeclinable}\\
+  &&&\\
+  &&sa|ne&aasane\\
+  &&&= {\dn aasane}\\
+  &&&= at/in/on a/the seat\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn aasanam} = aasanam}\\
+  &&&\\
+  &{\dn yu~njyaadyogamaatmavi"suddhaye}&yu\~{}n|jyaa|&yu\~{}njyaat\\
+  &&&= {\dn yu~njyaat}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
+  &&&\note{= doing}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&dyo|ga|maat|&yogam\\
+  &&&= {\dn yogam}\\
+  &&&= yoking; union; action; work\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  &&&\\
+  &&ma|&aatma = {\dn aatma} = self; soul\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&vi|"sud|dha|ye&{\dn vi"suddhaye}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn vi"suddha} = vi"suddha}\\
+  &&&\note{= virtuous; pure; clean}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
