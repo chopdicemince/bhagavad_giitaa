@@ -1288,3 +1288,102 @@ union.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 6, Verse 16}
+
+(K.r.s.na said to Arjuna:)\\
+
+But yoking is not too much eating, and not only not eating, and not
+too much sleep of the disposition, and not being awake, really, O
+Arjuna.\\
+
+\begin{tabular}{llll}
+  1a&{\dn naatya"snatastu}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&tya"s|&ati = {\dn ati} = very\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&na|ta|&a"snata.h\\
+  &&&= {\dn a"snata.h}\\
+  &&&= (?) of something eating\\
+  &&&\note{\adjective, \male(?), \genitivecase}\\
+  &&&\note{from {\dn a"snat} = a"snat}\\
+  &&&\\
+  &&stu&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn yogo.asti}&yo|go|&yoga.h = {\dn yoga.h} = yoking; union; action; work\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'sti&asti = {\dn asti} = (he/she/it) is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caikaantamana"snata.h}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&kaan|ta|ma|&ekaantam = {\dn ekaantam} = only\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&na"s|na|ta\quad(|.h(a))&ana"snata.h\\
+  &&&= {\dn ana"snata.h}\\
+  &&&= (?) of something not eating\\
+  &&&\note{\adjective, \male(?), \genitivecase}\\
+  &&&\note{from {\dn ana"snat} = ana"snat}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: extra letter, {\dn n} = n = n}\\
+  &&&\note{from \adjective, \male(?), {\dn a"snat} = a"snat}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caatisvapna"siilasya}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&ti|&ati = {\dn ati} = very\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&svap|na|&svapna.h\\
+  &&&= {\dn svapna.h}\\
+  &&&= sleep; sleepiness; dream\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&"sii|la|sya&{\dn "siilasya}\\
+  &&&= of a/the shape; disposition; virtue\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{from {\dn "siilam} = "siilam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn jaagrato}&jaa|gra|to&jaagrata.h\\
+  &&&= {\dn jaagrata.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn jaagrati} = jaagrati = (he/she/it) is awake; watchful}\\
+  &&&\note{root: {\dn jaag.r} = jaag.r}\\
+  &&&\\
+  &{\dn naiva}&nai|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&ju|na&arjuna\\
+  &&&= {\dn arjuna}\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn arjuna.h} = arjuna.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
