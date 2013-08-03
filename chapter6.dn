@@ -2711,3 +2711,90 @@ paramount.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 6, Verse 33}
+
+Arjuna said (to K.r.s.na):\\
+
+This one yoking using you, proclaimed (by you), using sameness, O
+Honey-slayer (O K.r.sna). (Kr.s.na killed a demon called ``Honey.'') I
+do not see (of) this. (I am) shaking and steadfast.\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = (?) one/who/what\\
+  &&&\note{\pronoun, \male}\\
+  &&&\\
+  &&'ya.m&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
+  &&&\\
+  &{\dn yogastvayaa}&yo|ga|stva|&yoga.h\\
+  &&&= {\dn yoga.h}\\
+  &&&= yoking; union; action; work\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&yaa&tvayaa = {\dn tvayaa} = using/by you\\
+  &&&\note{\pronoun, \secondperson, \instrumentalcase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn prokta.h}&prok|ta.h&proclaimed; perceived\\
+  &&&\note{\adjective, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn saamyena}&saa|mye|na&using/by sameness; equality; similarity\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn saamyam} = saamyam}\\
+  &&&\\
+  &{\dn madhusuudana}&ma|dhu|&{\dn madhu}\\
+  &&&= honey\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&suu|da|na&{\dn suudana}\\
+  &&&= O slaying\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn suudanam} = suudanam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn etasyaaha.m}&e|ta|syaa|&{\dn etasya}\\
+  &&&= of this/him/it\\
+  &&&\note{\pronoun, \genitivecase}\\
+  &&&\note{from: \male, {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from: \neuter, {\dn etat} = etat = this/it}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn ca~ncalatvaatsthiti.m}&ca\~{}n|ca|la|tvaat|&(?)\\
+  &&&\note{similar: \adjective, {\dn ca~ncala} = ca\~{}ncala}\\
+  &&&\note{= shaking; moving to and fro}\\
+  &&&\\
+  &&sthi|ti.m&sthitim\\
+  &&&= {\dn sthitim}\\
+  &&&= steadfastness\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn sthiraam}&sthi|raam&steadfast\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{from {\dn sthiraa} = sthiraa}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
