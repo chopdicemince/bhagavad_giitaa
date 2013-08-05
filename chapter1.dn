@@ -381,7 +381,7 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   &&&= Dh.r.s.taketu\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ce|ki|taa|na|.h(a)&cekitaana.h\\
+  &&ce|ki|taa|na\quad(|.h(a))&cekitaana.h\\
   &&&= {\dn cekitaana.h}\\
   &&&= Cekitaana\\
   &&&\note{\noun, \male}\\
@@ -391,8 +391,10 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
   &&&= {\dn kaa"siraaja.h}\\
   &&&= Kaa"siraaja\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&(?)\\
   &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
@@ -412,22 +414,24 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn "saibya"sca}&"saib|ya"s|&"saibya.h\\
+  2b&{\dn "saibya"sca}&"sai|bya"s|&"saibya.h\\
   &&&= {\dn "saibya.h}\\
   &&&= "Saibya\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn narapu"ngava.h}&na|ra|&nara.h\\
   &&&= {\dn nara.h}\\
   &&&= man\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pu"n|ga|va|.h(a)&pu"ngava.h\\
+  &&pu"n|ga|va\quad(|.h(a))&pu"ngava.h\\
   &&&= {\dn pu"ngava.h}\\
   &&&= bull; best; eminent man\\
   &&&\note{\noun, \male}\\
