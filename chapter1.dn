@@ -290,11 +290,12 @@ arranged, using a Drupada-son, a wise student of you.\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-Here are warriors---great archers equal to Bhiima and Arjuna---at the
-fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
+Here are warriors---great-archers, similar to Bhiima and Arjuna---at
+the fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
 
 \begin{tabular}{llll}
   1a&{\dn atra}&a|tra&here\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn "suuraamahe.svaasaa}&"suu|raa|&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
@@ -302,13 +303,13 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn "suura.h} = "suura.h}\\
   &&&\\
-  &&ma|he.s|&maha\\
+  &&ma|he|&maha\\
   &&&= {\dn maha}\\
-  &&&= abundant; strong; great\\
+  &&&= great\\
   &&&\note{\adjective}\\
   &&&\\
-  &&vaa|saa&i.svaasaa.h\\
-  &&&= {\dn i.svaasaa.h}\\
+  &&.svaa|saa&i"svaasaa.h\\
+  &&&= {\dn i"svaasaa.h}\\
   &&&= bows; archers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn i"svaasa.h} = i"svaasa.h}\\
@@ -321,7 +322,7 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&ju|na|&arjuna = {\dn arjuna} = Arjuna\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa|maa&samaa.h = {\dn samaa.h} = equal; complete; honest; similar\\
+  &&sa|maa&samaa.h = {\dn samaa.h} = same; equal; similar; straight; complete\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sama.h} = sama.h}\\
   &&&\\
@@ -343,6 +344,7 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -352,13 +354,14 @@ fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn mahaaratha.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
   &&&= great\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ra|tha|.h(a)&ratha.h\\
+  &&ra|tha\quad(|.h(a))&ratha.h\\
   &&&= {\dn ratha.h}\\
   &&&= chariot; warrior; hero\\
   &&&\note{\noun, \male}\\
