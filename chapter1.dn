@@ -209,15 +209,15 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-See these (men) of the sons of Paa.n.du---O teacher---a great army,
-arranged, using the son of Drupada, your wise student.\\
+See these (men) of the Paa.n.du-sons, O teacher---a great army,
+arranged, using a Drupada-son, a wise student of you.\\
 
 \begin{tabular}{llll}
-  1a&{\dn pa"syaitaa.m}&pa"s|yai|&pa"syatu\\
+  1a&{\dn pa"syaitaa.m}&pa"|syai|&pa"syatu\\
   &&&= {\dn pa"syatu}\\
   &&&= (you) see\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&taa.m&etaan\\
   &&&= {\dn etaan}\\
@@ -242,7 +242,9 @@ arranged, using the son of Drupada, your wise student.\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
   &&&\\
-  &{\dn mahatii.m}&ma|ha|tii.m&great\\
+  &{\dn mahatii.m}&ma|ha|tii.m&mahatiim\\
+  &&&= {\dn mahatiim}\\
+  &&&= great\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn mahatii} = mahatii}\\
   &&&\\
@@ -270,16 +272,17 @@ arranged, using the son of Drupada, your wise student.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn tava}&ta|va&your\\
+  2b&{\dn tava}&ta|va&of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &{\dn "si.sye.na}&"si.s|ye|.na&using/by a/the student; scholar; disciple\\
+  &{\dn "si.sye.na}&"si|.sye|.na&using/by a/the student; scholar; disciple\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn "si.sya.h} = "si.sya.h}\\
   &&&\\
-  &{\dn dhiimataa}&dhii|ma|taa&(?) wise; learned; sensible\\
-  &&&\note{\adjective, \female (?)}\\
+  &{\dn dhiimataa}&dhii|ma|taa&(?) using/by something wise; learned; sensible\\
+  &&&\note{\adjective, \male, \instrumentalcase}\\
+  &&&\note{from {\dn dhiimat} = dhiimat}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
