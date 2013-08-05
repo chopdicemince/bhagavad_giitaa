@@ -443,15 +443,16 @@ Kuntibhoja, and Saibya are a man-bull (best man).\\
 (Duryodhana said to the teacher Dro.na:)\\
 
 And strong Yudhaamanyu, and strong Uttamaujaa, the son of Subhadraa
-and the sons of Draupadii---all, really, are great warriors.\\
+and the sons of Draupadii---all, really, are great-warriors.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yudhaamanyu"sca}&yu|dhaa|man|yu"s|&yudhaamanyu.h\\
+  1a&{\dn yudhaamanyu"sca}&yu|dhaa|ma|nyu"s|&yudhaamanyu.h\\
   &&&= {\dn yudhaamanyu.h}\\
   &&&= Yudhaamanyu\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = ca\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn vikraanta}&vi|kraan|ta&bold; mighty; strong\\
   &&&\note{\adjective}\\
@@ -464,6 +465,7 @@ and the sons of Draupadii---all, really, are great warriors.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&(?)\\
   &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
@@ -484,21 +486,22 @@ and the sons of Draupadii---all, really, are great warriors.\\
   &&&\note{from {\dn draupadeya.h} = draupadeya.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn sarva}&sar|va&sarva.h = {\dn sarva.h} = each; all\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn eva}&e|va&really\\
+  &{\dn eva}&e|va&really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|&(?) mahaanta.h\\
-  &&&= {\dn mahaanta.h}\\
+  &{\dn mahaarathaa.h}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
   &&&= great\\
-  &&&\note{\adjective, \male, \plural}\\
-  &&&\note{from {\dn mahaan} = mahaan}\\
+  &&&\note{\adjective, \male}\\
   &&&\\
-  &&ra|thaa|.h(aa)&rathaa.h\\
+  &&ra|thaa\quad(|.h(aa))&rathaa.h\\
   &&&= {\dn rathaa.h}\\
   &&&= chariots; warriors; heros\\
   &&&\note{\noun, \male, \plural}\\
