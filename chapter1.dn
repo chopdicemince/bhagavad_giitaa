@@ -513,22 +513,24 @@ and the sons of Draupadii---all, really, are great-warriors.\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-But, our excellent ones, consider them, O excellent Brahman. They are
-my leaders of the soldier. The name meaning of those (the names of the
-leaders)--- I say for you.\\
+But, our excellent ones---consider them, O ultimate Brahman--- leaders
+of my soldier. I say for you the name-meaning (of) those.\\
 
 \begin{tabular}{llll}
-  1a&{\dn asmaaka.m}&as|maa|ka.m&our\\
-  &&&\note{\pronoun, \secondperson, \plural, \genitivecase}\\
+  1a&{\dn asmaaka.m}&a|smaa|ka.m&asmaakam\\
+  &&&= {\dn asmaakam}\\
+  &&&= our\\
+  &&&\note{\pronoun, \firstperson, \plural, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn tu}&tu&but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn vi"si.s.taa}&vi|"si.s|.taa&particular; preeminent; excellent\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vi"si.s.ta.h} = vi"si.s.ta.h}\\
   &&&\\
-  &{\dn ye}&ye&(?) ones\\
+  &{\dn ye}&ye&(?) ones/who/what\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   \hline
@@ -553,7 +555,7 @@ leaders)--- I say for you.\\
   &&&\\
   &&ta|ma&uttama\\
   &&&= {\dn uttama}\\
-  &&&= best; greatest; excellent\\
+  &&&= ultimate; last; best\\
   &&&\note{\adjective}\\
 \end{tabular}
 \newpage
@@ -569,7 +571,7 @@ leaders)--- I say for you.\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn sainyasya}&sain|ya|sya&of a/the solider\\
+  &{\dn sainyasya}&sai|nya|sya&of a/the solider\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sainya.h} = sainya.h}\\
   \hline
@@ -597,9 +599,10 @@ leaders)--- I say for you.\\
   &&&\note{root: {\dn bruu} = bruu}\\
   &&&\\
   &&te&{\dn te}\\
-  &&&= for you; of you\\
+  &&&= for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
