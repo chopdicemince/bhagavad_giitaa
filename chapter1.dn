@@ -145,6 +145,7 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn tu}&tu&but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn paa.n.davaaniika.m}&paa.n|.da|vaa|&paa.n.da.va.h\\
   &&&= {\dn paa.n.dava.h}\\
@@ -159,7 +160,9 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn vyuu.dha.m}&vyuu|.dha.m&moved apart; distributed; arranged\\
+  1b&{\dn vyuu.dha.m}&vyuu|.dha.m&vyuu.dham\\
+  &&&= {\dn vyuu.dham}\\
+  &&&= moved apart; distributed; arranged\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vyuu.dha.h} = vyuu.dha.h}\\
   &&&\\
@@ -167,6 +170,7 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&sta|daa&tadaa = {\dn tadaa} = then\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -193,8 +197,9 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   &&&= {\dn vacanam}\\
   &&&= saying; group of words; sentence\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&|bra|viit&abraviit\\
+  &&bra|viit&abraviit\\
   &&&= {\dn abraviit}\\
   &&&= said (?)\\
 \end{tabular}
