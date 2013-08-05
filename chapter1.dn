@@ -42,7 +42,7 @@ The main characters are:
 
 ``At the devotion place, at the Kuru place, together, and wanting to
 fight, are my males (my sons) and the Paa.n.davas. Really, what did
-they do, Sa\~{}njaya?''\\
+they do, O Sa\~{}njaya?''\\
 
 \begin{tabular}{llll}
   0&{\dn d.rtaraa.s.tra}&d.r|ta|raa.s|.tra&D.rtaraa.s.tra\\
@@ -56,17 +56,20 @@ they do, Sa\~{}njaya?''\\
   % ----------------------------------------------------------------------------
   1a&{\dn dharmak.setre}&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= manner; devotion; religion; virtue\\
+  &&&= devotion; duty; conduct; religion; virtue\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&k.se|tre&at/in/on a/the place\\
+  &&k.se|tre&{\dn k.setre}\\
+  &&&= at/in/on a/the place\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn k.setram} = k.setram}\\
   &&&\\
-  &{\dn kuruk.setre}&ku|ru|&Kuru\\
+  &{\dn kuruk.setre}&ku|ru|&{\dn kuru}\\
+  &&&= Kuru\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&k.se|tre&at/in/on a/the place\\
+  &&k.se|tre&{\dn k.setre}\\
+  &&&= at/in/on a/the place\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn k.setram} = k.setram}\\
   \hline
@@ -78,7 +81,7 @@ they do, Sa\~{}njaya?''\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn samaveta.h} = samaveta.h}\\
   &&\\
-  &{\dn yuyutsava.h}&yu|yut|sa|va|.h(a)&(?)\\
+  &{\dn yuyutsava.h}&yu|yut|sa|va\quad(|.h(a))&(?)\\
   &&&\note{\adjective}\\
   &&&\note{similar: \adjective, {\dn yuyutsu} = yuyutsu}\\
   &&&\note{= wanting to fight}\\
@@ -86,7 +89,7 @@ they do, Sa\~{}njaya?''\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamakaa.h}&maa|ma|kaa|.h(aa)&my\\
+  2a&{\dn maamakaa.h}&maa|ma|kaa\quad(|.h(aa))&my\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn maamaka.h} = maamaka.h}\\
   &&&\\
@@ -97,8 +100,10 @@ they do, Sa\~{}njaya?''\\
   &&&\note{from {\dn paa.n.dava.h} = paa.n.dava.h}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -112,7 +117,9 @@ they do, Sa\~{}njaya?''\\
   &&&\note{\verbb, \pasttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &{\dn sa~njaya}&sa\~{}n|ja|ya&O Sa\~{}njaya\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn sa~njaya.h} = sa~njaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
