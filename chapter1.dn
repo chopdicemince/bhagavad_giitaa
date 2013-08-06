@@ -1232,14 +1232,15 @@ by Bhiima, (known for) action and a wolf-stomach (big appetite).\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
 
-Anantavijaya (a conch shell) was blown by a son of Kuntii: (King)
-Yudhi.s.thira. Nakula and Sahedeva blew (the two conch shells)
+Anantavijaya (a conch shell) was blown by a king: Kuntii-son
+Yudhi.s.thira. Nakula and Sahadeva blew (the two conch shells)
 Sugho.sa and Ma.nipu.spaka.\\
 
 \begin{tabular}{llll}
   1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&Anantavijaya\\
   &&&= the name of a conch shell\\
-  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
+  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{from {\dn anantavijaya.h} = anantavijaya.h}\\
   &&&\\
   &{\dn raajaa}&raa|jaa&raaja.h\\
   &&&= {\dn raaja.h}\\
@@ -1256,13 +1257,13 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&= son\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra|.h(a)&Yudhi.s.thira\\
+  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra\quad(|.h(a))&Yudhi.s.thira\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nakula.h}&na|ku|la|.h(a)&Nakula\\
+  2a&{\dn nakula.h}&na|ku|la\quad(|.h(a))&Nakula\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sahadeva"sca}&sa|ha|de|va"s|&sahadeva.h\\
@@ -1271,6 +1272,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -1280,7 +1282,8 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&\\
   &&ma|.ni|pu.s|pa|kau&Ma.nipu.spaka\\
   &&&= the name of a conch shell\\
-  &&&\note{\noun, \male, \dual}
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
