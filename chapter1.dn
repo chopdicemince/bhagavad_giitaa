@@ -995,12 +995,13 @@ paternal grandfather (Bhii.sma) roars a lion sound loudly and blows
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 13}
 
-Then conch shells and a kettle drum and small drums, a drum, and a
-kind of musical instrument, suddenly and really were struck (?). That
-sound was tumultuous.\\
+From there, conch shells and a kettle drum and small drums, a drum,
+and copies of a kind of musical instrument---suddenly, really, were
+struck. That sound was tumultuous.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tata.h}&ta|ta|.h(a)&then\\
+  1a&{\dn tata.h}&ta|ta\quad(|.h(a))&from there; from then\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn "sa"nkhaa"sca}&"sa"n|khaa"s|&"sa"nkhaa.h\\
   &&&= {\dn "sa"nkhaa.h}\\
@@ -1009,6 +1010,7 @@ sound was tumultuous.\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn bherya"sca}&bher|ya"s|&(?) bhera.h\\
   &&&= {\dn bhera.h}\\
@@ -1016,6 +1018,7 @@ sound was tumultuous.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -1030,7 +1033,7 @@ sound was tumultuous.\\
   &&&= drum\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&go|mu|khaa|.h(aa)&gomukhaa.h\\
+  &&go|mu|khaa\quad(|.h(aa))&gomukhaa.h\\
   &&&= {\dn gomukhaa.h}\\
   &&&= plural of a kind of musical instrument\\
   &&&\note{\noun, \male, \plural}\\
@@ -1041,12 +1044,15 @@ sound was tumultuous.\\
 \begin{tabular}{llll}
   2a&{\dn sahasaivaabhyahanyanta}&sa|ha|sai|&sahasaa\\
   &&&= {\dn sahasaa}\\
-  &&&= suddenly\\
-  &&&\note{\adjective}\\
+  &&&= (?) using/by force; suddenly\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn sahas} = sahas}\\
+  &&&\note{\indeclinable}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really\\
+  &&vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&bhya|han|yan|ta&abhyahanyanta\\
+  &&bhya|ha|nyan|ta&abhyahanyanta\\
   &&&= {\dn abhyahanyanta}\\
   &&&= (?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -1065,7 +1071,7 @@ sound was tumultuous.\\
   &&&= tumultuous\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'bha|vat&abhavat = {\dn abhavat} = was\\
+  &&'bha|vat&abhavat = {\dn abhavat} = (he/she/it) was\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
 \end{tabular}
