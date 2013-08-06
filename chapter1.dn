@@ -851,8 +851,8 @@ Bhiima-protected.\\
 (Duryodhana said to the warriors:)\\
 
 At the equinox and solstice points (at the main points), and at all
-places, as ready---really, you each protect the Bhii.sma
-part---really, surely.\\
+places, just as part-steadfast---really, protect Bhii.sma, you all,
+really, surely.\\
 
 \begin{tabular}{llll}
   1a&{\dn ayane.su}&a|ya|ne|.su&at/in/on the equinox and solstice points\\
@@ -860,24 +860,26 @@ part---really, surely.\\
   &&&\note{from {\dn ayanam} = ayanam}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at/in/on all places\\
+  &{\dn sarve.su}&sar|ve|.su&at/in/on each/all thing(s)\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn yathaabhaagamavasthitaa.h}&ya|thaa|&as; like; just as\\
+  1b&{\dn yathaabhaagamavasthitaa.h}&ya|thaa|&just as\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&bhaa|ga|ma&bhaagam\\
+  &&bhaa|ga|ma|&bhaagam\\
   &&&= {\dn bhaagam}\\
   &&&= part\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhaaga.h} = bhaaga.h}\\
   &&&\\
-  &&vas|thi|taa|.h(aa)&avasthitaa.h\\
+  &&va|sthi|taa\quad(|.h(aa))&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
-  &&&= standing; ready; placed\\
+  &&&= standing; steadfast; ready\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn avasthita.h} = avasthita.h}\\
 \end{tabular}
@@ -890,7 +892,8 @@ part---really, surely.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhii.sma.h} = bhii.sma.h}\\
   &&&\\
-  &&me|vaa|&eva = {\dn eva} = really\\
+  &&me|vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&bhi|rak|.san|tu&abhirak.santu\\
   &&&= {\dn abhirak.santu}\\
@@ -900,15 +903,18 @@ part---really, surely.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn bhavanta.h}&bha|van|ta|.h(a)&you\\
-  &&&\note{\pronoun, \secondperson, number?}\\
+  2b&{\dn bhavanta.h}&bha|van|ta\quad(|.h(a))&you\\
+  &&&\note{\pronoun, \secondperson, \plural}\\
+  &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
   &{\dn sarva}&sar|va&each; all\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn eva}&e|va&really\\
+  &{\dn eva}&e|va&really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
