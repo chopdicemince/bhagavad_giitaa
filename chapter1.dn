@@ -610,9 +610,9 @@ of my soldier. I say for you the name-meaning (of) those.\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-You and Bhii.sma and Kar.na and K.rpa are group-victorious (or eminent
-in a group, or war-victorious). A"svatthaamaa, and Vikar.na, and the
-son of Sumadatta are likewise, really.\\
+You and Bhii.sma and Kar.na and K.rpa are
+committee-victorious. A"svatthaamaa, and Vikar.na, and the son of
+Sumadatta are likewise, really.\\
 
 \begin{tabular}{llll}
   1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|&bhavaan = {\dn bhavaan} = you\\
@@ -622,6 +622,7 @@ son of Sumadatta are likewise, really.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn kar.na"sca}&kar|.na"s|&kar.na.h\\
   &&&= {\dn kar.na.h}\\
@@ -629,6 +630,7 @@ son of Sumadatta are likewise, really.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -638,14 +640,18 @@ son of Sumadatta are likewise, really.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn samiti.mjaya.h}&sa|mi|ti.m|&samiti.h\\
-  &&&= {\dn samiti.h}\\
-  &&&= group; gathering; war\\
+  &{\dn samiti.mjaya.h}&sa|mi|ti.m|&samitim\\
+  &&&= {\dn samitim}\\
+  &&&= committee; war; group\\ 
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn samiti.h} = samiti.h}\\
   &&&\\
-  &&ja|ya|.h(a)&jaya.h\\
+  &&ja|ya\quad(|.h(a))&jaya.h\\
   &&&= {\dn jaya.h}\\
   &&&= victorious\\
+  &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -659,6 +665,7 @@ son of Sumadatta are likewise, really.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -669,11 +676,14 @@ son of Sumadatta are likewise, really.\\
   &&&\\
   &&thai|&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= thus; so; likewise\\
+  &&&= likewise; so\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
