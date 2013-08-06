@@ -644,7 +644,7 @@ Sumadatta are likewise, really.\\
   &&&\\
   &{\dn samiti.mjaya.h}&sa|mi|ti.m|&samitim\\
   &&&= {\dn samitim}\\
-  &&&= committee; war; group\\ 
+  &&&= committee; war; group\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn samiti.h} = samiti.h}\\
   &&&\\
@@ -1441,9 +1441,9 @@ they blew conch shells separately.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 19}
 
-That sound (of the conch shells) was (dividing?) to the hearts of the
-sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
-(resounding?) tumult.\\
+That sound (of the conch shells) divided the hearts of the sons of
+Dh.r.taraa.s.tra, the sky, and the earth, and really was a resounding
+tumult.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
@@ -1455,7 +1455,7 @@ sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa.s|.traa|.naa.m}\\
-  &&&\\ % Extra blank line.
+  &&&\\
   &&&of sons of Dh.r.taraa.s.tra\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
@@ -1465,6 +1465,7 @@ sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
   1b&{\dn h.rdayaani}&h.r|da|yaa|ni&hearts\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn h.rdayam} = h.rdayam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn vyadaarayat}&vya|daa|ra|yat&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
@@ -1481,14 +1482,19 @@ sons of Dh.r.taraa.s.tra, the sky, and the earth, and really was a
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn p.rthivii.m}&p.r|thi|vii.m&earth; land; soil\\
+  &{\dn p.rthivii.m}&p.r|thi|vii.m&p.rthiviim\\
+  &&&= {\dn p.rthiviim}\\
+  &&&= earth; land; soil\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn p.rthivii} = p.rthivii}\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
