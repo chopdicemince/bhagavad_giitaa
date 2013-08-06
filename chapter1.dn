@@ -769,20 +769,20 @@ sake), (with) abandoned-lives, (with) many weapons, all war-wise.\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-Not limited is that, our power, which is Bhii.sma-protected. But
-limited is this, the power of those (the Paa.n.davas), which is
+Not limited is that, our power, (which is) Bhii.sma-protected. But
+limited is this, the power of these (the Paa.n.davas), (which is)
 Bhiima-protected.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aparyaapta.m}&a|par|yaap|ta.m&not enough; not limited\\
+  1a&{\dn aparyaapta.m}&a|par|yaap|ta.m&aparyaaptam\\
+  &&&= {\dn aparyaaptam}\\
+  &&&= not + enough; limited\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \neuter,}\\
   &&&\note{{\dn paryaaptam} = paryaaptam}\\
   &&&\\
-  &{\dn tadasmaaka.m}&ta|da|&tad\\
-  &&&= {\dn tad}\\
-  &&&= that\\
+  &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&smaa|ka.m&asmaakam\\
@@ -794,7 +794,9 @@ Bhiima-protected.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn bala.m}&ba|la.m&power; force; strength\\
+  1b&{\dn bala.m}&ba|la.m&balam\\
+  &&&= {\dn balam}\\
+  &&&= power; force; strength\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn bhii.smaabhirak.sitam}&bhii.s|maa|&bhii.sma.h\\
@@ -810,21 +812,26 @@ Bhiima-protected.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn paryaapta.m}&par|yaap|ta.m&enough; limited\\
+  2a&{\dn paryaapta.m}&par|yaap|ta.m&paryaaptam\\
+  &&&= {\dn paryaaptam}\\
+  &&&= enough; limited\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn tvidamete.saa.m}&tvi|&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&da|me|&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&te|.saa.m&ete.saa.m = {\dn ete.saa.m} = of those/them\\
+  &&te|.saa.m&ete.saam = {\dn ete.saam} = of these/them\\
   &&&\note{\pronoun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn bala.m}&ba|la.m&power; force; strength\\
+  2b&{\dn bala.m}&ba|la.m&balam\\
+  &&&= {\dn balam}\\
+  &&&= power; force; strength\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima.h\\
