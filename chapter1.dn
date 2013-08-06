@@ -1079,16 +1079,17 @@ struck. That sound was tumultuous.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 14}
 
-Then, using white horses in a yoke, \dots (?) \dots in a chariot, and
+From there, using white horses in a yoke, in a great chariot,
 standing, K.r.s.na and the Paa.n.dava (Arjuna) really blew two divine
 conch shells.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tata.h}&ta|ta|.h(a)&then\\
+  1a&{\dn tata.h}&ta|ta\quad(|.h(a))&from there; from then\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn "svetairhayairyukte}&"sve|tair|&"svetai.h\\
   &&&= {\dn "svetai.h}\\
-  &&&= using/by white\\
+  &&&= using/by things white\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn "sveta.h} = "sveta.h}\\
   &&&\\
@@ -1100,28 +1101,28 @@ conch shells.\\
   &&&\\
   &&yuk|te&yukte\\
   &&&= {\dn yukte}\\
-  &&&= at/in/on a/the team; suitableness; yoke\\
+  &&&= at/in/on a/the yoke; team; suitableness\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn yuktam} = yuktam}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn mahati}&ma|ha|ti&(?) (he/she/it) honors; reveres; rejoices\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn mah} = mah}\\
+  1b&{\dn mahati}&ma|ha|ti&(?) at/in/on something great\\
+  &&&\note{\adjective, \neuter(?), \locativecase}\\
+  &&&\note{from {\dn mahat} = mahat}\\
   &&&\\
   &{\dn syandane}&syan|da|ne&at/in/on a/the flowing; chariot; coach\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn syandanam} = syandanam}\\
   &&&\\
-  &{\dn sthitau}&sthi|tau&present; prepared; standing\\
+  &{\dn sthitau}&sthi|tau&standing; staying; stopping; still\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maadhava.h}&maa|dha|va|.h(a)&K.r.s.na\\
+  2a&{\dn maadhava.h}&maa|dha|va\quad(|.h(a))&K.r.s.na\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paa.n.dava"scaiva}&paa.n|.da|va"s|&paa.n.dava.h\\
@@ -1131,12 +1132,14 @@ conch shells.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn divyau}&div|yau&divine\\
+  2b&{\dn divyau}&di|vyau&divine\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn divya.h} = divya.h}\\
   &&&\\
@@ -1144,7 +1147,7 @@ conch shells.\\
   &&&\note{\noun, \male, \dual}\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
-  &{\dn pradadhmatu.h}&pra|dadh|ma|tu|.h(u)&(?) blew\\
+  &{\dn pradadhmatu.h}&pra|dadh|ma|tu\quad(|.h(u))&(?) blew\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
