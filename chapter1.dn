@@ -920,21 +920,22 @@ really, surely.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 12}
 
-Joining the happiness of him (Duryodhana), the Kuru and old paternal
-grandfather (Bhii.sma) roars a lion sound loudly---and blows (?) a
-conch shell.\\
+Sticking (to) the happiness of him (Duryodhana), the venerable Kuru
+paternal grandfather (Bhii.sma) roars a lion sound loudly and blows
+(?) a conch shell powerfully.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tasya}&tas|ya&of that; of him\\
-  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  1a&{\dn tasya}&ta|sya&of that; of him (his)\\
+  &&&\note{\pronoun, \male, \genitivecase}\\
   &&&\note{from: \pronoun, \male, {\dn sa.h} = sa.h = that/he}\\
-  &&&\note{from: \pronoun, \neuter, {\dn tat} = tat = that/it}\\
   &&&\\
   &{\dn sa~njanayanhar.sa.m}&sa\~{}n|ja|na|yan|&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn sa~njanam} = sa\~{}njanam}\\
-  &&&\note{= connecting; joining; attaching}\\
+  &&&\note{= sticking; joining}\\
   &&&\\
-  &&har|.sa.m&happiness; sexual excitement; erection\\
+  &&har|.sa.m&har.sam\\
+  &&&= {\dn har.sam}\\
+  &&&= happiness; sexual excitement; erection\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn har.sa.h} = har.sa.h}\\
   \hline
@@ -943,12 +944,12 @@ conch shell.\\
   1b&{\dn kuruv.rddha.h}&ku|ru|&Kuru\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&v.rd|dha|.h(a)&v.rddha.h\\
+  &&v.rd|dha\quad(|.h(a))&v.rddha.h\\
   &&&= {\dn v.rddha.h}\\
-  &&&= old; eminent; wise\\
+  &&&= venerable; old; wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn pitaamaha.h}&pi|taa|ma|ha|.h(a)&paternal grandfather\\
+  &{\dn pitaamaha.h}&pi|taa|ma|ha\quad(|.h(a))&paternal grandfather\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -959,7 +960,9 @@ conch shell.\\
   &&&= lion\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&naa|da.m&sound\\
+  &&naa|da.m&naadam\\
+  &&&= {\dn naadam}\\
+  &&&= sound\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn naada.h} = naada.h}\\
   &&&\\
@@ -969,14 +972,16 @@ conch shell.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vinad} = vinad}\\
   &&&\\
-  &&cai|.h(i)&uccai.h\\
+  &&cai\quad(|.h(i))&uccai.h\\
   &&&= {\dn uccai.h}\\
   &&&= loudly; clearly\\
-  &&&\note{\adverb}\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn "sa"nkha.m}&"sa"n|kha.m&conch shell\\
+  2b&{\dn "sa"nkha.m}&"sa"n|kha.m&"sa"nkham\\
+  &&&= {\dn "sa"nkham}\\
+  &&&= conch shell\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
