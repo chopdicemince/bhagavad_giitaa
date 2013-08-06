@@ -691,19 +691,19 @@ Sumadatta are likewise, really.\\
 
 (Duryodhana said to the teacher Dro.na:)\\
 
-\dots other (?) \dots and many warrios, for me, for the meaning (for
-my sake), abandoned lives. They have many sword weapons. They are wise
-in each fight.\\
+And (at another place?) are many warriors, for me in meaning (for my
+sake), (with) abandoned-lives, (with) many weapons, all war-wise.\\
 
 \begin{tabular}{llll}
-  1a&{\dn anye}&an|ye&(?) at/in/on something different; other; strange\\
+  1a&{\dn anye}&a|nye&(?) at/in/on something different; other; strange\\
   &&&\note{\adjective, \male, \locativecase}\\
-  &&&\note{from {\dn anaya.h} = anya.h}\\
+  &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn bahava.h}&ba|ha|va|.h(a)&many\\
-  &&&\note{\noun, \male}\\
+  &{\dn bahava.h}&ba|ha|va\quad(|.h(a))&many\\
+  &&&\note{\adjective, \noun, \pronoun, \male}\\
   &&&\\
   &{\dn "suuraa}&"suu|raa&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
@@ -715,9 +715,9 @@ in each fight.\\
   % ----------------------------------------------------------------------------
   1b&{\dn madarthe}&ma|dar|&(?) me\\
   &&&= {\dn me}\\
-  &&&= for me; of me\\
-  &&&\note{\pronoun, \firstperson, \dativecase,}\\
-  &&&\note{\locativecase}\\
+  &&&= for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \locativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &&the&arthe\\
@@ -729,8 +729,7 @@ in each fight.\\
   &{\dn tyaktajiivitaa.h}&tyak|ta|&abandoned\\
   &&&\note{\adjective}\\
   &&&\\
-  &&jii|vi|taa|.h(aa)&(?)\\
-  &&&\note{\plural}\\
+  &&jii|vi|taa\quad(|.h(aa))&(?)\\
   &&&\note{similar: \noun, \male, {\dn jiivatha.h} = jiivatha.h}\\
   &&&\note{= breath; virtue; life}\\
 \end{tabular}
@@ -745,8 +744,7 @@ in each fight.\\
   &&&= missle; sword; weapon\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pra|ha|ra|.naa|.h(aa)&(?)\\
-  &&&\note{\plural}\\
+  &&pra|ha|ra|.naa\quad(|.h(aa))&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn prahara.nam} = prahara.nam}\\
   &&&\note{= missle; attack; weapon}\\
   \hline
@@ -759,8 +757,9 @@ in each fight.\\
   &{\dn yuddhavi"saaradaa.h}&yud|dha|&yuddham\\
   &&&= {\dn yuddham}\\
   &&&= battle; fight; war\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&vi|"saa|ra|daa|.h(aa)&famous; skilled; wise\\
+  &&vi|"saa|ra|daa\quad(|.h(aa))&famous; skilled; wise\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vi"saarada.h} = vi"saarada.h}\\
 \end{tabular}
