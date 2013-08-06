@@ -1156,12 +1156,15 @@ conch shells.\\
 Paa\~{}ncajanya (the conch shell of K.r.s.na) was blown by K.r.s.na,
 Devadatta (the conch shell of Arjuna) was blown by Arjuna, and
 Pau.n.dra (the conch shell of Bhiima), a great conch shell, was blown
-by Bhiima, known for action and a wolf stomach (big appetite).\\
+by Bhiima, (known for) action and a wolf-stomach (big appetite).\\
 
 \begin{tabular}{llll}
-  1a&{\dn paa~ncajanya.m}&paa\~{}n|ca|jan|ya.m&Paa\~{}ncajanya\\
+  1a&{\dn paa~ncajanya.m}&paa\~{}n|ca|ja|nya.m&paa\~{}ncajanyam\\
+  &&&= {\dn paa~ncajanyam}\\
+  &&&= Paa\~{}ncajanya\\
   &&&= the conch shell of K.r.s.na\\
-  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
+  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{from {\dn paa~ncajanya.h} = paa\~{}ncajanya.h}\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
   &&&= {\dn h.r.siike"sa.h}\\
@@ -1171,19 +1174,25 @@ by Bhiima, known for action and a wolf stomach (big appetite).\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn devadatta.m}&de|va|dat|ta.m&Devadatta\\
+  1b&{\dn devadatta.m}&de|va|dat|ta.m&devadattam\\
+  &&&= {\dn devadattam}\\
+  &&&= Devadatta\\
   &&&= the conch shell of Arjuna\\
-  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
+  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{from {\dn devadatta.h} = devadatta.h}\\
   &&&\\
-  &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya|.h(a)&Dhana\~{}njaya = Arjuna\\
+  &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya\quad(|.h(a))&Dhana\~{}njaya = Arjuna\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn pau.n.dra.m}&pau.n|.dra.m&Pau.n.dra\\
+  2a&{\dn pau.n.dra.m}&pau.n|.dra.m&pau.n.dram\\
+  &&&= {\dn pau.n.dram}\\
+  &&&= Pau.n.dra\\
   &&&= the conch shell of Bhiima\\
-  &&&\note{\noun, \male?, \neuter?, \accusativecase}\\
+  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{from {\dn pau.n.dra.h} = pau.n.dra.h}\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&(?) blew\\
   &&&\\
@@ -1214,7 +1223,7 @@ by Bhiima, known for action and a wolf stomach (big appetite).\\
   &&&= wolf\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&da|ra|.h(a)&udaram\\
+  &&da|ra\quad(|.h(a))&udaram\\
   &&&= {\dn udaram}\\
   &&&= stomach; abdomen; belly\\
   &&&\note{\noun, \neuter}\\
