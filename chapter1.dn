@@ -1370,9 +1370,9 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
 \section*{Chapter 1, Verse 18}
 
 \dots Drupada and the sons of Draupadii;\\
-and all;\\
+and altogether;\\
 O King;\\
-and the son of Subhadraa, with a great arm---\\
+and the son of Subhadraa, (with a) great arm---\\
 they blew conch shells separately.\\
 
 \begin{tabular}{llll}
@@ -1388,10 +1388,12 @@ they blew conch shells separately.\\
   &&&\note{from {\dn draupadeya.h} = draupadeya.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn sarva"sa.h}&sar|va|"sa|.h(a)&all\\
+  1b&{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&altogether\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn p.rthiviipate}&p.r|thi|vii|pa|te&O King\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -1406,13 +1408,14 @@ they blew conch shells separately.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn mahaabaahu.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
   &&&= great\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&baa|hu|.h(u)&baahu.h\\
+  &&baa|hu\quad(|.h(u))&baahu.h\\
   &&&= {\dn baahu.h}\\
   &&&= arm; forearm\\
   &&&\note{\noun, \male}\\
@@ -1423,11 +1426,16 @@ they blew conch shells separately.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
-  &&dadh|mu|.h(u)&(?) blew\\
+  &&dadh|mu|.h(u)&{\dn dadhmu.h}\\
+  &&&= (?) blew\\
   &&&\\
-  &{\dn p.rthakp.rthak}&p.r|thak|&separately\\
+  &{\dn p.rthakp.rthak}&p.r|thak|&{\dn p.rthak}\\
+  &&&= separately\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&p.r|thak&separately\\
+  &&p.r|thak&{\dn p.rthak}\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&= separately\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
