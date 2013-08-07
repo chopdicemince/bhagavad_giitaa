@@ -1726,13 +1726,13 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
 
 (Arjuna said to K.r.s.na:)\\
 
-\dots with me, to be fought, in this war, in effort.\\
+\dots using what, with me, to be fought, in this war, in effort.\\
 
 \begin{tabular}{llll}
   1a&{\dn kairmayaa}&kair|&kai.h\\
   &&&= {\dn kai.h}\\
-  &&&= (?) with whom/what\\
-  &&&\note{\pronoun, \male, \neuter, \plural, \instrumentalcase}\\
+  &&&= using/by whom/what\\
+  &&&\note{\pronoun, \male(?), \plural, \instrumentalcase}\\
   &&&\note{from {\dn ka.h} = ka.h = who/what}\\
   &&&\\
   &&ma|yaa&using/by me\\
@@ -1740,6 +1740,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn saha}&sa|ha&with\\
+  &&&\note{\preposition, \indeclinable}\\
   &&&\\
   &\multicolumn{3}{l}{\dn yoddhavyamasminra.nasamudyame}\\
   &&&\\
@@ -1751,10 +1752,11 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&&mas|min|&asmin\\
+  1b&&ma|smin|&asmin\\
   &&&= {\dn asmin}\\
   &&&= at/in/on this\\
   &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&ra|.na|&ra.nam\\
   &&&= {\dn ra.nam}\\
