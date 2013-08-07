@@ -1616,8 +1616,9 @@ K.r.s.na, then said this group of words, O great master.\\
 
 Arjuna said (to K.r.s.na):\\
 
-Between the two armies, stop my chariot, O Permanent (O K.r.s.na),
-while I see these with fight-desires, placed, \dots\\
+In the midde of the two armies, stop my chariot, O non-disappearing
+one (O K.r.s.na), while I see these (with) fight-desires, standing,
+\dots\\
 
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
@@ -1626,9 +1627,10 @@ while I see these with fight-desires, placed, \dots\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
-  \hline
-  &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
   &&&= of two armies; at/in/on two armies\\
@@ -1641,15 +1643,22 @@ while I see these with fight-desires, placed, \dots\\
   &&&\note{\pronoun, \female, \dual, \genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
-  &&ma|dhye&between\\
+  &&ma|dhye&at/in/on a/the middle\\
+  &&&\note{\adjective, \male(?), \locativecase}\\
+  &&&\note{from {\dn madhya.h} = mahdya.h}\\
+  &&&\note{\indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn ratha.m}&ra|tha.m&chariot; cart; warrior\\
+  1b&{\dn ratha.m}&ra|tha.m&ratham\\
+  &&&= {\dn ratham}\\
+  &&&= chariot; cart; warrior\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn ratha.h} = ratha.h}\\
   &&&\\
-  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu = {\dn sthaapayatu} = (you) stop\\
+  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu\\
+  &&&= {\dn sthaapayatu}\\
+  &&&= (you) stop\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
@@ -1658,7 +1667,9 @@ while I see these with fight-desires, placed, \dots\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&'cyu|ta&acyuta = {\dn acyuta} = O Permanent = O K.r.s.na\\
+  &&'cyu|ta&acyuta = {\dn acyuta}\\
+  &&&= O (not + disappeared)\\
+  &&&= O K.r.s.na\\
   &&&\note{\adjective, \male, \vocativecase}\\
   &&&\note{from {\dn acutya.h} = acyuta.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
@@ -1668,7 +1679,10 @@ while I see these with fight-desires, placed, \dots\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yaavadetaanniriik.se.aha.m}&yaa|va|&yaavat = {\dn yaavat} = while\\
+  2a&\multicolumn{3}{l}{\dn yaavadetaanniriik.se.aha.m}\\
+  &&&\\
+  &&yaa|va|&yaavat = {\dn yaavat} = while\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&de|taan|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
@@ -1684,21 +1698,28 @@ while I see these with fight-desires, placed, \dots\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn yoddhukaamaanavasthitaan}&yod|dhu|&yoddham\\
+  2b&\multicolumn{3}{l}{\dn yoddhukaamaanavasthitaan}\\
+  &&&\\
+  &&yod|dhu|&yoddham\\
   &&&= {\dn yoddham}\\
   &&&= fight\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kaa|maa|na|&sexual love; desire; love\\
+  &&kaa|maa|na|&kaamaan\\
+  &&&= kaamaan\\
+  &&&= sexual love; love; desires\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
-  &&va|sthi|taan&avisthitaan\\
-  &&&= {\dn avisthitaan}\\
-  &&&= ready; placed; standing\\
+  &&va|sthi|taan&avasthitaan\\
+  &&&= {\dn avasthitaan}\\
+  &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn avasthita.h} = avasthita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 22}
