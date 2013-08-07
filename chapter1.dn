@@ -2021,28 +2021,29 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
 
 There, the prince (Arjuna) could see, standing, fathers, then paternal
 grandfathers, teachers, maternal uncles, brothers, sons, sons of sons,
-brothers of sisters of wives, fathers-in-law, and friends, really, in
-the two armies, also.\\
+brothers of sisters of wives---likewise, fathers-in-law, and friends,
+really, in the two armies, also.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn tatraapa"syatsthitaanpaartha.h}}\\
   &&ta|traa|&tatra\\
   &&&= {\dn tatra}\\
   &&&= there\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&pa"s|yat|&apa"syat\\
+  &&pa"|syat|&apa"syat\\
   &&&= {\dn apa"syat}\\
   &&&= (he/she/it) could see\\
   &&&\note{\verbb, \presenttense, \conditionalmood,}\\
   &&&\note{\thirdperson, \singular}\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&sthi|taan|&{\dn sthitaan}\\
-  &&&= present; standing; situated\\
+  &&&= standing; staying; stopping; still\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
   &&&\\
-  &&paar|tha|.h(a)&{\dn paartha.h}\\
+  &&paar|tha\quad(|.h(a))&{\dn paartha.h}\\
   &&&= prince\\
   &&&= Arjuna\\
   &&&\note{\noun, \male}\\
@@ -2058,6 +2059,7 @@ the two armies, also.\\
   &&tha&atha\\
   &&&= {\dn atha}\\
   &&&= then\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn pitaamahaan}&pi|taa|ma|haan&paternal grandfathers\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
@@ -2078,7 +2080,7 @@ the two armies, also.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn maatula.h} = maatula.h}\\
   &&&\\
-  &&bhraa|t.rrn&{\dn bhraat.Rn}\\
+  &&bhraa|t.rrn|&{\dn bhraat.Rn}\\
   &&&= brothers\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn bhraat.r} = bhraat.r}\\
@@ -2101,42 +2103,49 @@ the two armies, also.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sakhi.h} = sakhi.h}\\
   &&&\\
-  &&sta|thaa&{\dn stathaa}\\
-  &&&= thus; likewise; so\\
+  &&sta|thaa&tathaa\\
+  &&&= {\dn tathaa}\\
+  &&&= likewise\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   3a&{\dn "sva"suraansuh.rda"scaiva}&"sva|"su|raan|&{\dn "sva"suraan}\\
   &&&= fathers-in-law\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn "sva"sura.h} = "sva"sura.h}\\
   &&&\\
-  &&su|h.r|da"s|&(?) suh.rda.h\\
+  &&su|h.r|da"s|&suh.rda.h\\
   &&&= {\dn suh.rda.h}\\
-  &&&= friends\\
+  &&&= (?) friends\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn suh.rt} = suh.rt}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   3b&{\dn senayorubhayorapi}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
   &&&= of two armies; at/in/on two armies\\
-  &&&\note{\noun, \female, \dual, \genitivecase,}\\
-  &&&\note{\locativecase}\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&ru|bha|yo|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
   &&&= of two things; at/in/on two things\\
-  &&&\note{\noun, \female, \dual, \genitivecase,}\\
-  &&&\note{\locativecase}\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ra|pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
