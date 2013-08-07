@@ -2154,9 +2154,9 @@ really, in the two armies, also.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 27}
 
-Those, \dots were seen cautiously (?) \dots by that son (Arjuna) of
-Kuntii---all relatives, standing. By the most compassion, filled with
-sadness, he said this: \dots\\
+Those (were seen) cautiously (by) that son of Kuntii (meaning
+Arjuna)---all relatives, standing. Filled by paramount kindness, being
+sad, he said this: \dots\\
 
 \begin{tabular}{llll}
   1a&{\dn taansamiik.sya}&taan|&{\dn taan}\\
@@ -2168,12 +2168,10 @@ sadness, he said this: \dots\\
   &&&= cautiously\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn sa}&sa&sa.h\\
-  &&&= {\dn sa.h}\\
-  &&&= that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn kaunteya.h}&kaun|te|ya|.h(a)&son of Kuntii\\
+  &{\dn kaunteya.h}&kaun|te|ya\quad(|.h(a))&son of Kuntii\\
   &&&= Arjuna\\
   &&&\note{\noun, \male}\\
   \hline
@@ -2188,26 +2186,25 @@ sadness, he said this: \dots\\
   &&&\\
   &&ban|dhuu|na|&bandhuun\\
   &&&= {\dn bandhuun}\\
-  &&&= relatives; friends\\
+  &&&= bonds; relatives; friends\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn bandhu.h} = bandhu.h}\\
   &&&\\
   &&va|sthi|taan&avasthitaan\\
   &&&= {\dn avasthitaan}\\
-  &&&= standing; ready; placed\\
+  &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn avasthita.h} = avasthita.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by favor; grace; compassion\\
-  &&&= ``please''\\
+  2a&{\dn k.rpayaa}&k.r|pa|yaa&using/by kindness; compassion\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn k.rpaa} = k.rpaa}\\
   &&&\\
   &{\dn parayaavi.s.to}&pa|ra|yaa|&{\dn parayaa}\\
-  &&&= using/by a/the most important thing\\
+  &&&= using/by something other; different; paramount\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn paraa} = paraa}\\
   &&&\\
@@ -2217,9 +2214,9 @@ sadness, he said this: \dots\\
   &&&\note{\adjective, \male}\\
   \hline
   &&&\\
-  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&(?) {\dn vi.siidan}\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
-  &&&\note{{\dn vi.siidati} = vi.siidati = (he/she/it) is sad}\\
+  2b&{\dn vi.siidannidamabraviit}&vi|.sii|dan|&{\dn vi.siidan}\\
+  &&&= being sad\\
+  &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn vi.sad} = vi.sad}\\
   &&&\\
   &&ni|da|ma|&idam\\
@@ -2227,9 +2224,9 @@ sadness, he said this: \dots\\
   &&&= this\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&bra|viit&(?) abraviit\\
+  &&bra|viit&abraviit\\
   &&&= {\dn abraviit}\\
-  &&&= (he/she/it) said\\
+  &&&= (?) (he/she/it) said\\
   &&&\note{root: {\dn bruu} = bruu}\\
 \end{tabular}
 \newpage
