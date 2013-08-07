@@ -2315,8 +2315,9 @@ arms and legs sink, and my mouth dries up.\\
 
 (Arjuna said to K.r.s.na:)\\
 
-And a trembling is on my body. And a standing up of my hairs is being
-born. My bow slips from my hand. And my skin really burns.\\
+And trembling is on my body. And a standing up of my hairs (goose
+pimples) is being born. The (my) bow slips from the (my) hand. And the
+(my) skin really burns.\\
 
 \begin{tabular}{llll}
   1a&{\dn vepathu"sca}&ve|pa|thu"s|&vepathu.h\\
@@ -2325,14 +2326,15 @@ born. My bow slips from my hand. And my skin really burns.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn "sariire}&"sa|rii|re&at/in/on a/the body\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn "sariiram} = "sariiram}\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase,}\\
-  &&&\note{\genitivecase}\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham}\\
   \hline
   &&&\\
@@ -2344,6 +2346,7 @@ born. My bow slips from my hand. And my skin really burns.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&(he/she/it) is being born; is happening\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2360,7 +2363,7 @@ born. My bow slips from my hand. And my skin really burns.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sra.ms} = sra.ms}\\
   &&&\\
-  &{\dn hastaattvakcaiva}&has|taat|&{\dn hastaat}\\
+  &{\dn hastaattvakcaiva}&ha|staat|&{\dn hastaat}\\
   &&&= from a/the hand\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn hasta.h} = hasta.h}\\
@@ -2373,8 +2376,10 @@ born. My bow slips from my hand. And my skin really burns.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn paridahyate}&pa|ri|da|hya|te&(he/she/it) burns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
