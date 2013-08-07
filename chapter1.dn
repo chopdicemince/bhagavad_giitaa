@@ -2236,7 +2236,7 @@ sad, he said this: \dots\\
 Arjuna said (to K.r.s.na):\\
 
 Having seen this family, O K.r.s.na, wanting to fight and ready, my
-arms and legs weaken, and my mouth dries up.\\
+arms and legs sink, and my mouth dries up.\\
 
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
@@ -2254,11 +2254,13 @@ arms and legs weaken, and my mouth dries up.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&ma.m&{\dn ima.m} = this\\
+  &&ma.m&imam = {\dn imam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &{\dn svajana.m}&sva|ja|na.m&family; relative\\
+  &{\dn svajana.m}&sva|ja|na.m&svajanam\\
+  &&&= {\dn svajanam}\\
+  &&&= family; relative\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
@@ -2268,18 +2270,20 @@ arms and legs weaken, and my mouth dries up.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn yuyutsu.m}&yu|yut|su.m&(?) wanting to fight\\
+  1b&{\dn yuyutsu.m}&yu|yut|su.m&yuyutsum\\
+  &&&= {\dn yuyutsum}\\
+  &&&= (?) wanting to fight\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn yuyutsu.h} = yuyutsu.h}\\
   &&&\\
-  &{\dn samupasthitam}&sa|mu|pas|thi|tam&attained; ready; started\\
+  &{\dn samupasthitam}&sa|mu|pa|sthi|tam&attained; ready; started\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn samupasthita.h} = samupasthita.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn siidanti}&sii|dan|ti&(they) sit; sink; weaken\\
+  2a&{\dn siidanti}&sii|dan|ti&(they) sink; sit; weaken\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sad} = sad}\\
   &&&\\
@@ -2293,10 +2297,13 @@ arms and legs weaken, and my mouth dries up.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn mukha.m}&mu|kha.m&mouth; face; important part\\
+  2b&{\dn mukha.m}&mu|kha.m&mukham\\
+  &&&= {\dn mukham}\\
+  &&&= mouth; face; important part\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn pari"su.syati}&pa|ri|"su|.sya|ti&(he/she/it) dries up; shrivels; withers\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
