@@ -1515,16 +1515,17 @@ tumult.\\
 
 (Sa\~{}njaya said to King Dh.rtaraa.s.tra:)\\
 
-Then, having seen the sons of Dh.rtaraa.s.tra arranged---with a monkey
-flag (for the monkey god Hanumaan), with a started missle (arrow) in a
-fall, with a raised bow, the Paa.n.dava (Arjuna), to K.r.s.na, then
-said this group of words, O great master.\\
+Then, having seen the sons of Dh.rtaraa.s.tra standing---(with) a
+monkey flag (representing the god Hanumaan), (with) a started missle
+(arrow) in a fall, (with) a raised bow, the Paa.n.dava (Arjuna), to
+K.r.s.na, then said this group of words, O great master.\\
 
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&then\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn vyavasthitaand.r.s.tvaa}&vya|va|sthi|taan|&{\dn vyavasthitaan}\\
-  &&&= present; placed; arranged\\
+  &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural,}\\
   &&&\note{\accusativecase}\\
   &&&\note{from {\dn vyavasthita.h} = vyavasthita.h}\\
@@ -1537,13 +1538,13 @@ said this group of words, O great master.\\
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa.s|.traan|&sons of Dh.rtaraa.s.tra\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
   &&ka|pi|&kapi.h = {\dn kapi.h} = monkey\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&dhva|ja|.h(a)&flag\\
+  &&dhva|ja\quad(|.h(a))&flag\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
@@ -1555,6 +1556,7 @@ said this group of words, O great master.\\
   &{\dn "sastrasampaate}&"sas|tra|&"sastram\\
   &&&= {\dn "sastram}\\
   &&&= missle; sword; weapon\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&sam|paa|te&in a/the collision; clash; fall\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -1563,28 +1565,35 @@ said this group of words, O great master.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn dhanurudyamya}&dha|nu|&dhanum = {\dn dhanum} = bow (in archery)\\
+  2b&{\dn dhanurudyamya}&dha|nu|&dhanum\\
+  &&& = {\dn dhanum}\\
+  &&&= bow (in archery)\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ru|dyam|ya&udyamya\\
+  &&ru|dya|mya&udyamya\\
   &&&= {\dn udyamya}\\
   &&&= undertaken; raised\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn paa.n.dava.h}&paa.n|.da|va|.h(a)&Paa.n.dava\\
+  &{\dn paa.n.dava.h}&paa.n|.da|va\quad(|.h(a))&Paa.n.dava\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&K.r.s.na\\
+  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&h.r.siike"sam\\
+  &&&= {\dn h.r.siike"sam}\\
+  &&&= K.r.s.na\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
   &&&\\
   &{\dn tadaa}&ta|daa&then\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn vaakyamidamaaha}&vaa|kya|&vaakyam\\
   &&&= {\dn vaakyam}\\
   &&&= saying; sentence; group of words\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
