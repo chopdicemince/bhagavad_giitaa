@@ -2556,17 +2556,17 @@ of) happiness.\\
 (Arjuna said to K.r.s.na:)\\
 
 What (good) for us is using a kingdom, O K.r.s.na? What (good), using
-pleasures, using life, yes/no? For the sake of which ones (what
-people) is a wish for us for a kingdom, pleasures, and things of
+pleasures, using life, yes/no? In the sake of whom (for whose sake) is
+a wish for us (for) a kingdom, pleasures, and (occurrences of)
 happiness?\\
 
 \begin{tabular}{llll}
-  1a&{\dn ki.m}&ki.m&what\\
+  1a&{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural, \accusativecase,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &{\dn raajyena}&raa|jye|na&using/by a/the kingdom; state; government\\
@@ -2579,12 +2579,12 @@ happiness?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn ki.m}&ki.m&what\\
+  1b&{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &{\dn bhogairjiivitena}&bho|gair|&bhogai.h\\
   &&&= {\dn bhogai.h}\\
-  &&&= using/by pleasures; wealth; eating\\
+  &&&= using/by pleasures (such as eating)\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
@@ -2593,45 +2593,51 @@ happiness?\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn jiivitam} = jiivitam}\\
   &&&\\
-  &{\dn vaa}&vaa&(yes/no question)\\
+  &{\dn vaa}&vaa&``yes/no question''\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ye.saamarthe}&ye|.saa|mar|&(?) ye.saam\\
+  2a&{\dn ye.saamarthe}&ye|.saa|mar|&ye.saam\\
   &&&= {\dn ye.saam}\\
-  &&&= of ones\\
-  &&&\note{\pronoun, \plural, \genitivecase}\\
+  &&&= (?) of ones/whom/what\\
+  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn ya.h} = ya.h = one}\\
   &&&\\
   &&the&arthe\\
   &&&= {\dn arthe}\\
-  &&&= for the sake of; on behalf of\\
-  &&&\note{\suffix}\\
+  &&&= at/in/on a/the meaning; purpose; sake\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&\note{\suffix, \indeclinable}\\
   &&&\\
-  &{\dn kaa"nk.sita.m}&kaa"nk|.si|ta.m&(?)\\
-  &&&\note{similar: \noun, \female, {\dn kaa"nk.saa} = kaa"nk.saa}\\
-  &&&\note{= wish; desire}\\
+  &{\dn kaa"nk.sita.m}&kaa"nk|.si|ta.m&kaa"nk.sitam\\
+  &&&= {\dn kaa"nk.sitam}\\
+  &&&= wish; desire\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural, \accusativecase,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn raajya.m}&raa|jya.m&kingdom; state; government\\
+  2b&{\dn raajya.m}&raa|jya.m&raajyam\\
+  &&&= {\dn raajyam}\\
+  &&&= kingdom; state; government\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn bhogaa.h}&bho|gaa|.h(aa)&pleasures; wealth; eating\\
+  &{\dn bhogaa.h}&bho|gaa|.h(aa)&pleasures (such as eating)\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
-  &{\dn sukhaani}&su|khaa|ni&things of happiness\\
+  &{\dn sukhaani}&su|khaa|ni&(occurrences of) happiness\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
