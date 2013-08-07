@@ -1776,9 +1776,9 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
 
 (Arjuna said to K.r.s.na:)\\
 
-I see \dots (?) \dots, \dots one (?) \dots, these here, assembled, for
-the wicked mind of the son (Duryodhana) of Dh.rtaraa.s.tra, in a war
-with a dear wish.\\
+I, one, see \dots (?) \dots. These are here, together, (for) the
+wicked intelligence of the son (Duryodhana) of Dh.rtaraa.s.tra, in a
+war (with) a preferred wish.\\
 
 \begin{tabular}{llll}
   1a&{\dn yotsyamaanaanavek.se.aha.m}&\multicolumn{2}{l}{yot|sya|maa|naa|na|}\\
@@ -1795,12 +1795,12 @@ with a dear wish.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn avek.s} = avek.s}\\
   &&&\\
-  &&'ha.m&aha.m = {\dn aha.m} = I\\
+  &&'ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn ya}&ya&(?) ya.h = {\dn ya.h} = one\\
+  1b&{\dn ya}&ya&(?) ya.h = {\dn ya.h} = one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn ete.atra}&e|te|&these/they\\
@@ -1810,10 +1810,11 @@ with a dear wish.\\
   &&'tra&atra\\
   &&&= {\dn atra}\\
   &&&= here\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn samaagataa.h}&\multicolumn{2}{l}{sa|maa|ga|taa|.h(aa)}\\
+  &{\dn samaagataa.h}&\multicolumn{2}{l}{sa|maa|ga|taa\quad(|.h(aa))}\\
   &&&\\
-  &&&joined; assembled; together\\
+  &&&joined; together\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn samaagata.h} = samaagata.h}\\
 \end{tabular}
@@ -1824,25 +1825,29 @@ with a dear wish.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
-  &{\dn durbuddheryuddhe}&dur|&(?) dur = {\dn dur} = bad; difficult; wicked\\
+  &{\dn durbuddheryuddhe}&dur|&(?) dur\\
+  &&&= {\dn dur}\\
+  &&&= bad; difficult; wicked\\
   &&&\note{\adjective}\\
   &&&\\
-  &&bud|dher&buddhi.h\\
+  &&bud|dher|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
-  &&&= knowledge; mind; intelligence\\
+  &&&= brainpower; intelligence\\
+  &&&\note{\noun, \female}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  &&yud|dhe|&at/in/on a/the war; battle; fight\\
+  &&yud|dhe|&{\dn yuddhe}\\
+  &&&= at/in/on a/the war; battle; fight\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn yuddham} = yuddham}\\
   &&&\\
   2b&{\dn priyacikiir.sava.h}&pri|ya|&priya\\
   &&&= {\dn priya}\\
-  &&&= loved; favorite; dear\\
+  &&&= preferred; pleasant; loved; favorite\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ci|kiir|.sa|va|.h(a)&(?)\\
+  &&ci|kiir|.sa|va\quad(|.h(a))&(?)\\
   &&&\note{similar: \noun, \female, {\dn cikiir.saa} = cikiir.saa}\\
   &&&\note{= desire; wish; intention}\\
 \end{tabular}
