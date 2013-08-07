@@ -1857,9 +1857,9 @@ war (with) a preferred wish.\\
 
 Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
 
-Thus, (these words were) said to K.r.s.na by Arjuna, O descendant of
-Bharata (O King Dh.rtaraa.s.tra), between the two armies, with
-K.r.s.na having stopped the best chariot.\\
+Really, (these words were) said to K.r.s.na by Arjuna, O descendant of
+Bharata (O King Dh.rtaraa.s.tra), in the middle of the two armies,
+(with K.r.s.na) having stopped the best chariot.\\
 
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
@@ -1871,7 +1871,8 @@ K.r.s.na having stopped the best chariot.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1a&{\dn evamukto}&e|va|&evam = {\dn evam} = thus\\
+  1a&{\dn evamukto}&e|va|&evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&muk|to&ukta = {\dn ukta} = said\\
   &&&\note{\adjective}\\
@@ -1906,11 +1907,15 @@ K.r.s.na having stopped the best chariot.\\
   &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
-  &&ma|dhye&between/among\\
+  &&ma|dhye&{\dn madhye}\\
+  &&&= at/in/on a/the middle\\
+  &&&\note{\adjective, \male(?), \locativecase}\\
+  &&&\note{from {\dn madhya.h} = madhya.h}\\
+  &&&\note{\indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having put; kept; stopped\\
+  2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having stopped; set\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
@@ -1921,7 +1926,7 @@ K.r.s.na having stopped the best chariot.\\
   &&&\\
   &&ta|mam&uttamam\\
   &&&= {\dn uttamam}\\
-  &&&= best\\
+  &&&= ultimate; best\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn uttama.h} = uttama.h}\\
 \end{tabular}
