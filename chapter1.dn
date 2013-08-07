@@ -1936,8 +1936,8 @@ Bharata (O King Dh.rtaraa.s.tra), in the middle of the two armies,
 
 (K.r.s.na said to Arjuna:)\\
 
-In front of Bhii.sma, Dro.na, and all world inhabitants, K.r.s.na
-said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
+In front of Bhii.sma, Dro.na, and all world inhabitants, (K.r.s.na)
+said, ``O prince (O Arjuna), see these joined Kurus.''\\
 
 \begin{tabular}{llll}
   1a&{\dn bhii.smadro.napramukhata.h}&bhii.s|ma|&Bhii.sma\\
@@ -1946,21 +1946,29 @@ said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
   &&dro|.na|&Dro.na\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pra|mu|kha|ta|.h(a)&in front of\\
+  &&\multicolumn{2}{l}{pra|mu|kha|ta\quad(|.h(a))}\\
+  &&&\\
+  &&&in front of\\
+  &&&\note{\adverb}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&(?) all\\
+  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&sarves.saam\\
+  &&&= {\dn sarve.saam}\\
+  &&&= of each; all\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn mahiik.sitaam}&ma|hii|&{\dn mahii}\\
-  &&&= earth; space; world\\
+  &&&= earth; heaven; world\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&k.si|taam&(?) k.sitaan\\
+  &&k.si|taam&k.sitaan\\
   &&&= {\dn k.sitaan}\\
-  &&&= inhabitants\\
+  &&&= (?) inhabitants\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn k.sit} = k.sit}\\
 \end{tabular}
@@ -1971,15 +1979,18 @@ said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{from {\dn vad} = vad}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O son of P.rthaa\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn pa"syaitaansamavetaankuruuniti}&pa"s|yai|&pa"syatu\\
+  &\multicolumn{3}{l}{\dn pa"syaitaansamavetaankuruuniti}\\
+  &&&\\
+  &&pa|"syai|&pa"syatu\\
   &&&= {\dn pa"syatu}\\
   &&&= (you) see\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&taan|&etaan\\
   &&&= {\dn etaan}\\
@@ -1990,7 +2001,7 @@ said, ``O son of P.rthaa (O Arjuna), see these assembled Kurus.''\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&sa|ma|ve|taan|&{\dn samavetaan}\\
-  &&&= together; united; assembled\\
+  &&&= joined\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn samaveta.h} = samaveta.h}\\
   &&&\\
