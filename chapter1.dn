@@ -2391,13 +2391,15 @@ pimples) is being born. The (my) bow slips from the (my) hand. And the
 
 (Arjuna said to K.r.s.na:)\\
 
-And I am not able to be fixed (steady; stable). And it is as if my
-mind wanders. And I see oppositive reasons, O K.r.s.na.\\
+And I am not able to solidify. And (it is) as if my mind wanders. And
+I see inverse reasons, O K.r.s.na.\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn "saknomyavasthaatu.m}&"sak|no|mya|&"saknomi\\
   &&&= {\dn "saknomi}\\
@@ -2405,12 +2407,10 @@ mind wanders. And I see oppositive reasons, O K.r.s.na.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn "sak} = "sak}\\
   &&&\\
-  &&vas|thaa|tu.m&(?) avasthaatu.m\\
+  &&va|sthaa|tu.m&(?) avasthaatu.m\\
   &&&= {\dn avasthaatu.m}\\
-  &&&= to fix; establish; place\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
-  &&&\note{\singular, {\dn avasthaapayati} = avasthaapayati}\\
-  &&&\note{root: {\dn avasthaa} = avasthaa}\\
+  &&&= to stop; solidify\\
+  &&&\note{\verbb, \infinitive}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2420,16 +2420,18 @@ mind wanders. And I see oppositive reasons, O K.r.s.na.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhram} = bhram}\\
   &&&\\
-  &&va&iva = {\dn iva} = like; nearly; as if\\
+  &&va&iva = {\dn iva} = as if\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase,}\\
-  &&&\note{\genitivecase}\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn mana.h}&ma|na|.h(a)&mind\\
+  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2440,15 +2442,16 @@ mind wanders. And I see oppositive reasons, O K.r.s.na.\\
   &&&\note{from {\dn nimittam} = nimittam}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn pa"syaami}&pa"s|yaa|mi&(I) see\\
+  &{\dn pa"syaami}&pa"|syaa|mi&(I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&inverses; opposites\\
-  &&&\note{\noun\ or \adjective, \neuter, \plural, \accusativecase}\\
+  &&&\note{\noun, \adjective, \neuter, \plural, \accusativecase}\\
   &&&\note{from {\dn vipariitam} = vipariitam}\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
