@@ -2646,7 +2646,7 @@ happiness?\\
 (Arjuna said to K.r.s.na:)\\
 
 Those, these, standing, in a war, having abandoned life and pieces of
-money---teachers, fathers (ancestors), sons, thus, really, and
+money---teachers, fathers (ancestors), sons, likewise, really, and
 paternal grandfathers.\\
 
 \begin{tabular}{llll}
@@ -2661,7 +2661,7 @@ paternal grandfathers.\\
   &&&\\
   &&'va|sthi|taa&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
-  &&&= standing; ready; placed\\
+  &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn avasthita.h} = avasthita.h}\\
   &&&\\
@@ -2672,13 +2672,13 @@ paternal grandfathers.\\
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn praa.naa.mstyaktvaa}&praa|.naa.m|&{\dn praa.naam}\\
-  &&&= breath; life; power\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn praa.na.h} = praa.na.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \male, {\dn praa.na.h} = praa.na.h}\\
+  &&&\note{= breath; life; power}\\
   &&&\\
   &&styakt|vaa&tyaktvaa\\
   &&&= {\dn tyaktvaa}\\
-  &&&= having given up; left; abandoned\\
+  &&&= having abandoned\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
@@ -2687,15 +2687,16 @@ paternal grandfathers.\\
   &&&\note{from {\dn dhanam} = dhanam}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aacaaryaa.h}&aa|caar|yaa|.h(aa)&teachers\\
+  2a&{\dn aacaaryaa.h}&aa|caar|yaa\quad(|.h(aa))&teachers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
   &&&\\
-  &{\dn pitara.h}&pi|ta|ra|.h(a)&fathers; ancestors\\
+  &{\dn pitara.h}&pi|ta|ra\quad(|.h(a))&fathers; ancestors\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
@@ -2709,13 +2710,16 @@ paternal grandfathers.\\
   % ----------------------------------------------------------------------------
   2b&&sta|thai|&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= likewise; so; thus\\
+  &&&= likewise\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn pitaamahaa.h}&pi|taa|ma|haa|.h(aa)&paternal grandfathers\\
+  &{\dn pitaamahaa.h}&pi|taa|ma|haa\quad(|.h(aa))&paternal grandfathers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pitaamaha.h} = pitaamaha.h}\\
 \end{tabular}
