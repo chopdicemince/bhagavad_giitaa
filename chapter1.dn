@@ -2811,12 +2811,13 @@ Madhu killing (O K.r.s.na).\\
 
 (Arjuna said to K.r.s.na:)\\
 
-Also, the group of three worlds of the kingdom, for what, now? For
-earth? In killing the sons of Dhr.taraa.s.tra, what is our happiness,
-perhaps, O K.r.s.na?\\
+Also, the group of three worlds of the kingdom---for the sake of what,
+now? For the sake of earth? (In) killing the sons of Dhr.taraa.s.tra,
+what pleasure (is there) for us, perhaps, O K.r.s.na?\\
 
 \begin{tabular}{llll}
   1a&{\dn api}&a|pi&also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn trailokyaraajyasya}&trai|lo|kya&trailokyam\\
   &&&= {\dn trailokyam}\\
@@ -2832,16 +2833,24 @@ perhaps, O K.r.s.na?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn heto.h}&he|to|.h(o)&(?) for\\
+  1b&{\dn heto.h}&he|to\quad(|.h(o))&(?) for the sake of\\
+  &&&\note{\preposition}\\
   &&&\\
-  &{\dn ki.m}&ki.m&what\\
+  &{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn nu}&nu&certainly; now; so\\
+  &{\dn nu}&nu&now; surely\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn mahik.rte}&ma|hii|&earth\\
+  &{\dn mahik.rte}&ma|hii|&{\dn mahii}\\
+  &&&= earth; heaven; world; waters\\
+  &&&\note{\noun, \female}\\
   &&&\\
-  &&k.r|te&(?) for\\
+  &&k.r|te&{\dn k.rte}\\
+  &&&= at/in/on action/work; for the sake of\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn k.rtam} = k.rtam}\\
+  &&&\note{\indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2854,10 +2863,9 @@ perhaps, O K.r.s.na?\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dh.rtaraa.s.tra.h} = dh.rtaraa.s.tra.h}\\
   &&&\\
-  &&na|.h(a)&{\dn na.h}\\
-  &&&= us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&na\quad(|.h(a))&{\dn na.h} = us; for us; of us (our)\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   \hline
   &&&\\
@@ -2865,13 +2873,15 @@ perhaps, O K.r.s.na?\\
   2b&{\dn kaa}&kaa&what\\
   &&&\note{\pronoun, \female}\\
   &&&\\
-  &{\dn priiti.h}&prii|ti|.h(i)&affection; happiness; friendship\\
+  &{\dn priiti.h}&prii|ti\quad(|.h(i))&pleasure; friendship\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn syaajjanaardana}&syaaj|&(?)\\
-  &&&\note{similar: {\dn syaat} = syaat = perhaps}\\
+  &&&\note{similar: \adverb, \indeclinable,}\\
+  &&&\note{{\dn syaat} = syaat = perhaps}\\
   &&&\\
-  &&ja|naar|da|na&O K.r.s.na\\
+  &&ja|naar|da|na&{\dn janaardana}\\
+  &&&= O K.r.s.na\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn janaardana.h} = janaardana.h}\\
 \end{tabular}
