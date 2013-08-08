@@ -3015,17 +3015,18 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
 
 (Arjuna said to K.r.s.na:)\\
 
-If, also, these do not see---with greed-damaged minds---a family end
-as an action of evil, and being in a friend treachery as a sin \dots\\
+If, also, these do not see---(with) strong-desire-hurt minds---a clan
+end as an action (of) wickedness, and friend-rebellion (as) a sin
+\dots\\
 
 \begin{tabular}{llll}
   1a&{\dn yadyapyete}&ya|dya|&yadi\\
   &&&= {\dn yadi}\\
   &&&= if\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&pye|&api\\
-  &&&= {\dn api}\\
-  &&&= also\\
+  &&pye|&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&te&ete\\
   &&&= {\dn ete}\\
@@ -3034,24 +3035,25 @@ as an action of evil, and being in a friend treachery as a sin \dots\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn pa"syanti}&pa"s|yan|ti&(they) see\\
+  &{\dn pa"syanti}&pa|"syan|ti&(they) see\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn lobhopahatacetasa.h}&lo|bho|&lobha.h\\
   &&&= {\dn lobha.h}\\
-  &&&= strong desire; greed; cupidity\\
+  &&&= strong desire; greed\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&pa|ha|ta|&upahata.h\\
   &&&= {\dn upahata.h}\\
-  &&&= damaged; weakened; hurt\\
+  &&&= hit; hurt; killed\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ce|ta|sa|.h(a)&(?) minds; conciousness; hearts\\
+  &&ce|ta|sa\quad(|.h(a))&minds; conciousness; hearts\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn cetas} = cetas}\\
 \end{tabular}
@@ -3060,19 +3062,20 @@ as an action of evil, and being in a friend treachery as a sin \dots\\
 \begin{tabular}{llll}
   2a&{\dn kulak.sayak.rta.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&k.sa|ya|&k.saya.h\\
   &&& = {\dn k.saya.h}\\
-  &&&= decay; decline; end\\
+  &&&= decay; end\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&k.r|ta.m&{\dn k.rta.m}\\
-  &&&= work; action; service\\
+  &&k.r|ta.m&k.rtam\\
+  &&&= {\dn k.rtam}\\
+  &&&= action; work\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn do.sa.m}&do|.sa.m&defect; vice; evil\\
+  &{\dn do.sa.m}&do|.sa.m&defect; wickedness\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
   \hline
@@ -3089,6 +3092,7 @@ as an action of evil, and being in a friend treachery as a sin \dots\\
   &&&\note{from {\dn droha.h} = droha.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn paatakam}&paa|ta|kam&sin; crime; loss of caste\\
   &&&\note{\noun, \neuter}\\
