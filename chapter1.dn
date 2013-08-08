@@ -2892,8 +2892,8 @@ what pleasure (is there) for us, perhaps, O K.r.s.na?\\
 (Arjuna said to K.r.s.na:)\\
 
 Evil really enters us, having killed these warriors. Therefore we are
-not proper to kill the sons of Dh.rtaraa.s.tra and family. Surely,
-having killed, how happy may we be, O K.r.s.na?\\
+not worthy to kill (of killing) the sons of Dh.rtaraa.s.tra and
+family. Surely, having killed, how happy may we be, O K.r.s.na?\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn paapamevaa"srayedasmaanhatvaitaanaatataayina.h}}\\
@@ -2903,16 +2903,17 @@ having killed, how happy may we be, O K.r.s.na?\\
   &&&= crime; evil; vice\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&me|vaa|&eva = {\dn eva} = really\\
+  &&me|vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&"sra|ye|das|&(?) aa"srayet\\
+  &&"sra|ye|da|&(?) aa"srayet\\
   &&&= {\dn aa"srayet}\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
   &&&\note{\singular, {\dn aa"srayate} = aa"srayate}\\
   &&&\note{= (he/she/it) enters; attaches; inhabits}\\
   &&&\note{root: {\dn aa"sri} = aa"sri}\\
   &&&\\
-  &&maan|&asmaan\\
+  &&smaan|&asmaan\\
   &&&= {\dn asmaan}\\
   &&&= us\\
   &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
@@ -2920,9 +2921,9 @@ having killed, how happy may we be, O K.r.s.na?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&&hat|vai|&(?) hatvaa\\
+  1b&&hat|vai|&hatvaa\\
   &&&= {\dn hatvaa}\\
-  &&&= having hit; wounded; killed\\
+  &&&= (?) having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
@@ -2930,8 +2931,10 @@ having killed, how happy may we be, O K.r.s.na?\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = that/he}\\
   &&&\\
-  &&ta|taa|yi|na|.h(a)&(?) aatataayina.h = {\dn aatataayina.h} = warriors\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&ta|taa|yi|na\quad(|.h(a))&aatataayina.h\\
+  &&&= {\dn aatataayina.h}\\
+  &&&= warriors\\
+  &&&\note{\noun, \male, \plural, \accusativecase(?)}\\
   &&&\note{from {\dn aatataayin} = aatataayin}\\
 \end{tabular}
 \newpage
@@ -2940,8 +2943,10 @@ having killed, how happy may we be, O K.r.s.na?\\
   2a&{\dn tasmaannaarhaa}&tas|maan|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&naar|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&haa&arhaa.h\\
   &&&= {\dn arhaa.h}\\
@@ -2949,12 +2954,15 @@ having killed, how happy may we be, O K.r.s.na?\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn arha.h} = arha.h}\\
   &&&\\
-  &{\dn vaya.m}&va|ya.m&we\\
+  &{\dn vaya.m}&va|ya.m&vayam = {\dn vayam} = we\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn hantu.m}&han|tu.m&(?) to hit; wound; kill\\
+  &{\dn hantu.m}&han|tu.m&hantum\\
+  &&&= {\dn hantum}\\
+  &&&= to hit; hurt; kill\\
   &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn han} = han}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2969,26 +2977,30 @@ having killed, how happy may we be, O K.r.s.na?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  3a&{\dn svajana.m}&sva|ja|na.m&family; relative\\
+  3a&{\dn svajana.m}&sva|ja|na.m&svajanam\\
+  &&&= {\dn svajanam}\\
+  &&&= family; relative\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
   &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn katha.m}&ka|tha.m&how\\
+  &{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hatvaa}&hat|vaa&(?) having hit; wounded; killed\\
+  &{\dn hatvaa}&hat|vaa&(?) having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   \hline
   &&&\\
-  3c&{\dn sukhina.h}&su|khi|na|.h(a)&(?) happy\\
+  3c&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sukhin} = sukhin}\\
   &&&\\
   &{\dn syaama}&syaa|ma&(we) be\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \plural}\\
-  &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn maadhava}&maa|dha|va&O K.r.s.na\\
   &&&\note{\noun, \male, \vocativecase}\\
