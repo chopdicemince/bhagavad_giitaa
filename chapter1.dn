@@ -3187,21 +3187,22 @@ K.r.s.na.\\
 
 (Arjuna said to K.r.s.na:)\\
 
-In a family end, the ancient family virtues disappear. In a lost
-virtue, all of the non-virtue overcomes the family, also.\\
+At a clan-end, the clan occurrences of
+goodness---ancient---perish. And at a destroyed occurrence of
+goodness, all non-goodness overcomes the clan.\\
 
 \begin{tabular}{llll}
   1a&{\dn kulak.saye}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&k.sa|ye&{\dn k.saye}\\
-  &&&= at/in/on a/the decay; decline; end\\
+  &&&= at/in/on a/the decay; end\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn k.saya.h} = k.saya.h}\\
   &&&\\
-  &{\dn pra.na"syanti}&pra|.na"s|yan|ti&(they) disappear; flee; die\\
+  &{\dn pra.na"syanti}&pra|.na|"syan|ti&(they) perish; disappear; escape\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pra.na"s}= pra.na"s}\\
   \hline
@@ -3209,38 +3210,41 @@ virtue, all of the non-virtue overcomes the family, also.\\
   % ----------------------------------------------------------------------------
   1b&{\dn kuladharmaa.h}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dhar|maa|.h(aa)&{\dn dharmaa.h}\\
-  &&&= manners; religions; devotions; virtues\\
+  &&dhar|maa\quad(|.h(aa))&{\dn dharmaa.h}\\
+  &&&= (occurrences of) goodness\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &{\dn sanaatanaa.h}&sa|naa|ta|naa|.h(aa)&eternal; ancient; unending\\
+  &{\dn sanaatanaa.h}&sa|naa|ta|naa\quad(|.h(aa))&eternal; ancient\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sanaatana.h} = sanaatana.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dharme}&dhar|me&at/in/on a/the manner; religion; devotion; virtue\\
+  2a&{\dn dharme}&dhar|me&at/in/on a/the (occurrence of) goodness\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &{\dn na.s.te}&na.s|.te&at/in/on something lost; spoiled; destroyed\\
+  &{\dn na.s.te}&na.s|.te&at/in/on something damaged; disappeared; destroyed\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn na.s.ta.h} = na.s.ta.h}\\
   &&&\\
-  &{\dn kula.m}&ku|la.m&family; clan; tribe\\
-  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &{\dn kula.m}&ku|la.m&kulam\\
+  &&&= {\dn kulam}\\
+  &&&= clan; community; caste\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &\multicolumn{3}{l}{\dn k.rtsnamadharmo.abhibhavatyuta}\\
   &&&\\
   &&k.rts|na|&k.rtsnam\\
   &&&= {\dn k.rtsnam}\\
   &&&= all\\
-  &&&\note{\adjective}\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -3248,7 +3252,7 @@ virtue, all of the non-virtue overcomes the family, also.\\
   &&&= {\dn adharma.h}\\
   &&&= a + dharma.h\\
   &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + manner; religion; devotion; virtue\\
+  &&&= not + goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&'bhi|bha|va|tyu|&abhibhavati\\
@@ -3257,7 +3261,8 @@ virtue, all of the non-virtue overcomes the family, also.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn abhibhuu} = abhibhuu}\\
   &&&\\
-  &&ta&uta = {\dn uta} = or; and; also\\
+  &&ta&uta = {\dn uta} = or; and\\
+  &&&\note{\conjunction, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
