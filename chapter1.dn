@@ -2734,28 +2734,25 @@ relatives, likewise---these, I do not like to kill, killing also, O
 Madhu killing (O K.r.s.na).\\
 
 \begin{tabular}{llll}
-  1a&{\dn maatulaa.h}&maa|tu|laa|.h(aa)&maternal uncles\\
+  1a&{\dn maatulaa.h}&maa|tu|laa\quad(|.h(aa))&maternal uncles\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn maatula.h} = maatula.h}\\
   &&&\\
-  &{\dn "sva"suraa.h}&"sva|"su|raa|.h(aa)&fathers-in-law\\
+  &{\dn "sva"suraa.h}&"sva|"su|raa\quad(|.h(aa))&fathers-in-law\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn "sva"sura.h} = "sva"sura.h}\\
   &&&\\
-  \hline
-  &&&\\
-  % ----------------------------------------------------------------------------
-  1a+&{\dn pautraa.h}&pau|traa|.h(aa)&sons of sons\\
+  &{\dn pautraa.h}&pau|traa\quad(|.h(aa))&sons of sons\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pautra.h} = pautra.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn "syaalaa.h}&"syaa|laa|.h(aa)&brothers of wives\\
+  1b&{\dn "syaalaa.h}&"syaa|laa\quad(|.h(aa))&brothers of wives\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn "syaala.h} = "syaala.h}\\
   &&&\\
-  &{\dn sambandhinastathaa}&sam|ban|dhi|na|&(?) sambandhina.h\\
+  &{\dn sambandhinastathaa}&sam|ban|dhi|na|&sambandhina.h\\
   &&&= {\dn sambandhina.h}\\
   &&&= relatives\\
   &&&\note{\noun, \male, \plural}\\
@@ -2763,7 +2760,8 @@ Madhu killing (O K.r.s.na).\\
   &&&\\
   &&sta|thaa&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= likewise; so; thus\\
+  &&&= likewise\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2773,11 +2771,13 @@ Madhu killing (O K.r.s.na).\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hantumicchaami}&han|tu|mic|&(?) hantum\\
+  &{\dn hantumicchaami}&han|tu|mic|&hantum\\
   &&&= {\dn hantum}\\
-  &&&= to kill\\
+  &&&= to hit; hurt; kill\\
   &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn han} = han}\\
   &&&\\
   &&chaa|mi&icchaami\\
   &&&= {\dn icchaami}\\
@@ -2787,20 +2787,23 @@ Madhu killing (O K.r.s.na).\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn ghnato.api}&ghna|to|&(?) ghnata.h\\
+  2b&{\dn ghnato.api}&ghna|to|&ghnata.h\\
   &&&= {\dn ghnata.h}\\
-  &&&= killing; destroying; hitting\\
-  &&&\note{\noun, \male}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn ghna} = ghna = killing}\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn madhusuudana}&ma|dhu|suu|da|na&O Madhu killing\\
-  &&&= O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn madhusuudana.h} = madhusuudana.h}\\
-  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
-  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
-  &&&\note{K.r.s.na killed a demon named ``Madhu''}\\
+  &{\dn madhusuudana}&ma|dhu|&{\dn madhu}\\
+  &&&= honey\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&suu|da|na&suudana\\
+  &&&= {\dn suudana}\\
+  &&&= O killing\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn suudanam} = suudanam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
