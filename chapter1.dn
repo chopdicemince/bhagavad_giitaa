@@ -3768,9 +3768,9 @@ for me, is more comfortable.\\
 
 Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
 
-Thus, having said these things, Arjuna, on the battlefield, in the
-chariot middle part, enters, letting go of an arrow and bow, in
-anguish, terrified, mentally.\\
+Really, having said (these things), Arjuna, on the battlefield, in the
+chariot middle part, enters, let(ting) go (of) an arrow and
+bow---sorrow(ful), terrified, mental(ly).\\
 
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
@@ -3782,7 +3782,8 @@ anguish, terrified, mentally.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1a&{\dn evamuktvaarjuna.h}&e|va|mukt|&evam = {\dn evam} = thus\\
+  1a&{\dn evamuktvaarjuna.h}&e|va|mukt|&evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&vaar|&uktvaa\\
   &&&= {\dn uktvaa}\\
@@ -3790,7 +3791,7 @@ anguish, terrified, mentally.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{from {\dn vad} = vad}\\
   &&&\\
-  &&ju|na|.h(a)&arjuna.h\\
+  &&ju|na\quad(|.h(a))&arjuna.h\\
   &&&= {\dn arjuna.h}\\
   &&&= Arjuna\\
   &&&\note{\noun, \male}\\
@@ -3806,7 +3807,7 @@ anguish, terrified, mentally.\\
   &&&= chariot; cart; warrior\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pas|tha&upastha.h\\
+  &&pa|stha&upastha.h\\
   &&&= {\dn upastha.h}\\
   &&&= penis; middle part; lap\\
   &&&\note{\noun, \male}\\
@@ -3821,11 +3822,15 @@ anguish, terrified, mentally.\\
   2a&{\dn vis.rjya}&vi|s.r|jya&sent out; let go; brought about\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn sa"sara.m}&sa|"sa|ra.m&with an arrow\\
+  &{\dn sa"sara.m}&sa|"sa|ra.m&sa"saram\\
+  &&&= {\dn sa"saram}\\
+  &&&= with an arrow\\
   &&&\note{\adjective}\\
   &&&\note{from: \noun, \male, {\dn "sara.h} = "sara.h = arrow}\\
   &&&\\
-  &{\dn caapa.m}&caa|pa.m&arc; Sagittarius; bow (in archery)\\
+  &{\dn caapa.m}&caa|pa.m&caapam\\
+  &&&= {\dn caapam}\\
+  &&&= arc; Sagittarius; bow (in archery)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn caapa.h} = caapa.h}\\
   \hline
@@ -3833,14 +3838,14 @@ anguish, terrified, mentally.\\
   % ----------------------------------------------------------------------------
   2b&{\dn "sokasa.mvignamaanasa.h}&"so|ka|&"soka.h\\
   &&&= {\dn "soka.h}\\
-  &&&= anguish; heat; sorrow\\
+  &&&= heat; sorrow\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&sa.m|vig|na|&{\dn sa.mvigna}\\
   &&&= terrified; disturbed; agitated\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa|na|sa|.h(a)&{\dn maanasa.h}\\
+  &&maa|na|sa\quad(|.h(a))&{\dn maanasa.h}\\
   &&&= mental; spiritual; tacit\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
