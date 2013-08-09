@@ -3270,9 +3270,10 @@ goodness, all non-goodness overcomes the clan.\\
 
 (Arjuna said to K.r.s.na:)\\
 
-From overcoming non-virtue, O K.r.s.na, the family women fall. In the
-bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
-(a child of parents of mixed castes; a bad person) is born.\\
+From non-goodness-humiliation, O K.r.s.na, the clan women fall. In the
+defiled women, O descendent of Vaar.s.neya (O K.r.s.na), a color
+mixture is born. (A ``color mixture'' is a child of parents of mixed
+castes, and is viewed as a bad person.)\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn adharmaabhibhavaatk.r.s.na}}\\
@@ -3281,13 +3282,13 @@ bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
   &&&= {\dn adharma.h}\\
   &&&= a + dharma.h\\
   &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + manner; religion; devotion; virtue\\
+  &&&= not + goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&bhi|bha|vaat|&(?) abhibhavaat\\
+  &&bhi|bha|vaat|&abhibhavaat\\
   &&&= {\dn abhibhavaat}\\
-  &&&= from humiliating; winning; overcoming\\
-  &&&\note{\adjective, \male, \ablativecase}\\
+  &&&= from defeat; subjugation; humiliation\\
+  &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn abhibhava.h} = abhibhava.h}\\
   &&&\\
   &&k.r.s|.na&{\dn k.r.s.na}\\
@@ -3303,10 +3304,10 @@ bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
   &&&\\
   &{\dn kulastriya.h}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&stri|ya|.h(a)&(?) women\\
+  &&stri|ya\quad(|.h(a))&(?) women\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn strii} = strii}\\
 \end{tabular}
@@ -3317,7 +3318,7 @@ bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
   &&&\note{\noun, \female, \plural, \locativecase}\\
   &&&\note{from {\dn strii} = strii}\\
   &&&\\
-  &{\dn du.s.taasu}&du.s|.taa|su&(?) at/in/on something wicked; guilty; bad\\
+  &{\dn du.s.taasu}&du|.s.taa|su&at/in/on something defiled; defective; wicked\\
   &&&\note{\adjective, \female, \plural, \locativecase}\\
   &&&\note{from {\dn du.s.taa} = du.s.taa}\\
   &&&\\
@@ -3328,16 +3329,18 @@ bad women, O descendent of Vaar.s.neya (O K.r.s.na), a color mixture
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is born; grows; happens\\
+  2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn jan} = jan}\\
   &&&\\
-  &{\dn var.nasa"nkara.h}&var|.na|sa"n|ka|ra|.h(a)&color mixture\\
-  &&&= child of parents of difference castes\\
-  &&&= bad person\\
+  &{\dn var.nasa"nkara.h}&var|.na|&var.na.h\\
+  &&&= {\dn var.na.h}\\
+  &&&= color\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \noun, \male, {\dn var.na.h} = var.na.h = color}\\
-  &&&\note{from: \noun, \male, {\dn sa"nkara.h} = sa"nkara.h = mixture}\\
+  &&&\\
+  &&sa"n|ka|ra\quad(|.h(a))&{\dn sa"nkara.h}\\
+  &&&= mixture\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
