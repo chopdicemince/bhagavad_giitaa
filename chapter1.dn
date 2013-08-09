@@ -3349,10 +3349,9 @@ castes, and is viewed as a bad person.)\\
 (Arjuna said to K.r.s.na:)\\
 
 A mixture (a child of two parents of different castes; a bad person)
-is hellish, really, being of family-killers, and of a
-family. Certainly, their fathers (ancestors) fall, because of
-suppressed-food-water-actions (suppressed offerings of food and
-water).\\
+is hellish, really, (being) of clan-killers, and of a clan. Surely,
+the fathers (ancestors) of these (mixtures) fall, (because of)
+lost-food-water-actions (lost offerings of food and water).\\
 
 \begin{tabular}{llll}
   1a&{\dn sa"nkaro}&sa"n|ka|ro&sa"nkara.h\\
@@ -3368,25 +3367,28 @@ water).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn narakaaya} = narakaaya}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ghnaa|naa.m&{\dn ghnaanaa.m}\\
-  &&&= (?) of killers\\
+  &&ghnaa|naa.m&ghnaanaam\\
+  &&&= {\dn ghnaanaa.m}\\
+  &&&= of killers\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn ghna.h} = ghna.h}\\
   &&&\\
-  &{\dn kulasya}&ku|la|sya&of a/the family; clan; tribe\\
+  &{\dn kulasya}&ku|la|sya&of a/the clan; community; caste\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn kulam} = kulam}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3395,23 +3397,22 @@ water).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pat} = pat}\\
   &&&\\
-  &{\dn pitaro}&pi|ta|ro&(?) pitara.h\\
+  &{\dn pitaro}&pi|ta|ro&pitara.h\\
   &&&= {\dn pitara.h}\\
   &&&= fathers; ancestors\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
-  &{\dn hye.saa.m}&hye|&hi = {\dn hi} = certainly\\
+  &{\dn hye.saa.m}&hye|&hi = {\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&.saa.m&{\dn e.saa.m} = (?) of these; their\\
-  &&&\note{\pronoun, \male, \neuter, \plural, \genitivecase}\\
-  &&&\note{from: \male, {\dn e.sa.h} = e.sa.h = this/he}\\
-  &&&\note{from: \neuter, {\dn etat} = etat = this/it,}\\
-  &&&\note{or {\dn etad} = etad}\\
+  &&.saa.m&e.saam = {\dn e.saam} = (?) of these; of them (their)\\
+  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&suppressed; destroyed; hurt\\
+  2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&lost; robbed; broken; hurt\\
   &&&\note{\adjective}\\
   &&&\\
   &&pi.n|.do|&pi.n.da.h\\
@@ -3424,7 +3425,7 @@ water).\\
   &&&= water\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kri|yaa|.h(aa)&actions; sacrifices; work\\
+  &&kri|yaa\quad(|.h(aa))&actions; work; doing\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
 \end{tabular}
