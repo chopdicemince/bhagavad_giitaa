@@ -3435,14 +3435,15 @@ lost-food-water-actions (lost offerings of food and water).\\
 
 (Arjuna said to K.r.s.na:)\\
 
-By these vices of family-killers, by color-mixture-tolls (tolls of
-children of parents of different castes; tolls of bad people), the
-eternal caste-virtues and eternal family-virtues fall.\\
+By these defects of clan-killers, by color-mixture-acting, the birth
+(of) goodness, and clan-eternal-goodness, sink. (A ``color mixture''
+is a child of parents of mixed castes, and is viewed as a bad
+person.)\\
 
 \begin{tabular}{llll}
   1a&{\dn do.sairetai.h}&do|.sai|&do.sai.h\\
   &&&= {\dn do.sai.h}\\
-  &&&= using/by defects; crime; vices\\
+  &&&= using/by defects; wickedness; sins\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
   &&&\\
@@ -3454,10 +3455,12 @@ eternal caste-virtues and eternal family-virtues fall.\\
   &&&\\
   &{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ghnaa|naa.m&(?) of killers\\
+  &&ghnaa|naa.m&ghnaanaam\\
+  &&&= {\dn ghnaanaam}\\
+  &&&= of killers\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn ghna.h} = ghna.h}\\
   \hline
@@ -3465,35 +3468,34 @@ eternal caste-virtues and eternal family-virtues fall.\\
   % ----------------------------------------------------------------------------
   1b&\multicolumn{3}{l}{{\dn var.nasa"nkarakaarakai.h}}\\
   &&&\\
-  &&\multicolumn{2}{l}{var|.na|sa"n|ka|ra|}\\
-  &&&\\
-  &&&var.na.h + sa"nkara.h\\
-  &&&= {\dn var.na.h} + {\dn sa"nkara.h}\\
-  &&&= color + mixture\\
-  &&&= child of parents of different castes\\
-  &&&= bad person\\
+  &&var|.na|&var.na.h\\
+  &&&= {\dn var.na.h}\\
+  &&&= color\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \noun, \male, {\dn var.na.h} = var.na.h = color}\\
-  &&&\note{from: \noun, \male, {\dn sa"nkara.h} = sa"nkara.h = mixture}\\
   &&&\\
-  &&kaa|ra|kai|.h(i)&using/by coconut half-shells; tolls; taxes\\
+  &&sa"n|ka|ra|&sa"nkara.h\\
+  &&&= {\dn sa"nkara.h}\\
+  &&&= mixture\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&kaa|ra|kai\quad(|.h(i))&using/by things acting; working; doing\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn karaka.h} = karaka.h}\\
+  &&&\note{from {\dn kaaraka.h} = kaaraka.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn utsaadyante}&ut|saa|dyan|te&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
-  &&&\note{{\dn utsadati} = utsadati = (he/she/it) gets lost; sinks; falls}\\
+  &&&\note{{\dn utsadati} = utsadati = (he/she/it) sinks; falls; gets lost}\\
   &&&\note{root: {\dn udsad} = udsad}\\
   &&&\\
   &{\dn jaatidharmaa.h}&jaa|ti|&jaati.h\\
   &&&= {\dn jaati.h}\\
-  &&&= clan; race; caste\\
+  &&&= birth; genus\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&dhar|maa|.h(aa)&manners; religions; devotions; virtues\\
+  &&dhar|maa\quad(|.h(aa))&(occurrences of) goodness\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   \hline
@@ -3501,18 +3503,19 @@ eternal caste-virtues and eternal family-virtues fall.\\
   % ----------------------------------------------------------------------------
   2b&{\dn kuladharmaa"sca}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&dhar|maa"s|&dharmaa.h\\
   &&&= {\dn dharmaa.h}\\
-  &&&= manners; religions; devotions; virtues\\
+  &&&= (occurrences of) goodness\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn "saa"svataa.h}&"saa"s|va|taa|.h(aa)&eternal; unending; constant\\
+  &{\dn "saa"svataa.h}&"saa|"sva|taa\quad(|.h(aa))&eternal\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn "saa"svata.h} = "saa"svata.h}\\
 \end{tabular}
