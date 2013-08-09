@@ -3525,23 +3525,23 @@ person.)\\
 
 (Arjuna said to K.r.s.na:)\\
 
-``Destroyed-family-virtues of men,'' O Kr.s.na, ``In hell, surely,
-their dwelling is,'' \dots (?) \dots.\\
+``Of decayed-clan-(occurrences-of)-goodness of men''--- O
+Kr.s.na---``In hell, surely, their dwelling is.'' \dots (?) \dots.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn utsannakuladharmaa.naa.m}\\
   &&&\\
   &&ut|san|na|&{\dn utsanna}\\
-  &&&= vanished; decrepit; destroyed\\
+  &&&= decayed; destroyed; disappeared\\
   &&&\note{\adjective}\\
   &&&\\
   &&ku|la|&kulam\\
   &&&= {\dn kulam}\\
-  &&&= family; clan; tribe\\
+  &&&= clan; community; caste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&dhar|maa|.naa.m&{\dn dharmaa.naa.m}\\
-  &&&= of manners; religions; devotions; virtues\\
+  &&&= of (occurrences of) goodness\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   \hline
@@ -3562,8 +3562,10 @@ their dwelling is,'' \dots (?) \dots.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn naraka.h} = naraka.h}\\
   &&&\\
-  &{\dn niyata.m}&ni|ya|ta.m&surely; always\\
-  &&&\note{\adverb}\\
+  &{\dn niyata.m}&ni|ya|ta.m&niyatam\\
+  &&&= {\dn niyatam}\\
+  &&&= surely; always\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn vaaso}&vaa|so&vaasa.h\\
   &&&= {\dn vaasa.h}\\
@@ -3578,9 +3580,7 @@ their dwelling is,'' \dots (?) \dots.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &&tya|&iti\\
-  &&&= {\dn iti}\\
-  &&&= ``end of a quote''\\
+  &&tya|&iti = {\dn iti} = ``end of a quote''\\
   &&&\\
   &&nu|"su|"sru|ma&anu"su"sruma\\
   &&&= {\dn anu"su"sruma}\\
