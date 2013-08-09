@@ -3677,42 +3677,41 @@ a kingdom-happiness-strong-desire, (we are) ready to kill a family.\\
 
 (Arjuna said to K.r.s.na:)\\
 
-If the sons of Dh.rtaraa.stra---ones with weapons in hand---kill me,
-not resistant and not armed, on the battlefield, that, for me, is more
-comfortable.\\
+If the sons of Dh.rtaraa.s.tra---what---(with) weapon (in) hand---kill
+me, without remedy and without a weapon---on the battlefield---that,
+for me, is more comfortable.\\
 
 \begin{tabular}{llll}
   1a&{\dn yadi}&ya|di&if\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &\multicolumn{3}{l}{{\dn maamapratiikaarama"sastra.m}}\\
   &&&\\
-  &&maa|ma|&maam\\
-  &&&= {\dn maam}\\
-  &&&= me\\
+  &&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
   &&pra|tii|kaa|ra|&apratiikaaram\\
   &&&= {\dn apratiikaaram}\\
-  &&&= confidential; not resistant; without defenses\\
+  &&&= not + remedy\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn pratiikaara.h} = pratiikaara.h}\\
+  &&&\note{from {\dn apratiikaara.h} = apratiikaara.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \male, {\dn pratiikaara.h} = pratiikaara.h}\\
-  &&&\note{= revenge; remedy; reparation}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&&ma|"sa|stra.m&a"sastram\\
   &&&= {\dn a"sastram}\\
-  &&&= not armed\\
+  &&&= not + missle; weapon; tool\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn a"sastra.h} = a"sastra.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \neuter, {\dn "sastram} = "sastram}\\
-  &&&\note{= missle; sword; weapon}\\
   &&&\\
-  &{\dn "sastrapaa.naya.h}&"sa|stra|&"sastram = {\dn "sastram} = missle; sword; weapon\\
+  &{\dn "sastrapaa.naya.h}&"sa|stra|&"sastram\\
+  &&&= {\dn "sastram}\\
+  &&&= missle; weapon; tool\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&paa|.na|&paa.na.h\\
@@ -3720,13 +3719,13 @@ comfortable.\\
   &&&= hand\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ya|.h(a)&(?) {\dn ya.h} = one\\
+  &&ya\quad(|.h(a))&{\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dhaartaraa.s.traa}&dhaar|ta|raa.s|.traa&dhaartaraa.s.traa.h\\
+  2a&{\dn dhaartaraa.s.traa}&dhaar|ta|raa|.s.traa&dhaartaraa.s.traa.h\\
   &&&= {\dn dhaartaraa.s.traa.h}\\
   &&&= sons of Dh.rtaraa.s.tra\\
   &&&\note{\noun, \male, \plural}\\
@@ -3736,7 +3735,7 @@ comfortable.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn ra.nam} = ra.nam}\\
   &&&\\
-  &{\dn hanyustanme}&han|yu|&(?)\\
+  &{\dn hanyustanme}&ha|nyu|&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn hanyate} = hanyate = (he/she/it) is hit; killed}\\
   &&&\note{root: {\dn han} = han}\\
@@ -3747,14 +3746,16 @@ comfortable.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&me&{\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn k.sematara.m}&k.se|ma|ta|ra.m&more comfortable\\
+  &{\dn k.sematara.m}&k.se|ma|&comfortable; secure\\
   &&&\note{\adjective}\\
   &&&\note{from: \adjective, {\dn k.sema} = k.sema}\\
-  &&&\note{= at ease; comfortable; safe}\\
-  &&&\note{from: \suffix, {\dn taram} = taram = more}\\
+  &&&\\
+  &&ta|ra.m&taram = {\dn taram} = more\\
+  &&&\note{\suffix}\\
   &&&\\
   &{\dn bhavet}&bha|vet&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
