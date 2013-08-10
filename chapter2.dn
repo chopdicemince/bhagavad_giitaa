@@ -281,9 +281,10 @@ pulverizer of enemies (O Arjuna).\\
 
 Arjuna said (to K.r.s.na):\\
 
-How---against Bhii.sma---can I, in the war---and against Dro.na---O
-Madhu killer (O K.r.s.na), using arrows, counterattack---these two men
-are respectable---O enemy killer (O K.r.s.na)?\\
+How---(to) Bhii.sma---(will) I, in the war---and (to) Dro.na---O
+Madhu-killing (O K.r.s.na), using arrows, (put up) a
+resistance---(these two men are) respectable---O enemy killer (O
+K.r.s.na)?\\
 
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&Arjuna\\
@@ -295,13 +296,14 @@ are respectable---O enemy killer (O K.r.s.na)?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1a&{\dn katha.m}&ka|tha.m&how\\
+  1a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
+  &&&\note{\adverb}\\
   &&&\\
-  &{\dn bhii.smamaha.m}&bhii.s|ma|ma|&Bhii.sma\\
+  &{\dn bhii.smamaha.m}&bhii|.sma|ma|&bhii.smam = {\dn bhii.smam} = Bhii.sma\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhii.sma.h} = bhii.s.ma.h}\\
   &&&\\
-  &&ha.m&aha.m = {\dn aha.m} = I\\
+  &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
   &{\dn sa"nkhye}&sa"n|khye&at/in/on a/the war; battle; battlefield\\
@@ -310,28 +312,33 @@ are respectable---O enemy killer (O K.r.s.na)?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn dro.na.m}&dro|.na.m&Dro.na\\
+  1b&{\dn dro.na.m}&dro|.na.m&dro.nam\\
+  &&&= {\dn dro.nam}\\
+  &&&= Dro.na\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dro.na.h} = dro.na.h}\\
   &&&\\
   &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn madhusuudhana}&ma|dhu|suu|da|na&O Madhu killer\\
-  &&&= O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn madhusuudana.h} = madhusuudana.h}\\
-  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
-  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
-  &&&\note{``Madhu'' is also the name of a demon}\\
+  &{\dn madhusuudhana}&ma|dhu|&{\dn madhu}\\
+  &&&= honey\\
+  &&&\\
+  &&suu|dha|na&{\dn suudhana}\\
+  &&&= O killing\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn suudhanam} = suudhanam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn i.subhi.h}&i|.su|bhi|.h(i)&using/by arrows\\
-  &&&\note{\noun, \male, \female, \plural, \instrumentalcase}\\
+  2a&{\dn i.subhi.h}&i|.su|bhi\quad(|.h(i))&using/by arrows\\
+  &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn i.su.h} = i.su.h}\\
   &&&\\
-  &{\dn pratiyotsyaami}&pra|ti|yot|syaa|mi&(I) counterattack (?)\\
+  &{\dn pratiyotsyaami}&pra|ti|yot|syaa|mi&(?)\\
+  &&&\note{similar: \noun, \male, {\dn pratiyoga.h} = pratiyoga.h}\\
+  &&&\note{= opposition; counterpart; resistance}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
