@@ -5,9 +5,11 @@
 
 Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
 
-To him (Arjuna), thus, filled with compassion, with a tearful uneasy
-eye, grieving, this statement was said by Madhu killer (K.r.s.na):
-\dots\\
+(To) him (Arjuna), thus, filled with kindess, (with) a
+tear-plentiful-confused-eye, (with) grief---this statement (was) said
+by Madhu-killer (K.r.s.na): \dots\\
+
+(K.r.sna killed a demon named ``Madhu,'' whose name means ``honey.'')\\
 
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
@@ -19,37 +21,36 @@ eye, grieving, this statement was said by Madhu killer (K.r.s.na):
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1a&{\dn ta.m}&ta.m&him (Arjuna)\\
+  1a&{\dn ta.m}&ta.m&tam = {\dn tam} = him = Arjuna\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus\\
+  &{\dn tathaa}&ta|thaa&thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn k.rpayaavi.s.tama"srupuur.naakulek.sa.nam}&k.r|pa|yaa|&using/by grace; favor; compassion\\
+  &\multicolumn{3}{l}{\dn k.rpayaavi.s.tama"srupuur.naakulek.sa.nam}\\
+  &&&\\
+  &&k.r|pa|yaa|&{\dn k.rpayaa} = using/by kindess; compassion\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn k.rpaa} = k.rpaa}\\
   &&&\\
-  &&vi.s|.ta|&aavi.s.ta = {\dn aavi.s.ta} = entered; filled; having\\
-  &&&\note{\adjective}\\
+  &&vi|.s.ta|&aavi.s.tam = {\dn aavi.s.tam} = entered by; filled with\\
+  &&&\note{\adjective, \neuter}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&&ma"s|ru|&a"srum = {\dn a"srum} = tear\\
+  1b&&ma|"sru|&(?) a"srum = {\dn a"srum} = tear (eye)\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&puur|.naa|&puur.na\\
-  &&&= {\dn puur.na}\\
-  &&&= full; strong; abundant\\
+  &&puur|.naa|&puur.na = {\dn puur.na} = plentiful; full\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ku|lek|&aakula\\
-  &&&= {\dn aakula}\\
-  &&&= uneasy; bewildered; agitated\\
+  &&ku|le|&aakula = {\dn aakula} = confused; anxious\\
   &&&\note{\adjective}\\
   &&&\\
-  &&.sa|.nam&iik.sa.nam\\
+  &&k.sa|.nam&iik.sa.nam\\
   &&&= {\dn iik.sa.nam}\\
-  &&&= sight; view; eye\\
+  &&&= seeing; eye\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
 \newpage
@@ -77,13 +78,16 @@ eye, grieving, this statement was said by Madhu killer (K.r.s.na):
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
   &&&\\
-  &{\dn madhusuudana.h}&\multicolumn{2}{l}{ma|dhu|suu|da|na|.h(a)}\\
-  &&&Madhu killer\\
-  &&&= K.r.s.na\\
+  &{\dn madhusuudana.h}&ma|dhu|&{\dn madhu}\\
+  &&&= honey\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&suu|da|na\quad(|.h(a))&suudana.h\\
+  &&&= {\dn suudana.h}\\
+  &&&= (?) slayer; killer\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \noun, \neuter, {\dn madhu} = madhu = honey}\\
-  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
-  &&&\note{``Madhu'' is also the name of a demon}\\
+  &&&\note{similar: \noun, \neuter, {\dn suudanam} = suudanam}\\
+  &&&\note{= slaying; killing}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
