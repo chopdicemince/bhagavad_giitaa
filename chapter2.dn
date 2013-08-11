@@ -920,14 +920,12 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
 
 (Sa\~{}njaya said to King Dh.rtaraa.s.tra:)\\
 
-You---K.r.s.na said, like comedy---O descendant of Bharata (O
-Dh.rtaraa.s.tra)---between the two armies, to the person in despair
-(Arjuna), this group of words: \dots\\
+You, O descendant of Bharata (O Dh.rtaraa.s.tra)---K.r.s.na said, as
+if comedy, in the middle of the two armies, (to despairing Arjuna),
+this group of words: \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn tvamuvaaca}&tva|mu|&tvam\\
-  &&&= {\dn tvam}\\
-  &&&= you\\
+  1a&{\dn tvamuvaaca}&tva|mu|&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &&vaa|ca&uvaaca\\
@@ -936,7 +934,7 @@ Dh.rtaraa.s.tra)---between the two armies, to the person in despair
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
   &&&\\
-  &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa|.h(a)&K.r.s.na\\
+  &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa\quad(|.h(a))&K.r.s.na\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
@@ -946,7 +944,8 @@ Dh.rtaraa.s.tra)---between the two armies, to the person in despair
   &&&= comedy; ridicule; mocking\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ni|va&iva = {\dn iva} = so; like; as if\\
+  &&ni|va&iva = {\dn iva} = as if\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Dh.rtaraa.s.tra\\
@@ -958,32 +957,37 @@ Dh.rtaraa.s.tra)---between the two armies, to the person in despair
 \begin{tabular}{llll}
   2a&{\dn senayorubhayormadhye}&se|na|yo|ru|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= of or at/in/on two armies\\
-  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&= of two armies; at/in/on two armies\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= of or at/in/on two things\\
-  &&&\note{\pronoun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&= of two things; at/in/on two things\\
+  &&&\note{\pronoun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
-  &&ma|dhye&between\\
+  &&ma|dhye&{\dn madhye}\\
+  &&&= at/in/on a/the middle\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn madhya.h} = madhya.h}\\
+  &&&\note{\indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn vi.siidantamida.m}&vi|.sii|dan|ta|mi|&vi.siidantam\\
   &&&= {\dn vi.siidantam}\\
-  &&&= person in despair (?)\\
-  &&&= Arjuna\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn vi.siidanta.h} = vi.siidanta.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn vi.siidati} = vi.siidati = (he/she/it) despairs; sinks}\\
+  &&&\note{root: {\dn vi.sad} = vi.sad}\\
   &&&\\
   &&dam&idam = {\dn idam} = this\\
-  &&&\note{\noun, \neuter}\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn vaca.h}&va|ca|.h(a)&(?)\\
-  &&&vacanam\\
+  &{\dn vaca.h}&va|ca\quad(|.h(a))&(?) vacanam\\
   &&&= {\dn vacanam}\\
   &&&= word; group of words; sentence\\
   &&&\note{\noun, \neuter}\\
