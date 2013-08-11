@@ -998,17 +998,23 @@ this group of words: \dots\\
 
 God (K.r.s.na) said (to Arjuna):\\
 
-You (Arjuna) are a person who laments things that are not lamentable,
-and you say wise sayings. Lives gone, and lives not gone---scholars do
-not lament them.\\
-
+You (Arjuna) \dots (?) \dots not woeful, and you say wise
+sayings. Gone lives, and not-gone lives---scholars do not lament
+(them).\\
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  0&{\dn "sribhagavaanuvaaca}&"sri|&{\dn "sri} = ``title of respect''\\
+  0&{\dn "sribhagavaanuvaaca}&"sri|&{\dn "sri}\\
+  &&&= ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
-  &&&\note{\noun}\\
+  &&bha|ga|vaa|nu|&bhagavaan\\
+  &&&= {\dn bhagavaan}\\
+  &&&= God\\
+  &&&\note{\noun, gender(?)}\\
   &&&\\
-  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
+  &&vaa|ca&uvaaca\\
+  &&&= {\dn uvaaca}\\
+  &&&= (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
   \hline
@@ -1016,22 +1022,24 @@ not lament them.\\
   % ----------------------------------------------------------------------------
   1a&{\dn a"socyaananva"socastva.m}&a|"so|cyaa|nan|&a"socyaan\\
   &&&= {\dn a"socyaan}\\
-  &&&= not lamentable; not miserable; fortunate\\
+  &&&= not + woeful; regrettable\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn a"socya.h} = a"socya.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn "socya.h} = "socya.h}\\
   &&&\\
-  &&va|"so|cas|&anva"soca.h\\
+  &&va|"so|ca|&anva"soca.h\\
   &&&= {\dn anva"soca.h}\\
-  &&&= person who laments (?)\\
-  &&&\note{\noun, \male}\\
+  &&&= (?)\\
   &&&\\
-  &&tva.m&{\dn tva.m} = you (Arjuna)\\
+  &&stva.m&tvam = {\dn tvam} = you (Arjuna)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn praj~naavaadaa.m"sca}&praj|\~{}naa|&praj\~{}naan = {\dn praj~naan} = wise\\
+  1b&{\dn praj~naavaadaa.m"sca}&pra|j\~{}naa|&praj\~{}naan\\
+  &&&= {\dn praj~naan}\\
+  &&&= wise\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn praj~na.h} = praj\~{}na.h}\\
   &&&\\
@@ -1042,8 +1050,9 @@ not lament them.\\
   &&&\note{from {\dn vaada.h} = vaada.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn bhaa.sase}&bhaa|.sa|se&(you) talk; say; speak\\
+  &{\dn bhaa.sase}&bhaa|.sa|se&(you) say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn bhaa.s} = bhaa.s}\\
 \end{tabular}
@@ -1056,14 +1065,17 @@ not lament them.\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn gata.h} = gata.h}\\
   &&&\\
-  &&suu|na&asuun = {\dn asuun} = lives; breaths; spirits\\
+  &&suu|na&asuun\\
+  &&&= {\dn asuun}\\
+  &&&= lives; breaths; spirits\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
   &&ga|taa|&agataan\\
   &&&= {\dn agataan}\\
-  &&&= not gone; not dead; not understood\\
+  &&&= not + gone; dead; understood\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn agata.h} = agata.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn gata.h} = gata.h}\\
   &&&\\
@@ -1074,14 +1086,16 @@ not lament them.\\
   &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
   &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn naanu"socanti}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&nu|"so|can|ti&anu"socanti\\
   &&&= {\dn anu"socanti}\\
-  &&&= (they) lament\\
+  &&&= (they) lament; regret\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn anu"suc} = anu"suc}\\
   &&&\\
@@ -1089,6 +1103,9 @@ not lament them.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 12}
