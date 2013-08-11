@@ -608,59 +608,68 @@ that you use to chant verses.)\\
 
 (Arjuna said to K.r.s.na:)\\
 
-In my poor, bad, and damaged self-manner, I ask you, with my
-bewildered manner and nerves, that, with trust \dots (?) \dots, in
-certainty, to tell, surely, that (best thing) for me. I am a student
-of you. I, myself, am surrendered to you.\\
+(In my) poverty-defect-hurt self-behavior, I ask you, (with) my
+goodness-stupid nerves. (As) one (with) confidence, \dots (?) \dots,
+surely, tell, surely that (best thing) for me. I am a student of
+you. I am suppliant (myself to) you.\\
+
+(Note: Many verses have eight main syllables per line, but this verse
+has eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn kaarpa.nyado.sopahatasvabhaava.h}\\
-  &&kaar|pa.n|ya|&kaarpa.nyam\\
+  &&kaar|pa|.nya|&kaarpa.nyam\\
   &&&= {\dn kaarpa.nyam}\\
   &&&= pity; poverty; parsimony\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&do|.so|&do.sa.h\\
   &&&= {\dn do.sa.h}\\
-  &&&= blame; badness; evil\\
+  &&&= defect; wickedness\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&pa|ha|ta|&upahata\\
   &&&= {\dn upahata}\\
-  &&&= damaged; hit; killed\\
+  &&&= hit; hurt; killed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sva|bhaa|va|.h(a)&self-emotion; self-manner; character\\
+  &&sva&{\dn sva} = self\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&bhaa|va\quad(|.h(a))&{\dn bhaava.h}\\
+  &&&= birth; behavior\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \adjective, {\dn sva} = sva = self}\\
-  &&&\note{from: {\dn bhaava.h} = bhaava.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn p.rcchaami}&p.rc|chaa|mi&(I) ask; wish; desire\\
+  1b&{\dn p.rcchaami}&p.rc|chaa|mi&(I) ask\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn prach} = prach}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&you\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\accusativecase}\\
   &&&\\
   &{\dn dharmasammuu.dhacetaa.h}&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= manner; devotion; virtue\\
+  &&&= goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sam|muu|.dha&bewildered; perplexed; foolish\\
+  &&sam|muu|.dha&{\dn sammu.dha}\\
+  &&&= stupid; confused; perplexed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ce|taa|.h(aa)&nerves\\
+  &&ce|taa\quad(|.h(aa))&{\dn cetaa.h}\\
+  &&&= nerves\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn cetaa} = cetaa}\\
-  \hline
-  &&&\\
-  % ----------------------------------------------------------------------------
-  2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = that\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&chre|ya|.h(a)&"sreya.h\\
   &&&= {\dn "sreya.h}\\
@@ -669,30 +678,36 @@ of you. I, myself, am surrendered to you.\\
   &&&\\
   &{\dn syaanni"scita.m}&syaan|&(?)\\
   &&&\\
-  &&ni"s|ci|ta.m&certainty; decision; resoluteness\\
-  &&&\note{\noun, \neuter}\\
+  &&ni"s|ci|ta.m&ni"scitam\\
+  &&&= {\dn ni"scitam}\\
+  &&&= surely\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bruuhi}&bruu|&tell (?)\\
+  &{\dn bruuhi}&bruu|&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
+  &&&\note{{\dn bruute} = bruute = (he/she/it) says}\\
   &&&\note{root: {\dn bruu} = bruu}\\
   &&&\\
-  &&hi&surely\\
+  &&hi&{\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tanme}&tan|&(?) tat = {\dn tat} = that/it\\
+  &{\dn tanme}&tan|&tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&me&for me; of me\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &&me&{\dn me} = for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn "si.syaste.aha.m}&"si.s|ya|&"si.sya.h\\
+  2b&{\dn "si.syaste.aha.m}&"si|.sya|&"si.sya.h\\
   &&&= {\dn "si.sya.h}\\
   &&&= student; scholar; disciple\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ste|&te = {\dn te} = for you; of you\\
+  &&ste|&te = {\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
@@ -702,21 +717,18 @@ of you. I, myself, am surrendered to you.\\
   &&&\\
   &{\dn "saadhi}&"saa|dhi&(?)\\
   &&&\\
-  &{\dn maa.m}&maa.m&me\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&you\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &{\dn prapannam}&pra|pan|nam&arrived; approached; surrendered\\
+  &{\dn prapannam}&pra|pan|nam&approaching; suppliant\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn prapanna.h} = prapanna.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 8}
