@@ -283,7 +283,7 @@ Arjuna said (to K.r.s.na):\\
 
 How---(to) Bhii.sma---(will) I, in the war---and (to) Dro.na---O
 Madhu-killing (O K.r.s.na), using arrows, (put up) a
-resistance---(these two men are) respectable---O enemy killer (O
+resistance---(these two men are) respectable---O enemy-killing (O
 K.r.s.na)?\\
 
 \begin{tabular}{llll}
@@ -348,14 +348,16 @@ K.r.s.na)?\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn puujaarha.h} = puujaarha.h}\\
   &&&\\
-  &&ri|suu|da|na&arisuudana\\
-  &&&= {\dn arisuudana}\\
-  &&&= O enemy killer\\
-  &&&= O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn arisuudana.h} = arisuudana.h}\\
-  &&&\note{from: \noun, \male, {\dn ari.h} = ari.h = enemy}\\
-  &&&\note{from: \noun, \neuter, {\dn suudanam} = suudanam = killing}\\
+  &&ri|&ari.h\\
+  &&&= {\dn ari.h}\\
+  &&&= enemy\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&suu|da|na&suudana\\
+  &&&= {\dn suudana}\\
+  &&&= O killing\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn suudanam} = suudanam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
