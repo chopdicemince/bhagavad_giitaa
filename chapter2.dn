@@ -1285,48 +1285,51 @@ Just as the soul in this body (goes through) childhood, youth
 
 (K.r.s.na said to Arjuna:)\\
 
-But material contacts, O son of Kunti (O Arjuna)---coldness and
-hotness, happiness and unhappiness---are giving, have an appearance
-and a disappearance, and are not eternal. Make yourself be something
-above them, O descendant of Bharata (O Arjuna).\\
+But material contacts, O son of Kunti (O Arjuna)---coldness, hotness,
+happiness, distress---are gifts(?), (with an) appearance (and)
+disappearance, (and are) not eternal. The self (is) something above
+them, O descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn maatraaspar"saastu}&maa|traa|spar|"saa|&maatraaspar"saa.h\\
-  &&&= {\dn maatraaspar"saa.h}\\
-  &&&= material contacts\\
+  1a&{\dn maatraaspar"saastu}&maa|traa|&{\dn maatraa} = material\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&spar|"saa&spar"saa.h = {\dn spar"saa.h} = contacts\\
   &&&\note{\noun, \male, \plural}\\
-  &&&\note{from {\dn maatraaspar"sa.h} = maatraaspar"sa.h}\\
-  &&&\note{from: \noun, \female, {\dn maatraa}}\\
-  &&&\note{= maatraa = material}\\
-  &&&\note{from: \noun, \male, {\dn spar"sa.h} = spar"sa.h}\\
-  &&&\note{= contact}\\
+  &&&\note{from {\dn spar"sa.h} = spar"sa.h}\\
   &&&\\
   &&stu&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kunti\\
-  &&&= O Arjuna\\
+  &{\dn kaunteya}&kaun|te|ya&O son of Kunti = O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn "siito.s.nasukhadu.hkhadaa.h}&"sii|to.s|&"siitam = {\dn "siitam} = coldness\\
+  1b&{\dn "siito.s.nasukhadu.hkhadaa.h}&"sii|to|&"siitam\\
+  &&&= {\dn "siitam}\\
+  &&&= (occurrence of) coldness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&.na|&u.s.na.h = {\dn u.s.na.h} = hotness\\
+  &&.s.na|&u.s.na.h\\
+  &&&= {\dn u.s.na.h}\\
+  &&&= (occurrence of) hotness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&su|kha|&sukham = {\dn sukham} = happiness\\
+  &&su|kha|&sukham\\
+  &&&= {\dn sukham}\\
+  &&&= (occurrence of) happiness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= unhappiness; sorrow; pain\\
+  &&&= (occurrence of) distress\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&daa|.h(aa)&(?) offering; producing; giving\\
-  &&&\note{\adjective, \male, \plural}\\
-  &&&\note{from {\dn da.h} = da.h}\\
+  &&daa\quad(|.h(aa))&{\dn daa.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \neuter, {\dn dam} = dam = gift}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1335,18 +1338,20 @@ above them, O descendant of Bharata (O Arjuna).\\
   &&&\\
   &&aa|ga|maa|&aagama.h\\
   &&&= {\dn aagama.h}\\
-  &&&= appearance; approach; studying\\
+  &&&= approach; appearance; acquisition\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&paa|yi|no|&apaayina.h\\
   &&&= {\dn apaayina.h}\\
-  &&&= disappearance (?)\\
-  &&&\note{\noun, \male}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn apaayin} = apaayin}\\
+  &&&\note{= perishable; disappearing}\\
   &&&\\
   &&'ni|tyaa|&anityaa.h\\
   &&&= {\dn anityaa.h}\\
-  &&&= not eternal\\
+  &&&= not + eternal\\
   &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn anitya.h} = anitya.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn nitya.h} = nitya.h}\\
   \hline
@@ -1356,19 +1361,18 @@ above them, O descendant of Bharata (O Arjuna).\\
   &&&= {\dn taani}\\
   &&&= those/them\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he/it}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &&sti|tik|.sa|&titik.sa.h\\
+  &&sti|ti|k.sa|&titik.sa.h\\
   &&&= {\dn titik.sa.h}\\
   &&&= something above (?)\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sva&sva\\
-  &&&= {\dn sva}\\
+  &&sva&{\dn sva}\\
   &&&= self\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendent of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
