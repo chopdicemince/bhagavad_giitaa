@@ -1929,9 +1929,9 @@ has eleven main syllables per line.)\\
 
 (K.r.s.na said to Arjuna:)\\
 
-(About the soul:) Whoever has knowledge that this is without death, is
-eternal, is not born, and is not changeable---how can he, the man, O
-prince (O Arjuna), have something killed, or kill something?\\
+(About the soul:) Whoever (has) knowledge (that) this (has) no death,
+is eternal, is not born, and is not changeable---how (can) that man, O
+prince (O Arjuna), have (something) killed, (or) kill (something)?\\
 
 \begin{tabular}{llll}
   1a&{\dn vedaavinaa"sina.m}&ve|daa&veda.h\\
@@ -1939,35 +1939,37 @@ prince (O Arjuna), have something killed, or kill something?\\
   &&&= knowledge\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vi|naa|"si|na.m&avinaa"sina.m\\
-  &&&= {\dn avinaa"sina.m}\\
+  &&vi|naa|"si|na.m&avinaa"sinam\\
+  &&&= {\dn avinaa"sinam}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
   &&&\note{similar: \noun, \neuter, {\dn vina"sanam} = vina"sanam}\\
   &&&\note{= death; disappearance; loss}\\
   &&&\\
-  &{\dn nitya.m}&ni|tya.m&eternal\\
+  &{\dn nitya.m}&ni|tya.m&nityam = {\dn nityam} = eternal\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = who (?)\\
+  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn enamajamavyayam}&e|na|ma|&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &&ja|ma|&ajam = {\dn ajam} = not born\\
+  &&ja|ma|&ajam = {\dn ajam} = not + born\\
+  &&&\note{from {\dn aja.h} = aja.h}\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h = born}\\
   &&&\\
   &&vya|yam&avyayam\\
   &&&= {\dn avyayam}\\
-  &&&= not changeable\\
+  &&&= not + changeable\\
   &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male,}\\
   &&&\note{{\dn vyaya.h} = vyaya.h = changeable}\\
@@ -1975,12 +1977,13 @@ prince (O Arjuna), have something killed, or kill something?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn katha.m}&ka|tha.m&how\\
+  2a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he/it\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa|.h(a)&man; person; soul\\
+  &{\dn puru.sa.h}&pu|ru|.sa\quad(|.h(a))&man; person; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
@@ -1990,20 +1993,19 @@ prince (O Arjuna), have something killed, or kill something?\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn ka.m}&ka.m&what/whom (?)\\
+  2b&{\dn ka.m}&ka.m&kam = {\dn kam} = what/whom\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ka.h} = ka.h = what/who}\\
   &&&\\
-  &{\dn ghaatayati}&ghaa|ta|ya|ti&(he/she/it) has someone\\
-  &&&killed; punished; destroyed\\
+  &{\dn ghaatayati}&ghaa|ta|ya|ti&(he/she/it) has something killed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) destroys; hits; kills\\
+  &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn kam}&kam&what/whom (?)\\
+  &{\dn kam}&kam&what/whom\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ka.h} = ka.h = what/who}\\
 \end{tabular}
