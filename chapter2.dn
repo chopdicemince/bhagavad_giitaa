@@ -1740,41 +1740,44 @@ descendant of Bharata (O Arjuna).\\
 
 (K.r.s.na said to Arjuna:)\\
 
-(About the soul:) Who feels that this is a killer? And who thinks that
-this is killed? Those two statements are not knowledge. This does not
-kill and is not killed.\\
+(About the soul:) Who feels (that) this is a killer? And who thinks
+(that) this is killed? Those two (statements) are not knowledge. This
+does not kill and is not killed.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = who (?)\\
+  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn ena.m}&e|na.m&this\\
+  &{\dn ena.m}&e|na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn vetti}&vet|ti&(he/she/it) feels; is acquained with; knows\\
+  &{\dn vetti}&vet|ti&(he/she/it) feels; knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn hantaara.m}&han|taa|ra.m&(?)\\
+  &{\dn hantaara.m}&han|taa|ra.m&hantaaram\\
+  &&&= {\dn hantaaram}\\
+  &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn hant.r} = hant.r = killer}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = who (?)\\
+  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn manyate}&man|ya|te&(he/she/it) thinks; knows; regards\\
+  &{\dn manyate}&ma|nya|te&(he/she/it) thinks\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
-  &{\dn hatam}&ha|tam&killed; destroyed; hurt\\
+  &{\dn hatam}&ha|tam&hit; hurt; killed\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn hata.h} = hata.h}\\
 \end{tabular}
@@ -1784,11 +1787,12 @@ kill and is not killed.\\
   2a&{\dn ubhau}&u|bhau&two\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn tau}&tau&those two; they\\
+  &{\dn tau}&tau&those two; they two\\
   &&&\note{\pronoun, \male, \dual}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he/it}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn vijaaniito}&vi|jaa|nii|to&vijaaniita.h\\
   &&&= {\dn vijaaniita.h}\\
@@ -1796,21 +1800,24 @@ kill and is not killed.\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn vijaaniite} = vijaaniite = (he/she/it) knows;}\\
   &&&\note{understands; learns}\\
+  &&&\note{root: {\dn vij~naa} = vij\~{}naa}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn naaya.m}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ya.m&aya.m = {\dn aya.m} = this\\
+  &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) destroys; hits; kills\\
+  &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hanyate}&han|ya|te&(he/she/it) is hit; killed\\
+  &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
 \end{tabular}
