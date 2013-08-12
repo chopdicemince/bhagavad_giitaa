@@ -1201,32 +1201,38 @@ from later (will be).\\
 
 (K.r.s.na said to Arjuna:)\\
 
-Just as the soul in this body goes through childhood, adolescence, and
-old age, so it goes to a different body at achievement (death). A
-brave person there is not confused.\\
+Just as the soul in this body (goes through) childhood, youth
+(adolescence), and old age---likewise, (the soul gets) another body
+(at death). (A) steadfast (person) there is not muddled.\\
 
 \begin{tabular}{llll}
   1a&{\dn dehino.asminyathaa}&de|hi|no|&dehina.h\\
   &&&= {\dn dehina.h}\\
-  &&&= soul (?)\\
-  &&&\note{\noun, \male}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \male, {\dn dehin} = dehin}\\
+  &&&\note{= being; spirit; soul}\\
   &&&\\
   &&'smin|&asmin = {\dn asmin} = at/in/on this\\
   &&&\note{\pronoun, \male, \locativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &&ya|thaa&as; like; just as\\
+  &&ya|thaa&just as\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn dehe}&de|he&at/in/on the body\\
+  &{\dn dehe}&de|he&at/in/on a/the body; form\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn kaumaara.m}&kau|maa|ra.m&childhood\\
+  1b&{\dn kaumaara.m}&kau|maa|ra.m&kaumaaram\\
+  &&&= {\dn kaumaaram}\\
+  &&&= childhood\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn yauvana.m}&yau|va|na.m&adolescence\\
+  &{\dn yauvana.m}&yau|va|na.m&yauvanam\\
+  &&&= {\dn yauvanam}\\
+  &&&= youth; adolescence\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn jaraa}&ja|raa&old age\\
@@ -1235,36 +1241,41 @@ brave person there is not confused.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; so; likewise\\
+  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &\multicolumn{3}{l}{\dn dehaantarapraaptirdhiirastatra}\\
   &&&\\
-  &&de|haan|ta|ra|&dehaantaram\\
-  &&&= {\dn dehaantaram}\\
-  &&&= other body\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn dehaantara.h} = dehaantara.h}\\
-  &&&\note{from: \noun, \male, {\dn deha.h} = deha.h = body}\\
-  &&&\note{from: \adjective, \male, {\dn antara.h} = antara.h}\\
-  &&&\note{= near; different; related}\\
+  &&de|haan|&deha.h\\
+  &&&= {\dn deha.h}\\
+  &&&= body; form\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ta|ram&antaram\\
+  &&&= {\dn antaram}\\
+  &&&= another; other; different\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn antara.h} = antara.h}\\
   &&&\\
   &&praap|tir|&praapti.h\\
   &&&= {\dn praapti.h}\\
-  &&&= getting; achievement; reaching\\
+  &&&= getting\\
   &&&\note{\noun, \female}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&dhii|ra|&dhiira.h\\
   &&&= {\dn dhiira.h}\\
-  &&&= brave; strong; intelligent\\
+  &&&= steadfast; brave; intelligent\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &&sta|tra&tatra = {\dn tatra} = there\\
+  &&&\note{\adverb, \noun, \indeclinable}\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn muhyati}&mu|hya|ti&(he/she/it) is confused; perplexed; mistaken\\
+  &{\dn muhyati}&mu|hya|ti&(he/she/it) is mistaken; muddled\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn muh} = muh}\\
 \end{tabular}
