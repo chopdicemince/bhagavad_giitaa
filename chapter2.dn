@@ -1661,13 +1661,14 @@ thing---not any (person) is able to do (it).\\
 
 (K.r.s.na said to Arjuna:)\\
 
-These bodies are perishable, said K.r.s.na. The soul is of something
-not measurable, eternal, and not perishable. Therefore, fight, O
+These bodies are said (to be) perishable. The soul is of something
+eternal, not perishable, not measurable. Therefore, fight, O
 descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn antavanta}&an|ta|van|ta&perishable; having an end (?)\\
-  &&&\note{\adjective}\\
+  1a&{\dn antavanta}&an|ta|van|ta&(?)\\
+  &&&\note{similar: \adjective, {\dn antavat} = antavat}\\
+  &&&\note{= perishable}\\
   &&&\\
   &{\dn ime}&i|me&these\\
   &&&\note{\pronoun, \male, \plural}\\
@@ -1675,7 +1676,7 @@ descendant of Bharata (O Arjuna).\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
   &&&= {\dn dehaa.h}\\
-  &&&= bodies\\
+  &&&= bodies; forms\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   \hline
@@ -1687,28 +1688,31 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
-  &&taa|.h(aa)&uktaa.h\\
+  &&taa\quad(|.h(aa))&uktaa.h\\
   &&&= {\dn uktaa.h}\\
-  &&&= said (?)\\
+  &&&= said\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn ukta.h} = ukta.h}\\
   &&&\\
-  &{\dn "sariiri.na.h}&"sa|rii|ri|.na|.h(a)&(?) soul; man; animal\\
+  &{\dn "sariiri.na.h}&"sa|rii|ri|.na\quad(|.h(a))&(?)\\
   &&&\note{similar: \noun, \male: {\dn "sariirin} = "sariirin}\\
+  &&&\note{= soul; being; man; creature}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn anaa"sino.aprameyasya}&a|naa|"si|no|&anaa"sina.h\\
   &&&= {\dn anaa"sina.h}\\
-  &&&= not perishable;\\
-  &&&not destructive;\\
-  &&&not destroying\\
+  &&&= not perishable; destructive; destroying\\
+  &&&\note{\adjective}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, {\dn naa"sin} = naa"sin}\\
   &&&\\
   &&'pra|me|ya|sya&aprameyasya\\
   &&&= {\dn aprameyasya}\\
-  &&&= of something not measurable; not proved\\
+  &&&= of something (not + measurable; proved)\\
   &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from {\dn aprameya.h}= aprameya.h}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn prameya.h} = prameya.h}\\
   \hline
@@ -1717,12 +1721,13 @@ descendant of Bharata (O Arjuna).\\
   2b&{\dn tasmaadyudhyasva}&tas|maa|dyu|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&dhya|sva&(?) yudhyasva\\
+  &&dhya|sva&yudhyasva\\
   &&&= {\dn yudhyasva}\\
-  &&&= (you) fight\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn yudh} = yudh}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \neuter, {\dn yuddham} = yuddham}\\
+  &&&\note{= war; fight}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
   &&&= O Arjuna\\
