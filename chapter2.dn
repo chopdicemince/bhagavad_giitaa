@@ -1827,13 +1827,18 @@ does not kill and is not killed.\\
 
 (K.r.s.na said to Arjuna:)\\
 
-(About the soul:) It is not sometimes born and does not sometimes
-die---yes or no? It is not having been, will probably be, and \dots
-(?) \dots---yes or no? This is not born, is eternal, and is
-ancient. It is not killed, and is not being killed in the body.\\
+(About the soul:) (It is) not born sometimes (and) does not die
+sometimes---yes or no? This is not having been, (and not) will
+possibly be, and not \dots (?) \dots, yes or no? This is not born, is
+eternal, (and) is old. (It) is not killed (and) is not being killed in
+the body.\\
+
+(Note: Many verses have eight main syllables per line, but this verse
+has eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&(he/she/it) is born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1845,66 +1850,72 @@ ancient. It is not killed, and is not being killed in the body.\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
-  &{\dn kadaacin}&ka|daa|cin&(?) kadaacit\\
+  &{\dn kadaacin}&ka|daa|cin&kadaacit\\
   &&&= {\dn kadaacit}\\
   &&&= sometimes\\
-  \hline
-  &&&\\
-  % ----------------------------------------------------------------------------
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn naaya.m}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ya.m&aya.m = {\dn aya.m} = this\\
+  &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn bhuutvaa}&bhuut|vaa&having been\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn bhavitaa}&bha|vi|taa&(he/she/it) will probably be\\
-  &&&\note{\verbb, \futuretense, \thirdperson, \singular}\\
+  &{\dn bhavitaa}&bha|vi|taa&(he/she/it) will possibly be\\
+  &&&\note{\verbb, \futuretensepossible, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya|.ha&(?)\\
+  &{\dn bhuuya.h}&bhuu|ya\quad(|.ha)&(?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ajo}&a|jo&aja.h\\
   &&&= {\dn aja.h}\\
-  &&&= not born\\
+  &&&= not + born\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h = born}\\
+  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h}\\
   &&&\\
-  &{\dn nitya.h}&ni|tya|.h(a)&eternal\\
+  &{\dn nitya.h}&ni|tya\quad(|.h(a))&eternal\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn "saa"svato.aya.m}&"saa"s|va|to|&"saa"svata.h\\
+  &{\dn "saa"svato.aya.m}&"saa|"sva|to|&"saa"svata.h\\
   &&&= {\dn "saa"svata.h}\\
   &&&= eternal\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya.m&aya.m = {\dn aya.m} = this\\
+  &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn puraa.no}&pu|raa|.no&puraa.na.h\\
   &&&= {\dn puraa.na.h}\\
   &&&= old; ancient\\
   &&&\note{\adjective, \male}\\
-  \hline
-  &&&\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hanyate}&han|ya|te&(he/she/it) is hit; killed\\
+  &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn hanyamaane}&han|ya|maa|ne&in being hit; killed\\
+  &{\dn hanyamaane}&ha|nya|maa|ne&at/in/on being hit; killed\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn hanyamaana.h} = hanyamaana.h}\\
   &&&\\
