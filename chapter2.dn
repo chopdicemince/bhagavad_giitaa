@@ -1112,42 +1112,49 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
 
 (K.r.s.na said to Arjuna:)\\
 
-No, but really, I never not was, or you not were, or these kings not
-were. No, and really, not in the impending future, will we from now
-and after not be.\\
+But really, I not-possibly (never) not was, nor you (not were), nor
+these kings (not were). And really, we will not, not [sic] be. We all
+from later (will be).\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really\\
+  &&vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ha.m&aha.m = {\dn aha.m} = I\\
+  &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn jaatu}&jaa|tu&never; possibly; perhaps\\
-  &&&\note{\adverb}\\
+  &{\dn jaatu}&jaa|tu&possibly\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn naasa.m}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&sa.m&aasam = {\dn aasam} = (I) was\\
-  &&&\note{\verbb, \pasttense, \firstperson}\\
+  &&&\note{\verbb, \pasttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tva.m}&tva.m&you\\
-  &&&\note{\pronoun, \secondperson}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &{\dn neme}&ne|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&me&ime = {\dn ime} = these\\
   &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
-  &{\dn janaadhipaa.h}&ja|naa|dhi|paa|.h(aa)&kings\\
+  &{\dn janaadhipaa.h}&ja|naa|dhi|paa\quad(|.h(aa))&kings\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn janaadhipa.h} = janaadhipa.h}\\
 \end{tabular}
@@ -1155,16 +1162,20 @@ and after not be.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma|.h(a)&impending\\
-  &&&\note{\adjective, \firstperson, \plural}\\
-  &&&\note{from {\dn bhavi.sya} = bhavi.sya}\\
+  &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma\quad(|.h(a))&(we) will be\\
+  &&&\note{\verbb, \futuretensecertain, \firstperson, \plural}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -1174,11 +1185,15 @@ and after not be.\\
   &&&\\
   &{\dn vayamata.h}&va|ya|ma|&vayam = {\dn vayam} = we\\
   &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&ta|.h(a)&from\\
+  &&ta\quad(|.h(a))&ata.h\\
+  &&&= {\dn ata.h}\\
+  &&&= from (some place or time)\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn param}&pa|ram&after\\
+  &{\dn param}&pa|ram&later\\
+  &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
