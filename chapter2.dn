@@ -1470,23 +1470,23 @@ is suitable for ``not-dead'' (immortality).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 1, Verse 16}
+\section*{Chapter 2, Verse 16}
 
 (K.r.s.na said to Arjuna:)\\
 
-A non-eternal thing is not existence. Non-existence is not eternal.
-But also, the conclusion of these two statements is seen---and the
-truth of these two statements---by people who know or see.\\
+Non-eternity is not birth. Non-birth is not eternity. But also, the
+end (meaning) of (these) two statements is seen---and the truth of
+these two statements---by people who know or see.\\
 
 \begin{tabular}{llll}
   1a&{\dn naasato}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&sa|to&asata.h\\
   &&&= {\dn asata.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \adjective, {\dn satata} = satata}\\
-  &&&\note{= constant; continuous; eternal}\\
+  &&&\note{similar: \adjective, {\dn satata} = satata = eternal}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1494,16 +1494,18 @@ truth of these two statements---by people who know or see.\\
   &&&\\
   &{\dn bhaavo}&bhaa|vo&bhaava.h\\
   &&&= {\dn bhaava.h}\\
-  &&&= existence\\
+  &&&= birth; state (of existence)\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn naabhaavo}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&bhaa|vo&abhaava.h\\
   &&&= {\dn abhaava.h}\\
-  &&&= non-existence\\
+  &&&= non + birth; state (of existence)\\
+  &&&\note{\noun, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \male, {\dn bhaava.h} = bhaava.h}\\
   &&&\\
@@ -1512,22 +1514,24 @@ truth of these two statements---by people who know or see.\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
   &{\dn sata.h}&sa|ta|.h(a)&(?)\\
-  &&&\note{similar: \adjective, {\dn satata} = satata}\\
-  &&&\note{= constant; continuous; eternal}\\
+  &&&\note{similar: \adjective, {\dn satata} = satata = eternal}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ubhayorapi}&u|bha|yo|ra|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= at/in/on or of two things\\
-  &&&\note{\pronoun, \male, \dual, \locativecase}\\
-  &&&\note{or \genitivecase}\\
+  &&&= of two things; at/in/on two things\\
+  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhaya.h} = ubhaya.h}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn d.r.s.to.antastvanayostattvadar"sibhi.h}&d.r.s|.to'n|&d.r.s.ta.h\\
+  &\multicolumn{3}{l}{\dn d.r.s.to.antastvanayostattvadar"sibhi.h}\\
+  &&&\\
+  &&d.r|.s.to'n|&d.r.s.ta.h\\
   &&&= {\dn d.r.s.ta.h}\\
   &&&= seen\\
   &&&\note{\adjective, \pastparticiple, \male}\\
@@ -1535,26 +1539,28 @@ truth of these two statements---by people who know or see.\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
-  &&&= end; death; conclusion\\
+  &&&= end; death\\
   &&&\note{\noun, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&stva|&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&na|yo|stat|&anayo.h\\
   &&&= {\dn anayo.h}\\
-  &&&= at/in/on or of two things (?)\\
-  &&&\note{\pronoun, \male, \locativecase}\\
-  &&&\note{or \genitivecase}\\
-  &&&\note{from {\dn ana.h} = ana.h}\\
+  &&&= (?) of these two things;\\
+  &&&at/in/on these two things\\
+  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{from {\dn ana.h} = ana.h = this}\\
   &&&\\
   &&tva|&tattvam\\
   &&&= {\dn tattvam}\\
-  &&&= truth; essence; principle\\
+  &&&= truth; essence\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dar|"si|bhi|.h(i)&using/by people who know or see (?)\\
+  &&dar|"si|bhi\quad(|.h(i))&(?) using/by people who know or see\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn dar"sivas} = dar"sivas}\\
 \end{tabular}
