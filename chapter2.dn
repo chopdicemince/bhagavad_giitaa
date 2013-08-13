@@ -2361,34 +2361,43 @@ you do not deserve to lament.\\
 
 (K.r.s.na said to Arjuna:)\\
 
-(About the soul:) Also, and do you think that this is eternally born
-and eternally dead (that is, the soul is born infinitely often, and
-dies infinitely often)? Thus, also, you, O great-arm person (O
-Arjuna), do not deserve to lament this.\\
+(About the soul:) Also, and do you think (that) this is
+eternal(ly)-born and (eternally) dead (that is, the soul is born
+infinitely often, and dies infinitely often), yes or no? Thus, also,
+you, O great-arm (O Arjuna), do not deserve to lament this.\\
 
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn nityajaata.m}&ni|tya|jaa|ta.m&eternally born\\
+  &{\dn nityajaata.m}&ni|tya|&{\dn nitya}\\
+  &&&= eternal\\
   &&&\note{\adjective}\\
-  &&&\note{from: \adjective, {\dn nitya} = nitya = eternal}\\
-  &&&\note{from: \adjective, {\dn jaata} = jaata = born}\\
+  &&&\\
+  &&jaa|ta.m&jaatam\\
+  &&&= {\dn jaatam}\\
+  &&&= born\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn jaata.h} = jaata.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn nitya.m}&ni|tya.m&eternal\\
+  1b&{\dn nitya.m}&ni|tya.m&nityam\\
+  &&&= {\dn nityam}\\
+  &&&= eternal\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
-  &{\dn manyase}&man|ya|se&(you) think\\
+  &{\dn manyase}&ma|nya|se&(you) think\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
@@ -2399,24 +2408,30 @@ Arjuna), do not deserve to lament this.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaapi}&ta|thaa|&thus\\
+  2a&{\dn tathaapi}&ta|thaa|&thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tva.m}&tva.m&you\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
-  &{\dn mahaabaaho}&ma|haa|baa|ho&O great-arm person\\
-  &&&= O Arjuna\\
+  &{\dn mahaabaaho}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= great\\
+  &&&\\
+  &&baa|ho&{\dn baaho}\\
+  &&&= O arm; forearm\\
   &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from: \adjective, \male, {\dn mahaan} = mahaan = great}\\
-  &&&\note{from: \noun, \male, {\dn baahu.h} = baahu.h = arm}\\
+  &&&\note{from {\dn baahu.h} = baahu.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn naina.m}&nai|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
@@ -2424,6 +2439,7 @@ Arjuna), do not deserve to lament this.\\
   &&&= {\dn "socitum}\\
   &&&= to lament\\
   &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn "suc} = "suc}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
