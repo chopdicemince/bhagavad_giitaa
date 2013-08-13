@@ -2111,46 +2111,50 @@ other, new bodies.\\
 (K.r.s.na said to Arjuna:)\\
 
 (About the soul:) Weapons do not cut this, fire does not burn this,
-and water does not wet this. Wind does not dry this.\\
+and water does not wet this. Wind does not dry (this).\\
 
 \begin{tabular}{llll}
   1a&{\dn naina.m}&nai|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn chindanti}&chin|dan|ti&(they) cut (?)\\
+  &{\dn chindanti}&chin|dan|ti&(?) (they) cut\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn chid} = chid}\\
   &&&\\
-  &{\dn "sastraa.ni}&"sas|traa|.ni&weapons; missles; swords\\
+  &{\dn "sastraa.ni}&"sa|straa|.ni&weapons; missles; swords\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn "sastram} = "sastram}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn naina.m}&nai|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &{\dn dahati}&da|ha|ti&(he/she/it) grieves; tortures; burns\\
+  &{\dn dahati}&da|ha|ti&(he/she/it) distresses; burns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn dah} = dah}\\
   &&&\\
-  &{\dn paavaka.h}&paa|va|ka|.h(a)&fire; saint; kind of plant\\
+  &{\dn paavaka.h}&paa|va|ka\quad(|.h(a))&fire; purified person; kind of plant\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
@@ -2168,12 +2172,13 @@ and water does not wet this. Wind does not dry this.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn "so.sayati}&"so|.sa|ya|ti&(he/she/it) dries\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn "su.s} = "su.s}\\
   &&&\\
-  &{\dn maaruta.h}&maa|ru|ta|.h(a)&wind; air; breath\\
+  &{\dn maaruta.h}&maa|ru|ta\quad(|.h(a))&wind; air; breath\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
