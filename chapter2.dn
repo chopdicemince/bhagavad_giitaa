@@ -2015,9 +2015,9 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
 
 (K.r.s.na said to Arjuna:)\\
 
-Just as old garments are abandoned, a man holds new, other
-garments. Likewise, old, different bodies are abandoned, and a person
-goes with a new soul.\\
+Just as old garments (are) abandoned, a man holds new others (other
+garments). Likewise, old bodies (are) abandoned, (and a man) goes with
+other, new bodies.\\
 
 \begin{tabular}{llll}
   1a&{\dn vaasaa.msi}&vaa|saa.m|si&(?) vaasaa.h\\
@@ -2026,20 +2026,23 @@ goes with a new soul.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vaasa.h} = vaasa.h}\\
   &&&\\
-  &{\dn jiir.naani}&jiir|.naa|ni&ruined; old; decrepit\\
+  &{\dn jiir.naani}&jiir|.naa|ni&old; worn out\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn jiir.nam} = jiir.nam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&as; like; just as\\
+  &{\dn yathaa}&ya|thaa&just as\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn vihaaya}&vi|haa|ya&despite; abandoning; overlooking\\
+  &{\dn vihaaya}&vi|haa|ya&abandoned\\
   &&&\note{\adjective}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  1b&{\dn navaani}&na|vaa|ni&new; recent; young\\
+  1b&{\dn navaani}&na|vaa|ni&new\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn navam} = navam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn g.rh.naati}&g.rh|.naa|ti&(he/she/it) holds; takes; understands\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2055,43 +2058,51 @@ goes with a new soul.\\
   &&&= others\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn aparam} = aparam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; so; likewise\\
+  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn "sariiraa.ni}&"sa|rii|raa|.ni&bodies; feces; anatomies\\
+  &{\dn "sariiraa.ni}&"sa|rii|raa|.ni&bodies\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn "sariiram} = "sariiram}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn vihaaya}&vi|haa|ya&despite; abandoning; overlooking\\
+  &{\dn vihaaya}&vi|haa|ya&abandoned\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn jiir.naanyanyaani}&jiir|.naa|nya|&jiir.naani\\
+  &{\dn jiir.naanyanyaani}&jiir|.naa|&jiir.naani\\
   &&&= {\dn jiir.naani}\\
-  &&&= ruined; old; decrepit\\
+  &&&= old; worn out\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn jiir.nam} = jiir.nam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&&nyaa|ni&anyaani\\
+  2b&&nya|nyaa|ni&anyaani\\
   &&&= {\dn anyaani}\\
   &&&= another; other; different\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn anyam} = anyam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets; goes with; joins\\
+  &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets; goes with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.myaa} = sa.myaa}\\
   &&&\\
   &{\dn navaani}&na|vaa|ni&new\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{root: {\dn navam} = navam}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn dehii}&de|hii&soul (?)\\
+  &{\dn dehii}&de|hii&(?)\\
   &&&\note{similar: \noun, \male, {\dn deha.h} = deha.h = body}\\
+  &&&\note{similar: \noun, \male, {\dn dehin} = dehin}\\
+  &&&\note{= being; soul; man; creature}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
