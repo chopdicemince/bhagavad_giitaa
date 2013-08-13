@@ -2273,26 +2273,28 @@ not moving. This is eternal.\\
 (K.r.s.na said to Arjuna:)\\
 
 (About the soul:) This is not visible, this is not thinkable, this is
-not changeable---this is regarded (as such). Therefore, thus, having
-known this, you do not deserve to lament.\\
+not changeable---(it) is said. Therefore, really, having known this,
+you do not deserve to lament.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyakto.ayamacintyo.ayamavikaaryo.ayamucyate}\\
   &&&\\
   &&a|vyak|to|&avyakta.h\\
   &&&= {\dn avyakta.h}\\
-  &&&= not visible; clear; evident\\
+  &&&= not + visible\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from {\dn a} + {\dn vyakta.h} = a + vyakta.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &&cin|tyo|&acintya.h\\
   &&&= {\dn acintya.h}\\
-  &&&= not thinkable\\
+  &&&= not + thinkable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from {\dn a} + {\dn cintya.h} = a + cintya.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn cintya.h} = cintya.h}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
@@ -2301,9 +2303,10 @@ known this, you do not deserve to lament.\\
   % ----------------------------------------------------------------------------
   1b&&ma|vi|kaar|yo|&avikaarya.h\\
   &&&= {\dn avikaarya.h}\\
-  &&&= not changeable\\
+  &&&= not + changeable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from {\dn a} + {\dn vikaarya.h}}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn vikaarya.h} = vikaarya.h}\\
   &&&\\
   &&'ya|mu|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \male}\\
@@ -2320,27 +2323,31 @@ known this, you do not deserve to lament.\\
   2a&{\dn tasmaadeva.m}&tas|maa|de|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va.m&evam = {\dn evam} = thus\\
+  &&va.m&evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn viditvaina.m}&vi|di|tvai|&viditvaa\\
   &&&= {\dn viditvaa}\\
-  &&&= having known\\
+  &&&= (?) having known\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &&na.m&ena.m = {\dn ena.m} = this (?)\\
+  &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn naanu"socitumarhasi}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&nu|"so|ci|tu|mar|&anu"socitum\\
   &&&= {\dn anu"socitum}\\
   &&&= to lament\\
   &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn anu"suc} = anu"suc}\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
