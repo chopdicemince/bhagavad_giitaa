@@ -185,3 +185,78 @@ be known.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 7, Verse 3}
+
+(K.r.s.na said to Arjuna:)\\
+
+Any of a thousand men tries (and is) successful (in knowing me). Also,
+of people who try, of people successful, any knows me truthfully.\\
+
+\begin{tabular}{llll}
+  1a&{\dn manu.syaa.naa.m}&ma|nu|.syaa|.naa.m&manu.syaa.naam\\
+  &&&= {\dn manu.syaanaam}\\
+  &&&= of men\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
+  &&&\\
+  &{\dn sahasre.su}&sa|ha|sre|.su&at/in/on a/the thousand things\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn sahasrin} = sahasrin}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn ka"scidyatati}&ka"s|ci|dya|&kas"cit\\
+  &&&= {\dn ka"scit}\\
+  &&&= any\\
+  &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
+  &&&\\
+  &&ta|ti&yatati\\
+  &&&= {\dn yatati}\\
+  &&&= (?) yatate\\
+  &&&= {\dn yatate}\\
+  &&&= (he/she/it) tries\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn yat} = yat}\\
+  &&&\\
+  &{\dn siddhaye}&sid|dha|ye&(?)\\
+  &&&\note{similar: \adjective, {\dn siddha} = siddha}\\
+  &&&\note{= successful}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yatataamapi}&ya|ta|taa|ma|&yatataam\\
+  &&&= {\dn yatataam}\\
+  &&&= (?) of people who try\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from (?)}\\
+  &&&\\
+  &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn siddhaanaa.m}&sid|dhaa|naa.m&siddhaanaam\\
+  &&&= {\dn siddhaanaam}\\
+  &&&= of people/things successful\\
+  &&&\note{\adjective, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn siddha.h} = siddha.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn ka"scinmaa.m}&ka"s|cin|&ka"scit\\
+  &&&= {\dn ka"scit}\\
+  &&&= any\\
+  &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
+  &&&\\
+  &&maa.m&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn vetti}&vet|ti&(he/she/it) knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
+  &&&\\
+  &{\dn tattvata.h}&tat|tva|ta\quad(|.h(a))&truthfully\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
