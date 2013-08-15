@@ -96,3 +96,92 @@ me completely. Hear that.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 7, Verse 2}
+
+(K.r.s.na said to Arjuna:)\\
+
+For you, I will say fully this knowledge with knowledge. One, having
+known (this knowledge)---not another (thing) in this world remains to
+be known.\\
+
+\begin{tabular}{llll}
+  1a&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn te.aha.m}&te|&te = {\dn te} = for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\\
+  &&'ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson, \singular}\\
+  &&&\\
+  &{\dn savij~naanamida.m}&sa|&sa.h = {\dn sa.h} = with\\
+  &&&\note{\preposition}\\
+  &&&\\
+  &&vi|j\~{}naa|na|&vij\~{}naanam\\
+  &&&= {\dn vij~naanam}\\
+  &&&= knowledge; science; art\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&&mi|da.m&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn vak.syaamya"se.sata.h}&va|k.syaa|mya|&vak.syaami\\
+  &&&= {\dn vak.syaami}\\
+  &&&= (I) will say\\
+  &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  &&&\\
+  &&"se|.sa|ta\quad(|.h(a))&a"se.sata.h\\
+  &&&= {\dn a"se.sata.h}\\
+  &&&= fully\\
+  &&&\note{\adverb}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&j\~{}naat|vaa&{\dn j~naatvaa}\\
+  &&&= having known\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn j~naa} = j\~{}naa}\\
+  &&&\\
+  &{\dn neha}&ne|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ha&iha = {\dn iha} = in this world; here; now\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn bhuuyo.anyajj~naatavyamava"si.syate}&bhuu|yo|&bhuuya.h\\
+  &&&= {\dn bhuuya.h}\\
+  &&&= (?)\\
+  &&&\\
+  &&nyaj|&anyat\\
+  &&&= {\dn anyat}\\
+  &&&= another\\
+  &&&\note{\adjective, \pronoun}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&j\~{}naa|ta|vya|ma|&j\~{}naatavyam\\
+  &&&= {\dn j~naatavyam}\\
+  &&&= to be known\\
+  &&&\note{\adjective, \neuter(?)}\\
+  &&&\\
+  &&va|"si|.sya|te&ava"si.syate\\
+  &&&= {\dn ava"si.syate}\\
+  &&&= (he/she/it) remains\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn ava"si.s} = ava"si.s}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
