@@ -601,3 +601,89 @@ string.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 7, Verse 8}
+
+(K.r.s.na said to Arjuna:)\\
+
+I (am) the flavor in water, O son of Kuntii (O Arjuna). I am the light
+of the moon-sun, the syllable ``aum'' in meditation in all holy texts,
+the sound in vacuum, and prowess in men.\\
+
+\begin{tabular}{llll}
+  1a&{\dn raso.ahamapsu}&ra|so|&rasa.h\\
+  &&&= {\dn rasa.h}\\
+  &&&= flavor\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'ha|map|&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &&su&apsu\\
+  &&&= {\dn apsu}\\
+  &&&= in water\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn prabhaasmi}&pra|bhaa|&{\dn prabhaa}\\
+  &&&= light\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&smi&asmi\\
+  &&&= {\dn asmi}\\
+  &&&= (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn "sa"sisuuryayo.h}&"sa|"si|&"sa"sin\\
+  &&&= {\dn "sa"sin}\\
+  &&&= moon\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&suur|ya|yo\quad(|.h(o))&suuryayo.h\\
+  &&&= {\dn suuryayo.h}\\
+  &&&= of two suns; at/in/on two suns\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{from {\dn suurya.h} = suurya.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn pra.nava.h}&pra|.na|va\quad(|.h(a))&the syllable ``aum'' in meditation\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn sarvavede.su}&sar|va|&sarva\\
+  &&&= {\dn sarva}\\
+  &&&= each; all\\
+  &&&\note{\adjective, \pronoun, \adverb}\\
+  &&&\\
+  &&ve|de|.su&{\dn vede.su}\\
+  &&&= at/in/on holy texts\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn veda.h} = veda.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn "sabda.h}&"sab|da\quad(|.h(a))&sound; word\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn khe}&khe&at/in/on a/the cave; hole; vacuum; ether\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn kham} = kham}\\
+  &&&\\
+  &{\dn pauru.sa.m}&pau|ru|.sa.m&pauru.sam\\
+  &&&= {\dn pauru.sam}\\
+  &&&= prowess; manliness\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn n.r.su}&n.r|.su&at/in/on men\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn n.r} = n.r = man}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
