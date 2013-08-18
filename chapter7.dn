@@ -2195,3 +2195,78 @@ not-changeable.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 7, Verse 26}
+
+(K.r.s.na said to Arjuna:)\\
+
+I (know) the past and present---O Arjuna---future, and beings. But not
+anyone (knows) me.\\
+
+\begin{tabular}{llll}
+  1a&{\dn vedaaha.m}&ve|daa|&veda.h\\
+  &&&= {\dn veda.h}\\
+  &&&= (sacred) knowledge\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn samatiitaani}&sa|ma|tii|taa|ni&past\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn samatiitam} = samatiitam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn vartamaanaani}&var|ta|maa|naa|ni&present (time)\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn vartamaanam} = vartamaanam}\\
+  &&&\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&ju|na&arjuna\\
+  &&&= {\dn arjuna}\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn arjuna.h} = arjuna.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn bhavi.syaa.ni}&bha|vi|.syaa|.ni&future\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn bhavi.syam} = bhavi.syam}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; men; creatures\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn bhuutam} = bhuutam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn tu}&tu&but\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn veda}&ve|da&veda.h\\
+  &&&= {\dn veda.h}\\
+  &&&= (sacred) knowledge\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ka"scana}&ka"s|ca|na&anyone\\
+  &&&\note{\pronoun, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
