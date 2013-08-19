@@ -1,0 +1,91 @@
+\chapter*{Chapter 8}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 8, Verse 1}
+
+Arjuna said (to K.r.s.na):\\
+
+What (is) that God? What (is) the self? What (is) action, O
+man-ultimate (O K.r.s.na)? And what (is) said (about) creation? What
+is God called?\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn kim}&kim&what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn tadbrahma}&tad|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&brah|ma&brahmam = {\dn brahmam} = God\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn kimadhyaatma.m}&ki|ma|&kim = {\dn kim} = what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&dhyaat|ma.m&adhyaatmam = {\dn adhyaatmam} = self\\
+  &&&\note{\adjective, \neuter}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn ki.m}&ki.m&what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn karma}&kar|ma&karmam  {\dn karmam} = action; work; doing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn puru.sottama}&pu|ru|.sot|&puru.sa.h\\
+  &&&= {\dn puru.sa.h}\\
+  &&&= man; spirit\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ta|ma&uttama\\
+  &&&= {\dn uttama}\\
+  &&&= O ultimate or best person/thing\\
+  &&&\note{\adjective, \male, \vocativecase}\\
+  &&&\note{from {\dn uttama.h} = uttama.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn adhibhuuta.m}&a|dhi|bhuu|ta.m&adhibhuutam\\
+  &&&= {\dn adhibhuutam}\\
+  &&&= creation; God\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn ki.m}&ki.m&what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn proktamadhidaiva.m}&prok|ta|&proktam\\
+  &&&= {\dn proktam}\\
+  &&&= said\\
+  &&&\note{\adjective, \neuter}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&ma|dhi|dai|va.m&adhidaivam\\
+  &&&= {\dn adhidaivam}\\
+  &&&= God\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn adhidaiva.h} = adhidaiva.h}\\
+  &&&\\
+  &{\dn kim}&kim&what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &{\dn ucyate}&u|cya|te&(he/she/it) is said; is called\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
