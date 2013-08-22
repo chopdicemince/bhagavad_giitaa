@@ -1673,3 +1673,92 @@ a non-visible sign.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 8, Verse 19}
+
+(K.r.s.na said to Arjuna:)\\
+
+That being-gamut---really, this (is) having been, having been. (A
+being) is absorbed at the night-approach, not submissive, O prince (O
+Arjuna). (A being) is powerful at the day-approach.\\
+
+\begin{tabular}{llll}
+  1a&{\dn bhuutagraama.h}&bhuu|ta|&bhuuta.h\\
+  &&&= {\dn bhuuta.h}\\
+  &&&= being; spirit; man; creature\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&graa|ma\quad(|.h(a))&graama.h\\
+  &&&= {\dn graama.h}\\
+  &&&= gamut; village; community\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\\
+  &{\dn evaaya.m}&e|vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ya.m&ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn bhuutvaa}&bhuut|vaa&having been\\
+  &&&\note{\verbb, \participle}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn bhuutvaa}&bhuut|vaa&having been\\
+  &&&\note{\verbb, \participle}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn praliiyate}&pra|lii|ya|te&(he/she/it) perishes; is absorbed\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn pralii} = pralii}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn raatryaagame.ava"sa.h}&raa|tryaa|&raatri.h\\
+  &&&= {\dn raatri.h}\\
+  &&&= night\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&ga|me|&aagame\\
+  &&&= {\dn aagame}\\
+  &&&= at/in/on a/the approach\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn aagama.h} = aagama.h}\\
+  &&&\\
+  &&va|"sa\quad(|.h(a))&ava"sa.h\\
+  &&&= {\dn ava"sa.h}\\
+  &&&= not + submissive\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn va"sa.h} = va"sa.h}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn prabhavatyaharaagame}&pra|bha|va|tya|&prabhavati\\
+  &&&= {\dn prabhavati}\\
+  &&&= (he/she/it) is powerful; prevails\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn prabhuu} = prabhuu}\\
+  &&&\\
+  &&ha|raa|&aha.h\\
+  &&&= {\dn aha.h}\\
+  &&&= day\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ga|me&aagame\\
+  &&&= {\dn aagame}\\
+  &&&= at/in/on a/the approach\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn aagama.h} = aagama.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
