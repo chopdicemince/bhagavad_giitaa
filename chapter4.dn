@@ -22,7 +22,7 @@ Ik.svaaku.\\
   &&&\\
   % ----------------------------------------------------------------------------
   1a&{\dn ima.m}&i|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn vivasvate}&vi|va|sva|te&(?)\\
@@ -111,7 +111,7 @@ enemies (O Arjuna).\\
   &&&\\
   % ----------------------------------------------------------------------------
   1b&&mi|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn raajar.sayo}&raa|jar|&raaja.h\\
@@ -132,7 +132,7 @@ enemies (O Arjuna).\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn kaaleneha}&kaa|le|ne|&kaalena\\
   &&&= {\dn kaalena}\\
@@ -171,13 +171,13 @@ are my follower and friends.'' Surely, this mystery is the best.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn evaaya.m}&evaa|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
@@ -743,7 +743,7 @@ goes toward me, O Arjuna.\\
   &&&\note{root: {\dn i} = i}\\
   &&&\\
   &{\dn so.arjuna}&so'r|&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -872,7 +872,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\\
   % ----------------------------------------------------------------------------
   1b&{\dn taa.mstathaiva}&taa.m|&taan = {\dn taan} = those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&sta|thai|&tathaa = {\dn tathaa} = so\\
@@ -1055,8 +1055,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasya}&ta|sya&of that/him/it\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  2a&{\dn tasya}&ta|sya&of that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\note{or}\\
   &&&\note{\pronoun, \neuter, \genitivecase}\\
@@ -1180,7 +1180,7 @@ says one who knows me. He does not suffer in action.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn badhyate}&ba|dhya|te&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -1500,7 +1500,7 @@ men. He is occupied with all actions done.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn buddhimaanmanu.sye.su}&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
@@ -1518,7 +1518,7 @@ men. He is occupied with all actions done.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yukta.h}&yuk|ta\quad(|.h(a))&joined; occupied with; suitable\\
   &&&\note{\adjective, \male}\\
@@ -1600,8 +1600,8 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn tamaahu.h}&ta|maa|&tam = {\dn tam} = him\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  2b&{\dn tamaahu.h}&ta|maa|&tam = {\dn tam} = that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&hu\quad(|.h(u))&aahu.h\\
@@ -1703,7 +1703,7 @@ not do any (thing).\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2005,7 +2005,7 @@ him, contemplative God-action is accomplished.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tena}&te|na&using/by that/him\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn gantavya.m}&gan|ta|vya.m&gantavyam\\
@@ -2545,7 +2545,7 @@ the eternal God.\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
   &&te&ete = {\dn ete} = these/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &{\dn yaj~navido}&yaj|\~{}na|&yaj\~{}na.h\\
@@ -2627,7 +2627,7 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn loko.astyayaj~nasya}&lo|ko|&loka.h = {\dn loka.h} = world; mankind; place\\
   &&&\note{\noun, \male}\\
@@ -2733,7 +2733,7 @@ the action births. Really, having known all those, you will be free.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn taansarvaaneva.m}&taan|&taan = {\dn taan} = those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&sar|vaa|&sarvaan\\
@@ -3383,7 +3383,7 @@ next (world).\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn loko.astinaparo}&lo|ko|&loka.h\\
   &&&= {\dn loka.h}\\
