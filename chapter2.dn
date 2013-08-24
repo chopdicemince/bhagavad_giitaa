@@ -22,7 +22,7 @@ by Madhu-killer (K.r.s.na): \dots\\
   &&&\\
   % ----------------------------------------------------------------------------
   1a&{\dn ta.m}&ta.m&tam = {\dn tam} = him = Arjuna\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&thus; likewise\\
@@ -580,7 +580,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn te.avasthitaa.h}&te|&those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&'va|sthi|taa|.h(aa)&avasthitaa.h\\
@@ -1151,7 +1151,7 @@ from later (will be).\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&me&ime = {\dn ime} = these\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn janaadhipaa.h}&ja|naa|dhi|paa\quad(|.h(aa))&kings\\
@@ -1213,7 +1213,7 @@ Just as the soul in this body (goes through) childhood, youth
   &&&\note{= being; spirit; soul}\\
   &&&\\
   &&'smin|&asmin = {\dn asmin} = at/in/on this\\
-  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&ya|thaa&just as\\
@@ -1360,7 +1360,7 @@ them, O descendant of Bharata (O Arjuna).\\
   2b&&staa.m|&taan\\
   &&&= {\dn taani}\\
   &&&= those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&sti|ti|k.sa|&titik.sa.h\\
@@ -1405,7 +1405,7 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\note{root: {\dn vyath} = vyath}\\
   &&&\\
   &&te&ete = {\dn ete} = these\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
@@ -1454,7 +1454,7 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&'m.r|ta|tvaa|ya&am.rtatvaaya\\
   &&&= {\dn am.rtatvaaya}\\
@@ -1551,7 +1551,7 @@ these two statements---by people who know or see.\\
   &&&= {\dn anayo.h}\\
   &&&= (?) of these two things;\\
   &&&at/in/on these two things\\
-  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ana.h} = ana.h = this}\\
   &&&\\
@@ -1632,7 +1632,7 @@ thing---not any (person) is able to do (it).\\
   &&sya&asya\\
   &&&= {\dn asya}\\
   &&&= of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   \hline
   &&&\\
@@ -1671,7 +1671,7 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{= perishable}\\
   &&&\\
   &{\dn ime}&i|me&these\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
@@ -1788,7 +1788,7 @@ does not kill and is not killed.\\
   &&&\note{\adjective}\\
   &&&\\
   &{\dn tau}&tau&those two; they two\\
-  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn na}&na&not\\
@@ -1808,7 +1808,7 @@ does not kill and is not killed.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1862,7 +1862,7 @@ has eleven main syllables per line.)\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn bhuutvaa}&bhuut|vaa&having been\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -1898,7 +1898,7 @@ has eleven main syllables per line.)\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn puraa.no}&pu|raa|.no&puraa.na.h\\
   &&&= {\dn puraa.na.h}\\
@@ -1981,7 +1981,7 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\quad(|.h(a))&man; person; soul\\
   &&&\note{\noun, \male}\\
@@ -2203,7 +2203,7 @@ not moving. This is eternal.\\
   &&&\note{from: \noun, \neuter, {\dn chedyam} = chedyam = cut; tear}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&daa|hyo|&adaahya.h = {\dn adaahya.h} = (?) not + burnable\\
   &&&\note{\adjective, \male}\\
@@ -2212,7 +2212,7 @@ not moving. This is eternal.\\
   &&&\note{= burning; redness; heat}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2259,7 +2259,7 @@ not moving. This is eternal.\\
   &&&\note{from: \adjective, \male, {\dn cala.h} = cala.h}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn sanaatana.h}&sa|naa|ta|na\quad(|.h(a))&eternal; ancient\\
   &&&\note{\adjective, \male}\\
@@ -2287,7 +2287,7 @@ you do not deserve to lament.\\
   &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&cin|tyo|&acintya.h\\
   &&&= {\dn acintya.h}\\
@@ -2297,7 +2297,7 @@ you do not deserve to lament.\\
   &&&\note{from: \adjective, \male, {\dn cintya.h} = cintya.h}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2309,7 +2309,7 @@ you do not deserve to lament.\\
   &&&\note{from: \adjective, \male, {\dn vikaarya.h} = vikaarya.h}\\
   &&&\\
   &&'ya|mu|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
@@ -2736,7 +2736,7 @@ deserve to lament each being.\\
   &&&\note{from {\dn a} + {\dn vadhya.h} = a + vadhya.h}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2953,7 +2953,7 @@ self nature and fame, you will get evil.\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
   &&ma.m&ima.m = {\dn ima.m} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn dharmya.m}&dhar|mya.m&``nature'' (?)\\
@@ -3038,7 +3038,7 @@ death.\\
   &&&\note{root: {\dn kath} = kath}\\
   &&&\\
   &{\dn te.avyayaam}&te|&those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&'vya|yaam&avyayaam\\
@@ -3515,7 +3515,7 @@ amount of this devotion saves (a person) from great fear.\\
   &&pya|&api = {\dn api} = also\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn dharmasya}&dhar|ma|sya&of nature;\\
@@ -4833,7 +4833,7 @@ complete.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn tasya}&ta|sya&his/its\\
-  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h = that/he}\\
   &&&\note{neuter: from {\dn tat} = tat = that/it, or {\dn tad} = tad}\\
   &&&\\
@@ -4864,7 +4864,7 @@ knowledge is complete.\\
   &{\dn caaya.m}&caa|&ca = {\dn ca} = and\\
   &&&\\
   &&ya.m&aya.m = {\dn aya.m} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -4904,7 +4904,7 @@ knowledge is complete.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&sta|sya&tasya = {\dn tasya} = his/its\\
-  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h = that/he}\\
   &&&\note{neuter: from {\dn tat} = tat = that/it, or {\dn tad} = tad}\\
   &&&\\
@@ -4964,7 +4964,7 @@ objects).\\
   &&'pya|&api = {\dn api} = also\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   \hline
   &&&\\
@@ -5089,7 +5089,7 @@ complete.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn tasya}&ta|sya&his/its\\
-  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h}\\
   &&&\note{neuter: from {\dn tat} = tat, or {\dn tad} = tad}\\
   &&&\\
@@ -5131,7 +5131,7 @@ born. From association, desire is born. From desire, anger is born.\\
   &&.suu|&te.su\\
   &&&= {\dn te.su}\\
   &&&= at/in/on those\\
-  &&&\note{\pronoun, \male, \plural, \locativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&pa|jaa|ya|te&upajaayate\\
@@ -5364,7 +5364,7 @@ born---a happy mind, certainly. Knowledge is present around, fast.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&syo|&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&pa|jaa|ya|te&upajaayate\\
@@ -5529,7 +5529,7 @@ carries off knowledge, like wind and a boat on water.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn harati}&ha|ra|ti&(he/she/it) destroys; takes; carries off\\
@@ -5623,7 +5623,7 @@ restrained---his knowledge is complete.\\
   2a&&sta|sya&tasya\\
   &&&= {\dn tasya}\\
   &&&= his/its\\
-  &&&\note{\pronoun, \male, \neuter, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{\male, from {\dn sa.h} = sa.h}\\
   &&&\note{\neuter, from {\dn tat} = tat or {\dn tad} = tad}\\
   &&&\\
@@ -5772,7 +5772,7 @@ gets no peace.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn "saantimaapnoti}&"saan|ti|maap|&"saantim\\
   &&&= {\dn "saantim}\\
@@ -5851,8 +5851,8 @@ desiring possessions, humble---he learns peace.\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn "saantimadhigacchati}&"saan|ti|ma|&"saantim\\
   &&&= {\dn "saantim}\\
