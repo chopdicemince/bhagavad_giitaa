@@ -14,3 +14,34 @@ bhaarata), and which is a history of the ancient world. In the
 Bhagavad Giitaa, Lord K.r.s.na (sometimes spelled ``Krishna'') gave
 advice to his friend Arjuna. After eighteen days of fighting their
 enemies, they are victorious.
+
+There are 18 chapters and 700 verses.
+\\
+
+\begin{tabular}{r|r|r}
+  Chapter&Verses&Cumulative verses\\
+  \hline
+  1&46&46\\
+  2&72&118\\
+  3&43&161\\
+  \hline
+  4&42&203\\
+  5&29&232\\
+  6&47&279\\
+  \hline
+  7&30&309\\
+  8&28&337\\
+  9&34&371\\
+  \hline
+  10&42&413\\
+  11&55&468\\
+  12&20&488\\
+  \hline
+  13&35&523\\
+  14&27&550\\
+  15&20&570\\
+  \hline
+  16&24&594\\
+  17&28&622\\
+  18&78&700\\
+\end{tabular}
