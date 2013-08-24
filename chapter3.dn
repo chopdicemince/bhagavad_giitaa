@@ -192,7 +192,7 @@ Saa"nkhya philosophy, and using action-work of devotees.\\
   &&min|&asmin\\
   &&&= {\dn asmin}\\
   &&&= at/in/on this\\
-  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&dvi|&{\dn dvi} = two\\
@@ -489,8 +489,8 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
   &&&= conduct; manner; behavior\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ucyate}&u|cya|te&(he/she/it) is said;\\
   &&&is called;\\
@@ -577,7 +577,7 @@ senses, action union---and is not attached. He is the best.\\
   &&&\note{from: \adjective, \male, {\dn sakta.h} = sakta.h}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn vi"si.syate}&vi|"si|.sya|te&(he/she/it) excels;\\
   &&&is best;\\
@@ -717,7 +717,7 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn karmabandhana.h}&kar|ma|&karmam = {\dn karmam} = action\\
   &&&\note{\noun, \neuter}\\
@@ -812,7 +812,7 @@ for you. Be loved and love-yielding.''\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn anena}&a|ne|na&using/by this\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn prasavi.syadhvame.sa}&\multicolumn{2}{l}{pra|sa|vi|.sya|dhva|}\\
@@ -824,7 +824,7 @@ for you. Be loved and love-yielding.''\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&me|.sa|&e.sa.h = {\dn e.sa.h} = this/it\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn vo.astvi.s.takaamadhuk}&vo|&va.h\\
   &&&= {\dn va.h}\\
@@ -881,7 +881,7 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   &&ne|na&anena\\
   &&&= {\dn anena}\\
   &&&= using/by this\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -989,7 +989,7 @@ objects of enjoyment) is a thief, really.\\
   2a&{\dn tairdattaanapradaayaibhyo}&tair|&tai.h\\
   &&&= {\dn tai.h}\\
   &&&= using/by those/them\\
-  &&&\note{\pronoun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&dat|taa|na|&dattaan\\
@@ -1027,7 +1027,7 @@ objects of enjoyment) is a thief, really.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa|.h(a)&that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1081,7 +1081,7 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   &&&\note{\verbb?, \presenttense, \thirdperson, \singular}\\
   &&&\\
   &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn tvagha.m}&tva|&tu = {\dn tu} = but\\
@@ -1342,7 +1342,7 @@ Arjuna).\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn jiivati}&jii|va|ti&(he/she/it) nourishes; lives; revives\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1423,7 +1423,8 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   2b&&sta|sya&tasya\\
   &&&= {\dn tasya}\\
   &&&= of him (his)\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn kaarya.m}&kaar|ya.m&function; act; deed\\
   &&&\note{\noun, \neuter}\\
@@ -1497,7 +1498,8 @@ people---there is no meaning.\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&sarva.h\\
   &&&= {\dn sarva.h}\\
@@ -1739,7 +1741,7 @@ proof, or that world, follows.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yatpramaa.na.m}&yat&yat = {\dn yat} = that/which\\
   &&&\note{\pronoun, \adjective, \indeclinable}\\
@@ -1943,7 +1945,7 @@ worlds).\\
   &&&\note{root: {\dn utsad} = utsad}\\
   &&&\\
   &&me&ime = {\dn ime} = these\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn lokaa}&lo|kaa&lokaa.h\\
@@ -2285,9 +2287,9 @@ who are not all-knowing and who are slow.\\
 \begin{tabular}{llll}
   2a&{\dn taanak.rtsnavido}&taa|na|&taan\\
   &&&= {\dn taan}\\
-  &&&= those; them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &&&= those/them\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&k.rts|na|&ak.rtsna\\
   &&&= {\dn ak.rtsna}\\
@@ -2467,7 +2469,7 @@ free, also, from action.\\
   &&&\note{root: {\dn muc} = muc}\\
   &&&\\
   &{\dn te.api}&te|&{\dn te} = those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
@@ -2541,8 +2543,8 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &&&\note{from {\dn vimuu.dha.h} = vimu.dha.h}\\
   &&&\\
   &&staan|&taan = {\dn taan} = those/them\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2680,7 +2682,7 @@ blocking.\\
   &&&= {\dn tayo.h}\\
   &&&= of those/them two;\\
   &&&at/in/on those/them two\\
-  &&&\note{\pronoun, \male, \dual, \genitivecase,}\\
+  &&&\note{\pronoun, \thirdperson, \male, \dual, \genitivecase,}\\
   &&&\note{\locativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
@@ -2701,14 +2703,14 @@ blocking.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&&tau&{\dn tau} = those/they two\\
-  &&&\note{\pronoun, \male, \dual}\\
+  &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn hyasya}&hya|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn paripanthinau}&pa|ri|pan|thi|nau&blocking; hindering\\
@@ -2830,7 +2832,7 @@ if from force, commanded?\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -2901,13 +2903,13 @@ and great-evil. This knowledge is enmity in this world.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn e.sa}&e|.sa&e.sa.h = {\dn e.sa.h} = this/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn krodha}&kro|dha&krodha.h = {\dn krodha.h} = passion; anger\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn e.sa}&e|.sa&e.sa.h = {\dn e.sa.h} = this/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -3047,7 +3049,8 @@ that (desire).\\
   &{\dn tenedamaav.rtam}&te|ne|&tena\\
   &&&= {\dn tena}\\
   &&&= using/by that/him\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&da|maa|&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \neuter}\\
@@ -3160,7 +3163,7 @@ said. Using these, this (desire) confuses knowledge, covering a man.\\
   &&&\\
   % ----------------------------------------------------------------------------
   1b&&ra|syaa|&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&dhi.s|.thaa|na|mu|&adhi.s.thaanam\\
@@ -3180,7 +3183,7 @@ said. Using these, this (desire) confuses knowledge, covering a man.\\
   2a&{\dn etairvimohayatye.sa}&e|tair|&etai.h\\
   &&&= {\dn etai.h}\\
   &&&= using/by these/them\\
-  &&&\note{\pronoun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&vi|mo|ha|ya|tye|&vimohayati\\
@@ -3190,7 +3193,7 @@ said. Using these, this (desire) confuses knowledge, covering a man.\\
   &&&\note{from {\dn vimuh} = vimuh}\\
   &&&\\
   &&.sa&e.sa.h = {\dn e.sa.h} = this/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   \hline
   &&&\\
   % ----------------------------------------------------------------------------
@@ -3366,7 +3369,7 @@ greater than senses. But knowledge is greater than the mind. But one
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
