@@ -222,7 +222,7 @@ arranged, using a Drupada-son, a wise student of you.\\
   &&taa.m&etaan\\
   &&&= {\dn etaan}\\
   &&&= these\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this}\\
   &&&\\
   &{\dn paa.n.duputraa.naamaacaarya}&paa.n|.du|&paa.n.du\\
@@ -538,7 +538,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   % ----------------------------------------------------------------------------
   1b&{\dn taannibodha}&taan|&{\dn taan}\\
   &&&= those/them\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&ni|bo|dha&nibodhatu\\
@@ -590,7 +590,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &&&\\
   &{\dn taanbraviimite}&taan|&{\dn taan}\\
   &&&= those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&bra|vii|mi|&{\dn braviimi}\\
@@ -824,7 +824,7 @@ Bhiima-protected.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&te|.saa.m&ete.saam = {\dn ete.saam} = of these/them\\
-  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
@@ -926,8 +926,8 @@ paternal grandfather (Bhii.sma) roars a lion sound loudly and blows
 
 \begin{tabular}{llll}
   1a&{\dn tasya}&ta|sya&of that; of him (his)\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
-  &&&\note{from: \pronoun, \male, {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn sa~njanayanhar.sa.m}&sa\~{}n|ja|na|yan|&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn sa~njanam} = sa\~{}njanam}\\
@@ -1061,7 +1061,7 @@ struck. That sound was tumultuous.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn "sabdastumulo.abhavat}&"sab|da|stu|&"sabda.h = {\dn "sabda.h} = sound\\
   &&&\note{\noun, \male}\\
@@ -1447,7 +1447,7 @@ tumult.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn gho.so}&gho|.so&gho.sa.h\\
   &&&= {\dn gho.sa.h}\\
@@ -1685,7 +1685,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&de|taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&ni|riik|.se|&(?)\\
@@ -1755,7 +1755,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   1b&&ma|smin|&asmin\\
   &&&= {\dn asmin}\\
   &&&= at/in/on this\\
-  &&&\note{\pronoun, \male, \locativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&ra|.na|&ra.nam\\
@@ -1804,7 +1804,7 @@ war (with) a preferred wish.\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn ete.atra}&e|te|&these/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&'tra&atra\\
@@ -1995,7 +1995,7 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&taan|&etaan\\
   &&&= {\dn etaan}\\
   &&&= these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
@@ -2161,7 +2161,7 @@ sad, he said this: \dots\\
 \begin{tabular}{llll}
   1a&{\dn taansamiik.sya}&taan|&{\dn taan}\\
   &&&= those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&sa|miik|.sya&(?) {\dn samiik.sya}\\
@@ -2169,7 +2169,7 @@ sad, he said this: \dots\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn kaunteya.h}&kaun|te|ya\quad(|.h(a))&son of Kuntii\\
   &&&= Arjuna\\
@@ -2255,7 +2255,7 @@ arms and legs sink, and my mouth dries up.\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn svajana.m}&sva|ja|na.m&svajanam\\
@@ -2651,12 +2651,12 @@ paternal grandfathers.\\
 
 \begin{tabular}{llll}
   1a&{\dn ta}&ta&te = {\dn te} = those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn ime.avasthitaa}&i|me|&{\dn ime}\\
   &&&= these\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &&'va|sthi|taa&avasthitaa.h\\
@@ -2767,7 +2767,7 @@ Madhu killing (O K.r.s.na).\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn etaanna}&e|taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&na&not\\
@@ -2928,7 +2928,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
   &&taa|naa|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = that/he}\\
   &&&\\
   &&ta|taa|yi|na\quad(|.h(a))&aatataayina.h\\
@@ -3031,7 +3031,7 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&te&ete\\
   &&&= {\dn ete}\\
   &&&= these/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn na}&na&not\\
@@ -3407,7 +3407,7 @@ lost-food-water-actions (lost offerings of food and water).\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&.saa.m&e.saam = {\dn e.saam} = (?) of these; of them (their)\\
-  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
@@ -3450,7 +3450,7 @@ person.)\\
   &&re|tai|.h(i)&etai.h\\
   &&&= {\dn etai.h}\\
   &&&= using/by these/them\\
-  &&&\note{\pronoun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn ete} = ete = this/he}\\
   &&&\\
   &{\dn kulaghnaanaa.m}&ku|la|&kulam\\
