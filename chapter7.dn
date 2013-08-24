@@ -1004,7 +1004,7 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn taanviddhi}&taan|&{\dn taan} = those/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&vid|dhi&viddhi.h\\
@@ -1024,11 +1024,11 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
-  &&&\note{\pronoun, \male, \plural, \locativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
@@ -1205,7 +1205,7 @@ attain) this magic.\\
   &&&\note{root: {\dn t.R} = t.rr}\\
   &&&\\
   &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
 \end{tabular}
 \newpage
@@ -1401,7 +1401,7 @@ knowledge, and he (is) a friend of me.\\
   1a&{\dn te.saa.m}&te|.saa.m&te.saam\\
   &&&= {\dn te.saam}\\
   &&&= of those; of them (their)\\
-  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn j~naanii}&j\~{}naa|nii&(?) person of knowledge\\
@@ -1460,7 +1460,7 @@ knowledge, and he (is) a friend of me.\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1494,7 +1494,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&te&ete = {\dn ete} = these/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   \hline
   &&&\\
@@ -1530,7 +1530,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1635,7 +1635,7 @@ all---thus. He is a great-self---very rare.\\
   &&&\\
   % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn mahaatmaa}&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -1675,11 +1675,11 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
   &&stai|&tai.h = {\dn tai.h} = using/by those/them\\
-  &&&\note{\pronoun, \male, \thirdperson, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&stair|&tai.h = {\dn tai.h} = using/by those/them\\
-  &&&\note{\pronoun, \male, \thirdperson, \instrumentalcase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &&h.r|ta|&{\dn h.rta} = taken; lost; stolen\\
@@ -1711,11 +1711,11 @@ with a primal form---(the deities are) restrained by the self.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \male, \thirdperson, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \male, \thirdperson, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
   &{\dn niyamamaasthaaya}&ni|ya|ma|maa|&niyamam\\
