@@ -710,3 +710,86 @@ form.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 9, Verse 9}
+
+(K.r.s.na said to Arjuna:)\\
+
+And those actions do not bind me, O money-victory (O Arjuna). (I am)
+indifferent-full, sitting, not-attached in (to) those actions.\\
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn taani}&taa|ni&those/they\\
+  &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
+  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\\
+  &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doings\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn karmam} = karmam}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn nibadhnanti}&ni|badh|nan|ti&(they) bind\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn nibandh} = nibandh}\\
+  &&&\\
+  &{\dn dhana~njaya}&dha|na\~{}n|&dhanam\\
+  &&&= {\dn dhanam}\\
+  &&&= money\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ja|ya&{\dn jaya}\\
+  &&&= O victory\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn jaya.h} = jaya.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn udaasiinavadaasiinamasakta.m}\\
+  &&&\\
+  &&u|daa|sii|na|&(?) udaasiin\\
+  &&&= {\dn udaasiin}\\
+  &&&= indifferent\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&va|daa|&vat = {\dn vat} = full\\
+  &&&\note{\suffix}\\
+  &&&\\
+  &&sii|na|&aasiinam\\
+  &&&= {\dn aasiinam}\\
+  &&&= sitting\\
+  &&&\note{\adjective, \male(?), \accusativecase}\\
+  &&&\note{from {\dn aasiin} = aasiin}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&&ma|sak|ta.m&asaktam\\
+  &&&= {\dn asaktam}\\
+  &&&= not + sticking; attached\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn asakta.h} = asakta.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn sakta.h} = sakta.h}\\
+  &&&\\
+  &{\dn te.su}&te|.su&at/in/on those/them\\
+  &&&\note{\pronoun, \thirdperson, \neuter, \plural, \locativecase}\\
+  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\\
+  &{\dn karmasu}&kar|ma|su&(?) karme.su\\
+  &&&= {\dn karme.su}\\
+  &&&= at/in/on actions; works; doings\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{from {\dn karmam} = karmam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
