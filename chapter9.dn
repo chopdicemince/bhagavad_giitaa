@@ -1144,3 +1144,92 @@ mind, (at) the start, and not-changeable.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 9, Verse 14}
+
+(K.r.s.na said to Arjuna:)\\
+
+Always, (they) praise me, and (they) try rigid-vows, and (they) pay
+homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
+
+\begin{tabular}{llll}
+  1a&{\dn satata.m}&sa|ta|ta.m&satatam\\
+  &&&= {\dn satatam}\\
+  &&&= always\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn kiirtayanto}&kiir|ta|yan|to&kiirtayanta.h\\
+  &&&= {\dn kiirtayanta.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \plural,}\\
+  &&&\note{{\dn kiirtayanti} = kiirtayanti = (they) praise}\\
+  &&&\note{root: {\dn kiirt} = kiirt}\\
+  &&&\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn yatanta"sca}&ya|tan|ta"s|&yatanta.h\\
+  &&&= {\dn yatanta.h}\\
+  &&&= (?)\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural,}\\
+  &&&\note{{\dn yatante} = yatante = (they) try}\\
+  &&&\note{root: {\dn yat} = yat}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn d.r.dhavrataa.h}&d.r|.dha|&{\dn d.r.dha}\\
+  &&&= rigid\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&vra|taa\quad(|.h(aa))&{\dn vrataa.h}\\
+  &&&= (?) vrataani\\
+  &&&= {\dn vrataani}\\
+  &&&= vows; religious practices; rules\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn vratam} = vratam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn namasyanta"sca}&na|ma|syan|ta"s|&namasyanta.h\\
+  &&&= {\dn namasyanta.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \plural,}\\
+  &&&\note{{\dn namasyanti} = namasyanti = (they) pay homage}\\
+  &&&\note{root: {\dn namasya} = namasya}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn bhaktyaa}&bhak|tyaa&using/by faith; devotion\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn bhakti.h} = bhakti.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn nityayuktaa}&ni|tya|&{\dn nitya}\\
+  &&&= eternal\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&yuk|taa&yuktaa.h\\
+  &&&= {\dn yuktaa.h}\\
+  &&&= yoked\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn yukta.h} = yukta.h}\\
+  &&&\\
+  &{\dn upaasate}&u|paa|sa|te&(?) upaaste\\
+  &&&= {\dn upaaste}\\
+  &&&= (he/she/it) sits; waits; pays homage\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn upaas} = upaas}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
