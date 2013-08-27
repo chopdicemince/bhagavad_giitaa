@@ -2173,3 +2173,100 @@ fall.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 9, Verse 25}
+
+(K.r.s.na said to Arjuna:)\\
+
+Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
+(to) a being. (Worshippers) go (to) me. Sacrificers also (go to) me.\\
+
+\begin{tabular}{llll}
+  1a&{\dn yaanti}&yaan|ti&(they) go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn yaa} = yaa}\\
+  &&&\\
+  &{\dn devavrataa}&de|va|&deva.h\\
+  &&&= {\dn deva.h}\\
+  &&&= deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&vra|taa&{\dn vrataa.h}\\
+  &&&= vowers\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vrata.h} = vrata.h}\\
+  &&&\\
+  &{\dn devaanpit.Rnyaanti}&de|vaan|&{\dn devaan}\\
+  &&&= deities\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn deva.h} = deva.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&&pi|t.R|&pit.Rn\\
+  &&&= {\dn pit.Rn}\\
+  &&&= fathers; paternal ancestors\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn pit.r} = pit.r}\\
+  &&&\\
+  &&nyaan|ti&{\dn yaanti}\\
+  &&&= (they) go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn yaa} = yaa}\\
+  &&&\\
+  &{\dn pit.rvrataa.h}&pi|t.r|&{\dn pit.r}\\
+  &&&= father; paternal ancestor\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&vra|taa\quad(|.h(aa))&{\dn v.rtaa.h}\\
+  &&&= vowers\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn v.rta.h} = v.rta.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; men; creatures\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn bhuutam} = bhuutam}\\
+  &&&\\
+  &{\dn yaanti}&yaan|ti&(they) go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn yaa} = yaa}\\
+  &&&\\
+  &{\dn bhuutejyaa}&bhuu|te|&bhuutam\\
+  &&&= {\dn bhuutam}\\
+  &&&= being; spirit; man; creature\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&jyaa&ijyaa.h\\
+  &&&= {\dn ijyaa.h}\\
+  &&&= (occurrences of) reverence; worship\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn ijya.h} = ijya.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn yaanti}&yaan|ti&(they) go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn yaa} = yaa}\\
+  &&&\\
+  &{\dn madyaajino.apimaam}&ma|dyaa|&mat\\
+  &&&= {\dn mat}\\
+  &&&= (?) ``me''\\
+  &&&\\
+  &&ji|no|&yaajina.h\\
+  &&&= {\dn yaajina.h}\\
+  &&&= (?) sacrificers; worshippers\\
+  &&&\note{\noun, \male(?), \plural}\\
+  &&&\note{from {\dn yaajin} = yaajin}\\
+  &&&\\
+  &&pi|&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&maam&{\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
