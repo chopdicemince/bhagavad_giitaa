@@ -1786,3 +1786,116 @@ a verse, each line has eight main syllables.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 9, Verse 21}
+
+(K.r.s.na said to Arjuna:)\\
+
+They, having enjoyed that vast heavenly world, in a weakened and pure
+(state), they enter the mortal world. Really, following the three
+(books of) devotion, (and) desire-desiring, they get going and coming
+(they get death and birth).\\
+
+\begin{tabular}{llll}
+  1a&{\dn te}&te&those/they\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &{\dn bhuktvaa}&bhukt|vaa&having enjoyed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: (?) {\dn bhuj} = bhuj}\\
+  &&&\\
+  &{\dn svargaloka.m}&svar|ga|&svarga.h\\
+  &&&= {\dn svarga.h}\\
+  &&&= heavenly\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&lo|ka.m&lokam\\
+  &&&= {\dn lokam}\\
+  &&&= world; human; race\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&&\\
+  &{\dn vi"saala.m}&vi|"saa|la.m&vast\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn vi"saala.h} = vi"saala.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn k.sii.ne}&k.sii|.ne&at/in/on a/the person/thing weakened\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn k.sii.na.h} = k.sii.na.h}\\
+  &&&\\
+  &{\dn pu.nye}&pu|.nye&at/in/on a/the person/thing pure; good; holy\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn pu.nya.h} = pu.nya.h}\\
+  &&&\\
+  &{\dn martyaloka.m}&mar|tya|&martya.h\\
+  &&&= {\dn martya.h}\\
+  &&&= mortal\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&lo|ka.m&lokam\\
+  &&&= {\dn lokam}\\
+  &&&= world; human race; place\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&&\\
+  &{\dn vi"santi}&vi|"san|ti&(they) enter\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn vi"s} = vi"s}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn eva.m}&e|va.m&evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn trayiidharmamanuprapannaa}&tra|yii|&{\dn trayii}\\
+  &&&= (?) three\\
+  &&&\note{similar: \noun, {\dn trii.ni} = trii.ni}\\
+  &&&\\
+  &&dhar|ma|ma|&dharmam\\
+  &&&= {\dn dharmam}\\
+  &&&= devotion; good conduct; religion\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&&\\
+  &&nu|pra|pan|naa&anuprapannaa.h\\
+  &&&= {\dn anuprapannaa.h}\\
+  &&&= following\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn anuprapanna.h} = anuprapanna.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn gataagata.m}&ga|taa|&gatam\\
+  &&&= {\dn gatam}\\
+  &&&= going\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ga|ta.m&aagatam\\
+  &&&= {\dn aagatam}\\
+  &&&= coming\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn kaamakaamaa}&kaa|ma|&kaama.h\\
+  &&&= {\dn kaama.h}\\
+  &&&= sexual love; love; desire\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&kaa|maa\quad(|.h(aa))&{\dn kaamaa.h}\\
+  &&&= desiring\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn kaama.h} = kaama.h}\\
+  &&&\\
+  &{\dn labhante}&la|bhan|te&(they) learn; get\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn labh} = labh}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
