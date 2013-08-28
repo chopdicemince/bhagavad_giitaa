@@ -2638,3 +2638,85 @@ also, I (am) in them.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 9, Verse 30}
+
+(K.r.s.na said to Arjuna:)\\
+
+Also if a very-bad-(behaving-person) cherishes me, not another \dots
+(?) \dots---really, he (is) to be thought about (as) a saint,
+correctly---he (is) convinced, surely.\\
+
+\begin{tabular}{llll}
+  1a&{\dn api}&a|pi&also\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn cetsuduraacaaro}&cet|&{\dn cet} = if\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&su|&{\dn su}\\
+  &&&= good; very\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&du|raa|caa|ro&duraacaara.h\\
+  &&&= {\dn duraacaara.h}\\
+  &&&= bad behavior\\
+  &&&\note{\noun, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn bhajate}&bha|ja|te&(he/she/it) cherishes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn bhaj} = bhaj}\\
+  &&&\\
+  &{\dn maamananyabhaak}&maa|ma|&maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &&na|nya|&ananya\\
+  &&&= {\dn ananya}\\
+  &&&= not + another; other; different; strange\\
+  &&&\note{\adjective}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{extra letter: {\dn n} = n = n}\\
+  &&&\note{from: \adjective, {\dn anya} = anya}\\
+  &&&\\
+  &&bhaak&{\dn bhaak}\\
+  &&&= (?)\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn saadhureva}&saa|dhu|re|&saadhu.h\\
+  &&&= {\dn saadhu.h}\\
+  &&&= saint; sage\\
+  &&&\note{\noun,\male}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\\
+  &{\dn mantavya.h}&man|ta|vya\quad(|.h(a))&to be thought about\\
+  &&&\note{\adjective, \male}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn samyagvyavasito}&sa|myag|&samyak\\
+  &&&= {\dn samyak}\\
+  &&&= exactly; correctly\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&vya|va|si|to&vyavasita.h\\
+  &&&= {\dn vyavasita.h}\\
+  &&&= convinced\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
+  &&&\note{\pronoun, \thirdperson, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
