@@ -89,3 +89,93 @@ will say one (piece of) advice desireable (and) pleasing.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 10, Verse 2}
+
+(K.r.s.na said to Arjuna:)\\
+
+(Neither) the god-groups (nor) a great-sage (know) my birth. I (am)
+the beginning, surely, of deities and great-sages, altogether.\\
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn vidu.h}&vi|du\quad(|.h(u))&wise\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &{\dn suraga.naa.h}&su|ra|&sura.h\\
+  &&&= {\dn sura.h}\\
+  &&&= sun; sage; god\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ga|.naa\quad(|.h(aa))&{\dn ga.naa.h}\\
+  &&&= groups\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn ga.na.h} = ga.na.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn prabhava.m}&pra|bha|va.m&birth\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn prabhava.h} = prabhava.h}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn mahar.saya.h}&ma|har|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= great\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&.sa|ya\quad(|.h(a))&.r.saya.h\\
+  &&&= {\dn .r.saya.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \male, {\dn .r.si.h} = .r.si.h}\\
+  &&&\note{= sage; saint}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn ahamaadirhi}&a|ha|maa|&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &&dir|&aadi.h\\
+  &&&= {\dn aadi.h}\\
+  &&&= beginning\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&hi&{\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn devaanaa.m}&de|vaa|naa.m&devaanaam\\
+  &&&= {\dn devaanaam}\\
+  &&&= of deities\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn deva.h} = deva.h}\\
+  \hline
+  &&&\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn mahar.sii.naa.m}&ma|har|&maha\\
+  &&&= {\dn maha}\\
+  &&&= great\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&.sii|.naa.m&.r.sii.naam\\
+  &&&= {\dn .r.sii.naam}\\
+  &&&= of sages; saints\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn .r.si.h} = .r.si.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&altogether\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
