@@ -1,392 +1,91 @@
 \chapter*{Chapter 10}
-
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 10, Verse 27}
+\section*{Chapter 10, Verse 1}
+
+God (K.r.s.na) said (to Arjuna:)\\
+
+Being, really, O great-arm (O Arjuna), hear my paramount speech. I
+will say one (piece of) advice desireable (and) pleasing.\\
 
 \begin{tabular}{llll}
-  1a&{\dn uccai.h"sravasama"svaanaa.m}&uc|cai|.h(i)|"sra|va|sa|ma"s|&uccai.h"sravasam\\
-  &&&= {\dn uccai.h"sravasam}\\
-  &&&= Uccai.h"sravaa\\
+  0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
   &&&\\
-  &&vaa|naa.m&a"svaanaa.m\\
-  &&&= {\dn a"svaanaa.m}\\
-  &&&= horses'\\
+  &&bha|ga|vaa|nu&bhagavaan = {\dn bhagavaan} = God\\
+  &&&\note{\noun, gender(?)}\\
+  &&&\\
+  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vad} = vad}\\
   \hline
   &&&\\
-  1b&{\dn viddhi}&vid|dhi&viddhi.h\\
-  &&&= {\dn viddhi.h}\\
-  &&&= piercing/knowing\\
+  % ----------------------------------------------------------------------------
+  1a&{\dn bhuuya}&bhuu|ya&bhuuya.h = {\dn bhuuya.h} = becoming; being\\
+  &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn maamam.rtodbhavam}&maa|ma&maam = {\dn maam} = me\\
+  &{\dn eva}&e|va&really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&m.r|tod|&am.rtam\\
-  &&&= {\dn am.rtam}\\
-  &&&= nectar\\
+  &{\dn mahaabaaho}&ma|haa|&mahaan = {\dn maahaan} = great\\
+  &&&\note{\adjective, \male}\\
   &&&\\
-  &&bha|vam&udbhavam\\
-  &&&= {\dn udbhavam}\\
-  &&&= production\\
+  &&baa|ho&{\dn baaho} = O arm; forearm\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn baahu.h} = baahu.h}\\
   \hline
   &&&\\
-  2a&{\dn airaavata.m}&ai|raa|va|ta.m&Airaavata\\
+  % ----------------------------------------------------------------------------
+  1b&{\dn "s.r.nu}&"s.r|.nu&"s.r.notu = {\dn "s.r.notu} = (you) hear\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn gajendraa.naa.m}&ga|jen|&gaja.h\\
-  &&&= {\dn gaja.h}\\
-  &&&= elephant\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&draa|.naa.m&princes'\\
-  \hline
+  &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
+  &&&= paramount; another; other; different; strange\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
-  2b&{\dn naraa.naa.m}&na|raa|.naa.m&men's\\
-  &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\\
-  &{\dn naraadhipam}&na|raa|dhi|pam&king\\
+  &{\dn vaca.h}&va|ca\quad(|.h(a))&speech\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) (Various beings know know me by various
-names:) The horses' knowing me as Uccai.h"sravaa, from nectar
-production; the princes' elephant's knowing me as Airaavata; and the
-men's knowing me as a king.
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn uccai.h"sravasaa} = uccai.h"sravasaa = Uccai.h"sravasaa.
-
-  Plus \accusativecase: {\dn uccai.h"sravasam} = uccai.h"sravasam = Uccai.h"sravasaa.
-
-  This word is a compound word and has the following parts:
-
-  Indeclinable: {\dn uccai.h} = uccai.h = loud.
-
-  Neuter noun: {\dn "sravas} = "sravas = fame.
-
-\item Male noun: {\dn a"sva.h} = a"sva.h = horse.
-
-  Plus plural form and \genitivecase: {\dn a"svaanaam} = a"svaanaam = horses'.
-
-\item Male noun: {\dn nara.h} = nara.h = man.
-
-  Plus plural form and \genitivecase: {\dn naraa.naam} = naraa.naam = men's.
-
-\item Female noun: {\dn viddhi.h} = viddhi.h = piercing/knowing.
-
-\item Neuter noun: {\dn am.rtam} = am.rtam = nectar.
-
-\item Male noun: {\dn udbhava.h} = udbhava.h = production.
-
-  Plus \accusativecase: {\dn udbhavam} = udbhavam = production.
-
-\item Male noun: {\dn airaavata.h} = airaavata.h = Airaavata.
-
-  Plus \accusativecase: {\dn airaavatam} = airaavatam = Airaavata.
-
-\item Male noun: {\dn gaja.h} = gaja.h = elephant.
-
-\item Male noun: {\dn indra.h} = indra.h = prince.
-
-  Plus plural form and \genitivecase: {\dn indraa.naam} = indraa.naam = princes'.
-
-\item Male noun: {\dn naraadhipa.h} = naraadhipa.h = king.
-
-  This word is a compound word and has the following parts:
-
-  Male noun: {\dn nara.h} = nara.h = man.
-
-  Male noun: {\dn adhipa.h} = adhipa.h = leader.
-
-\end{itemize}
-\newpage
-% ------------------------------------------------------------------------------
-\section*{Chapter 10, Verse 28}
-
 \begin{tabular}{llll}
-  1a&{\dn aayudhaanaamaha.m}&aa|yu|dhaa|naa|ma|&aayudhaanaam\\
-  &&&= {\dn aayudhaanaam}\\
-  &&&= weapons'\\
+  2a&{\dn yatte.aha.m}&yat|&{\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\\
-  &{\dn vajra.m}&vaj|ra.m&lightning\\
-  \hline
-  &&&\\
-  1b&{\dn dhenuunaamasmi}&dhe|nuu|naa|mas|&dhenuunaam\\
-  &&&= {\dn dhenuunaam}\\
-  &&&= cows'\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  &&&\\
-  &{\dn kaamadhuk}&kaa|ma|&kaama.h\\
-  &&&= {\dn kaama.h}\\
-  &&&= love\\
-  &&&\\
-  &&dhuk&(?)\\
-  \hline
-  &&&\\
-  2a&{\dn prajana"scaasmi}&pra|ja|na"s|&prajana.h\\
-  &&&= {\dn prajana.h}\\
-  &&&= begetting\\
-  &&&\\
-  &&caas|&{\dn ca} = and\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  &&&\\
-  &{\dn kandarpa.h}&kan|dar|pa|.h(a)&Kandarpa\\
-  &&&= the god of love\\
-  \hline
-  &&&\\
-  2b&{\dn sarpaa.naamasmi}&sar|paa|.naa|mas|&sarpaa.naam\\
-  &&&= {\dn sarpaa.naam}\\
-  &&&= snakes'\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  &&&\\
-  &{\dn vaasuki.h}&vaa|su|ki|.h(i)&Vaasuki\\
-  &&&= name of a big snake\\
-  &&&= king of all snakes\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) I am weapons' lightning. I am cows' love. I
-am (the act of) begetting and Kandarpa (the god of love). I am snakes'
-Vaasuki (the name of a big snake and the king of all snakes).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Neuter noun: {\dn aayudham} = aayudham = weapon.
-
-  Plus plural form and \genitivecase: {\dn aayudhaanaam} = aayudhaanaam = weapons'.
-
-\item Male noun: {\dn vajra.h} = vajra.h = lightning.
-
-  Plus \accusativecase: {\dn vajram} = vajram = lightning.
-
-\item Female noun: {\dn dhenu.h} = dhenu.h = cow.
-
-  Plus plural form and \genitivecase: {\dn dhenuunaam} = dhenuunaam = cows'.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Plus present tense and first person form and singular form:
-
-  {\dn asmi} = asmi = (I) am.
-
-\item Male noun: {\dn kaama.h} = kaama.h = love.
-
-\item Male noun: {\dn prajana.h} = prajana.h = begetting.
-
-\item Male noun: {\dn kandarpa.h} = kandarpa.h = Kandarpa = the god of love.
-
-\item Male noun: {\dn sarpa.h} = sarpa.h = snake.
-
-  Plus plural form and \genitivecase: {\dn sarpaa.naam} = sarpaa.naam = snakes'.
-
-\item Male noun: {\dn vaasuki.h} = vaasuki.h = Vaasuki = name of a big snake = king of all snakes.
-
-\end{itemize}
-\newpage
-% ------------------------------------------------------------------------------
-\section*{Chapter 10, Verse 29}
-
-\begin{tabular}{llll}
-  1a&{\dn ananta"scaasmi}&a|nan|ta"s|&ananta.h\\
-  &&&= {\dn ananta.h}\\
-  &&&= Ananta\\
-  &&&\\
-  &&caas|&ca = {\dn ca} = and\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  &&&\\
-  &{\dn naagaanaa.m}&naa|gaa|naa.m&cobras'\\
-  \hline
-  &&&\\
-  1b&{\dn varu.no}&va|ru|.no&varu.na.h\\
-  &&&= {\dn varu.na.h}\\
-  &&&= Varu.na\\
-  &&&= the god of water\\
-  &&&\\
-  &{\dn yaadasaamaham}&yaa|da|saa|ma&yaadasaam\\
-  &&&= {\dn yaadasaam}\\
-  &&&= big water animals'\\
-  &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  \hline
-  &&&\\
-  2a&{\dn pit.R.naamaryamaa}&pi|t.rr|.naa|mar|&pit.rr.naam\\
-  &&&= {\dn pit.R.naam}\\
-  &&&= fathers'/ancestors'\\
-  &&&\\
-  &&ya|maa&aryamaa\\
-  &&&= {\dn aryamaa}\\
-  &&&= Aryamaa\\
-  &&&\\
-  &{\dn caasmi}&caas|&ca = {\dn ca} = and\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  \hline
-  &&&\\
-  2b&{\dn yama.h}&ya|ma|.h(a)&Yama\\
-  &&&= the god of death\\
-  &&&\\
-  &{\dn sa.myamataamaham}&sa.m|ya|ma|taa|ma|&sa.myamataam\\
-  &&&= {\dn sa.myamataam}\\
-  &&&= controllers' (?)\\
-  &&&\\
-  &&ham&aham = {\dn aham} = I\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) I am cobras' Ananta (a snake with one
-thousand heads), I am big water animals' Varuna (the god of water), I
-am fathers'/ancestors' Aryamaa, and I am controllers' Yama (the god of
-death).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn ananta.h} = ananta.h = Ananta.
-
-  Ananta is a snake with one thousand heads. Lord Vi.s.nu (``Vishnu'') rides Ananta.
-
-  ``ananta'' has other meanings:
-
-  Neuter noun: {\dn anantam} = anantam = infinity/eternity/sky.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Plus present tense and first person form and singular form:
-
-  {\dn asmi} = asmi = (I) am.
-
-\item Male noun: {\dn naaga.h} = naaga.h = cobra.
-
-  Plus plural form and \accusativecase: {\dn naagaanaam} = naagaanaam = cobras'.
-
-\item Male noun: {\dn varu.na.h} = varu.na.h = Varu.na = the god of water.
-
-\item (?) Neuter noun: {\dn yaadas} = yaadas = big water animal.
-
-  Plus plural form and \genitivecase: {\dn yaadasaam} = yaadasaam = big water animals'.
-
-\item (?) Male noun: {\dn pit.R} = pit.rr = father/ancestor.
-
-  Plus plural forma and \genitivecase: {\dn pit.R.naam} = pit.rr.naam = fathers'/ancestors'.
-
-\item Male noun: {\dn yama.h} = yama.h = Yama = the god of death.
-
-\item Male noun: {\dn sa.myama.h} = sa.myama.h = control.
-
-  (?) Plus ``person do-er'' form: {\dn sa.myamata.h} = sa.myamata.h = controller.
-
-  (?) Plus plural form and \genitivecase: {\dn sa.myamataam} = sa.myamataam = controllers'.
-
-\end{itemize}
-\newpage
-% ------------------------------------------------------------------------------
-\section*{Chapter 10, Verse 30}
-
-\begin{tabular}{llll}
-  1a&{\dn prahlaada"scaasmi}&prah|laa|da"s|&prahlaada.h\\
-  &&&= {\dn prahlaada.h}\\
-  &&&= Prahlaada\\
-  &&&\\
-  &&caas|&ca = {\dn ca} = and\\
-  &&&\\
-  &&mi&asmi = {\dn asmi} = (I) am\\
-  &&&\\
-  &{\dn daityaanaa.m}&dai|tyaa|naa.m&demons'\\
-  \hline
-  &&&\\
-  1b&{\dn kaala.h}&kaa|la|.h(a)&time\\
-  &&&\\
-  &{\dn kalayataamaham}&ka|la|ya|taa|ma&kalayataam\\
-  &&&= {\dn kalayataam}\\
-  &&&= (?)\\
-  &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  \hline
-  &&&\\
-  2a&{\dn m.rgaa.naa.m}&m.r|gaa|.naa.m&deer's\\
-  &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\\
-  &{\dn m.rgendro.aha.m}&m.r|gen|dro|&best deer\\
+  &&te|&{\dn te} = for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn priiyamaa.naaya}&\multicolumn{2}{l}{prii|ya|maa|.naa|ya}\\
+  &&&\\
+  &&&(?) pleased\\
+  &&&\note{\adjective(?)}\\
   \hline
   &&&\\
-  2b&{\dn vainateya"sca}&vai|na|te|ya"s|&vainateya.h\\
-  &&&= {\dn vainateya.h}\\
-  &&&= Garu.da\\
-  &&&= the king of the birds\\
+  % ----------------------------------------------------------------------------
+  2b&{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
+  &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
+  &{\dn hitakaamyayaa}&hi|ta|&hitam\\
+  &&&= {\dn hitam}\\
+  &&&= advice; benefit; goodness\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn pak.si.naam}&pak|.si|.naam&birds'\\
+  &&kaa|mya|yaa&{\dn kamyayaa}\\
+  &&&= (?) using/by a/the person/thing desireable\\
+  &&&\note{\adjective, \female(?), \instrumentalcase}\\
+  &&&\note{from {\dn kaamyaa} = kaamyaa}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\subsection*{Translation}
-
-(K.r.s.na said to Arjuna:) I am demons' Prahlaada, I am \dots (?)
-\dots time \dots (?) \dots, and I am the deer's best deer, and I am
-the birds' Garu.da (the king of the birds).
-% ------------------------------------------------------------------------------
-\subsection*{Notes}
-
-\begin{itemize}
-
-\item Male noun: {\dn prahlaada.h} = prahlaada.h = Prahlaada.
-
-\item Infinitive: {\dn bhavitum} = bhavitum = to be.
-
-  Plus present tense and first person form and singular form:
-
-  {\dn asmi} = asmi = (I) am.
-
-\item Male noun: {\dn daitya.h} = daitya.h = demon.
-
-  Plus plural form and \genitivecase: {\dn daityaanaam} = daityaanaam = demons'.
-
-\item Male noun: {\dn kaala.h} = kaala.h = time.
-
-\item Male noun: {\dn m.rga.h} = m.rga.h = deer.
-
-  Plus plural form and \genitivecase: {\dn m.rgaa.naam} = m.rgaa.naam = deer's.
-
-\item Male noun: {\dn m.rgendra.h} = m.rgendra.h = best deer.
-
-  This word has the following parts:
-
-  Male noun: {\dn m.rga.h} = m.rga.h = deer.
-
-  Male adjective: {\dn indra.h} = indra.h = best.
-
-\item Male noun: {\dn garu.da.h} = garu.da.h = Garu.da = the king of the birds.
-
-  Lord Vi.s.nu (``Vishnu'') rides Garu.da.
-
-  More meanings are below:
-
-  Male noun: {\dn garu.da.h} = garu.da.h = eagle.
-
-\item Male noun: {\dn pak.si.h} = pak.si.h = bird.
-
-  Plus plural form and \genitivecase: {\dn pak.si.naam} = pak.si.naam = birds'.
-
-\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
