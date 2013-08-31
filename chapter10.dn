@@ -17,9 +17,9 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn bhuuya}&bhuu|ya&bhuuya.h = {\dn bhuuya.h} = becoming; being\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -32,9 +32,9 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&baa|ho&{\dn baaho} = O arm; forearm\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn baahu.h} = baahu.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn "s.r.nu}&"s.r|.nu&"s.r.notu = {\dn "s.r.notu} = (you) hear\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
@@ -70,9 +70,9 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\\
   &&&(?) pleased\\
   &&&\note{\adjective(?)}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
@@ -117,9 +117,9 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&= groups\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn ga.na.h} = ga.na.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn prabhava.m}&pra|bha|va.m&birth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn prabhava.h} = prabhava.h}\\
@@ -157,9 +157,9 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&= of deities\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn deva.h} = deva.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn mahar.sii.naa.m}&ma|har|&maha\\
   &&&= {\dn maha}\\
   &&&= great\\
@@ -210,9 +210,9 @@ using (of) all sins.\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn vetti}&vet|ti|&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
@@ -243,9 +243,9 @@ using (of) all sins.\\
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn martya.h} = martya.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sarvapaapai.h}&sar|va|&sarva\\
   &&&= {\dn sarva}\\
   &&&= each; all\\
@@ -383,7 +383,7 @@ really---separate kinds.\\
   % ---------------------------------------------------------------------------
   \hline
   &&&\\
-  &&sta|po&tapa.h\\
+  1b&&sta|po&tapa.h\\
   &&&= {\dn tapa.h}\\
   &&&= torment; heat; religious austerity\\
   &&&\note{\noun, \male}\\
@@ -426,7 +426,7 @@ really---separate kinds.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &{\dn matta}&mat|ta\quad(|.h(a))&(?) ``me''\\
+  2b&{\dn matta}&mat|ta\quad(|.h(a))&(?) ``me''\\
   &&&\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
