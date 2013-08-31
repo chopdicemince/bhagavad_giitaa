@@ -1047,3 +1047,92 @@ powerful.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 10, Verse 13}
+
+(Arjuna said to K.r.s.na:)\\
+
+All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
+(know?) you. And (yourself), really, you say (something) for me.\\
+
+\begin{tabular}{llll}
+  1a&{\dn aahustvaam.r.saya.h}&aa|hu|&aahu.h\\
+  &&&= {\dn aahu.h}\\
+  &&&= (?)\\
+  &&&\\
+  &&stvaa|m.r|&tvaam = {\dn tvaam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &&.sa|ya\quad(|.h(a))&.r.saya.h\\
+  &&&= {\dn .r.saya.h}\\
+  &&&= sages; saints; ascetics\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn .r.si.h} = .r.si.h}\\
+  &&&\\
+  &{\dn sarve}&sar|ve&each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn devar.sirnaaradastathaa}&de|var|&deva.h\\
+  &&&= {\dn deva.h}\\
+  &&&= deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&.sir|&.r.si.h\\
+  &&&= {\dn .r.si.h}\\
+  &&&= sage; saint; ascetic\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&naa|ra|da|sta|&naarada.h\\
+  &&&= {\dn naarada.h}\\
+  &&&= Naarada\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&thaa&tathaa\\
+  &&&= {\dn tathaa}\\
+  &&&= thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn asito}&a|si|to&asita.h\\
+  &&&= {\dn asita.h}\\
+  &&&= Asita\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn devalo}&de|va|lo&devala.h\\
+  &&&= {\dn devala.h}\\
+  &&&= Devala\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn vyaasa.h}&vyaa|sa\quad(|.h(a))&Vyaasa\\
+  &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn svaya.m}&sva|ya.m&svayam\\
+  &&&= {\dn svayam}\\
+  &&&= by the self\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn bravii.si}&bra|vii|.si&(you) say\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn bruu} = bruu}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
