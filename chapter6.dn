@@ -20,9 +20,9 @@ not active.\\
   &&&= (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn anaa"srita.h}&a|naa|"sri|ta\quad(|.h(a))&not dependent; not engaged; not attached\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -33,9 +33,9 @@ not active.\\
   &&&= {\dn phalam}\\
   &&&= fruit\\
   &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn kaarya.m}&kaar|ya.m&kaaryam\\
   &&&= {\dn kaaryam}\\
   &&&= needing action; needing work\\
@@ -72,9 +72,9 @@ not active.\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -126,9 +126,9 @@ not active.\\
   &{\dn praahuryoga.m}&praa|hur|&praahu.h\\
   &&&= {\dn praahu.h}\\
   &&&= (?)\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&yo|ga.m&yogam\\
   &&&= {\dn yogam}\\
   &&&= yoking; union; action; work\\
@@ -169,9 +169,9 @@ not active.\\
   &&&= {\dn sa"nkalpa.h}\\
   &&&= desire; decision; will; idea\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= magician; saint; devotee; ascetic}\\
@@ -211,9 +211,9 @@ peace is viewed as the cause.\\
   &&&= yoking; union; action; work\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
   &&&= action; work\\
@@ -250,9 +250,9 @@ peace is viewed as the cause.\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn "sama.h}&"sa|ma\quad(|.h(a))&peace\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -297,9 +297,9 @@ having attained yoking.\\
   &&&= at/in/on things respectable; significant; material\\
   &&&\note{\adjective, \male, \plural, \locativecase}\\
   &&&\note{from {\dn aartha.h} = aartha.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -332,9 +332,9 @@ having attained yoking.\\
   &&&\note{similar: \noun, \male, {\dn sa.mnyaasa.h} = sa.mnyaasa.h}\\
   &&&\note{= renunciation; abandonment;}\\
   &&&\note{abstaining from food; asceticism}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yogaaruu.dhastadocyate}&yo|gaa|&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= yoking; union; action; work\\
@@ -382,9 +382,9 @@ self is an enemy of the self.\\
   &&maa|na.m&aatmaanam = {\dn aatmaanam} = (?) self; soul\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&\multicolumn{3}{l}{\dn naatmaanamavasaadayet}\\
   &&&\\
   &&naat|&na = {\dn na} = not\\
@@ -425,9 +425,9 @@ self is an enemy of the self.\\
   &{\dn bandhu}&ban|dhu\quad(|.h(u))&{\dn bandhu.h}\\
   &&&= friend; relative; association\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn raatmaiva}&raat|mai|&aatmaa\\
   &&&= {\dn aatmaa}\\
   &&&= self; soul\\
@@ -475,9 +475,9 @@ an enemy.\\
   &&sya&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yenaatmaivaatmanaa}&ye|naat|&yena = {\dn yena} = (?) using/by one/whom/what\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
@@ -514,6 +514,7 @@ an enemy.\\
   &{\dn "satrutve}&"sa|tru|tve&(?)\\
   &&&\note{similar: \noun, \female, {\dn "satrutaa} = "satrutaa}\\
   &&&\note{= enmity; hostility}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
   2b&{\dn vartetaatmaiva}&var|te|taat|&varteta\\
@@ -559,9 +560,9 @@ honor and dishonor.\\
   &{\dn pra"saantasya}&pra|"saan|ta|sya&of something calm\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn pra"saanta.h} = pra"saanta.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn paramaatmaa}&pa|ra|maat|&parama\\
   &&&= {\dn parama}\\
   &&&= highest; best\\
@@ -597,9 +598,9 @@ honor and dishonor.\\
   &&&= at/in/on (occurrences of) distress\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn du.hkham} = du.hkham}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn tathaa}&ta|thaa&thus; likewise; so\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -642,9 +643,9 @@ pile of stones, and gold, are the same (to the devotee).\\
   &&&= {\dn aatmaa}\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn kuu.tastho}&kuu|.ta|&kuu.tam\\
   &&&= {\dn kuu.tam}\\
   &&&= mountain peak; horn; lie; plough\\
@@ -682,9 +683,9 @@ pile of stones, and gold, are the same (to the devotee).\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{devotee; ascetic; magician}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn samalo.s.traa"smakaa~ncana.h}&sa|ma|&{\dn sama}\\
   &&&= same; equal; similar\\
   &&&\note{\adjective}\\
@@ -732,9 +733,9 @@ people are the) same, intelligence is the best.\\
   &&&= {\dn udaasiina.h}\\
   &&&= neutral person\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&ma|dhya|stha|&madhyastha.h\\
   &&&= {\dn madhyastha.h}\\
   &&&= mediator\\
@@ -770,9 +771,9 @@ people are the) same, intelligence is the best.\\
   &{\dn paape.su}&paa|pe|.su&at/in/on people of sin; evil; crime\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn paapa.h} = paapa.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&\multicolumn{3}{l}{\dn samabuddhirvi"si.syate}\\
   &&&\\
   &&sa|ma|&{\dn sama}\\
@@ -812,9 +813,9 @@ and without possessions.\\
   &&&= {\dn satatam}\\
   &&&= always\\
   &&&\note{\adverb}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&maat|maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
   &&&= (?) self; soul\\
@@ -847,9 +848,9 @@ and without possessions.\\
   &&&= {\dn aatmaa}\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn niraa"siiraparigraha.h}&ni|raa|"sii|ra|&niraa"si.h\\
   &&&= {\dn niraa"si.h}\\
   &&&= (?)\\
@@ -881,9 +882,9 @@ grass remainder, \dots\\
   &&&\\
   &{\dn prati.s.thaapya}&pra|thi.s|.thaa|pya&placed\\
   &&&\note{\adjective}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn sthiramaasanamaatmana.h}&sthi|ra|maa|&sthiram\\
   &&&= {\dn sthiram}\\
   &&&= standing; staying; steadfast\\
@@ -924,9 +925,9 @@ grass remainder, \dots\\
   &&&= {\dn niicam}\\
   &&&= lowered\\
   &&&\note{\adjective, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn cailaajinaku"sottaram}&cai|la|&cailam\\
   &&&= {\dn cailam}\\
   &&&= cloth; clothes\\
@@ -975,9 +976,9 @@ is virtuous.\\
   &{\dn k.rtvaa}&k.rt|vaa&having done\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn k.r} = k.r}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yatacittendriyakriya.h}&ya|ta|&{\dn yata}\\
   &&&= yoked; controlled; subdued; governed\\
   &&&\note{\adjective}\\
@@ -1016,9 +1017,9 @@ is virtuous.\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
   &&&\note{= doing}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&dyo|ga|maat|&yogam\\
   &&&= {\dn yogam}\\
   &&&= yoking; union; action; work\\
@@ -1065,9 +1066,9 @@ looking in all directions.\\
   &&&= neck\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn griiva.h} = griiva.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn dhaarayannacala.m}&dhaa|ra|yan|&dhaarayan\\
   &&&= {\dn dhaarayan}\\
   &&&= bearing; holding\\
@@ -1104,9 +1105,9 @@ looking in all directions.\\
   &{\dn sva.m}&sva.m&self; soul; friend; relative; wealth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sva.h} = sva.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn di"sa"scaanavalokayan}&di|"sa"s|&di"sa.h\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn di"saa} = di"saa}\\
@@ -1153,9 +1154,9 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&= {\dn bhii.h}\\
   &&&= fear\\
   &&&\note{\noun, \female}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&brah|ma|caa|ri|&{\dn brahmacaari}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn brahmam} = brahmam}\\
@@ -1189,9 +1190,9 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\note{\adjective, \male}\\
   &&&\note{similar: \noun, \neuter, {\dn cittam} = cittam}\\
   &&&\note{= thought; knowledge; intelligence; mind}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yukta}&yuk|ta&yoked; joined; suitable; skilled\\
   &&&\note{\adjective}\\
   &&&\\
@@ -1236,9 +1237,9 @@ union.\\
   &&&= (?) self; soul\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= magician; saint; devotee; ascetic}\\
@@ -1269,9 +1270,9 @@ union.\\
   &&&= primary; best; last; extreme\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn paramaa} = paramaa}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn matsa.msthaamadhigacchati}&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
@@ -1318,9 +1319,9 @@ Arjuna.\\
   &&'sti&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -1360,9 +1361,9 @@ Arjuna.\\
   &&&= of a/the shape; disposition; virtue\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn "siilam} = "siilam}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn jaagrato}&jaa|gra|to&jaagrata.h\\
   &&&= {\dn jaagrata.h}\\
   &&&= (?)\\
@@ -1408,9 +1409,9 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   &&&= of a/the pastime; excursion\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn vihaara.h} = vihaara.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yuktace.s.tasya}&yuk|ta|&{\dn yukta}\\
   &&&= yoked; joined; suitable; skilled\\
   &&&\note{\adjective}\\
@@ -1441,9 +1442,9 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   &&&= of wakefulness; knowledge\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn avabodha.h} = avabodha.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yogo}&yo|go&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= yoking; union; action; work\\
@@ -1483,9 +1484,9 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
   &&&= {\dn cittam}\\
   &&&= thought; knowledge; intelligence; mind\\
   &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&maat|ma|nye|&aatmani\\
   &&&= {\dn aatmani}\\
   &&&= (?) at/in/on a/the self; soul\\
@@ -1518,9 +1519,9 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn kaama.h} = kaama.h}\\
   &&&\note{= sexual love; love; desire}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yukta}&yuk|ta&yoked; joined; suitable; skilled\\
   &&&\note{\adjective}\\
   &&&\\
@@ -1562,9 +1563,9 @@ doing yoking of the self.\\
   &&&= {\dn stha.h}\\
   &&&= standing; staying; doing\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn ne"ngate}&ne"n|&na = {\dn na} = not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -1601,9 +1602,9 @@ doing yoking of the self.\\
   &&&= of thought; knowledge; intelligence; mind\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn cittam} = cittam}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yu~njato}&yu\~{}n|ja|to&yu\~{}njata.h\\
   &&&= {\dn yu~njata.h}\\
   &&&= (?)\\
@@ -1647,9 +1648,9 @@ person is satisfied.\\
   &&&= {\dn cittam}\\
   &&&= mind; thought; knowledge; intelligence\\
   &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn niruddha.m}&ni|rud|dha.m&niruddham\\
   &&&= {\dn niruddham}\\
   &&&= restrained\\
@@ -1688,9 +1689,9 @@ person is satisfied.\\
   &&&= (?) self; soul\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn pa"syannaatmani}&pa|"syan|&{\dn pa"syan}\\
   &&&= seeing\\
   &&&\note{\verbb, \participle}\\
@@ -1733,9 +1734,9 @@ he is still and does not move intrinsically.\\
   &&&\\
   &&tad|&tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
   &&&= brainpower; intelligence\\
@@ -1775,9 +1776,9 @@ he is still and does not move intrinsically.\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sthita"scalati}&sthi|ta"s|&sthita.h\\
   &&&= {\dn sthita.h}\\
   &&&= standing; staying; stopping; still\\
@@ -1823,9 +1824,9 @@ teacher, also, the person does not swerve.\\
   &&&= getting; profit\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn laabha.h} = laabha.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn manyate}&man|ya|te&(he/she/it) thinks\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
@@ -1861,9 +1862,9 @@ teacher, also, the person does not swerve.\\
   &{\dn du.hkhena}&du.h|khe|na&using/by distress\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn du.hkham} = du.hkham}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn guru.naapi}&gu|ru|.naa|&{\dn guru.naa}\\
   &&&= using/by a/the teacher\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -1907,9 +1908,9 @@ contacting material objects) is called yoking.\\
   &&&= {\dn sa.myoga.h}\\
   &&&= yoking; union; contact; chance\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&vi|yo|ga.m&viyogam\\
   &&&= {\dn viyogam}\\
   &&&= division; abandonment\\
@@ -1954,9 +1955,9 @@ everywhere.\\
   &&&= {\dn yoktavya.h}\\
   &&&= to be yoked; united; done\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogo.anirvi.n.nacetasaa}&yo|go|&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= yoking; union; action; work\\
@@ -1995,9 +1996,9 @@ everywhere.\\
   &&&= sexual love; love; desires\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&styakt|vaa&tyaktvaa\\
   &&&= {\dn tyaktvaa}\\
   &&&= having abandoned\\
@@ -2037,9 +2038,9 @@ everywhere.\\
   &&&= village; people; gamut\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn graama.h} = graama.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   3b&{\dn viniyamya}&vi|ni|ya|mya&restricted\\
   &&&\note{\adjective}\\
   &&&\\
@@ -2073,9 +2074,9 @@ may think of not any (thing), also.\\
   &&&= (he/she/it) may stop\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn uparam} = uparam}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&bud|dhyaa&{\dn buddhyaa}\\
   &&&= using/by brainpower; intelligence\\
   &&&\note{\noun, \female, \instrumentalcase}\\
@@ -2112,9 +2113,9 @@ may think of not any (thing), also.\\
   &{\dn k.rtvaa}&k.rt|vaa&having done\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn k.r} = k.r}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2a&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -2154,9 +2155,9 @@ mind) to be restrained may lead in (into) the self, really.\\
   &{\dn ni"scalati}&ni"s|ca|la|ti&(?)\\
   &&&\note{similar: \adjective, {\dn ni"scala} = ni"scala}\\
   &&&\note{= not changing; not moving}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn mana"sca~ncalamasthiram}&ma|na"s|&mana.h\\
   &&&= {\dn mana.h}\\
   &&&= mind\\
@@ -2196,9 +2197,9 @@ mind) to be restrained may lead in (into) the self, really.\\
   &&&\\
   &&ta|&etat = {\dn etat} = this/it\\
   &&&\note{\pronoun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&daat|ma|nye|&aatmani\\
   &&&= {\dn aatmani}\\
   &&&= (?) at/in/on a/the self; soul\\
@@ -2243,9 +2244,9 @@ wicked.\\
   &&&\\
   &&na.m&enam = {\dn enam} = he/she/it/this/that\\
   &&&\note{\pronoun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogina.m}&yo|gi|na.m&yoginam\\
   &&&= {\dn yoginam}\\
   &&&= (?) devotee; saint; ascetic; magician\\
@@ -2279,9 +2280,9 @@ wicked.\\
   &&&= (?) passion\\
   &&&\note{\noun, \neuter, \accusativecase}\\
   &&&\note{from {\dn rajas} = rajas}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn brahmabhuutamakalma.sam}&brah|ma|&brahmam\\
   &&&= {\dn brahmam}\\
   &&&= God\\
@@ -2329,9 +2330,9 @@ completely.\\
   &&&= (?) self; soul\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= devotee; saint; ascetic; magician}\\
@@ -2361,9 +2362,9 @@ completely.\\
   &&&= contact; touch; feeling\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.mspar"sa.h} = sa.mspar"sa.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&ma|tyan|ta.m&atyantam\\
   &&&= {\dn atyantam}\\
   &&&= very; completely; forever\\
@@ -2410,6 +2411,7 @@ all-seeing.\\
   &&&= (?) self; soul\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
   1b&{\dn sarvabhuutaanicaatmani}&sar|va|&sarvam\\
@@ -2452,9 +2454,9 @@ all-seeing.\\
   &&&= {\dn aatmaa}\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sarvatra}&sar|va|tra&everywhere; every time\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -2492,9 +2494,9 @@ me).\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere; every time\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn sarva.m}&sar|va.m&sarvam\\
   &&&= {\dn sarvam}\\
   &&&= each; all\\
@@ -2528,9 +2530,9 @@ me).\\
   &{\dn pra.na"syaami}&pra|.na|"syaa|mi&(I) perish; disappear; escape\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pra.na"s} = pra.na"s}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson}\\
   &&&\\
@@ -2579,9 +2581,9 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &{\dn maa.m}&maa.m&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn bhajatyekatvamaasthita.h}&bha|ja|tye|&bhajati\\
   &&&= {\dn bhajati}\\
   &&&= (he/she/it) cherishes; worships; distributes\\
@@ -2611,9 +2613,9 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
@@ -2653,9 +2655,9 @@ paramount.\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere; every time\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn sama.m}&sa|ma.m&same; equal; similar; straight; complete\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
@@ -2691,9 +2693,9 @@ paramount.\\
   &&&= {\dn du.hkham}\\
   &&&= distress\\
   &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
@@ -2726,9 +2728,9 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
@@ -2746,9 +2748,9 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&&\\
   &{\dn prokta.h}&prok|ta.h&proclaimed; perceived\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn saamyena}&saa|mye|na&using/by sameness; equality; similarity\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn saamyam} = saamyam}\\
@@ -2780,9 +2782,9 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn ca~ncalatvaatsthiti.m}&ca\~{}n|ca|la|tvaat|&(?)\\
   &&&\note{similar: \adjective, {\dn ca~ncala} = ca\~{}ncala}\\
   &&&\note{= shaking; moving to and fro}\\
@@ -2822,9 +2824,9 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn pramaathi}&pra|maa|thi&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn pramaathayati} = pramaathayati}\\
@@ -2862,9 +2864,9 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &{\dn manye}&ma|nye&(I) think\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn vaayoriva}&vaa|yo|ri|&vaayo.h\\
   &&&= {\dn vaayo.h}\\
   &&&= of a/the wind\\
@@ -2900,9 +2902,9 @@ aversion, (it can be) domesticated.\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn asa.m"saya.m}&a|sa.m|"sa|ya.m&asa.m"sayam\\
   &&&= {\dn asa.m"sayam}\\
   &&&= not + doubt; danger\\
@@ -2916,9 +2918,9 @@ aversion, (it can be) domesticated.\\
   &&&\\
   &&baa|ho&{\dn baaho} = O arm; forearm\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn mano}&ma|no&mana.h\\
   &&&= {\dn mana.h}\\
   &&&= mind\\
@@ -2948,9 +2950,9 @@ aversion, (it can be) domesticated.\\
   &&&= O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn vairaagye.na}&vai|raa|gye|.na&using/by aversion; freedom; indifference\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn vairaagyam} = vairaagyam}\\
@@ -2990,9 +2992,9 @@ advantage.\\
   &&&= {\dn yoga.h}\\
   &&&= yoking; union; action; work\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn du.spraapa}&du.s|praa|pa&difficult to get; reach\\
   &&&\note{\adjective}\\
   &&&\\
@@ -3026,9 +3028,9 @@ advantage.\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn yatate} = yatate = (he/she/it) tries}\\
   &&&\note{root: {\dn yat} = yat}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn "sakyo.avaaptumupaayata.h}&"sa|kyo|&"sakya.h\\
   &&&= {\dn "sakya.h}\\
   &&&= possible\\
@@ -3062,9 +3064,9 @@ he go (on), O K.r.s.na?\\
   &{\dn uvaaca}&u|vaa|ca&said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn ayati.h}&a|ya|ti\quad(|.h(i))&not + devotee; sage; ascetic\\
   &&&\note{\noun, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
@@ -3080,9 +3082,9 @@ he go (on), O K.r.s.na?\\
   &&&= {\dn upeta.h}\\
   &&&= come\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogaaccalitamaanasa.h}&yo|gaac|&yogaat\\
   &&&= {\dn yogaat}\\
   &&&= from yoking; union; action; work\\
@@ -3116,9 +3118,9 @@ he go (on), O K.r.s.na?\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{similar: \adjective, {\dn sama} = sama}\\
   &&&\note{from: \noun, \female, {\dn siddhi.h} = siddhi.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn kaa.m}&kaa.m&kaam = {\dn kaam} = what\\
   &&&\note{\pronoun, \female, \accusativecase}\\
   &&&\note{from {\dn kaa} = kaa}\\
@@ -3168,9 +3170,9 @@ path (away) from God is foolish.\\
   &&&= {\dn vibhra.s.ta.h}\\
   &&&= vanished; deviated\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&chin|na|&cut; split\\
   &&&\note{\adjective}\\
   &&&\\
@@ -3204,9 +3206,9 @@ path (away) from God is foolish.\\
   &&baa|ho&{\dn baaho}\\
   &&&= O arm; forearm\\
   &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn vimuu.dho}&vi|muu|.dho&vimuu.dha.h\\
   &&&= {\dn vimuu.dha.h}\\
   &&&= foolish; confused\\
@@ -3249,9 +3251,9 @@ you. (That is: There is no cutter like you).\\
   &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn chettumarhasya"se.sata.h}&chet|tu|mar|&chettum\\
   &&&= {\dn chettum}\\
   &&&= (?) to cut\\
@@ -3289,9 +3291,9 @@ you. (That is: There is no cutter like you).\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn chettaa}&chet|taa&cutter\\
   &&&\note{\noun, gender(?)}\\
   &&&\\
@@ -3326,9 +3328,9 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1a&{\dn paartha}&paar|tha&O prince = O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
@@ -3347,9 +3349,9 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\\
   &&mu|tra&amutra = {\dn amutra} = in the next world/life\\
   &&&\note{\adverb}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn vinaa"sastasya}&vi|naa|"sa|sta|&vinaa"sasa.h = {\dn vinaa"sasa.h} = decay; death; destruction\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -3382,9 +3384,9 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\\
   &&ka"s|cid|&ka"scit = {\dn ka"scit} = any\\
   &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&dur|ga|ti.m&durgatim\\
   &&&= {\dn durgatim}\\
   &&&= distress; poverty\\
@@ -3427,9 +3429,9 @@ things pure, of things eminent.\\
   &&&= worlds; human race; places\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&&nu|.sit|vaa&u.sitvaa\\
   &&&= {\dn u.sitvaa}\\
   &&&= (?) having been lived in\\
@@ -3460,9 +3462,9 @@ things pure, of things eminent.\\
   &{\dn gehe}&ge|he&at/in/on a/the house\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn geham} = geham}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn yogabhra.s.to.abhijaayate}&yo|ga|&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= yoking; union; action; work\\
@@ -3502,9 +3504,9 @@ similar to this (situation).\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn kule}&ku|le&at/in/on a/the clan; community; caste\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\\
@@ -3531,9 +3533,9 @@ similar to this (situation).\\
   &&&\\
   &&ta|ra.m&taram = {\dn taram} = more\\
   &&&\note{\suffix}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn loke}&lo|ke&at/in/on a/the world; human race; place\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
@@ -3578,9 +3580,9 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&= chance; contact; compound\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.myoga.h} = sa.myoga.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn labhate}&la|bha|te&(he/she/it) learns; gets\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn labh} = labh}\\
@@ -3610,9 +3612,9 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&(?)\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sa.msiddhau}&sa.m|sid|dhau&successful\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn sa.msiddha.h} = sa.msiddha.h}\\
@@ -3654,9 +3656,9 @@ overcomes the word of (texts about) yoking.\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn hriyate}&hri|ya|te&(he/she/it) is taken\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn h.r} = h.r}\\
@@ -3691,9 +3693,9 @@ overcomes the word of (texts about) yoking.\\
   &{\dn yogasya}&yo|ga|sya&of yoking; union; action; work; doing\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn "sabdabrahmaativartate}&"sab|da|&{\dn "sabda.h}\\
   &&&= sound; speech; word\\
   &&&\note{\noun, \male}\\
@@ -3737,9 +3739,9 @@ he goes (on) a paramount going (or path).\\
   &&&\\
   &&stu&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= devotee; saint; ascetic; magician}\\
@@ -3769,9 +3771,9 @@ he goes (on) a paramount going (or path).\\
   &&&= {\dn sa.msiddha.h}\\
   &&&= successful\\
   &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&&sta|to&tata.h\\
   &&&= {\dn tata.h}\\
   &&&= from there; from then\\
@@ -3817,9 +3819,9 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= devotee; saint; ascetic; magician}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn j~naanibhyo.api}&j\~{}naa|ni|bhyo|&j\~{}naanibhya.h\\
   &&&= {\dn j~naanibhya.h}\\
   &&&= (?) for/from sages; fortune tellers; astrologers\\
@@ -3861,9 +3863,9 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= devotee; saint; ascetic; magician}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn tasmaadyogii}&tas|maa|dyo|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
@@ -3914,9 +3916,9 @@ me.\\
   &&&= of each/all\\
   &&&\note{\pronoun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   1b&{\dn madgatenaantaraatmanaa}&mad|&mat\\
   &&&= {\dn mat}\\
   &&&= (?) ``me''\\
@@ -3957,9 +3959,9 @@ me.\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
+  % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  % ----------------------------------------------------------------------------
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
