@@ -950,3 +950,100 @@ knowledge-lamp-brightness.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 10, Verse 12}
+
+Arjuna said (to K.r.s.na):\\
+
+O paramount God, O paramount residence, you (are) a pure (and)
+paramount man, eternal (and) divine, the first deity, not-born, (and)
+powerful.\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn para.m}&pa|ra.m&param\\
+  &&&= {\dn param}\\
+  &&&= paramount; another; other; different; strange\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn brahma}&brah|ma&O God\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn brahmam} = brahmam}\\
+  &&&\\
+  &{\dn para.m}&pa|ra.m&param\\
+  &&&= {\dn param}\\
+  &&&= paramount; another; other; different; strange\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn dhaama}&dhaa|ma&O residence\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn dhaamam} = dhaamam}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn pavitra.m}&pa|vi|tra.m&pavitram\\
+  &&&= {\dn pavitram}\\
+  &&&= pure; holy\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn parama.m}&pa|ra|ma.m&paramam\\
+  &&&= {\dn paramam}\\
+  &&&= paramount\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn bhavaan}&bha|vaan&you\\
+  &&&\note{\pronoun, \secondperson, \singular, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
+  &&&= {\dn puru.sam}\\
+  &&&= man; spirit\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
+  &&&\\
+  &{\dn "saa"svata.m}&"saa|"sva|ta.m&"saa"svatam\\
+  &&&= {\dn "saa"svatam}\\
+  &&&= eternal\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn divyamaadidevamaja.m}&di|vya|&divyam\\
+  &&&= {\dn divyam}\\
+  &&&= divine\\
+  &&&\note{\adjective, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&&maa|di|&aadi\\
+  &&&= {\dn aadi}\\
+  &&&= first\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&de|va|ma|&devam\\
+  &&&= {\dn devam}\\
+  &&&= deity\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn deva.h} = deva.h}\\
+  &&&\\
+  &&ja.m&ajam\\
+  &&&= {\dn ajam}\\
+  &&&= not + born\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn aja.h} = aja.h}\\
+  &&&\note{from: \prefix, {\dn a} = a = not}\\
+  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h}\\
+  &&&\\
+  &{\dn vibhum}&vi|bhum&powerful\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn vibhu.h} = vibhu.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
