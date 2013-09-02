@@ -2266,3 +2266,96 @@ am) the monk Kapila.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 10, Verse 27}
+
+(K.r.s.na said to Arjuna:)\\
+
+Of horses, (they) (know) me (as) Uccai.h"sravaaa, (of) a
+non-dead-birth (from the unending waves of the sea). Of elephants of
+Indra (god of the sky, king of the gods), (I am) Airaavata. And of
+men, (I am) the man-king.\\
+
+\begin{tabular}{llll}
+  1a&{\dn uccai.h"sravasama"svaanaa.m}&\multicolumn{2}{l}{uc|cai.h|"sra|va|sa|ma|}\\
+  &&&\\
+  &&&uccai.h"sravasam\\
+  &&&= {\dn uccai.h"sravasam}\\
+  &&&= Uccai.h"sravaa\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn uccai.h"sravasa.h} = uccai.h"sravasa.h}\\
+  &&&\\
+  &&"svaa|naa.m&a"svaanaam\\
+  &&&= {\dn a"svaanaam}\\
+  &&&= of horses\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn a"sva.h} = a"sva.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn viddhi}&vid|dhi&viddi.h\\
+  &&&= {\dn viddhi.h}\\
+  &&&= piercing; knowing\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn maam}&maam&me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn am.rtodbhavam}&a|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&m.r|tod|&m.rta\\
+  &&&= {\dn m.rta}\\
+  &&&= dead\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&bha|vam&udbhavam\\
+  &&&= {\dn udbhavam}\\
+  &&&= birth\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn udbhava.h} = udbhava.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn airaavata.m}&ai|raa|va|ta.m&airaavatam\\
+  &&&= {\dn airaavatam}\\
+  &&&= Airaavata\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn airaavata.h} = airaavata.h}\\
+  &&&\\
+  &{\dn gajendraa.naa.m}&ga|jen|&gaja.h\\
+  &&&= {\dn gaja.h}\\
+  &&&= elephant\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&draa|.naa.m&indraa.naam\\
+  &&&= {\dn indraa.naam}\\
+  &&&= of things of Indra (god of the sky, king of the gods)\\
+  &&&\note{\noun, \male(?), \plural, \genitivecase}\\
+  &&&\note{from {\dn indra.h} = indra.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn naraa.naa.m}&na|raa|.naa.m&naraa.naam\\
+  &&&= {\dn naraa.naam}\\
+  &&&= of men\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn nara.h} = nara.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn naraadhipam}&na|raa|&nara.h\\
+  &&&= {\dn nara.h}\\
+  &&&= man\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&dhi|pam&adhipam\\
+  &&&= {\dn adhipam}\\
+  &&&= king\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn adhipa.h} = adhipa.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
