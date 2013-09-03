@@ -2605,3 +2605,84 @@ by Vi.s.nu).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 10, Verse 31}
+
+(K.r.s.na said to Arjuna:)\\
+
+Of purifiers, (I) am Pavana (the god of wind). Of weapon-hired-men, I
+(am) Raama. And of fish, (I) am an alligator. Of streams, (I) am the
+Ga"nga (Ganges) River.\\
+
+\begin{tabular}{llll}
+  1a&{\dn pavana.h}&pa|va|na\quad(|.h(a))&purifier; air; wind; Pavana (god of wind)\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn pavataamasmi}&pa|va|taa|ma|&pavataam\\
+  &&&= {\dn pavataam}\\
+  &&&= (?) of purifiers\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson}\\
+  &&&\note{\singular}\\
+  &&&\note{{\dn pavate} = pavate = (he/she/it) purifies}\\
+  &&&\note{root: {\dn puu} = puu}\\
+  &&&\\
+  &&smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn raama.h}&raa|ma\quad(.h(a))&Raama\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn "sastrabh.rtaamaham}&"sa|stra|&"sastram\\
+  &&&= {\dn "sastram}\\
+  &&&= weapon\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&bh.r|taa|ma|&bh.rtaam\\
+  &&&= {\dn bh.rtaam}\\
+  &&&= (?) of hired men\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn bh.rta.h} = bh.rta.h}\\
+  &&&\\
+  &&ham&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn jha.saa.naa.m}&jha|.saa|.naa.m&jha.saa.naam\\
+  &&&= {\dn jha.saa.naam}\\
+  &&&= of fish\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn jha.sa.h} = jha.sa.h}\\
+  &&&\\
+  &{\dn makara"scaasmi}&ma|ka|ra"s|&makara.h\\
+  &&&= {\dn makara.h}\\
+  &&&= alligator; crocodile\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn srotasaamasmi}&sro|ta|saa|ma|&srotasaam\\
+  &&&= {\dn srotasaam}\\
+  &&&= (?) of streams; rivers; flows\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{from {\dn srotas} = srotas}\\
+  &&&\\
+  &&smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn jaahnavii}&jaah|na|vii&the Ga"nga (Ganges) River\\
+  &&&\note{\noun, \female}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
