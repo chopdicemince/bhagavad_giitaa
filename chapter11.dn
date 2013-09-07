@@ -1268,7 +1268,7 @@ Arjuna said (to K.r.s.na):\\
 being-special-assembly: Brahma (God),
 "Siva---lotus--sitting-staying---and saints and all divine serpents.\\
 
-(Note: Each of the four main parts of this verse has eleven main
+(Note: In this verse, each half-line (ignoring line 0) has eleven main
 syllables, instead of the usual eight.)\\
 
 \begin{tabular}{llll}
@@ -1357,9 +1357,9 @@ syllables, instead of the usual eight.)\\
   &&stham&{\dn stham}\\
   &&&= standing; staying\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn .r.sii.m"sca}&.r|.sii.m"s&.r.siin\\
   &&&= {\dn .r.siin}\\
   &&&= saints; sages; ascetics\\
@@ -1389,9 +1389,6 @@ syllables, instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn divya.h} = divya.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 16}
