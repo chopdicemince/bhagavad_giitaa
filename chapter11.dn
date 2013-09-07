@@ -1260,3 +1260,134 @@ head, (done-homage?), was saying (homage) (to) the deity (K.r.s.na).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 15}
+
+Arjuna said (to K.r.s.na):\\
+
+(I) see deities in the body of you, all---likewise, a
+being-special-assembly: Brahma (God),
+"Siva---lotus--sitting-staying---and saints and all divine serpents.\\
+
+(Note: Each of the four main parts of this verse has eleven main
+syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
+  &&&\note{\verbb, \pasttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  &&&\\
+  &{\dn devaa.mstava}&de|vaa.m|&devaan\\
+  &&&= {\dn devaan}\\
+  &&&= deities\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn deva.h} = deva.h}\\
+  &&&\\
+  &&sta|va&{\dn tava} = of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn deva}&de|va&deva.h\\
+  &&&= {\dn deva.h}\\
+  &&&= deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn dehe}&de|he&at/in/on a/the body\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn deha.h} = deha.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn sarvaa.mstathaa}&sar|vaa.m|&sarvaan\\
+  &&&= {\dn sarvaan}\\
+  &&& = each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male}\\
+  &&&\note{\plural, \accusativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\\
+  &&sta|thaa&{\dn tathaa} = thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn bhuutavi"se.sasa"nghaan}&bhuu|ta|&bhuutam\\
+  &&&= {\dn bhuutam}\\
+  &&&= being; spirit; man; creature\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&vi|"se|.sa|&{\dn vi"se.sa}\\
+  &&&= special\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&sa"n|ghaan&{\dn sa"nghaan}\\
+  &&&= assembly; association\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn brahmaa.namii"sa.m}&brah|maa|.na|mii&(?) Brahma; God\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from (?) {\dn brahmaa} = brahmaa}\\
+  &&&\\
+  &&"sa.m&ii"sam\\
+  &&&= {\dn ii"sam}\\
+  &&&= "Siva\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn ii"sa.h} = ii"sa.h}\\
+  &&&\\
+  &{\dn kamalaasanastham}&ka|ma|laa|&kamala.h\\
+  &&&= {\dn kamala.h}\\
+  &&&= lotus\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&sa|na|&aasanam\\
+  &&&= {\dn aasanam}\\
+  &&&= sitting; seat\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&stham&{\dn stham}\\
+  &&&= standing; staying\\
+  &&&\note{\adjective, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn .r.sii.m"sca}&.r|.sii.m"s&.r.siin\\
+  &&&= {\dn .r.siin}\\
+  &&&= saints; sages; ascetics\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn .r.si.h} = .r.si.h}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn sarvaanuragaa.m"sca}&sar|vaa|nu|&sarvaan\\
+  &&&= {\dn sarvaan}\\
+  &&&= each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male}\\
+  &&&\note{\plural, \accusativecase}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\\
+  &&ra|gaa.m"s|&uragaan\\
+  &&&= {\dn uragaan}\\
+  &&&= serpents\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sarpa.h} = sarpa.h}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn divyaan}&di|vyaan&divine\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn divya.h} = divya.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
