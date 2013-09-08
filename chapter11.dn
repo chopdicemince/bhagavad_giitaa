@@ -2395,3 +2395,128 @@ of the usual eight.)\\
 \quad
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 24}
+
+(Arjuna said to K.r.s.na:)\\
+
+Surely, having seen you---many sky-touching bright color(s), a vast
+mouth, a bright great eye---(my) self (is) pained inside. I do not get
+steadfastness and peace, O Vi.s.nu (O K.r.s.na).\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn nabha.hsp.r"sa.m}&na|bha\quad(|.h(a))|&nabha.h\\
+  &&&= {\dn nabha.h}\\
+  &&&= sky\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&sp.r|"sa.m&sp.r"sam\\
+  &&&= {\dn sp.r"sam}\\
+  &&&= touching\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn sp.r"sa.h} = sp.r"sa.h}\\
+  &&&\\
+  &{\dn diiptamanekavar.na.m}&diip|ta|ma|&diiptam\\
+  &&&= {\dn diiptam}\\
+  &&&= on fire; bright; excited\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn diipta.h} = diipta.h}\\
+  &&&\\
+  &&ne|ka|&aneka\\
+  &&&= {\dn aneka}\\
+  &&&= many/much; various\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&var|.na.m&var.nam\\
+  &&&= {\dn var.nam}\\
+  &&&= color\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn var.na.h} = var.na.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn vyaattaanana.m}&vyaat|taa|&vyaatta\\
+  &&&= {\dn vyaatta}\\
+  &&&= vast; open\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&na|na.m&aananam\\
+  &&&= {\dn aananam}\\
+  &&&= mouth; door; entrance\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn diiptavi"saalanetram}&diip|ta|&{\dn diipta}\\
+  &&&= on fire; bright; excited\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&vi|"saa|la|&{\dn vi"saala}\\
+  &&&= great\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ne|tram&{\dn netram}\\
+  &&&= eye\\
+  &&&\note{\noun, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\\
+  &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn pravyathitaantaraatmaa}&pra|vya|thi|taan|&pravyathita\\
+  &&&= {\dn pravyathita}\\
+  &&&= pained; perturbed\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ta|raat|&anta.h = {\dn anta.h} = inside\\
+  &&&\note{\noun, \adjective, \adverb, \preposition}\\
+  &&&\note{\indeclinable}\\
+  &&&\\
+  &&maa&aatmaa\\
+  &&&= {\dn aatmaa}\\
+  &&&= self; soul\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn dh.rti.m}&dh.r|ti.m&dh.rtim\\
+  &&&= {\dn dh.rtim}\\
+  &&&= determination; steadfastness\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn dh.rti.h} = dh.rti.h}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn vindaami}&vin|daa|mi&(I) get\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
+  &&&\\
+  &{\dn "sama.m}&"sa|ma.m&"samam\\
+  &&&= {\dn "samam}\\
+  &&&= peace\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn "sama.h} = "sama.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn vi.s.no}&vi|.s.no&O Vi.s.nu\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn vi.s.nu.h} = vi.s.nu.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
