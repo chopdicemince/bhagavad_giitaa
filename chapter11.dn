@@ -2139,3 +2139,138 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 22}
+
+(Arjuna said to K.r.s.na:)\\
+
+Rudra ("Siva), the Aadityaas, the Vasus---ones---and the Saadhyas,
+Vi"svedevas, the A"sviis, the Maruts, and \dots (?) \dots, and the
+Ghandarva(s), the Yak.sa(s), the non-deit(ies) (the demons), the
+successful-groups---(they) see you---and all (are) amazed, really.\\
+
+(Note: In this verse, each half-line has eleven main syllables, except
+the last half-line, which has ten. The usual number is eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn rudraadityaa}&ru|draa|&rudra\\
+  &&&= {\dn rudra}\\
+  &&&= Rudra ("Siva)\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&di|tyaa&aadityaa.h\\
+  &&&= {\dn aadityaa.h}\\
+  &&&= Aadityaas\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn aaditya.h} = aaditya.h}\\
+  &&&\\
+  &{\dn vasavo}&va|sa|vo&vasava.h\\
+  &&&= {\dn vasava.h}\\
+  &&&= the eight Vasus\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from (?)}\\
+  &&&\\
+  &{\dn ye}&ye&(?) ones/who/what\\
+  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn saadhyaa}&saa|dhyaa&saadhyaa.h\\
+  &&&= {\dn saadhyaa.h}\\
+  &&&= Saadhyas\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn saadhya.h} = saadhya.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn vi"sve.a"svinau}&vi|"sve|&vi"svedevaa.h\\
+  &&&= {\dn vi"svedevaa.h}\\
+  &&&= Vi"svedevas\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn vi"svedeva.h} = vi"svedeva.h}\\
+  &&&\\
+  &&'\quad"svi|nau&a"svinau\\
+  &&&= {\dn a"svinau}\\
+  &&&= the two twin A"sviis\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{from {\dn a"svina.h} = a"svina.h}\\
+  &&&\\
+  &{\dn maruta"sco.smapaa"sca}&ma|ru|ta"s|&maruta.h\\
+  &&&= {\dn maruta.h}\\
+  &&&= Maruts\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn marut} = marut}\\
+  &&&\\
+  &&co|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&.sma|paa"s|&u.smapaa.h\\
+  &&&= {\dn u.smapaa.h}\\
+  &&&= (?)\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn gandharvayak.saasurasiddhasa"nghaa}\\
+  &&&\\
+  &&ghan|dar|va|&{\dn ghandarva}\\
+  &&&= a Ghandarva\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ya|k.saa|&yak.sa\\
+  &&&= {\dn yak.sa}\\
+  &&&= a Yak.sa\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&su|ra|&sura.h\\
+  &&& {\dn sura.h}\\
+  &&&= sun; sage; deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&sid|dha|&{\dn siddha}\\
+  &&&= successful\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&sa"n|ghaa&sa"nghaa.h\\
+  &&&= {\dn sa"nghaa.h}\\
+  &&&= groups; assemblies; associations\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn viik.sante}&vii|k.san|te&(they) see; consider\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{from {\dn vik.s} = vik.s}\\
+  &&&\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn vismitaa"scaiva}&vi|smi|taa"s|&vismitaa.h\\
+  &&&= {\dn vismitaa.h}\\
+  &&&= amazed\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn vismita.h} = vismita.h}\\
+  &&&\\
+  &&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn sarve}&sar|ve&each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
