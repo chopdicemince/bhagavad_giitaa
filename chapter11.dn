@@ -2764,3 +2764,101 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 27}
+
+(Arjuna said to K.r.s.na:)\\
+
+Hastily, (they) enter the mouths of
+you---tooth-dreadful(-things)-dreadful---attached in the
+tooth-gaps. (They) are seen, using crushed uppermost-parts.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn vaktraa.ni}&vak|traa|ni&visages (faces); mouths; muzzles\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{from {\dn vaktram} = vaktram}\\
+  &&&\\
+  &{\dn te}&te&for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn tvaramaa.naa}&tva|ra|&{\dn tvara}\\
+  &&&= hastily\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&|maa|.naa&maa.naa.h\\
+  &&&= {\dn maa.naa.h}\\
+  &&&= (?)\\
+  &&&\\
+  &{\dn vi"santi}&vi|"san|ti&(they) enter\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn vi"s} = vi"s}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn da.m.s.traakaraalaani}&da.m|.s.traa|&{\dn da.m.s.traa}\\
+  &&&= tooth\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&ka|raa|laa|ni&{\dn karaalaani}\\
+  &&&= dreadful\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn karaalam} = karaalam}\\
+  &&&\\
+  &{\dn bhayaanakaani}&bha|yaa|na|kaa|ni&dreadful\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{from {\dn bhayaanakam} = bhayaanakam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn kecidvilagnaa}&ke|ci|dvi|&kecid\\
+  &&&= {\dn kecid}\\
+  &&&= (?)\\
+  &&&\\
+  &&lag|naa&vilagnaa.h\\
+  &&&= {\dn vilagnaa.h}\\
+  &&&= attached; hanging\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn vilagna.h} = vilagna.h}\\
+  &&&\\
+  &{\dn da"sanaantare.su}&da|"sa|naan|&da"sanam\\
+  &&&= {\dn da"sanam}\\
+  &&&= tooth; bite\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ta|re|.su&antare.su\\
+  &&&= {\dn antare.su}\\
+  &&&= at/in/on the interiors; gaps\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{from {\dn antaram} = antaram}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn sand.r"syante}&dan|d.r|"syan|te&(they) are seen\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn sa.md.r"s} = sa.md.r"s}\\
+  &&&\\
+  &{\dn cuur.nitairuttamaa"ngai.h}&cuur|.ni|tai|rut|&cuur.nitai.h\\
+  &&&= {\dn cuur.nitai.h}\\
+  &&&= using/by people/things crushed\\
+  &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn cuur.nita.h} = cuur.nita.h}\\
+  &&&\\
+  &&ta|maa"n|&uttama\\
+  &&&= {\dn uttama}\\
+  &&&= ultimate; uppermost\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&gai\quad(|.h(i)&a"ngai.h\\
+  &&&= {\dn a"ngai.h}\\
+  &&&= using/by parts\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn a"ngam} = a"ngam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
