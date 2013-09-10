@@ -3685,3 +3685,123 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 35}
+
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+
+Having heard this group of words of K.r.s.na---Arjuna plac(ed) his
+palms of his hands together, shaking, (as) homage. Having done (this)
+again, really, (Arjuna) said (to) K.r.s.na, with a stammmer, (with
+great) fear, (homage).\\
+
+(Note: In this verse, except for line 0, each half-line has eleven
+main syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn etacchrutvaa}&e|tac|&etat = {\dn etat} = this/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&chru|tvaa&"srutvaa\\
+  &&&= {\dn "srutvaa}\\
+  &&&= having heard\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn "sru} = "sru}\\
+  &&&\\
+  &{\dn vacana.m}&va|ca|na.m&vacanam\\
+  &&&= {\dn vacanam}\\
+  &&&= word; group of words; speech\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn ke"savasya}&ke|"sa|va|sya&of K.r.s.na\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn k.rtaa~njalirvepamaana.h}&k.r|taa\~{}n|&k.rta\\
+  &&&= {\dn k.rta}\\
+  &&&= acted upon; worked on; done\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ja|lir|&aa\~{}njali.h\\
+  &&&= {\dn aa~njali.h}\\
+  &&&= placing the palms of the hands together;\\
+  &&&homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ve|pa|maa|na\quad(|.h(a))&{\dn vepamaana.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \noun, \neuter, {\dn vepanam} = vepanam}\\
+  &&&\note{= shaking}\\
+  &&&\\
+  &{\dn kirii.tii}&ki|rii|.tii&(?) Arjuna\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn namask.rtvaa}&na|ma|sk.r|&nama.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&tvaa&k.rtvaa\\
+  &&&= {\dn k.rtvaa}\\
+  &&&= having acted; worked; done\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn k.r} = k.r}\\
+  &&&\\
+  &{\dn bhuuya}&bhuu|ya&bhuuya.h\\
+  &&&= {\dn bhuuya.h}\\
+  &&&= again\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn evaaha}&e|vaa|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ha&aaha\\
+  &&&= {\dn aaha}\\
+  &&&= (?) (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn ah} = ah}\\
+  &&&\\
+  &{\dn k.r.s.na.m}&k.r.s|.na.m&K.r.s.na\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn sagadgada.m}&sa|gad|ga|da.m&sagadgadam\\
+  &&&= {\dn sagadgadam}\\
+  &&&= with a stammer\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn bhiitabhiita.h}&bhii|ta|&bhiita.h\\
+  &&&= {\dn bhiita.h}\\
+  &&&= fearful\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&bhii|ta\quad(|.h(a))&{\dn bhiita.h}\\
+  &&&= fearful\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &{\dn pra.namya}&pra|na|mya&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn pra.namate} = pra.namate = (he/she/it) pays homage}\\
+  &&&\note{root: {\dn pra.nam} = pra.nam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
