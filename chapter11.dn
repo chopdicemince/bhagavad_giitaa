@@ -3442,3 +3442,121 @@ main syllables, instead of the usual eight.)\\
 \quad
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 33}
+
+(K.r.s.na said to Arjuna:)\\
+
+Therefore, you---stand up (and) (get) fame. Having won (over) the
+enemies, (enjoy) a successful kingdom. By me, really, these (fighters
+are) killed previously, really. Be one cause, O savyasaacin (O
+Arjuna).\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn tasmaattvamutti.s.tha}&ta|smaat|&{\dn tasmaat}\\
+  &&&= therefore\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&tva|mut|&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &&ti|.s.tha&utti.s.tha\\
+  &&&= {\dn utti.s.tha}\\
+  &&&= (?) utti.s.thatu\\
+  &&&= {\dn utti.s.thatu}\\
+  &&&= (you) stand up; get up\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn utthaa} = utthaa}\\
+  &&&\\
+  &{\dn ya"so}&ya|"so&ya"sa.h\\
+  &&&= {\dn ya"sa.h}\\
+  &&&= fame\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn labhasva}&la|bha|sva&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn labhate} = labhate = (he/she/it) learns; gets}\\
+  &&&\note{root: {\dn labh} = labh}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn jitvaa}&ji|tvaa&having won\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn ji} = ji}\\
+  &&&\\
+  &{\dn "satruunbhu"nk.sva}&"sa|truun|&{\dn "satruun}\\
+  &&&= enemies\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn "satru.h} = "satru.h}\\
+  &&&\\
+  &&bhu"n|k.sva&{\dn bhu"nk.sva}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn bhu"nkte} = bhu"nkte = (he/she/it) enjoys}\\
+  &&&\note{root: {\dn bhuj} = bhuj}\\
+  &&&\\
+  &{\dn raajya.m}&raa|jya.m&raajyam\\
+  &&&= {\dn raajyam}\\
+  &&&= kingdom\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn sam.rddham}&sa|m.rd|dham&successful; abundant\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn mayaivaite}&ma|yai|&mayaa = {\dn mayaa} = using/by me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &&vai|&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&te&ete = {\dn ete} = these/they\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &{\dn nihataa.h}&ni|ha|taa\quad(|.h(aa))&hit; killed\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn nihata.h} = nihata.h}\\
+  &&&\\
+  &{\dn puurvameva}&puur|va|me|&puurvam\\
+  &&&= {\dn puurvam}\\
+  &&&= previously\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn nimittamaatra.m}&ni|mit|ta|&nimittam\\
+  &&&= {\dn nimittam}\\
+  &&&= motive; cause\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&maa|tra.m&maatram\\
+  &&&= {\dn maatram}\\
+  &&&= one thing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn bhava}&bha|va&bhavatu\\
+  &&&= {\dn bhavatu}\\
+  &&&= (you) be\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn savyasaacin}&sa|vya|saa|cin&(?) O savyasaacin\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male(?), \vocativecase}\\
+  &&&\note{from {\dn savyasaacin} = savyasaacin}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
