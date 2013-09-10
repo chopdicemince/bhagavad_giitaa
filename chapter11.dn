@@ -3315,3 +3315,129 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 32}
+
+God (K.r.s.na) said (to Arjuna):\\
+
+(I) am time (and) the powerful world-destruction-doer, start(ing) to
+smite worlds now. Except, also, you---the fighters who (are) standing
+at opposite places will not be (that is, they will die).\\
+
+(Note: In this verse, each half-line (excluding line 0) has eleven
+main syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii}\\
+  &&&= ``title of respect''\\
+  &&&\\
+  &&bha|ga|vaa|nu|&bhagavaan\\
+  &&&= {\dn bhagavaan}\\
+  &&&= God\\
+  &&&\note{\noun, gender(?)}\\
+  &&&\\
+  &&vaa|ca&uvaaca\\
+  &&&= {\dn uvaaca}\\
+  &&&= (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1a&{\dn kaalo.asmi}&kaa|lo|&kaala.h\\
+  &&&= {\dn kaala.h}\\
+  &&&= time; verb tense; death\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn lokak.sayak.rtprav.rddho}&lo|ka|&loka.h\\
+  &&&= {\dn loka.h}\\
+  &&&= world; human race; place\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&k.sa|ya|&k.saya.h\\
+  &&&= {\dn k.saya.h}\\
+  &&&= decay; destruction\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&k.rt|&{\dn k.rt}\\
+  &&&= actor; worker; doer\\
+  &&&\note{\suffix}\\
+  &&&\\
+  &&pra|v.rd|dho&prav.rddha.h\\
+  &&&= {\dn prav.rddha.h}\\
+  &&&= prosperous; powerful; old\\
+  &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn lokaansamaahartumiha}&lo|kaan|&{\dn lokaan}\\
+  &&&= worlds; human race; places\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&&\\
+  &&sa|maa|har|tu|mi|&samaahartum\\
+  &&&= {\dn samaahartum}\\
+  &&&= to smite\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn samaah.r} = samaan.r}\\
+  &&&\\
+  &&ha&iha = {\dn iha} = in this world; here; now\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn prav.rtta.h}&pra|v.rt|ta\quad(|.h(a))&started\\
+  &&&\note{\adjective, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn .rte.api}&.r|te|&except\\
+  &&&\note{\preposition, \conjunction, \indeclinable}\\
+  &&&\\
+  &&'pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn bhavi.syanti}&bha|vi|.syan|ti&(they) will be\\
+  &&&\note{\verbb, \futuretensecertain}\\
+  &&&\note{\thirdperson, \plural}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn sarve}&sar|ve&each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn ye.avasthitaa.h}&ye|&{\dn ye} = (?) ones/who/what\\
+  &&&\note{\pronoun, \male}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\\
+  &&'va|sthi|taa\quad(|.h(aa))&avasthitaa.h\\
+  &&&= {\dn avasthitaa.h}\\
+  &&&= standing; steadfast\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn avasthita.h} = avasthita.h}\\
+  &&&\\
+  &{\dn pratyaniike.su}&pra|tya|nii|ke|.su&at/in/on opposite people/things\\
+  &&&\note{\adjective, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn pratyaniika.h} = pratyaniika.h}\\
+  &&&\\
+  &{\dn yodhaa.h}&yo|dhaa\quad(|.h(aa))&fighters; fights\\
+  &&&\note{\noun, \male, \plural}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
