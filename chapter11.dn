@@ -3383,7 +3383,7 @@ main syllables, instead of the usual eight.)\\
   &&&= {\dn samaahartum}\\
   &&&= to smite\\
   &&&\note{\verbb, \infinitive}\\
-  &&&\note{root: {\dn samaah.r} = samaan.r}\\
+  &&&\note{root: {\dn samaah.r} = samaah.r}\\
   &&&\\
   &&ha&iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3420,7 +3420,7 @@ main syllables, instead of the usual eight.)\\
   \hline
   &&&\\
   2b&{\dn ye.avasthitaa.h}&ye|&{\dn ye} = (?) ones/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&'va|sthi|taa\quad(|.h(aa))&avasthitaa.h\\
@@ -3435,6 +3435,7 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &{\dn yodhaa.h}&yo|dhaa\quad(|.h(aa))&fighters; fights\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn yodha.h} = yodha.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
