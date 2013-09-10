@@ -3560,3 +3560,128 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 34}
+
+(K.r.s.na said to Arjuna:)\\
+
+Dro.na and Bhii.sma and Jayadratha and Kar.na---likewise, other
+fighter-heroes, also---by me, (are) killed. You---do not abandon \dots
+(?) \dots. (Fight) \dots (?) \dots enemies. (You) are in a fight.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn dro.na.m}&dro|.na.m&dro.nam\\
+  &&&= {\dn dro.nam}\\
+  &&&= Dro.na\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dro.na.h} = dro.na.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn bhii.sma.m}&bhii|.sma.m&bhii.smam\\
+  &&&= {\dn bhii.smam}\\
+  &&&= Bhii.sma\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn bhii.sma.h} = bhii.sma.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn jayadratha.m}&ja|ya|dra|tha.m&jayadratham\\
+  &&&= {\dn jayadratham}\\
+  &&&= Jayadratha\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn jayadratha.h} = jayadratha.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn kar.na.m}&kar|.na.m&kar.nam\\
+  &&&= {\dn kar.nam}\\
+  &&&= Kar.na\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn kar.na.h} = kar.na.h}\\
+  &&&\\
+  &{\dn tathaanyaanapi}&ta|thaa|&{\dn tathaa} = thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&nyaa|na|&anyaan\\
+  &&&= {\dn anyaan}\\
+  &&&= people/things another; other; strange; different\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&&\\
+  &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn yodhaviiraan}&yo|dha|&yodha.h\\
+  &&&= {\dn yodha.h}\\
+  &&&= fighter; fight\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&vii|raan&{\dn viiraan}\\
+  &&&= heroes\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn viira.h} = viira.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn mayaa}&ma|yaa&using/by me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn hataa.mstva.m}&ha|taa.m|&hataan\\
+  &&&= {\dn hataan}\\
+  &&&= hit; hurt; killed\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn hata.h} = hata.h}\\
+  &&&\\
+  &&stva.m|&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &{\dn jahi}&ja|hi&(?) jahaatu\\
+  &&&= {\dn jahaatu}\\
+  &&&= (you) abandon\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn haa} = haa}\\
+  &&&\\
+  &{\dn maa}&maa&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn vyathi.s.thaa}&vya|thi|.s.thaa&vyathi.s.thaa.h\\
+  &&&= {\dn vyathi.s.thaa.h}\\
+  &&&= (?)\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn yudhyasva}&yu|dhya|sva&(?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn yudhyate} = yudhyate = (he/she/it) fights}\\
+  &&&\note{root: {\dn yudh} = yudh}\\
+  &&&\\
+  &{\dn jetaasi}&je|taa|&jetaa\\
+  &&&= {\dn jetaa}\\
+  &&&= (?)\\
+  &&&\\
+  &&si&asi = {\dn asi} = (you) are\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn ra.ne}&ra|.ne&at/in/on a/the fight\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn ra.nam} = ra.nam}\\
+  &&&\\
+  &{\dn sapatnaan}&sa|pat|naan&enemies\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn sapatna.h} = sapatna.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
