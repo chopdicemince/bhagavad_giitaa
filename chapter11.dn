@@ -3185,3 +3185,133 @@ instead of the usual eight.)\\
 \quad
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 31}
+
+(Arjuna said to K.r.s.na:)\\
+
+Say, surely, for me, who you---angry-form---(are). Be homage of you, O
+best deity (O K.r.s.na). Be pleased to know (that) I desire you
+first. Surely, I do not know the prediliction of you.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn aakhyaahi}&aa|khyaa|&{\dn aakhyaa}\\
+  &&&= (?) aakhyaatu\\
+  &&&= {\dn aakhyaatu}\\
+  &&&= (you) say\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn aakhyaa} = aakhyaa}\\
+  &&&\\
+  &&hi&{\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn ko}&ko&ka.h = {\dn ka.h} = who/what\\
+  &&&\note{\pronoun, \male}\\
+  &&&\\
+  &{\dn bhavaanugraruupo}&bha|vaa|nu|&bhavaan\\
+  &&&= {\dn bhavaan}\\
+  &&&= you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &&gra|&ugra\\
+  &&&= {\dn ugra}\\
+  &&&= angry; fierce; terrible\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ruu|po&ruupa.h\\
+  &&&= {\dn ruupa.h}\\
+  &&&= (?) ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form; mark; sign\\
+  &&&\note{\noun, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn namo.astu}&na|mo|&nama.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'stu&astu = {\dn astu} = (you) be\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn as} = as}\\
+  &&&\\
+  &{\dn te}&te&for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn devavara}&de|va|&deva.h\\
+  &&&= {\dn deva.h}\\
+  &&&= deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&va|ra&{\dn vara}\\
+  &&&= O best\\
+  &&&\note{\adjective, \male, \vocativecase}\\
+  &&&\note{from {\dn vara.h} = vara.h}\\
+  &&&\\
+  &{\dn prasiida}&pra|sii|da&(?) prasiidatu\\
+  &&&= {\dn prasiidatu}\\
+  &&&= (you) please; be pleased\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn prasad} = prasad}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn vij~naatumicchaami}&vi|j\~{}naa|tu|mic|&vij\~{}naatum\\
+  &&&= {\dn vij~naatum}\\
+  &&&= to know\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn vij~naa} = vij\~{}naa}\\
+  &&&\\
+  &&chaa|mi&icchaami\\
+  &&&= {\dn icchaami}\\
+  &&&= (I) wish; desire; like\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn i.s} = i.s}\\
+  &&&\\
+  &{\dn bhavantamaadya.m}&bha|van|ta|maa|&bhavantam\\
+  &&&= {\dn bhavantam}\\
+  &&&= you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn bhavaan} = bhavaan}\\
+  &&&\\
+  &&dya.m&aadyam\\
+  &&&= {\dn aadyam}\\
+  &&&= first\\
+  &&&\note{\adjective, \neuter(?)}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn prajaanaami}&pra|jaa|naa|mi&(I) know\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{from {\dn praj~naa} = praj\~{}naa}\\
+  &&&\\
+  &{\dn tava}&ta|va&of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn prav.rttim}&pra|vr.t|tim&prediliction; profession\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
