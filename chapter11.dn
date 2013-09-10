@@ -3805,3 +3805,112 @@ main syllables, instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 36}
+
+Arjuna said (to K.r.s.na):\\
+
+O K.r.s.na, in steadfastness of you, using celebration, the world
+rejoices and loves (you). (Demons)---(with) occurrences-of-fear---run
+(in every) direction, and all successful-groups pay homage.\\
+
+(Note: In this verse, except for line 0, each half-line has eleven
+main syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn sthaane}&sthaa|ne&at/in/on standing; staying; steadfastness\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn sthaanam} = sthaanam}\\
+  &&&\\
+  &{\dn h.r.siike"sa}&k.r|"sii|ke|"sa&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
+  &&&\\
+  &{\dn tava}&ta|va&of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn prakiirtyaa}&pra|kiir|tyaa&using/by celebration\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn prakiirti.h} = prakiirti.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&\multicolumn{3}{l}{\dn jagatprah.r.syatyanurajyate}\\
+  &&&\\
+  &&ja|gat|&{\dn jagat}\\
+  &&&= world\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&pra|h.r|.sya|tya|&prah.r.syati\\
+  &&&= {\dn prah.r.syati}\\
+  &&&= (he/she/it) is glad; rejoices\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn prah.r.s} = prah.r.s}\\
+  &&&\\
+  &&nu|ra|jya|te&anurajyate\\
+  &&&= {\dn anurajyate}\\
+  &&&= (?) anurajyati\\
+  &&&= {\dn anurajyati}\\
+  &&&= (he/she/it) loves\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn anuraj} = anuraj}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn rak.saa.msi}&ra|k.saa.m|si&(?)\\
+  &&&\note{similar: \noun, \neuter, {\dn rak.sas} = rak.sas}\\
+  &&&\note{= demon}\\
+  &&&\\
+  &{\dn bhiitaani}&bhii|taa|ni&(occurrences of) fear\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn bhiitam} = bhiitam}\\
+  &&&\\
+  &{\dn di"so}&di|"so&di"sa.h\\
+  &&&= {\dn di"sa.h}\\
+  &&&= (?) di"saa\\
+  &&&= {\dn di"saa}\\
+  &&&= direction\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn dravanti}&dra|van|ti&(they) flow; run; melt\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn dru} = dru}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn sarve}&sar|ve&each; all\\
+  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\\
+  &{\dn namasyanti}&na|ma|syan|ti&(they) pay homage\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn namasya} = namasya}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn siddhasa"nghaa.h}&sid|dha|&{\dn siddha}\\
+  &&&= successful\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&sa"n|ghaa\quad(|.h(aa))&{\dn sa"nghaa.h}\\
+  &&&= assemblies; associations; groups\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
