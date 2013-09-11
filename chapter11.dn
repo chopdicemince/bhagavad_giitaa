@@ -4170,3 +4170,127 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 39}
+
+(Arjuna said to K.r.s.na:)\\
+
+You (are) Vaayu (the god of wind), Yama (the god of death), Agni (the
+god of fire), Varu.na (the god of water), the moon, Brahma (God), and
+a paternal great-grandfather. Be homage, homage for you, a thousand
+doing(s), again and again, also, homage, homage for you.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&\multicolumn{3}{l}{\dn vaayuryamo.agnirvaru.na.h}\\
+  &&&\\
+  &&vaa|yur|&vaayu.h\\
+  &&&= {\dn vaayu.h}\\
+  &&&= god of wind; wind; air; breath\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ya|mo'g|&yama.h\\
+  &&&= {\dn yama.h}\\
+  &&&= god of death; control; restraint\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&nir|&agni.h\\
+  &&&= {\dn agni.h}\\
+  &&&= god of fire; fire; digestive fluid\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&va|ru|.na\quad(|.h(a))&{\dn varu.na.h}\\
+  &&&= god of water\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn "sa"saa"nka.h}&sa|"saa"n|ka\quad(|.h(a))&moon\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn prajaapatistva.m}&pra|jaa|pa|ti|&prajaapati.h\\
+  &&&= {\dn prajaapati.h}\\
+  &&&= Brahma\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&stva.m&tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\\
+  &{\dn prapitaamaha"sca}&pra|pi|taa|ma|ha"s|&prapitaamaha.h\\
+  &&&= {\dn prapitaamaha.h}\\
+  &&&= paternal great-grandfather\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn namo}&na|mo&nam.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn namaste.astu}&na|ma|&nama.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ste|&te = {\dn te} = for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &&'stu&astu = {\dn astu} = (you) be\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn sahasrak.rtva.h}&sa|ha|sra|&sahasra.h\\
+  &&&= {\dn sahasra.h}\\
+  &&&= thousand\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&k.r|tva\quad(|.h(a))&{\dn k.rtva.h}\\
+  &&&= (?)\\
+  &&&\note{similar: \adjective, {\dn k.rt} = k.rt}\\
+  &&&\note{= acting; working; doing}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn puna"sca}&pu|na"s|&puna.h\\
+  &&&= {\dn puna.h}\\
+  &&&= again\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn bhuuyo.api}&bhuu|yo|&bhuuya.h\\
+  &&&= {\dn bhuuya.h}\\
+  &&&= again\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&'pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn namo}&na|mo&nama.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn namaste}&na|ma|&nama.h\\
+  &&&= {\dn nama.h}\\
+  &&&= homage\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ste&te = {\dn te} = for you; of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
