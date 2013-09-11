@@ -4422,3 +4422,116 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 41}
+
+(Arjuna said to K.r.s.na:)\\
+
+Having thought, ``O friend,'' badly persistently, (I am) one (who)
+said, ``O K.r.s.na,'' ``O Yaadava,'' ``O friend,'' not (knowing) the
+greatness of you. This (situation), by me, (is) from error, using
+affection, yes/no?, also.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn sakheti}&sa|khe|&sakha\\
+  &&&= {\dn sakha}\\
+  &&&= O friend\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn sakha.h} = sakha.h}\\
+  &&&\\
+  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn matvaa}&ma|tvaa&having thought\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: (?) {\dn man} = man}\\
+  &&&\\
+  &{\dn prasabha.m}&pra|sa|bha.m&prasabham\\
+  &&&= {\dn prasabham}\\
+  &&&= badly persistently; importunately\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn yadukta.m}&ya|duk|&yat = {\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&ta.m&uktam\\
+  &&&= {\dn uktam}\\
+  &&&= said\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn he}&he&O\\
+  &&&\note{\interjection, \indeclinable}\\
+  &&&\\
+  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
+  &&&\\
+  &{\dn he}&he&O\\
+  &&&\note{\interjection, \indeclinable}\\
+  &&&\\
+  &{\dn yaadava}&yaa|da|va&O Yaadava\\
+  &&&\note{\noun, \male(?), \vocativecase}\\
+  &&&\note{from {\dn yaadava.h} = yaadava.h}\\
+  &&&\\
+  &{\dn he}&he&O\\
+  &&&\note{\interjection, \indeclinable}\\
+  &&&\\
+  &{\dn sakheti}&sa|khe|&sakha\\
+  &&&= {\dn sakha}\\
+  &&&= O friend\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn sakha.h} = sakha.h}\\
+  &&&\\
+  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn ajaanataa}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&jaa|na|taa&(?) ``know''\\
+  &&&\\
+  &{\dn mahimaana.m}&ma|hi|maa|na.m&(?)\\
+  &&&\note{similar: \noun, \female, {\dn mahimaa} = mahimaa}\\
+  &&&\note{= greatness}\\
+  &&&\\
+  &{\dn taveda.m}&ta|ve|&tava = {\dn tava} = of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &&da.m&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn mayaa}&ma|yaa&using/by me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn pramaadaatpra.nayena}&pra|maa|daat|&{\dn pramaadaat}\\
+  &&&= from carelessness; error\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{from {\dn pramaada.h} = pramaada.h}\\
+  &&&\\
+  &&pra|.na|ye|na&{\dn pra.nayena}\\
+  &&&= using/by affection; friendship; love\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn pra.naya.h} = pra.naya.h}\\
+  &&&\\
+  &{\dn vaapi}&vaa|&{\dn vaa} = ``yes/no question''\\
+  &&&\\
+  &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
