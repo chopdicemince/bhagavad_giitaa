@@ -4918,3 +4918,128 @@ instead of the usual eight.)\\
 \quad
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 45}
+
+(Arjuna said to K.r.s.na:)\\
+
+(Your form), not seen previously, (I) am happy, having seen (it). The
+mind of me is using fear and (is) pained. Really, show that form for
+me, O deity (O K.r.s.na). Pardon (me) O deity-lord (O K.r.s.na), O
+world-residence (O K.r.s.na).\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn ad.r.s.tapuurva.m}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&d.r|.s.ta|&{\dn d.r.s.ta}\\
+  &&&= seen\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&puur|va.m&puurvam\\
+  &&&= {\dn puurvam}\\
+  &&&= previously\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn h.r.sito.asmi}&h.r|.si|to|&h.r.sita.h\\
+  &&&= {\dn h.r.sita.h}\\
+  &&&= happy\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&'smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn d.r.s.tvaa}&dr|.s.tvaa&having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn bhayena}&bha|ye|na&using/by fear\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn bhayam} = bhayam}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn pravyathita.m}&pra|vya|thi|ta.m&pravyathitam\\
+  &&&= {\dn pravyathitam}\\
+  &&&= pained; perturbed\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn mano}&ma|no&mana.h\\
+  &&&= {\dn mana.h}\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tadeva}&ta|de|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn dar"saya}&dar|"sa|ya&dar"sayatu\\
+  &&&= {\dn dar"sayatu}\\
+  &&&= (you) show\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn d.r"s} = d.r"s}\\
+  &&&\\
+  &{\dn deva}&de|va&O deity\\
+  &&&= O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn deva.h} = deva.h}\\
+  &&&\\
+  &{\dn ruupa.m}&ruu|pa.m&ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form; mark; sign\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn prasiida}&pra|sii|da&prasiidatu\\
+  &&&= {\dn prasiidatu}\\
+  &&&= (you) pardon; are pleased; are clear\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{root: {\dn prasad} = prasad}\\
+  &&&\\
+  &{\dn deve"sa}&de|ve|&deva.h\\
+  &&&= {\dn deva.h}\\
+  &&&= deity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&"sa&ii"sa\\
+  &&&= {\dn ii"sa}\\
+  &&&= O lord\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ii"sa.h} = ii"sa.h}\\
+  &&&\\
+  &{\dn jagannivaasa}&ja|gan|&jagat\\
+  &&&= {\dn jagat}\\
+  &&&= world\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ni|vaa|sa&{\dn nivaasa}\\
+  &&&= O residence\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn nivaasa.h} = nivaasa.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
