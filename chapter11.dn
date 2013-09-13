@@ -5157,3 +5157,148 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 47}
+
+God (K.r.s.na) said (to Arjuna):\\
+
+By me, by pleasure of you, O Arjuna, this paramount form is
+shown---(my) self, from yoking---(my) univers(al), non-end(ing), first
+splendor. For me, not another person from (besides) you---not one
+(has) seen (it) previously.\\
+
+(Note: In this verse, except for line 0, each half-line has eleven
+main syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii}\\
+  &&&= ``title of respect''\\
+  &&&\\
+  &&bha|ga|vaa|nu|&bhagavaan\\
+  &&&= {\dn bhagavaan}\\
+  &&&= God\\
+  &&&\note{\noun, gender(?)}\\
+  &&&\\
+  &&vaa|ca&uvaaca\\
+  &&&= {\dn uvaaca}\\
+  &&&= (he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn mayaa}&ma|yaa&using/by me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn prasannena}&pra|san|ne|na&using/by pleasure; happiness\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn prasanna.h} = prasanna.h}\\
+  &&&\\
+  &{\dn tavaarjuneda.m}&ta|vaar|&tava = {\dn tava} = of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &&ju|ne|&arjuna\\
+  &&&= {\dn arjuna}\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn arjuna.h} = arjuna.h}\\
+  &&&\\
+  &&da.m&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn ruupa.m}&ruu|pa.m&ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form; mark; sign\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn para.m}&pa|ra.m&param\\
+  &&&= {\dn param}\\
+  &&&= parmamount; another; other; different; strange\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn dar"sitamaatmayogaat}&dar|"si|ta|maat|&dar"sitam\\
+  &&&= {\dn dar"sitam}\\
+  &&&= shown\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &&ma|&aatma\\
+  &&&= {\dn aatma}\\
+  &&&= self\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&yo|gaat&{\dn yogaat}\\
+  &&&= from yoking\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{from {\dn yoga.h} = yoga.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tejomaya.m}&te|jo|&teja.h\\
+  &&&= {\dn teja.h}\\
+  &&&= splendor; power\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ma|ya.m&mayam\\
+  &&&= {\dn mayam}\\
+  &&&= (?)\\
+  &&&\\
+  &{\dn vi"svamanantamaadya.m}&vi|"sva|ma|&vi"svam\\
+  &&&= {\dn vi"svam}\\
+  &&&= universe\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&nan|&an = {\dn an} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&ta|maa|&antam\\
+  &&&= {\dn antam}\\
+  &&&= end\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&dya.m&aadyam\\
+  &&&= {\dn aadyam}\\
+  &&&= first\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn yanme}&yan|&yat = {\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&me&{\dn me} = for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn tvadanyena}&tva|da|&tvat = {\dn tvat} = from you\\
+  &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&nye|na&anyena\\
+  &&&= {\dn anyena}\\
+  &&&= using/by a/the person/thing another; other; different; strange\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn d.r.s.tapuurvam}&d.r|.s.ta|&{\dn d.r.s.ta}\\
+  &&&= seen\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&puur|vam&{\dn puurvam}\\
+  &&&= previously\\
+  &&&\note{\adverb}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
