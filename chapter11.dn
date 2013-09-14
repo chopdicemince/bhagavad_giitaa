@@ -5553,3 +5553,136 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 50}
+
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+
+Thus, thus, K.r.s.na, having said (things) (to) Arjuna, (showed) the
+self form (of K.r.s.na) again. And (K.r.s.na) (encouraged) the fearful
+him (Arjuna), (with K.r.s.na's) again having been a mild-body (and a)
+great-self.\\
+
+(Note: In this verse, except for line 0, each half-line has eleven
+main syllables, instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn ityarjuna.m}&i|tyar|&iti = {\dn iti} = thus; ``end of quote''\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ju|na.m&arjunam\\
+  &&&= {\dn arjunam}\\
+  &&&= Arjuna\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn arjuna.h} = arjuna.h}\\
+  &&&\\
+  &{\dn vaasudevastathoktvaa}&vaa|su|de|va|sta|&vaasudeva.h\\
+  &&&= {\dn vaasudeva.h}\\
+  &&&= Vaasudeva\\
+  &&&= K.r.s.na\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&thok|&tathaa = {\dn tathaa} = thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&tvaa&uktvaa\\
+  &&&= {\dn uktvaa}\\
+  &&&= having said\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn vad} = vad}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn svaka.m}&sva|ka.m&svakam\\
+  &&&= {\dn svakam}\\
+  &&&= self\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn ruupa.m}&ruu|pa.m&ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form; mark; sign\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn dar"sayaamaasa}&dar|"sa|yaa|maa|&dar"sayaam\\
+  &&&= {\dn daar"sayaam}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn dar"sayati} = dar"sayati = (he/she/it) shows}\\
+  &&&\note{root: {\dn d.r"s} = d.r"s}\\
+  &&&\\
+  &&sa&aasa\\
+  &&&= {\dn aasa}\\
+  &&&= (?)\\
+  &&&\\
+  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&again\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn aa"svaasayaamaasa}&aa|"svaa|sa|yaa|maa|&aa"svaasayaam\\
+  &&&= {\dn aa"svaasayaam}\\
+  &&&= (?)\\
+  &&&\note{similar: \verbb, \presenttense}\\
+  &&&\note{\thirdperson, \singular}\\
+  &&&\note{{\dn aa"svaasayati} = aa"svaasayati}\\
+  &&&\note{= (he/she/it) comforts; encourages}\\
+  &&&\note{root: {\dn aa"svas} = aa"svas}\\
+  &&&\\
+  &&sa&aasa\\
+  &&&= {\dn aasa}\\
+  &&&= (?)\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn bhiitamena.m}&bhii|ta|me|&bhiitam\\
+  &&&= {\dn bhiitam}\\
+  &&&= fearful\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn bhiita.h} = bhiita.h}\\
+  &&&\\
+  &&na.m&enam = {\dn enam}\\
+  &&&= (?) he/she/it/him/her/this/that\\
+  &&&\note{\pronoun, \thirdperson}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn bhuutvaa}&bhuu|tvaa&having been\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn puna.h}&pu|na\quad(|.h(a))&again\\
+  &&&\note{\adverb}\\
+  &&&\\
+  &{\dn saumyavapurmahaatmaa}&sau|mya|&{\dn saumya}\\
+  &&&= mild; pleasant\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&va|pur|&vapu.h\\
+  &&&= {\dn vapu.h}\\
+  &&&= body\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ma|haat|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= great\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&maa&aatmaa\\
+  &&&= {\dn aatmaa}\\
+  &&&= self; soul\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
