@@ -5686,3 +5686,104 @@ main syllables, instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 11, Verse 51}
+
+Arjuna said (to K.r.s.na):\\
+
+Having seen this mild man form of you, O people-distress (O K.r.s.na),
+I am happened (I am in good) consciousness, (and my) primal form (is)
+gone.\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn d.r.s.tveda.m}&d.r|.s.tve|&d.r.s.tvaa\\
+  &&&= {\dn d.r.s.tvaa}\\
+  &&&= having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  &&&\\
+  &&da.m&idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn maanu.sa.m}&maa|nu|.sa.m&maanu.sam\\
+  &&&= {\dn maanu.sam}\\
+  &&&= man\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn maanu.sa.h} = maanu.sa.h}\\
+  &&&\\
+  &{\dn ruupa.m}&ruu|pa.m&ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form; mark; sign\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn tava}&ta|va&of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&\note{from {\dn tvam} = tvam}\\
+  &&&\\
+  &{\dn saumya.m}&sau|mya.m&sauymam\\
+  &&&= {\dn saumyam}\\
+  &&&= mild; pleasant\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn janaardana}&ja|naar|&jana.h\\
+  &&&= {\dn jana.h}\\
+  &&&= person; group of people\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&da|na&ardana\\
+  &&&= {\dn ardana}\\
+  &&&= O distress; destruction\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{from {\dn ardanam} = ardanam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn idaaniimasmi}&idaa|nii|ma|&idaanim = {\dn idaaniim} = now\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&smi&asmi = {\dn asmi} = (I) am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&&\\
+  &{\dn sa.mv.rtta.h}&sa.m|v.rt|ta\quad(|.h(a))&happened\\
+  &&&\note{\adjective, \male}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn sacetaa.h}&sa|&{\dn sa}\\
+  &&&= (?)\\
+  &&&\\
+  &&ce|taa\quad(|.h(aa))&{\dn cetaa.h}\\
+  &&&= consciousness; minds\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{from {\dn ceta.h} = ceta.h}\\
+  &&&\\
+  &{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
+  &&&= {\dn prak.rtim}\\
+  &&&= primal form\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
+  &&&\\
+  &{\dn gata.h}&ga|ta\quad(|.h(a))&gone\\
+  &&&\note{\adjective, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
