@@ -1,0 +1,95 @@
+\chapter*{Chapter 13}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 13, Verse 1}
+
+Arjuna said (to K.r.s.na):\\
+
+The primal form, man, and really, the place, really, and the
+place-knower---(I) wish to know this knowledge (and) (thing) to be
+known, O K.r.s.na.\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|jun|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim = {\dn prak.rtim} = primal form\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
+  &&&\\
+  &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
+  &&&= {\dn puru.sam}\\
+  &&&= man; spirit; soul; God\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn puru.sa.h} = puru.s.ah}\\
+  &&&\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn k.setra.m}&k.se|tra.m&k.setram = {\dn k.setram} = place\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn k.setraj~nameva}&k.se|tra|&k.setram = {\dn k.setram} = place\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&j\~{}na|me|&j\~{}nam = {\dn j~nam} = knowing\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn etadveditumicchaami}\\
+  &&&\\
+  &&e|ta|dve|&etat = {\dn etat} = this/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&di|tu|mic|&veditum\\
+  &&&= {\dn veditum}\\
+  &&&= to know\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: (?)}\\
+  &&&\\
+  &&chaa|mi&icchaami\\
+  &&&= {\dn icchaami}\\
+  &&&= (I) wish; desire; like\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn i.s} = i.s}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
+  &&&= {\dn j~neyam}\\
+  &&&= to be known\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
