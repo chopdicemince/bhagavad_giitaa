@@ -570,3 +570,73 @@ moving \dots\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 13, Verse 7}
+
+(K.r.s.na said to Arjuna:)\\
+
+\dots desire, detestation, happiness, distress, group, sense,
+steadfastness---this place, using joining, (is) changing, (it is)
+said.\\
+
+\begin{tabular}{llll}
+  1a&{\dn icchaa}&ic|chaa&wish; desire\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn dve.sa.h}&dve|.sa\quad(|.h(a))&detestation\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn sukha.m}&su|kha.m&sukham\\
+  &&&= {\dn sukham}\\
+  &&&= happiness\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn du.hkha.m}&du.h|kha.m&du.hkham\\
+  &&&= {\dn du.hkham}\\
+  &&&= distress\\
+  &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn sa"nghaata"scetanaa}&sa"n|ghaa|ta"s|&sa"nghaata.h\\
+  &&&= {\dn sa"nghaata.h}\\
+  &&&= group\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ce|ta|naa&{\dn cetanaa}\\
+  &&&= sense\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn dh.rti.h}&dh.r|ti\quad(|.h(i))&steadfastness\\
+  &&&\note{\noun, \female}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn etatk.setra.m}&e|tat|&{\dn etat} = this/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&k.se|tra.m&k.setram\\
+  &&&= {\dn k.setram}\\
+  &&&= place\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn samaasena}&sa|maa|se|na&using/by joining\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn samaasa.h} = samaasa.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&\multicolumn{3}{l}{\dn savikaaramudaah.rtam}\\
+  &&&\\
+  &&sa|vi|kaa|ra|mu|&savikaaram\\
+  &&&= {\dn savikaaram}\\
+  &&&= changing\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &&daa|h.r|tam&udaah.rtam\\
+  &&&= {\dn udaah.rtam}\\
+  &&&= said\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
