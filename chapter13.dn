@@ -23,9 +23,7 @@ known, O K.r.s.na.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
-  &&&= {\dn puru.sam}\\
-  &&&= man; spirit; soul; God\\
+  &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam = {\dn puru.sam} = man; spirit; soul; God\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn puru.sa.h} = puru.s.ah}\\
   &&&\\
@@ -39,12 +37,14 @@ known, O K.r.s.na.\\
   &&&\\
   1b&{\dn k.setra.m}&k.se|tra.m&k.setram = {\dn k.setram} = place\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn k.setraj~nameva}&k.se|tra|&k.setram = {\dn k.setram} = place\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&j\~{}na|me|&j\~{}nam = {\dn j~nam} = knowing\\
   &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -59,12 +59,13 @@ known, O K.r.s.na.\\
   &&&\\
   &&e|ta|dve|&etat = {\dn etat} = this/it\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&di|tu|mic|&veditum\\
   &&&= {\dn veditum}\\
   &&&= to know\\
   &&&\note{\verbb, \infinitive}\\
-  &&&\note{root: (?)}\\
+  &&&\note{root: (?) {\dn vid} = vid}\\
   &&&\\
   &&chaa|mi&icchaami\\
   &&&= {\dn icchaami}\\
@@ -78,6 +79,7 @@ known, O K.r.s.na.\\
   &&&= {\dn j~naanam}\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
   &&&= {\dn j~neyam}\\
