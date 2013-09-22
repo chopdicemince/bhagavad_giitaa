@@ -2231,3 +2231,96 @@ action-yoking.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 13, Verse 26}
+
+(K.r.s.na said to Arjuna:)\\
+
+But, really, in another (person)---not-knowledgeable---having heard
+(things) in (from) another person \dots (?) \dots, (he) pays
+homage. And also, those (people) travel through death, dependent on
+hearing.\\
+
+\begin{tabular}{llll}
+  1a&{\dn anye}&a|nye&at/in/on a/the person/thing\\
+  &&&another; other; different; strange\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&&\\
+  &{\dn tvevamajaananta.h}&tve|&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&va|ma|&evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&jaa|nan|ta\quad(|.h(a))&{\dn jaananta.h} = (?)\\
+  &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn "srutvaanyebhya}&"sru|tvaa|&{\dn "srutvaa}\\
+  &&&= having heard\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn "sru} = "sru}\\
+  &&&\\
+  &&nye|&anye\\
+  &&&= {\dn anye}\\
+  &&&= at/in/on a/the person/thing\\
+  &&&another; other; different; strange\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&&\\
+  &&bhya&bhya.h\\
+  &&&= {\dn bhya.h}\\
+  &&&= (?)\\
+  &&&\\
+  &{\dn upaasate}&u|paa|sa|te&(?) upaaste\\
+  &&&= {\dn upaaste}\\
+  &&&= (he/she/it) sits near; pays homage; waits\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn upaas} = upaas}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn te.api}&te|&{\dn te} = those/they\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &&'pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caatitarantyeva}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&ti|ta|ran|tye|&atitaranti\\
+  &&&= {\dn atitaranti}\\
+  &&&= (they) travel through\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn t.R} = t.rr}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn m.rtyu.m}&m.r|tyu.m&m.rtyum\\
+  &&&= {\dn m.rtyum}\\
+  &&&= death\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn m.rtyu.h} = m.rtyu.h}\\
+  &&&\\
+  &{\dn "srutiparaaya.naa.h}&"sru|ti|&"sruti.h\\
+  &&&= {\dn "sruti.h}\\
+  &&&= ear; hearing; knowledge\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&pa|raa|ya|.naa\quad(|.h(aa))&{\dn paraaya.naa.h}\\
+  &&&= dependent on; paramount\\
+  &&&\note{\suffix, \male, \plural}\\
+  &&&\note{from {\dn paraaya.na.h} = paraaya.na.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
