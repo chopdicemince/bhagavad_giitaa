@@ -585,3 +585,90 @@ action-sticking.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 14, Verse 8}
+
+(K.r.s.na said to Arjuna:)\\
+
+But (know that) ignorance (is) non-knowledge-born---the confusion (of)
+all beings. It binds, using (occurrences of) carelessness, laziness,
+(and) sleep, O descendant of Bharata (O Arjuna).\\
+
+\begin{tabular}{llll}
+  1a&{\dn tamastvaj~naanaja.m}&ta|ma|&tama.h = {\dn tama.h} = darkness; ignorance; hell\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&stva|&tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&j\~{}naa|na|&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ja.m&jam\\
+  &&&= {\dn jam}\\
+  &&&= born\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn viddhi}&vid|dhi&viddhi.h\\
+  &&&= {\dn viddhi.h}\\
+  &&&= piercing; knowing\\
+  &&&\note{\noun, \female}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn mohana.m}&mo|ha|na.m&mohanam\\
+  &&&= {\dn mohanam}\\
+  &&&= confusion\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn sarvadehinaam}&sar|va|&{\dn sarva}\\
+  &&&= each; all\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&de|hi|naam&{\dn dehinaam}\\
+  &&&= (?) of beings; spirits; men; creatures\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{from {\dn dehin} = dehin}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn pramaadaalasyanidraabhistannibadhnaati}\\
+  &&&\\
+  &&pra|maa|daa|&pramaada.h\\
+  &&&= {\dn pramaada.h}\\
+  &&&= carelessness; mistake; madness\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&la|sya|&aalasyam\\
+  &&&= {\dn aalasyam}\\
+  &&&= laziness\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&ni|draa|bhi|&nidraabhi.h\\
+  &&&= {\dn nidraabhi.h}\\
+  &&&= using/by (occurrences of) sleep; sleepiness\\
+  &&&\note{\noun, \female, \plural, \instrumentalcase}\\
+  &&&\note{from {\dn nidraa} = nidraa}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&&stan|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&ni|badh|naa|ti&{\dn nibadhnaati}\\
+  &&&= (he/she/it) binds\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn nibandh} = nibandh}\\
+  &&&\\
+  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
