@@ -328,3 +328,102 @@ syllables.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 15, Verse 4}
+
+(K.r.s.na said to Arjuna:)\\
+
+\dots From there, that step to be sought after, in which, gone,
+(people) do not return again. And really, (a person) seeks refuge with
+him, the the older God, from whom action (is) spread (among) cities.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn tata.h}&ta|ta\quad(|.h(a))&from there\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn pada.m}&pa|da.m&padam = {\dn padam} = foot; step; term\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&pa|ri|maar|gi|ta|vya.m&parimaargitavyam\\
+  &&&= {\dn parimaargitavyam}\\
+  &&&= to be sought after\\
+  &&&\note{\adjective, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn yasmingataa}&ya|smin|&{\dn yasmin}\\
+  &&&= (?) at/in/on one/whom/what\\
+  &&&\note{\pronoun, \neuter, \locativecase}\\
+  &&&\note{from {\dn idam} = idam = one/who/what}\\
+  &&&\\
+  &&ga|taa&gataa.h = {\dn gataa.h} = gone\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{from {\dn gata.h} = gata.h}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn nivartanti}&ni|var|tan|ti&(?) nivartante\\
+  &&&= {\dn nivartante}\\
+  &&&= (they) vanish; stop; retreat; return\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn niv.rt} = niv.rt}\\
+  &&&\\
+  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&again\\
+  &&&\note{\adverb, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tameva}&ta|me|&tam = {\dn tam} = that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caadya.m}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&dya.m&aadyam\\
+  &&&= {\dn aadyam}\\
+  &&&= older; earlier; previous\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn aadya.h} = aadya.h}\\
+  &&&\\
+  &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
+  &&&= {\dn puru.sam}\\
+  &&&= man; spirit; soul; God\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
+  &&&\\
+  &{\dn prapadye}&pra|pa|dye&(?) prapadyate\\
+  &&&= {\dn prapadyate}\\
+  &&&= (he/she/it) attains; seeks refuge with\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn prapad} = prapad}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn yata.h}&ya|ta\quad(|.h(a))&(?) from one/whom/what\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn prav.rtti.h}&pra|v.rt|ti\quad(|.h(i))&tendency; behavior; action; work; doing\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn pras.rtaa}&pra|s.r|taa&streched; spread\\
+  &&&\note{\adjective, \female}\\
+  &&&\\
+  &{\dn puraa.nii}&pu|raa|.nii&towns; cities\\
+  &&&\note{\noun, \neuter, \plural}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
