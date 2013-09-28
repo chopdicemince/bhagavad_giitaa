@@ -560,3 +560,87 @@ instead of the usual eight.)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 15, Verse 6}
+
+(K.r.s.na said to Arjuna:)\\
+
+The sun does not shine on that (on the residence of me). Nor the
+moon. Nor fire. One, having gone (to) that paramount residence of me,
+does not return.\\
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&bhaa|sa|ya|te&{\dn bhaasayate}\\
+  &&&= (he/she/it) shows; shines on\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn bhaas} = bhaas}\\
+  &&&\\
+  &{\dn suuryo}&suur|yo&suurya.h\\
+  &&&= {\dn suurya.h}\\
+  &&&= sun; god of the sun\\
+  &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn "sa"saa"nko}&"sa|"saa"n|ko&"sa"saa"nka.h\\
+  &&&= {\dn "sa"saa"nka.h}\\
+  &&&= moon\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn paavaka.h}&paa|va|ka\quad(|.h(a))&fire; god of fire; saint\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn yadgatvaa}&yad|&yat = {\dn yat} = (?) one/who/what\\
+  &&&\note{\pronoun, \neuter}\\
+  &&&\\
+  &&ga|tvaa&{\dn gatvaa}\\
+  &&&= having gone\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn gam} = gam}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn nivartante}&ni|var|tan|te&(they) vanish; stop; retreat; return\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{root: {\dn niv.rt} = niv.rt}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&dhaa|ma&dhaamam\\
+  &&&= {\dn dhaamam}\\
+  &&&= residence\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn parama.m}&pa|ra|ma.m&paramam\\
+  &&&= {\dn paramam}\\
+  &&&= paramount; different\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn mama}&ma|ma&of me (my)\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
