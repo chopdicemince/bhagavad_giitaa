@@ -207,3 +207,124 @@ instead of the usual eight.)\\
 \quad
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 15, Verse 3}
+
+(K.r.s.na said to Arjuna:)\\
+
+In this world, thus, (a person) does not learn the form of this
+(tree): not the end, and not the beginning, and not the
+permanence. Using the rigid weapon (of) non-association, having cut
+this good-born-root fig tree, \dots\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight. Exception: half-line 1a has twelve main
+syllables.)\\
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ruupamasyeha}&ruu|pa|ma|&ruupam\\
+  &&&= {\dn ruupam}\\
+  &&&= form\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&sye|&asya = {\dn asya} = of this\\
+  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
+  &&&\note{from {\dn idam} = idam}\\
+  &&&\\
+  &&ha&iha = {\dn iha} = in this world; here; now\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn tathopalabhyate}&ta|tho|&tathaa = {\dn tathaa} = thus; likewise\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&pa|la|bhya|te&upalabhyate\\
+  &&&= {\dn upalabhyate}\\
+  &&&= (?) upalabhate\\
+  &&&= {\dn upalabhate}\\
+  &&&= (he/she/it) learns; gets\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn upalabh} = upalabh}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&{\dn naanto}&naan|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&to&anta.h\\
+  &&&= {\dn anta.h}\\
+  &&&= end\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caadirna}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&dir|&aadi.h\\
+  &&&= {\dn aadi.h}\\
+  &&&= beginning\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&na&{\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn samprati.s.thaa}&sam|pra|ti|.s.thaa&high rank; permanence; perserverance\\
+  &&&\note{\noun, \female}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn a"svatthamena.m}&a|"svat|tha|me|&a"svattham\\
+  &&&= {\dn a"svattham}\\
+  &&&= fig tree\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn a"svattha.h} = a"svattha.h}\\
+  &&&\\
+  &&na.m&enam = {\dn enam} = this/that/he/she/it\\
+  &&&\note{\pronoun, \thirdperson}\\
+  &&&\\
+  &{\dn suviruu.dhamuulam}&su|&{\dn su} = good; very\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&vi|ruu|.dha|&{\dn viruu.dha}\\
+  &&&= born\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&muu|lam&{\dn muulam}\\
+  &&&= root; base; origin\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn asa"nga"sastre.na}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&sa"n|ga|&sa"nga.h\\
+  &&&= {\dn sa"nga.h}\\
+  &&&= sticking; association\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&"sa|stre|.na&{\dn "sastre.na}\\
+  &&&= using/by a/the weapon\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn "sastram} = "sastram}\\
+  &&&\\
+  &{\dn d.r.dhena}&d.r|.dhe|na&using/by a/the person/thing rigid; hard; steadfast\\
+  &&&\note{\adjective, \male, \instrumentalcase}\\
+  &&&\note{from {\dn d.r.dha.h} = d.r.dha.h}\\
+  &&&\\
+  &{\dn chittvaa}&chit|tvaa&having cut\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{root: {\dn chid} = chid}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
