@@ -262,3 +262,86 @@ female deity, O son of Bharata (O Arjuna).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 16, Verse 4}
+
+(K.r.s.na said to Arjuna:)\\
+
+Deceit, pride, and pride [sic], anger, and roughness, really, and
+non-knowledge (are) the wealth of a person born (to) a female demon, O
+prince (O Arjuna).\\
+
+\begin{tabular}{llll}
+  1a&{\dn dambho}&dam|bho&dambha.h\\
+  &&&= {\dn dambha.h}\\
+  &&&= deceit; feigning; hypocrisy\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn darpo.abhimaana"sca}&dar|po|&darpa.h\\
+  &&&= {\dn darpa.h}\\
+  &&&= pride\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'bhi|maa|na"s|&abhimaana.h\\
+  &&&= {\dn abhimaana.h}\\
+  &&&= pride\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ca&{\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn krodha.h}&kro|dha\quad(|.h(a))&anger\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn paaru.syameva}&paa|ru|.sya|me|&paaru.syam\\
+  &&&= {\dn paaru.syam}\\
+  &&&= roughness; harshness; insult\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn aj~naana.m}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&j\~{}naa|na.m&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn caabhijaatasya}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&bhi|jaa|ta|sya&abhijaatasya\\
+  &&&= {\dn abhijaatasya}\\
+  &&&= of a/the person/thing born\\
+  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{from {\dn abhijaata.h} = abhijaata.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn sampadamaasuriim}&sam|pa|da|maa|&sampadam\\
+  &&&= {\dn sampadam}\\
+  &&&= wealth\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&su|riim&aasuriim\\
+  &&&= {\dn aasuriim}\\
+  &&&= female demon\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn aasurii} = aasurii}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
