@@ -511,3 +511,183 @@ Arjuna), hear (about) the demon (from) me.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 16, Verse 7}
+
+(K.s.r.na said to Arjuna:)\\
+
+Demon living things (know) no proclivity, and no stopping. Also, no
+purity, and no good behavior, (and) no truth is in them.\\
+
+\begin{tabular}{llll}
+  1a&{\dn prav.rtti.m}&pra|v.rt|ti.m&prav.rttim\\
+  &&&= {\dn prav.rttim}\\
+  &&&= proclivity; behavior; action; work; doing\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn niv.rtti.m}&ni|v.rt|ti.m&niv.rttim\\
+  &&&= {\dn niv.rttim}\\
+  &&&= stopping\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn niv.rtti.h} = niv.rtti.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn janaa}&ja|naa&janaa.h\\
+  &&&= {\dn janaa.h}\\
+  &&&= men; people; living things\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn jana.h} = jana.h}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn viduraasuraa.h}&vi|du|raa&vidu.h\\
+  &&&= {\dn vidu.h}\\
+  &&&= intelligent; wise\\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&su|raa\quad(|.h(aa))&aasuraa.h\\
+  &&&= {\dn aasuraa.h}\\
+  &&&= demons\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{from {\dn aasura.h} = aasura.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn "sauca.m}&"sau|ca.m&"saucam\\
+  &&&= {\dn "saucam}\\
+  &&&= purity; cleanliness\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn naapi}&naa|&na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&pi&api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn caacaaro}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&caa|ro&aacaara.h\\
+  &&&= {\dn aacaara.h}\\
+  &&&= good behavior; customary behavior\\
+  &&&\note{\noun, \male}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn satya.m}&sa|tya.m&satyam\\
+  &&&= {\dn satyam}\\
+  &&&= truth\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn te.su}&te|.su&at/in/on those/them\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 16, Verse 8}
+
+(K.r.s.na said to Arjuna:)\\
+
+Those (demons) (say) (that) the world (is) non-(true), non-steadfast,
+non-restrained, (and) non-mutual-born. What else, (besides)
+sexual-desire-(motive)?\\
+
+\begin{tabular}{llll}
+  1a&{\dn asatyamaprati.s.tha.m}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&sa|tya|ma|&satyam\\
+  &&&= {\dn satyam}\\
+  &&&= truth\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&pra|ti|.s.tha.m&prati.s.tham\\
+  &&&= {\dn prati.s.tham}\\
+  &&&= steadfast\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\\
+  &{\dn te}&te&those/they\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&\multicolumn{3}{l}{\dn jagadaahuranii"svaram}\\
+  &&&\\
+  &&ja|ga|daa|&jagat\\
+  &&&= {\dn jagat}\\
+  &&&= world\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&hu|ra|&aahu.h\\
+  &&&= {\dn aahu.h}\\
+  &&&= (?) ``say''\\
+  &&&\\
+  &&nii|"sva|ram&anii"svaram\\
+  &&&= {\dn anii"svaram}\\
+  &&&= not restrained\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn aparasparasambhuuta.m}\\
+  &&&\\
+  &&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&pa|ra|spa|ra&{\dn paraspara}\\
+  &&&= mutual\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&sam|bhuu|ta.m&sambhuutam\\
+  &&&= {\dn sambhuutam}\\
+  &&&= born\\
+  &&&\note{\adjective, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&\multicolumn{3}{l}{\dn kimanyatkaamahaitukam}\\
+  &&&\\
+  &&ki|ma|&kim = {\dn kim} = what\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\\
+  &&nyat|&anyat\\
+  &&&= {\dn anyat}\\
+  &&&= another; other; else\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&kaa|ma|&kaama.h\\
+  &&&= {\dn kaama.h}\\
+  &&&= sexual love; love; desire\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&hai|tu|kam&{\dn haitukam}\\
+  &&&= caused by; motivated by\\
+  &&&\note{\adjective, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
