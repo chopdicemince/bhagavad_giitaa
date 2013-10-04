@@ -1606,3 +1606,90 @@ in bodies.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 16, Verse 19}
+
+(K.r.s.na said to Arjuna:)\\
+
+I strike those (who are) detesting, terrible-in-lives, man-lowest,
+eternally non-auspicious, in female demons, really, in stations in
+life.\\
+
+\begin{tabular}{llll}
+  1a&{\dn taanaha.m}&taa|na|&taan = {\dn taan} = those/them\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn dvi.sata.h}&dvi|.sa|ta\quad(|.h(a))&(?) detesting\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn dvi.sat} = dvi.sat}\\
+  &&&\\
+  &{\dn kruuraansa.msaare.su}&kruu|raan|&{\dn kruuraan}\\
+  &&&= terrible\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn kruura.h} = kruura.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&&sa.m|saa|re|.su&{\dn sa.msaare.su}\\
+  &&&= at/in/on lives\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn sa.msaara.h} = sa.msaara.h}\\
+  &&&\\
+  &{\dn naraadhamaan}&na|raa|&nara.h\\
+  &&&= {\dn nara.h}\\
+  &&&= man\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&dha|maan&adhamaan\\
+  &&&= {\dn adhamaan}\\
+  &&&= lowest; worst\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn adha.h} = adha.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn k.sipaamyajasrama"subhaanaasurii.sveva}\\
+  &&&\\
+  &&k.si|paa|mya|&k.sipaami\\
+  &&&= {\dn k.sipaami}\\
+  &&&= (I) strike; destroy\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{root: {\dn k.sip} = k.sip}\\
+  &&&\\
+  &&ja|sra|ma|&ajasram\\
+  &&&= {\dn ajasram}\\
+  &&&= eternally\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&"su|bhaa|&"subhaan\\
+  &&&= {\dn "subhaan}\\
+  &&&= auspicious\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{from {\dn "subha.h} = "subha.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&&naa|su|rii|.sve|&aasurii.su\\
+  &&&= {\dn aasurii.su}\\
+  &&&= (?) at/in/on female demons\\
+  &&&\note{\noun, \female, \plural, \locativecase}\\
+  &&&\note{from: {\dn aasurii} = aasurii}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn yoni.su}&yo|ni|.su&at/in/on births; female genitals;\\
+  &&&stations in life\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn yoni.h} = yoni.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
