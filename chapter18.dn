@@ -1,0 +1,86 @@
+\chapter*{Chapter 18}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 1}
+
+Arjuna said (to K.r.s.na):\\
+
+Of abandonment, O great-arm (O K.r.sna), (I) wish to know the
+truth---and of abandonment, O K.r.s.na, separately, O Ke"si-destroyer
+(O K.r.s.na).\\
+
+\begin{tabular}{llll}
+  0&{\dn arjuna}&ar|ju|na&Arjuna\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn sannyaasasya}&san|nyaa|sa|sya&of abandonment\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn sannyaasa.h} = sannyaasa.h}\\
+  &&&\\
+  &{\dn mahaabaaho}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= great\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&baa|ho&{\dn baaho}\\
+  &&&= O arm; forearm\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn baahu.h} = baahu.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn tattvamicchaami}&tat|tva|mic|&tattvam\\
+  &&&= {\dn tattvam}\\
+  &&&= truth\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&chaa|mi&icchaami\\
+  &&&= {\dn icchaami}\\
+  &&&= (I) wish; desire; like\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn i.s} = i.s}\\
+  &&&\\
+  &{\dn veditum}&ve|di|tum&(?) to know\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn vid} = vid}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tyaagasya}&tyaa|ga|sya&of abandonment\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn tyaaga.h} = tyaaga.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn h.r.siike"sa}&h.r|.sii|ke|"sa&O K.r.s.na\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&\multicolumn{3}{l}{\dn p.rthakke"sini.suudana}\\
+  &&&\\
+  &&p.r|thak|&{\dn p.rthak}\\
+  &&&= separately\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ke|"si|&{\dn ke"si}\\
+  &&&= Ke"si (a horse demon who tried to kill K.r.s.na)\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&ni|.suu|da|na&{\dn ni.suudana}\\
+  &&&= O destroyer\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn ni.suudana.h} = ni.suudana.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------

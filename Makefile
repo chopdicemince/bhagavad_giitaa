@@ -29,6 +29,7 @@ gita.tex: gita.dn \
   chapter15.tex \
   chapter16.tex \
   chapter17.tex \
+  chapter18.tex \
   chapter_grammar.tex \
   chapter_examples_of_cases.tex \
   mymacros.sty \
@@ -103,6 +104,9 @@ chapter16.tex: chapter16.dn
 
 chapter17.tex: chapter17.dn
 	devnag chapter17.dn
+
+chapter18.tex: chapter18.dn
+	devnag chapter18.dn
 
 chapter_grammar.tex: chapter_grammar.dn
 	devnag chapter_grammar.dn
