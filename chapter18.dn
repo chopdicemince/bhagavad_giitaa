@@ -281,3 +281,86 @@ abandoned,'' (says) another (great mind).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 4}
+
+(K.r.s.na said to Arjuna:)\\
+
+Hear the sureness of me, there, in abandonment, O Bharata-true-most (O
+Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
+(are) called.\\
+
+\begin{tabular}{llll}
+  1a&{\dn ni"scaya.m}&ni"s|ca|ya.m&ni"scayam\\
+  &&&= {\dn ni"scayam}\\
+  &&&= sureness\\
+  &&&\note{\noun, \male. \accusativecase}\\
+  &&&\note{from {\dn ni"scaya.h} = ni"scaya.h}\\
+  &&&\\
+  &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
+  &&&= {\dn "s.r.notu}\\
+  &&&= (he/she/it) hear\\
+  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
+  &&&\note{from {\dn "sru} = "sru}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn tatra}&ta|tra&there\\
+  &&&\note{\adverb, \noun, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn tyaage}&tyaa|ge&at/in/on abandonment\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn tyaaga.h} = tyaaga.h}\\
+  &&&\\
+  &{\dn bharatasattama}&bha|ra|ta|&{\dn bharata}\\
+  &&&= Bharata\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&sat|&{\dn sat}\\
+  &&&= true; good\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ta|ma|&{\dn tama}\\
+  &&&= O most\\
+  &&&\note{\suffix, \male, \vocativecase}\\
+  &&&\note{from {\dn tama.h} = tama.h}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn tyaago}&tyaa|go&tyaaga.h\\
+  &&&= {\dn tyaaga.h}\\
+  &&&= abandonment\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn hi}&hi&surely\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn puru.savyaaghra}&pu|ru|.sa|&puru.sa.h\\
+  &&&= {\dn puru.sa.h}\\
+  &&&= man; spirit; soul; God\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&vyaa|ghra&{\dn vyaaghra}\\
+  &&&= O tiger\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn vyaaghra.h} = vyaaghra.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn trividha.h}&tri|&trii.ni = {\dn trii.ni} = three\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&vi|dha\quad(|.h(a))&{\dn vidha.h}\\
+  &&&= kind\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn samprakiirtita.h}&sam|pra|kiir|ti|ta\quad(|.h(a))&called\\
+  &&&\note{\adjective, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
