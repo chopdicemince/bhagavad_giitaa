@@ -2521,3 +2521,95 @@ money-victory (O Arjuna).\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 30}
+
+(K.r.s.na said to Arjuna:)\\
+
+And whoever knows proclivity and abstaining, in
+action(-and)-non-action, in fear(-and)-non-fear, binding and
+liberation---that intelligence, O prince (O Arjuna) is a good
+person.\\
+
+\begin{tabular}{llll}
+  1a&{\dn prav.rtti.m}&pra|v.rt|ti.m&prav.rttim\\
+  &&&= {\dn prav.rttim}\\
+  &&&= proclivity; behavior; action; work; doing\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn niv.rtti.m}&ni|v.rt|ti.m&niv.rttim = {\dn niv.rttim} = abstaining\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{from {\dn niv.rtti.h} = niv.rtti.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn kaaryaakaarye}&kaar|yaa|&kaaryam = {\dn kaaryam} = action; work; doing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&kaar|ye&at/in/on a/the action; work; doing\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn kaaryam} = kaaryam}\\
+  &&&\\
+  &{\dn bhayaabhaye}&bha|yaa|&bhayam = {\dn bhayam} = fear\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&bha|ye&{\dn bhaye}\\
+  &&&= at/in/on fear\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{from {\dn bhayam} = bhayam}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn bandha.m}&ban|dha.m&bandham\\
+  &&&= {\dn bandham}\\
+  &&&= binding; bonding\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn bandha.h} = bandha.h}\\
+  &&&\\
+  &{\dn mok.sa.m}&mo|k.sa.m&mok.sam\\
+  &&&= {\dn mok.sam}\\
+  &&&= liberation\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn mok.sa.h} = mok.sa.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn yaa}&yaa&(?) one/who/what\\
+  &&&\note{\pronoun, \female}\\
+  &&&\\
+  &{\dn vetti}&vet|ti&(he/she/it) knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn vid} = vid}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn buddhi.h}&bud|dhi\quad(|.h(i))&brainpower; intelligence\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn saa}&saa&that/she\\
+  &&&\note{\pronoun, \thirdperson, \female}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn saattvikii}&saat|tvi|kii&(?) person true; good; pure; energetic\\
+  &&&\note{\noun, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
