@@ -2613,3 +2613,93 @@ person.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 31}
+
+(K.r.s.na said to Arjuna:)\\
+
+Using whatever intelligence (that) does not-properly-full know
+good-conduct(-and)-non-good-conduct, and action and non-action,
+really, and---that (intelligence), O prince (O Arjuna) (is) a person
+of passion.\\
+
+\begin{tabular}{llll}
+  1a&{\dn yayaa}&ya|yaa&(?) using/by one/whom/what\\
+  &&&\note{\pronoun, \female, \instrumentalcase}\\
+  &&&\note{from {\dn yaa} = yaa = one/who/what}\\
+  &&&\\
+  &{\dn dharmamadharma.m}&dhar|ma|ma|&dharmam = {\dn dharmam} = good conduct; religion\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&dhar|ma.m&dharmam = {\dn dharmam} = good conduct; religion\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn kaarya.m}&kaar|ya.m&kaaryam = {\dn kaaryam} = action; work; doing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &{\dn caakaaryameva}&caa|&ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&kaar|ya|me|&kaaryam = {\dn kaaryam} = action; work; doing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn ayathaavatprajaanaati}\\
+  &&&\\
+  &&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&ya|thaa|&{\dn yathaa}\\
+  &&&= just as; properly\\
+  &&&\note{\indeclinable}\\
+  &&&\\
+  &&vat|&{\dn vat} = full\\
+  &&&\note{\suffix}\\
+  &&&\\
+  &&pra|jaa|naa|ti&{\dn prajaanaati}\\
+  &&&= (he/she/it) knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{root: {\dn praj~naa} = praj\~{}naa}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn buddhi.h}&bud|dhi\quad(|.h(i))&brainpower; intelligence\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &{\dn saa}&saa&that/she\\
+  &&&\note{\pronoun, \thirdperson, \female}\\
+  &&&\\
+  &{\dn paartha}&paar|tha&O prince\\
+  &&&= O Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn raajasii}&raa|ja|sii&(?) person of passion; dust-like particle;\\
+  &&&impurity; menstrual waste\\
+  &&&\note{\noun, \male}\\
+  &&&\note{similar: \noun, \neuter, {\dn rajas} = rajas}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
