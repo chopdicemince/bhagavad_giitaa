@@ -3595,3 +3595,97 @@ self-behavior-births-strings.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 42}
+
+(K.r.s.na said to Arjuna:)\\
+
+Peace, self-control, austerity, purity, patience, sincerity, really,
+and knowledge, knowledge [sic], faith---a priest action (is)
+self-behavior-born.\\
+
+\begin{tabular}{llll}
+  1a&{\dn "samo}&"sa|mo&"sama.h\\
+  &&&= {\dn "sama.h}\\
+  &&&= peace\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn damastapa.h}&da|ma|sta|&dama.h\\
+  &&&= {\dn dama.h}\\
+  &&&= self-control\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&pa\quad(|.h(a))&tapa.h\\
+  &&&= {\dn tapa.h}\\
+  &&&= fire; heat; austerity\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn "sauca.m}&"sau|ca.m&"saucam\\
+  &&&= {\dn "saucam}\\
+  &&&= purity; cleanliness\\
+  &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&\multicolumn{3}{l}{\dn k.saantiraarjavameva}\\
+  &&&\\
+  &&k.saan|ti|raar|&k.saanti.h\\
+  &&&= {\dn k.saanti.h}\\
+  &&&= patience\\
+  &&&\note{\noun, \female}\\
+  &&&\\
+  &&ja|va|me|&aarjavam\\
+  &&&= {\dn aarjavam}\\
+  &&&= sincerity; straightness; honesty\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&va&eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= knowledge\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn vij~naanamaastikya.m}&vi|j\~{}naa|na|maa|&vij\~{}naanam\\
+  &&&= {\dn vij~naanam}\\
+  &&&= knowledge; science; art\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &&sti|kya.m&aastikyam\\
+  &&&= {\dn aastikyam}\\
+  &&&= faith\\
+  &&&\note{\noun, \neuter}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&{\dn brahmakarma}&brah|ma|&brahma.h\\
+  &&&= {\dn brahma.h}\\
+  &&&= person in the first caste (priests)\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&kar|ma&karmam\\
+  &&&= {\dn karmam}\\
+  &&&= action; work; doing\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn svabhaavajam}&sva&{\dn sva}\\
+  &&&= self\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&bhaa|va|&bhaava.h\\
+  &&&= {\dn bhaava.h}\\
+  &&&= birth; behavior; existence; living thing\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&jam&{\dn jam}\\
+  &&&= born\\
+  &&&\note{\noun, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
