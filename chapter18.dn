@@ -5947,3 +5947,98 @@ no-doubt.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 69}
+
+(K.r.s.na said to Arjuna:)\\
+
+(About such a person described in the previous verse:)\\
+
+And not, from him, in men, (is) any, for me, loved-acting-most \dots
+(?) \dots And not, for me, from him, (is) another (person) loved-more
+(in) mankind.\\
+
+\begin{tabular}{llll}
+  1a&{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn tasmaanmanu.sye.su}&ta|smaan|&tasmaat = {\dn tasmaat} = from that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \ablativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\\
+  &&ma|nu|.sye|.su&{\dn manu.sye.su}\\
+  &&&= at/in/on men\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn ka"scinme}&ka"s|cin|&ka"scit\\
+  &&& {\dn ka"scit}\\
+  &&&= any\\
+  &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
+  &&&\\
+  &&me&{\dn me} = for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn priyak.rttama.h}&pri|ya|&{\dn priya}\\
+  &&&= loved; favorite; dear\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&k.rt|&{\dn k.rt}\\
+  &&&= acting; working; doing\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ta|ma\quad(|.h(a))&{\dn tama.h}\\
+  &&&= most\\
+  &&&\note{\suffix, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&{\dn bhavitaa}&bha|vi|taa&(?)\\
+  &&&\note{similar: \verbb, root, {\dn bhuu} = bhuu = ``to be''}\\
+  &&&\\
+  &{\dn na}&na&not\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn me}&me&for me; of me (my)\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\\
+  &{\dn tasmaadanya.h}&ta|smaa|&tasmaat\\
+  &&&= {\dn tasmaat}\\
+  &&&= from that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \ablativecase}\\
+  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&&da|nya\quad(|.h(a))&anya.h\\
+  &&&= {\dn anya.h}\\
+  &&&= person another; other; different; strange\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn priyataro}&pri|ya|&{\dn priya}\\
+  &&&= loved; favorite; dear\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&ta|ro&tara.h\\
+  &&&= {\dn tara.h}\\
+  &&&= more\\
+  &&&\note{\suffix, \male}\\
+  &&&\\
+  &{\dn bhuvi}&bhu|vi&(?)\\
+  &&&\note{similar: \noun, \neuter, {\dn bhuvanam} = bhuvanam}\\
+  &&&\note{= man; mankind}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
