@@ -6413,3 +6413,91 @@ speech of you.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\section*{Chapter 18, Verse 74}
+
+Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+
+Thus, I---of K.r.s.na and of the prince (Arjuna)---of the
+great-self---this communication \dots (?)  \dots---a
+wonder---hole-happines (goose pimples).\\
+
+\begin{tabular}{llll}
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{from {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn ityaha.m}&i|tya|&iti = {\dn iti} = thus; ``end of quote''\\
+  &&&\note{\adverb, \indeclinable}\\
+  &&&\\
+  &&ha.m&aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson}\\
+  &&&\\
+  &{\dn vaasudevasya}&vaa|su|de|va|sya&of Vaasudeva\\
+  &&&= of K.r.s.na\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn vaasudeva.h} = vaasudeva.h}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1b&{\dn paarthasya}&paar|tha|sya&of a/the prince\\
+  &&&= of Arjuna\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &&&\\
+  &{\dn ca}&ca&and\\
+  &&&\note{\conjunction, \indeclinable}\\
+  &&&\\
+  &{\dn mahaatmana.h}&ma|haat|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= great\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&&= {\dn aatmana.h}\\
+  &&&= (?) from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2a&\multicolumn{3}{l}{\dn sa.mvaadamimama"srau.samadbhuta.m}\\
+  &&&\\
+  &&sa.m|vaa|da|mi|&sa.mvaadam\\
+  &&&= {\dn sa.mvaadam}\\
+  &&&= communication; interaction\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{from {\dn sa.mvaada.h} = sa.mvaada.h}\\
+  &&&\\
+  &&ma|ma|&imam = {\dn imam} = this\\
+  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &&&\note{from {\dn ayam} = ayam}\\
+  &&&\\
+  &&"srau|.sa|&a"srau.sam\\
+  &&&= {\dn a"srau.sam}\\
+  &&&= (?)\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  2b&&mad|bhu|ta.m&adbhutam\\
+  &&&= {\dn adbhutam}\\
+  &&&= wonder; marvel; miracle\\
+  &&&\note{\noun, \neuter}\\
+  &&&\\
+  &{\dn romahar.sa.nam}&ro|ma|&roma.h\\
+  &&&= {\dn roma.h}\\
+  &&&= hole\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&har|.sa|.nam&{\dn har.sa.nam}\\
+  &&&= happiness; erection\\
+  &&&\note{\noun, \neuter}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
