@@ -27,7 +27,7 @@ gone (to) paramount success.\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&again\\
+  &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn pravak.syaami}&pra|va|k.syaa|mi&(I) will proclaim; say\\
@@ -63,7 +63,7 @@ gone (to) paramount success.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn j~naa} = j\~{}naa}\\
   &&&\\
-  &{\dn munaya.h}&mu|na|ya\quad(|.h(a))&monks; saints; sages; ascetics\\
+  &{\dn munaya.h}&mu|na|ya\h{a}&monks; saints; sages; ascetics\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn muni.h} = muni.h}\\
   &&&\\
@@ -88,7 +88,7 @@ gone (to) paramount success.\\
   &&to&ita.h = {\dn ita.h} = from here\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn gataa.h}&ga|taa\quad(|.h(aa))&gone; spread; understood\\
+  &{\dn gataa.h}&ga|taa\h{aa}&gone; spread; understood\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn gata.h} = gata.h}\\
 \end{tabular}
@@ -130,7 +130,7 @@ pulverization, and (they) are not afraid.\\
   &&&= sameness; similarity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ga|taa\quad(|.h(aa))&aagataa.h\\
+  &&ga|taa\h{aa}&aagataa.h\\
   &&&= {\dn aagataa.h}\\
   &&&= come; arrived\\
   &&&\note{\adjective, \male, \plural}\\
@@ -228,7 +228,7 @@ of all beings is from there, O descendant of Bharata (O Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sambhava.h}&sam|bha|va\quad(|.h(a))&joining; possibility\\
+  2a&{\dn sambhava.h}&sam|bha|va\h{a}&joining; possibility\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&{\dn sarva}\\
@@ -281,7 +281,7 @@ those---God-great-origin---I (am) the seed-giving father.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn muurtaya.h}&muur|ta|ya\quad(|.h(a))&forms\\
+  1b&{\dn muurtaya.h}&muur|ta|ya\h{a}&forms\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn muurti.h} = muurti.h}\\
   &&&\\
@@ -289,7 +289,7 @@ those---God-great-origin---I (am) the seed-giving father.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sambhuu} = sambhuu}\\
   &&&\\
-  &{\dn yaa.h}&yaa\quad(|.h(aa))&(?) ones/who/what\\
+  &{\dn yaa.h}&yaa\h{aa}&(?) ones/who/what\\
   &&&\note{\pronoun, \female, \plural}\\
   &&&\note{from {\dn yaa} = yaa}\\
 \end{tabular}
@@ -325,7 +325,7 @@ those---God-great-origin---I (am) the seed-giving father.\\
   &&&= seed; source\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pra|da\quad(|.h(a))&{\dn prada.h}\\
+  &&pra|da\h{a}&{\dn prada.h}\\
   &&&= giving; causing\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -364,7 +364,7 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn gu.naa.h}&gu|naa\quad(|.h(aa))&strings; attributes\\
+  1b&{\dn gu.naa.h}&gu|naa\h{aa}&strings; attributes\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
@@ -373,7 +373,7 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   &&&= primal form\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&sam|bha|vaa\quad(|.h(aa))&{\dn sambhavaa.h}\\
+  &&sam|bha|vaa\h{aa}&{\dn sambhavaa.h}\\
   &&&= births; joinings; possibilities\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn sambhava.h} = sambhava.h}\\
@@ -698,7 +698,7 @@ in madness.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn raja.h}&ra|ja\quad(|.h(a))&emotion; passion; dust\\
+  1b&{\dn raja.h}&ra|ja\h{a}&emotion; passion; dust\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn karma.ni}&kar|ma|.ni&(?)\\
@@ -726,7 +726,7 @@ in madness.\\
   &{\dn tu}&tu&but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn tama.h}&ta|ma\quad(|.h(a))&darkness; ignorance; hell\\
+  &{\dn tama.h}&ta|ma\h{a}&darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -795,7 +795,7 @@ sometimes superiority), thus.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn raja.h}&ra|ja\quad(|.h(a))&emotion; passion; dust; menstrual waste\\
+  2a&{\dn raja.h}&ra|ja\h{a}&emotion; passion; dust; menstrual waste\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&sattvam\\
@@ -816,7 +816,7 @@ sometimes superiority), thus.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tama.h}&ta|ma\quad(|.h(a))&darkness; ignorance; hell\\
+  2b&{\dn tama.h}&ta|ma\h{a}&darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&sattvam\\
@@ -919,7 +919,7 @@ Strong-desire behavior beginning---action, non-peace, desire,
 passion---these are born in abundan(ce), O Bharata-bull (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn lobha.h}&lo|bha\quad(|.h(a))&strong desire; greed\\
+  1a&{\dn lobha.h}&lo|bha\h{a}&strong desire; greed\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn prav.rttiraarambha.h}&pra|vr.t|ti|raa|&prav.rtti.h\\
@@ -927,7 +927,7 @@ passion---these are born in abundan(ce), O Bharata-bull (O Arjuna).\\
   &&&= behavior\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&ram|bha\quad(|.h(a))&aarambha.h\\
+  &&ram|bha\h{a}&aarambha.h\\
   &&&= {\dn aarambha.h}\\
   &&&= beginning; undertaking\\
   &&&\note{\noun, \male}\\
@@ -943,7 +943,7 @@ passion---these are born in abundan(ce), O Bharata-bull (O Arjuna).\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&"sa|ma\quad(|.h(a))&{\dn "sama.h}\\
+  &&"sa|ma\h{a}&{\dn "sama.h}\\
   &&&= peace\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -1240,7 +1240,7 @@ the fruit of passion (is) distress. Non-knowledge (is) the fruit of
 ignorance.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karma.na.h}&kar|ma|.na\quad(|.h(a))&(?) of action; work; doing\\
+  1a&{\dn karma.na.h}&kar|ma|.na\h{a}&(?) of action; work; doing\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from (?) {\dn karman} = karman}\\
   &&&\\
@@ -1253,7 +1253,7 @@ ignorance.\\
   &&&\note{\adjective, \neuter, \genitivecase}\\
   &&&\note{from {\dn k.rtam} = k.rtam}\\
   &&&\\
-  &&hu\quad(|.h(u))&aahu.h\\
+  &&hu\h{u}&aahu.h\\
   &&&= {\dn aahu.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn aahuu} = aahuu = call}\\
@@ -1308,7 +1308,7 @@ ignorance.\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn tamasa.h}&ta|ma|sa\quad(|.h(a))&(?) of darkness; ignorance; hell\\
+  &{\dn tamasa.h}&ta|ma|sa\h{a}&(?) of darkness; ignorance; hell\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn tamas} = tamas}\\
   &&&\\
@@ -1444,7 +1444,7 @@ go down.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
-  &{\dn raajasaa.h}&raa|ja|saa\quad(|.h(aa))&people in dust-like particles;\\
+  &{\dn raajasaa.h}&raa|ja|saa\h{aa}&people in dust-like particles;\\
   &&&passion; menstrual waste\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn raajasa.h} = raajasa.h}\\
@@ -1481,7 +1481,7 @@ go down.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
-  &{\dn taamasaa.h}&taa|ma|saa\quad(|.h(aa))&people in darkness; ignorance; hell\\
+  &{\dn taamasaa.h}&taa|ma|saa\h{aa}&people in darkness; ignorance; hell\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn taamasa.h} = taamasa.h}\\
 \end{tabular}
@@ -1504,7 +1504,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &{\dn gu.nebhya.h}&gu|.ne|bhya\quad(|.h(a))&(?)\\
+  &{\dn gu.nebhya.h}&gu|.ne|bhya\h{a}&(?)\\
   &&&\note{similar: \noun, \male, {\dn gu.na.h} = gu.na.h}\\
   &&&\note{= string; attribute}\\
   &&&\\
@@ -1732,7 +1732,7 @@ three strings?\\
   2a&{\dn kimaacaara.h}&ki|maa|&kim = {\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&caa|ra\quad(|.h(a))&aacaara.h\\
+  &&caa|ra\h{a}&aacaara.h\\
   &&&= {\dn aacaara.h}\\
   &&&= behavior; good behavior; rule\\
   &&&\note{\noun, \male}\\
@@ -1962,7 +1962,7 @@ self-praise \dots\\
   &&du.h|kha|&du.hkham = {\dn du.hkham} = distress\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&su|kha\quad(|.h(a))&sukha.h\\
+  &&su|kha\h{a}&sukha.h\\
   &&&= {\dn sukha.h}\\
   &&&= (?) sukham\\
   &&&= {\dn sukham}\\
@@ -1972,7 +1972,7 @@ self-praise \dots\\
   &{\dn svastha.h}&sva|&sva.h = {\dn sva.h} = self; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&stha\quad(|.h(a))&{\dn stha.h} = standing; staying\\
+  &&stha\h{a}&{\dn stha.h} = standing; staying\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1989,7 +1989,7 @@ self-praise \dots\\
   &&"sma|&a"sman = {\dn a"sman} = stone\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kaa\~{}n|ca|na\quad(|.h(a))&{\dn kaa~ncana.h}\\
+  &&kaa\~{}n|ca|na\h{a}&{\dn kaa~ncana.h}\\
   &&&= (?) kaa\~{}ncanam\\
   &&&= {\dn kaa~ncanam}\\
   &&&= gold\\
@@ -2037,7 +2037,7 @@ self-praise \dots\\
   &&&= self; soul\\
   &&&\note{\prefix}\\
   &&&\\
-  &&sa.m|stu|ti\quad(|.h(i))&{\dn sa.mstuti.h}\\
+  &&sa.m|stu|ti\h{i}&{\dn sa.mstuti.h}\\
   &&&= praise\\
   &&&\note{\noun, \female}\\
 \end{tabular}
@@ -2088,7 +2088,7 @@ string-passed-through (``successful'').\\
   &&&= enemy\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pa|k.sa|yo\quad(|.h(o))&{\dn pak.sayo.h}\\
+  &&pa|k.sa|yo\h{o}&{\dn pak.sayo.h}\\
   &&&= of/at/in/on two parts\\
   &&&\note{\noun, \male, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
@@ -2120,7 +2120,7 @@ string-passed-through (``successful'').\\
   &&&= string; attribute\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&tii|ta\quad(|.h(a))&atiita.h\\
+  &&tii|ta\h{a}&atiita.h\\
   &&&= {\dn atiita.h}\\
   &&&= gone; passed through\\
   &&&\note{\adjective, \male}\\
