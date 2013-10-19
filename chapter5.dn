@@ -113,7 +113,7 @@ better.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn sannyaasa.h}&san|nyaa|sa\quad(|.h(a))&renunciation; abandonment; asceticism\\
+  1a&{\dn sannyaasa.h}&san|nyaa|sa\h{a}&renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn karmayoga"sca}&kar|ma|&karmam = {\dn karmam} = action; work\\
@@ -194,7 +194,7 @@ desire---indifferent to two things, surely, O great-arm (O
 Arjuna). Happily---from bondage, he is free.\\
 
 \begin{tabular}{llll}
-  1a&{\dn j~neya.h}&j\~{}ne|ya\quad(|.h(a))&to be known\\
+  1a&{\dn j~neya.h}&j\~{}ne|ya\h{a}&to be known\\
   &&&\note{\adjective}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
@@ -291,7 +291,7 @@ fruit.\\
   &&&= separately; differently\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&baa|laa\quad(|.h(aa))&{\dn baalaa.h}\\
+  &&baa|laa\h{aa}&{\dn baalaa.h}\\
   &&&= boys\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn baala.h} = baala.h}\\
@@ -305,7 +305,7 @@ fruit.\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn pa.n.ditaa.h}&pa.n|.di|taa\quad(|.h(aa))&wise men; scholars; teachers; \\
+  &{\dn pa.n.ditaa.h}&pa.n|.di|taa\h{aa}&wise men; scholars; teachers; \\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pa.n.dita.h} = pa.n.dit.ah}\\
 \end{tabular}
@@ -318,7 +318,7 @@ fruit.\\
   &&pyaa|&api = {\dn api} = also\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &&sthi|ta|\quad(|.h(a))&aasthita.h\\
+  &&sthi|ta\h{a}&aasthita.h\\
   &&&= {\dn aasthita.h}\\
   &&&= existing; staying; residing\\
   &&&\note{\adjective, \male}\\
@@ -359,7 +359,7 @@ one thing---he sees.\\
   1a&{\dn yatsaa"nkhyai.h}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&saa"n|khyai\quad(|.h(i))&{\dn saa"nkhyai.h}\\
+  &&saa"n|khyai\h{i}&{\dn saa"nkhyai.h}\\
   &&&= using/by things of philosophy\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\\
@@ -415,7 +415,7 @@ one thing---he sees.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
@@ -470,7 +470,7 @@ grief. A union-joined a sage, using no delay, gets God.\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn aap} = aap}\\
   &&&\\
-  &&yo|ga|ta|\quad(.h(a))&ayogata.h\\
+  &&yo|ga|ta\h{a}&ayogata.h\\
   &&&= {\dn ayogata.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
@@ -562,7 +562,7 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&&= subdued; conquered\\
   &&&\note{\adjective}\\
   &&&\\
-  &&dri|ya\quad(|.h(a))&indriya.h\\
+  &&dri|ya\h{a}&indriya.h\\
   &&&= {\dn indriya.h}\\
   &&&= (?) indriyam\\
   &&&= {\dn indriyam}\\
@@ -833,7 +833,7 @@ water (as a lotus leaf is not attached to water).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
 \end{tabular}
 \newpage
@@ -917,7 +917,7 @@ using senses, also, followers do action, having abandoned attachment,
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yogina.h}&yo|gi|na\quad(.h(a))&(?)\\
+  2a&{\dn yogina.h}&yo|gi|na\h{a}&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= follower; magician; devotee}\\
   &&&\\
@@ -964,7 +964,7 @@ gets perfect peace. A (person of) non-union, using desire-action,
 attached to fruit (results), is bound.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yukta.h}&yuk|ta\quad(|.h(a))&union; association; devotion; attachment\\
+  1a&{\dn yukta.h}&yuk|ta\h{a}&union; association; devotion; attachment\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn karmaphala.m}&kar|ma|&karmam\\
@@ -1002,7 +1002,7 @@ attached to fruit (results), is bound.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ayukta.h}&a|yuk|ta\quad(|.h(a))&not + union; assocation; devotion; attachment\\
+  2a&{\dn ayukta.h}&a|yuk|ta\h{a}&not + union; assocation; devotion; attachment\\
   &&&\note{\noun, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \male, {\dn yukta.h} = yukta.h}\\
@@ -1157,7 +1157,7 @@ action-fruit-combination. But nature starts (these things).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn s.rj} = s.rj}\\
   &&&\\
-  &{\dn prabhu.h}&pra|bhu\quad(|.h(u))&ruler; king; leader\\
+  &{\dn prabhu.h}&pra|bhu\h{u}&ruler; king; leader\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1244,7 +1244,7 @@ non-knowledge---covered knowledge.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn vibhu.h}&vi|bhu\quad(|.h(u))&lord; ruler\\
+  &{\dn vibhu.h}&vi|bhu\h{u}&lord; ruler\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1277,7 +1277,7 @@ non-knowledge---covered knowledge.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn muh} = muh}\\
   &&&\\
-  &{\dn jantava.h}&jan|ta|va\quad(|.h(a))&(?)\\
+  &{\dn jantava.h}&jan|ta|va\h{a}&(?)\\
   &&&\note{similar: root: {\dn jan} = jan}\\
   &&&\note{= ``to give birth; create; produce''}\\
 \end{tabular}
@@ -1323,7 +1323,7 @@ one (God).\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn naa"sita.h} = naa"sita.h}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?) of the self; soul\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -1411,7 +1411,7 @@ stains.\\
   &&stat|&tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&pa|raa|ya|.naa\quad(|.h(aa))&people who are devoted; engaged; dependent\\
+  &&pa|raa|ya|.naa\h{aa}&people who are devoted; engaged; dependent\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn paraaya.na.h} = paraaya.na.h}\\
 \end{tabular}
@@ -1448,7 +1448,7 @@ stains.\\
   &&&= tormented; agitated; deprived\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kal|ma|.saa\quad(|.h(aa))&{\dn kalma.saa.h}\\
+  &&kal|ma|.saa\h{aa}&{\dn kalma.saa.h}\\
   &&&= dirt; stains\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn kalma.sa.h} = kalma.sa.h}\\
@@ -1514,11 +1514,11 @@ female dog, and really, at a dog-eater (an outcast).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn pa.n.ditaa.h}&pa.n|.di|taa\quad(|.h(aa))&wise men; scholars; teachers\\
+  2b&{\dn pa.n.ditaa.h}&pa.n|.di|taa\h{aa}&wise men; scholars; teachers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
   &&&\\
-  &{\dn samadar"sina.h}&sa|ma|dar|"si|na\quad(|.h(a))&(?)\\
+  &{\dn samadar"sina.h}&sa|ma|dar|"si|na\h{a}&(?)\\
   &&&\note{similar: \adjective, {\dn sama} = sama = same}\\
   &&&\note{similar: \adjective, {\dn dar"sin} = dar"sin = seeing}\\
 \end{tabular}
@@ -1544,7 +1544,7 @@ are standing (with) God.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &&ji|ta\quad(|.h(a))&{\dn jita.h}\\
+  &&ji|ta\h{a}&{\dn jita.h}\\
   &&&= conquered; overcome; subdued\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -1571,7 +1571,7 @@ are standing (with) God.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1611,7 +1611,7 @@ are standing (with) God.\\
   &&&\note{\pronoun, \thirdperson, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &{\dn sthitaa.h}&sthi|taa\quad(|.h(aa))&standing; present; devoted\\
+  &{\dn sthitaa.h}&sthi|taa\h{aa}&standing; present; devoted\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
 \end{tabular}
@@ -1699,7 +1699,7 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&\note{similar: \noun, \neuter, {\dn brahmam} = brahmam}\\
   &&&\note{= God}\\
   &&&\\
-  &{\dn sthita.h}&sthi|ta\quad(|.h(a))&standing; present; devoted\\
+  &{\dn sthita.h}&sthi|ta\h{a}&standing; present; devoted\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -1864,7 +1864,7 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&&= end; death; destruction\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&van|ta\quad(|.h(a))&{\dn vanta.h}\\
+  &&van|ta\h{a}&{\dn vanta.h}\\
   &&&= (?)\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
@@ -1885,7 +1885,7 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn ram} = ram}\\
   &&&\\
-  &{\dn budha.h}&bu|dha\quad(|.h(a))&wise man; god\\
+  &{\dn budha.h}&bu|dha\h{a}&wise man; god\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1911,7 +1911,7 @@ joined. He is a happy man.\\
   &&va&{\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\\
   &{\dn so.dhu.m}&so|.dhu.m&so.dhum\\
   &&&= {\dn so.dhum}\\
@@ -1963,7 +1963,7 @@ joined. He is a happy man.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn yukta.h}&yuk|ta\quad(|.h(a))&yoked; joined; suitable\\
+  &{\dn yukta.h}&yuk|ta\h{a}&yoked; joined; suitable\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
@@ -1972,7 +1972,7 @@ joined. He is a happy man.\\
   &{\dn sukhii}&su|khii&happy\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn nara.h}&na|ra\quad(|.h(a))&man; male; person\\
+  &{\dn nara.h}&na|ra\h{a}&man; male; person\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2023,7 +2023,7 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
 \end{tabular}
 \newpage
@@ -2090,14 +2090,14 @@ benefit of each being.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&m.r|.sa|ya\quad(|.h(a))&{\dn .r.saya.h}\\
+  1b&&m.r|.sa|ya\h{a}&{\dn .r.saya.h}\\
   &&&= (?)\\
   &&&\\
   &{\dn k.sii.nakalma.saa.h}&k.sii|.na|&{\dn k.sii.na}\\
   &&&= injured; weak; thin\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kal|ma|.saa\quad(|.h(aa))&wicked; stained; sinful\\
+  &&kal|ma|.saa\h{aa}&wicked; stained; sinful\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn kalma.sa.h} = kalma.sa.h}\\
 \end{tabular}
@@ -2119,7 +2119,7 @@ benefit of each being.\\
   &&&= controlled; subdued; governed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa|na\quad(|.h(a))&aatmaana.h\\
+  &&maa|na\h{a}&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn aatmaa} = aatmaa}\\
@@ -2140,7 +2140,7 @@ benefit of each being.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn hitam} = hitam}\\
   &&&\\
-  &{\dn rataa.h}&ra|taa\quad(|.h(aa))&enjoying\\
+  &{\dn rataa.h}&ra|taa\h{aa}&enjoying\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn rata.h} = rata.h}\\
 \end{tabular}
@@ -2267,7 +2267,7 @@ inside nose, \dots\\
   &&&= between; among; for\\
   &&&\note{\indeclinable}\\
   &&&\\
-  &{\dn bhruvo.h}&bhru|vo\quad(|.h(o))&of two brows;\\
+  &{\dn bhruvo.h}&bhru|vo\h{o}&of two brows;\\
   &&&at/in/on two brows\\
   &&&\note{\noun, \female, \dual,}\\
   &&&\note{\genitivecase, \locativecase}\\
@@ -2358,7 +2358,7 @@ freed, really---he.\\
   &&&= freeing; solution\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pa|raa|ya|.na\quad(|.h(a))&being the goal\\
+  &&pa|raa|ya|.na\h{a}&being the goal\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -2386,7 +2386,7 @@ freed, really---he.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sadaa}&sa|daa&always; eternally\\
@@ -2398,7 +2398,7 @@ freed, really---he.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
+  &{\dn sa.h}&sa\h{a}&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
