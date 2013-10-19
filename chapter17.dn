@@ -47,7 +47,7 @@ Goodness? Passion? Ignorance?\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn "sraddhaa} = "sraddhaa}\\
   &&&\\
-  &&vi|taa\quad(|.h(aa))&anvitaa.h\\
+  &&vi|taa\h{aa}&anvitaa.h\\
   &&&= {\dn anvitaa.h}\\
   &&&= having\\
   &&&\note{\adjective, \male, \plural}\\
@@ -90,7 +90,7 @@ Goodness? Passion? Ignorance?\\
   &&&= passion; dust-like particle; impurity; mesntrual waste\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ma\quad(|.h(a))&tama.h\\
+  &&ma\h{a}&tama.h\\
   &&&= {\dn tama.h}\\
   &&&= darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
@@ -273,7 +273,7 @@ is faithful with, really.\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&chrad|dha\quad(|.h(a))&"sraddha.h\\
+  &&chrad|dha\h{a}&"sraddha.h\\
   &&&= {\dn "sraddha.h}\\
   &&&= faithful; trustful\\
   &&&\note{\adjective, \male}\\
@@ -284,7 +284,7 @@ is faithful with, really.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
+  &{\dn sa.h}&sa\h{a}&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -326,7 +326,7 @@ and in another.\\
   &&&\note{similar: \noun, \male, {\dn raak.sa.h} = raak.sa.h}\\
   &&&\note{= demon}\\
   &&&\\
-  &{\dn raajasaa.h}&raa|ja|saa\quad(|.h(aa))&passionate; related to a dust-like particle;\\
+  &{\dn raajasaa.h}&raa|ja|saa\h{aa}&passionate; related to a dust-like particle;\\
   &&&impure; related to menstrual waste\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn raajasa.h} = raajasa.h}\\
@@ -373,7 +373,7 @@ and in another.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn taamasa.h} = taamasa.h}\\
   &&&\\
-  &{\dn janaa.h}&ja|naa\quad(|.h(aa))&men\\
+  &{\dn janaa.h}&ja|naa\h{aa}&men\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn jana.h} = jana.h}\\
 \end{tabular}
@@ -425,7 +425,7 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn janaa.h}&ja|naa\quad(|.h(aa))&men\\
+  &{\dn janaa.h}&ja|naa\h{aa}&men\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn jana.h} = jana.h}\\
 \end{tabular}
@@ -444,7 +444,7 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&= ego; pride; arrogance\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa.m|yuk|taa\quad(|.h(aa))&{\dn sa.myuuktaa.h}\\
+  &&sa.m|yuk|taa\h{aa}&{\dn sa.myuuktaa.h}\\
   &&&= yoked\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn yukta.h} = yukta.h}\\
@@ -468,7 +468,7 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&= strength; force\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&vi|taa\quad(|.h(aa))&anvitaa.h\\
+  &&vi|taa\h{aa}&anvitaa.h\\
   &&&= {\dn anvitaa.h}\\
   &&&= having\\
   &&&\note{\adjective, \male, \plural}\\
@@ -485,7 +485,7 @@ really, in the body-standing---(know) those (as)
 demon(-occurrences-of)-steadfastness.\\
 
 \begin{tabular}{llll}
-  1a&{\dn kar.sayanta.h}&kar|.sa|yan|ta\quad(|.h(a))&(?)\\
+  1a&{\dn kar.sayanta.h}&kar|.sa|yan|ta\h{a}&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson}\\
   &&&\note{\singular}\\
   &&&\note{{\dn kar.sayati} = kar.sayati}\\
@@ -520,7 +520,7 @@ demon(-occurrences-of)-steadfastness.\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&ce|ta|sa\quad(|.h(a))&{\dn cetasa.h}\\
+  &&ce|ta|sa\h{a}&{\dn cetasa.h}\\
   &&&= (?) from/of a/the heart; mind\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\
@@ -539,7 +539,7 @@ demon(-occurrences-of)-steadfastness.\\
   &&vaan|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ta\quad(|.h(a))&anta.h = {\dn anta.h} = in\\
+  &&ta\h{a}&anta.h = {\dn anta.h} = in\\
   &&&\note{\preposition, \indeclinable}\\
   &&&\\
   &{\dn "sariirastha.m}&"sa|rii|ra|&"sariiram\\
@@ -615,7 +615,7 @@ difference.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\quad(|.h(a))&favorite; loved; dear\\
+  &{\dn priya.h}&pri|ya\h{a}&favorite; loved; dear\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -707,7 +707,7 @@ are) savory, oily, steadfast, (and) pleasing to the heart.\\
   &&&= pleasure; friendliness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&vi|var|dha|naa\quad(|.h(aa))&{\dn vivardhanaa.h}\\
+  &&vi|var|dha|naa\h{aa}&{\dn vivardhanaa.h}\\
   &&&= increasing\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vivardhana.h} = vivardhana.h}\\
@@ -715,11 +715,11 @@ are) savory, oily, steadfast, (and) pleasing to the heart.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn rasyaa.h}&ra|syaa\quad(|.h(aa))&savory; juicy\\
+  2a&{\dn rasyaa.h}&ra|syaa\h{aa}&savory; juicy\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn rasya.h} = rasya.h}\\
   &&&\\
-  &{\dn snigdhaa.h}&snig|dhaa\quad(|.h(aa))&oily\\
+  &{\dn snigdhaa.h}&snig|dhaa\h{aa}&oily\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn snigdha.h} = snigdha.h}\\
   &&&\\
@@ -737,7 +737,7 @@ are) savory, oily, steadfast, (and) pleasing to the heart.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn aahaaraa.h}&aa|haa|raa\quad(|.h(aa))&diets; foods; (occurrences of) eating\\
+  2b&{\dn aahaaraa.h}&aa|haa|raa\h{aa}&diets; foods; (occurrences of) eating\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn aahaara.h} = aahaara.h}\\
   &&&\\
@@ -745,7 +745,7 @@ are) savory, oily, steadfast, (and) pleasing to the heart.\\
   &&&= true; good; pure; energetic\\
   &&&\note{\adjective}\\
   &&&\\
-  &&pri|yaa\quad(|.h(aa))&{\dn priyaa.h}\\
+  &&pri|yaa\h{aa}&{\dn priyaa.h}\\
   &&&= favorite; dear; loved\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn priya.h} = priya.h}\\
@@ -796,7 +796,7 @@ distress(-and)-heat(-and)-sickness-causing.\\
   &&&= rough; dry\\
   &&&\note{\adjective}\\
   &&&\\
-  &&vi|daa|hi|na\quad(|.h(a))&vidaahina.h\\
+  &&vi|daa|hi|na\h{a}&vidaahina.h\\
   &&&= {\dn vidaahina.h}\\
   &&&= (?) from/of a/the person/thing hot; acrid; pungent\\
   &&&\note{\adjective, \male(?)}\\
@@ -842,7 +842,7 @@ distress(-and)-heat(-and)-sickness-causing.\\
   &&&= sickness; disease\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pra|daa\quad(|.h(aa))&{\dn pradaa.h}\\
+  &&pra|daa\h{aa}&{\dn pradaa.h}\\
   &&&= giving; causing\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn prada.h} = prada.h}\\
@@ -998,7 +998,7 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1011,7 +1011,7 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &{\dn sa}&sa&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn sattvika.h}&sat|tvi|ka\quad(|.h(a))&true; good; pure; energetic\\
+  &{\dn sattvika.h}&sat|tvi|ka\h{a}&true; good; pure; energetic\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -1374,10 +1374,10 @@ Mind-peace, benevolence, slience, self-restraint, behavior-purity,
 thus---this (group of characteristics) is called austerity-mind.\\
 
 \begin{tabular}{llll}
-  1a&{\dn mana.hprasaada.h}&ma|na\quad(|.h(a))&mind\\
+  1a&{\dn mana.hprasaada.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pra|saa|da\quad(|.h(a))&{\dn prasaada.h}\\
+  &&pra|saa|da\h{a}&{\dn prasaada.h}\\
   &&&= peace\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -1400,7 +1400,7 @@ thus---this (group of characteristics) is called austerity-mind.\\
   &&&= self; soul\\
   &&&\note{\prefix}\\
   &&&\\
-  &&vi|ni|gra|ha\quad(|.h(a))&{\dn vinigraha.h}\\
+  &&vi|ni|gra|ha\h{a}&{\dn vinigraha.h}\\
   &&&= restraint; division\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1488,7 +1488,7 @@ austerity is acknowledged as) good.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
-  &{\dn narai.h}&na|rai\quad(|.h(i))&using/by men\\
+  &{\dn narai.h}&na|rai\h{i}&using/by men\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn nara.h} = nara.h}\\
 \end{tabular}
@@ -1511,7 +1511,7 @@ austerity is acknowledged as) good.\\
   &&&\note{\adjective, \male(?), \plural, \instrumentalcase}\\
   &&&\note{(?) from {\dn aakaa"nk.sin} = aakaa"nk.sin}\\
   &&&\\
-  &&yuk|tai\quad(|.h(i))&{\dn yuktai.h}\\
+  &&yuk|tai\h{i}&{\dn yuktai.h}\\
   &&&= using/by people/things yoked\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn yukta.h} = yukta.h}\\
@@ -1662,7 +1662,7 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\note{similar: \noun, \female, {\dn kriyaa} = kriyaa}\\
   &&&\note{= action; work; doing}\\
   &&&\\
-  &{\dn tapa.h}&ta|pa\quad(|.h(a))&fire; heat; austerity\\
+  &{\dn tapa.h}&ta|pa\h{a}&fire; heat; austerity\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
 \newpage
@@ -1838,7 +1838,7 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
-  &{\dn puna.h}&pu|na\quad(|.h(a))&again\\
+  &{\dn puna.h}&pu|na\h{a}&again\\
   &&&\note{\adverb}\\
 \end{tabular}
 \newpage
@@ -2006,11 +2006,11 @@ kind(s)---remembered by those people with divine knowledge and
   &&stri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&vi|dha\quad(|.h(a))&{\dn vidha.h}\\
+  &&vi|dha\h{a}&{\dn vidha.h}\\
   &&&= kind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sm.rta.h}&sm.r|ta\quad(|.h(a))&remembered\\
+  &{\dn sm.rta.h}&sm.r|ta\h{a}&remembered\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -2046,7 +2046,7 @@ kind(s)---remembered by those people with divine knowledge and
   &&ca&{\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn vihitaa.h}&vi|hi|taa\quad(|.h(aa))&decreed\\
+  &{\dn vihitaa.h}&vi|hi|taa\h{aa}&decreed\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vihita.h} = vihita.h}\\
   &&&\\
@@ -2090,11 +2090,11 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&= donation; gift; giving; charity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ta|pa\quad(|.h(a))&{\dn tapa.h}\\
+  &&ta|pa\h{a}&{\dn tapa.h}\\
   &&&= fire; heat; austerity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kri|yaa\quad(|.h(aa))&{\dn kriyaa.h}\\
+  &&kri|yaa\h{aa}&{\dn kriyaa.h}\\
   &&&= actions; works; doings\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
@@ -2112,7 +2112,7 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&taa\quad(|.h(aa))&uktaa.h\\
+  &&taa\h{aa}&uktaa.h\\
   &&&= {\dn uktaa.h}\\
   &&&= uttered; said\\
   &&&\note{\adjective, \male, \plural}\\
@@ -2174,11 +2174,11 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&= sacrifice; worship\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ta|pa\quad(|.h(a))&{\dn tapa.h}\\
+  &&ta|pa\h{a}&{\dn tapa.h}\\
   &&&= fire; heat; austerity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kri|yaa\quad(|.h(aa))&{\dn kriyaa.h}\\
+  &&kri|yaa\h{aa}&{\dn kriyaa.h}\\
   &&&= actions; works; doings\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -2202,7 +2202,7 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&ca&{\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn vividhaa.h}&vi|vi|dhaa\quad(|.h(aa))&various\\
+  &{\dn vividhaa.h}&vi|vi|dhaa\h{aa}&various\\
   &&&\note{\adjective, \female, \plural}\\
   &&&\note{from {\dn vividhaa} = vividhaa}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -2218,7 +2218,7 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&= liberation\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&kaa"n|k.si|bhi\quad(|.h(i))&{\dn kaa"nk.sibhi.h}\\
+  &&kaa"n|k.si|bhi\h{i}&{\dn kaa"nk.sibhi.h}\\
   &&&= (?) kaa"nk.saabhi.h\\
   &&&= {\dn kaa"nk.saabhi.h}\\
   &&&= using/by desires\\
@@ -2299,7 +2299,7 @@ Arjuna) \dots\\
   &&&= true; good\\
   &&&\note{\adjective}\\
   &&&\\
-  &&chab|da\quad(|.h(a))&"sabda.h\\
+  &&chab|da\h{a}&"sabda.h\\
   &&&= {\dn "sabda.h}\\
   &&&= sound; word\\
   &&&\note{\noun, \male}\\
@@ -2341,7 +2341,7 @@ related, (is) ``sat'' (true), really, \dots (?) \dots.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sthiti.h}&sthi|ti\quad(|.h(i))&standing; steadfastness; state (situation)\\
+  1b&{\dn sthiti.h}&sthi|ti\h{i}&standing; steadfastness; state (situation)\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn saditi}&sa|di|&sat\\
