@@ -49,7 +49,7 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
-  &{\dn vaca.h}&va|ca\quad(|.h(a))&speech\\
+  &{\dn vaca.h}&va|ca\h{a}&speech\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -105,7 +105,7 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn vidu.h}&vi|du\quad(|.h(u))&wise\\
+  &{\dn vidu.h}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn suraga.naa.h}&su|ra|&sura.h\\
@@ -113,7 +113,7 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&= sun; sage; god\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ga|.naa\quad(|.h(aa))&{\dn ga.naa.h}\\
+  &&ga|.naa\h{aa}&{\dn ga.naa.h}\\
   &&&= groups\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn ga.na.h} = ga.na.h}\\
@@ -132,7 +132,7 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&= great\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&.sa|ya\quad(|.h(a))&.r.saya.h\\
+  &&.sa|ya\h{a}&.r.saya.h\\
   &&&= {\dn .r.saya.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn .r.si.h} = .r.si.h}\\
@@ -174,7 +174,7 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&altogether\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&altogether\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -232,7 +232,7 @@ using (of) all sins.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn asammuu.dha.h}&a|sam|muu|.dha\quad(|.h(a))&not + senseless\\
+  2a&{\dn asammuu.dha.h}&a|sam|muu|.dha\h{a}&not + senseless\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn sammuu.dha.h} = sammuu.dha.h}\\
@@ -251,7 +251,7 @@ using (of) all sins.\\
   &&&= each; all\\
   &&&\note{\adjective}\\
   &&&\\
-  &&paa|pai\quad(|.h(i))&using/by sins\\
+  &&paa|pai\h{i}&using/by sins\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn paapam} = paapam}\\
   &&&\\
@@ -282,7 +282,7 @@ non-fear, really, and \dots\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sam|mo|ha\quad(|.h(a))&asammoha.h\\
+  &&sam|mo|ha\h{a}&asammoha.h\\
   &&&= {\dn asammoha.h}\\
   &&&= not + senselessness\\
   &&&\note{\noun, \male}\\
@@ -303,10 +303,10 @@ non-fear, really, and \dots\\
   &&&= truth\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn dama.h}&da|ma\quad(|.h(a))&self-control\\
+  &{\dn dama.h}&da|ma\h{a}&self-control\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn "sama.h}&"sa|ma\quad(|.h(a))&peace\\
+  &{\dn "sama.h}&"sa|ma\h{a}&peace\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -398,7 +398,7 @@ really---separate kinds.\\
   &&&= fame\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ya|"sa\quad(|.h(a))&aya"sa.h\\
+  &&'ya|"sa\h{a}&aya"sa.h\\
   &&&= {\dn aya"sa.h}\\
   &&&= not + fame\\
   &&&\note{\noun, \male}\\
@@ -426,7 +426,7 @@ really---separate kinds.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn matta}&mat|ta\quad(|.h(a))&(?) ``me''\\
+  2b&{\dn matta}&mat|ta\h{a}&(?) ``me''\\
   &&&\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -436,7 +436,7 @@ really---separate kinds.\\
   &&&= separately\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&vi|dhaa\quad(|.h(aa))&{\dn vidhaa.h}\\
+  &&vi|dhaa\h{aa}&{\dn vidhaa.h}\\
   &&&= kinds\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
@@ -457,7 +457,7 @@ born (from them).\\
   &&&= great\\
   &&&\note{\adjective}\\
   &&&\\
-  &&.sa|ya\quad(|.h(a))&.r.saya.h\\
+  &&.sa|ya\h{a}&.r.saya.h\\
   &&&= {\dn .r.saya.h}\\
   &&&= sages; saints\\
   &&&\note{\noun, \male, \plural}\\
@@ -527,12 +527,12 @@ born (from them).\\
   &&&= world; human race; place\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn imaa.h}&i|maa\quad(|.h(aa))&these\\
+  &{\dn imaa.h}&i|maa\h{aa}&these\\
   &&&\note{\pronoun, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn iyam} = iyam = this}\\
   &&&\\
-  &{\dn prajaa.h}&pra|jaa\quad(|.h(aa))&people/things bearing\\
+  &{\dn prajaa.h}&pra|jaa\h{aa}&people/things bearing\\
   &&&\note{\adjective, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn prajaa} = prajaa}\\
@@ -579,7 +579,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tattvata.h}&tat|tva|ta\quad(|.h(a))&truthfully\\
+  &{\dn tattvata.h}&tat|tva|ta\h{a}&truthfully\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -612,7 +612,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
   &&tra&atra = {\dn atra} = here\\
   &&&\note{\adverb, \noun, \indeclinable}\\
   &&&\\
-  &{\dn sa.m"saya.h}&sa.m|"sa|ya\quad(|.h(a))&doubt\\
+  &{\dn sa.m"saya.h}&sa.m|"sa|ya\h{a}&doubt\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -639,7 +639,7 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn matta.h}&mat|ta\quad(|.h(a))&from me\\
+  1b&{\dn matta.h}&mat|ta\h{a}&from me\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sarva.m}&sar|va.m&sarvam\\
@@ -683,7 +683,7 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   &&&= birth; behavior; existence\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa|man|vi|taa\quad(|.h(aa))&{\dn samanvitaa.h}\\
+  &&sa|man|vi|taa\h{aa}&{\dn samanvitaa.h}\\
   &&&= associated with\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn samanvita.h} = samanvita.h}\\
@@ -725,7 +725,7 @@ mutually informing and telling (one another about) me, eternally---and
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn bodhayanta.h}&bo|dha|yan|ta\quad(|.h(a))&(?)\\
+  1b&{\dn bodhayanta.h}&bo|dha|yan|ta\h{a}&(?)\\
   &&&\note{similar: \noun, \male, {\dn bodha.h} = bodha.h}\\
   &&&\note{= knowledge; informing}\\
   &&&\\
@@ -904,7 +904,7 @@ knowledge-lamp-brightness.\\
   &&&= born\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&ta|ma\quad(|.h(a))&{\dn tama.h}\\
+  &&ta|ma\h{a}&{\dn tama.h}\\
   &&&= darkness\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1064,7 +1064,7 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&\note{\accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&.sa|ya\quad(|.h(a))&.r.saya.h\\
+  &&.sa|ya\h{a}&.r.saya.h\\
   &&&= {\dn .r.saya.h}\\
   &&&= sages; saints; ascetics\\
   &&&\note{\noun, \male, \plural}\\
@@ -1109,7 +1109,7 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&= Devala\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn vyaasa.h}&vyaa|sa\quad(|.h(a))&Vyaasa\\
+  &{\dn vyaasa.h}&vyaa|sa\h{a}&Vyaasa\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1223,7 +1223,7 @@ visible form of you.\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn daanavaa.h}&daa|na|vaa\quad(|.h(aa))&demons\\
+  &{\dn daanavaa.h}&daa|na|vaa\h{aa}&demons\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn daanava.h} = daanava.h}\\
 \end{tabular}
@@ -1371,7 +1371,7 @@ worlds.\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&\multicolumn{2}{l}{vi|bhuu|ta|ya\quad(|.h(a))}\\
+  &&\multicolumn{2}{l}{vi|bhuu|ta|ya\h{a}}\\
   &&&\\
   &&&{\dn vibhuutaya.h}\\
   &&&= (?)\\
@@ -1553,7 +1553,7 @@ Using detail of (your) self, O being-disturbance (O K.r.s.na), say
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&(?)\\
+  2a&{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn bhuuyam} = bhuuyam}\\
   &&&\note{= being; becoming}\\
   &&&\\
@@ -1647,7 +1647,7 @@ of me is no end.\\
   &&&= self; soul\\
   &&&\note{\prefix}\\
   &&&\\
-  &&vi|bhuu|ta|ya\quad(|.h(a))&{\dn vibhuutaya.h}\\
+  &&vi|bhuu|ta|ya\h{a}&{\dn vibhuutaya.h}\\
   &&&= (items of) power; wealth\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn vibhuuti.h} = vibhuuti.h}\\
@@ -1655,7 +1655,7 @@ of me is no end.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn praadhaanyata.h}&praa|dhaa|nya|ta\quad(|.h(a))&principally\\
+  2a&{\dn praadhaanyata.h}&praa|dhaa|nya|ta\h{a}&principally\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn kuru"sre.s.tha}&ku|ru|&{\dn kuru}\\
@@ -1730,7 +1730,7 @@ beings, really.\\
   &&&= mind; soul; heart; stomach\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sthi|ta\quad(|.h(a))&{\dn sthita.h}\\
+  &&sthi|ta\h{a}&{\dn sthita.h}\\
   &&&= standing; staying; steadfast; stopping\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -1899,7 +1899,7 @@ consciousness.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn vaasava.h}&vaa|sa|va\quad(|.h(a))&Vaasava\\
+  &{\dn vaasava.h}&vaa|sa|va\h{a}&Vaasava\\
   &&&= Indra\\
   &&&= king of the gods\\
   &&&\note{\noun, \male}\\
@@ -2012,7 +2012,7 @@ peaks (of mountains), I (am) Meru.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn meru.h}&me|ru\quad(|.h(u))&Meru\\
+  2b&{\dn meru.h}&me|ru\h{u}&Meru\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn "sikhari.naamaham}&"si|kha|ri|.naa|ma|&"sikhari.naam\\
@@ -2083,7 +2083,7 @@ of war). Of (bodies of) water, (I) am the sea.\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn skanda.h}&skan|da\quad(|.h(a))&Skanda\\
+  &{\dn skanda.h}&skan|da\h{a}&Skanda\\
   &&&= god of war, and son of "Siva\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
@@ -2099,7 +2099,7 @@ of war). Of (bodies of) water, (I) am the sea.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn saagara.h}&saa|ga|ra\quad(|.h(a))&sea\\
+  &{\dn saagara.h}&saa|ga|ra\h{a}&sea\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2188,7 +2188,7 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&&= winter\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&la|ya\quad(|.h(a))&aalaya.h\\
+  &&la|ya\h{a}&aalaya.h\\
   &&&= {\dn aalaya.h}\\
   &&&= house\\
   &&&\note{\noun, \male}\\
@@ -2204,7 +2204,7 @@ Naarada. Of musician gods, (I am) Citraratha. Of successful men, (I
 am) the monk Kapila.\\
 
 \begin{tabular}{llll}
-  1a&{\dn a"svattha.h}&a|"svat|tha\quad(|.h(a))&fig tree\\
+  1a&{\dn a"svattha.h}&a|"svat|tha\h{a}&fig tree\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sarvav.rk.saa.naa.m}&sar|va|&{\dn sarva}\\
@@ -2233,7 +2233,7 @@ am) the monk Kapila.\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn naarada.h}&naa|ra|da\quad(|.h(a))&Naarada\\
+  &{\dn naarada.h}&naa|ra|da\h{a}&Naarada\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2245,7 +2245,7 @@ am) the monk Kapila.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn gandharva.h} = gandharva.h}\\
   &&&\\
-  &{\dn citraratha.h}&ci|tra|ra|tha\quad(|.h(a))&Citraratha\\
+  &{\dn citraratha.h}&ci|tra|ra|tha\h{a}&Citraratha\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2261,7 +2261,7 @@ am) the monk Kapila.\\
   &&&= Kapila\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn muni.h}&mu|ni\quad(|.h(i))&monk\\
+  &{\dn muni.h}&mu|ni\h{i}&monk\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2422,7 +2422,7 @@ the sky, and the king of gods). Of cows, (I) am the desire-yielding
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn kandarpa.h}&kan|dar|pa\quad(|.h(a))&Cupid (god of love)\\
+  &{\dn kandarpa.h}&kan|dar|pa\h{a}&Cupid (god of love)\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2437,7 +2437,7 @@ the sky, and the king of gods). Of cows, (I) am the desire-yielding
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{from {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn vaasuki.h}&vaa|su|ki\quad(|.h(i))&Vaasuki (king of serpents)\\
+  &{\dn vaasuki.h}&vaa|su|ki\h{i}&Vaasuki (king of serpents)\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2509,7 +2509,7 @@ I (am) Yama (the god of death).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yama.h}&ya|ma\quad(|.h(a))&Yama (god of death)\\
+  2b&{\dn yama.h}&ya|ma\h{a}&Yama (god of death)\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa.myamataamaham}&sa.m|ya|ma|taa|ma|&sa.myamataam\\
@@ -2553,7 +2553,7 @@ by Vi.s.nu).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn kaala.h}&kaa|la\quad(|.h(a))&time; verb tense\\
+  1b&{\dn kaala.h}&kaa|la\h{a}&time; verb tense\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn kalayataamaham}&ka|la|ya|taa|ma|&kalayataam\\
@@ -2614,7 +2614,7 @@ Of purifiers, (I) am Pavana (the god of wind). Of weapon-hired-men, I
 Ga"nga (Ganges) River.\\
 
 \begin{tabular}{llll}
-  1a&{\dn pavana.h}&pa|va|na\quad(|.h(a))&purifier; air; wind; Pavana (god of wind)\\
+  1a&{\dn pavana.h}&pa|va|na\h{a}&purifier; air; wind; Pavana (god of wind)\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn pavataamasmi}&pa|va|taa|ma|&pavataam\\
@@ -2631,7 +2631,7 @@ Ga"nga (Ganges) River.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn raama.h}&raa|ma\quad(.h(a))&Raama\\
+  1b&{\dn raama.h}&raa|ma\h{a}&Raama\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn "sastrabh.rtaamaham}&"sa|stra|&"sastram\\
@@ -2755,7 +2755,7 @@ Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn vaada.h}&vaa|da\quad(|.h(a))&theory\\
+  2b&{\dn vaada.h}&vaa|da\h{a}&theory\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn pravadataamaham}&pra|va|da|taa|ma|&pravadataam\\
@@ -2800,7 +2800,7 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn dvandva.h}&dvan|dva\quad(|.h(a))&(?)\\
+  1b&{\dn dvandva.h}&dvan|dva\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn dvandvam} = dvandvam}\\
   &&&\note{= duality}\\
   &&&\\
@@ -2823,7 +2823,7 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   &&(a)&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&k.sa|ya\quad(|.h(a))&decay; destruction\\
+  &&k.sa|ya\h{a}&decay; destruction\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn kaalo}&kaa|lo&kaala.h\\
@@ -2844,7 +2844,7 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   &&&= in all directions; at all times\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&mu|kha\quad(|.h(a))&{\dn mukha.h}\\
+  &&mu|kha\h{a}&{\dn mukha.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn mukham} = mukham}\\
   &&&\note{= mouth; muzzle; face}\\
@@ -2860,7 +2860,7 @@ of women, (I am) fame, splendor, voice, remembering, intelligence,
 steadfastness, (and) patience.\\
 
 \begin{tabular}{llll}
-  1a&{\dn m.rtyu.h}&m.r|tyu\quad(|.h(u))&death; god of disease\\
+  1a&{\dn m.rtyu.h}&m.r|tyu\h{u}&death; god of disease\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sarvahara"scaahamudbhava"sca}&sar|va|&sarva.h\\
@@ -2896,7 +2896,7 @@ steadfastness, (and) patience.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn kiirti.h}&kiir|ti\quad(|.h(i))&fame\\
+  2a&{\dn kiirti.h}&kiir|ti\h{i}&fame\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn "sriirvaakca}&"sriir|&"srii.h\\
@@ -2928,7 +2928,7 @@ steadfastness, (and) patience.\\
   &&&= mental power; intelligence\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn dh.rti.h}&dh.r|ti\quad(|.h(i))&steadfastness\\
+  &{\dn dh.rti.h}&dh.r|ti\h{i}&steadfastness\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn k.samaa}&k.sa|maa&(?)\\
@@ -3012,7 +3012,7 @@ flower-abundance.\\
   &&&= flower; fruit\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ka|ra\quad(|.h(a))&aakara.h\\
+  &&ka|ra\h{a}&aakara.h\\
   &&&= {\dn aakara.h}\\
   &&&= abundance\\
   &&&\note{\noun, \male}\\
@@ -3148,7 +3148,7 @@ sages, (I am) the sage U"sanaa.\\
   &&&= money\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ja|ya\quad(|.h(a))&{\dn jaya.h}\\
+  &&ja|ya\h{a}&{\dn jaya.h}\\
   &&&= victory\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -3167,7 +3167,7 @@ sages, (I am) the sage U"sanaa.\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn vyaasa.h}&vyaa|sa\quad(|.h(a))&Vyaasa\\
+  &{\dn vyaasa.h}&vyaa|sa\h{a}&Vyaasa\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3182,7 +3182,7 @@ sages, (I am) the sage U"sanaa.\\
   &&&= U"sanaa\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn kavi.h}&ka|vi\quad(|.h(i))&poet; sage; owl\\
+  &{\dn kavi.h}&ka|vi\h{i}&poet; sage; owl\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -3420,7 +3420,7 @@ by me (is) a (brief description) of the power vastness (of me).\\
   &{\dn tuudde"sata.h}&tuud|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&de|"sa|ta\quad(|.h(a))&udde"sata.h\\
+  &&de|"sa|ta\h{a}&udde"sata.h\\
   &&&= {\dn udde"sata.h}\\
   &&&= (?) udde"satas\\
   &&&= {\dn udde"satas}\\
