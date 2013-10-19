@@ -125,7 +125,7 @@ enemies (O Arjuna).\\
   &&&\note{similar: \noun, \male, {\dn .r.si.h} = .r.si.h}\\
   &&&\note{= seer; sage; ascetic}\\
   &&&\\
-  &{\dn vidu.h}&vi|du\quad(|.h(u))&intelligent; wise\\
+  &{\dn vidu.h}&vi|du\h{u}&intelligent; wise\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -152,7 +152,7 @@ enemies (O Arjuna).\\
   &&&= union; connection; work devotion\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na.s.ta.h}&na.s|.ta\quad(|.h(a))&lost; destroyed; spoiled\\
+  &{\dn na.s.ta.h}&na.s|.ta\h{a}&lost; destroyed; spoiled\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&O destroyer of enemies\\
@@ -193,13 +193,13 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yoga.h}&yo|ga\quad(|.h(a))&union; connection; work; devotion\\
+  1b&{\dn yoga.h}&yo|ga\h{a}&union; connection; work; devotion\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn prokta.h}&prok|ta\quad(|.h(a))&said; declared; called\\
+  &{\dn prokta.h}&prok|ta\h{a}&said; declared; called\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn puraatana.h}&pu|raa|ta|na\quad(|.h(a))&old; ancient\\
+  &{\dn puraatana.h}&pu|raa|ta|na\h{a}&old; ancient\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -296,7 +296,7 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&= birth\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn vivasvata.h}&vi|va|sva|ta\quad(|.h(a))&of Vivasvaan (the sun god)\\
+  &{\dn vivasvata.h}&vi|va|sva|ta\h{a}&of Vivasvaan (the sun god)\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn vivasvaan} = vivasvaan}\\
 \end{tabular}
@@ -696,7 +696,7 @@ goes toward me, O Arjuna.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tattvata.h}&tat|tva|ta\quad(|.h(a))&really\\
+  &{\dn tattvata.h}&tat|tva|ta\h{a}&really\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -795,7 +795,7 @@ happened.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&\multicolumn{2}{l}{paa|"sri|taa\quad(|.h(aa))}\\
+  &&\multicolumn{2}{l}{paa|"sri|taa\h{aa}}\\
   &&&\\
   &&&upaa"sritaa.h\\
   &&&= {\dn upaa"sritaa.h}\\
@@ -836,7 +836,7 @@ happened.\\
   &&&= sentiment; emotion; manner\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ga|taa\quad(|.h(aa))&aagataa.h\\
+  &&ga|taa\h{aa}&aagataa.h\\
   &&&= {\dn aagataa.h}\\
   &&&= happened; come\\
   &&&\note{\adjective, \male, \plural}\\
@@ -910,7 +910,7 @@ follow my path, O prince (O Arjuna), all together.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn manu.syaa.h}&ma|nu|.sysaa\quad(|.h(aa))&men; husbands; humans\\
+  2b&{\dn manu.syaa.h}&ma|nu|.sysaa\h{aa}&men; husbands; humans\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
   &&&\\
@@ -919,7 +919,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&all together\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all together\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -933,7 +933,7 @@ actions. Quickly, surely, in humanity, in the world, fulfillment is
 action-born.\\
 
 \begin{tabular}{llll}
-  1a&{\dn kaa"nk.santa.h}&kaa"nk|.san|ta\quad(|.h(a))&(?)\\
+  1a&{\dn kaa"nk.santa.h}&kaa"nk|.san|ta\h{a}&(?)\\
   &&&\note{similar: \noun, \female, {\dn kaa"nk.saa} = kaa"nk.saa}\\
   &&&\note{= desire; wish}\\
   &&&\\
@@ -960,7 +960,7 @@ action-born.\\
   &{\dn iha}&i|ha&in this world; now; here\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn devataa.h}&de|va|taa\quad(|.h(aa))&gods\\
+  &{\dn devataa.h}&de|va|taa\h{aa}&gods\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn devata.h} = devata.h}\\
 \end{tabular}
@@ -1046,7 +1046,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&= action; work\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&\multicolumn{2}{l}{vi|bhaa|ga|"sa\quad(|.h(a))}\\
+  &&\multicolumn{2}{l}{vi|bhaa|ga|"sa\h{a}}\\
   &&&\\
   &&&{\dn vibhaaga"sa.h}\\
   &&&= accordingly; proportionately\\
@@ -1228,7 +1228,7 @@ ancestors.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn mumuk.subhi.h}&\multicolumn{2}{l}{mu|muk|.su|bhi\quad(|.h(i))}\\
+  &{\dn mumuk.subhi.h}&\multicolumn{2}{l}{mu|muk|.su|bhi\h{i}}\\
   &&&\\
   &&&using/by sages who desire freedom\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
@@ -1262,7 +1262,7 @@ ancestors.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn puurvai.h}&puur|vai\quad(|.h(i))&using/by older brothers; forefathers; ancestors\\
+  2b&{\dn puurvai.h}&puur|vai\h{i}&using/by older brothers; forefathers; ancestors\\
   &&&\\
   &{\dn puurvatara.m}&puur|va|&{\dn puurva}\\
   &&&= previous; old; ancient\\
@@ -1319,7 +1319,7 @@ will be free from non-grace.\\
   &&tra&atra = {\dn atra} = here\\
   &&&\note{\adverb, \noun, \indeclinable}\\
   &&&\\
-  &{\dn mohitaa.h}&mo|hi|taa\quad(|.h(aa))&deceived\\
+  &{\dn mohitaa.h}&mo|hi|taa\h{aa}&deceived\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn mohita.h} = mohita.h}\\
 \end{tabular}
@@ -1408,7 +1408,7 @@ hard to understand.\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn vikarma.na.h}&\multicolumn{2}{l}{vi|kar|ma|.na\quad(|.h(a))}\\
+  &{\dn vikarma.na.h}&\multicolumn{2}{l}{vi|kar|ma|.na\h{a}}\\
   &&&\\
   &&&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn vikarman} = vikarman}\\
@@ -1438,11 +1438,11 @@ hard to understand.\\
   2b&{\dn gahanaa}&ga|ha|naa&impenetrable; hard to understand; inaccessible\\
   &&&\note{\adjective, \female}\\
   &&&\\
-  &{\dn karma.no}&kar|ma|.na\quad(|.h(a))&related to action or work\\
+  &{\dn karma.no}&kar|ma|.na\h{a}&related to action or work\\
   &&&\note{\adjective, \male}\\
   &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
   &&&\\
-  &{\dn gati.h}&ga|ti\quad(|.h(i))&position; path; progress\\
+  &{\dn gati.h}&ga|ti\h{i}&position; path; progress\\
   &&&\note{\noun, \female}\\
 \end{tabular}
 \newpage
@@ -1469,7 +1469,7 @@ men. He is occupied with all actions done.\\
   &&&\note{\prefix: {\dn a} = a = not}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one\\
+  &{\dn ya.h}&ya\h{a}&(?) one\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn pa"syedakarma.ni}&pa|"sye|&pa"syet = {\dn pa"syet} = (he/she/it) may see\\
@@ -1493,7 +1493,7 @@ men. He is occupied with all actions done.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one\\
+  &{\dn ya.h}&ya\h{a}&(?) one\\
   &&&\note{\pronoun, \male}\\
 \end{tabular}
 \newpage
@@ -1520,7 +1520,7 @@ men. He is occupied with all actions done.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn yukta.h}&yuk|ta\quad(|.h(a))&joined; occupied with; suitable\\
+  &{\dn yukta.h}&yuk|ta\h{a}&joined; occupied with; suitable\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn k.rtsnakarmak.rt}&k.rts|na|&all\\
@@ -1552,7 +1552,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &{\dn samaarambhaa.h}&\multicolumn{2}{l}{sa|maa|ram|bhaa\quad(|.h(aa))}\\
+  &{\dn samaarambhaa.h}&\multicolumn{2}{l}{sa|maa|ram|bhaa\h{aa}}\\
   &&&\\
   &&&startings; undertakings; enterprises\\
   &&&\note{\noun, \male, \plural}\\
@@ -1570,7 +1570,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&= intention; desire; wish\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&\multicolumn{2}{l}{var|ji|taa\quad(|.h(aa))}\\
+  &&\multicolumn{2}{l}{var|ji|taa\h{aa}}\\
   &&&\\
   &&&without\\
   &&&\note{\adjective, \male, \plural}\\
@@ -1604,7 +1604,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &&hu\quad(|.h(u))&aahu.h\\
+  &&hu\h{u}&aahu.h\\
   &&&= {\dn aahu.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn aahuu.h} = aahuu.h}\\
@@ -1617,7 +1617,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
   &&&\\
-  &{\dn budhaa.h}&bu|dhaa\quad(|.h(aa))&wise men\\
+  &{\dn budhaa.h}&bu|dhaa\h{aa}&wise men\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn budha.h} = budha.h}\\
 \end{tabular}
@@ -1664,7 +1664,7 @@ not do any (thing).\\
   &&&= satisfied; full\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn niraa"sraya.h}&\multicolumn{2}{l}{ni|raa|"sra|ya\quad(|.h(a))}\\
+  &{\dn niraa"sraya.h}&\multicolumn{2}{l}{ni|raa|"sra|ya\h{a}}\\
   &&&\\
   &&&without help; shelter; support\\
   &&&\note{\adjective, \male}\\
@@ -1702,7 +1702,7 @@ not do any (thing).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
+  &{\dn sa.h}&sa\h{a}&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -1746,7 +1746,7 @@ life). He does not get injustice.\\
   &&&= each; all\\
   &&&\note{\adjective, \adverb, \pronoun}\\
   &&&\\
-  &&pa|ri|gra\quad(|.h(a))&{\dn parigraha.h}\\
+  &&pa|ri|gra\h{a}&{\dn parigraha.h}\\
   &&&= enclosure; control; constraint\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1828,13 +1828,13 @@ selfish, (is) the same in successful (things) and non-successful
   &&&= passed; neglected; left\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn vimatsara.h}&vi|mat|sa|ra\quad(|.h(a))&not selfish; not envious\\
+  &{\dn vimatsara.h}&vi|mat|sa|ra\h{a}&not selfish; not envious\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sama.h}&sa|ma\quad(|.h(a))&same; similar; good\\
+  2a&{\dn sama.h}&sa|ma\h{a}&same; similar; good\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn siddhaavasiddhau}&sid|dhaa|va|&siddhau\\
@@ -1907,7 +1907,7 @@ action for devotion.\\
   &&&= fixed; standing; placed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ce|ta|sa\quad(|.h(a))&(?)\\
+  &&ce|ta|sa\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn cetas} = cetas}\\
   &&&\note{= heart; intelligence; mind}\\
 \end{tabular}
@@ -1920,7 +1920,7 @@ action for devotion.\\
   &&&\note{\noun, \male, \dativecase}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&ca|ra|ta\quad(|.h(a))&aacarata.h\\
+  &&ca|ra|ta\h{a}&aacarata.h\\
   &&&= {\dn aacarata.h}\\
   &&&= (?) doing\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -2064,7 +2064,7 @@ sacrifice, using sacrifice.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yogina.h}&yo|gi|na\quad(|.h(a))&(?)\\
+  1b&{\dn yogina.h}&yo|gi|na\h{a}&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= follower; ascetic; magician}\\
   &&&\\
@@ -2376,7 +2376,7 @@ prepared men who have taken vows.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yataya.h}&ya|ta|ya\quad(|.h(a))&(?)\\
+  2b&{\dn yataya.h}&ya|ta|ya\h{a}&(?)\\
   &&&\note{similar: \adjective, {\dn yata} = yata}\\
   &&&\note{= governed; controlled; restrained}\\
   &&&\\
@@ -2384,7 +2384,7 @@ prepared men who have taken vows.\\
   &&&= prepared; decided; sharp\\
   &&&\note{\adjective}\\
   &&&\\
-  &&vra|taa\quad(|.h(aa))&{\dn vrataa.h}\\
+  &&vra|taa\h{aa}&{\dn vrataa.h}\\
   &&&= about men who have taken vows\\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vrata.h} = vrata.h}\\
@@ -2479,7 +2479,7 @@ breaths.\\
   &&&= restraining; stopping; expanding\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&\multicolumn{2}{l}{pa|raa|ya|.naa\quad(|.h(aa))}\\
+  &&\multicolumn{2}{l}{pa|raa|ya|.naa\h{aa}}\\
   &&&\\
   &&&(?) paraaya.naa.ni\\
   &&&= {\dn paraaya.naa.ni}\\
@@ -2499,7 +2499,7 @@ breaths.\\
   &&&= suppressed; restrained; definite\\
   &&&\note{\adjective}\\
   &&&\\
-  &&haa|raa\quad(|.h(aa))&aahaaraa.h\\
+  &&haa|raa\h{aa}&aahaaraa.h\\
   &&&= {\dn aahaaraa.h}\\
   &&&= foods\\
   &&&\note{\noun, \male, \plural}\\
@@ -2568,7 +2568,7 @@ the eternal God.\\
   &&k.sa|pi|ta|&ruined; suppressed; destroyed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kal|ma|.saa\quad(|.h(aa))&(?) kalma.saa.ni\\
+  &&kal|ma|.saa\h{aa}&(?) kalma.saa.ni\\
   &&&= {\dn kalma.saa.ni}\\
   &&&= stains; sins; dirtiness\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2652,7 +2652,7 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&&= from where\\
   &&&\note{\adverb}\\
   &&&\\
-  &&'nya\quad(|.h(a))&anya.h\\
+  &&'nya\h{a}&anya.h\\
   &&&= {\dn anya.h}\\
   &&&= different; other; strange\\
   &&&\note{\adjective, \male}\\
@@ -2797,7 +2797,7 @@ prince (O Arjuna), in knowledge, completes (knowledge).\\
   &&&= knowledge; consciousness; awareness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&yaj|\~{}na\quad(|.h(a))&{\dn yaj~na.h}\\
+  &&yaj|\~{}na\h{a}&{\dn yaj~na.h}\\
   &&&= sacrifice; devotion; worship\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -2908,7 +2908,7 @@ truth.\\
   &&&= truth; reality; essence\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dar|"si|na\quad(|.h(a))&(?)\\
+  &&dar|"si|na\h{a}&(?)\\
   &&&\note{similar: \adjective, {\dn dar"sin} = dar"sin}\\
   &&&\note{= seeing; examining; knowing}\\
 \end{tabular}
@@ -3023,7 +3023,7 @@ sin.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn paapebhya.h}&\multicolumn{2}{l}{paa|pe|bhya\quad(|.h(a))}\\
+  &{\dn paapebhya.h}&\multicolumn{2}{l}{paa|pe|bhya\h{a}}\\
   &&&\\
   &&&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn paapam} = paapam}\\
@@ -3031,7 +3031,7 @@ sin.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sarvebhya.h}&\multicolumn{2}{l}{sar|ve|bhya\quad(|.h(a))}\\
+  1b&{\dn sarvebhya.h}&\multicolumn{2}{l}{sar|ve|bhya\h{a}}\\
   &&&\\
   &&&(?)\\
   &&&\note{similar: \adjective, \pronoun, \adverb, \male, \plural,}\\
@@ -3047,7 +3047,7 @@ sin.\\
   &&&= acting; doing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ta|ma\quad(|.h(a))&most\\
+  &&ta|ma\h{a}&most\\
   &&&\note{\suffix}\\
 \end{tabular}
 \newpage
@@ -3143,7 +3143,7 @@ knowledge-fire does all actions (to) ash.\\
   &&&= knowledge; awareness; consciousness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ni\quad(|.h(i))&agni.h\\
+  &&ni\h{i}&agni.h\\
   &&&= {\dn agni.h}\\
   &&&= fire; digestive fluid\\
   &&&\note{\noun, \male}\\
@@ -3231,7 +3231,7 @@ knowledge. A self (with) action done, using time (over time), finds
   &&&= union; action; work\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa.m|sid|dha\quad(|.h(a))&gotten; done; accomplished\\
+  &&sa.m|sid|dha\h{a}&gotten; done; accomplished\\
   &&&\note{\adjective}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3280,7 +3280,7 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tatpara.h}&tat|pa|ra\quad(|.h(a))&devoted to; addicted to\\
+  1b&{\dn tatpara.h}&tat|pa|ra\h{a}&devoted to; addicted to\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sa.myatendriya.h}&sa.m|ya|ten|&sa.myata\\
@@ -3288,7 +3288,7 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &&&= self-controlled; contained; subdued\\
   &&&\note{\adjective}\\
   &&&\\
-  &&dri|ya\quad(|.h(a))&indriya.h\\
+  &&dri|ya\h{a}&indriya.h\\
   &&&= {\dn indriya.h}\\
   &&&= (?) indriyam\\
   &&&= {\dn indriyam}\\
@@ -3419,7 +3419,7 @@ next (world).\\
   &&&= doubt; danger; hesitation\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn aatmaa} = aatmaa}\\
@@ -3543,7 +3543,7 @@ descendant of Bharata (O Arjuna).\\
   &&&= {\dn asinaa}\\
   &&&= (?)\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn aatma} = aatma}\\
