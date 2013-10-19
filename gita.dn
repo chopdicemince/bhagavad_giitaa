@@ -19,6 +19,8 @@ the Bhagavad Gita}
 \include{chapter_alphabet}
 \include{chapter_organization}
 \include{chapter_melody}
+\include{chapter_grammar}
+\include{chapter_examples_of_cases}
 \include{chapter1}
 \include{chapter2}
 \include{chapter3}
@@ -37,7 +39,5 @@ the Bhagavad Gita}
 \include{chapter16}
 \include{chapter17}
 \include{chapter18}
-\include{chapter_grammar}
-\include{chapter_examples_of_cases}
 % ------------------------------------------------------------------------------
 \end{document}
