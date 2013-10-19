@@ -382,7 +382,7 @@ about) action using nature-born things, using the gu.nas.\\
   &{\dn hyava"sa.h}&hya|&hi = {\dn hi} = certainly\\
   &&&\note{\adverb}\\
   &&&\\
-  &&va|"sa|.h(a)&ava"sa.h\\
+  &&va|"sa\h{a}&ava"sa.h\\
   &&&= {\dn ava"sa.h}\\
   &&&= not willing; not free; submissive\\
   &&&\note{\adjective, \male}\\
@@ -397,7 +397,7 @@ about) action using nature-born things, using the gu.nas.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarva.h}&sar|va|.h(a)&each\\
+  2b&{\dn sarva.h}&sar|va\h{a}&each\\
   &&&\note{\adjective, \pronoun, \adverb}\\
   &&&\\
   &{\dn prak.rtijairgu.nai.h}&pra|k.r|ti|jair|&prak.rtijai.h\\
@@ -409,7 +409,7 @@ about) action using nature-born things, using the gu.nas.\\
   &&&\note{= nature; original state}\\
   &&&\note{from: root, jan = {\dn jan} = ``to give birth''}\\
   &&&\\
-  &&gu|.nai|.h(i)&{\dn gu.nai.h}\\
+  &&gu|.nai\h{i}&{\dn gu.nai.h}\\
   &&&= using/by virtues; qualities; strings\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
@@ -484,7 +484,7 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
   2b&{\dn mithyaacaara.h}&mi|thyaa|&wrongly; falsely; improperly\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&caa|ra|.h(a)&aacaara.h\\
+  &&caa|ra\h{a}&aacaara.h\\
   &&&= {\dn aacaara.h}\\
   &&&= conduct; manner; behavior\\
   &&&\note{\noun, \male}\\
@@ -550,7 +550,7 @@ senses, action union---and is not attached. He is the best.\\
   &&&= action\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dri|yai|.h(i)&indriyai.h\\
+  &&dri|yai\h{i}&indriyai.h\\
   &&&= {\dn indriyai.h}\\
   &&&= using/by senses; body organs; powers\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
@@ -569,7 +569,7 @@ senses, action union---and is not attached. He is the best.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|sak|ta|.h(a)&asakta.h\\
+  2b&&ma|sak|ta\h{a}&asakta.h\\
   &&&= {\dn asakta.h}\\
   &&&= not attached; devoted; engaged\\
   &&&\note{\adjective, \male}\\
@@ -628,7 +628,7 @@ non-action.\\
   &{\dn hyakarma.na.h}&hya|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&kar|ma|.na|.h(a)&akarma.na.h\\
+  &&kar|ma|.na\h{a}&akarma.na.h\\
   &&&= {\dn akarma.na.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
@@ -669,7 +669,7 @@ non-action.\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn prasidh} = prasidh}\\
   &&&\\
-  &&kar|ma|.na|.h(a)&akarma.na.h\\
+  &&kar|ma|.na\h{a}&akarma.na.h\\
   &&&= {\dn akarma.na.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
@@ -722,7 +722,7 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &{\dn karmabandhana.h}&kar|ma|&karmam = {\dn karmam} = action\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ban|dha|na|.h(a)&{\dn bandhana.h}\\
+  &&ban|dha|na\h{a}&{\dn bandhana.h}\\
   &&&= tying; binding; imprisonment\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \noun, \neuter, {\dn bandhanam} = bandhanam}\\
@@ -755,7 +755,7 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&&= immune; free; abandoned\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sa"n|ga|.h(a)&{\dn sa"nga.h}\\
+  &&sa"n|ga\h{a}&{\dn sa"nga.h}\\
   &&&= union; assembly; association\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -776,12 +776,12 @@ for you. Be loved and love-yielding.''\\
   1a&{\dn sahayaj~naa.h}&sa|ha|&{\dn saha} = with\\
   &&&\note{\preposition}\\
   &&&\\
-  &&yaj|\~{}naa\quad(|.h(aa))&{\dn yaj~naa.h}\\
+  &&yaj|\~{}naa\h{aa}&{\dn yaj~naa.h}\\
   &&&= offerings; devotion; worship\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &{\dn prajaa.h}&pra|jaa\quad(|.h(aa))&seeds; offspring; mankind\\
+  &{\dn prajaa.h}&pra|jaa\h{aa}&seeds; offspring; mankind\\
   &&&\note{\noun, \female, \plural, \nominativecase, \accusativecase}\\
   &&&\note{from {\dn prajaa} = prajaa}\\
   &&&\\
@@ -805,7 +805,7 @@ for you. Be loved and love-yielding.''\\
   &{\dn prajaapati.h}&pra|jaa|&seed; offspring; mankind\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&pra|ti|.h(i)&{\dn prati.h} = master; husband; lord\\
+  &&pra|ti\h{i}&{\dn prati.h} = master; husband; lord\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -899,7 +899,7 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \plural}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn va.h}&va|.h(a)&you; for you; of you (your)\\
+  &{\dn va.h}&va\h{a}&you; for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \plural,}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
 \end{tabular}
@@ -909,7 +909,7 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   2a&{\dn paraspara.m}&pa|ra|spa|ra.m&mutually; each other; one another\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhaavayanta.h}&bhaa|va|yan|ta|.h(a)&(?) devoted; cherished; thought about\\
+  &{\dn bhaavayanta.h}&bhaa|va|yan|ta\h{a}&(?) devoted; cherished; thought about\\
   &&&\note{\adjective?, \male?}\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
   &&&\note{\singular, {\dn bhaavayati} = bhaavayati}\\
@@ -919,7 +919,7 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn "sreya.h}&"sre|ya|.h(a)&credit; trust; confidence\\
+  2b&{\dn "sreya.h}&"sre|ya\h{a}&credit; trust; confidence\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paramavaapsyatha}&pa|ra|ma|&param\\
@@ -978,7 +978,7 @@ objects of enjoyment) is a thief, really.\\
   &&&= sacrifice; worship; offering\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&bhaa|vi|taa|.h(aa)&{\dn bhaavitaa.h}\\
+  &&bhaa|vi|taa\h{aa}&{\dn bhaavitaa.h}\\
   &&&= purified; created; cherished\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn bhaavita.h} = bhaavita.h}\\
@@ -1026,7 +1026,7 @@ objects of enjoyment) is a thief, really.\\
   &{\dn eva}&e|va&really\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa|.h(a)&that/he\\
+  &{\dn sa.h}&sa\h{a}&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -1050,7 +1050,7 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   &&&= superior; set apart; remaining\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&"si|na\quad(|.h(a))&aa"sina.h\\
+  &&"si|na\h{a}&aa"sina.h\\
   &&&= {\dn aa"sina.h}\\
   &&&= aged\\
   &&&\note{\adjective, \male}\\
@@ -1070,7 +1070,7 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   &&&= each; all\\
   &&&\note{\pronoun, \adjective, \adverb}\\
   &&&\\
-  &&kil|bi|.sai\quad(|.h(i))&{\dn kilbi.sai.h}\\
+  &&kil|bi|.sai\h{i}&{\dn kilbi.sai.h}\\
   &&&= using/by offences; diseases; sins\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
 \end{tabular}
@@ -1159,7 +1159,7 @@ offering, rain is. An offering is action-origin.\\
   &&&= rice; corn; food\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sam|bha|va\quad(|.h(a))&{\dn sambhava.h}\\
+  &&sam|bha|va\h{a}&{\dn sambhava.h}\\
   &&&= occasion; appearance; production\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1182,7 +1182,7 @@ offering, rain is. An offering is action-origin.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yaj~na.h}&yaj|\~{}na\quad(|.h(a))&sacrifice; worship; offering\\
+  2b&{\dn yaj~na.h}&yaj|\~{}na\h{a}&sacrifice; worship; offering\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn karmasamudbhava.h}&kar|ma|&karmam\\
@@ -1190,7 +1190,7 @@ offering, rain is. An offering is action-origin.\\
   &&&= action\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sa|mud|bha|va\quad(|.h(a))&{\dn samudbhava.h}\\
+  &&sa|mud|bha|va\h{a}&{\dn samudbhava.h}\\
   &&&= origin; production; existence\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1305,7 +1305,7 @@ Arjuna).\\
   &&&= here; in this world; now\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ya|.h(a)&(?) {\dn ya.h} = one\\
+  &&ya\h{a}&(?) {\dn ya.h} = one\\
   &&&\note{\pronoun, \male}\\
 \end{tabular}
 \newpage
@@ -1395,7 +1395,7 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&ca&{\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn maanava.h}&maa|na|va|.h(a)&man; human; mankind\\
+  &{\dn maanava.h}&maa|na|va\h{a}&man; human; mankind\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1523,7 +1523,7 @@ people---there is no meaning.\\
   &&&= meaning; sense; purpose\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vya|paa|"sra|ya\quad(|.h(a))&{\dn vyapaa"sraya.h}\\
+  &&vya|paa|"sra|ya\h{a}&{\dn vyapaa"sraya.h}\\
   &&&= support; shelter; refuge\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1543,7 +1543,7 @@ action, a man gets the highest (achievement).\\
   &&&= therefore\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&sak|ta\quad(|.h(a))&asakta.h\\
+  &&sak|ta\h{a}&asakta.h\\
   &&&= {\dn asakta.h}\\
   &&&= not + committed; clinging; attached\\
   &&&\note{\adjective, \male}\\
@@ -1604,7 +1604,7 @@ action, a man gets the highest (achievement).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn aap} = aap}\\
   &&&\\
-  &{\dn puuru.sa.h}&puu|ru|.sa\quad(|.h(a))&man; human; soul\\
+  &{\dn puuru.sa.h}&puu|ru|.sa\h{a}&man; human; soul\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1649,7 +1649,7 @@ mankind, you deserve to act.\\
   &&&= Janaka\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&da|ya\quad(|.h(a))&aadaya.h\\
+  &&da|ya\h{a}&aadaya.h\\
   &&&= {\dn aadaya.h}\\
   &&&= (?)\\
 \end{tabular}
@@ -1734,7 +1734,7 @@ proof, or that world, follows.\\
   &&&= vile; other; rejected\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn jana.h}&ja|na\quad(|.h(a))&being; man; person\\
+  &{\dn jana.h}&ja|na\h{a}&being; man; person\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1885,7 +1885,7 @@ Arjuna).\\
   &&&= related to action\\
   &&&\note{\adjective}\\
   &&&\\
-  &&tan|dri|ta\quad(|.h(a))&atandrita.h\\
+  &&tan|dri|ta\h{a}&atandrita.h\\
   &&&= {\dn atandrita.h}\\
   &&&= not + weary; weak; listless\\
   &&&\note{\adjective, \male}\\
@@ -1912,7 +1912,7 @@ Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn manu.syaa.h}&ma|nu|.syaa\quad(|.h(aa))&humans; men; husbands\\
+  2b&{\dn manu.syaa.h}&ma|nu|.syaa\h{aa}&humans; men; husbands\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
   &&&\\
@@ -1921,7 +1921,7 @@ Arjuna).\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&all together; wholly\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all together; wholly\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -2002,12 +2002,12 @@ worlds).\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
   &&&\note{root: {\dn upahan} = upahan}\\
   &&&\\
-  &&maa\quad(|.h(aa))&imaa.h = {\dn imaa.h} = these\\
+  &&maa\h{aa}&imaa.h = {\dn imaa.h} = these\\
   &&&\note{\pronoun, \female, \plural, \nominativecase,}\\
   &&&\note{\accusativecase}\\
   &&&\note{from {\dn iyam} = iyam = this}\\
   &&&\\
-  &{\dn prajaa.h}&pra|jaa\quad(|.h(aa))&seeds; creatures; people\\
+  &{\dn prajaa.h}&pra|jaa\h{aa}&seeds; creatures; people\\
   &&&\note{\noun, \female, \plural, \nominativecase,}\\
   &&&\note{\accusativecase}\\
   &&&\note{from {\dn prajaa} = prajaa}\\
@@ -2083,7 +2083,7 @@ performance, may join all actions.\\
   &&&\note{similar: \adjective, {\dn vidvas} = vidvas}\\
   &&&\note{= skilled; intelligent; wise}\\
   &&&\\
-  &&ta\quad(|.h(a))&yukta.h\\
+  &&ta\h{a}&yukta.h\\
   &&&= {\dn yukta.h}\\
   &&&= joined; sensible; experienced\\
   &&&\note{\adjective, \male}\\
@@ -2102,7 +2102,7 @@ Using the threads of primal matter, actions are being done, all
 together. The foolish ego self thinks, ``I am the doer.''\\
 
 \begin{tabular}{llll}
-  1a&{\dn prak.rte.h}&pra|k.t|te\quad(|.h(e))&from/of primal matter; mother; original state\\
+  1a&{\dn prak.rte.h}&pra|k.t|te\h{e}&from/of primal matter; mother; original state\\
   &&&\note{\noun, \female, \ablativecase, \genitivecase}\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
@@ -2112,7 +2112,7 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn gu.nai.h}&gu|.nai\quad(|.h(i))&using/by strings; threads; attributes\\
+  1b&{\dn gu.nai.h}&gu|.nai\h{i}&using/by strings; threads; attributes\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
@@ -2120,7 +2120,7 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa\quad(|.h(a))&all together\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all together\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -2197,7 +2197,7 @@ attach to threads.\\
   &&&= {\dn karmam}\\
   &&&= action; work\\
   &&&\\
-  &&vi|bhaa|ga|yo\quad(|.h(o))&{\dn vibhaagayo.h}\\
+  &&vi|bhaa|ga|yo\h{o}&{\dn vibhaagayo.h}\\
   &&&= of two parts; differences;\\
   &&&at/in/on two parts; differences\\
   &&&\note{\noun, \male, \dual, \genitivecase,}\\
@@ -2259,7 +2259,7 @@ who are not all-knowing and who are slow.\\
   &&&= virtue; quality; thread\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&\multicolumn{2}{l}{sam|muu|.dhaa\quad(|.h(aa))}\\
+  &&\multicolumn{2}{l}{sam|muu|.dhaa\h{aa}}\\
   &&&\\
   &&&{\dn sammuu.dhaa.h}\\
   &&&= foolish; stupefied; bewildered\\
@@ -2393,7 +2393,7 @@ possessions---fight. The affliction is gone.\\
   &&&= dead; disappeared; gone\\
   &&&\note{\adjective}\\
   &&&\\
-  &&jva|ra\quad(|.h(a))&jvara.h\\
+  &&jva|ra\h{a}&jvara.h\\
   &&&= {\dn jvara.h}\\
   &&&= grief; affliction; fever\\
   &&&\note{\noun, \male}\\
@@ -2438,7 +2438,7 @@ free, also, from action.\\
   &&&\note{\verbb, \presenttense,}\\
   &&&\note{\thirdperson, \plural}\\
   &&&\\
-  &&maa|na|vaa|.h(aa)&maanavaa.h\\
+  &&maa|na|vaa\h{aa}&maanavaa.h\\
   &&&= {\dn maanavaa.h}\\
   &&&= men; humans\\
   &&&\note{\noun, \male, \plural}\\
@@ -2475,7 +2475,7 @@ free, also, from action.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn karmabhi.h}&kar|ma|bhi\quad(|.h(i))&(?)\\
+  &{\dn karmabhi.h}&kar|ma|bhi\h{i}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
   &&&\note{= action; work}\\
 \end{tabular}
@@ -2558,7 +2558,7 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn na.s.ta.h} = na.s.ta.h}\\
   &&&\\
-  &&ce|ta|sa\quad(|.h(a))&acetasa.h\\
+  &&ce|ta|sa\h{a}&acetasa.h\\
   &&&= {\dn acetasa.h}\\
   &&&= (?) without sense;\\
   &&&not wise;\\
@@ -2585,7 +2585,7 @@ do?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn ce.s.t} = ce.s.t}\\
   &&&\\
-  &{\dn svasyaa.h}&sva|syaa\quad(|.h(aa))&safe; their own\\
+  &{\dn svasyaa.h}&sva|syaa\h{aa}&safe; their own\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn svasya.h} = svasya.h}\\
   % ----------------------------------------------------------------------------
@@ -2624,7 +2624,7 @@ do?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn nigraha.h}&ni|gra|ha\quad(|.h(a))&boundary; restraint; punishment\\
+  2b&{\dn nigraha.h}&ni|gra|ha\h{a}&boundary; restraint; punishment\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn ki.m}&ki.m&what\\
@@ -2741,7 +2741,7 @@ devotion is fear-producing.\\
   &&&= manner; religion; devotion; virtue\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn vigu.na.h}&vi|gu|.na\quad(|.h(a))&worthless; unsuccessful; bad\\
+  &{\dn vigu.na.h}&vi|gu|.na\h{a}&worthless; unsuccessful; bad\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2776,7 +2776,7 @@ devotion is fear-producing.\\
   &{\dn nidhana.m}&ni|dha|na.m&conclusion; end; destruction\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn "sreya.h}&"sre|ya\quad(|.h(a))&credit; trust; confidence\\
+  &{\dn "sreya.h}&"sre|ya\h{a}&credit; trust; confidence\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2794,7 +2794,7 @@ devotion is fear-producing.\\
   &&&= fear; sickness; danger\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va|ha\quad(|.h(a))&aavaha.h\\
+  &&va|ha\h{a}&aavaha.h\\
   &&&= {\dn aavaha.h}\\
   &&&= producing; conveying; bringing\\
   &&&\note{\adjective, \male}\\
@@ -2845,7 +2845,7 @@ if from force, commanded?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn car} = car}\\
   &&&\\
-  &{\dn puuru.sa.h}&puu|ru|.sa\quad(|.h(a))&man; person; soul\\
+  &{\dn puuru.sa.h}&puu|ru|.sa\h{a}&man; person; soul\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2875,7 +2875,7 @@ if from force, commanded?\\
   &&va&iva = {\dn iva} = as if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn niyojita.h}&ni|yo|ji|ta\quad(|.h(a))&commanded; attached; placed\\
+  &{\dn niyojita.h}&ni|yo|ji|ta\h{a}&commanded; attached; placed\\
   &&&\note{\adjective}
 \end{tabular}
 \newpage
@@ -2923,7 +2923,7 @@ and great-evil. This knowledge is enmity in this world.\\
   &&&= thread; virtue; organ of sense; characteristic\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&\multicolumn{2}{l}{sa|mud|bha|va\quad(|.h(a))}\\
+  &&\multicolumn{2}{l}{sa|mud|bha|va\h{a}}\\
   &&&\\
   &&&{\dn samudbhava.h}\\
   &&&= production; existence; origin\\
@@ -3319,7 +3319,7 @@ greater than senses. But knowledge is greater than the mind. But one
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&rin|dri|ye|bhya\quad(|.h(a))&indriyebhya.h\\
+  1b&&rin|dri|ye|bhya\h{a}&indriyebhya.h\\
   &&&= {\dn indriyebhya.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter,}\\
@@ -3329,7 +3329,7 @@ greater than senses. But knowledge is greater than the mind. But one
   &{\dn para.m}&pa|ra.m&other; greatest; beyond\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -3357,7 +3357,7 @@ greater than senses. But knowledge is greater than the mind. But one
   2b&&yo&ya.h = {\dn ya.h} = (?) one\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn buddhe.h}&bud|dhe\quad(|.h(e))&from/of mind; knowledge; intelligence\\
+  &{\dn buddhe.h}&bud|dhe\h{e}&from/of mind; knowledge; intelligence\\
   &&&\note{\noun, \female, \ablativecase, \genitivecase}\\
   &&&\note{from {\dn buddhi.h} = buddhi.h}\\
   &&&\\
@@ -3368,7 +3368,7 @@ greater than senses. But knowledge is greater than the mind. But one
   &&stu&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa\quad(|.h(a))&that/he\\
+  &{\dn sa.h}&sa\h{a}&that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -3387,7 +3387,7 @@ dangerous desire-form.\\
   &&&= really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn buddhe.h}&bud|dhe\quad(|.h(e))&from/of mind; knowledge; intelligence\\
+  &{\dn buddhe.h}&bud|dhe\h{e}&from/of mind; knowledge; intelligence\\
   &&&\note{\noun, \female, \ablativecase, \genitivecase}\\
   &&&\note{from {\dn buddhi.h} = buddhi.h}\\
   &&&\\
