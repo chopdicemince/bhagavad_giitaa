@@ -82,7 +82,7 @@ by Madhu-killer (K.r.s.na): \dots\\
   &&&= honey\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&suu|da|na\quad(|.h(a))&suudana.h\\
+  &&suu|da|na\h{a}&suudana.h\\
   &&&= {\dn suudana.h}\\
   &&&= (?) slayer; killer\\
   &&&\note{\noun, \male}\\
@@ -210,7 +210,7 @@ pulverizer of enemies (O Arjuna).\\
   &{\dn sma}&sma&surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn gama.h}&ga|ma\quad(|.h(a))&going\\
+  &{\dn gama.h}&ga|ma\h{a}&going\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
@@ -333,7 +333,7 @@ K.r.s.na)?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn i.subhi.h}&i|.su|bhi\quad(|.h(i))&using/by arrows\\
+  2a&{\dn i.subhi.h}&i|.su|bhi\h{i}&using/by arrows\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn i.su.h} = i.su.h}\\
   &&&\\
@@ -511,7 +511,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&ta|&etat = {\dn etat} = this\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&dvid|ma\quad(|.h(a))&(?)\\
+  &&dvid|ma\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn vidman} = vidman}\\
   &&&\note{= wisdom; knowledge; intelligence}\\
   &&&\\
@@ -550,7 +550,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn jayeyu.h}&ja|ye|yu\quad(|.h(u))&(they) may win; conquer\\
+  &{\dn jayeyu.h}&ja|ye|yu\h{u}&(they) may win; conquer\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \plural}\\
   &&&\note{root: {\dn ji} = ji}\\
 \end{tabular}
@@ -584,7 +584,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &&'va|sthi|taa|.h(aa)&avasthitaa.h\\
+  &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
   &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural}\\
@@ -594,7 +594,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn pramukha.h} = pramukha.h}\\
   &&&\\
-  &{\dn dhaartaraa.s.traa.h}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa\quad(|.h(aa))}\\
+  &{\dn dhaartaraa.s.traa.h}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa\h{aa}}\\
   &&&\\
   &&&sons of Dh.rtaraa.s.tra\\
   &&&\note{\noun, \male, \plural}\\
@@ -634,7 +634,7 @@ has eleven main syllables per line.)\\
   &&sva&{\dn sva} = self\\
   &&&\note{\prefix}\\
   &&&\\
-  &&bhaa|va\quad(|.h(a))&{\dn bhaava.h}\\
+  &&bhaa|va\h{a}&{\dn bhaava.h}\\
   &&&= birth; behavior\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -658,7 +658,7 @@ has eleven main syllables per line.)\\
   &&&= stupid; confused; perplexed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ce|taa\quad(|.h(aa))&{\dn cetaa.h}\\
+  &&ce|taa\h{aa}&{\dn cetaa.h}\\
   &&&= nerves\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn cetaa} = cetaa}\\
@@ -669,7 +669,7 @@ has eleven main syllables per line.)\\
   2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&chre|ya|.h(a)&"sreya.h\\
+  &&chre|ya\h{a}&"sreya.h\\
   &&&= {\dn "sreya.h}\\
   &&&= credit; trust; confidence\\
   &&&\note{\noun, \male}\\
@@ -872,10 +872,10 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn gu.daake"sa.h}&gu|.daa|ke|"sa\quad(|.h(a))&Arjuna\\
+  1b&{\dn gu.daake"sa.h}&gu|.daa|ke|"sa\h{a}&Arjuna\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn parantapa.h}&pa|ran|ta|pa\quad(|.h(a))&harassing or killing of enemies\\
+  &{\dn parantapa.h}&pa|ran|ta|pa\h{a}&harassing or killing of enemies\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -935,7 +935,7 @@ this group of words: \dots\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
-  &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa\quad(|.h(a))&K.r.s.na\\
+  &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa\h{a}&K.r.s.na\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -988,7 +988,7 @@ this group of words: \dots\\
   &&dam&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn vaca.h}&va|ca\quad(|.h(a))&(?) vacanam\\
+  &{\dn vaca.h}&va|ca\h{a}&(?) vacanam\\
   &&&= {\dn vacanam}\\
   &&&= word; group of words; sentence\\
   &&&\note{\noun, \neuter}\\
@@ -1100,7 +1100,7 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn anu"suc} = anu"suc}\\
   &&&\\
-  &{\dn pa.n.ditaa.h}&pa.n|.di|taa|.h(aa)&scholars; philosophers; teachers\\
+  &{\dn pa.n.ditaa.h}&pa.n|.di|taa\h{aa}&scholars; philosophers; teachers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pa.n.dita.h} = pa.n.dita.h}\\
 \end{tabular}
@@ -1155,7 +1155,7 @@ from later (will be).\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
-  &{\dn janaadhipaa.h}&ja|naa|dhi|paa\quad(|.h(aa))&kings\\
+  &{\dn janaadhipaa.h}&ja|naa|dhi|paa\h{aa}&kings\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn janaadhipa.h} = janaadhipa.h}\\
 \end{tabular}
@@ -1174,7 +1174,7 @@ from later (will be).\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma\quad(|.h(a))&(we) will be\\
+  &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma\h{a}&(we) will be\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \plural}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   % ----------------------------------------------------------------------------
@@ -1188,7 +1188,7 @@ from later (will be).\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&ta\quad(|.h(a))&ata.h\\
+  &&ta\h{a}&ata.h\\
   &&&= {\dn ata.h}\\
   &&&= from (some place or time)\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1328,7 +1328,7 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&= (occurrence of) distress\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&daa\quad(|.h(aa))&{\dn daa.h}\\
+  &&daa\h{aa}&{\dn daa.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn dam} = dam = gift}\\
 \end{tabular}
@@ -1514,7 +1514,7 @@ these two statements---by people who know or see.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn sata.h}&sa|ta|.h(a)&(?)\\
+  &{\dn sata.h}&sa|ta\h{a}&(?)\\
   &&&\note{similar: \adjective, {\dn satata} = satata = eternal}\\
 \end{tabular}
 \newpage
@@ -1561,7 +1561,7 @@ these two statements---by people who know or see.\\
   &&&= truth; essence\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dar|"si|bhi\quad(|.h(i))&(?) using/by people who know or see\\
+  &&dar|"si|bhi\h{i}&(?) using/by people who know or see\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn dar"sivas} = dar"sivas}\\
 \end{tabular}
@@ -1689,13 +1689,13 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
-  &&taa\quad(|.h(aa))&uktaa.h\\
+  &&taa\h{aa}&uktaa.h\\
   &&&= {\dn uktaa.h}\\
   &&&= said\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn ukta.h} = ukta.h}\\
   &&&\\
-  &{\dn "sariiri.na.h}&"sa|rii|ri|.na\quad(|.h(a))&(?)\\
+  &{\dn "sariiri.na.h}&"sa|rii|ri|.na\h{a}&(?)\\
   &&&\note{similar: \noun, \male: {\dn "sariirin} = "sariirin}\\
   &&&\note{= soul; being; man; creature}\\
 \end{tabular}
@@ -1878,7 +1878,7 @@ has eleven main syllables per line.)\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya\quad(|.ha)&(?)\\
+  &{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1890,7 +1890,7 @@ has eleven main syllables per line.)\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h}\\
   &&&\\
-  &{\dn nitya.h}&ni|tya\quad(|.h(a))&eternal\\
+  &{\dn nitya.h}&ni|tya\h{a}&eternal\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn "saa"svato.aya.m}&"saa|"sva|to|&"saa"svata.h\\
@@ -1984,7 +1984,7 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa\quad(|.h(a))&man; person; soul\\
+  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; person; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
@@ -2143,7 +2143,7 @@ and water does not wet this. Wind does not dry (this).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn dah} = dah}\\
   &&&\\
-  &{\dn paavaka.h}&paa|va|ka\quad(|.h(a))&fire; purified person; kind of plant\\
+  &{\dn paavaka.h}&paa|va|ka\h{a}&fire; purified person; kind of plant\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2179,7 +2179,7 @@ and water does not wet this. Wind does not dry (this).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn "su.s} = "su.s}\\
   &&&\\
-  &{\dn maaruta.h}&maa|ru|ta\quad(|.h(a))&wind; air; breath\\
+  &{\dn maaruta.h}&maa|ru|ta\h{a}&wind; air; breath\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -2236,10 +2236,10 @@ not moving. This is eternal.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nitya.h}&ni|tya\quad(|.h(a))&eternal\\
+  2a&{\dn nitya.h}&ni|tya\h{a}&eternal\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn sarvagata.h}&sar|va|ga|ta\quad(|.h(a))&everywhere\\
+  &{\dn sarvagata.h}&sar|va|ga|ta\h{a}&everywhere\\
   &&&\note{\adverb, \male}\\
   &&&\note{from: \pronoun, \male, {\dn sarva.h} = sarva.h = each}\\
   &&&\note{from: \adjective, \male, {\dn gata.h} = gata.h}\\
@@ -2262,7 +2262,7 @@ not moving. This is eternal.\\
   &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn sanaatana.h}&sa|naa|ta|na\quad(|.h(a))&eternal; ancient\\
+  &{\dn sanaatana.h}&sa|naa|ta|na\h{a}&eternal; ancient\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \adjective, \male, {\dn sana.h} = sana.h = ancient}\\
   &&&\note{from: \noun, \neuter, {\dn tanam} = tanam = offspring}\\
@@ -2653,7 +2653,7 @@ really any knowledge.\\
   &&&\\
   &{\dn caanya.h}&caan|&ca = {\dn ca} = and\\
   &&&\\
-  &&ya|.h(a)&anya.h = {\dn anya.h} = another/other person\\
+  &&ya\h{a}&anya.h = {\dn anya.h} = another/other person\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2674,7 +2674,7 @@ really any knowledge.\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &&ya|.h(a)&anya.h = {\dn anya.h} = another/other person\\
+  &&ya\h{a}&anya.h = {\dn anya.h} = another/other person\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn "s.r.noti}&"s.r|.no|ti&(he/she/it) hears\\
@@ -2908,10 +2908,10 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sukhina.h}&su|khi|na|.h(a)&happy\\
+  2a&{\dn sukhina.h}&su|khi|na\h{a}&happy\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn k.satriyaa.h}&k.sa|tri|yaa|.h(aa)&people in the warrior caste\\
+  &{\dn k.satriyaa.h}&k.sa|tri|yaa\h{aa}&people in the warrior caste\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn k.satriya.h} = k.satriya.h}\\
   &&&\\
@@ -2975,7 +2975,7 @@ self nature and fame, you will get evil.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tata.h}&ta|ta|.h(a)&then; from that; from there\\
+  2a&{\dn tata.h}&ta|ta\h{a}&then; from that; from there\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn svadharma.m}&sva|dhar|ma.m&self nature\\
@@ -3116,7 +3116,7 @@ small importance.\\
   &&&\note{\singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|ra|thaa|.h(aa)&great chariots/warriors\\
+  &{\dn mahaarathaa.h}&ma|haa|ra|thaa\h{aa}&great chariots/warriors\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from: \adjective, \male,}\\
   &&&\note{{\dn mahaan} = mahaan = great}\\
@@ -3194,7 +3194,7 @@ ability. From more sadness, certainly, what can come?\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&hi|taa|.h(aa)&ahitaa.h\\
+  &&hi|taa\h{aa}&ahitaa.h\\
   &&&= {\dn ahitaa.h}\\
   &&&= enemies\\
   &&&\note{\noun, \male, \plural}\\
@@ -3301,7 +3301,7 @@ Arjuna).  For the fight, be certain.\\
   &&&\note{\noun, \neuter, \dativecase}\\
   &&&\note{from {\dn yuddham} = yuddham}\\
   &&&\\
-  &{\dn k.rtani"scaya.h}&k.r|ta|ni"s|ca|ya|.h(a)&certain\\
+  &{\dn k.rtani"scaya.h}&k.r|ta|ni"s|ca|ya\h{a}&certain\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \adjective, \male, {\dn k.rta.h} = k.rta.h = done}\\
   &&&\note{from: \noun, \male, {\dn ni"scaya.h} = ni"scaya.h = decision}\\
@@ -3646,7 +3646,7 @@ group of words, O prince (O Arjuna):\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pravad} = pravad}\\
   &&&\\
-  &&vi|pa"s|ci|ta|.h(a)&avipa"scita.h\\
+  &&vi|pa"s|ci|ta\h{a}&avipa"scita.h\\
   &&&= {\dn avipa"scita.h}\\
   &&&= not wise\\
   &&&\note{\adjective, \male}\\
@@ -3655,7 +3655,7 @@ group of words, O prince (O Arjuna):\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn vedavaadarataa.h}&ve|da|vaa|da|ra|taa|.h(aa)&people who enjoy knowledge\\
+  2a&{\dn vedavaadarataa.h}&ve|da|vaa|da|ra|taa\h{aa}&people who enjoy knowledge\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vedavaadarata.h} = vedavaadarata.h}\\
   &&&\note{from: \noun, \male, {\dn veda.h} = veda.h = knowledge}\\
@@ -3684,7 +3684,7 @@ group of words, O prince (O Arjuna):\\
   &&&\\
   &&ti&iti = {\dn iti} = ``end of quote''\\
   &&&\\
-  &{\dn vaadina.h}&vaa|di|na|.h(a)&sayer (?)\\
+  &{\dn vaadina.h}&vaa|di|na\h{a}&sayer (?)\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -3703,7 +3703,7 @@ wealth; to movement.''\\
   &&&= sexual love\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&maa|na|.h(a)&(?) aatmaana.h\\
+  &&maa|na\h{a}&(?) aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
   &&&= self\\
   &&&\note{\noun, \male}\\
@@ -3821,7 +3821,7 @@ on reason, is carried off. A pair of reconciliations is not allotted
   &&&= based on (?)\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn buddhi.h}&bud|dhi|.h(i)&reason; mind\\
+  &{\dn buddhi.h}&bud|dhi\h{i}&reason; mind\\
   &&&\note{\noun, \female}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3950,7 +3950,7 @@ in knowledge.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sarvata.h}&sar|va|ta|.h(a)&each place\\
+  1b&{\dn sarvata.h}&sar|va|ta\h{a}&each place\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn samplutodake}&sam|plu|to|&sampluta\\
@@ -3983,7 +3983,7 @@ in knowledge.\\
   &&&\note{\male, \noun, \genitivecase}\\
   &&&\note{from {\dn braahmana.h} = braahmana.h}\\
   &&&\\
-  &{\dn vijaanata.h}&vi|jaa|na|ta|.h(a)&cleverness (?)\\
+  &{\dn vijaanata.h}&vi|jaa|na|ta\h{a}&cleverness (?)\\
   &&&\note{\noun, \male}\\
   &&&\note{from: \noun, \female, {\dn vijaanataa} = vijaanataa = cleverness}\\
 \end{tabular}
@@ -4092,7 +4092,7 @@ non-success. This equanimity is called ``yoga.''\\
   &&&= union; endeavor; job\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sta|.h(a)&devoted to;\\
+  &&sta\h{a}&devoted to;\\
   &&&engaged in;\\
   &&&existing in\\
   &&&\note{\adjective, \male}\\
@@ -4220,7 +4220,7 @@ for fruit (of their actions).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn k.rpa.naa.h}&k.r|pa|.naa|.h(aa)&poor men; misers\\
+  2b&{\dn k.rpa.naa.h}&k.r|pa|.naa\h{aa}&poor men; misers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn k.rpa.na.h} = k.rpa.na.h}\\
   &&&\\
@@ -4229,7 +4229,7 @@ for fruit (of their actions).\\
   &&&= fruit\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&he|ta|va|.h(a)&``urged; incited''(?)\\
+  &&he|ta|va\h{a}&``urged; incited''(?)\\
   &&&\note{from: \adjective, {\dn hetva} = hetva}\\
 \end{tabular}
 \newpage
@@ -4293,7 +4293,7 @@ action, and skill.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yoga.h}&yo|ga|.h(a)&work\\
+  2b&{\dn yoga.h}&yo|ga\h{a}&work\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&``action'' (?)\\
@@ -4339,7 +4339,7 @@ position of health.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
-  &{\dn manii.si.na.h}&ma|nii|.si|.na|.h(a)&sage; teacher (?)\\
+  &{\dn manii.si.na.h}&ma|nii|.si|.na\h{a}&sage; teacher (?)\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -4355,7 +4355,7 @@ position of health.\\
   &&&= bundle; chain; bondage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vi|nir|muk|taa|.h(aa)&free from (something)\\
+  &&vi|nir|muk|taa\h{aa}&free from (something)\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vinirmukta.h} = vinirmukta.h}\\
   % ----------------------------------------------------------------------------
@@ -4569,7 +4569,7 @@ walk?\\
   2a&{\dn sthitadhii.h}&sthi|ta|&resolute; firm; present\\
   &&&\note{\adjective}\\
   &&&\\
-  &&dhii|.h(ii)&prayer; wisdom; meditation\\
+  &&dhii\h{ii}&prayer; wisdom; meditation\\
   &&&\note{\noun, \female, \plural, \accusativecase}\\
   &&&\note{from {\dn dhii} = dhii}\\
   &&&\\
@@ -4670,7 +4670,7 @@ wise.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn tu.s.ta.h}&tu.s|.ta|.h(a)&satisfied; pleased\\
+  &{\dn tu.s.ta.h}&tu.s|.ta\h{a}&satisfied; pleased\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -4710,7 +4710,7 @@ with a resolute mind.\\
   &&&= {\dn anudvigna}\\
   &&&= serene; carefree\\
   &&&\\
-  &&ma|naa|.h(aa)&minds\\
+  &&ma|naa\h{aa}&minds\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   % ----------------------------------------------------------------------------
@@ -4723,7 +4723,7 @@ with a resolute mind.\\
   &{\dn vigatasp.rha.h}&vi|ga|ta|&dark; gloomy; destitute\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sp.r|ha|.h(a)&``desire; wish; pleasure'' (?)\\
+  &&sp.r|ha\h{a}&``desire; wish; pleasure'' (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4741,7 +4741,7 @@ with a resolute mind.\\
   &&&= fear; danger; sickness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kro|dha|.h(a)&anger; passion\\
+  &&kro|dha\h{a}&anger; passion\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -4776,7 +4776,7 @@ not hate attainable goodness and non-goodness---his knowledge is
 complete.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya.h}&ya|.h(a)&one (?)\\
+  1a&{\dn ya.h}&ya\h{a}&one (?)\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sarvatraanabhisnehastattatpraapya}&sar|va|traa|&sarvatra\\
@@ -4884,7 +4884,7 @@ knowledge is complete.\\
   &&&= {\dn iva}\\
   &&&= like; as if\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa|.h(a)&all\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4941,7 +4941,7 @@ objects).\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn niraahaara.h} = niraahaara.h}\\
   &&&\\
-  &{\dn dehina.h}&de|hi|na|.h(a)&for a/the person; living thing; soul (?)\\
+  &{\dn dehina.h}&de|hi|na\h{a}&for a/the person; living thing; soul (?)\\
   &&&\note{\noun, \male, \dativecase}\\
   &&&\note{from {\dn dehin} = dehin}\\
 \end{tabular}
@@ -5009,7 +5009,7 @@ person---the senses are agitating and they destroy violently.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
   &&&\\
-  &{\dn vipa"scita.h}&vi|pa"s|ci|ta|.h(a)&``wisdom'' (?)\\
+  &{\dn vipa"scita.h}&vi|pa"s|ci|ta\h{a}&``wisdom'' (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5031,7 +5031,7 @@ person---the senses are agitating and they destroy violently.\\
   &{\dn prasabha.m}&pra|sa|bha.m&violently; forcibly\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn mana.h}&ma|na|.h(a)&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -5065,7 +5065,7 @@ complete.\\
   &&&\\
   &{\dn aasiita}&aa|sii|ta&``(they) were'' (?)\\
   &&&\\
-  &{\dn matpara.h}&mat|pa|ra|.h(a)&devoted to me\\
+  &{\dn matpara.h}&mat|pa|ra\h{a}&devoted to me\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -5118,7 +5118,7 @@ born. From association, desire is born. From desire, anger is born.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vi.saya.h} = vi.saya.h}\\
   &&&\\
-  &&pu.m|sa|.h(a)&of a/the man; person; soul (?)\\
+  &&pu.m|sa\h{a}&of a/the man; person; soul (?)\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn pu.ms} = pu.ms}\\
   % ----------------------------------------------------------------------------
@@ -5152,7 +5152,7 @@ born. From association, desire is born. From desire, anger is born.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.mjan} = sa.mjan}\\
   &&&\\
-  &{\dn kaama.h}&kaa|ma|.h(a)&sexual love; desire; pleasure\\
+  &{\dn kaama.h}&kaa|ma\h{a}&sexual love; desire; pleasure\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5192,7 +5192,7 @@ memory loss is mind loss. From mind loss, a person dies.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sammoha.h}&sam|mo|ha|.h(a)&confusion; illusion; foolishness\\
+  &{\dn sammoha.h}&sam|mo|ha\h{a}&confusion; illusion; foolishness\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5206,7 +5206,7 @@ memory loss is mind loss. From mind loss, a person dies.\\
   &&&= remembering; memory; desire\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&vi|bhra|ma|.h(a)&disturbance; mistake; illusion\\
+  &&vi|bhra|ma\h{a}&disturbance; mistake; illusion\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -5396,7 +5396,7 @@ born---a happy mind, certainly. Knowledge is present around, fast.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn buddhi.h}&bud|dhi|.h(i)&intelligence; knowledge; mind\\
+  2b&{\dn buddhi.h}&bud|dhi\h{i}&intelligence; knowledge; mind\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn paryavati.s.thate}&par|ya|&pari\\
@@ -5466,7 +5466,7 @@ or non-peace---from where does happiness come?\\
   &&&\\
   &{\dn caabhaavayata.h}&caa|&ca = {\dn ca} = and\\
   &&&\\
-  &&bhaa|va|ya|ta|.h(a)&abhaavayata.h\\
+  &&bhaa|va|ya|ta\h{a}&abhaavayata.h\\
   &&&= {\dn abhaavayata.h}\\
   &&&= (?) one who does not think;\\
   &&&\quad does not cause;\\
@@ -5485,7 +5485,7 @@ or non-peace---from where does happiness come?\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn a} + {\dn "saanti.h} = a + "saanti.h}\\
   &&&\\
-  &{\dn kuta.h}&ku|ta|.h(a)&from where\\
+  &{\dn kuta.h}&ku|ta\h{a}&from where\\
   &&&\\
   &{\dn sukham}&su|kham&happiness\\
   &&&\note{\noun, \neuter}\\
@@ -5600,7 +5600,7 @@ restrained---his knowledge is complete.\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn nig.rhiitam} = nig.rhiitam}\\
   &&&\\
-  &{\dn sarva"sa.h}&sar|va|"sa|.h(a)&all\\
+  &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5699,10 +5699,10 @@ sage.\\
   &{\dn ni"saa}&ni|"saa&vision; night; dream\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn pa"syato}&pa"s|ya|ta|.h(a)&visible\\
+  &{\dn pa"syato}&pa"s|ya|ta\h{a}&visible\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn mune.h}&mu|ne|.h(e)&sage (?)\\
+  &{\dn mune.h}&mu|ne\h{e}&sage (?)\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -5738,7 +5738,7 @@ gets no peace.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn samudra.h} = samudra.h}\\
   &&&\\
-  &&pa|.h(a)&aapa.h\\
+  &&pa\h{a}&aapa.h\\
   &&&= {\dn aapa.h}\\
   &&&= water\\
   &&&\note{\noun, \male}\\
@@ -5835,7 +5835,7 @@ desiring possessions, humble---he learns peace.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn car} = car}\\
   &&&\\
-  &{\dn ni.hsp.rha.h}&ni.h|sp.r|ha|.h(a)&without desire\\
+  &{\dn ni.hsp.rha.h}&ni.h|sp.r|ha\h{a}&without desire\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -5848,7 +5848,7 @@ desiring possessions, humble---he learns peace.\\
   &&&\quad not desiring possessions\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn niraha"nkaara.h}&ni|ra|ha"n|kaa|ra|.h(a)&humble\\
+  &{\dn niraha"nkaara.h}&ni|ra|ha"n|kaa|ra\h{a}&humble\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5886,7 +5886,7 @@ also, a person gets the complete happiness of God.\\
   &{\dn braahmii}&braah|mii&divine; holy\\
   &&&\note{\adjective, \female}\\
   &&&\\
-  &{\dn sthiti.h}&sthi|ti|.h(i)&position; state; situation\\
+  &{\dn sthiti.h}&sthi|ti\h{i}&position; state; situation\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn paartha}&paar|tha&O son of P.rthaa = O Arjuna\\
