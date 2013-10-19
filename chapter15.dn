@@ -151,7 +151,7 @@ instead of the usual eight.)\\
   &&&= topic; country; object\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pra|vaa|laa\quad(|.h(aa))&{\dn pravaalaa.h}\\
+  &&pra|vaa|laa\h{aa}&{\dn pravaalaa.h}\\
   &&&= new leaves; new branches; sprouts; shoots\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pravaala.h} = pravaala.h}\\
@@ -343,7 +343,7 @@ him, the the older God, from whom action (is) spread (among) cities.\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn tata.h}&ta|ta\quad(|.h(a))&from there\\
+  1a&{\dn tata.h}&ta|ta\h{a}&from there\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn pada.m}&pa|da.m&padam = {\dn padam} = foot; step; term\\
@@ -377,7 +377,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn niv.rt} = niv.rt}\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&again\\
+  &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -413,10 +413,10 @@ instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yata.h}&ya|ta\quad(|.h(a))&(?) from one/whom/what\\
+  2b&{\dn yata.h}&ya|ta\h{a}&(?) from one/whom/what\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn prav.rtti.h}&pra|v.rt|ti\quad(|.h(i))&tendency; behavior; action; work; doing\\
+  &{\dn prav.rtti.h}&pra|v.rt|ti\h{i}&tendency; behavior; action; work; doing\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn pras.rtaa}&pra|s.r|taa&streched; spread\\
@@ -486,7 +486,7 @@ instead of the usual eight.)\\
   &&&= freed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kaa|maa\quad(|.h(aa))&{\dn kaamaa.h}\\
+  &&kaa|maa\h{aa}&{\dn kaamaa.h}\\
   &&&= (occurrences of) sexual love; love; desire\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
@@ -500,7 +500,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn dvandvam} = dvandvam}\\
   &&&\\
-  &&vi|muk|taa\quad(|.h(aa))&{\dn vimuktaa.h}\\
+  &&vi|muk|taa\h{aa}&{\dn vimuktaa.h}\\
   &&&= freed\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vimukta.h} = vimukta.h}\\
@@ -537,7 +537,7 @@ instead of the usual eight.)\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&muu|.dhaa\quad(|.h(aa))&{\dn muu.dhaa.h}\\
+  &&muu|.dhaa\h{aa}&{\dn muu.dhaa.h}\\
   &&&= stupid; confused; bewildered\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn muu.dha.h} = muu.dha.h}\\
@@ -599,7 +599,7 @@ does not return.\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn paavaka.h}&paa|va|ka\quad(|.h(a))&fire; god of fire; saint\\
+  &{\dn paavaka.h}&paa|va|ka\h{a}&fire; god of fire; saint\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -681,11 +681,11 @@ masters the mind-six-senses, (while being) primal-form-standing.\\
   &&&= life\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&bhuu|ta\quad(|.h(a))&{\dn bhuuta.h}\\
+  &&bhuu|ta\h{a}&{\dn bhuuta.h}\\
   &&&= son; devotee; ascetic\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sanaatana.h}&sa|naa|ta|na\quad(|.h(a))&eternal\\
+  &{\dn sanaatana.h}&sa|naa|ta|na\h{a}&eternal\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -693,7 +693,7 @@ masters the mind-six-senses, (while being) primal-form-standing.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn mana.h.sa.s.thaaniindriyaa.ni}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&{\dn mana.h}\\
+  &&ma|na\h{a}&{\dn mana.h}\\
   &&&= mind\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -770,7 +770,7 @@ God---having taken these (things), (the being) travels with
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn utkram} = utkram}\\
   &&&\\
-  &&"sva|ra\quad(|.h(a))&ii"svara.h\\
+  &&"sva|ra\h{a}&ii"svara.h\\
   &&&= {\dn ii"svara.h}\\
   &&&= lord; god; God\\
   &&&\note{\noun, \male}\\
@@ -832,7 +832,7 @@ and---(standing)---and this mind. (A being) serves (these) objects.\\
   &&&= ear; hearing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn cak.su.h}&ca|k.su\quad(|.h(u))&eye\\
+  &{\dn cak.su.h}&ca|k.su\h{u}&eye\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn spar"sana.m}&spar|"sa|na.m&spar"sanam\\
@@ -976,7 +976,7 @@ see.\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ca|k.su|.sa\quad(|.h(a))&{\dn cak.su.sa.h}\\
+  &&ca|k.su|.sa\h{a}&{\dn cak.su.sa.h}\\
   &&&= (?) eyes; (occurrences of) seeing\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn cak.sus} = cak.sus}\\
@@ -1072,7 +1072,7 @@ not see this (situation).\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&ce|ta|sa\quad(|.h(a))&{\dn cetasa.h}\\
+  &&ce|ta|sa\h{a}&{\dn cetasa.h}\\
   &&&= (?) minds\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn cetas} = cetas}\\
@@ -1226,7 +1226,7 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &{\dn cau.sadhii.h}&cau|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&.sa|dhii\quad(|.h(ii))&au.sadhii.h\\
+  &&.sa|dhii\h{ii}&au.sadhii.h\\
   &&&= {\dn au.sadhii.h}\\
   &&&= (?) o.sadhii.h\\
   &&&= {\dn o.sadhii.h}\\
@@ -1234,7 +1234,7 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&\note{\noun, \female, \plural, \accusativecase}\\
   &&&\note{from {\dn o.sadhi.h} = o.sadhi.h}\\
   &&&\\
-  &{\dn sarvaa.h}&sar|vaa\quad(|.h(aa))&each; all\\
+  &{\dn sarvaa.h}&sar|vaa\h{aa}&each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn sarvaa} = sarvaa}\\
@@ -1255,7 +1255,7 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&= soup; sap; juice\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ma|ka\quad(|.h(a))&aatmaka.h\\
+  &&ma|ka\h{a}&aatmaka.h\\
   &&&= {\dn aatmaka.h}\\
   &&&= made of\\
   &&&\note{\suffix}\\
@@ -1297,7 +1297,7 @@ I---having been the fire of breathing things, body-occupying, yoked
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
-  &&"sri|ta\quad(|.h(a))&aa"srita.h\\
+  &&"sri|ta\h{a}&aa"srita.h\\
   &&&= {\dn aa"srita.h}\\
   &&&= occupying\\
   &&&\note{\adjective, \male}\\
@@ -1317,7 +1317,7 @@ I---having been the fire of breathing things, body-occupying, yoked
   &&&= air going down to the anus\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa|maa|yuk|ta\quad(.h(a))&{\dn samaayukta.h}\\
+  &&sa|maa|yuk|ta\h{a}&{\dn samaayukta.h}\\
   &&&= yoked\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
@@ -1380,7 +1380,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn matta.h}&ma|ta\quad(|.h(a))&(?) mat = {\dn mat} = from me\\
+  1b&{\dn matta.h}&ma|ta\h{a}&(?) mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
@@ -1515,7 +1515,7 @@ non-perishable (being) is called mountain-peak-standing (best).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn k.sara.h}&k.sa|ra\quad(|.h(a))&perishable\\
+  2a&{\dn k.sara.h}&k.sa|ra\h{a}&perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&each; all\\
@@ -1541,7 +1541,7 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &&'|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&k.sa|ra\quad(|.h(a))&{\dn k.sara.h}\\
+  &&k.sa|ra\h{a}&{\dn k.sara.h}\\
   &&&= perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -1561,7 +1561,7 @@ who (enters) the (group of three worlds) (and) bears (them)---the
 non-changeable God.\\
 
 \begin{tabular}{llll}
-  1a&{\dn uttama.h}&ut|ta|ma\quad(|.h(a))&ultimate; uppermost; best\\
+  1a&{\dn uttama.h}&ut|ta|ma\h{a}&ultimate; uppermost; best\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn puru.sastvanya.h}&pu|ru|.sa|&puru.sa.h\\
@@ -1572,7 +1572,7 @@ non-changeable God.\\
   &&stva|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&nya\quad(|.h(a))&anya.h\\
+  &&nya\h{a}&anya.h\\
   &&&= {\dn anya.h}\\
   &&&= person/thing another; other; different; strange\\
   &&&\note{\noun, \male}\\
@@ -1594,7 +1594,7 @@ non-changeable God.\\
   &&tyu|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&daa|h.r|ta\quad(|.h(a))&udaah.rta.h\\
+  &&daa|h.r|ta\h{a}&udaah.rta.h\\
   &&&= {\dn udaah.rta.h}\\
   &&&= uttered; said; called\\
   &&&\note{\adjective, \male}\\
@@ -1639,7 +1639,7 @@ non-changeable God.\\
   &&&= changeable; perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn ii"svara.h}&ii|"sva|ra\quad(|.h(a))&lord; god; God\\
+  &{\dn ii"svara.h}&ii|"sva|ra\h{a}&lord; god; God\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1689,7 +1689,7 @@ knowledge---known (as) the ultimate man.\\
   &{\dn cottama.h}&cot|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&ta|ma\quad(|.h(a))&uttama.h\\
+  &&ta|ma\h{a}&uttama.h\\
   &&&= {\dn uttama.h}\\
   &&&= ultimate; uppermost; best\\
   &&&\note{\adjective, \male}\\
@@ -1717,7 +1717,7 @@ knowledge---known (as) the ultimate man.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn prathita.h}&pra|thi|ta\quad(|.h(a))&known; spread; famous\\
+  2b&{\dn prathita.h}&pra|thi|ta\h{a}&known; spread; famous\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn puru.sottama.h}&pu|ru|.sot|&puru.sa.h\\
@@ -1725,7 +1725,7 @@ knowledge---known (as) the ultimate man.\\
   &&&= man; spirit; soul; God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ta|ma\quad(|.h(a))&uttama.h\\
+  &&ta|ma\h{a}&uttama.h\\
   &&&= {\dn uttama.h}\\
   &&&= ultimate; uppermost; best\\
   &&&\note{\adjective, \male}\\
