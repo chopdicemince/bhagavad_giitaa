@@ -144,7 +144,7 @@ the greatness (of you) (is) non-changeable.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tvatta.h}&tvat|ta\quad(|.h(a))&(?) tvat = {\dn tvat} = from you\\
+  2a&{\dn tvatta.h}&tvat|ta\h{a}&(?) tvat = {\dn tvat} = from you\\
   &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
@@ -422,7 +422,7 @@ thousands---various divine forms and various color forms.\\
   &&'tha&atha = {\dn atha} = else; also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sahasra"sa.h}&sa|ha|sra|"sa\quad(|.h(a))&by thousands\\
+  &{\dn sahasra"sa.h}&sa|ha|sra|"sa\h{a}&by thousands\\
   &&&\note{\adverb}\\
 \end{tabular}
 \newpage
@@ -715,7 +715,7 @@ for you a divine eye. See the yoking power of me.\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn cak.su.h}&ca|k.su\quad(|.h(u))&eye\\
+  &{\dn cak.su.h}&ca|k.su\h{u}&eye\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -794,7 +794,7 @@ things), from there, O King (Dh.rtaraa.stra), (showed) to the prince
   &&&= God; god; lord\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn hari.h}&ha|ri\quad(|.h(i))&God\\
+  &{\dn hari.h}&ha|ri\h{i}&God\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1056,7 +1056,7 @@ suitable (light) would be the brightness of his great self
   2a&{\dn yadi}&ya|di&if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn bhaa.h}&bhaa\quad(|.h(aa))&lights\\
+  &{\dn bhaa.h}&bhaa\h{aa}&lights\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn bhaa} = bhaa}\\
   &&&\\
@@ -1090,7 +1090,7 @@ suitable (light) would be the brightness of his great self
   &&&= great\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?) from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
@@ -1191,7 +1191,7 @@ From there, he---money-victory (Arjuna)---wonder-filled, bristling
 head, (done-homage?), was saying (homage) (to) the deity (K.r.s.na).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tata.h}&ta|ta\quad(|.h(a))&from there; from then\\
+  1a&{\dn tata.h}&ta|ta\h{a}&from there; from then\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
@@ -1221,7 +1221,7 @@ head, (done-homage?), was saying (homage) (to) the deity (K.r.s.na).\\
   &&&= money\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ja|ya\quad(|.h(a))&{\dn jaya.h}\\
+  &&ja|ya\h{a}&{\dn jaya.h}\\
   &&&= victory\\
   &&&\note{\noun, \male}\\
 \end{tabular}
@@ -1719,7 +1719,7 @@ instead of the usual eight.)\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&vya|ya\quad(|.h(a))&{\dn vyaya.h}\\
+  &&vya|ya\h{a}&{\dn vyaya.h}\\
   &&&= changeable; decayable\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -1960,7 +1960,7 @@ instead of the usual eight.)\\
   &&ca&{\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn sarvaa.h}&sar|vaa\quad(|.h(aa))&each; all\\
+  &{\dn sarvaa.h}&sar|vaa\h{aa}&each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \female, \plural}\\
   &&&\note{from {\dn sarvaa} = sarvaa}\\
 \end{tabular}
@@ -2068,7 +2068,7 @@ instead of the usual eight.)\\
   &&&= {\dn kecit}\\
   &&&= (?)\\
   &&&\\
-  &&bhii|taa\quad(|.h(aa))&{\dn bhiitaa.h}\\
+  &&bhii|taa\h{aa}&{\dn bhiitaa.h}\\
   &&&= afraid\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn bhiita.h} = bhiita.h}\\
@@ -2113,7 +2113,7 @@ instead of the usual eight.)\\
   &&&= successful\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sa"n|ghaa\quad(|.h(aa))&{\dn sa"nghaa.h}\\
+  &&sa"n|ghaa\h{aa}&{\dn sa"nghaa.h}\\
   &&&= groups; assemblies; associations\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
@@ -2129,11 +2129,11 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn stutibhi.h}&stu|ti|bhi\quad(|.h(i))&using/by praises\\
+  &{\dn stutibhi.h}&stu|ti|bhi\h{i}&using/by praises\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn stuti.h} = stuti.h}\\
   &&&\\
-  &{\dn pu.skalaabhi.h}&pu|.ska|laa|bhi\quad(|.h(i))&using/by people/things resounding\\
+  &{\dn pu.skalaabhi.h}&pu|.ska|laa|bhi\h{i}&using/by people/things resounding\\
   &&&\note{\adjective, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn pu.skalaa} = pu.skalaa}\\
 \end{tabular}
@@ -2374,7 +2374,7 @@ of the usual eight.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn lokaa.h}&lo|kaa\quad(|.h(aa))&worlds; human race; places\\
+  &{\dn lokaa.h}&lo|kaa\h{aa}&worlds; human race; places\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
@@ -2407,7 +2407,7 @@ steadfastness and peace, O Vi.s.nu (O K.r.s.na).\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn nabha.hsp.r"sa.m}&na|bha\quad(|.h(a))|&nabha.h\\
+  1a&{\dn nabha.hsp.r"sa.m}&na|bha\h{a}|&nabha.h\\
   &&&= {\dn nabha.h}\\
   &&&= sky\\
   &&&\note{\noun, \male}\\
@@ -2675,7 +2675,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn dh.rtaraa.s.tra.h} = dh.rtaraa.s.tra.h}\\
   &&&\\
-  &{\dn putraa.h}&pu|traa\quad(|.h(aa))&sons\\
+  &{\dn putraa.h}&pu|traa\h{aa}&sons\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn putra.h} = putra.h}\\
 \end{tabular}
@@ -2704,7 +2704,7 @@ instead of the usual eight.)\\
   &&&= protector; guard; keeper\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sa"n|ghai\quad(|.h(i))&{\dn sa"nghai.h}\\
+  &&sa"n|ghai\h{i}&{\dn sa"nghai.h}\\
   &&&= using/by groups; assemblies; associations\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
@@ -2715,7 +2715,7 @@ instead of the usual eight.)\\
   2a&{\dn bhii.smo}&bhii|.smo&Bhii.sma\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn dro.na.h}&dro|.na\quad(|.h(a))&Dro.na\\
+  &{\dn dro.na.h}&dro|.na\h{a}&Dro.na\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn suutaputrastathaasau}&suu|ta|&suuta.h\\
@@ -2757,7 +2757,7 @@ instead of the usual eight.)\\
   &&&= fight; fighter\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&mu|khyai\quad(|.h(i))&{\dn mukhyai.h}\\
+  &&mu|khyai\h{i}&{\dn mukhyai.h}\\
   &&&= using/by leaders\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn mukhya.h} = mukhya.h}\\
@@ -2854,7 +2854,7 @@ instead of the usual eight.)\\
   &&&= ultimate; uppermost\\
   &&&\note{\adjective}\\
   &&&\\
-  &&gai\quad(|.h(i)&a"ngai.h\\
+  &&gai\h{i}&a"ngai.h\\
   &&&= {\dn a"ngai.h}\\
   &&&= using/by parts\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
@@ -2893,7 +2893,7 @@ instead of the usual eight.)\\
   &&&= water\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ve|gaa\quad(|.h(aa))&vegaa.h\\
+  &&ve|gaa\h{aa}&vegaa.h\\
   &&&= {\dn vegaa.h}\\
   &&&= forces; outbursts\\
   &&&\note{\noun, \male, \plural}\\
@@ -3018,7 +3018,7 @@ instead of the usual eight.)\\
   &&&= successful; wealthy; abundant\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ve|gaa\quad(|.h(aa))&{\dn vegaa.h}\\
+  &&ve|gaa\h{aa}&{\dn vegaa.h}\\
   &&&= speed; forces; outbursts\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vega.h} = vega.h}\\
@@ -3063,7 +3063,7 @@ instead of the usual eight.)\\
   &&&= successful; wealthy; abundant\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ve|gaa\quad(|.h(aa))&{\dn vegaa.h}\\
+  &&ve|gaa\h{aa}&{\dn vegaa.h}\\
   &&&= speed; forces; outbursts\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vega.h} = vega.h}\\
@@ -3089,7 +3089,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn lih} = lih}\\
   &&&\\
-  &{\dn grasamaana.h}&\multicolumn{2}{l}{gra|sa|maa|na\quad(|.h(a))}\\
+  &{\dn grasamaana.h}&\multicolumn{2}{l}{gra|sa|maa|na\h{a}}\\
   &&&\\
   &&&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn grasanam} = grasanam}\\
@@ -3123,7 +3123,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn vadanam} = vadanam}\\
   &&&\\
-  &&jva|lad|bhi\quad(|.h(i))&{\dn jvaladbhi.h}\\
+  &&jva|lad|bhi\h{i}&{\dn jvaladbhi.h}\\
   &&&= (?) using/by fires\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn jvalat} = jvalat}\\
@@ -3165,7 +3165,7 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&graa\quad(|.h(aa))&ugraa.h\\
+  &&graa\h{aa}&ugraa.h\\
   &&&= {\dn ugraa.h}\\
   &&&= angry; ferocious; terrible\\
   &&&\note{\noun, \male, \plural}\\
@@ -3388,7 +3388,7 @@ main syllables, instead of the usual eight.)\\
   &&ha&iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn prav.rtta.h}&pra|v.rt|ta\quad(|.h(a))&started\\
+  &{\dn prav.rtta.h}&pra|v.rt|ta\h{a}&started\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -3423,7 +3423,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &&'va|sthi|taa\quad(|.h(aa))&avasthitaa.h\\
+  &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
   &&&= standing; steadfast\\
   &&&\note{\adjective, \male, \plural}\\
@@ -3433,7 +3433,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural, \locativecase}\\
   &&&\note{from {\dn pratyaniika.h} = pratyaniika.h}\\
   &&&\\
-  &{\dn yodhaa.h}&yo|dhaa\quad(|.h(aa))&fighters; fights\\
+  &{\dn yodhaa.h}&yo|dhaa\h{aa}&fighters; fights\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yodha.h} = yodha.h}\\
 \end{tabular}
@@ -3522,7 +3522,7 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &{\dn nihataa.h}&ni|ha|taa\quad(|.h(aa))&hit; killed\\
+  &{\dn nihataa.h}&ni|ha|taa\h{aa}&hit; killed\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn nihata.h} = nihata.h}\\
   &&&\\
@@ -3741,7 +3741,7 @@ main syllables, instead of the usual eight.)\\
   &&&homage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ve|pa|maa|na\quad(|.h(a))&{\dn vepamaana.h}\\
+  &&ve|pa|maa|na\h{a}&{\dn vepamaana.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn vepanam} = vepanam}\\
   &&&\note{= shaking}\\
@@ -3794,7 +3794,7 @@ main syllables, instead of the usual eight.)\\
   &&&= fearful\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&bhii|ta\quad(|.h(a))&{\dn bhiita.h}\\
+  &&bhii|ta\h{a}&{\dn bhiita.h}\\
   &&&= fearful\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -3907,7 +3907,7 @@ main syllables, instead of the usual eight.)\\
   &&&= successful\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sa"n|ghaa\quad(|.h(aa))&{\dn sa"nghaa.h}\\
+  &&sa"n|ghaa\h{aa}&{\dn sa"nghaa.h}\\
   &&&= assemblies; associations; groups\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
@@ -4067,12 +4067,12 @@ instead of the usual eight.)\\
   &&&= beginning\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&de|va\quad(|.h(a))&deva.h\\
+  &&de|va\h{a}&deva.h\\
   &&&= {\dn deva.h}\\
   &&&= deity\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa\quad(|.h(a))&man; spirit; soul; God\\
+  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; spirit; soul; God\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn puraa.nas}&pu|raa|.nas&puraa.na.h\\
@@ -4200,11 +4200,11 @@ instead of the usual eight.)\\
   &&&= god of fire; fire; digestive fluid\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&va|ru|.na\quad(|.h(a))&{\dn varu.na.h}\\
+  &&va|ru|.na\h{a}&{\dn varu.na.h}\\
   &&&= god of water\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn "sa"saa"nka.h}&sa|"saa"n|ka\quad(|.h(a))&moon\\
+  &{\dn "sa"saa"nka.h}&sa|"saa"n|ka\h{a}&moon\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -4253,7 +4253,7 @@ instead of the usual eight.)\\
   &&&= thousand\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&k.r|tva\quad(|.h(a))&{\dn k.rtva.h}\\
+  &&k.r|tva\h{a}&{\dn k.rtva.h}\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn k.rt} = k.rt}\\
   &&&\note{= acting; working; doing}\\
@@ -4306,7 +4306,7 @@ from all sides, really, all. O non-end(ing)-virility (O K.r.s.na), you
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn nama.h}&na|ma\quad(|.h(a))&homage\\
+  1a&{\dn nama.h}&na|ma\h{a}&homage\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn purastaadatha}&pu|ra|staa|da|&purastaat\\
@@ -4417,7 +4417,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sarva.h}&sar|va\quad(|.h(a))&each; all\\
+  &{\dn sarva.h}&sar|va\h{a}&each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \male}\\
 \end{tabular}
 \newpage
@@ -4755,7 +4755,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &&\multicolumn{2}{l}{bhya|dhi|ka\quad(|.h(a))}\\
+  &&\multicolumn{2}{l}{bhya|dhi|ka\h{a}}\\
   &&&\\
   &&&abhyadhika.h\\
   &&&= {\dn abhyadhika.h}\\
@@ -4885,11 +4885,11 @@ instead of the usual eight.)\\
   &&va&iva = {\dn iva} = like\\
   &&&\note{\suffix(?)}\\
   &&&\\
-  &{\dn sakhyu.h}&sa|khyu\quad(|.h(u))&(?)\\
+  &{\dn sakhyu.h}&sa|khyu\h{u}&(?)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn priya.h}&pri|ya\quad(|.h(a))&loved one\\
+  2b&{\dn priya.h}&pri|ya\h{a}&loved one\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn priyaayaarhasi}&pri|yaa|yaar|&priyaayaa.h\\
@@ -5367,7 +5367,7 @@ instead of the usual eight.)\\
   &&&\note{similar: \noun, \neuter, {\dn tapa.h} = tapa.h}\\
   &&&\note{= asceticism; austerity; penance; fire}\\
   &&&\\
-  &&grai\quad(|.h(i))&ugrai.h\\
+  &&grai\h{i}&ugrai.h\\
   &&&= {\dn ugrai.h}\\
   &&&= using/by people/things formidable\\
   &&&\note{\adjective, \neuter, \plural, \instrumentalcase}\\
@@ -5379,7 +5379,7 @@ instead of the usual eight.)\\
   2a&{\dn eva.mruupa.h}&e|va.m|&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ruu|pa\quad(|.h(a))&(?) ruupam\\
+  &&ruu|pa\h{a}&(?) ruupam\\
   &&&= {\dn ruupam}\\
   &&&= form; mark; sign\\
   &&&\note{\noun, \neuter}\\
@@ -5500,7 +5500,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn vyapetabhii.h}&vya|pe|ta|bhii\quad(|.h(ii))&using/by people/things vanished\\
+  2a&{\dn vyapetabhii.h}&vya|pe|ta|bhii\h{ii}&using/by people/things vanished\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn vyapeta.h} = vyapeta.h}\\
   &&&\\
@@ -5508,7 +5508,7 @@ instead of the usual eight.)\\
   &&&= pleased\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|naa\quad(|.h(aa))&manaa.h\\
+  &&ma|naa\h{aa}&manaa.h\\
   &&&= {\dn manaa.h}\\
   &&&= minds\\
   &&&\note{\noun, \male, \plural}\\
@@ -5623,7 +5623,7 @@ main syllables, instead of the usual eight.)\\
   &&&= {\dn aasa}\\
   &&&= (?)\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&again\\
+  &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -5662,7 +5662,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn puna.h}&pu|na\quad(|.h(a))&again\\
+  &{\dn puna.h}&pu|na\h{a}&again\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn saumyavapurmahaatmaa}&sau|mya|&{\dn saumya}\\
@@ -5760,7 +5760,7 @@ gone.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sa.mv.rtta.h}&sa.m|v.rt|ta\quad(|.h(a))&happened\\
+  &{\dn sa.mv.rtta.h}&sa.m|v.rt|ta\h{a}&happened\\
   &&&\note{\adjective, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5768,7 +5768,7 @@ gone.\\
   2b&{\dn sacetaa.h}&sa|&{\dn sa}\\
   &&&= (?)\\
   &&&\\
-  &&ce|taa\quad(|.h(aa))&{\dn cetaa.h}\\
+  &&ce|taa\h{aa}&{\dn cetaa.h}\\
   &&&= consciousness; minds\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn ceta.h} = ceta.h}\\
@@ -5779,7 +5779,7 @@ gone.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn gata.h}&ga|ta\quad(|.h(a))&gone\\
+  &{\dn gata.h}&ga|ta\h{a}&gone\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -5883,7 +5883,7 @@ sight-desirous.\\
   &&&= sight\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kaa"n|k.si|.na\quad(|.h(a))&{\dn kaa"nk.si.na.h}\\
+  &&kaa"n|k.si|.na\h{a}&{\dn kaa"nk.si.na.h}\\
   &&&= (?) desirous\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn kaa"nk.sin} = kaa"nk.sin}\\
@@ -6106,7 +6106,7 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&bhak|ta\quad(|.h(a))&{\dn bhakta.h}\\
+  &&bhak|ta\h{a}&{\dn bhakta.h}\\
   &&&= devotee\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -6115,14 +6115,14 @@ O son of Paa.n.du (O Arjuna).\\
   &&&= sticking; attachment\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&var|ji|ta\quad(|.h(a))&{\dn varjita.h}\\
+  &&var|ji|ta\h{a}&{\dn varjita.h}\\
   &&&= devoid of\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nirvaira.h}&nir|vai|ra\quad(|.h(a))&peaceful\\
+  2a&{\dn nirvaira.h}&nir|vai|ra\h{a}&peaceful\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&{\dn sarva}\\
@@ -6136,7 +6136,7 @@ O son of Paa.n.du (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
