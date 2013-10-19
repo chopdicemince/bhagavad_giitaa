@@ -23,7 +23,7 @@ not active.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn anaa"srita.h}&a|naa|"sri|ta\quad(|.h(a))&not dependent; not engaged; not attached\\
+  1a&{\dn anaa"srita.h}&a|naa|"sri|ta\h{a}&not dependent; not engaged; not attached\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn karmaphala.m}&kar|ma|&karmam = {\dn karmam} = action; work\\
@@ -50,7 +50,7 @@ not active.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn ya.h}&ya\quad(|.h(a))&(?) one/who/what\\
+  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -94,7 +94,7 @@ not active.\\
   &{\dn caakriya.h}&caa|&ca = {\dn ca} = and\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&kri|ya\quad(|.h(a))&akriya.h\\
+  &&kri|ya\h{a}&akriya.h\\
   &&&= {\dn akriya.h}\\
   &&&= not active; not working\\
   &&&\note{\adjective, \male}\\
@@ -253,7 +253,7 @@ peace is viewed as the cause.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn "sama.h}&"sa|ma\quad(|.h(a))&peace\\
+  2b&{\dn "sama.h}&"sa|ma\h{a}&peace\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn kaara.namucyate}&kaa|ra|.na|mu|&kaara.nam\\
@@ -422,7 +422,7 @@ self is an enemy of the self.\\
   &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn bandhu}&ban|dhu\quad(|.h(u))&{\dn bandhu.h}\\
+  &{\dn bandhu}&ban|dhu\h{u}&{\dn bandhu.h}\\
   &&&= friend; relative; association\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
@@ -441,7 +441,7 @@ self is an enemy of the self.\\
   &&&= enemy; rogue\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?) from/of a/the self; soul\\
   &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
@@ -494,7 +494,7 @@ an enemy.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn jita.h}&ji|ta\quad(|.h(a))&overcome; subdued; conquered\\
+  &{\dn jita.h}&ji|ta\h{a}&overcome; subdued; conquered\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -551,7 +551,7 @@ honor and dishonor.\\
   &&&= conquered; overcome; subdued\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?) from/of a/the self; soul\\
   &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
@@ -573,7 +573,7 @@ honor and dishonor.\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn samaahita.h}&sa|maa|hi|ta\quad(|.h(a))&steadfast\\
+  &{\dn samaahita.h}&sa|maa|hi|ta\h{a}&steadfast\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -609,7 +609,7 @@ honor and dishonor.\\
   &&&= honor; respect; pride\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&pa|maa|na|yo\quad(|.h(o))&apamaanayo.h\\
+  &&pa|maa|na|yo\h{o}&apamaanayo.h\\
   &&&= {\dn apamaanayo.h}\\
   &&&= of/at/in/on dishonor; disrespect\\
   &&&\note{\noun, \male, \dual, \genitivecase, \locativecase}\\
@@ -701,7 +701,7 @@ pile of stones, and gold, are the same (to the devotee).\\
   &&&\note{similar: \adjective, {\dn aa"sma} = aa"sma}\\
   &&&\note{= made of stone}\\
   &&&\\
-  &&kaa\~{}n|ca|na\quad(|.h(a))&{\dn kaa~ncana.h}\\
+  &&kaa\~{}n|ca|na\h{a}&{\dn kaa~ncana.h}\\
   &&&= like gold\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -826,7 +826,7 @@ and without possessions.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn rah} = rah}\\
   &&&\\
-  &{\dn sthita.h}&sthi|ta\quad(|.h(a))&standing; staying; steadfast\\
+  &{\dn sthita.h}&sthi|ta\h{a}&standing; staying; steadfast\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -857,7 +857,7 @@ and without possessions.\\
   &&&\note{similar: \adjective, {\dn niraa"sa} = niraa"sa}\\
   &&&\note{= indifferent; despairing}\\
   &&&\\
-  &&pa|ri|gra|ha\quad(|.h(a))&aparigraha.h\\
+  &&pa|ri|gra|ha\h{a}&aparigraha.h\\
   &&&= {\dn aparigraha.h}\\
   &&&= without possessions\\
   &&&\note{\adjective, \male}\\
@@ -895,7 +895,7 @@ grass remainder, \dots\\
   &&&= seat\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
@@ -970,7 +970,7 @@ is virtuous.\\
   &&&= apex; origin\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&having done\\
@@ -993,7 +993,7 @@ is virtuous.\\
   &&&= sense; body organ; power\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&kri|ya\quad(|.h(a))&{\dn kriya.h}\\
+  &&kri|ya\h{a}&{\dn kriya.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn kriyaa} = kriyaa}\\
   &&&\note{= action; work}\\
@@ -1083,7 +1083,7 @@ looking in all directions.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn cala.h} = cala.h}\\
   &&&\\
-  &{\dn sthira.h}&sthi|ra\quad(|.h(a))&steadfast; still\\
+  &{\dn sthira.h}&sthi|ra\h{a}&steadfast; still\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -1167,14 +1167,14 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn vratam} = vratam}\\
   &&&\\
-  &&sthi|ta\quad(|.h(a))&{\dn sthita.h}\\
+  &&sthi|ta\h{a}&{\dn sthita.h}\\
   &&&= standing; staying; stopping; still\\
   &&&\note{\adjective}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  2a&{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa.myamya}&sa.m|ya|mya&subdued\\
@@ -1203,7 +1203,7 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&pa|ra\quad(|.h(a))&{\dn para.h}\\
+  &&pa|ra\h{a}&{\dn para.h}\\
   &&&= other; different; best; better\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -1248,7 +1248,7 @@ union.\\
   &&&= controlled; usual; attached\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa|na|sa\quad(|.h(a))&related to the mind\\
+  &&maa|na|sa\h{a}&related to the mind\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -1331,7 +1331,7 @@ Arjuna.\\
   &&kaan|ta|ma|&ekaantam = {\dn ekaantam} = only\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&na"s|na|ta\quad(|.h(a))&ana"snata.h\\
+  &&na"s|na|ta\h{a}&ana"snata.h\\
   &&&= {\dn ana"snata.h}\\
   &&&= (?) of something not eating\\
   &&&\note{\adjective, \male(?), \genitivecase}\\
@@ -1505,7 +1505,7 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nisp.rha.h}&ni|sp.r|ha\quad(|.h(a))&ni.hsp.rha.h\\
+  2a&{\dn nisp.rha.h}&ni|sp.r|ha\h{a}&ni.hsp.rha.h\\
   &&&= {\dn ni.hsp.rha.h}\\
   &&&= without desire; indifferent\\
   &&&\note{\adjective, \male}\\
@@ -1616,7 +1616,7 @@ doing yoking of the self.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &&ma|na\quad(|.h(a))&aatmana.h\\
+  &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= (?) from/of a/the self; soul\\
   &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
@@ -1789,7 +1789,7 @@ he is still and does not move intrinsically.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn cal} = cal}\\
   &&&\\
-  &{\dn tattvata.h}&tat|tva|ta\quad(|.h(a))&intrinsically\\
+  &{\dn tattvata.h}&tat|tva|ta\h{a}&intrinsically\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -1840,7 +1840,7 @@ teacher, also, the person does not swerve.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn adhika.h} = adhika.h}\\
   &&&\\
-  &{\dn tata.h}&ta|ta\quad(|.h(a))&from there; then\\
+  &{\dn tata.h}&ta|ta\h{a}&from there; then\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -2011,7 +2011,7 @@ everywhere.\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &&"se|.sa|ta\quad(|.h(a))&a"se.sata.h\\
+  &&"se|.sa|ta\h{a}&a"se.sata.h\\
   &&&= {\dn a"se.sata.h}\\
   &&&= completely\\
   &&&\note{\adverb}\\
@@ -2044,7 +2044,7 @@ everywhere.\\
   3b&{\dn viniyamya}&vi|ni|ya|mya&restricted\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn samantata.h}&sa|man|ta|ta\quad(|.h(a))&everywhere\\
+  &{\dn samantata.h}&sa|man|ta|ta\h{a}&everywhere\\
   &&&\note{\adverb}\\
 \end{tabular}
 \newpage
@@ -2061,7 +2061,7 @@ determination gotten. The mind, having done self-together-stillness,
 may think of not any (thing), also.\\
 
 \begin{tabular}{llll}
-  1a&{\dn "sanai.h}&"sa|nai\quad(|.h(i))&slowly; gradually; leisurely\\
+  1a&{\dn "sanai.h}&"sa|nai\h{i}&slowly; gradually; leisurely\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn "sanairuparamedbuddhyaa}&"sa|nai|ru|&"sanai.h\\
@@ -2107,7 +2107,7 @@ may think of not any (thing), also.\\
   &&&\note{from: \adjective, {\dn sama} = sama}\\
   &&&\note{from: \adjective, \male, {\dn stha.h} = stha.h}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&having done\\
@@ -2341,7 +2341,7 @@ completely.\\
   &&&= gone; dead; dark\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kal|ma|.sa\quad(|.h(a))&{\dn kalma.sa.h}\\
+  &&kal|ma|.sa\h{a}&{\dn kalma.sa.h}\\
   &&&= black; dirty; wicked\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -2464,7 +2464,7 @@ all-seeing.\\
   &&&= same; equal; similar; straight; complete\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&dar|"sa|na\quad(|.h(a))&{\dn dar"sana.h}\\
+  &&dar|"sa|na\h{a}&{\dn dar"sana.h}\\
   &&&= seeing\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -2595,7 +2595,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&= oneness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sthi|ta\quad(|.h(a))&aasthita.h\\
+  &&sthi|ta\h{a}&aasthita.h\\
   &&&= {\dn aasthita.h}\\
   &&&= seated\\
   &&&\note{\adjective, \male}\\
@@ -2708,7 +2708,7 @@ paramount.\\
   &&&= paramount; primary\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn mata.h}&ma|ta\quad(|.h(a))&thought; regarded as\\
+  &{\dn mata.h}&ma|ta\h{a}&thought; regarded as\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -2818,7 +2818,7 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn mana.h}&ma|na\quad(|.h(a))&mind\\
+  &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
@@ -3005,7 +3005,7 @@ advantage.\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn mati.h}&ma|ti\quad(|.h(i))&opinion\\
+  &{\dn mati.h}&ma|ti\h{i}&opinion\\
   &&&\note{\noun, \female}\\
 \end{tabular}
 \newpage
@@ -3041,7 +3041,7 @@ advantage.\\
   &&&= to get\\
   &&&\note{\verbb, \infinitive}\\
   &&&\\
-  &&paa|ya|ta\quad(|.h(a))&upaayata.h\\
+  &&paa|ya|ta\h{a}&upaayata.h\\
   &&&= {\dn upaayata.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn upaaya.h} = upaaya.h}\\
@@ -3067,7 +3067,7 @@ he go (on), O K.r.s.na?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn ayati.h}&a|ya|ti\quad(|.h(i))&not + devotee; sage; ascetic\\
+  1a&{\dn ayati.h}&a|ya|ti\h{i}&not + devotee; sage; ascetic\\
   &&&\note{\noun, \male}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \male, {\dn yati.h} = yati.h}\\
@@ -3095,7 +3095,7 @@ he go (on), O K.r.s.na?\\
   &&&= gone; shaking; deviated\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa|na|sa\quad(|.h(a))&{\dn maanasa.h}\\
+  &&maa|na|sa\h{a}&{\dn maanasa.h}\\
   &&&= related to the mind or spirit\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -3214,7 +3214,7 @@ path (away) from God is foolish.\\
   &&&= foolish; confused\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn brahma.na.h}&brah|ma|.na\quad(|.h(a))&(?) from/of God\\
+  &{\dn brahma.na.h}&brah|ma|.na\h{a}&(?) from/of God\\
   &&&\note{\noun, \neuter, \ablativecase, \genitivecase}\\
   &&&\note{from {\dn brahmam} = brahmam}\\
   &&&\\
@@ -3265,7 +3265,7 @@ you. (That is: There is no cutter like you).\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn arh} = arh}\\
   &&&\\
-  &&"se|.sa|ta\quad(|.h(a))&a"se.sata.h\\
+  &&"se|.sa|ta\h{a}&a"se.sata.h\\
   &&&= {\dn a"se.sata.h}\\
   &&&= fully\\
   &&&\note{\adverb}\\
@@ -3277,7 +3277,7 @@ you. (That is: There is no cutter like you).\\
   &&&\note{\pronoun, \secondperson, \ablativecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &&nya\quad(|.h(a))&anya.h\\
+  &&nya\h{a}&anya.h\\
   &&&= {\dn anya.h}\\
   &&&= other; different; strange\\
   &&&\note{\adjective}\\
@@ -3438,11 +3438,11 @@ things pure, of things eminent.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn vas} = vas}\\
   &&&\\
-  &{\dn "saa"svatii.h}&"saa"s|va|tii\quad(|.h(ii))&earths\\
+  &{\dn "saa"svatii.h}&"saa"s|va|tii\h{ii}&earths\\
   &&&\note{\noun, \female, \plural, \accusativecase}\\
   &&&\note{from {\dn "saa"svatii} = "saa"svatii}\\
   &&&\\
-  &{\dn samaa.h}&sa|maa\quad(|.h(aa))&same; equal; similar; straight; complete\\
+  &{\dn samaa.h}&sa|maa\h{aa}&same; equal; similar; straight; complete\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sama.h} = sama.h}\\
 \end{tabular}
@@ -3611,7 +3611,7 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&= from there; from then\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn bhuuya.h}&bhuu|ya\quad(|.h(a))&(?)\\
+  &{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3676,7 +3676,7 @@ overcomes the word of (texts about) yoking.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&sa\quad(|.h(a))&{\dn sa.h} = that/he\\
+  &&sa\h{a}&{\dn sa.h} = that/he\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -3751,7 +3751,7 @@ he goes (on) a paramount going (or path).\\
   &&&= purified\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kil|bi|.sa\quad(|.h(a))&(?)\\
+  &&kil|bi|.sa\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn kilbi.sa.m} = kilbi.sam}\\
   &&&\note{= sin; injury; injustice}\\
 \end{tabular}
@@ -3837,7 +3837,7 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &&&= viewed as\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'dhi|ka\quad(|.h(a))&adhika.h\\
+  &&'dhi|ka\h{a}&adhika.h\\
   &&&= {\dn adhika.h}\\
   &&&= more; better\\
   &&&\note{\adjective, \male}\\
@@ -3978,7 +3978,7 @@ me.\\
   &&&= more\\
   &&&\note{\suffix}\\
   &&&\\
-  &{\dn mata.h}&ma|ta\quad(|.h(a))&viewed as\\
+  &{\dn mata.h}&ma|ta\h{a}&viewed as\\
   &&&\note{\adjective}\\
 \end{tabular}
 \newpage
