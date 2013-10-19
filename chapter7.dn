@@ -28,7 +28,7 @@ me completely. Hear that.\\
   &&sak|ta|&aasakta = {\dn aasakta} = attached\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|naa\quad(|.h(aa))&{\dn manaa.h} = minds\\
+  &&ma|naa\h{aa}&{\dn manaa.h} = minds\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   &&&\\
@@ -50,7 +50,7 @@ me completely. Hear that.\\
   &&&\\
   &&ma|daa|&mat = {\dn mat} = (?) ``me''\\
   &&&\\
-  &&"sra|ya|\quad(|.h(a))&aa"sraya.h = {\dn aa"sraya.h} = shelter\\
+  &&"sra|ya\h{a}&aa"sraya.h = {\dn aa"sraya.h} = shelter\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -139,7 +139,7 @@ be known.\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
-  &&"se|.sa|ta\quad(|.h(a))&a"se.sata.h\\
+  &&"se|.sa|ta\h{a}&a"se.sata.h\\
   &&&= {\dn a"se.sata.h}\\
   &&&= fully\\
   &&&\note{\adverb}\\
@@ -255,7 +255,7 @@ of people who try, of people successful, any knows me truthfully.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tattvata.h}&tat|tva|ta\quad(|.h(a))&truthfully\\
+  &{\dn tattvata.h}&tat|tva|ta\h{a}&truthfully\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
 \newpage
@@ -283,7 +283,7 @@ ego---thus, this is my primal form, broken eight-fold.\\
   &&&= fire; digestion\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn vaayu.h}&vaa|yu\quad(|.h(u))&air; wind; breath\\
+  &{\dn vaayu.h}&vaa|yu\h{u}&air; wind; breath\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -488,7 +488,7 @@ the place of birth and the pulverization of all of the world, thus.\\
   &&&\note{\adjective, \neuter, \genitivecase}\\
   &&&\note{from {\dn k.rtsnam} = k.rtsnam}\\
   &&&\\
-  &{\dn jagata.h}&ja|ga|ta\quad(|.h(a))&(?) from/of a/the world;\\
+  &{\dn jagata.h}&ja|ga|ta\h{a}&(?) from/of a/the world;\\
   &&&meter with $4 \times 12 = 48$ syllables\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\
@@ -496,7 +496,7 @@ the place of birth and the pulverization of all of the world, thus.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn prabhava.h}&pra|bha|va\quad(|.h(a))&place of birth\\
+  2b&{\dn prabhava.h}&pra|bha|va\h{a}&place of birth\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn pralayastathaa}&pra|la|ya|sta|&pralaya.h\\
@@ -518,7 +518,7 @@ Arjuna). Each is in me, as if this (is) gem-groups pierced on a
 string.\\
 
 \begin{tabular}{llll}
-  1a&{\dn matta.h}&mat|ta\quad(|.h(a))&from me; after me\\
+  1a&{\dn matta.h}&mat|ta\h{a}&from me; after me\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn paratara.m}&pa|ra|&{\dn para}\\
@@ -644,7 +644,7 @@ the sound in vacuum, and prowess in men.\\
   &&&= moon\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&suur|ya|yo\quad(|.h(o))&suuryayo.h\\
+  &&suur|ya|yo\h{o}&suuryayo.h\\
   &&&= {\dn suuryayo.h}\\
   &&&= of two suns; at/in/on two suns\\
   &&&\note{\noun, \male, \dual}\\
@@ -654,7 +654,7 @@ the sound in vacuum, and prowess in men.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn pra.nava.h}&pra|.na|va\quad(|.h(a))&the syllable ``aum'' in meditation\\
+  2a&{\dn pra.nava.h}&pra|.na|va\h{a}&the syllable ``aum'' in meditation\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sarvavede.su}&sar|va|&sarva\\
@@ -669,7 +669,7 @@ the sound in vacuum, and prowess in men.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn "sabda.h}&"sab|da\quad(|.h(a))&sound; word\\
+  2b&{\dn "sabda.h}&"sab|da\h{a}&sound; word\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn khe}&khe&at/in/on a/the cave; hole; vacuum; ether\\
@@ -700,7 +700,7 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&= pure; good\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn gandha.h}&gan|dha\quad(|.h(a))&fragrance\\
+  &{\dn gandha.h}&gan|dha\h{a}&fragrance\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn p.rthivyaa.m}&p.r|thi|vyaa.m&p.rthivyaam\\
@@ -1073,7 +1073,7 @@ changeable.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&re|bhi\quad(|.h(i))&ebhi.h\\
+  1b&&re|bhi\h{i}&ebhi.h\\
   &&&= {\dn ebhi.h}\\
   &&&= (?)\\
   &&&\\
@@ -1111,7 +1111,7 @@ changeable.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&bhya\quad(|.h(a))&ebhya.h\\
+  &&bhya\h{a}&ebhya.h\\
   &&&= {\dn ebhya.h}\\
   &&&= (?)\\
   &&&\\
@@ -1231,7 +1231,7 @@ knowledge (is) stolen by magic, (are) occupying demonic behavior.\\
   &&&\note{similar: \noun, \male, {\dn du.sk.rt} = du.sk.rt}\\
   &&&\note{= bad person}\\
   &&&\\
-  &{\dn muu.dhaa.h}&muu|.dhaa\quad(|.h(aa))&stupid\\
+  &{\dn muu.dhaa.h}&muu|.dhaa\h{aa}&stupid\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn muu.dha.h} = muu.dha.h}\\
   % ----------------------------------------------------------------------------
@@ -1246,7 +1246,7 @@ knowledge (is) stolen by magic, (are) occupying demonic behavior.\\
   &&&= man\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&dha|maa\quad(|.h(aa))&adhamaa.h\\
+  &&dha|maa\h{aa}&adhamaa.h\\
   &&&= {\dn adhamaa.h}\\
   &&&= lowest; worst\\
   &&&\note{\adjective, \male, \plural}\\
@@ -1284,7 +1284,7 @@ knowledge (is) stolen by magic, (are) occupying demonic behavior.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &&"sri|taa\quad(|.h(aa))&aa"sritaa.h\\
+  &&"sri|taa\h{aa}&aa"sritaa.h\\
   &&&= {\dn aa"sritaa.h}\\
   &&&= occupying; following; dependent on\\
   &&&\note{\adjective, \male, \plural}\\
@@ -1321,7 +1321,7 @@ the person of knowledge---O Bharata-bull (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn janaa.h}&ja|naa\quad(|.h(aa))&beings; men; people; creatures\\
+  1b&{\dn janaa.h}&ja|naa\h{aa}&beings; men; people; creatures\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn jana.h} = jana.h}\\
   &&&\\
@@ -1469,7 +1469,7 @@ knowledge, and he (is) a friend of me.\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\quad(|.h(a))&friend; lover\\
+  &{\dn priya.h}&pri|ya\h{a}&friend; lover\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1483,7 +1483,7 @@ self of me, really, (in my) opinion, (is) sitting (in me). Surely, he
 is yoked (to) the self (of) me---really, the ultimate path.\\
 
 \begin{tabular}{llll}
-  1a&{\dn udaaraa.h}&u|daa|raa\quad(|.h(aa))&munificent\\
+  1a&{\dn udaaraa.h}&u|daa|raa\h{aa}&munificent\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn udaara.h} = udaara.h}\\
   &&&\\
@@ -1526,7 +1526,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aasthita.h}&aa|sthi|ta\quad(|.h(a))&sitting; staying\\
+  2a&{\dn aasthita.h}&aa|sthi|ta\h{a}&sitting; staying\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
@@ -1619,7 +1619,7 @@ all---thus. He is a great-self---very rare.\\
   &&&= God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&de|va\quad(|.h(a))&deva.h\\
+  &&de|va\h{a}&deva.h\\
   &&&= {\dn deva.h}\\
   &&&= God\\
   &&&\note{\noun, \male}\\
@@ -1650,7 +1650,7 @@ all---thus. He is a great-self---very rare.\\
   &{\dn sudurlabha.h}&su|&{\dn su} = good; very\\
   &&&\note{\prefix}\\
   &&&\\
-  &&dur|la|bha\quad(|.h(a))&durlabha.h\\
+  &&dur|la|bha\h{a}&durlabha.h\\
   &&&= {\dn durlabha.h}\\
   &&&= difficult to get; rare\\
   &&&\note{\adjective, \male}\\
@@ -1685,7 +1685,7 @@ with a primal form---(the deities are) restrained by the self.\\
   &&h.r|ta|&{\dn h.rta} = taken; lost; stolen\\
   &&&\note{\adjective}\\
   &&&\\
-  &&j\~{}naa|naa\quad(|.h(aa))&(?)\\
+  &&j\~{}naa|naa\h{aa}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
   &&&\note{= knowledge}\\
   % ----------------------------------------------------------------------------
@@ -1702,7 +1702,7 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&= another; other; strange; different\\
   &&&\note{\adjective}\\
   &&&\\
-  &&de|va|taa\quad(|.h(aa))&{\dn devataa.h}\\
+  &&de|va|taa\h{aa}&{\dn devataa.h}\\
   &&&= deities\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn devata.h} = devata.h}\\
@@ -1736,7 +1736,7 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn niyataa.h}&ni|ya|taa\quad(|.h(aa)&restrained\\
+  &{\dn niyataa.h}&ni|ya|taa\h{aa}&restrained\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn niyata.h} = niyata.h}\\
   &&&\\
@@ -1773,7 +1773,7 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn tanu.h} = tanu.h}\\
   &&&\\
-  &{\dn bhakta.h}&bhak|ta\quad(|.h(a))&devotee\\
+  &{\dn bhakta.h}&bhak|ta\h{a}&devotee\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1894,7 +1894,7 @@ there, he gets those desires done, using me, really, surely.\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn tata.h}&ta|ta\quad(|.h(a))&from there; from then\\
+  &{\dn tata.h}&ta|ta\h{a}&from there; from then\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn kaamaanmayaiva}&kaa|maan|&{\dn kaamaan}\\
@@ -2057,7 +2057,7 @@ not-changeable, and ultimate.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&bud|dha|ya\quad(|.h(a))&abuddhaya.h\\
+  &&bud|dha|ya\h{a}&abuddhaya.h\\
   &&&= {\dn abuddhaya.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
@@ -2121,7 +2121,7 @@ not-changeable.\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn prakaa"sa.h}&pra|kaa|"sa\quad(|.h(a))&bright; clear; visible\\
+  &{\dn prakaa"sa.h}&pra|kaa|"sa\h{a}&bright; clear; visible\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvasya}&sar|va|sya&of each/all\\
@@ -2142,7 +2142,7 @@ not-changeable.\\
   &&&= magic; illusion; deception\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&sa|maa|v.r|ta\quad(|.h(a))&{\dn samaav.rta.h}\\
+  &&sa|maa|v.r|ta\h{a}&{\dn samaav.rta.h}\\
   &&&= surrounded; covered; hidden\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
@@ -2425,7 +2425,7 @@ cherish me (with) a firm vow.\\
   &&&= firm\\
   &&&\note{\adjective}\\
   &&&\\
-  &&vra|taa\quad(|.h(aa))&{\dn vrataa.h}\\
+  &&vra|taa\h{aa}&{\dn vrataa.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn vratam} = vratam = vow}\\
 \end{tabular}
@@ -2490,7 +2490,7 @@ and all action.\\
   &{\dn tadvidu.h}&tad|&tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
-  &&vi|du\quad(|.h(u))&wise\\
+  &&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn k.rtsnamadhyaatma.m}&k.rts|na|&k.rtsnam\\
@@ -2563,7 +2563,7 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn vidu.h}&vi|du\quad(|.h(u))&wise\\
+  &{\dn vidu.h}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
@@ -2595,14 +2595,14 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\note{from {\dn sa.h} = sa.h = that/he}\\
   &&&\\
-  &{\dn vidur}&vi|du\quad(|.h(u))&wise\\
+  &{\dn vidur}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn yuktacetasa.h}&yuk|ta|&{\dn yukta}\\
   &&&= yoked\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ce|ta|sa\quad(|.h(a))&{\dn cetasa.h}\\
+  &&ce|ta|sa\h{a}&{\dn cetasa.h}\\
   &&&= (?) for/of a/the mind; soul; heart\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\dativecase, \genitivecase}\\
