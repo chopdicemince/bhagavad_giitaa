@@ -1499,7 +1499,7 @@ men. He is occupied with all actions done.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn buddhimaanmanu.sye.su}&bud|dhi|&buddhi.h\\
@@ -1517,7 +1517,7 @@ men. He is occupied with all actions done.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yukta.h}&yuk|ta\h{a}&joined; occupied with; suitable\\
@@ -1602,7 +1602,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\\
   2b&{\dn tamaahu.h}&ta|maa|&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&hu\h{u}&aahu.h\\
   &&&= {\dn aahu.h}\\
@@ -1702,7 +1702,7 @@ not do any (thing).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn sa.h}&sa\h{a}&that/he\\
+  &{\dn sa.h}&sa\h{a}&\saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -2006,7 +2006,7 @@ him, contemplative God-action is accomplished.\\
   &&&\\
   &{\dn tena}&te|na&using/by that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn gantavya.m}&gan|ta|vya.m&gantavyam\\
   &&&= {\dn gantavyam}\\
@@ -2734,7 +2734,7 @@ the action births. Really, having known all those, you will be free.\\
   &&&\\
   &{\dn taansarvaaneva.m}&taan|&taan = {\dn taan} = those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sar|vaa|&sarvaan\\
   &&&= {\dn sarvaan}\\

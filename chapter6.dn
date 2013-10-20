@@ -56,7 +56,7 @@ not active.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn sannyaasii}&san|nyaa|sii&(?)\\
@@ -137,7 +137,7 @@ not active.\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn viddhi}&vid|dhi&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -246,7 +246,7 @@ peace is viewed as the cause.\\
   &&&\\
   &&ta|syai|&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -474,7 +474,7 @@ an enemy.\\
   &&&\\
   &&sya&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1891,7 +1891,7 @@ contacting material objects) is called yoking.\\
 \begin{tabular}{llll}
   1a&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn vidyaaddu.hkhasa.myogaviyoga.m}&vi|dyaad|&vidyaat\\
   &&&= {\dn vidyaat}\\
@@ -1944,7 +1944,7 @@ completely. By the mind, really, the sense-gamut is restricted
 everywhere.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ni"scayena}&ni"s|ca|ye|na&using/by resoluteness\\
@@ -2519,7 +2519,7 @@ me).\\
 \begin{tabular}{llll}
   2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -2533,7 +2533,7 @@ me).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson}\\
   &&&\\
   &{\dn ca}&ca&and\\
@@ -2616,7 +2616,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yogii}&yo|gii&(?)\\
@@ -2696,7 +2696,7 @@ paramount.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yogii}&yo|gii&(?)\\
@@ -2849,7 +2849,7 @@ iron. I think the confinement of it is as if greatly (more) difficult
 \begin{tabular}{llll}
   2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that/him/it\\
   &&&\note{\pronoun, \genitivecase}\\
-  &&&\note{from: \male, {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from: \male, {\dn sa.h} = sa.h = \saH}\\
   &&&\note{from: \neuter, {\dn tat} = tat = that/it}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
@@ -3357,7 +3357,7 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\\
   &&sya&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3569,7 +3569,7 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn buddhisa.myoga.m}&bud|dhi|&{\dn buddhi.h}\\
   &&&= brainpower; intelligence\\
@@ -3652,7 +3652,7 @@ overcomes the word of (texts about) yoking.\\
   &&&\\
   &{\dn tenaiva}&te|nai|&tena = {\dn tena} = using/by that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3676,7 +3676,7 @@ overcomes the word of (texts about) yoking.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&sa\h{a}&{\dn sa.h} = that/he\\
+  &&sa\h{a}&{\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -3962,7 +3962,7 @@ me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\

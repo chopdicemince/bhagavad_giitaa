@@ -237,7 +237,7 @@ using (of) all sins.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn sammuu.dha.h} = sammuu.dha.h}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
@@ -585,7 +585,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn so.avikalpena}&so|&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn so.avikalpena}&so|&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&'vi|kal|pe|na&avikalpena\\
@@ -782,7 +782,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
 \begin{tabular}{llll}
   1a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those/them\\
   &&&\note{\pronoun, \thirdperson, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn satatayuktaanaa.m}&sa|ta|ta|&{\dn satata}\\
   &&&= eternal\\
@@ -833,7 +833,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -853,7 +853,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -870,7 +870,7 @@ knowledge-lamp-brightness.\\
   &&&\\
   &&te|.saa|me|&te.saam = {\dn te.saam} = of those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1626,7 +1626,7 @@ of me is no end.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn kathayi.syaami}&ka|tha|yi|.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain}\\

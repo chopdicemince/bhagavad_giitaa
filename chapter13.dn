@@ -164,7 +164,7 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn praahu.h}&praa|hu\h{u}&(?) ``is known''\\
   % ----------------------------------------------------------------------------
@@ -348,7 +348,7 @@ me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ca}&ca&and\\
@@ -2132,7 +2132,7 @@ strings---with---in all ways, present, also---he is not born again.\\
   2b&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn bhuuyo.abhijaayate}&bhuu|yo|&bhuuya.h = {\dn bhuuya.h} = again\\
@@ -2287,7 +2287,7 @@ hearing.\\
 \begin{tabular}{llll}
   2a&{\dn te.api}&te|&{\dn te} = those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2483,7 +2483,7 @@ sees.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
@@ -2647,7 +2647,7 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn kart.r} = kart.r}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
@@ -3078,7 +3078,7 @@ paramount (place).\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn param}&pa|ram&paramount; another; other; different; strange\\
   &&&\note{\adjective, \neuter}\\

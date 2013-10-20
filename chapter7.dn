@@ -1005,7 +1005,7 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\\
   &{\dn taanviddhi}&taan|&{\dn taan} = those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&vid|dhi&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -1025,11 +1025,11 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
@@ -1206,7 +1206,7 @@ attain) this magic.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1402,7 +1402,7 @@ knowledge, and he (is) a friend of me.\\
   &&&= {\dn te.saam}\\
   &&&= of those; of them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn j~naanii}&j\~{}naa|nii&(?) person of knowledge\\
   &&&\note{\noun, \male(?)}\\
@@ -1459,7 +1459,7 @@ knowledge, and he (is) a friend of me.\\
   2b&&ma|ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ca}&ca&and\\
@@ -1529,7 +1529,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   2a&{\dn aasthita.h}&aa|sthi|ta\h{a}&sitting; staying\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn hi}&hi&surely\\
@@ -1634,7 +1634,7 @@ all---thus. He is a great-self---very rare.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn mahaatmaa}&ma|haat|&mahaan\\
@@ -1676,11 +1676,11 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&\\
   &&stai|&tai.h = {\dn tai.h} = using/by those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&stair|&tai.h = {\dn tai.h} = using/by those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&h.r|ta|&{\dn h.rta} = taken; lost; stolen\\
   &&&\note{\adjective}\\
@@ -1712,11 +1712,11 @@ with a primal form---(the deities are) restrained by the self.\\
 \begin{tabular}{llll}
   2a&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn niyamamaasthaaya}&ni|ya|ma|maa|&niyamam\\
   &&&= {\dn niyamam}\\
@@ -1801,11 +1801,11 @@ him)---really, I distribute that non-shaking faith.\\
 \begin{tabular}{llll}
   2a&{\dn tasya}&ta|sya&of that/of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn tasyaacalaa.m}&ta|syaa|&tasya = {\dn tasya} = of that/of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ca|laa.m&acalaam\\
   &&&= {\dn acalaam}\\
@@ -1849,7 +1849,7 @@ He, using that faith, desires (to be) yoked (to) his homage. And from
 there, he gets those desires done, using me, really, surely.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn tayaa}&ta|yaa&using/by that/her\\
@@ -1871,7 +1871,7 @@ there, he gets those desires done, using me, really, surely.\\
   &&&\\
   1b&&sta|syaa|&tasya = {\dn tasya} = of that/of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&raa|dha|na|mii|&aaraadhanam\\
   &&&= {\dn aaraadhanam}\\
@@ -1921,7 +1921,7 @@ there, he gets those desires done, using me, really, surely.\\
   &&&\\
   &&taan&{\dn taan} = those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1948,7 +1948,7 @@ deities. (My) devotees go (to) me, also.\\
   &&&\\
   &{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those; of them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2393,7 +2393,7 @@ cherish me (with) a firm vow.\\
 \begin{tabular}{llll}
   2a&{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn dvandvamohanirmuktaa}&dvan|dva|&dvandvam\\
   &&&= {\dn dvandvam}\\
@@ -2480,7 +2480,7 @@ and all action.\\
 \begin{tabular}{llll}
   2a&{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn brahma}&brah|ma&brahmam\\
   &&&= {\dn brahmam}\\
@@ -2593,7 +2593,7 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\\
   2b&{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn vidur}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\

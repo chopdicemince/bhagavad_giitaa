@@ -152,7 +152,7 @@ better.\\
   &&&= of those/them two; at/in/on those/them two\\
   &&&\note{\pronoun, \thirdperson, \male, \dual,}\\
   &&&\note{\genitivecase, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&tu&{\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -197,7 +197,7 @@ Arjuna). Happily---from bondage, he is free.\\
   1a&{\dn j~neya.h}&j\~{}ne|ya\h{a}&to be known\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn nityasannyaasii}&ni|tya|&{\dn nitya}\\
@@ -422,7 +422,7 @@ one thing---he sees.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
@@ -846,7 +846,7 @@ water (as a lotus leaf is not attached to water).\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn paapena}&paa|pe|na&using/by evil; crime; sin\\
@@ -1271,7 +1271,7 @@ non-knowledge---covered knowledge.\\
   &&&\\
   2b&{\dn tena}&te|na&using/by that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn muhyanti}&mu|hyan|ti&(they) are confused; bewildered; wrong\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -1336,7 +1336,7 @@ one (God).\\
   &&&= {\dn te.saam}\\
   &&&= of those/them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&di|tya|&aaditya.h\\
   &&&= {\dn aaditya.h}\\
@@ -1542,7 +1542,7 @@ are standing (with) God.\\
   &&&\\
   &{\dn tairjita.h}&tair|&tai.h = {\dn tai.h} = using/by those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ji|ta\h{a}&{\dn jita.h}\\
   &&&= conquered; overcome; subdued\\
@@ -1609,7 +1609,7 @@ are standing (with) God.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn sthitaa.h}&sthi|taa\h{aa}&standing; present; devoted\\
   &&&\note{\adjective, \male, \plural}\\
@@ -1756,7 +1756,7 @@ non-decaying happiness.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn brahmayogayuktaatmaa}&brah|ma|&brahmam\\
@@ -1849,7 +1849,7 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1879,7 +1879,7 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ramate}&ra|ma|te&(he/she/it) enjoys; plays; is calm\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1960,13 +1960,13 @@ joined. He is a happy man.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yukta.h}&yuk|ta\h{a}&yoked; joined; suitable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn sukhii}&su|khii&happy\\
@@ -2029,7 +2029,7 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yogii}&yo|gii&ascetic\\
@@ -2398,7 +2398,7 @@ freed, really---he.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa\h{a}&that/he\\
+  &{\dn sa.h}&sa\h{a}&\saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
