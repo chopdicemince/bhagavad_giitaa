@@ -61,8 +61,8 @@ is God called?\\
   &&&= creation; God\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn ki.m}&ki.m&what\\
   &&&\note{\pronoun, \neuter}\\
@@ -146,8 +146,8 @@ restrained-selves (by people who know self-control)?\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
@@ -295,8 +295,8 @@ body, O best (O Arjuna).\\
   &&&= man; spirit\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dhi|dai|va|tam&adhidaivatam\\
   &&&= {\dn adhidaivatam}\\
@@ -362,8 +362,8 @@ not here.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn maameva}&maa|me&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
@@ -563,8 +563,8 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn yudh} = yudh}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -868,8 +868,8 @@ syllables is eight.)\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn balam} = balam}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1083,8 +1083,8 @@ situations) are of people remembering yoking.\\
   &&&\note{similar: root, {\dn nirudh} = nirudh}\\
   &&&\note{= ``to restrain''}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2053,8 +2053,8 @@ person go (to)---I will say that time, O Bharata-bull (O Arjuna).\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn aav.rtti.h} = aav.rtti.h}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2473,8 +2473,8 @@ syllables is eight.)\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn tapa.h} = tapa.h}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2542,8 +2542,8 @@ syllables is eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn upe} = upe}\\
   &&&\\
-  &{\dn caadyam}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caadyam}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dyam&aadyam\\
   &&&= {\dn aadyam}\\

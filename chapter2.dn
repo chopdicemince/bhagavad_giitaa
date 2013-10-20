@@ -319,8 +319,8 @@ K.r.s.na)?\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dro.na.h} = dro.na.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn madhusuudhana}&ma|dhu|&{\dn madhu}\\
   &&&= honey\\
@@ -505,8 +505,8 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caitadvidma.h}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caitadvidma.h}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ta|&etat = {\dn etat} = this\\
   &&&\note{\pronoun, \neuter}\\
@@ -827,8 +827,8 @@ has eleven main syllables per line.)\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caadhipatyam}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caadhipatyam}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dhi|pa|tyam&aadhipatyam\\
   &&&= {\dn aadhipatyam}\\
@@ -1050,8 +1050,8 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vaada.h} = vaada.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhaa.sase}&bhaa|.sa|se&(you) say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -1086,8 +1086,8 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1165,8 +1165,8 @@ from later (will be).\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1767,8 +1767,8 @@ does not kill and is not killed.\\
   1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2152,8 +2152,8 @@ and water does not wet this. Wind does not dry (this).\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caina.m}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2230,8 +2230,8 @@ not moving. This is eternal.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2371,8 +2371,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   1a&{\dn atha}&a|tha&also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caina.m}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2491,7 +2491,8 @@ to lament.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn m.rta.h} = m.rta.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2652,7 +2653,8 @@ really any knowledge.\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   &&&\\
-  &{\dn caanya.h}&caan|&ca = {\dn ca} = and\\
+  &{\dn caanya.h}&caan|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ya\h{a}&anya.h = {\dn anya.h} = another/other person\\
   &&&\note{\noun, \male}\\
@@ -2669,7 +2671,8 @@ really any knowledge.\\
   &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
   &&&\note{from: \suffix, {\dn vat} = vat = full of}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na|man|&enam = {\dn enam} = this (?)\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2703,7 +2706,8 @@ really any knowledge.\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really\\
   &&&\\
@@ -2810,7 +2814,8 @@ in the warrior caste, and the confidence is yours).\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
-  &{\dn caavek.sya}&caa|&ca = {\dn ca} = and\\
+  &{\dn caavek.sya}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&vek|.sya&avek.sya\\
   &&&= {\dn avek.sya}\\
@@ -2886,7 +2891,8 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   1a&{\dn yad.rcchayaa}&ya|d.rc|cha|yaa&using/by chance\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\\
-  &{\dn copapanna.m}&co|&ca = {\dn ca} = and\\
+  &{\dn copapanna.m}&co|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pa|pan|na.m&upapanna.m\\
   &&&= {\dn upapanna.m}\\
@@ -2993,7 +2999,8 @@ self nature and fame, you will get evil.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn kiirti.h} = kiirti.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3030,7 +3037,8 @@ death.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
   &&&\\
-  &{\dn caapi}&caa|&ca = {\dn ca} = and\\
+  &{\dn caapi}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\\
@@ -3060,7 +3068,8 @@ death.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sambhaavita.h} = sambhaavita.h}\\
   &&&\\
-  &{\dn caakiirtirmara.naadatiricyate}&caa|&ca = {\dn ca} = and\\
+  &{\dn caakiirtirmara.naadatiricyate}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&kiir|tir|&akiirti.h\\
   &&&= {\dn akiirti.h}\\
@@ -3134,7 +3143,8 @@ small importance.\\
 \begin{tabular}{llll}
   2a&{\dn ye.saa.m}&ye|.saa.m&for whom (?)\\
   &&&\\
-  &{\dn ca}&ca&and\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -3182,7 +3192,8 @@ ability. From more sadness, certainly, what can come?\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vaada.h} = vaada.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bahuunvadi.syanti}&ba|huun|&much/many\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
@@ -3605,7 +3616,8 @@ infinite.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn ananta.h} = ananta.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4454,7 +4466,8 @@ to be indifference to something to be heard and something heard.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn "sruta.h} = "sruta.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4875,7 +4888,8 @@ knowledge is complete.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.mh.R} = sa.mh.rr}\\
   &&&\\
-  &{\dn caaya.m}&caa|&ca = {\dn ca} = and\\
+  &{\dn caaya.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ya.m&aya.m = {\dn aya.m} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -5460,7 +5474,8 @@ or non-peace---from where does happiness come?\\
   1b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caayuktasya}&caa|&ca = {\dn ca} = and\\
+  &{\dn caayuktasya}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&yuk|ta|sya&ayuktasya\\
   &&&= {\dn ayuktasya}\\
@@ -5480,7 +5495,8 @@ or non-peace---from where does happiness come?\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caabhaavayata.h}&caa|&ca = {\dn ca} = and\\
+  &{\dn caabhaavayata.h}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&bhaa|va|ya|ta\h{a}&abhaavayata.h\\
   &&&= {\dn abhaavayata.h}\\

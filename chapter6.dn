@@ -63,15 +63,15 @@ not active.\\
   &&&\note{similar: \noun, \male, {\dn sa.mnyaasa.h} = sa.mnyaasa.h}\\
   &&&\note{= abandonment; renunciation; abstaining from food}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= magician; saint; devotee; ascetic}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -91,8 +91,8 @@ not active.\\
   &&na&{\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &{\dn caakriya.h}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn caakriya.h}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&kri|ya\h{a}&akriya.h\\
   &&&= {\dn akriya.h}\\
@@ -765,8 +765,8 @@ people are the) same, intelligence is the best.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn paape.su}&paa|pe|.su&at/in/on people of sin; evil; crime\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -1113,8 +1113,8 @@ looking in all directions.\\
   &&&\note{similar: \noun, \female, {\dn di"saa} = di"saa}\\
   &&&\note{= direction; domain}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na|va|lo|ka|yan&anavalokayan\\
   &&&= {\dn anavalokayan}\\
@@ -1325,8 +1325,8 @@ Arjuna.\\
   1b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caikaantamana"snata.h}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caikaantamana"snata.h}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&kaan|ta|ma|&ekaantam = {\dn ekaantam} = only\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1346,8 +1346,8 @@ Arjuna.\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caatisvapna"siilasya}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caatisvapna"siilasya}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ti|&ati = {\dn ati} = very\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1377,8 +1377,8 @@ Arjuna.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -1672,8 +1672,8 @@ person is satisfied.\\
   2a&{\dn yatra}&ya|tra&wherever\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caivaatmanaatmaana.m}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caivaatmanaatmaana.m}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&vaat|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1768,8 +1768,8 @@ he is still and does not move intrinsically.\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caivaaya.m}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caivaaya.m}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&vaa|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1812,8 +1812,8 @@ teacher, also, the person does not swerve.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
-  &{\dn caapara.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caapara.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pa|ra.m&aparam = {\dn aparam} = other; different\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -2424,8 +2424,8 @@ all-seeing.\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   &&&\\
-  &&caat|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caat|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ma|ni&aatmani\\
   &&&= {\dn aatmani}\\
@@ -2503,8 +2503,8 @@ me).\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
@@ -2536,8 +2536,8 @@ me).\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
@@ -2957,8 +2957,8 @@ aversion, (it can be) domesticated.\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn vairaagyam} = vairaagyam}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn g.rhyate}&g.r|hya|te&(?)\\
   &&&\note{similar: \adjective, {\dn g.rhya} = g.rhya}\\
@@ -3603,8 +3603,8 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yat} = yat}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tato}&ta|to&tata.h\\
   &&&= {\dn tata.h}\\
@@ -3852,8 +3852,8 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &&&\note{\dativecase, \ablativecase}\\
   &&&\note{from {\dn karmin} = karmin}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dhi|ko&adhika.h\\
   &&&= {\dn adhika.h}\\

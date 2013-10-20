@@ -171,8 +171,8 @@ pulverization, and (they) are not afraid.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn vyath} = vyath}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -492,8 +492,8 @@ non-sin (O Arjuna).\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
   &&&\\
-  &{\dn caanagha}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caanagha}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na|&an = {\dn an} = not\\
   &&&\note{\prefix}\\
@@ -768,8 +768,8 @@ sometimes superiority), thus.\\
   &&&= darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&bhi|bhuu|ya&abhibhuuyam\\
   &&&= {\dn abhibhuuyam}\\
@@ -808,8 +808,8 @@ sometimes superiority), thus.\\
   &&&= darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1012,8 +1012,8 @@ ignorance---these are born in abundan(ce), O Kuru-son (O Arjuna).\\
   &&&= behavior; tendency; action; work; doing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1030,8 +1030,8 @@ ignorance---these are born in abundan(ce), O Kuru-son (O Arjuna).\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1357,8 +1357,8 @@ you---and non-knowledge, really.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1400,8 +1400,8 @@ you---and non-knowledge, really.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1539,8 +1539,8 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\note{similar: \noun, \male, {\dn gu.na.h} = gu.na.h}\\
   &&&\note{= string; attribute}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
@@ -1742,8 +1742,8 @@ three strings?\\
   &&&\\
   &\multicolumn{3}{l}{\dn caitaa.mstriingu.naanativartate}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&taa.m|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
@@ -1800,8 +1800,8 @@ vanished, \dots\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn prkaa"sa.h} = prakaa"sa.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn prav.rtti.m}&pra|v.rt|ti.m&prav.rttim\\
   &&&= {\dn prav.rttim}\\
@@ -1809,8 +1809,8 @@ vanished, \dots\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1824,8 +1824,8 @@ vanished, \dots\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn paa.n.dava}&paa.n|.da|va&O son of Paa.n.du\\
   &&&= O Arjuna\\
@@ -2146,8 +2146,8 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yo.avyabhicaare.na}&yo|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -2260,8 +2260,8 @@ eternal and devotion (and) happiness and complete God.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn vyaya.h} = vyaya.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2270,8 +2270,8 @@ eternal and devotion (and) happiness and complete God.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn "saa"svata.h} = "saa"svata.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn dharmasya}&dhar|ma|sya&of devotion; duty; religion; good conduct\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -2293,8 +2293,8 @@ eternal and devotion (and) happiness and complete God.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn aikaantika.h} = aikaantika.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

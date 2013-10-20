@@ -305,7 +305,8 @@ reach fulfillment.\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn ca}&ca&and\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn sannyasanaadeva}&san|nya|sa|naa|de|&sannyasanaat\\
   &&&= {\dn sannyasanaat}\\
@@ -652,8 +653,8 @@ non-action.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn te}&te&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular, \dativecase,}\\
@@ -1394,8 +1395,8 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&&= satisifed; replete; full\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn maanava.h}&maa|na|va\h{a}&man; human; mankind\\
   &&&\note{\noun, \male}\\
@@ -1412,8 +1413,8 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn santu.s.tastasya}&san|tu.s|.ta|&santu.s.ta.h\\
   &&&= {\dn santu.s.ta.h}\\
@@ -1496,8 +1497,8 @@ people---there is no meaning.\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caasya}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caasya}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
@@ -1844,8 +1845,8 @@ to action.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn karma.ni}&kar|ma|.ni&related to action\\
   &&&\note{\adjective}\\
@@ -1981,8 +1982,8 @@ worlds).\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from: sa"nkara.h = {\dn sa"nkara.h}}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn kartaa}&kar|taa&kartaa\\
   &&&= {\dn kartaa}\\
@@ -3015,8 +3016,8 @@ that (desire).\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn malam} = malam}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3134,8 +3135,8 @@ satisfy.\\
   &&&\note{\adjective, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn du.spuuram} = du.spuuram}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

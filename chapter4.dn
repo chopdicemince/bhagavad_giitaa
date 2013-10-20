@@ -224,8 +224,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\note{\noun, \male}\\
   &&&\note{from {\dn sakha.h} = sakha.h}\\
   &&&\\
-  &{\dn ceti}&ce|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ceti}&ce|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ti&iti = {\dn iti} = ``end of quote''\\
   % ----------------------------------------------------------------------------
@@ -375,8 +375,8 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\note{\genitivecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ju|na&arjuna.h = {\dn arjuna.h} = Arjuna\\
   &&&\note{\noun, \male}\\
@@ -609,8 +609,8 @@ construction of respectable virtue---I exist, in eon after eon.\\
   &&&\note{\noun, \male, \dativecase}\\
   &&&\note{from {\dn vinaa"sa.h} = vinaa"sa.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn du.sk.rtaam}&du.s|k.r|taam&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn du.sk.rtam} = du.sk.rtam}\\
@@ -670,8 +670,8 @@ goes toward me, O Arjuna.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1405,8 +1405,8 @@ hard to understand.\\
   &&&\note{\adjective, \male?, \accusativecase?}\\
   &&&\note{from {\dn boddhavya.h} = boddhavya.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\notena\\
   &&&\\
   &{\dn vikarma.na.h}&\multicolumn{2}{l}{vi|kar|ma|.na\h{a}}\\
   &&&\\
@@ -1424,8 +1424,8 @@ hard to understand.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn karma.na.h} = karma.na.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn boddhavya.m}&bod|dha|vya.m&boddhavyam\\
   &&&= {\dn boddhavyam}\\
@@ -1484,8 +1484,8 @@ men. He is occupied with all actions done.\\
   &&&\note{\adjective}\\
   &&&\note{\prefix: {\dn a} = a = not}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
@@ -1848,8 +1848,8 @@ selfish, (is) the same in successful (things) and non-successful
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2252,7 +2252,8 @@ union in the fire, in the knowledge on fire.\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn caapare}&caa|&ca = {\dn ca} = and\\
+  &{\dn caapare}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -2371,8 +2372,8 @@ prepared men who have taken vows.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3348,8 +3349,8 @@ next (world).\\
   &&&= idiot; fool\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&"srad|da|dhaa|na"s|&a"sraddadhaana.h\\
   &&&= {\dn a"sraddadhaana.h}\\
@@ -3357,8 +3358,8 @@ next (world).\\
   &&&\note{\adjective, \male}\\
   &&&\note{\prefix: {\dn a} = a = not}\\
   &&&\\
-  &&ca&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

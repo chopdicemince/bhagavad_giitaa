@@ -306,8 +306,8 @@ ego---thus, this is my primal form, broken eight-fold.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -709,8 +709,8 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&\note{\noun, \female, \locativecase}\\
   &&&\note{from {\dn p.rthivii} = p.rthivii}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -719,8 +719,8 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&= sharpness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&smi&asmi\\
   &&&= {\dn asmi}\\
@@ -756,8 +756,8 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&= torment; heat\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&smi&asmi\\
   &&&= {\dn asmi}\\
@@ -875,8 +875,8 @@ to goodness, O Bharata-bull (O Arjuna).\\
   &&&\note{\adjective, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn balavat} = balavat}\\
   &&&\\
-  &{\dn caaha.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caaha.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -954,8 +954,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -984,8 +984,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn taamasa.h} = taamasa.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn ye}&ye&(?) ones/who/what\\
   &&&\note{\pronoun, \male, \plural}\\
@@ -1373,8 +1373,8 @@ the person of knowledge---O Bharata-bull (O Arjuna).\\
   &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
   &&&\note{= knowledge}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bharatar.sabha}&bha|ra|tar|&bharata\\
   &&&= {\dn bharata}\\
@@ -1462,8 +1462,8 @@ knowledge, and he (is) a friend of me.\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
@@ -1891,8 +1891,8 @@ there, he gets those desires done, using me, really, surely.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tata.h}&ta|ta\h{a}&from there; from then\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2223,8 +2223,8 @@ anyone (knows) me.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn vartamaanam} = vartamaanam}\\
   &&&\\
-  &{\dn caarjuna}&caar|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caarjuna}&caar|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -2240,8 +2240,8 @@ anyone (knows) me.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn bhavi.syam} = bhavi.syam}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; men; creatures\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2509,8 +2509,8 @@ and all action.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn caakhilam}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caakhilam}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&khil|lam&akhilam\\
   &&&= {\dn akhilam}\\
@@ -2556,8 +2556,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn adhiyaj~na.h} = adhiyaj\~{}na.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn ye}&ye&(?) ones/who/what\\
   &&&\note{\pronoun, \male, \plural}\\
@@ -2582,8 +2582,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\

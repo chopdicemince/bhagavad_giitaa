@@ -111,8 +111,8 @@ instead of the usual eight.)\\
   &&&= ``down''; below\\
   &&&\note{\adverb, \preposition, \indeclinable}\\
   &&&\\
-  &&cor|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cor|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dhva.m&uurdhvam\\
   &&&= {\dn uurdhvam}\\
@@ -164,8 +164,8 @@ instead of the usual eight.)\\
   &&&= ``down''; below\\
   &&&\note{\adverb, \preposition, \indeclinable}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn muulaanyanusantataani}&muu|laa|nya|&muulaani\\
   &&&= {\dn muulaani}\\
@@ -262,8 +262,8 @@ syllables.)\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn caadirna}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caadirna}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dir|&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -273,8 +273,8 @@ syllables.)\\
   &&na&{\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn samprati.s.thaa}&sam|pra|ti|.s.thaa&high rank; permanence; perserverance\\
   &&&\note{\noun, \female}\\
@@ -390,8 +390,8 @@ instead of the usual eight.)\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caadya.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caadya.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dya.m&aadyam\\
   &&&= {\dn aadyam}\\
@@ -758,8 +758,8 @@ God---having taken these (things), (the being) travels with
   &&yac|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pyut|&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -840,8 +840,8 @@ and---(standing)---and this mind. (A being) serves (these) objects.\\
   &&&= touch\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -858,8 +858,8 @@ and---(standing)---and this mind. (A being) serves (these) objects.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -875,8 +875,8 @@ and---(standing)---and this mind. (A being) serves (these) objects.\\
   &&&= mind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -1002,8 +1002,8 @@ not see this (situation).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yogin} = yogin}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na.m&enam = {\dn enam} = this/that/he/she/it\\
   &&&\note{\pronoun, \thirdperson}\\
@@ -1138,8 +1138,8 @@ in a fire? (Know) that fire of me.\\
   &{\dn yaccaagnau}&yac|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&caag|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caag|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&nau&agnau\\
   &&&= {\dn agnau}\\
@@ -1189,8 +1189,8 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&\note{= (he/she/it) attains; approaches; enters}\\
   &&&\note{root: {\dn aavi"s} = aavis"}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; men; creatures\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1223,8 +1223,8 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pu.s} = pu.s}\\
   &&&\\
-  &{\dn cau.sadhii.h}&cau|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cau.sadhii.h}&cau|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&.sa|dhii\h{ii}&au.sadhii.h\\
   &&&= {\dn au.sadhii.h}\\
@@ -1362,8 +1362,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &{\dn caaha.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caaha.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1399,8 +1399,8 @@ instead of the usual eight.)\\
   &&&= reasoning\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1411,8 +1411,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn veda.h} = veda.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn sarvairahameva}&sar|vai|ra|&sarvai.h\\
   &&&= {\dn sarvai.h}\\
@@ -1456,8 +1456,8 @@ instead of the usual eight.)\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caaham}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caaham}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ham&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1495,8 +1495,8 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &&&= perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -1509,8 +1509,8 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1686,8 +1686,8 @@ knowledge---known (as) the ultimate man.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn cottama.h}&cot|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cottama.h}&cot|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ta|ma\h{a}&uttama.h\\
   &&&= {\dn uttama.h}\\
@@ -1712,8 +1712,8 @@ knowledge---known (as) the ultimate man.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn veda.h} = veda.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1904,8 +1904,8 @@ Arjuna). Having known this---intelligence may be, and action-action
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&O son of Bharata\\
   &&&= O Arjuna\\

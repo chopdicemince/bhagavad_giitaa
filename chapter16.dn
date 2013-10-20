@@ -65,16 +65,16 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   &&&= restraint; control\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yaj~na"sca}&ya|j\~{}na"s|&yaj\~{}na.h\\
   &&&= {\dn yaj~na.h}\\
   &&&= sacrifice\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -286,8 +286,8 @@ prince (O Arjuna).\\
   &&&= pride\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -302,8 +302,8 @@ prince (O Arjuna).\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -316,8 +316,8 @@ prince (O Arjuna).\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn caabhijaatasya}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caabhijaatasya}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&bhi|jaa|ta|sya&abhijaatasya\\
   &&&= {\dn abhijaatasya}\\
@@ -468,8 +468,8 @@ Arjuna), hear (about) the demon (from) me.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -525,8 +525,8 @@ purity, and no good behavior, (and) no truth is in them.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn niv.rtti.m}&ni|v.rt|ti.m&niv.rttim\\
   &&&= {\dn niv.rttim}\\
@@ -534,8 +534,8 @@ purity, and no good behavior, (and) no truth is in them.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn niv.rtti.h} = niv.rtti.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -576,8 +576,8 @@ purity, and no good behavior, (and) no truth is in them.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caacaaro}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caacaaro}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&caa|ro&aacaara.h\\
   &&&= {\dn aacaara.h}\\
@@ -914,8 +914,8 @@ much. Thus. Sure.\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn parimeyaa} = parimeyaa}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1187,8 +1187,8 @@ full of strength, (and) a happy person.\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn caaparaanapi}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caaparaanapi}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pa|raa|na|&aparaan\\
   &&&= {\dn aparaan}\\
@@ -1558,8 +1558,8 @@ in bodies.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn krodha.h} = krodha.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn sa.m"sritaa.h}&sa.m|"sri|taa\h{aa}&seeking refuge in; residing\\
   &&&\note{\adjective, \male, \plural}\\

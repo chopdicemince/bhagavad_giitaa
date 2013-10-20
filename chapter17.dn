@@ -174,8 +174,8 @@ that (faith).\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{(?) from {\dn rajas} = rajas}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -186,8 +186,8 @@ that (faith).\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{(?) from {\dn tamas} = tamas}\\
   &&&\\
-  &{\dn ceti}&ce|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ceti}&ce|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
@@ -352,8 +352,8 @@ and in another.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn ga.na.h} = ga.na.h}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&nye&anye\\
   &&&= {\dn anye}\\
@@ -533,8 +533,8 @@ demon(-occurrences-of)-steadfastness.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn caivaanta.h}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caivaanta.h}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&vaan|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -889,8 +889,8 @@ what---remaining, also, and non-pure.\\
   &&&= stale\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yat}&yat&(?) one/who/what\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
@@ -906,8 +906,8 @@ what---remaining, also, and non-pure.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caamedhya.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caamedhya.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -1052,8 +1052,8 @@ passion.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1254,8 +1254,8 @@ characteristics) is called body austerity.\\
   &&&= hurt; harm; killing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1319,8 +1319,8 @@ austerity.\\
   &&&= service; advice; goodness; benefit\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yat}&yat&(?) one/who/what\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
@@ -1338,8 +1338,8 @@ austerity.\\
   &&&= practice\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1571,8 +1571,8 @@ passion---trembling (and) non-eternal.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn dambha.h} = dambha.h}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1762,15 +1762,15 @@ person---that donation (is) remembered (as) good.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn paatre}&paa|tre&at/in/on a/the leaf; cup; bowl; competent person\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn paatram} = paatram}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1846,8 +1846,8 @@ results), yes/no, again, and reluctant---that donation (is) remembered
 \begin{tabular}{llll}
   2a&{\dn diiyate}&dii|ya|te&(?)\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn parikli.s.ta.m}&pa|ri|kli|.s.ta.m&parikli.s.tam\\
   &&&= {\dn parikli.s.tam}\\
@@ -1919,8 +1919,8 @@ person, \dots (?) \dots non-true action, without respect---that
   &&&= {\dn bhya.h}\\
   &&&= (?)\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn diiyate}&dii|ya|te&(?)\\
 \end{tabular}
@@ -2032,8 +2032,8 @@ kind(s)---remembered by those people with divine knowledge and
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn veda.h} = veda.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2043,8 +2043,8 @@ kind(s)---remembered by those people with divine knowledge and
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn vihitaa.h}&vi|hi|taa\h{aa}&decreed\\
   &&&\note{\adjective, \male, \plural}\\
@@ -2199,8 +2199,8 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn vividhaa.h}&vi|vi|dhaa\h{aa}&various\\
   &&&\note{\adjective, \female, \plural}\\
@@ -2255,8 +2255,8 @@ Arjuna) \dots\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2336,8 +2336,8 @@ related, (is) ``sat'' (true), really, \dots (?) \dots.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn daanam} = daanam}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2352,8 +2352,8 @@ related, (is) ``sat'' (true), really, \dots (?) \dots.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn cocyate}&co|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cocyate}&co|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
@@ -2369,8 +2369,8 @@ related, (is) ``sat'' (true), really, \dots (?) \dots.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2447,8 +2447,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yat}&yat&(?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
@@ -2483,8 +2483,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tatpretya}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\

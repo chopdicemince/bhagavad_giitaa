@@ -27,8 +27,8 @@ known, O K.r.s.na.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn puru.sa.h} = puru.s.ah}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -49,8 +49,8 @@ known, O K.r.s.na.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -86,8 +86,8 @@ known, O K.r.s.na.\\
   &&&= to be known\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -211,8 +211,8 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&= knowing\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn caapimaa.m}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caapimaa.m}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -313,8 +313,8 @@ me.\\
   &{\dn yacca}&yac|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yaad.rkca}&yaa|d.rk|&{\dn yaad.rk}\\
   &&&= (?) {\dn yaad.rk.sa}\\
@@ -322,8 +322,8 @@ me.\\
   &&&= similar\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -339,8 +339,8 @@ me.\\
   &{\dn yata"sca}&ya|ta"s|&yata.h = {\dn yata.h} = from where; because\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yat}&yat&(?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
@@ -351,8 +351,8 @@ me.\\
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -365,8 +365,8 @@ me.\\
   &&&= effect\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -455,8 +455,8 @@ God-saying-words, and really, reason \dots (?) \dots, using sure
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn padam} = padam}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -526,8 +526,8 @@ moving \dots\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -542,16 +542,16 @@ moving \dots\\
   &&ka.m&ekam = {\dn ekam} = one\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   2b&{\dn pa~nca}&pa\~{}n|ca&five\\
   &&&\note{\noun}\\
   &&&\\
-  &{\dn cendriyagocaraa.h}&cen|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cendriyagocaraa.h}&cen|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&dri|ya|&indriyam\\
   &&&= {\dn indriyam}\\
@@ -757,8 +757,8 @@ death, old age, disease, distress, defect, thinking, \dots\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -859,8 +859,8 @@ desire (and) not worthy of desire, in attainments, \dots\\
   &&&= eternally\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &\multicolumn{3}{l}{\dn samacittatvami.s.taani.s.topapatti.su}\\
   &&&\\
@@ -904,8 +904,8 @@ alone, place-residing, no sex, man-meeting, \dots\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &{\dn caananyayogena}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caananyayogena}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&na|&an = {\dn an} = not\\
   &&&\note{\prefix}\\
@@ -1327,8 +1327,8 @@ enjoyer.\\
   &&&= bearing; wearing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1353,8 +1353,8 @@ enjoyer.\\
   &&&= enjoyer\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1375,8 +1375,8 @@ near.\\
   &&ta"s|&anta.h = {\dn anta.h} = inside\\
   &&&\note{\noun, \adjective, \adverb, \preposition, \indeclinable}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhuutaanaamacara.m}&bhuu|taa|naa|&bhuutaanaam\\
   &&&= {\dn bhuutaanaam}\\
@@ -1402,8 +1402,8 @@ near.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1437,16 +1437,16 @@ near.\\
   &&&= standing; staying\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn caantike}&caan|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caantike}&caan|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ti|ke&antike\\
   &&&= {\dn antike}\\
   &&&= near\\
   &&&\note{\adjective, \adverb, \preposition, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tat}&tat&\tat\\
   &&&\notetat\\
@@ -1472,8 +1472,8 @@ and (is) influential.\\
   &&&= separated; divided\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
@@ -1489,8 +1489,8 @@ and (is) influential.\\
   &&va&iva = {\dn iva} = as if\\
   &&&\note{\conjunction}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn sthitam}&sthi|tam&steadfast\\
   &&&\note{\adjective, \neuter}\\
@@ -1507,8 +1507,8 @@ and (is) influential.\\
   &&&= bearer; maintainer; master\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn tajj~neya.m}&taj|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -1526,8 +1526,8 @@ and (is) influential.\\
   &{\dn prabhavi.s.nu}&pra|bha|vi|.s.nu&influential\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1650,8 +1650,8 @@ from-be-behavior.\\
   &&&= to be known\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn cokta.m}&cok|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cokta.m}&cok|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ta.m&uktam\\
   &&&= {\dn uktam}\\
@@ -1724,8 +1724,8 @@ really, primal-form births.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1764,8 +1764,8 @@ really, primal-form births.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vikaara.h} = vikaara.h}\\
   &&&\\
-  &&ca&{\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&ca&{\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn gu.naa.m"scaiva}&gu|.naa.m"s|&gu.naan\\
   &&&= {\dn gu.naan}\\
@@ -1773,8 +1773,8 @@ really, primal-form births.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&cai|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1999,8 +1999,8 @@ paramount man (God).\\
   &&&\note{\noun, \male}\\
   &&&\note{from {\dn anumant.r} = anumant.r}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2040,8 +2040,8 @@ paramount man (God).\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caapyukto}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caapyukto}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pyuk|&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2103,8 +2103,8 @@ strings---with---in all ways, present, also---he is not born again.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn gu.nai.h}&gu|.nai\h{i}&using/by strings; attributes\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
@@ -2220,8 +2220,8 @@ action-yoking.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &{\dn caapare}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caapare}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -2292,8 +2292,8 @@ hearing.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn caatitarantyeva}&caa|&ca = {\dn ca} = and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn caatitarantyeva}&caa|&ca = {\dn ca} = \ca\\
+  &&&\noteca\\
   &&&\\
   &&ti|ta|ran|tye|&atitaranti\\
   &&&= {\dn atitaranti}\\
@@ -2599,8 +2599,8 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doings\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2711,8 +2711,8 @@ person) attains God.\\
   &{\dn eva}&e|va&really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   &&&\\
   &{\dn vistaara.m}&vi|staa|ra.m&vistaaram\\
   &&&= {\dn vistaaram}\\
@@ -3057,8 +3057,8 @@ paramount (place).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn mok.sa.h} = mok.sa.h}\\
   &&&\\
-  &{\dn ca}&ca&and\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn ca}&ca&\ca\\
+  &&&\noteca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
