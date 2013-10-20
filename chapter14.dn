@@ -1708,7 +1708,7 @@ three strings?\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&taa|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
 \end{tabular}
 \newpage
@@ -1746,7 +1746,7 @@ three strings?\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &&taa.m|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2195,7 +2195,7 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
   &&&\note{\adjective(?)}\\
   &&&\\
   &&taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \male, \plural, \accusativecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
