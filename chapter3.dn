@@ -51,7 +51,7 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tatkim}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&kim|&{\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
@@ -123,7 +123,7 @@ that one resolute thing by which I may get confidence. (?)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tadeka.m}&ta|de|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&ka.m&eka.m = {\dn eka.m} = one\\
   &&&\note{\numberr, \neuter}\\
@@ -731,7 +731,7 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tadartha.m}&ta|dar|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&tha.m&artham\\
   &&&= {\dn artham}\\
@@ -1763,7 +1763,7 @@ proof, or that world, follows.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&da|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&var|ta|te&anuvartate\\
   &&&= {\dn anuvartate}\\

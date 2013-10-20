@@ -2325,7 +2325,7 @@ pure-self.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tadaha.m}&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
@@ -2431,7 +2431,7 @@ Arjuna), that (is) a giving (to) me.\\
   \hline
   &&&\\
   2b&{\dn tatkuru.sva}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&ku|ru|.sva&{\dn kuru.sva}\\
   &&&= (?)\\

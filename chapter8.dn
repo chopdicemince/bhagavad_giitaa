@@ -23,7 +23,7 @@ is God called?\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &{\dn tadbrahma}&tad|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&brah|ma&brahmam = {\dn brahmam} = God\\
   &&&\note{\noun, \neuter}\\
@@ -508,7 +508,7 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tadbhaavabhaavita.h}&tad|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -1024,7 +1024,7 @@ syllables is eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn tatte}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&te&{\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -1915,7 +1915,7 @@ my paraount home.\\
   \hline
   &&&\\
   2b&{\dn taddhaama}&tad|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&dhaa|ma&dhaamam\\
   &&&= {\dn dhaamam}\\
@@ -2505,7 +2505,7 @@ syllables is eight.)\\
   &&&\note{root: (?)}\\
   &&&\\
   &{\dn tatsarvamida.m}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\

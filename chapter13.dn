@@ -183,7 +183,7 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tadvida.h}&ta|dvi|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&da\h{a}&vida.h\\
   &&&= {\dn vida.h}\\
@@ -275,7 +275,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&taj|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
@@ -305,7 +305,7 @@ me.\\
 
 \begin{tabular}{llll}
   1a&{\dn tatk.setra.m}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&k.se|tra.m&k.setram = {\dn k.setram} = place\\
   &&&\note{\noun, \neuter}\\
@@ -371,7 +371,7 @@ me.\\
   \hline
   &&&\\
   2b&{\dn tatsamaasena}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&sa|maa|se|na&{\dn samaasena}\\
@@ -1081,7 +1081,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&pra|va|k.syaa|mi&{\dn pravak.syaami}\\
@@ -1149,7 +1149,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\note{\adjective}\\
   &&&\\
   &&tan|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&naa|&na = {\dn na} = not\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1196,7 +1196,7 @@ me, in the world, each (thing) (is) covered. (God) stays.\\
   &\multicolumn{3}{l}{\dn tatsarvato.ak.si"siromukham}\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1416,7 +1416,7 @@ near.\\
   &&&\note{= subtlety; accuracy; fineness}\\
   &&&\\
   &&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -1449,7 +1449,7 @@ near.\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1511,7 +1511,7 @@ and (is) influential.\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn tajj~neya.m}&taj|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&j\~{}ne|ya.m&j\~{}neyam\\
   &&&= {\dn j~neyam}\\
@@ -1555,7 +1555,7 @@ each (being).\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tajjyotistamasa.h}&taj|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&jyo|ti|&jyoti.h\\
   &&&= {\dn jyoti.h}\\
@@ -2386,7 +2386,7 @@ the place(-and-the)-place-know(er) yoking. Know that, O Bharata-bull
   \hline
   &&&\\
   2b&&ta|dvid|&tat = {\dn tat} = tat = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&dhi&viddhi.h\\

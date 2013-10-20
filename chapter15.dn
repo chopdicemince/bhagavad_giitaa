@@ -350,7 +350,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&pa|ri|maar|gi|ta|vya.m&parimaargitavyam\\
   &&&= {\dn parimaargitavyam}\\
@@ -556,7 +556,7 @@ instead of the usual eight.)\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -573,7 +573,7 @@ does not return.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&bhaa|sa|ya|te&{\dn bhaasayate}\\
@@ -623,7 +623,7 @@ does not return.\\
   \hline
   &&&\\
   2b&{\dn taddhaama}&tad|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&dhaa|ma&dhaamam\\
@@ -1150,7 +1150,7 @@ in a fire? (Know) that fire of me.\\
   \hline
   &&&\\
   2b&{\dn tattejo}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&te|jo&teja.h\\

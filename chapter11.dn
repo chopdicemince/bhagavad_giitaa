@@ -296,7 +296,7 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn tacchakya.m}&tac|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&cha|kya.m&"sakyam\\
   &&&= {\dn "sakyam}\\
@@ -4034,7 +4034,7 @@ instead of the usual eight.)\\
   &&&\note{\adjective}\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&pa|ra.m&param\\
   &&&= {\dn param}\\
@@ -4630,7 +4630,7 @@ instead of the usual eight.)\\
   &&&\note{from {\dn cyuta.h} = cyuta.h}\\
   &&&\\
   &{\dn tatsamak.sa.m}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&sa|ma|k.sa.m&samak.sam\\
   &&&= {\dn samak.sam}\\
@@ -4641,7 +4641,7 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn tatk.saamaye}&tat|&{\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&k.saa|ma|ye&{\dn k.saamaye}\\
   &&&= at/in/on a/the person/thing pardoned\\
@@ -4984,7 +4984,7 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tadeva}&ta|de|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -5524,7 +5524,7 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn tadeva}&ta|de|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\

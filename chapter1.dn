@@ -783,7 +783,7 @@ Bhiima-protected.\\
   &&&\note{{\dn paryaaptam} = paryaaptam}\\
   &&&\\
   &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&smaa|ka.m&asmaakam\\
   &&&= {\dn asmaakam}\\
@@ -3745,7 +3745,7 @@ for me, is more comfortable.\\
   \hline
   &&&\\
   2b&&stan|&tat = {\dn tat} = \tat\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&&\notetat\\
   &&&\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
