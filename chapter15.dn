@@ -349,7 +349,7 @@ instead of the usual eight.)\\
   &{\dn pada.m}&pa|da.m&padam = {\dn padam} = foot; step; term\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = that/it\\
+  &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&pa|ri|maar|gi|ta|vya.m&parimaargitavyam\\
@@ -555,7 +555,7 @@ instead of the usual eight.)\\
   &&&= changeable; perishable\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn tat}&tat&that/it\\
+  &{\dn tat}&tat&\tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
 \end{tabular}
 \newpage
@@ -572,7 +572,7 @@ does not return.\\
   1a&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = that/it\\
+  &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -622,7 +622,7 @@ does not return.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = that/it\\
+  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1149,7 +1149,7 @@ in a fire? (Know) that fire of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tattejo}&tat|&{\dn tat} = that/it\\
+  2b&{\dn tattejo}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\

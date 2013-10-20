@@ -604,7 +604,7 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&ni&taani = {\dn taani} = those/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -730,7 +730,7 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &&&\\
   &{\dn taani}&taa|ni&those/they\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
-  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doings\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -783,7 +783,7 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural, \locativecase}\\
-  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&(?) karme.su\\
   &&&= {\dn karme.su}\\
@@ -2324,7 +2324,7 @@ pure-self.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tadaha.m}&ta|da|&tat = {\dn tat} = that/it\\
+  2a&{\dn tadaha.m}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -2430,7 +2430,7 @@ Arjuna), that (is) a giving (to) me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatkuru.sva}&tat|&{\dn tat} = that/it\\
+  2b&{\dn tatkuru.sva}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ku|ru|.sva&{\dn kuru.sva}\\

@@ -689,8 +689,8 @@ has eleven main syllables per line.)\\
   &&hi&{\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tanme}&tan|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tanme}&tan|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1586,8 +1586,8 @@ thing---not any (person) is able to do (it).\\
   &{\dn tu}&tu&but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn tadviddhi}&ta|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tadviddhi}&ta|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&dvid|dhi&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -4836,7 +4836,7 @@ complete.\\
   2b&{\dn tasya}&ta|sya&his/its\\
   &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{neuter: from {\dn tat} = tat = that/it, or {\dn tad} = tad}\\
+  &&&\note{neuter: from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \neuter}\\
@@ -4907,7 +4907,7 @@ knowledge is complete.\\
   2b&&sta|sya&tasya = {\dn tasya} = his/its\\
   &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{neuter: from {\dn tat} = tat = that/it, or {\dn tad} = tad}\\
+  &&&\note{neuter: from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \female}\\
@@ -5046,8 +5046,8 @@ complete.\\
 
 \begin{tabular}{llll}
   1a&{\dn taani}&taa|ni&those/they\\
-  &&&\note{\noun, \neuter, \plural}\\
-  &&&\note{from {\dn tat} = tat = that/it, or {\dn tad} = tad}\\
+  &&&\note{\noun, \thirdperson, \neuter, \plural}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&each/all\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -5092,7 +5092,7 @@ complete.\\
   2b&{\dn tasya}&ta|sya&his/its\\
   &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
   &&&\note{male: from {\dn sa.h} = sa.h}\\
-  &&&\note{neuter: from {\dn tat} = tat, or {\dn tad} = tad}\\
+  &&&\note{neuter: from {\dn tat} = tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \female}\\
@@ -5526,9 +5526,8 @@ carries off knowledge, like wind and a boat on water.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tadasya}&ta|da|&tat = {\dn tat} = that/it\\
-  &&&(or {\dn tad} = tad)\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tadasya}&ta|da|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\

@@ -50,8 +50,8 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatkim}&tat|&{\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tatkim}&tat|&{\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&kim|&{\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
@@ -122,8 +122,8 @@ that one resolute thing by which I may get confidence. (?)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tadeka.m}&ta|de|&tad = {\dn tad} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tadeka.m}&ta|de|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ka.m&eka.m = {\dn eka.m} = one\\
   &&&\note{\numberr, \neuter}\\
@@ -730,8 +730,8 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tadartha.m}&ta|dar|&tad = {\dn tad} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tadartha.m}&ta|dar|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&tha.m&artham\\
   &&&= {\dn artham}\\
@@ -1762,8 +1762,8 @@ proof, or that world, follows.\\
   &&&= place; world; mankind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&da|&tad = {\dn tad} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&var|ta|te&anuvartate\\
   &&&= {\dn anuvartate}\\
@@ -2495,8 +2495,8 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &{\dn tvetadabhyasuuyanto}&tve|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \adverb, \indeclinable}\\
   &&&\\
-  &&ta|da|&etad = {\dn etad} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&ta|da|&etat = {\dn etat} = this/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&bhya|suu|yan|to&abhyasuuyanta.h\\
@@ -3084,8 +3084,8 @@ satisfy.\\
   &&te|na&etena\\
   &&&= {\dn etena}\\
   &&&= using/by this/it\\
-  &&&\note{\pronoun, \neuter, \instrumentalcase}\\
-  &&&\note{from {\dn etat} = etat = {\dn etad} = etad}\\
+  &&&\note{\pronoun, \thirdperson, \neuter, \instrumentalcase}\\
+  &&&\note{from {\dn etat} = etat}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

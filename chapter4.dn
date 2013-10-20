@@ -308,8 +308,8 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&= how\\
   &&&\note{\adverb}\\
   &&&\\
-  &&tad&etad = {\dn etad} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&tad&etat = {\dn etat} = this/it\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&vi|jaa|nii|yaa.m&vijaaniiyaam\\
   &&&= {\dn vijaaniiyaam}\\
@@ -1059,8 +1059,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\note{or}\\
-  &&&\note{\pronoun, \neuter, \genitivecase}\\
-  &&&\note{from {\dn tat} = tat = tad = {\dn tad} = that/it}\\
+  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn kartaaramapi}&kar|taa|ra|ma|&kartaaram\\
   &&&= {\dn kartaaram}\\
@@ -1326,8 +1326,8 @@ will be free from non-grace.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatte}&tat|&{\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tatte}&tat|&{\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&te&{\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular,}\\
@@ -2851,8 +2851,8 @@ by service. They will start your knowledge. A wise person knows
 truth.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tadviddhi}&tad|&{\dn tad} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn tadviddhi}&tat|&{\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&vid|dhi&{\dn viddhi}\\
@@ -3218,8 +3218,8 @@ knowledge. A self (with) action done, using time (over time), finds
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatsvaya.m}&tat|&{\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn tatsvaya.m}&tat|&{\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&sva|ya.m&svayam\\
   &&&= {\dn svayam}\\

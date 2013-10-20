@@ -1476,7 +1476,7 @@ austerity is acknowledged as) good.\\
   &&&= fire; heat; austerity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&stat|&tat = {\dn tat} = that/it\\
+  &&stat|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&tri|&trii.ni = {\dn trii.ni} = three\\
@@ -1586,7 +1586,7 @@ passion---trembling (and) non-eternal.\\
   2a&{\dn kriyate}&kri|ya|te&(?)\\
   &&&\note{similar: \verbb, root, {\dn k.r} = k.r = ``to do''}\\
   &&&\\
-  &{\dn tadiha}&ta|di|&tat = {\dn tat} = that/it\\
+  &{\dn tadiha}&ta|di|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1694,7 +1694,7 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
@@ -1774,7 +1774,7 @@ person---that donation (is) remembered (as) good.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn taddaana.m}&tad|&tat = {\dn tat} = that/it\\
+  2b&{\dn taddaana.m}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1856,7 +1856,7 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn taddaana.m}&tad|&tat = {\dn tat} = that/it\\
+  2b&{\dn taddaana.m}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1950,7 +1950,7 @@ person, \dots (?) \dots non-true action, without respect---that
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1978,7 +1978,7 @@ kind(s)---remembered by those people with divine knowledge and
 \begin{tabular}{llll}
   1a&{\dn o.m}&o.m&traditional syllable of meditation\\
   &&&\\
-  &{\dn tatsaditi}&tat|&{\dn tat} = that/it\\
+  &{\dn tatsaditi}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&sa|di|&sat\\
@@ -2148,7 +2148,7 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn tadityanabhisandhaaya}\\
   &&&\\
-  &&ta|di|&tat = {\dn tat} = that/it\\
+  &&ta|di|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&tya|&iti = {\dn iti} = thus; ``end of quote''\\
@@ -2375,7 +2375,7 @@ related, (is) ``sat'' (true), really, \dots (?) \dots.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tadarthiiya.m}&ta|dar|&tat = {\dn tat} = that/it\\
+  &{\dn tadarthiiya.m}&ta|dar|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&thii|ya.m&arthiiyam\\
@@ -2486,8 +2486,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn tatpretya}&tat|&{\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tatpretya}&tat|&{\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&pre|tya&{\dn pretya}\\
   &&&= after death\\

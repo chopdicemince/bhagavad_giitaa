@@ -1732,8 +1732,8 @@ he is still and does not move intrinsically.\\
   &&&= (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&tad|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&tad|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2848,9 +2848,9 @@ iron. I think the confinement of it is as if greatly (more) difficult
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that/him/it\\
-  &&&\note{\pronoun, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \genitivecase}\\
   &&&\note{from: \male, {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{from: \neuter, {\dn tat} = tat = that/it}\\
+  &&&\note{from: \neuter, {\dn tat} = tat = \tat}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\

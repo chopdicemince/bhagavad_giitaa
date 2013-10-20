@@ -22,7 +22,7 @@ is God called?\\
   1a&{\dn kim}&kim&what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn tadbrahma}&tad|&tat = {\dn tat} = that/it\\
+  &{\dn tadbrahma}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&brah|ma&brahmam = {\dn brahmam} = God\\
@@ -507,7 +507,7 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   2b&{\dn sadaa}&sa|daa&always\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tadbhaavabhaavita.h}&tad|&tat = {\dn tat} = that/it\\
+  &{\dn tadbhaavabhaavita.h}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
@@ -1023,7 +1023,7 @@ syllables is eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn tatte}&tat|&{\dn tat} = that/it\\
+  2b&{\dn tatte}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&te&{\dn te} = for you; of you (your)\\
@@ -1914,7 +1914,7 @@ my paraount home.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = that/it\\
+  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&dhaa|ma&dhaamam\\
@@ -2504,7 +2504,7 @@ syllables is eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn tatsarvamida.m}&tat|&{\dn tat} = that/it\\
+  &{\dn tatsarvamida.m}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&sar|va|mi|&sarvam\\

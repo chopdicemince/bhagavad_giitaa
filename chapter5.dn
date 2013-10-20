@@ -74,8 +74,8 @@ one in these two---confidence---that is for me---say, definitely.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tanme}&tan|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn tanme}&tan|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&me&{\dn me}\\
   &&&= for me; of me\\
@@ -374,8 +374,8 @@ one thing---he sees.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tadyogairapi}&ta|dyo|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&{\dn tadyogairapi}&ta|dyo|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&gai|ra|&yogai.h\\
   &&&= {\dn yogai.h}\\
@@ -1299,8 +1299,8 @@ one (God).\\
   &{\dn tu}&tu&but\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tadaj~naana.m}&ta|da|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tadaj~naana.m}&ta|da|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&j\~{}naa|na.m&aj\~{}naanam\\
   &&&= {\dn aj~naanam}\\
@@ -1357,8 +1357,8 @@ one (God).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn prakaa"s} = prakaa"s}\\
   &&&\\
-  &{\dn tatparam}&tat|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tatparam}&tat|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&pa|ram&{\dn param}\\
   &&&= other/best/greatest/last one (God)\\
@@ -1377,8 +1377,8 @@ stains.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn tad buddhayastadaatmaanastanni.s.thaastatparaaya.naa.h}\\
-  &&tad|&tad = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&tad|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&bud|dha|&buddha\\
   &&&= {\dn buddha}\\
@@ -1388,8 +1388,8 @@ stains.\\
   &&ya|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sta|daat|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&sta|daat|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&maa|na|&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
@@ -1399,8 +1399,8 @@ stains.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&stan|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&&stan|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ni.s|.thaa|&ni.s.thaa.h\\
   &&&= {\dn ni.s.thaa.h}\\
@@ -1408,8 +1408,8 @@ stains.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn ni.s.tha.h} = ni.s.tha.h}\\
   &&&\\
-  &&stat|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&stat|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&pa|raa|ya|.naa\h{aa}&people who are devoted; engaged; dependent\\
   &&&\note{\noun, \male, \plural}\\

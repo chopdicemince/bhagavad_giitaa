@@ -556,7 +556,7 @@ action-sticking.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tannibadhnaati}&tan|&tat = {\dn tat} = that/it\\
+  2a&{\dn tannibadhnaati}&tan|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ni|badh|naa|ti&{\dn nibadhnaati}\\
@@ -659,7 +659,7 @@ all beings. It binds, using (occurrences of) carelessness, laziness,
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&stan|&tat = {\dn tat} = that/it\\
+  2b&&stan|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ni|badh|naa|ti&{\dn nibadhnaati}\\
@@ -1044,7 +1044,7 @@ ignorance---these are born in abundan(ce), O Kuru-son (O Arjuna).\\
   &&&\\
   &&taa|ni&etaani = {\dn etaani} = these/they\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
-  &&&\note{from {\dn etat} = etat = that/it}\\
+  &&&\note{from {\dn etat} = etat = this/it}\\
   &&&\\
   &{\dn jaayante}&jaa|yan|te&(they) are born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\

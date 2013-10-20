@@ -411,7 +411,7 @@ purifying of great minds.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tat}&tat&that/it\\
+  &{\dn tat}&tat&\tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
 \end{tabular}
 \newpage
@@ -1644,7 +1644,7 @@ Just as (full?), hear these, also.\\
   &{\dn taanyapi}&taa|nya|&taani = {\dn taani} = those/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn tat} = tat = that/it}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1717,7 +1717,7 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = that/it\\
+  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1802,7 +1802,7 @@ passion.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = that/it\\
+  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -1904,7 +1904,7 @@ ignorance, (it is) said.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
@@ -1992,7 +1992,7 @@ good.\\
   &&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -2073,7 +2073,7 @@ done with) much effort---that (action) is called passion.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tadraajasamudaah.rtam}\\
   &&&\\
-  &&ta|draa|&tat = {\dn tat} = that/it\\
+  &&ta|draa|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -2161,7 +2161,7 @@ action (begins). What---that (action) is called ignorance.\\
   &&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -3155,7 +3155,7 @@ said---self-intelligence-peace-born.\\
   1a&{\dn yattadagre}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&ta|da|&tat = {\dn tat} = that/it\\
+  &&ta|da|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&gre&agre\\
@@ -3194,7 +3194,7 @@ said---self-intelligence-peace-born.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatsukha.m}&tat|&{\dn tat} = that/it\\
+  2a&{\dn tatsukha.m}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&su|kha.m&{\dn dukha.m}\\
@@ -3266,7 +3266,7 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   1b&&dyat|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&ta|da|&tat = {\dn tat} = that/it\\
+  &&ta|da|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&gre|&agre\\
@@ -3302,7 +3302,7 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatsukha.m}&tat|&{\dn tat} = that/it\\
+  2b&{\dn tatsukha.m}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&su|kha.m&sukham\\
@@ -3400,7 +3400,7 @@ ignorance.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = that/it\\
+  &&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
@@ -3429,7 +3429,7 @@ ignorance, passion).\\
   1a&{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tadasti}&ta|da|&tat = {\dn tat} = that/it\\
+  &{\dn tadasti}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&sti&asti = {\dn asti} = (he/she/it) is\\
@@ -3958,7 +3958,7 @@ success.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tacch.r.nu}&tac|&tat = {\dn tat} = that/it\\
+  &{\dn tacch.r.nu}&tac|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -4812,7 +4812,7 @@ enters that non-gap (God).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vi"s} = vi"s}\\
   &&&\\
-  &{\dn tadanantaram}&ta|da|&tat = {\dn tat} = that/it\\
+  &{\dn tadanantaram}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&nan|&an = {\dn an} = not\\
@@ -5238,7 +5238,7 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn tat}&tat&that/it\\
+  &{\dn tat}&tat&\tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
 \end{tabular}
 \newpage
@@ -5368,7 +5368,7 @@ peace---the eternal place.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatprasaadaatparaa.m}&tat|&{\dn tat} = that/it\\
+  2a&{\dn tatprasaadaatparaa.m}&tat|&{\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&pra|saa|daat|&{\dn prasaadaat}\\
@@ -6238,7 +6238,7 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&= {\dn kaccit}\\
   &&&= (?)\\
   &&&\\
-  &&tac|&etat = {\dn etat} = that/it\\
+  &&tac|&etat = {\dn etat} = this/it\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&chru|ta.m&"srutam\\
@@ -6683,7 +6683,7 @@ And (remembering?), (remembering?)---that very wonderful form of Hari
 Dh.rtaraa.s.tra). And (I) am very happy, again (and) again.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tacca}&tac|&tat = {\dn tat} = that/it\\
+  1a&{\dn tacca}&tac|&tat = {\dn tat} = \tat\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&ca&{\dn ca} = and\\

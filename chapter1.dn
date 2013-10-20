@@ -782,8 +782,8 @@ Bhiima-protected.\\
   &&&\note{from: \adjective, \neuter,}\\
   &&&\note{{\dn paryaaptam} = paryaaptam}\\
   &&&\\
-  &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = that/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&smaa|ka.m&asmaakam\\
   &&&= {\dn asmaakam}\\
@@ -3744,8 +3744,8 @@ for me, is more comfortable.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&stan|&tat = {\dn tat} = that\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&&stan|&tat = {\dn tat} = \tat\\
+  &&&\note{\pronoun, \thirdperson, \neuter}\\
   &&&\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
