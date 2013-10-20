@@ -825,7 +825,7 @@ Bhiima-protected.\\
   &&&\\
   &&te|.saa.m&ete.saam = {\dn ete.saam} = of these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1686,7 +1686,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\\
   &&de|taan|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&ni|riik|.se|&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -1805,7 +1805,7 @@ war (with) a preferred wish.\\
   &&&\\
   &{\dn ete.atra}&e|te|&these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&'tra&atra\\
   &&&= {\dn atra}\\
@@ -1996,7 +1996,7 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&&= {\dn etaan}\\
   &&&= these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2769,7 +2769,7 @@ Madhu killing (O K.r.s.na).\\
 \begin{tabular}{llll}
   2a&{\dn etaanna}&e|taan|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&na&not\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2930,7 +2930,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\\
   &&taa|naa|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&ta|taa|yi|na\h{a}&aatataayina.h\\
   &&&= {\dn aatataayina.h}\\
@@ -3410,7 +3410,7 @@ lost-food-water-actions (lost offerings of food and water).\\
   &&&\\
   &&.saa.m&e.saam = {\dn e.saam} = (?) of these; of them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3453,7 +3453,7 @@ person.)\\
   &&&= {\dn etai.h}\\
   &&&= using/by these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn ete} = ete = this/he}\\
+  &&&\note{from {\dn ete} = ete = this/it}\\
   &&&\\
   &{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\

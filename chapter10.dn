@@ -549,7 +549,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
 \begin{tabular}{llll}
   1a&{\dn etaa.m}&e|taa.m&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &{\dn vibhuuti.m}&vi|bhuu|ti.m&vibhuutim\\
   &&&= {\dn vibhuutim}\\
@@ -3414,7 +3414,7 @@ by me (is) a (brief description) of the power vastness (of me).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn e.sa}&e|.sa&e.sa.h = {\dn e.sa.h} = this/he\\
+  2a&{\dn e.sa}&e|.sa&e.sa.h = {\dn e.sa.h} = \eSaH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn tuudde"sata.h}&tuud|&tu = {\dn tu} = but\\
