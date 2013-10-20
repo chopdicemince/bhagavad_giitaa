@@ -1855,8 +1855,8 @@ abandons this group of three.\\
   &&sta|smaa|de|&tasmaat = {\dn tasmaat} = therefore\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&tat|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&tat|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&tra|ya.m&trayam\\
@@ -1885,7 +1885,7 @@ path.\\
   1a&{\dn etairvimukta.h}&e|tair|&etai.h = {\dn etai.h} = using/by these/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{\instrumentalcase}\\
-  &&&\note{from {\dn etat} = etat = this/it}\\
+  &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
   &&vi|muk|ta\h{a}&vimukta.h\\
   &&&= {\dn vimukta.h}\\

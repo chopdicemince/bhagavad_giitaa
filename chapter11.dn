@@ -200,8 +200,8 @@ O ultimate-man (O K.r.s.na).\\
   1a&{\dn evametadyathaattha}&e|va|me|&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ta|dya|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&ta|dya|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&thaat|&yathaa\\
   &&&= {\dn yathaa}\\
@@ -3707,8 +3707,8 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn etacchrutvaa}&e|tac|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  1a&{\dn etacchrutvaa}&e|tac|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&chru|tvaa&"srutvaa\\

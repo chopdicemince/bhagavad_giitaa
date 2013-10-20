@@ -57,8 +57,8 @@ known, O K.r.s.na.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn etadveditumicchaami}\\
   &&&\\
-  &&e|ta|dve|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&e|ta|dve|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&di|tu|mic|&veditum\\
@@ -151,8 +151,8 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etadyo}&e|ta|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  2a&{\dn etadyo}&e|ta|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&dyo&ya.h = {\dn ya.h} = (?) one/who/what\\
@@ -612,8 +612,8 @@ said.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etatk.setra.m}&e|tat|&{\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  2a&{\dn etatk.setra.m}&e|tat|&{\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&k.se|tra.m&k.setram\\
   &&&= {\dn k.setram}\\
@@ -1026,8 +1026,8 @@ here in another way.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etajj~naanamiti}&e|taj|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  2a&{\dn etajj~naanamiti}&e|taj|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&j\~{}naa|na|mi|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1673,8 +1673,8 @@ from-be-behavior.\\
   &&&= devotee\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn etadvij~naaya}&e|ta|dvi|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn etadvij~naaya}&e|ta|dvi|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&j\~{}naa|ya&vij\~{}naaya\\

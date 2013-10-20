@@ -461,7 +461,7 @@ Arjuna)---sure, ultimate opinion.\\
 \begin{tabular}{llll}
   1a&{\dn etaanyapi}&e|taa|nya|&etaani = {\dn etaani} = these/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
-  &&&\note{from {\dn etat} = etat = this/it}\\
+  &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1065,7 +1065,7 @@ all actions.\\
   &&taa|ni&etaani = {\dn etaani} = these/they\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn etat} = etat = this/it}\\
+  &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -5465,8 +5465,8 @@ thus, O Kuru (O Arjuna).\\
   &&&= judiciously; cautiously\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ta|da|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&ta|da|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&"se|.se|.na&a"se.se.na\\
   &&&= {\dn a"se.se.na}\\
@@ -6238,8 +6238,8 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&= {\dn kaccit}\\
   &&&= (?)\\
   &&&\\
-  &&tac|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&tac|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&chru|ta.m&"srutam\\
   &&&= {\dn "srutam}\\
@@ -6530,8 +6530,8 @@ himself.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ne|tad|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  1b&&ne|tad|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&gu|hya|ma|&guhyam\\

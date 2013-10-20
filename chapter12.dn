@@ -933,8 +933,8 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
   &&a|thai|&atha = {\dn atha} = else; then\\
   &&&\note{\adjective, \adverb, \indeclinable}\\
   &&&\\
-  &&ta|da|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&ta|da|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&pya|&api = {\dn api} = also\\

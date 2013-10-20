@@ -1151,8 +1151,8 @@ visible form of you.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&ta|d.r|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&ta|d.r|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ta.m&.rtam\\

@@ -1422,8 +1422,8 @@ thus---this (group of characteristics) is called austerity-mind.\\
   &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&tat|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&tat|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2270,8 +2270,8 @@ Arjuna) \dots\\
   &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&tat|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&tat|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&pra|yu|jya|te&{\dn prayujyate}\\
   &&&= (he/she/it) is suitable\\

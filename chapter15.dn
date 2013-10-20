@@ -787,7 +787,7 @@ God---having taken these (things), (the being) travels with
   &&taa|ni&etaani = {\dn etaani} = these/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn etat} = etat = this/it}\\
+  &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
   &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets; travels with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1867,8 +1867,8 @@ Arjuna). Having known this---intelligence may be, and action-action
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etadbuddhvaa}&e|tad|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  2a&{\dn etadbuddhvaa}&e|tad|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&bud|dhvaa&{\dn buddhvaa}\\

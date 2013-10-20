@@ -2195,8 +2195,8 @@ mind) to be restrained may lead in (into) the self, really.\\
   &&&= to be restrained\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ta|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&ta|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3233,8 +3233,8 @@ me). Surely, a cutter of this doubt is not suitable and different from
 you. (That is: There is no cutter like you).\\
 
 \begin{tabular}{llll}
-  1a&{\dn etanme}&e|tan|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn etanme}&e|tan|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&me&{\dn me}\\
   &&&= for me; of me (my)\\
@@ -3521,8 +3521,8 @@ similar to this (situation).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etaddhi}&e|tad|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn etaddhi}&e|tad|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&dhi&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\

@@ -239,8 +239,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &{\dn hyetaduttamam}&hye|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ta|dut|&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \neuter}\\
+  &&ta|dut|&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&ta|mam&uttamam\\
   &&&= {\dn uttamam}\\
@@ -308,8 +308,8 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&= how\\
   &&&\note{\adverb}\\
   &&&\\
-  &&tad&etat = {\dn etat} = this/it\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&tad&etat = {\dn etat} = \etat\\
+  &&&\noteetat\\
   &&&\\
   &&vi|jaa|nii|yaa.m&vijaaniiyaam\\
   &&&= {\dn vijaaniiyaam}\\
