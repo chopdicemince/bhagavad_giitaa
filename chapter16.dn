@@ -219,8 +219,8 @@ female deity, O son of Bharata (O Arjuna).\\
   &&&= rebellion; treachery\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn naatimaanitaa}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naatimaanitaa}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ti|&ati = {\dn ati} = very\\
   &&&\note{\adverb, \indeclinable}\\
@@ -545,8 +545,8 @@ purity, and no good behavior, (and) no truth is in them.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn jana.h} = jana.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn viduraasuraa.h}&vi|du|raa&vidu.h\\
   &&&= {\dn vidu.h}\\
@@ -562,16 +562,16 @@ purity, and no good behavior, (and) no truth is in them.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "sauca.m}&"sau|ca.m&"saucam\\
   &&&= {\dn "saucam}\\
   &&&= purity; cleanliness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn naapi}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naapi}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -586,8 +586,8 @@ purity, and no good behavior, (and) no truth is in them.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn satya.m}&sa|tya.m&satyam\\
   &&&= {\dn satyam}\\
@@ -2012,8 +2012,8 @@ attains no success, no happiness, (and) no paramount path.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -2032,8 +2032,8 @@ attains no success, no happiness, (and) no paramount path.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn sukha.m}&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
@@ -2041,8 +2041,8 @@ attains no success, no happiness, (and) no paramount path.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn paraa.m}&pa|raa.m&paraam\\
   &&&= {\dn paraam}\\

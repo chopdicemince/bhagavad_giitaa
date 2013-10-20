@@ -258,8 +258,8 @@ abandoned,'' (says) another (great mind).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tyaajyamiti}&tyaa|jya|mi|&tyaajyam\\
   &&&= {\dn tyaajyam}\\
@@ -395,8 +395,8 @@ purifying of great minds.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tyaajya.m}&tyaa|jya.m&tyaajyam\\
   &&&= {\dn tyaajyam}\\
@@ -561,8 +561,8 @@ proclaimed.\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
-  &{\dn nopapadyate}&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn nopapadyate}&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&pa|pa|dya|te&upapadyate\\
   &&&= {\dn upapadyate}\\
@@ -674,8 +674,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naiva}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naiva}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -797,8 +797,8 @@ happiness---(such is) an abandoner. Goodness-having, a wise person
 (is) cut-doubt (has cut away doubt).\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn dve.s.tyaku"sala.m}&dve|.s.tya|&dve.s.ti\\
   &&&= {\dn dve.s.ti}\\
@@ -826,8 +826,8 @@ happiness---(such is) an abandoner. Goodness-having, a wise person
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn ku"salam} = ku"salam}\\
   &&&\\
-  &{\dn naanu.sajjate}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naanu.sajjate}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nu|.saj|ja|te&anu.sajjate\\
   &&&= {\dn anu.sajjate}\\
@@ -875,8 +875,8 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
 \dots (?) \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1033,8 +1033,8 @@ not of abandoners, somewhere.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1365,8 +1365,8 @@ non-action intelligence. That man does not see---very bad mind.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1398,8 +1398,8 @@ not bound.\\
   &&&\note{\pronoun, \male, \genitivecase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
   &&&\\
-  &{\dn naaha"nk.rto}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naaha"nk.rto}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ha"n|k.r|to&aha"nk.rta.h\\
   &&&= {\dn aha"nk.rta.h}\\
@@ -1423,8 +1423,8 @@ not bound.\\
   &&&\note{\pronoun, \male, \genitivecase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn lipyate}&li|pya|te&(he/she/it) sticks; attaches to\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1455,15 +1455,15 @@ not bound.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn nibadhyate}&ni|ba|dhya|te&(he/she/it) is bound\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3024,8 +3024,8 @@ Arjuna), (is) a person of ignorance.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vimu~ncati}&vi|mu\~{}n|ca|ti&(he/she/it) abandons\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3426,8 +3426,8 @@ which may be freed using (from) the three strings (goodness,
 ignorance, passion).\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tadasti}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -4130,8 +4130,8 @@ self-behavior-action.\\
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&naap|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&naap|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&no|ti&aapnoti\\
   &&&= {\dn aapnoti}\\
@@ -4183,8 +4183,8 @@ abandoned), like (just as) fire (is) covered by smoke.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tyajet}&tya|jet&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
@@ -4691,15 +4691,15 @@ at all beings, (he) attains the paramount from-me-faith.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "socati}&"so|ca|ti&(he/she/it) burns; is sorrowful\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn "suc} = "suc}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kaa"nk.sati}&kaa"n|k.sa|ti&(he/she/it) wishes; desires\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -5056,8 +5056,8 @@ traverse---from-me-peace---then, if you, from arrogance, do not hear,
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn "sro.syasi}&"sro|.sya|si&(?) (you) will hear\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
@@ -5095,8 +5095,8 @@ mistakenly. This vocation of you---the primal form will do you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn yotsya}&yot|sya&(?) yotsye\\
   &&&= {\dn yotsye}\\
@@ -5200,8 +5200,8 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn necchasi}&nec|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn necchasi}&nec|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&cha|si&icchasi\\
   &&&= {\dn icchasi}\\
@@ -5780,8 +5780,8 @@ non-(service-people), and not to be said (for) one who envies me.\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn naatapaskaaya}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naatapaskaaya}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -5793,8 +5793,8 @@ non-(service-people), and not to be said (for) one who envies me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn naabhaktaaya}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naabhaktaaya}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -5810,8 +5810,8 @@ non-(service-people), and not to be said (for) one who envies me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caa"su"sruu.save}&caa|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -5831,8 +5831,8 @@ non-(service-people), and not to be said (for) one who envies me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -5958,8 +5958,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
 (in) mankind.\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -6003,8 +6003,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   2a&{\dn bhavitaa}&bha|vi|taa&(?)\\
   &&&\note{similar: \verbb, root, {\dn bhuu} = bhuu = ``to be''}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\

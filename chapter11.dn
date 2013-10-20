@@ -659,8 +659,8 @@ But (you) are not able to see me using this self-eye, really. (I) give
 for you a divine eye. See the yoking power of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1465,8 +1465,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn naanta.m}&naan|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn naanta.m}&naan|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ta.m&antam\\
   &&&= {\dn antam}\\
@@ -1474,8 +1474,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn anta.h} = anta.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn madhya.m}&ma|dhya.m&madhyam\\
   &&&= {\dn madhyam}\\
@@ -1483,8 +1483,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn madhya.h} = madhya.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn punastavaadi.m}&pu|na|sta|&puna.h\\
   &&&= {\dn puna.h}\\
@@ -2498,8 +2498,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn dh.rti.h} = dh.rti.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vindaami}&vin|daa|mi&(I) get\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -2596,15 +2596,15 @@ instead of the usual eight.)\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn di"saa} = di"saa}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn jaane}&jaa|ne&(I) know\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: (?) {\dn j~naa} = j\~{}naa}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn labhe}&la|bhe&(I) learn; get\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -3295,8 +3295,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3405,8 +3405,8 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn bhavi.syanti}&bha|vi|.syan|ti&(they) will be\\
   &&&\note{\verbb, \futuretensecertain}\\
@@ -3941,8 +3941,8 @@ instead of the usual eight.)\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn nameranmahaatman}&na|me|ran|&{\dn nameran}\\
   &&&= (?)\\
@@ -4737,8 +4737,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &\multicolumn{3}{l}{\dn tvatsamo.astyabhyadhika.h}\\
   &&&\\
@@ -5289,8 +5289,8 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn d.r.s.tapuurvam}&d.r|.s.ta|&{\dn d.r.s.ta}\\
   &&&= seen\\
@@ -5316,8 +5316,8 @@ form---I---possible, in the man-world, to (be) seen(n) by a person
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vedayaj~naadhyayanairna}&ve|da|&{\dn veda.h}\\
   &&&= (sacred) knowledge\\
@@ -5334,8 +5334,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn adhyayanam} = adhyayanam}\\
   &&&\\
-  &&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn daanair}&daa|nair&daanai.h\\
   &&&= {\dn daanai.h}\\
@@ -5346,8 +5346,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -5358,8 +5358,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
   &&&\\
-  &&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn tapobhirugrai.h}&ta|po|bhi|ru|&tapobhi.h\\
   &&&= {\dn tapobhi.h}\\
@@ -5902,8 +5902,8 @@ donation, and no by sacrifice, really, (am) I, (my) form, able to (be)
 see(n). You (have) seen me just as (I was).\\
 
 \begin{tabular}{llll}
-  1a&{\dn naaha.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naaha.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -5914,8 +5914,8 @@ see(n). You (have) seen me just as (I was).\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn veda.h} = veda.h}\\
   &&&\\
-  &&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn tapasaa}&ta|pa|saa&(?) using/by penance; asceticism; suffering; heat\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
@@ -5923,15 +5923,15 @@ see(n). You (have) seen me just as (I was).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn daanena}&daa|ne|na&using/by a/the donation; charity; gift; giving\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn daanam} = daanam}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn cejyayaa}&ce|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\

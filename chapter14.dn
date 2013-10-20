@@ -147,8 +147,8 @@ pulverization, and (they) are not afraid.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn nopajaayante}&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn nopajaayante}&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&pa|jaa|yan|te&upajaayante\\
   &&&= {\dn upajaayante}\\
@@ -162,8 +162,8 @@ pulverization, and (they) are not afraid.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn pralaya.h} = pralaya.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vyathanti}&vya|than|ti&(?) vyathante\\
   &&&= {\dn vyathante}\\
@@ -1495,8 +1495,8 @@ When a seer sees not-another person (as) a (string)-actor---and (he)
 knows the paramount (string)---he gets from-me-behavior.\\
 
 \begin{tabular}{llll}
-  1a&{\dn naanya.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naanya.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nya.m&anyam\\
   &&&= {\dn anyam}\\
@@ -1834,8 +1834,8 @@ vanished, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn dve.s.ti}&dve|.s.ti&(he/she/it) detests\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1847,8 +1847,8 @@ vanished, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn niv.rttaani}&ni|v.rt|taa|ni&vanished; gone\\
   &&&\note{\adjective, \neuter, \plural}\\
@@ -1894,8 +1894,8 @@ stands does not go \dots\\
   &&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vicaalyate}&vi|caa|lya|te&vicaalayati\\
   &&&= {\dn vicaalayati}\\
@@ -1933,8 +1933,8 @@ stands does not go \dots\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn avastha} = avasthaa}\\
   &&&\\
-  &{\dn ne"ngate}&ne"n|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn ne"ngate}&ne"n|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ga|te&i"ngate\\
   &&&= {\dn i"ngate}\\

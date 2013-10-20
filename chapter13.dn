@@ -1139,8 +1139,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &\multicolumn{3}{l}{\dn sattannaasaducyate}\\
   &&&\\
@@ -1151,8 +1151,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&tan|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -2129,8 +2129,8 @@ strings---with---in all ways, present, also---he is not born again.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -2541,8 +2541,8 @@ does not hurt the self, using the self. From there, (the person) goes
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hinastyaatmanaatmaana.m}&hi|na|styaat|&hinasti\\
   &&&= {\dn hinasti}\\
@@ -2809,15 +2809,15 @@ Arjuna). (It) does not act. (It) is not attached.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn karoti}&ka|ro|ti&(he/she/it) acts; works; does\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn lipyate}&li|pya|te&(he/she/it) sticks; is attached\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2859,8 +2859,8 @@ body (and) is not above-attached.\\
   &&&= sky; space; heaven\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn nopalipyate}&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn nopalipyate}&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&pa|&upa = {\dn upa} = on; above\\
   &&&\note{\preposition, \adverb, \indeclinable}\\
@@ -2895,8 +2895,8 @@ body (and) is not above-attached.\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn nopalipyate}&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn nopalipyate}&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&pa|&upa = {\dn upa} = on; above\\
   &&&\note{\preposition, \adverb, \indeclinable}\\

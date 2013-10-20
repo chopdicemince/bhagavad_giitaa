@@ -221,8 +221,8 @@ instead of the usual eight. Exception: half-line 1a has twelve main
 syllables.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ruupamasyeha}&ruu|pa|ma|&ruupam\\
   &&&= {\dn ruupam}\\
@@ -251,16 +251,16 @@ syllables.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn naanto}&naan|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naanto}&naan|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&to&anta.h\\
   &&&= {\dn anta.h}\\
   &&&= end\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caadirna}&caa|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -270,8 +270,8 @@ syllables.)\\
   &&&= beginning\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -368,8 +368,8 @@ instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn gata.h} = gata.h}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn nivartanti}&ni|var|tan|ti&(?) nivartante\\
   &&&= {\dn nivartante}\\
@@ -569,8 +569,8 @@ moon. Nor fire. One, having gone (to) that paramount residence of me,
 does not return.\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -588,16 +588,16 @@ does not return.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "sa"saa"nko}&"sa|"saa"n|ko&"sa"saa"nka.h\\
   &&&= {\dn "sa"saa"nka.h}\\
   &&&= moon\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn paavaka.h}&paa|va|ka\h{a}&fire; god of fire; saint\\
   &&&\note{\noun, \male}\\
@@ -613,8 +613,8 @@ does not return.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn nivartante}&ni|var|tan|te&(they) vanish; stop; retreat; return\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -956,8 +956,8 @@ see.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vimuu.dha.h} = vimuu.dha.h}\\
   &&&\\
-  &{\dn naanupa"syanti}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naanupa"syanti}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nu|pa|"syan|ti&anupa"syanti\\
   &&&= {\dn anupa"syanti}\\
@@ -1057,8 +1057,8 @@ not see this (situation).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naina.m}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naina.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&na.m&enam = {\dn enam} = this/that/he/she/it\\
   &&&\note{\pronoun, \thirdperson}\\

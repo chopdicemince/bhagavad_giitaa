@@ -155,8 +155,8 @@ be known.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn j~naa} = j\~{}naa}\\
   &&&\\
-  &{\dn neha}&ne|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn neha}&ne|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ha&iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}\\
@@ -528,8 +528,8 @@ string.\\
   &&ta|ra.m&taram = {\dn taram} = more\\
   &&&\note{\suffix}\\
   &&&\\
-  &{\dn naanyatki~ncidasti}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naanyatki~ncidasti}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nyat|&anyat\\
   &&&= {\dn anyat}\\
@@ -1014,8 +1014,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tvaha.m}&tva|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1096,8 +1096,8 @@ changeable.\\
   &&&= deceived\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn naabhijaanaati}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naabhijaanaati}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&bhi|jaa|naa|ti&abhijaanaati\\
   &&&= {\dn abhijaanaati}\\
@@ -1218,8 +1218,8 @@ A stupid bad person does not attain me. The lowest men, (whose)
 knowledge (is) stolen by magic, (are) occupying demonic behavior.\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
@@ -2115,8 +2115,8 @@ I am not clear of (to) all (people who do) yoking (and are) dumb. I
 not-changeable.\\
 
 \begin{tabular}{llll}
-  1a&{\dn naaha.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naaha.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -2157,8 +2157,8 @@ not-changeable.\\
   &&ya.m&ayam = {\dn ayam} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &{\dn naabhijaanaati}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naabhijaanaati}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&bhi|jaa|naa|ti&abhijaanaati\\
   &&&= {\dn abhijaanaati}\\
@@ -2262,8 +2262,8 @@ anyone (knows) me.\\
   &&&= (sacred) knowledge\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ka"scana}&ka"s|ca|na&anyone\\
   &&&\note{\pronoun, \indeclinable}\\

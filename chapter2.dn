@@ -220,8 +220,8 @@ pulverizer of enemies (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn naitattvayyupapadyate}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naitattvayyupapadyate}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&tat|&etat = {\dn etat} = this\\
   &&&\note{\pronoun, \neuter}\\
@@ -502,8 +502,8 @@ the front line) are the sons of Dh.rtaraa.s.tra.\\
 has twelve, twelve, eleven, and eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caitadvidma.h}&cai|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -568,8 +568,8 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn jijiivi.saamas}&ji|jii|vi|.saa|mas&(?)\\
   &&&\note{similar: \verbb, \futuretensecertain,}\\
@@ -741,8 +741,8 @@ kingdom of the gods, and also power.\\
 has eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -881,8 +881,8 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn yotsya}&yot|sya&(?)\\
   &&&\note{similar: \noun, \male, {\dn yodha.h} = yodha.h = fighter}\\
@@ -1091,8 +1091,8 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naanu"socanti}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naanu"socanti}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nu|"so|can|ti&anu"socanti\\
   &&&= {\dn anu"socanti}\\
@@ -1118,8 +1118,8 @@ these kings (not were). And really, we will not, not [sic] be. We all
 from later (will be).\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1133,8 +1133,8 @@ from later (will be).\\
   &{\dn jaatu}&jaa|tu&possibly\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn naasa.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn naasa.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&sa.m&aasam = {\dn aasam} = (I) was\\
   &&&\note{\verbb, \pasttense, \firstperson, \singular}\\
@@ -1142,14 +1142,14 @@ from later (will be).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\\
-  &{\dn neme}&ne|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn neme}&ne|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&me&ime = {\dn ime} = these\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
@@ -1162,8 +1162,8 @@ from later (will be).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1171,8 +1171,8 @@ from later (will be).\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma\h{a}&(we) will be\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \plural}\\
@@ -1273,8 +1273,8 @@ Just as the soul in this body (goes through) childhood, youth
   &&sta|tra&tatra = {\dn tatra} = there\\
   &&&\note{\adverb, \noun, \indeclinable}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn muhyati}&mu|hya|ti&(he/she/it) is mistaken; muddled\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1396,8 +1396,8 @@ is suitable for ``not-dead'' (immortality).\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vyathayantyete}&vya|tha|yan|tye|&vyathayanti\\
   &&&= {\dn vyathayanti}\\
@@ -1480,8 +1480,8 @@ end (meaning) of (these) two statements is seen---and the truth of
 these two statements---by people who know or see.\\
 
 \begin{tabular}{llll}
-  1a&{\dn naasato}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naasato}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&sa|to&asata.h\\
   &&&= {\dn asata.h}\\
@@ -1500,8 +1500,8 @@ these two statements---by people who know or see.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn naabhaavo}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naabhaavo}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&bhaa|vo&abhaava.h\\
   &&&= {\dn abhaava.h}\\
@@ -1638,8 +1638,8 @@ thing---not any (person) is able to do (it).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ka"scitkartumarhati}&ka"s|cit|&any\\
   &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
@@ -1792,8 +1792,8 @@ does not kill and is not killed.\\
   &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vijaaniito}&vi|jaa|nii|to&vijaaniita.h\\
   &&&= {\dn vijaaniita.h}\\
@@ -1805,8 +1805,8 @@ does not kill and is not killed.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naaya.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -1815,8 +1815,8 @@ does not kill and is not killed.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1838,8 +1838,8 @@ the body.\\
 has eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&(he/she/it) is born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1859,8 +1859,8 @@ has eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn naaya.m}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -1875,8 +1875,8 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
 \end{tabular}
@@ -1909,8 +1909,8 @@ has eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2115,8 +2115,8 @@ other, new bodies.\\
 and water does not wet this. Wind does not dry (this).\\
 
 \begin{tabular}{llll}
-  1a&{\dn naina.m}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naina.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2132,8 +2132,8 @@ and water does not wet this. Wind does not dry (this).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn naina.m}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn naina.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2149,8 +2149,8 @@ and water does not wet this. Wind does not dry (this).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caina.m}&cai|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -2172,8 +2172,8 @@ and water does not wet this. Wind does not dry (this).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "so.sayati}&"so|.sa|ya|ti&(he/she/it) dries\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2341,8 +2341,8 @@ you do not deserve to lament.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naanu"socitumarhasi}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naanu"socitumarhasi}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nu|"so|ci|tu|mar|&anu"socitum\\
   &&&= {\dn anu"socitum}\\
@@ -2429,8 +2429,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naina.m}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naina.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2515,7 +2515,8 @@ to lament.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tva.m"socitumarhasi}&tva.m|&you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -2699,7 +2700,8 @@ really any knowledge.\\
   &&&= knowledge\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\\
@@ -2770,7 +2772,8 @@ deserve to lament each being.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -2816,7 +2819,8 @@ in the warrior caste, and the confidence is yours).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vikampitumarhasi}&vi|kam|pi|tu|mar&vikampitum\\
   &&&= {\dn vikampitum}\\
@@ -2862,7 +2866,8 @@ in the warrior caste, and the confidence is yours).\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn k.satriya.h} = k.satriya.h}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2966,7 +2971,8 @@ self nature and fame, you will get evil.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa"ngraama.h} = sa"ngraama.h}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kari.syasi}&ka|ri|.sya|si&(?) (you) will do\\
   &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
@@ -3361,7 +3367,8 @@ similar. Thus, you will not gain evil.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naiva.m}&nai|&na = {\dn na} = not\\
+  2b&{\dn naiva.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&va.m&eva.m = {\dn eva.m} = thus\\
   &&&\\
@@ -3470,7 +3477,8 @@ In this attempt is no destruction and is no decrease. Also, a small
 amount of this devotion saves (a person) from great fear.\\
 
 \begin{tabular}{llll}
-  1a&{\dn nehaabhikramanaa"so.asti}&ne|&na = {\dn na} = not\\
+  1a&{\dn nehaabhikramanaa"so.asti}&ne|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&haa|&iha = {\dn iha} = in this\\
   &&&\note{\adverb}\\
@@ -3498,7 +3506,8 @@ amount of this devotion saves (a person) from great fear.\\
   &&&= sin; reverse; decrease\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3669,7 +3678,8 @@ group of words, O prince (O Arjuna):\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naanyadastiiti}&naa|&na = {\dn na} = not\\
+  2b&{\dn naanyadastiiti}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&nya|da|&anyat\\
   &&&= {\dn anyat}\\
@@ -3832,7 +3842,8 @@ on reason, is carried off. A pair of reconciliations is not allotted
   &&&\note{\noun, \male, \dual}\\
   &&&\note{from {\dn samadhaa} = samadhaa}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn vidhiiyate}&vi|dhii|ya|te&(he/she/it) is distributed;\\
   &&&allotted for;\\
@@ -4816,7 +4827,8 @@ complete.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn naabhinandati}&naa|&na = {\dn na} = not\\
+  2a&{\dn naabhinandati}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&bhi|nan|da|ti&abhinandati\\
   &&&= {\dn abhinandati}\\
@@ -4825,7 +4837,8 @@ complete.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn abhinand} = abhinand}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn dve.s.ti}&dve.s|.ti&(he/she/it) hates\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -5421,7 +5434,8 @@ not engaged in faith, and is not one not devoted to the ideas of peace
 or non-peace---from where does happiness come?\\
 
 \begin{tabular}{llll}
-  1a&{\dn naasti}&naa|&{\dn na} = na = not\\
+  1a&{\dn naasti}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&sti&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -5443,7 +5457,8 @@ or non-peace---from where does happiness come?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caayuktasya}&caa|&ca = {\dn ca} = and\\
   &&&\\
@@ -5462,7 +5477,8 @@ or non-peace---from where does happiness come?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caabhaavayata.h}&caa|&ca = {\dn ca} = and\\
   &&&\\
@@ -5787,7 +5803,8 @@ gets no peace.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn aap} = aap}\\
   &&&\\
-  &{\dn na}&na&not\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kaamakaamii}&kaa|ma|&{\dn kaama.h}\\
   &&&= kaama.h\\
@@ -5894,7 +5911,8 @@ also, a person gets the complete happiness of God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn nainaa.m}&nai|&na = {\dn na} = not\\
+  1b&{\dn nainaa.m}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&naa.m&he/she/it/this/that\\
   &&&\note{\pronoun}\\

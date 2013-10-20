@@ -213,15 +213,15 @@ Arjuna). Happily---from bondage, he is free.\\
   1b&{\dn yo}&yo&ya.h = (?) one/who/which\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn dve.s.ti}&dve.s|.ti&(he/she/it) hates\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn dvi.s} = dvi.s}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kaa"nk.sati}&kaa"nk|.sa|ti&(he/she/it) wishes; expects; desires\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -302,8 +302,8 @@ fruit.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pravad} = pravad}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn pa.n.ditaa.h}&pa.n|.di|taa\h{aa}&wise men; scholars; teachers; \\
   &&&\note{\noun, \male, \plural}\\
@@ -503,8 +503,8 @@ grief. A union-joined a sage, using no delay, gets God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn cire.naadhigacchati}&ci|re|.naa|&cire.na\\
   &&&= {\dn cire.na}\\
@@ -606,8 +606,8 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&na|pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn lipyate}&li|pya|te&(he/she/it) sticks\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -624,8 +624,8 @@ truth-knowing.  Seeing, hearing, touching, smelling, eating, going,
 sleeping, breathing, \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn naiva}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naiva}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -843,8 +843,8 @@ water (as a lotus leaf is not attached to water).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn lip} = lip}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1102,8 +1102,8 @@ one anus, and one penis opening.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naiva}&nai|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn naiva}&nai|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1114,8 +1114,8 @@ one anus, and one penis opening.)\\
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&na&{\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na&{\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &{\dn kaarayan}&kaa|ra|yan&causing\\
   &&&\note{\verbb, \participle}\\
@@ -1132,16 +1132,16 @@ not produce being a doer, nor actions, nor
 action-fruit-combination. But nature starts (these things).\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kart.rtva.m}&kar|t.r|tva.m&kart.rtvam\\
   &&&= {\dn kart.rtvam}\\
   &&&= being a doer\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1163,8 +1163,8 @@ action-fruit-combination. But nature starts (these things).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn karmaphalasa.myoga.m}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -1207,8 +1207,8 @@ anyone. Beings are confused by that (situation), using
 non-knowledge---covered knowledge.\\
 
 \begin{tabular}{llll}
-  1a&{\dn naadatte}&naa|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn naadatte}&naa|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&dat|te&aadatte\\
   &&&= {\dn aadatte}\\
@@ -1228,8 +1228,8 @@ non-knowledge---covered knowledge.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1626,8 +1626,8 @@ fear attainable non-pleasure. (He has a) stable-mind, (is) not
 foolish, (is) God-knowing, (and is) standing (with) God.\\
 
 \begin{tabular}{llll}
-  1a&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn prah.r.syetpriya.m}&pra|h.r|.syet|&(he/she/it) might rejoice\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
@@ -1642,8 +1642,8 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn nodvijetpraapya}&nod|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn nodvijetpraapya}&nod|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&vi|jet|&udvijet\\
   &&&= {\dn udvijet}\\
@@ -1874,8 +1874,8 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\

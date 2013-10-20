@@ -631,8 +631,8 @@ Arjuna).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn ciraatpaartha}&ci|raat|&{\dn ciraat}\\
   &&&= from a person/thing lasting a long time\\
@@ -732,8 +732,8 @@ intelligence. (You) will live in me, really. From here, (be) upright
   &&&= upright\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn sa.m"saya.h}&sa.m|"sa|ya\h{a}&doubt\\
   &&&\note{\noun, \male}\\
@@ -765,8 +765,8 @@ attain me, O money-victory (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "sakno.si}&"sak|no|.si&(you) can; are able\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -1291,8 +1291,8 @@ of me.\\
   &&&\note{\pronoun, \male, \ablativecase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
   &&&\\
-  &&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&dvi|ja|te&udvijate\\
   &&&= {\dn udvijate}\\
@@ -1311,8 +1311,8 @@ of me.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
-  &{\dn nodvijate}&no|&na = {\dn na} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn nodvijate}&no|&na = {\dn na} = \na\\
+  &&&\notena\\
   &&&\\
   &&dvi|ja|te&udvijate\\
   &&&= {\dn udvijate}\\
@@ -1481,15 +1481,15 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   1a&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn h.r.syati}&h.r|.sya|ti&(he/she/it) is happy; excited\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn h.r.s} = h.r.s}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn dve.s.ti}&dve|.s.ti&(he/she/it) detests; hates\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1497,15 +1497,15 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn "socati}&"so|ca|ti&(he/she/it) is sorrowful; is sorry; burns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn "suc} = "suc}\\
   &&&\\
-  &{\dn na}&na&not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn na}&na&\na\\
+  &&&\notena\\
   &&&\\
   &{\dn kaa"nk.sati}&kaa"n|k.sa|ti&(he/she/it) wishes; desires\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
