@@ -539,7 +539,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   1b&{\dn taannibodha}&taan|&{\dn taan}\\
   &&&= those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ni|bo|dha&nibodhatu\\
   &&&= {\dn nibodhatu}\\
@@ -591,7 +591,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &{\dn taanbraviimite}&taan|&{\dn taan}\\
   &&&= those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&bra|vii|mi|&{\dn braviimi}\\
   &&&= (?) I say\\
@@ -927,7 +927,7 @@ paternal grandfather (Bhii.sma) roars a lion sound loudly and blows
 \begin{tabular}{llll}
   1a&{\dn tasya}&ta|sya&of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn sa~njanayanhar.sa.m}&sa\~{}n|ja|na|yan|&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn sa~njanam} = sa\~{}njanam}\\
@@ -1060,7 +1060,7 @@ struck. That sound was tumultuous.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn "sabdastumulo.abhavat}&"sab|da|stu|&"sabda.h = {\dn "sabda.h} = sound\\
@@ -1446,7 +1446,7 @@ Dh.r.taraa.s.tra, the sky, and the earth, and really was a resounding
 tumult.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn gho.so}&gho|.so&gho.sa.h\\
@@ -2162,13 +2162,13 @@ sad, he said this: \dots\\
   1a&{\dn taansamiik.sya}&taan|&{\dn taan}\\
   &&&= those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sa|miik|.sya&(?) {\dn samiik.sya}\\
   &&&= cautiously\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn kaunteya.h}&kaun|te|ya\h{a}&son of Kuntii\\
@@ -2653,7 +2653,7 @@ paternal grandfathers.\\
 \begin{tabular}{llll}
   1a&{\dn ta}&ta&te = {\dn te} = those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ime.avasthitaa}&i|me|&{\dn ime}\\
   &&&= these\\
@@ -2930,7 +2930,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\\
   &&taa|naa|&etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = that/he}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = this/he}\\
   &&&\\
   &&ta|taa|yi|na\h{a}&aatataayina.h\\
   &&&= {\dn aatataayina.h}\\

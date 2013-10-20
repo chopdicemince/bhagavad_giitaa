@@ -397,7 +397,7 @@ not here.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn prayaa} = prayaa}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn madbhaava.m}&mad|&{\dn mad}\\
@@ -486,11 +486,11 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
 \begin{tabular}{llll}
   2a&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn tamevaiti}&ta|me|&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&vai|&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -904,7 +904,7 @@ syllables is eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
@@ -1203,7 +1203,7 @@ path.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn yaati}&yaa|ti&(he/she/it) goes\\
@@ -1269,7 +1269,7 @@ person.\\
 \begin{tabular}{llll}
   2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that; of him (his)\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1558,7 +1558,7 @@ night.\\
   &&&\\
   2b&{\dn te.ahoraatravido}&te|&{\dn te} = those/they\\
   &&&\note{\pronoun, \thirdperson, \male}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'ho|&aha.h\\
   &&&= {\dn aha.h}\\
@@ -1692,7 +1692,7 @@ Arjuna). (A being) is powerful at the day-approach.\\
   &&&= gamut; village; community\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn evaaya.m}&e|vaa|&eva = {\dn eva} = really; thus\\
@@ -1817,7 +1817,7 @@ not vanish in all beings destroyed.\\
   2a&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&at/in/on each; all\\
@@ -1879,7 +1879,7 @@ my paraount home.\\
   &&&\\
   1b&&sta|maa|&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&hu\h{u}&aahu.h\\
   &&&= {\dn aahu.h}\\
@@ -1945,7 +1945,7 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   1a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; spirit; God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sa}&sa&that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn para.h}&pa|ra\h{a}&paramount; different; strange\\

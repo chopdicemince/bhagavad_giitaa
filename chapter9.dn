@@ -354,7 +354,7 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &&&\\
   &{\dn te.svavasthita.h}&te|.sva|&te.su = {\dn te.su} = at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&va|sthi|ta\h{a}&avasthita.h\\
   &&&= {\dn avasthita.h}\\
@@ -1728,7 +1728,7 @@ a verse, each line has eight main syllables.)\\
 \begin{tabular}{llll}
   2a&{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn pu.nyamaasaadya}&pu|.nya|maa|&pu.nyam\\
   &&&= {\dn pu.nyam}\\
@@ -1801,11 +1801,11 @@ usual eight.)\\
 \begin{tabular}{llll}
   1a&{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn bhuktvaa}&bhukt|vaa&having enjoyed\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -1956,7 +1956,7 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
 \begin{tabular}{llll}
   2a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those/them\\
   &&&\note{\pronoun, \thirdperson, \plural, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn nityaabhiyuktaanaa.m}&ni|tyaa|&nitya\\
   &&&= {\dn nitya}\\
@@ -2047,7 +2047,7 @@ with a non-(good-)behavior.\\
 \begin{tabular}{llll}
   2a&{\dn te.api}&te|&{\dn te} = those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2169,7 +2169,7 @@ fall.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2621,11 +2621,11 @@ also, I (am) in them.\\
   &&&\\
   &{\dn te}&te&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn caapyaham}&caa|&ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -2694,7 +2694,7 @@ correctly---he (is) convinced, surely.\\
   &&va&eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn mantavya.h}&man|ta|vya\h{a}&to be thought about\\
@@ -2715,7 +2715,7 @@ correctly---he (is) convinced, surely.\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa.h}&sa\h{a}&that/he\\
+  &{\dn sa.h}&sa\h{a}&\saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
 \end{tabular}
 \newpage
@@ -2874,7 +2874,7 @@ caste---they, also, go (on) the paramount path.\\
   &&&\\
   1b&&ste|&te = {\dn te} = those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\conjunction, \indeclinable}\\

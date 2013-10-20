@@ -131,7 +131,7 @@ enemies (O Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn kaaleneha}&kaa|le|ne|&kaalena\\
@@ -170,7 +170,7 @@ That, thus, today---this ancient union is said by me for you, ``You
 are my follower and friends.'' Surely, this mystery is the best.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn evaaya.m}&evaa|&eva = {\dn eva} = really; thus\\
@@ -742,7 +742,7 @@ goes toward me, O Arjuna.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn i} = i}\\
   &&&\\
-  &{\dn so.arjuna}&so'r|&sa.h = {\dn sa.h} = that/he\\
+  &{\dn so.arjuna}&so'r|&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&ju|na&arjuna\\
@@ -873,7 +873,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\\
   1b&{\dn taa.mstathaiva}&taa.m|&taan = {\dn taan} = those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sta|thai|&tathaa = {\dn tathaa} = so\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1057,7 +1057,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
 \begin{tabular}{llll}
   2a&{\dn tasya}&ta|sya&of that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\note{or}\\
   &&&\note{\pronoun, \neuter, \genitivecase}\\
   &&&\note{from {\dn tat} = tat = tad = {\dn tad} = that/it}\\
@@ -1179,7 +1179,7 @@ says one who knows me. He does not suffer in action.\\
   &&na&{\dn na} = not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn badhyate}&ba|dhya|te&(?)\\
@@ -1326,7 +1326,7 @@ will be free from non-grace.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatte}&tat|&{\dn tat} = that/he\\
+  2a&{\dn tatte}&tat|&{\dn tat} = that/it\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&te&{\dn te} = for you; of you (your)\\

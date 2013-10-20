@@ -23,7 +23,7 @@ by Madhu-killer (K.r.s.na): \dots\\
   &&&\\
   1a&{\dn ta.m}&ta.m&tam = {\dn tam} = him = Arjuna\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&thus; likewise\\
   &&&\note{\adverb, \indeclinable}\\
@@ -582,7 +582,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 \begin{tabular}{llll}
   2b&{\dn te.avasthitaa.h}&te|&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
@@ -1362,7 +1362,7 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&= {\dn taani}\\
   &&&= those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sti|ti|k.sa|&titik.sa.h\\
   &&&= {\dn titik.sa.h}\\
@@ -1454,7 +1454,7 @@ is suitable for ``not-dead'' (immortality).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = that/he\\
+  2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &&'m.r|ta|tvaa|ya&am.rtatvaaya\\
@@ -1790,7 +1790,7 @@ does not kill and is not killed.\\
   &&&\\
   &{\dn tau}&tau&those two; they two\\
   &&&\note{\pronoun, \thirdperson, \male, \dual}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn na}&na&not\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1981,7 +1981,7 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   2a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = that/he\\
+  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; person; soul\\
@@ -3040,7 +3040,7 @@ death.\\
   &&&\\
   &{\dn te.avyayaam}&te|&those/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{from {\dn sa.h} = sa.h = that/he}\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'vya|yaam&avyayaam\\
   &&&= {\dn avyayaam}\\
@@ -3795,7 +3795,7 @@ on reason, is carried off. A pair of reconciliations is not allotted
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tayaapah.rtacetasaam}&ta|yaa|&using/by that/her/it\\
+  1b&{\dn tayaapah.rtacetasaam}&ta|yaa|&using/by that/her\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
   &&&\note{from {\dn saa} = saa = that/she}\\
   &&&\\
