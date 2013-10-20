@@ -199,7 +199,7 @@ In me, ones (who) (attain) me, (in) mind, (are) eternal(ly)-yoked
   \hline
   &&&\\
   2b&&ste&te = {\dn te} = those/they\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\noun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
@@ -1263,7 +1263,7 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1365,7 +1365,7 @@ of me.\\
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1457,7 +1457,7 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1544,7 +1544,7 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &&&\note{\pronoun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1804,7 +1804,7 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{from {\dn bhakta.h} = bhakta.h}\\
   &&&\\
   &&ste|&te = {\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'tii|va&atiiva = {\dn atiiva} = very\\

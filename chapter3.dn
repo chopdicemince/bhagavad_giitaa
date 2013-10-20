@@ -490,7 +490,7 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ucyate}&u|cya|te&(he/she/it) is said;\\
   &&&is called;\\
@@ -1027,7 +1027,7 @@ objects of enjoyment) is a thief, really.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1342,7 +1342,7 @@ Arjuna).\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn jiivati}&jii|va|ti&(he/she/it) nourishes; lives; revives\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1741,7 +1741,7 @@ proof, or that world, follows.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn yatpramaa.na.m}&yat&yat = {\dn yat} = that/which\\
   &&&\note{\pronoun, \adjective, \indeclinable}\\
@@ -3369,7 +3369,7 @@ greater than senses. But knowledge is greater than the mind. But one
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -1061,7 +1061,7 @@ struck. That sound was tumultuous.\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn "sabdastumulo.abhavat}&"sab|da|stu|&"sabda.h = {\dn "sabda.h} = sound\\
   &&&\note{\noun, \male}\\
@@ -1447,7 +1447,7 @@ tumult.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn gho.so}&gho|.so&gho.sa.h\\
   &&&= {\dn gho.sa.h}\\
@@ -2169,7 +2169,7 @@ sad, he said this: \dots\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn kaunteya.h}&kaun|te|ya\h{a}&son of Kuntii\\
   &&&= Arjuna\\

@@ -349,7 +349,7 @@ me.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -2133,7 +2133,7 @@ strings---with---in all ways, present, also---he is not born again.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn bhuuyo.abhijaayate}&bhuu|yo|&bhuuya.h = {\dn bhuuya.h} = again\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2484,7 +2484,7 @@ sees.\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2648,7 +2648,7 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&&\note{from {\dn kart.r} = kart.r}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

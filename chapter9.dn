@@ -2695,7 +2695,7 @@ correctly---he (is) convinced, surely.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn mantavya.h}&man|ta|vya\h{a}&to be thought about\\
   &&&\note{\adjective, \male}\\
@@ -2716,7 +2716,7 @@ correctly---he (is) convinced, surely.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

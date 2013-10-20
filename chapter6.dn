@@ -57,7 +57,7 @@ not active.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn sannyaasii}&san|nyaa|sii&(?)\\
   &&&\note{similar: \noun, \male, {\dn sa.mnyaasa.h} = sa.mnyaasa.h}\\
@@ -1945,7 +1945,7 @@ everywhere.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ni"scayena}&ni"s|ca|ye|na&using/by resoluteness\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -2534,7 +2534,7 @@ me).\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male, \thirdperson}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -2617,7 +2617,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
@@ -2697,7 +2697,7 @@ paramount.\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn yogii}&yo|gii&(?)\\
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
@@ -3677,7 +3677,7 @@ overcomes the word of (texts about) yoking.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&sa\h{a}&{\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3963,7 +3963,7 @@ me.\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\

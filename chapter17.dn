@@ -57,7 +57,7 @@ Goodness? Passion? Ignorance?\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those/them\\
-  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ni.s.thaa}&ni|.s.thaa&steadfastness\\
@@ -285,7 +285,7 @@ is faithful with, really.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1009,7 +1009,7 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn sattvika.h}&sat|tvi|ka\h{a}&true; good; pure; energetic\\
   &&&\note{\adjective, \male}\\
@@ -2022,8 +2022,8 @@ kind(s)---remembered by those people with divine knowledge and
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn braahma.na.h} = braahma.na.h}\\
   &&&\\
-  &&na&tena = {\dn tena} = using/by those/them\\
-  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&na&tena = {\dn tena} = using/by that/him\\
+  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn vedaa"sca}&ve|daa"s|&vedaa.h\\

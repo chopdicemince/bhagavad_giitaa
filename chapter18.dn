@@ -579,7 +579,7 @@ proclaimed.\\
   &&&\note{from {\dn moha.h} = moha.h}\\
   &&&\\
   &&ta|sya&{\dn tasya} = of that/him\\
-  &&&\note{\pronoun, \male, \genitivecase}\\
+  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn parityaagastaamasa.h}&pa|ri|tyaa|ga|&parityaaga.h\\
@@ -654,7 +654,7 @@ abandoned)---that (man), having done passion abandonment---not really,
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn k.rtvaa}&k.r|tvaa&having acted; worked; done\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -773,7 +773,7 @@ abandonment is true. (This statement is) an opinion (of me).\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn tyaaga.h}&tyaa|ga\h{a}&abandonment\\
   &&&\note{\noun, \male}\\
@@ -943,7 +943,7 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &\multicolumn{3}{l}{\dn tyaagiityabhidhiiyate}\\
   &&&\\
@@ -1283,7 +1283,7 @@ opposite, yes/no---these five of him \dots (?) \dots\\
   &&&\note{\noun}\\
   &&&\\
   &&te&ete = {\dn ete} = these/they\\
-  &&&\note{\pronoun, \male, \plural}\\
+  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn tasya}&ta|sya&of that/him\\
@@ -1369,7 +1369,7 @@ non-action intelligence. That man does not see---very bad mind.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1442,7 +1442,7 @@ not bound.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn imaa/llokaanna}&i|maa/l|&imaan = {\dn imaan} = these\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
@@ -6185,7 +6185,7 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn so.api}&so|&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\

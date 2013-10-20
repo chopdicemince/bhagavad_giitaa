@@ -1460,7 +1460,7 @@ knowledge, and he (is) a friend of me.\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn ca}&ca&and\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -1530,7 +1530,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn hi}&hi&surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1635,7 +1635,7 @@ all---thus. He is a great-self---very rare.\\
   \hline
   &&&\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn mahaatmaa}&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -1850,7 +1850,7 @@ there, he gets those desires done, using me, really, surely.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&&\notesaH\\
   &&&\\
   &{\dn tayaa}&ta|yaa&using/by that/her\\
   &&&\note{\pronoun, \thirdperson, \female, \instrumentalcase}\\
