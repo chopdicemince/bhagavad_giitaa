@@ -408,8 +408,8 @@ purifying of great minds.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn tat}&tat&\tat\\
   &&&\notetat\\
@@ -435,8 +435,8 @@ purifying of great minds.\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -616,8 +616,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn yatkarma}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
@@ -677,8 +677,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   2b&{\dn naiva}&nai|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn tyaagaphala.m}&tyaa|ga|&tyaaga.h\\
   &&&= {\dn tyaaga.h}\\
@@ -715,8 +715,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn yatkarma}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
@@ -767,8 +767,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1205,8 +1205,8 @@ fifth.\\
   &{\dn caivaatra}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&tra&atra = {\dn atra} = here\\
   &&&\note{\adverb, \adjective, \noun, \indeclinable}\\
@@ -1594,8 +1594,8 @@ Just as (full?), hear these, also.\\
   &&&= in three ways\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn gu.nabhedata.h}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
@@ -2463,8 +2463,8 @@ money-victory (O Arjuna).\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2657,8 +2657,8 @@ of passion.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -3015,8 +3015,8 @@ Arjuna), (is) a person of ignorance.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn mada.h} = mada.h}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -3638,8 +3638,8 @@ self-behavior-born.\\
   &&&= sincerity; straightness; honesty\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -4377,8 +4377,8 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn samaasa.h} = samaasa.h}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
   &&&= O Arjuna\\
@@ -5337,8 +5337,8 @@ peace---the eternal place.\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
   &&&= {\dn "sara.nam}\\
@@ -5642,8 +5642,8 @@ promise(d) and a loved (one) of me.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&vai|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vai|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&.sya|si&e.syasi\\
   &&&= {\dn e.syasi}\\
@@ -5928,8 +5928,8 @@ no-doubt.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&vai|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vai|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&.sya|tya|&e.syati\\
   &&&= {\dn e.syati}\\

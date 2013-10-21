@@ -23,8 +23,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
   1a&{\dn bhuuya}&bhuu|ya&bhuuya.h = {\dn bhuuya.h} = becoming; being\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan = {\dn maahaan} = great\\
   &&&\note{\adjective, \male}\\
@@ -351,8 +351,8 @@ non-fear, really, and \dots\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \neuter, {\dn bhayam} = bhayam}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -428,8 +428,8 @@ really---separate kinds.\\
   &&&\\
   2b&{\dn matta}&mat|ta\h{a}&(?) ``me''\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn p.rthagvidhaa.h}&p.r|thag|&p.rthak\\
   &&&= {\dn p.rthak}\\
@@ -872,8 +872,8 @@ knowledge-lamp-brightness.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&nu|kam|paar|&anukampaa\\
   &&&= {\dn anukampaa}\\
@@ -1122,8 +1122,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn bravii.si}&bra|vii|.si&(you) say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -1243,8 +1243,8 @@ deity of deities), O world-lord.\\
   &&&= by the self\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&vaat|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaat|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ma|naat|&aatmanaa\\
   &&&= {\dn aatmanaa}\\
@@ -1770,8 +1770,8 @@ beings, really.\\
   &&&= end\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2724,8 +2724,8 @@ Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   &{\dn caivaahamarjuna}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ha|mar|&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -2817,8 +2817,8 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   2a&{\dn ahamevaak.saya.h}&a|ha|me|&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&(a)&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -3237,8 +3237,8 @@ silence. Of knowledge-full-people, I (am) knowledge.\\
   &{\dn caivaasmi}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&smi&asmi = {\dn asmi} = (I) am\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -3492,8 +3492,8 @@ brightness-part-birth (of that quality from me).\\
   &&&= strength; power\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
 \end{tabular}
@@ -3506,8 +3506,8 @@ brightness-part-birth (of that quality from me).\\
   &&ta|de|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&va|gac|cha&avagaccha\\
   &&&= {\dn avagaccha}\\

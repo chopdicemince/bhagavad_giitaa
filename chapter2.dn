@@ -464,8 +464,8 @@ has eleven main syllables per line.)\\
   &&hai|&iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -561,8 +561,8 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn hatvaa}&hat|vaa&(?) having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -1124,8 +1124,8 @@ from later (will be).\\
   &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ha.m&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
@@ -1168,8 +1168,8 @@ from later (will be).\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2227,8 +2227,8 @@ not moving. This is eternal.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{similar: \noun, \male, {\dn "so.sa.h} = "so.sa.h = drying; breath}\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2587,7 +2587,8 @@ there are what lamentations (why be sad)?\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn nidhanam} = nidhanam}\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2651,7 +2652,8 @@ really any knowledge.\\
   &&&\\
   &{\dn tathaiva}&ta|thai|&tathaa = {\dn tathaa} = thus\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn caanya.h}&caan|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -2709,7 +2711,8 @@ really any knowledge.\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ka"scit}&ka"s|cit&any\\
 \end{tabular}
@@ -4026,7 +4029,8 @@ actions. Do not be a joining in your non-action.\\
   &&&= in action (?)\\
   &&&\note{from: \noun, \neuter, {\dn karmam} = karmam = action}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&dhi|kaa|ras|&adhikaara.h\\
   &&&= {\dn adhikaara.h}\\
@@ -4686,7 +4690,8 @@ wise.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&vaat|&eva = {\dn eva} = really\\
+  &&vaat|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\

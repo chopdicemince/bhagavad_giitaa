@@ -314,8 +314,8 @@ body, O best (O Arjuna).\\
   &&'ha|me|&aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\\
-  &&vaa&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&tra&atra = {\dn atra} = here\\
   &&&\note{\adverb, \noun, \indeclinable}\\
@@ -369,8 +369,8 @@ not here.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -492,8 +492,8 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&vai|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vai|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
@@ -596,8 +596,8 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&vai|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vai|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&.sya|sya|&e.syasi\\
   &&&= {\dn e.syasi}\\
@@ -871,8 +871,8 @@ syllables is eight.)\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1654,8 +1654,8 @@ a non-visible sign.\\
   2b&{\dn tatraivaavyaktasa.mj~nake}&ta|trai|&tatra = {\dn tatra} = there\\
   &&&\note{\adverb, \pronoun, \noun, \indeclinable}\\
   &&&\\
-  &&vaa&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&vyak|ta|&avyakta\\
   &&&= {\dn avyakta}\\
@@ -1695,8 +1695,8 @@ Arjuna). (A being) is powerful at the day-approach.\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn evaaya.m}&e|vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn evaaya.m}&e|vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -2056,8 +2056,8 @@ person go (to)---I will say that time, O Bharata-bull (O Arjuna).\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn yogina.h}&yo|gi|na\h{a}&(?) yoked people\\
   &&&\note{\noun, \male, \plural}\\
@@ -2476,8 +2476,8 @@ syllables is eight.)\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

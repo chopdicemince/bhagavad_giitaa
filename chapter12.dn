@@ -382,8 +382,8 @@ each-being-good.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -560,8 +560,8 @@ paramount (things)---not using another (thing)---really, using yoking
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn yogena}&yo|ge|na&using/by yoking\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -677,8 +677,8 @@ intelligence. (You) will live in me, really. From here, (be) upright
   &&&\note{\pronoun, \firstperson, \locativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn mana}&ma|na&mana.h\\
   &&&= {\dn mana.h}\\
@@ -719,8 +719,8 @@ intelligence. (You) will live in me, really. From here, (be) upright
   &&&\note{\pronoun, \firstperson, \locativecase}\\
   &&&\note{from {\dn aham} = aham = I}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1149,8 +1149,8 @@ forgiv(ing), \dots\\
   &{\dn karu.na}&ka|ru|.na&lamentable; miserable; mournful\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\

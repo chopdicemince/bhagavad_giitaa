@@ -299,8 +299,8 @@ prince (O Arjuna).\\
   &&&= roughness; harshness; insult\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -465,8 +465,8 @@ Arjuna), hear (about) the demon (from) me.\\
   &&&= demon\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn eva}&e|va&really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1683,8 +1683,8 @@ life.\\
   &&&\note{\noun, \female, \plural, \locativecase}\\
   &&&\note{from: {\dn aasurii} = aasurii}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn yoni.su}&yo|ni|.su&at/in/on births; female genitals;\\
   &&&stations in life\\
@@ -1754,8 +1754,8 @@ go (on) the lowest path.\\
   &&&= procurable\\
   &&&\note{\adjective}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
   &&&= O Arjuna\\

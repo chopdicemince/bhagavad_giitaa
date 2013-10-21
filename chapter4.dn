@@ -173,8 +173,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn evaaya.m}&evaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn evaaya.m}&evaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -878,8 +878,8 @@ follow my path, O prince (O Arjuna), all together.\\
   &&sta|thai|&tathaa = {\dn tathaa} = so\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn bhajaamyaham}&bha|jaa|mya|&bhajaami\\
   &&&= {\dn bhajaami}\\
@@ -1249,8 +1249,8 @@ ancestors.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn tasmaattva.m}&tas|maat|&tasmaat\\
   &&&= {\dn tasmaat}\\
@@ -1690,8 +1690,8 @@ not do any (thing).\\
   2b&{\dn naiva}&nai|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn ki~ncitkaroti}&ki\~{}n|cit|&{\dn ki~ncit}\\
   &&&= any\\
@@ -2001,8 +2001,8 @@ him, contemplative God-action is accomplished.\\
   &&&= God\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &{\dn tena}&te|na&using/by that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
@@ -2047,8 +2047,8 @@ sacrifice, using sacrifice.\\
   &&&= fate; god; fortune\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vaa|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -2108,8 +2108,8 @@ sacrifice, using sacrifice.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&vo|&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&vo|&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   &&&\\
   &&pa|juh|va|ti&upajuhvati\\
   &&&= (?)\\
@@ -3071,8 +3071,8 @@ sin.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn plava.h} = plava.h}\\
   &&&\\
-  &&va&eva = {\dn eva} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va&eva = {\dn eva} = \eva\\
+  &&&\noteeva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
