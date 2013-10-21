@@ -305,7 +305,7 @@ Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tatra}&ta|tra&there\\
   &&&\note{\adverb, \noun, \indeclinable}\\
@@ -506,7 +506,7 @@ Arjuna)---sure, ultimate opinion.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
   &&&= O Arjuna\\
@@ -1091,7 +1091,7 @@ all actions.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3090,7 +3090,7 @@ wherever, and attains a distress-end.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bharatar.sabha}&bha|ra|tar|&bharata\\
   &&&= {\dn bharata}\\
@@ -4366,7 +4366,7 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4724,7 +4724,7 @@ at all beings, (he) attains the paramount from-me-faith.\\
   &&&\\
   2b&{\dn madbhakti.m}&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ti.m&bhaktim\\
   &&&= {\dn bhaktim}\\
@@ -4757,7 +4757,7 @@ enters that non-gap (God).\\
   &&&\\
   &{\dn maamabhijaanaati}&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhi|jaa|naa|ti&abhijaanaati\\
   &&&= {\dn abhijaanaati}\\
@@ -4793,7 +4793,7 @@ enters that non-gap (God).\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tattvato}&tat|tva|to&tattvata.h\\
   &&&= {\dn tattvata.h}\\
@@ -4859,7 +4859,7 @@ person) attains the eternal, non-changeable place.\\
   &&&\\
   &{\dn madvyapaa"sraya.h}&ma|dvya|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&paa|"srya|ya\h{a}&{\dn vyapaa"sraya.h}\\
   &&&= shelter\\
@@ -4872,7 +4872,7 @@ person) attains the eternal, non-changeable place.\\
   &&&\\
   &&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|saa|daa|da|&prasaadaat\\
   &&&= {\dn prasaadaat}\\
@@ -4932,7 +4932,7 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\\
   1b&{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sannyasya}&san|nya|sya&(?)\\
   &&&\note{similar: \noun, \male, \genitivecase}\\
@@ -4942,7 +4942,7 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\\
   &{\dn matpara.h}&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra\h{a}&{\dn para.h}\\
   &&&= paramount; another; other; different; strange\\
@@ -4974,7 +4974,7 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\\
   2b&{\dn maccitta.h}&mac|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|ta\h{a}&{\dn citta.h}\\
   &&&= mind\\
@@ -5002,7 +5002,7 @@ traverse---from-me-peace---then, if you, from arrogance, do not hear,
 \begin{tabular}{llll}
   1a&{\dn maccitta.h}&mac|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|ta\h{a}&{\dn citta.h}\\
   &&&= mind\\
@@ -5024,7 +5024,7 @@ traverse---from-me-peace---then, if you, from arrogance, do not hear,
   &&&\\
   &&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|saa|daat|&{\dn prasaadaat}\\
   &&&= from peace\\
@@ -5421,7 +5421,7 @@ thus, O Kuru (O Arjuna).\\
   &{\dn te}&te&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn j~naanamaakhyaata.m}&j\~{}naa|na|maa|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -5453,7 +5453,7 @@ thus, O Kuru (O Arjuna).\\
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5532,7 +5532,7 @@ you.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
@@ -5557,7 +5557,7 @@ you.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn d.r.dhamiti}&d.r|.dha|mi|&d.r.dham\\
   &&&= {\dn d.r.dham}\\
@@ -5598,7 +5598,7 @@ promise(d) and a loved (one) of me.\\
 \begin{tabular}{llll}
   1a&{\dn manmanaa}&man|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ma|naa&{\dn manaa} = devotion\\
   &&&\note{\noun, \female}\\
@@ -5609,7 +5609,7 @@ promise(d) and a loved (one) of me.\\
   &&&\\
   &{\dn madbhakto}&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|to&bhakti.h = {\dn bhakti.h} = faith; devotion\\
   &&&\note{\noun, \female}\\
@@ -5618,7 +5618,7 @@ promise(d) and a loved (one) of me.\\
   &&&\\
   1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&jii&yaajii\\
   &&&= {\dn yaajii}\\
@@ -5627,7 +5627,7 @@ promise(d) and a loved (one) of me.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn namaskuru}&na|ma|sku|ru&(?) namaskarotu\\
   &&&= {\dn namaskarotu}\\
@@ -5640,7 +5640,7 @@ promise(d) and a loved (one) of me.\\
 \begin{tabular}{llll}
   2a&{\dn maamevai.syasi}&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -5681,7 +5681,7 @@ promise(d) and a loved (one) of me.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5712,7 +5712,7 @@ Abandoning all good works, go (to) one shelter: me. I will free you
   &&&\\
   1b&{\dn maameka.m}&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ka.m&ekam = {\dn ekam} = one\\
   &&&\note{\noun, \neuter}\\
@@ -5731,8 +5731,8 @@ Abandoning all good works, go (to) one shelter: me. I will free you
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  2a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
@@ -5839,7 +5839,7 @@ non-(service-people), and not to be said (for) one who envies me.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yo.abhyasuuyati}&yo|&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -5883,7 +5883,7 @@ no-doubt.\\
   &&&\\
   &&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|te|.sva|&bhakte.su\\
   &&&= {\dn bhakte.su}\\
@@ -5908,7 +5908,7 @@ no-doubt.\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paraa.m}&pa|raa.m&paraam\\
   &&&= {\dn paraam}\\
@@ -5926,7 +5926,7 @@ no-doubt.\\
   &&&\\
   &&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -5983,7 +5983,7 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn priyak.rttama.h}&pri|ya|&{\dn priya}\\
   &&&= loved; favorite; dear\\
@@ -6012,7 +6012,7 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tasmaadanya.h}&ta|smaa|&tasmaat\\
   &&&= {\dn tasmaat}\\
@@ -6086,7 +6086,7 @@ me.\\
   &&&= of/at/in/on us two\\
   &&&\note{\pronoun, \firstperson, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -6105,8 +6105,8 @@ me.\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&ha|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -6125,7 +6125,7 @@ me.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mati.h}&ma|ti\h{i}&mind; opinion\\
   &&&\note{\noun, \female}\\
@@ -6367,7 +6367,7 @@ speech of you.\\
   &&&\\
   &&ma|yaa|&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -6434,8 +6434,8 @@ wonder---hole-happines (goose pimples).\\
   1a&{\dn ityaha.m}&i|tya|&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vaasudevasya}&vaa|su|de|va|sya&of Vaasudeva\\
   &&&= of K.r.s.na\\
@@ -6540,8 +6540,8 @@ himself.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn param}&pa|ram&paramount; another; other; different; strange\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -6729,7 +6729,7 @@ Dh.rtaraa.s.tra). And (I) am very happy, again (and) again.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &\multicolumn{3}{l}{\dn mahaanraajanh.r.syaami}\\
   &&&\\
@@ -6847,7 +6847,7 @@ me.\\
   &&&\\
   &&ma|ma&{\dn mama} = of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

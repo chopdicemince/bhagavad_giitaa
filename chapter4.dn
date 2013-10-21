@@ -45,8 +45,8 @@ Ik.svaaku.\\
   &&&\note{\male}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|ma|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&vya|yam&avyayam\\
   &&&= {\dn avyayam}\\
@@ -181,7 +181,7 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn te.adya}&te|&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -216,7 +216,7 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sakhaa}&sa|khaa&sakhaa.h\\
   &&&= {\dn sakhaa.h}\\
@@ -359,7 +359,7 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vyatiitaani}&vya|ti|taa|ni&passed; gone; abandoned\\
   &&&\note{\adjective, \neuter, \plural}\\
@@ -390,8 +390,8 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\note{\pronoun, \neuter, \plural,}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn veda}&ve|da&veda.h\\
   &&&= {\dn veda.h}\\
@@ -580,8 +580,8 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn s.rj} = s.rj}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -676,7 +676,7 @@ goes toward me, O Arjuna.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn divyameva.m}&di|vya|&divyam\\
   &&&= {\dn divyam}\\
@@ -734,7 +734,7 @@ goes toward me, O Arjuna.\\
   &&&\\
   &{\dn maameti}&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ti&eti\\
   &&&= {\dn eti}\\
@@ -789,11 +789,11 @@ happened.\\
   &&&\\
   &&ma|yaa&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn maamupaa"sritaa.h}&maa|mu|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&\multicolumn{2}{l}{paa|"sri|taa\h{aa}}\\
   &&&\\
@@ -863,7 +863,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&= {\dn maam}\\
   &&&= me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn prapadyante}&pa|pa|dyan|te&(they) do; seek refuge with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -887,15 +887,15 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vartmaanuvartante}&vart|maa|&vartman\\
   &&&= {\dn vartman}\\
@@ -1027,7 +1027,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn s.r.s.ta.m}&s.r.s|.ta.m&.s.r.s.tam\\
   &&&= {\dn .s.r.s.tam}\\
@@ -1074,7 +1074,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1113,7 +1113,7 @@ says one who knows me. He does not suffer in action.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1130,7 +1130,7 @@ says one who knows me. He does not suffer in action.\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn karmaphale}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -1154,7 +1154,7 @@ says one who knows me. He does not suffer in action.\\
   &&&= {\dn maam}\\
   &&&= me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yo.abhijaanaati}&yo|&(?) ya.h = {\dn ya.h} = one\\
   &&&\note{\pronoun, \male}\\
@@ -3001,7 +3001,7 @@ self---therefore, in me.\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

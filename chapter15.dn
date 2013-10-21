@@ -640,7 +640,7 @@ does not return.\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -654,7 +654,7 @@ masters the mind-six-senses, (while being) primal-form-standing.\\
 \begin{tabular}{llll}
   1a&{\dn mamaivaa.m"so}&ma|mai|&mama = {\dn mama} = of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vaa.m|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1207,8 +1207,8 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn dh.r} = dh.r}\\
   &&&\\
-  &&ha|mo|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mo|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&ja|saa&ojasaa\\
   &&&= {\dn ojasaa}\\
@@ -1271,8 +1271,8 @@ I---having been the fire of breathing things, body-occupying, yoked
 (of) food.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vai"svaanaro}&vai|"svaa|na|ro&vai"svaanara.h\\
   &&&= {\dn vai"svaanara.h}\\
@@ -1365,8 +1365,8 @@ instead of the usual eight.)\\
   &{\dn caaha.m}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn h.rdi}&h.r|di&(?) at/in/on a/the heart\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1382,7 +1382,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1b&{\dn matta.h}&ma|ta\h{a}&(?) mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sm.rtirj~naanamapohana.m}&sm.r|tir|&sm.rti.h\\
   &&&= {\dn sm.rti.h}\\
@@ -1421,8 +1421,8 @@ instead of the usual eight.)\\
   &&&\note{\instrumentalcase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &&ha|me|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|me|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1459,8 +1459,8 @@ instead of the usual eight.)\\
   &{\dn caaham}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1669,8 +1669,8 @@ knowledge---known (as) the ultimate man.\\
   &&&= having gone through\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ha|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1746,7 +1746,7 @@ Arjuna).\\
   &&&\\
   &{\dn maamevamasammuu.dho}&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&va|ma|&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1797,7 +1797,7 @@ Arjuna).\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1853,7 +1853,7 @@ Arjuna). Having known this---intelligence may be, and action-action
   &&&\\
   &{\dn mayaanagha}&ma|yaa|&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&na|&an = {\dn an} = not\\
   &&&\note{\prefix}\\

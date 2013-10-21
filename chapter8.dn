@@ -311,8 +311,8 @@ body, O best (O Arjuna).\\
   &&&= sacrifice; god of a sacrifice\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ha|me|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha|me|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&vaa&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -367,7 +367,7 @@ not here.\\
   &&&\\
   &{\dn maameva}&maa|me&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -547,7 +547,7 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\\
   1b&{\dn maamanusmara}&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&nu|sma|ra&anusmara\\
   &&&= {\dn anusmara}\\
@@ -573,7 +573,7 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\\
   &&may|yar|&mayi = {\dn mayi} = at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pi|ta|&arpita\\
   &&&= {\dn arpita}\\
@@ -594,7 +594,7 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\\
   2b&&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1172,7 +1172,7 @@ path.\\
   &&&\\
   &&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&nu|sma|ran&anusmaran\\
   &&&= {\dn anusmaran}\\
@@ -1255,7 +1255,7 @@ person.\\
   &&&\\
   &{\dn maam}&maam&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn smarati}&sma|ra|ti&(he/she/it) remembers\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1271,8 +1271,8 @@ person.\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn sulabha.h}&su|la|bha\h{a}&easy to get\\
   &&&\note{\adjective, \male}\\
@@ -1312,7 +1312,7 @@ great-self, (and are) gone (to) a paramount success.\\
 \begin{tabular}{llll}
   1a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pe|tya&upetya = {\dn upetya} = approaching\\
   &&&\note{\adjective}\\
@@ -1448,7 +1448,7 @@ not again-born.\\
 \begin{tabular}{llll}
   2a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pe|tya&upetya\\
   &&&= {\dn upetya}\\
@@ -1929,7 +1929,7 @@ my paraount home.\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

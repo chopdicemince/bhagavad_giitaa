@@ -521,7 +521,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &&&= {\dn asmaakam}\\
   &&&= our\\
   &&&\note{\pronoun, \firstperson, \plural, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tu}&tu&but\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -569,7 +569,7 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &&&\\
   &{\dn mama}&ma|ma&my\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sainyasya}&sai|nya|sya&of a/the solider\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -718,7 +718,7 @@ sake), (with) abandoned-lives, (with) many weapons, all war-wise.\\
   &&&= for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&the&arthe\\
   &&&= {\dn arthe}\\
@@ -790,7 +790,7 @@ Bhiima-protected.\\
   &&&= our\\
   &&&\note{\pronoun, \firstperson, \plural,}\\
   &&&\note{\genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1665,7 +1665,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &{\dn me.acyuta}&me|&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \singular,}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&'cyu|ta&acyuta = {\dn acyuta}\\
   &&&= O (not + disappeared)\\
@@ -1693,8 +1693,8 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\note{{\dn niriik.sate} = niriik.sate = (he/she/it) sees}\\
   &&&\note{root: {\dn niriik.s} = niriik.s}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1737,7 +1737,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\\
   &&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn saha}&sa|ha&with\\
   &&&\note{\preposition, \indeclinable}\\
@@ -1795,8 +1795,8 @@ war (with) a preferred wish.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn avek.s} = avek.s}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2290,7 +2290,7 @@ arms and legs sink, and my mouth dries up.\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn gaatraa.ni}&gaa|traa|.ni&bodies; arms and legs\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2336,7 +2336,7 @@ pimples) is being born. The (my) bow slips from the (my) hand. And the
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2430,7 +2430,7 @@ I see inverse reasons, O K.r.s.na.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
@@ -2568,7 +2568,7 @@ happiness?\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn raajyena}&raa|jye|na&using/by a/the kingdom; state; government\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
@@ -2620,7 +2620,7 @@ happiness?\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2867,7 +2867,7 @@ what pleasure (is there) for us, perhaps, O K.r.s.na?\\
   &&na\h{a}&{\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2918,7 +2918,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&= {\dn asmaan}\\
   &&&= us\\
   &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2957,7 +2957,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\\
   &{\dn vaya.m}&va|ya.m&vayam = {\dn vayam} = we\\
   &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hantu.m}&han|tu.m&hantum\\
   &&&= {\dn hantum}\\
@@ -3126,7 +3126,7 @@ K.r.s.na.\\
   &&&= using/by us\\
   &&&\note{\pronoun, \firstperson, \plural,}\\
   &&&\note{\instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3630,7 +3630,7 @@ a kingdom-happiness-strong-desire, (we are) ready to kill a family.\\
   &&&\\
   &{\dn vayam}&va|yam&we\\
   &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3691,7 +3691,7 @@ for me, is more comfortable.\\
   &&&\\
   &&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|tii|kaa|ra|&apratiikaaram\\
   &&&= {\dn apratiikaaram}\\
@@ -3750,7 +3750,7 @@ for me, is more comfortable.\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn k.sematara.m}&k.se|ma|&comfortable; secure\\
   &&&\note{\adjective}\\

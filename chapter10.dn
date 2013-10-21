@@ -42,7 +42,7 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
   &&&= paramount; another; other; different; strange\\
@@ -63,8 +63,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn priiyamaa.naaya}&\multicolumn{2}{l}{prii|ya|maa|.naa|ya}\\
   &&&\\
@@ -103,7 +103,7 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vidu.h}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
@@ -141,8 +141,8 @@ the beginning, surely, of deities and great-sages, altogether.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ahamaadirhi}&a|ha|maa|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  2a&{\dn ahamaadirhi}&a|ha|maa|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&dir|&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -193,7 +193,7 @@ using (of) all sins.\\
   &&&\\
   &{\dn maamajamanaadi.m}&maa|ma|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ja|ma|&ajam = {\dn ajam} = not + born\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -570,7 +570,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
   &&&\\
   1b&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -625,8 +625,8 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
 (me), wise men associated with behavior cherish me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn sarvasya}&sar|va|sya&of each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
@@ -668,7 +668,7 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -744,7 +744,7 @@ mutually informing and telling (one another about) me, eternally---and
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&nityam\\
   &&&= {\dn nityam}\\
@@ -843,7 +843,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\\
   &{\dn maamupayaanti}&maa|mu|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|yaan|ti&upayaanti\\
   &&&= {\dn upayaanti}\\
@@ -888,8 +888,8 @@ knowledge-lamp-brightness.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|ha|ma|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  1b&&ma|ha|ma|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&j\~{}naa|na|&aj\~{}naanam\\
   &&&= {\dn aj~naanam}\\
@@ -1132,7 +1132,7 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1172,7 +1172,7 @@ visible form of you.\\
   &&&\\
   &&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vadasi}&va|da|si&(you) say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -1437,8 +1437,8 @@ thought, O God, by me?\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn vidyaa} = vidyaa}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn yogi.mstvaa.m}&yo|gi.m|&yogin\\
   &&&= {\dn yogin}\\
@@ -1498,7 +1498,7 @@ thought, O God, by me?\\
   &&&\\
   &&ma|yaa&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1590,7 +1590,7 @@ Using detail of (your) self, O being-disturbance (O K.r.s.na), say
   &{\dn me.am.rtam}&me|&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&'m.r|tam&am.rtam\\
   &&&= {\dn am.rtam}\\
@@ -1688,7 +1688,7 @@ of me is no end.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1701,8 +1701,8 @@ heart of each being). And I (am) the beginning and middle and end of
 beings, really.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ahamaatmaa}&a|ha|maat|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  1a&{\dn ahamaatmaa}&a|ha|maat|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
@@ -1737,8 +1737,8 @@ beings, really.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ahamaadi"sca}&a|ha|maa|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  2a&{\dn ahamaadi"sca}&a|ha|maa|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&di"s|&aadi.h\\
   &&&= {\dn aadhi.h}\\
@@ -1794,8 +1794,8 @@ storms. Of stars, I (am) the moon.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn aaditya.h} = aaditya.h}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vi.s.nurjyoti.saa.m}&vi|.s.nur|&vi.s.nu.h\\
   &&&= {\dn vi.s.nu.h}\\
@@ -1847,8 +1847,8 @@ storms. Of stars, I (am) the moon.\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn nak.satram} = nak.satram}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn "sa"sii}&"sa|"sii&(?) "sa"sikalaa\\
   &&&= {\dn "sa"sikalaa}\\
@@ -2021,8 +2021,8 @@ peaks (of mountains), I (am) Meru.\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn "sikharam} = "sikharam}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2052,7 +2052,7 @@ of war). Of (bodies of) water, (I) am the sea.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2080,8 +2080,8 @@ of war). Of (bodies of) water, (I) am the sea.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn senaanii} = senaanii}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn skanda.h}&skan|da\h{a}&Skanda\\
   &&&= god of war, and son of "Siva\\
@@ -2130,8 +2130,8 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&&= Bh.rgu\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2299,7 +2299,7 @@ men, (I am) the man-king.\\
   &&&\\
   &{\dn maam}&maam&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn am.rtodbhavam}&a|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -2375,8 +2375,8 @@ the sky, and the king of gods). Of cows, (I) am the desire-yielding
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn aayudham} = aayudham}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vajra.m}&va|jra.m&vajram\\
   &&&= {\dn vajram}\\
@@ -2483,8 +2483,8 @@ I (am) Yama (the god of death).\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn yaadas} = yaadas}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2517,8 +2517,8 @@ I (am) Yama (the god of death).\\
   &&&= (?) of things restraining; conrolling\\
   &&&\note{similar: \adjective, {\dn sa.myama} = sa.myama}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2560,8 +2560,8 @@ by Vi.s.nu).\\
   &&&= {\dn kalayataam}\\
   &&&= (?)\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2585,8 +2585,8 @@ by Vi.s.nu).\\
   &&&= god of the sky\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2645,8 +2645,8 @@ Ga"nga (Ganges) River.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn bh.rta.h} = bh.rta.h}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2727,8 +2727,8 @@ Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ha|mar|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mar|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -2765,8 +2765,8 @@ Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   &&&\note{{\dn pravadate} = pravadate = (he/she/it) says}\\
   &&&\note{root: {\dn pravad} = pravad}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2814,8 +2814,8 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ahamevaak.saya.h}&a|ha|me|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  2a&{\dn ahamevaak.saya.h}&a|ha|me|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2836,8 +2836,8 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   2b&{\dn dhaataaha.m}&dhaa|taa|&{\dn dhaataa}\\
   &&&= (?)\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vi"svatomukha.h}&vi|"sva|to|&vi"svata.h\\
   &&&= {\dn vi"svata.h}\\
@@ -2876,8 +2876,8 @@ steadfastness, (and) patience.\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ha|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2978,8 +2978,8 @@ flower-abundance.\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn chandas} = chandas}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2996,8 +2996,8 @@ flower-abundance.\\
   &&&believed to be auspicious\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ha|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3064,8 +3064,8 @@ strength-full-things, I (am) strength.\\
   &&&\note{\adjective, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn tejasvin} = tejasvin}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3106,8 +3106,8 @@ strength-full-things, I (am) strength.\\
   &&taa|ma|&aam = {\dn aam} = of things \dots\\
   &&&\note{\suffix, \plural, \genitivecase}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3164,8 +3164,8 @@ sages, (I am) the sage U"sanaa.\\
   &&pya|&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vyaasa.h}&vyaa|sa\h{a}&Vyaasa\\
   &&&\note{\noun, \male}\\
@@ -3268,8 +3268,8 @@ silence. Of knowledge-full-people, I (am) knowledge.\\
   &&taa|ma|&aam = {\dn aam} = of \dots\\
   &&&\note{\suffix, \plural, \genitivecase}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3310,8 +3310,8 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &{\dn tadahamarjuna}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&ha|mar|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mar|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -3345,7 +3345,7 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&&\\
   2b&&ma|yaa&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhuuta.m}&bhuu|ta.m&bhuutam\\
   &&&= {\dn bhuutam}\\
@@ -3390,7 +3390,7 @@ by me (is) a (brief description) of the power vastness (of me).\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn divyaanaa.m}&di|vyaa|naa.m&divyaanaam\\
   &&&= {\dn divyaanaam}\\
@@ -3448,7 +3448,7 @@ by me (is) a (brief description) of the power vastness (of me).\\
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3524,7 +3524,7 @@ brightness-part-birth (of that quality from me).\\
   &&&\\
   2b&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tejo.a.m"sasambhavam}&te|jo'.m|&teja.h\\
   &&&= {\dn teja.h}\\
@@ -3595,8 +3595,8 @@ world.\\
   &&&= {\dn vi.s.tabhya}\\
   &&&= (?) ``stopped''\\
   &&&\\
-  &&ha|mi|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mi|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&da.m&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\

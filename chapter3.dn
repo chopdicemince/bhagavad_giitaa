@@ -67,7 +67,7 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &&&\\
   &{\dn maa.m}&maa.m&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -148,8 +148,8 @@ that one resolute thing by which I may get confidence. (?)\\
   &&&= credit; confidence; trust\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ha|maap|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha|maap|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&nu|yaam|&aapnuyaam\\
   &&&= {\dn aapnuyaam}\\
@@ -218,7 +218,7 @@ Saa"nkhya philosophy, and using action-work of devotees.\\
   &&&\\
   &{\dn mayaanagha}&ma|yaa|&{\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&na|gha&anagha\\
   &&&= {\dn anagha}\\
@@ -1791,7 +1791,7 @@ to action.\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
-  &&&\note{from: {\dn aham} = aham = I}\\
+  &&&\note{from: {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paarthaasti}&par|thaas|&paartha\\
   &&&= {\dn paartha}\\
@@ -1869,8 +1869,8 @@ Arjuna).\\
   &{\dn hyaha.m}&hya|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -1901,7 +1901,7 @@ Arjuna).\\
 \begin{tabular}{llll}
   2a&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vartmaanuvartante}&vart|maa|&vartman\\
   &&&= {\dn vartman}\\
@@ -1972,8 +1972,8 @@ worlds).\\
   &{\dn cedaham}&ce|da|&cet = {\dn cet} = if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2151,8 +2151,8 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   2b&{\dn kartaahamiti}&kar|taa|&{\dn kartaa} = doer\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ha|mi|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mi|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&ti&iti = {\dn iti} = ``end of quote''\\
   &&&\\
@@ -2342,7 +2342,7 @@ possessions---fight. The affliction is gone.\\
 \begin{tabular}{llll}
   1a&{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&all\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter, \plural}\\
@@ -2420,7 +2420,7 @@ free, also, from action.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase,}\\
   &&&\note{\genitivecase}\\
-  &&&\note{from {\dn aham} = aham}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn matamida.m}&ma|ta|mi|&matam\\
   &&&= {\dn matam}\\

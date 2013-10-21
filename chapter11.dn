@@ -94,7 +94,7 @@ eight.)\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -139,7 +139,7 @@ the greatness (of you) (is) non-changeable.\\
   &&&\\
   &{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -307,7 +307,7 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &&&\\
   1b&{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dra.s.tumiti}&dra|.s.tu|mi|&dra.s.tum\\
   &&&= {\dn dra.s.tum}\\
@@ -342,7 +342,7 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -400,7 +400,7 @@ thousands---various divine forms and various color forms.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
   &&&= O Arjuna\\
@@ -612,7 +612,7 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
 \begin{tabular}{llll}
   2a&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dehe}&de|he&at/in/on a/the body\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -667,7 +667,7 @@ for you a divine eye. See the yoking power of me.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "sakyase}&"sa|kya|se&(you) are able; can\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -729,7 +729,7 @@ for you a divine eye. See the yoking power of me.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yogamai"svaram}&yo|ga|mai|&yogam\\
   &&&= {\dn yogam}\\
@@ -1761,7 +1761,7 @@ instead of the usual eight.)\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2387,8 +2387,8 @@ of the usual eight.)\\
   &&thaa|&tathaa = {\dn tathaa} = thus; likewise\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2747,7 +2747,7 @@ instead of the usual eight.)\\
   &&&= {\dn asmaabhi.h}\\
   &&&= using/by people/things of us\\
   &&&\note{\pronoun, \firstperson, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3210,7 +3210,7 @@ instead of the usual eight.)\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn ko}&ko&ka.h = {\dn ka.h} = who/what\\
   &&&\note{\pronoun, \male}\\
@@ -3513,7 +3513,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn mayaivaite}&ma|yai|&mayaa = {\dn mayaa} = using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -3635,7 +3635,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hataa.mstva.m}&ha|taa.m|&hataan\\
   &&&= {\dn hataan}\\
@@ -4513,7 +4513,7 @@ instead of the usual eight.)\\
   &&&\\
   2b&{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn pramaadaatpra.nayena}&pra|maa|daat|&{\dn pramaadaat}\\
   &&&= from carelessness; error\\
@@ -4654,8 +4654,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|ma|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -4846,8 +4846,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&ha|mii|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|mii|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&"sa|mii|&ii"sam\\
   &&&= {\dn ii"sam}\\
@@ -4978,7 +4978,7 @@ instead of the usual eight.)\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4992,7 +4992,7 @@ instead of the usual eight.)\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dar"saya}&dar|"sa|ya&dar"sayatu\\
   &&&= {\dn dar"sayatu}\\
@@ -5094,8 +5094,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn tathaiva}&ta|thai|&tathaa = {\dn tathaa} = thus; likewise\\
   &&&\note{\adverb, \indeclinable}\\
@@ -5188,7 +5188,7 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   1a&{\dn mayaa}&ma|yaa&using/by me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn prasannena}&pra|san|ne|na&using/by pleasure; happiness\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -5274,7 +5274,7 @@ main syllables, instead of the usual eight.)\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tvadanyena}&tva|da|&tvat = {\dn tvat} = from you\\
   &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
@@ -5387,8 +5387,8 @@ instead of the usual eight.)\\
   &{\dn "sakya}&"sa|kya&able; possible\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn aha.m}&a|ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn n.rloke}&n.r|&{\dn n.r}\\
   &&&= man\\
@@ -5491,7 +5491,7 @@ instead of the usual eight.)\\
   &&&\\
   &&ma|me|&mama = {\dn mama} = of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&dam&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \thirdperson, \neuter}\\
@@ -5533,7 +5533,7 @@ instead of the usual eight.)\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn ruupamida.m}&ruu|pa|mi|&ruupam\\
   &&&= {\dn ruupam}\\
@@ -5849,7 +5849,7 @@ sight-desirous.\\
   &&&\\
   &&ma|ma&{\dn mama} = of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5905,8 +5905,8 @@ see(n). You (have) seen me just as (I was).\\
   1a&{\dn naaha.m}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn vedairna}&ve|dair|&vedai.h\\
   &&&= {\dn vedai.h}\\
@@ -5976,7 +5976,7 @@ see(n). You (have) seen me just as (I was).\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham  = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yathaa}&ya|thaa&just as\\
   &&&\note{\adverb, \indeclinable}\\
@@ -6014,8 +6014,8 @@ form), O destroying of enemies (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ahameva.mvidho.arjuna}&a|ha|me|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  1b&{\dn ahameva.mvidho.arjuna}&a|ha|me|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &&va.m|&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -6083,7 +6083,7 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\\
   &&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&kar|ma&karmam = {\dn karmam} = action; work; doing\\
   &&&\note{\noun, \neuter}\\
@@ -6093,7 +6093,7 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\\
   &&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra|mo&parama.h\\
   &&&= {\dn parama.h}\\
@@ -6104,7 +6104,7 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\\
   1b&{\dn madbhakta.h}&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta\h{a}&{\dn bhakta.h}\\
   &&&= devotee\\
@@ -6144,7 +6144,7 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\\
   &{\dn maameti}&maa|me|&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ti&eti\\
   &&&= {\dn eti}\\

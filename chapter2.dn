@@ -304,8 +304,8 @@ K.r.s.na)?\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhii.sma.h} = bhii.s.ma.h}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn sa"nkhye}&sa"n|khye&at/in/on a/the war; battle; battlefield\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -523,7 +523,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&no&na.h = {\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural,}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn gariiyo}&ga|rii|yo&gariiya.h\\
   &&&= {\dn gariiya.h}\\
@@ -548,7 +548,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn jayeyu.h}&ja|ye|yu\h{u}&(they) may win; conquer\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \plural}\\
@@ -695,7 +695,7 @@ has eleven main syllables per line.)\\
   &&me&{\dn me} = for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -710,14 +710,14 @@ has eleven main syllables per line.)\\
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam = you}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&'ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn "saadhi}&"saa|dhi&(?)\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
@@ -753,7 +753,7 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn mamaapanudyaad}&ma|maa|&mama = {\dn mama} = my\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|nu|dyaad&apanudyaat\\
   &&&= {\dn apanudyaat}\\
@@ -1127,8 +1127,8 @@ from later (will be).\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn jaatu}&jaa|tu&possibly\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1186,7 +1186,7 @@ from later (will be).\\
   &&&\\
   &{\dn vayamata.h}&va|ya|ma|&vayam = {\dn vayam} = we\\
   &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ta\h{a}&ata.h\\
   &&&= {\dn ata.h}\\

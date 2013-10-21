@@ -219,7 +219,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\\
   &&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn viddhi}&vid|dhi&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -290,7 +290,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\\
   &{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -382,7 +382,7 @@ me.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
   &&&= {\dn "s.r.notu}\\
@@ -902,7 +902,7 @@ alone, place-residing, no sex, man-meeting, \dots\\
 \begin{tabular}{llll}
   1a&{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn caananyayogena}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1125,7 +1125,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &{\dn matpara.m}&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra.m&param\\
   &&&= {\dn param}\\
@@ -1232,7 +1232,7 @@ me, in the world, each (thing) (is) covered. (God) stays.\\
   &&&\\
   &&mal|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&lo|ke&{\dn loke}\\
   &&&= at/in/on at/the world; human race; place\\
@@ -1666,7 +1666,7 @@ from-be-behavior.\\
 \begin{tabular}{llll}
   2a&{\dn madbhakta}&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta&bhakta.h\\
   &&&= {\dn bhakta.h}\\
@@ -1689,7 +1689,7 @@ from-be-behavior.\\
   &&&\\
   &&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|vaa|yo|&bhaavaaya\\
   &&&= {\dn bhaavaaya}\\

@@ -1182,7 +1182,7 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\\
   &{\dn maccitto}&mac|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|to&citta.h\\
   &&&= {\dn citta.h}\\
@@ -1201,7 +1201,7 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\\
   &{\dn matpara.h}&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra\h{a}&{\dn para.h}\\
   &&&= other; different; best; better\\
@@ -1275,7 +1275,7 @@ union.\\
   &&&\\
   2b&{\dn matsa.msthaamadhigacchati}&mat|&{\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sa.m|sthaa|ma|&{\dn sa.msthaa}\\
   &&&= union; organization; end\\
@@ -2486,7 +2486,7 @@ me).\\
   &&&\\
   &{\dn maa.m}&maa.m&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2508,7 +2508,7 @@ me).\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2521,8 +2521,8 @@ me).\\
   &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2541,7 +2541,7 @@ me).\\
   &&&\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2580,7 +2580,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\\
   &{\dn maa.m}&maa.m&me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2625,7 +2625,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\\
   &{\dn mayi}&ma|yi&at/in/on me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vartate}&var|ta|te&(he/she/it) is; lives; behaves\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2773,8 +2773,8 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&&\note{from: \male, {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\note{from: \neuter, {\dn etat} = etat = this/it}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2852,8 +2852,8 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &&&\note{from: \male, {\dn sa.h} = sa.h = \saH}\\
   &&&\note{from: \neuter, {\dn tat} = tat = \tat}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn nigraha.m}&ni|gra|ha.m&nigraham\\
   &&&= {\dn nigraham}\\
@@ -3003,7 +3003,7 @@ advantage.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson,}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mati.h}&ma|ti\h{i}&opinion\\
   &&&\note{\noun, \female}\\
@@ -3240,7 +3240,7 @@ you. (That is: There is no cutter like you).\\
   &&&= for me; of me (my)\\
   &&&\note{\pronoun, \firstperson,}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sa.m"saya.m}&sa.m|"sa|ya.m&sa.m"sayam\\
   &&&= {\dn sa.m"sayam}\\
@@ -3958,7 +3958,7 @@ me.\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3968,7 +3968,7 @@ me.\\
   &{\dn me}&me&for me; of me (my)\\
   &&&\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yuktatamo}&yuk|ta|&yoked\\
   &&&\note{\adjective}\\

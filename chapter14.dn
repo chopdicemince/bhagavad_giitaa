@@ -123,7 +123,7 @@ pulverization, and (they) are not afraid.\\
   &&&\\
   1b&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn saadharmyamaagataa.h}&saa|dhar|mya|maa|&saadharmyam\\
   &&&= {\dn saadharmyam}\\
@@ -186,7 +186,7 @@ of all beings is from there, O descendant of Bharata (O Arjuna).\\
 \begin{tabular}{llll}
   1a&{\dn mama}&ma|ma&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yonirmahadbrahma}&yo|nir|&yoni.h\\
   &&&= {\dn yoni.h}\\
@@ -222,8 +222,8 @@ of all beings is from there, O descendant of Bharata (O Arjuna).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn dhaa} = dhaa}\\
   &&&\\
-  &&ham&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ham&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -317,8 +317,8 @@ those---God-great-origin---I (am) the seed-giving father.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ra|ha.m&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  2b&&ra|ha.m&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   &&&\\
   &{\dn biijaprada.h}&bii|ja|&biijam\\
   &&&= {\dn biijam}\\
@@ -1556,7 +1556,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\\
   2b&{\dn madbhaava.m}&mad|&mat = {\dn mat} = from me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|va.m&bhaavam\\
   &&&= {\dn bhaavam}\\
@@ -2144,7 +2144,7 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
 \begin{tabular}{llll}
   1a&{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = I}\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2238,8 +2238,8 @@ eternal and devotion (and) happiness and complete God.\\
   &&&= steadfastness; resting; ceremony\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&ha|&aham = {\dn aham} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ha|&aham = {\dn aham} = \aham\\
+  &&&\noteaham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
