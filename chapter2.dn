@@ -716,8 +716,8 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn "saadhi}&"saa|dhi&(?)\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\

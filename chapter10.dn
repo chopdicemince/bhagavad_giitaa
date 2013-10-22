@@ -192,8 +192,8 @@ using (of) all sins.\\
   1a&{\dn yo}&yo&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn maamajamanaadi.m}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamajamanaadi.m}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ja|ma|&ajam = {\dn ajam} = not + born\\
@@ -667,8 +667,8 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -743,8 +743,8 @@ mutually informing and telling (one another about) me, eternally---and
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&nityam\\
@@ -842,8 +842,8 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\note{\pronoun, \male, \instrumentalcase}\\
   &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
   &&&\\
-  &{\dn maamupayaanti}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamupayaanti}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|yaan|ti&upayaanti\\
@@ -1171,8 +1171,8 @@ visible form of you.\\
   1b&{\dn yanmaa.m}&yan|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vadasi}&va|da|si&(you) say\\
@@ -2052,8 +2052,8 @@ of war). Of (bodies of) water, (I) am the sea.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn mukhya.h} = mukhya.h}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2299,8 +2299,8 @@ men, (I am) the man-king.\\
   &&&= piercing; knowing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn maam}&maam&me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maam}&maam&\maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn am.rtodbhavam}&a|&a = {\dn a} = not\\

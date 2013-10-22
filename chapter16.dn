@@ -1572,8 +1572,8 @@ in bodies.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn maamaatmaparadehe.su}\\
   &&&\\
-  &&maa|maat|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa|maat|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ma|&aatma\\
@@ -1744,8 +1744,8 @@ go (on) the lowest path.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamapraapyaiva}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2a&{\dn maamapraapyaiva}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&|&a = {\dn a} = not\\

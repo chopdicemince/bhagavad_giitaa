@@ -366,8 +366,8 @@ not here.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maameva}&maa|me&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maameva}&maa|me&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
@@ -546,8 +546,8 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn maamanusmara}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  1b&{\dn maamanusmara}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&nu|sma|ra&anusmara\\
@@ -593,8 +593,8 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2b&&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
@@ -1171,8 +1171,8 @@ path.\\
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn vyaah.r} = vyaah.r}\\
   &&&\\
-  &&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&nu|sma|ran&anusmaran\\
@@ -1254,8 +1254,8 @@ person.\\
   1b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn maam}&maam&me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maam}&maam&\maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn smarati}&sma|ra|ti&(he/she/it) remembers\\
@@ -1311,8 +1311,8 @@ are) not (in a) non-eternal distress-place. They (are) of a
 great-self, (and are) gone (to) a paramount success.\\
 
 \begin{tabular}{llll}
-  1a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  1a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pe|tya&upetya = {\dn upetya} = approaching\\
@@ -1447,8 +1447,8 @@ not again-born.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2a&{\dn maamupetya}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pe|tya&upetya\\

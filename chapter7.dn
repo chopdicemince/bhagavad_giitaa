@@ -71,8 +71,8 @@ me completely. Hear that.\\
   &&&\note{\adverb}\\
   &&&\note{from {\dn samagra.h} = samagra.h}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -248,8 +248,8 @@ of people who try, of people successful, any knows me truthfully.\\
   &&&= any\\
   &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
   &&&\\
-  &&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
@@ -786,8 +786,8 @@ sharpness of sharp people.\\
   &&&= seed\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&{\dn sarva}\\
@@ -1108,8 +1108,8 @@ changeable.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn maamebhya.h}&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2b&{\dn maamebhya.h}&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhya\h{a}&ebhya.h\\
@@ -1174,8 +1174,8 @@ attain) this magic.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maameva}&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \singular}\\
+  2a&{\dn maameva}&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
@@ -1222,8 +1222,8 @@ knowledge (is) stolen by magic, (are) occupying demonic behavior.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn du.sk.rtino}&du.s|k.r|ti|no&du.sk.rtina.h\\
@@ -1316,8 +1316,8 @@ the person of knowledge---O Bharata-bull (O Arjuna).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1548,8 +1548,8 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn maamevaanuttamaa.m}&maa|me&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2b&{\dn maamevaanuttamaa.m}&maa|me&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
@@ -1604,8 +1604,8 @@ all---thus. He is a great-self---very rare.\\
   &&vaan|&{\dn vaan}\\
   &&&= (?)\\
   &&&\\
-  &&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn prapadyate}&pra|pa|dya|te&(he/she/it) attains; does\\
@@ -2010,8 +2010,8 @@ deities. (My) devotees go (to) me, also.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn maamapi}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamapi}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pi&api = {\dn api} = also\\
@@ -2054,8 +2054,8 @@ not-changeable, and ultimate.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
-  &{\dn maamabuddhaya.h}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamabuddhaya.h}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bud|dha|ya\h{a}&abuddhaya.h\\
@@ -2174,8 +2174,8 @@ not-changeable.\\
   &&&= world; human race; place\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn maamajamavyayam}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamajamavyayam}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ja|ma|&ajam\\
@@ -2251,8 +2251,8 @@ anyone (knows) me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2b&{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
@@ -2419,8 +2419,8 @@ cherish me (with) a firm vow.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn d.r.dhavrataa.h}&d.r|.dha|&{\dn d.r.dha}\\
@@ -2458,8 +2458,8 @@ and all action.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn maamaa"sritya}&maa|maa|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  1b&{\dn maamaa"sritya}&maa|maa|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&"sri|tya&aa"sritya\\
@@ -2543,8 +2543,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn adhidaiva.h} = adhidaiva.h}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2587,8 +2587,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline

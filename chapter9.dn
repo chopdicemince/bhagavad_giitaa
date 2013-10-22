@@ -249,8 +249,8 @@ death-life-road.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, {\dn praapya} = praapya}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn nivartante}&ni|var|tan|te&(they) abandon; return\\
@@ -725,8 +725,8 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn taani}&taa|ni&those/they\\
@@ -882,8 +882,8 @@ Fools despise me, occupying a woman form. (Fools are) not knowing
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn avaj~naa} = avaj\~{}naa}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn muu.dhaa}&muu|.dhaa&muu.dhaa.h\\
@@ -1064,8 +1064,8 @@ mind, (at) the start, and not-changeable.\\
   &&stu&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
@@ -1165,8 +1165,8 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
   &&&\note{{\dn kiirtayanti} = kiirtayanti = (they) praise}\\
   &&&\note{root: {\dn kiirt} = kiirt}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1206,8 +1206,8 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&using/by faith; devotion\\
@@ -1272,8 +1272,8 @@ homage (to) me, using oneness, discretely, everywhere-face.\\
   &&&= worshipper\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn maamupaasate}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamupaasate}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&paa|sa|te&upaasate\\
@@ -1668,8 +1668,8 @@ a verse, each line has eight main syllables.)\\
   &&&= knowledge; magic\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn somapaa.h}&so|ma|&{\dn soma.h}\\
@@ -1932,8 +1932,8 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&\note{{\dn cintayanti} = cintayanti = (they) think}\\
   &&&\note{root: {\dn cint} = cint}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2053,8 +2053,8 @@ with a non-(good-)behavior.\\
   &&'pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn maameva}&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maameva}&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
@@ -2138,8 +2138,8 @@ fall.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maamabhijaananti}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamabhijaananti}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhi|jaa|nan|ti&abhijaananti\\
@@ -2265,8 +2265,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&pi|&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&maam&{\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maam&{\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -2527,8 +2527,8 @@ yoked-self, (you) will approach me.\\
   &&&= freed\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn maamupai.syasi}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamupai.syasi}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pai|.sya|si&upai.syasi\\
@@ -2606,8 +2606,8 @@ also, I (am) in them.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&using/by faith; trust\\
@@ -2669,8 +2669,8 @@ correctly---he (is) convinced, surely.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn maamananyabhaak}&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamananyabhaak}&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&na|nya|&ananya\\
@@ -2807,8 +2807,8 @@ sin \dots, females of the third caste---likewise, people of the fourth
 caste---they, also, go (on) the paramount path.\\
 
 \begin{tabular}{llll}
-  1a&{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  1a&{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hi}&hi&surely\\
@@ -2980,8 +2980,8 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&\note{similar: \noun, \neuter, {\dn bhajanam} = bhajanam}\\
   &&&\note{= sharing; adoration; worship}\\
   &&&\\
-  &{\dn maam}&maam&me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maam}&maam&\maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -3017,8 +3017,8 @@ really, (you are) devoted to me.\\
   &&jii&yaajii = {\dn yaajii} = (?) worshipper\\
   &&&\note{\noun, \male(?)}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn namaskuru}&na|ma|sku&namas\\
@@ -3037,8 +3037,8 @@ really, (you are) devoted to me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamevai.syasi}&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  2a&{\dn maamevai.syasi}&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\

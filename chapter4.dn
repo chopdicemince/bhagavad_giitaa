@@ -734,8 +734,8 @@ goes toward me, O Arjuna.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn i} = i}\\
   &&&\\
-  &{\dn maameti}&maa|me|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maameti}&maa|me|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ti&eti\\
@@ -793,8 +793,8 @@ happened.\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn maamupaa"sritaa.h}&maa|mu|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maamupaa"sritaa.h}&maa|mu|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&\multicolumn{2}{l}{paa|"sri|taa\h{aa}}\\
@@ -861,10 +861,8 @@ follow my path, O prince (O Arjuna), all together.\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
   &&&\noteyathaa\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam\\
-  &&&= {\dn maam}\\
-  &&&= me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn prapadyante}&pa|pa|dyan|te&(they) do; seek refuge with\\
@@ -1074,8 +1072,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1113,8 +1111,8 @@ says one who knows me. He does not suffer in action.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
@@ -1152,10 +1150,8 @@ says one who knows me. He does not suffer in action.\\
 \begin{tabular}{llll}
   2a&{\dn iti}&i|ti&``end of quote''\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam\\
-  &&&= {\dn maam}\\
-  &&&= me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yo.abhijaanaati}&yo|&(?) ya.h = {\dn ya.h} = one\\

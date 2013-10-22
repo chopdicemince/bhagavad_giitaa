@@ -2487,8 +2487,8 @@ me).\\
   &&&= (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn maa.m}&maa.m&me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
@@ -2581,8 +2581,8 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn maa.m}&maa.m&me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3961,8 +3961,8 @@ me.\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline

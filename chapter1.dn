@@ -3689,8 +3689,8 @@ for me, is more comfortable.\\
   &&&\\
   &\multicolumn{3}{l}{{\dn maamapratiikaarama"sastra.m}}\\
   &&&\\
-  &&maa|ma|&maam = {\dn maam} = me\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&maa|ma|&maam = {\dn maam} = \maam\\
+  &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|tii|kaa|ra|&apratiikaaram\\
