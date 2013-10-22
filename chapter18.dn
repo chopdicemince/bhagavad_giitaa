@@ -470,8 +470,8 @@ Arjuna)---sure, ultimate opinion.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -908,8 +908,8 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
   &&&\\
   &{\dn karmaa.nya"se.sata.h}&kar|maa|.nya|&karmaa.ni\\
   &&&= {\dn karmaa.ni}\\
-  &&&= actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
@@ -3562,8 +3562,8 @@ self-behavior-births-strings.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn karmaa.ni}&kar|maa|.ni&actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  2a&{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
   &{\dn pravibhaktaani}&pra|vi|bhak|taa|ni&divided\\
@@ -4840,8 +4840,8 @@ person) attains the eternal, non-changeable place.\\
   &&&\\
   &&kar|maa|.nya|&karmaa.ni\\
   &&&= {\dn karmaa.ni}\\
-  &&&= actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
@@ -4925,8 +4925,8 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\note{\adjective}\\
   &&&\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
-  &&&= actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline

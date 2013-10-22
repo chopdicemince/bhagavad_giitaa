@@ -2085,8 +2085,9 @@ performance, may join all actions.\\
   &&sar|va|&{\dn sarva} = all\\
   &&&\note{\adjective}\\
   &&&\\
-  &&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&kar|maa|.ni&{\dn karmaa.ni}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2130,8 +2131,8 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
   &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all together\\
@@ -2358,8 +2359,8 @@ possessions---fight. The affliction is gone.\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter, \plural}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline

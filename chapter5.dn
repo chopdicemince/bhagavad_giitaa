@@ -813,8 +813,8 @@ water (as a lotus leaf is not attached to water).\\
   &&&= (?) delivered; placed; given\\
   &&&\note{part of speech (?)}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
@@ -1053,8 +1053,8 @@ one anus, and one penis opening.)\\
   &&&\note{\adjective}\\
   &&&\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
-  &&&= actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
   &{\dn manasaa}&ma|na|saa&mind; spirit; intelligence\\
@@ -1144,8 +1144,8 @@ action-fruit-combination. But nature starts (these things).\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline

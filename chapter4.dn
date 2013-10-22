@@ -1117,8 +1117,8 @@ says one who knows me. He does not suffer in action.\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
   &{\dn limpanti}&lim|pan|ti&(they) burn; smear; defile\\
@@ -2244,8 +2244,8 @@ union in the fire, in the knowledge on fire.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
-  &&&= actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
@@ -2257,8 +2257,8 @@ union in the fire, in the knowledge on fire.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
-  &&&= actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
@@ -3165,8 +3165,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
   &&&\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
-  &&&= actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3490,8 +3490,8 @@ Arjuna).\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline

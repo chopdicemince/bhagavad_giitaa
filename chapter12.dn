@@ -525,8 +525,8 @@ paramount (things)---not using another (thing)---really, using yoking
   &&&\note{\pronoun, \adjective, \adverb, \neuter, \plural}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doing\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -892,8 +892,8 @@ doing actions.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn karmaa.ni}&kar|maa|.ni&actions; works; doing\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
+  &&&\notekarmANi\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn karmam} = karmam}\\
   % ----------------------------------------------------------------------------
