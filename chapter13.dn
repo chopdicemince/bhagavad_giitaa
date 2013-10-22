@@ -2247,8 +2247,8 @@ hearing.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &{\dn tvevamajaananta.h}&tve|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tvevamajaananta.h}&tve|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&va|ma|&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\

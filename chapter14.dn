@@ -600,8 +600,8 @@ all beings. It binds, using (occurrences of) carelessness, laziness,
   1a&{\dn tamastvaj~naanaja.m}&ta|ma|&tama.h = {\dn tama.h} = darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&stva|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stva|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -724,8 +724,8 @@ in madness.\\
   &&&= (?) covered\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn tama.h}&ta|ma\h{a}&darkness; ignorance; hell\\
   &&&\note{\noun, \neuter}\\
@@ -1088,8 +1088,8 @@ non-dirtiness worlds.\\
   &&&\note{\adjective, \neuter, \locativecase}\\
   &&&\note{from {\dn prav.rddham} = prav.rddham}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1286,8 +1286,8 @@ ignorance.\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn rajas} = rajas}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn phala.m}&pha|la.m&phalam\\
   &&&= {\dn phalam}\\

@@ -453,8 +453,8 @@ has eleven main syllables per line.)\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn kaamaa} = kaamaa}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn guruunihaiva}&gu|ruu|ni|&guruun\\
   &&&= {\dn guruun}\\
@@ -1122,8 +1122,8 @@ from later (will be).\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1300,8 +1300,8 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn spar"sa.h} = spar"sa.h}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kunti = O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -1546,8 +1546,8 @@ these two statements---by people who know or see.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&stva|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  2b&&stva|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&na|yo|stat|&anayo.h\\
   &&&= {\dn anayo.h}\\
@@ -1584,8 +1584,8 @@ thing---not any (person) is able to do (it).\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, {\dn vinaa"sin} = vinaa"sin}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn tadviddhi}&ta|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -3438,7 +3438,8 @@ Arjuna), by which you will throw away your action bond.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &{\dn tvimaa.m}&tvi|&tu = {\dn tu} = but\\
+  &{\dn tvimaa.m}&tvi|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&maa.m&imaa.m = {\dn imaa.m} = this\\
   &&&\\
@@ -5310,7 +5311,8 @@ tranquility.\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn vimukta.h} = vimukta.h}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

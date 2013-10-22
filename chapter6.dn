@@ -509,8 +509,8 @@ an enemy.\\
   &&&\note{from: extra letter: {\dn n} = n = n}\\
   &&&\note{from: \noun, \male, {\dn aatman} = aatman}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn "satrutve}&"sa|tru|tve&(?)\\
   &&&\note{similar: \noun, \female, {\dn "satrutaa} = "satrutaa}\\
@@ -1311,8 +1311,8 @@ Arjuna.\\
   &&&\note{\adjective, \male(?), \genitivecase}\\
   &&&\note{from {\dn a"snat} = a"snat}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn yogo.asti}&yo|go|&yoga.h = {\dn yoga.h} = yoking; union; action; work\\
   &&&\note{\noun, \male}\\
@@ -2945,8 +2945,8 @@ aversion, (it can be) domesticated.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn abhyaasa.h} = abhyaasa.h}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
   &&&= O Arjuna\\
@@ -3023,8 +3023,8 @@ advantage.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn yatataa}&ya|ta|taa&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -3740,8 +3740,8 @@ he goes (on) a paramount going (or path).\\
   &&&= respect; honor; pride\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&stu&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stu&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

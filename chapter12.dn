@@ -242,8 +242,8 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\\
   &\multicolumn{3}{l}{\dn tvak.saramanirde"syamavyakta.m}\\
   &&&\\
-  &&tva|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&tva|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -518,8 +518,8 @@ paramount (things)---not using another (thing)---really, using yoking
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \neuter, \plural}\\
@@ -1742,8 +1742,8 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn dharmaam.rtamida.m}&dhar|maa|&dharma.h\\
   &&&= {\dn dharma.h}\\

@@ -63,8 +63,8 @@ Goodness? Passion? Ignorance?\\
   &{\dn ni.s.thaa}&ni|.s.thaa&steadfastness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn kaa}&kaa&who/what\\
   &&&\note{\pronoun, \female}\\
@@ -592,8 +592,8 @@ difference.\\
   &&&= diet; food; eating\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&stva|&tu = {\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&stva|&tu = {\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1029,8 +1029,8 @@ passion.\\
   1a&{\dn abhisandhaaya}&a|bhi|san|dhaa|ya&desiring\\
   &&&\note{\adjective, \indeclinable}\\
   &&&\\
-  &{\dn tu}&tu&but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn tu}&tu&\tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn phala.m}&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
@@ -1807,8 +1807,8 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   1a&{\dn yattu}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&tu&{\dn tu} = but\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &&tu&{\dn tu} = \tu\\
+  &&&\notetu\\
   &&&\\
   &{\dn pratyupakaaraartha.m}&pra|tyu|&prati\\
   &&&= {\dn prati}\\
