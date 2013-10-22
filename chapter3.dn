@@ -25,8 +25,9 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &{\dn cetkarma.naste}&cet|&cet = {\dn cet} = if\\
   &&&\\
   &&kar|ma|.na|&(?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &&ste&te = {\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular,}\\
@@ -58,8 +59,9 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &&&\\
   &{\dn karma.ni}&kar|ma|.ni&related to action or work\\
   &&&\note{\adjective}\\
-  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn ghore}&gho|re&at/in/on awfulness; horror\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -247,8 +249,8 @@ Saa"nkhya philosophy, and using action-work of devotees.\\
   &&&\\
   2b&{\dn karmayogena}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&yo|ge|na&{\dn yogena}\\
   &&&= using/by union; endeavor; work\\
@@ -397,8 +399,8 @@ about) action using nature-born things, using the gu.nas.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -433,8 +435,8 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
 \begin{tabular}{llll}
   1a&{\dn karmendriyaa.ni}&kar|men|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&dri|yaa|.ni&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\
@@ -553,8 +555,8 @@ senses, action union---and is not attached. He is the best.\\
 \begin{tabular}{llll}
   2a&{\dn karmendriyai.h}&kar|men|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&dri|yai\h{i}&indriyai.h\\
   &&&= {\dn indriyai.h}\\
@@ -564,8 +566,8 @@ senses, action union---and is not attached. He is the best.\\
   &&&\\
   &{\dn karmayogamasakta.h}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&yo|ga|&yogam\\
   &&&= {\dn yogam}\\
@@ -613,8 +615,9 @@ non-action.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn tva.m}&tva.m&you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -623,8 +626,8 @@ non-action.\\
   &&&\\
   1b&{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn jyaayo}&jyaa|yo&jyaaya.h\\
   &&&= {\dn jyaaya.h}\\
@@ -638,8 +641,9 @@ non-action.\\
   &&&= {\dn akarma.na.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -679,8 +683,9 @@ non-action.\\
   &&&= {\dn akarma.na.h}\\
   &&&= (?)\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -707,8 +712,9 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&kar|ma|.no|&karman.a.h\\
   &&&= {\dn karma.na.h}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &&nya|tra&anyatra\\
   &&&= {\dn anyatra}\\
@@ -725,8 +731,8 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn karmabandhana.h}&kar|ma|&karmam = {\dn karmam} = action\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn karmabandhana.h}&kar|ma|&karmam = {\dn karmam} = \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&ban|dha|na\h{a}&{\dn bandhana.h}\\
   &&&= tying; binding; imprisonment\\
@@ -747,8 +753,8 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kunti\\
   &&&= O Arjuna\\
@@ -1193,8 +1199,8 @@ offering, rain is. An offering is action-origin.\\
   &&&\\
   &{\dn karmasamudbhava.h}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&sa|mud|bha|va\h{a}&{\dn samudbhava.h}\\
   &&&= origin; production; existence\\
@@ -1213,8 +1219,8 @@ an offering.\\
 \begin{tabular}{llll}
   1a&{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn brahmodbhava.m}&brah|mod|&brahman\\
   &&&= {\dn brahman}\\
@@ -1566,8 +1572,8 @@ action, a man gets the highest (achievement).\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn samaacara}&sa|maa|ca|ra&samaacara.h\\
   &&&= {\dn samaacara.h}\\
@@ -1594,8 +1600,8 @@ action, a man gets the highest (achievement).\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1627,8 +1633,9 @@ mankind, you deserve to act.\\
   1a&{\dn karma.naiva}&kar|ma|.nai|&karma.naa\\
   &&&= {\dn karma.naa}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1968,8 +1975,8 @@ worlds).\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn cedaham}&ce|da|&cet = {\dn cet} = if\\
   &&&\note{\conjunction, \indeclinable}\\
@@ -2059,8 +2066,8 @@ performance, may join all actions.\\
   &&&\\
   &{\dn karmasa"nginaam}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&sa"n|gi|naam&{\dn sa"nginaam}\\
   &&&= of things wordly; contacting; attached\\
@@ -2202,7 +2209,8 @@ attach to threads.\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&vi|bhaa|ga|yo\h{o}&{\dn vibhaagayo.h}\\
   &&&= of two parts; differences;\\
@@ -2483,8 +2491,9 @@ free, also, from action.\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
   &{\dn karmabhi.h}&kar|ma|bhi\h{i}&(?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

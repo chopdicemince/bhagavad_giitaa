@@ -117,8 +117,8 @@ better.\\
   1a&{\dn sannyaasa.h}&san|nyaa|sa\h{a}&renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn karmayoga"sca}&kar|ma|&karmam = {\dn karmam} = action; work\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn karmayoga"sca}&kar|ma|&karmam = {\dn karmam} = \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&yo|ga"s|&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -160,8 +160,8 @@ better.\\
   &&&\\
   &{\dn karmasannyaasaatkarmayogo}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&san|nyaa|saat|&{\dn sannyaasaat}\\
   &&&= from renunciation; abandonment; asceticism\\
@@ -172,8 +172,8 @@ better.\\
   &&&\\
   2b&&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&yo|go&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -924,8 +924,8 @@ using senses, also, followers do action, having abandoned attachment,
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn kurvanti}&kur|van|ti&(they) do\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -970,8 +970,8 @@ attached to fruit (results), is bound.\\
   &&&\\
   &{\dn karmaphala.m}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
@@ -1169,8 +1169,8 @@ action-fruit-combination. But nature starts (these things).\\
   &&&\\
   &{\dn karmaphalasa.myoga.m}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\

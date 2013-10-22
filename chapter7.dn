@@ -2386,8 +2386,9 @@ cherish me (with) a firm vow.\\
   &&&\\
   &&kar|ma|.naam&{\dn karma.naam}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work; doing}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2507,8 +2508,8 @@ and all action.\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn karma}&kar|ma|&{\dn karmam}\\
-  &&&= action; work; doing\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn caakhilam}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\

@@ -39,8 +39,8 @@ is God called?\\
   1b&{\dn ki.m}&ki.m&what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam  {\dn karmam} = action; work; doing\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn karma}&kar|ma&karmam  {\dn karmam} = \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn puru.sottama}&pu|ru|.sot|&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
@@ -258,8 +258,8 @@ is called the self. Being-birth-doing is called action.\\
   &&&\\
   &{\dn karmasa.mj~nita.h}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work; doing\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&sa.m|j\~{}ni|ta\h{a}&{\dn sa.mj~nita.h}\\
   &&&= called; named\\

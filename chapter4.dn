@@ -668,8 +668,8 @@ goes toward me, O Arjuna.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -999,8 +999,8 @@ action-born.\\
   &&&\\
   &{\dn karmajaa}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&jaa&{\dn jaa}\\
   &&&= produced; born\\
@@ -1045,8 +1045,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&\multicolumn{2}{l}{vi|bhaa|ga|"sa\h{a}}\\
   &&&\\
@@ -1136,8 +1136,8 @@ says one who knows me. He does not suffer in action.\\
   &&&\\
   &{\dn karmaphale}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|le&{\dn phale}\\
   &&&= at/in/on fruit\\
@@ -1171,8 +1171,8 @@ says one who knows me. He does not suffer in action.\\
   &&&\\
   2b&{\dn karmabhirna}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&bhir|&bhi.h\\
   &&&= {\dn bhi.h}\\
@@ -1215,8 +1215,8 @@ ancestors.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1247,8 +1247,8 @@ ancestors.\\
   &&&\\
   &{\dn karmaiva}&kar|mai|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
@@ -1292,19 +1292,19 @@ will be free from non-grace.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn kimakarmeti}&ki|ma|&kim = {\dn kim} = what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&kar|me|&akarmam\\
-  &&&= {\dn akarmam}\\
-  &&&= not + action\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&kar|me|&karmam\\
+  &&&= {\dn karmam}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&ti&iti = {\dn iti} = ``end of quote''\\
   % ----------------------------------------------------------------------------
@@ -1338,8 +1338,8 @@ will be free from non-grace.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn pravak.syaami}&pra|vak|.syaa|mi&(I) will tell; teach; explain\\
@@ -1384,8 +1384,9 @@ hard to understand.\\
   &&&= {\dn karma.na.h}\\
   &&&= related to action or work\\
   &&&\note{\adjective, \male}\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn hyapi}&hya|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1442,7 +1443,9 @@ hard to understand.\\
   &&&\\
   &{\dn karma.no}&kar|ma|.na\h{a}&related to action or work\\
   &&&\note{\adjective, \male}\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &{\dn gati.h}&ga|ti\h{i}&position; path; progress\\
   &&&\note{\noun, \female}\\
@@ -1458,17 +1461,21 @@ action in something related to non-action. He has knowledge among
 men. He is occupied with all actions done.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karma.nyakarma}&kar|ma|.nya&karma.ni\\
+  1a&{\dn karma.nyakarma}&kar|ma|.nya|&karma.ni\\
   &&&= {\dn karma.ni}\\
   &&&= related to action or work\\
   &&&\note{\adjective}\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
-  &&kar|ma&akarmam\\
-  &&&= {\dn akarmam}\\
-  &&&= not + action; work\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\prefix: {\dn a} = a = not}\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&kar|ma&karmam\\
+  &&&= {\dn karmam}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&(?) one\\
@@ -1491,8 +1498,8 @@ men. He is occupied with all actions done.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&(?) one\\
@@ -1530,8 +1537,8 @@ men. He is occupied with all actions done.\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&k.rt&doing\\
   &&&\note{\adjective}\\
@@ -1597,8 +1604,9 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&kar|maa|.na.m&karmaa.nam\\
   &&&= {\dn karmaa.nam}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{= action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1642,8 +1650,8 @@ not do any (thing).\\
   &&&\\
   &{\dn karmaphalaasa"nga.m}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|laa|&phalam\\
   &&&= {\dn phalam}\\
@@ -1767,8 +1775,8 @@ life). He does not get injustice.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1931,8 +1939,8 @@ action for devotion.\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2025,8 +2033,8 @@ him, contemplative God-action is accomplished.\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \notekarmam\\
+  &&&\notekarmam\\
   &&&\\
   &&sa|maa|dhi|naa&{\dn samaadhinaa}\\
   &&&= (?)\\
@@ -2722,8 +2730,8 @@ the action births. Really, having known all those, you will be free.\\
 \begin{tabular}{llll}
   2a&{\dn karmajaanviddhi}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&jaan&{\dn jaan}\\
   &&&= (?)\\
@@ -2820,8 +2828,8 @@ prince (O Arjuna), in knowledge, completes (knowledge).\\
   &&&\\
   &{\dn karmaakhila.m}&kar|maa|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action; work\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&khi|la.m&akhilam\\
   &&&= {\dn akhilam}\\

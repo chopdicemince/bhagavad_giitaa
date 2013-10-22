@@ -3753,8 +3753,8 @@ wealth; to movement.''\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -4030,7 +4030,9 @@ actions. Do not be a joining in your non-action.\\
   1a&{\dn karma.nyevaadhikaaraste}&kar|ma|.nye|&karma.ni\\
   &&&= {\dn karma.ni}\\
   &&&= in action (?)\\
-  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam = action}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam = \karmam}\\
+  &&&\notekarmam\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -4064,8 +4066,8 @@ actions. Do not be a joining in your non-action.\\
   &&&\\
   &{\dn karmaphalaheturbhuurmaa}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -4208,8 +4210,8 @@ for fruit (of their actions).\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
   &&&= {\dn karmam}\\
-  &&&= action\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \karmam\\
+  &&&\notekarmam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
