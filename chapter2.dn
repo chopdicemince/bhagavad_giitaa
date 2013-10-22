@@ -3758,8 +3758,8 @@ wealth; to movement.''\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &&pra|daam&gift\\
   &&&\note{\noun, \female, \accusativecase}\\
@@ -4071,8 +4071,8 @@ actions. Do not be a joining in your non-action.\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &&he|tur|&hetu.h\\
   &&&= {\dn hetu.h}\\
@@ -4258,8 +4258,8 @@ for fruit (of their actions).\\
   &&&\\
   &{\dn phalahetava.h}&pha|la|&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &&he|ta|va\h{a}&``urged; incited''(?)\\
   &&&\note{from: \adjective, {\dn hetva} = hetva}\\
@@ -4364,8 +4364,8 @@ position of health.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn phala.m}&pha|la.m&fruit\\
-  &&&\note{\noun, \neuter}\\
+  1b&{\dn phala.m}&pha|la.m&\phalam\\
+  &&&\notephalam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&having abandoned\\
   &&&\note{\verbb, \perfectparticiple}\\

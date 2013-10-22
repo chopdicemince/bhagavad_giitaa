@@ -343,8 +343,8 @@ fruit.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn phalam}&pha|lam&fruit\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn phalam}&pha|lam&\phalam\\
+  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -975,8 +975,8 @@ attached to fruit (results), is bound.\\
   &&&\\
   &&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&having abandoned\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -1174,8 +1174,8 @@ action-fruit-combination. But nature starts (these things).\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &&sa.m|yo|ga.m&sa.myogam\\
   &&&= {\dn sa.myogam}\\

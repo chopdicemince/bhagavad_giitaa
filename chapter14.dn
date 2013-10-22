@@ -1276,8 +1276,8 @@ ignorance.\\
   &&&= dirt; dirtiness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn phalam}&pha|lam&fruit\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn phalam}&pha|lam&\phalam\\
+  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1293,8 +1293,8 @@ ignorance.\\
   &&&\\
   &{\dn phala.m}&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
-  &&&= fruit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \phalam\\
+  &&&\notephalam\\
   &&&\\
   &{\dn du.hkhamaj~naana.m}&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
@@ -1315,8 +1315,8 @@ ignorance.\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn tamas} = tamas}\\
   &&&\\
-  &{\dn phalam}&pha|lam&fruit\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn phalam}&pha|lam&\phalam\\
+  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
