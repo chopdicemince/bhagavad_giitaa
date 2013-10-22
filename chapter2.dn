@@ -2032,8 +2032,8 @@ other, new bodies.\\
   &&&\note{from {\dn jiir.nam} = jiir.nam}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn vihaaya}&vi|haa|ya&abandoned\\
   &&&\note{\adjective}\\

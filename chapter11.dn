@@ -205,8 +205,8 @@ O ultimate-man (O K.r.s.na).\\
   &&&\\
   &&thaat|&yathaa\\
   &&&= {\dn yathaa}\\
-  &&&= just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &&tha&aattha\\
   &&&= {\dn aattha}\\
@@ -2874,8 +2874,8 @@ are on fire.\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn yathaa}&ya|thaa&just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn nadiinaa.m}&na|dii|naa.m&nadiinaam\\
   &&&= {\dn nadiinaam}\\
@@ -2985,8 +2985,8 @@ abundant speed---the mouths of you.\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn yathaa}&ya|thaa&just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn pradiipta.m}&pra|diip|ta.m&pradiiptam\\
   &&&= {\dn pradiiptam}\\
@@ -5978,8 +5978,8 @@ see(n). You (have) seen me just as (I was).\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

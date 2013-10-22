@@ -856,8 +856,8 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&just as\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn maa.m}&maa.m&maam\\
   &&&= {\dn maam}\\
@@ -3096,8 +3096,8 @@ Just as fire does fuel on fire (to) ash, O Arjuna---likewise,
 knowledge-fire does all actions (to) ash.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yathaidhaa.msi}&ya|thai|&yathaa = {\dn yataa} = just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn yathaidhaa.msi}&ya|thai|&yathaa = {\dn yataa} = \yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &&dhaa.m|si&edhaamsi = {\dn edhaamsi} = (?)\\
   &&&\note{similar: \noun, \neuter, {\dn edhas} = edhas}\\

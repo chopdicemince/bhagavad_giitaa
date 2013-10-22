@@ -1627,8 +1627,8 @@ Just as (full?), hear these, also.\\
   \hline
   &&&\\
   2b&{\dn yathaavacch.r.nu}&ya|thaa|&{\dn yathaa}\\
-  &&&= just as\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &&vac|&vat = {\dn vat} = full\\
   &&&\note{\suffix}\\
@@ -2672,8 +2672,8 @@ of passion.\\
   &&&\note{\prefix}\\
   &&&\\
   &&ya|thaa|&{\dn yathaa}\\
-  &&&= just as; properly\\
-  &&&\note{\indeclinable}\\
+  &&&= \yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &&vat|&{\dn vat} = full\\
   &&&\note{\suffix}\\
@@ -3951,8 +3951,8 @@ success.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yathaa}&ya|thaa&just as; properly\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn vindati}&vin|da|ti&(he/she/it) finds; takes; attains\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -4340,8 +4340,8 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&= procured\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn yathaa}&ya|thaa&just as; like; properly\\
-  &&&\note{\indeclinable}\\
+  &{\dn yathaa}&ya|thaa&\yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &{\dn brahma}&brah|ma&brahmam\\
   &&&= {\dn brahmam}\\
@@ -5476,8 +5476,8 @@ thus, O Kuru (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yathecchasi}&ya|thec|&yathaa = {\dn yathaa} = just as; as if; like\\
-  &&&\note{\indeclinable}\\
+  2b&{\dn yathecchasi}&ya|thec|&yathaa = {\dn yathaa} = \yathaa\\
+  &&&\noteyathaa\\
   &&&\\
   &&cha|si&icchasi\\
   &&&= {\dn icchasi}\\
