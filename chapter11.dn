@@ -383,8 +383,8 @@ thousands---various divine forms and various color forms.\\
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect"\\
   &&&\\
-  &&bha|va|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
-  &&&\note{\noun, gender(?)}\\
+  &&bha|va|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
@@ -3332,8 +3332,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&bha|ga|vaa|nu|&bhagavaan\\
   &&&= {\dn bhagavaan}\\
-  &&&= God\\
-  &&&\note{\noun, gender(?)}\\
+  &&&= \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
@@ -5175,8 +5175,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&bha|ga|vaa|nu|&bhagavaan\\
   &&&= {\dn bhagavaan}\\
-  &&&= God\\
-  &&&\note{\noun, gender(?)}\\
+  &&&= \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
@@ -5801,8 +5801,8 @@ sight-desirous.\\
   &&&\\
   &&bha|ga|vaa|nu|&bhagavaan\\
   &&&= {\dn bhagavaan}\\
-  &&&= God\\
-  &&&\note{\noun, gender(?)}\\
+  &&&= \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\

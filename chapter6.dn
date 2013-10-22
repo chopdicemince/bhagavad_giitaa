@@ -12,8 +12,8 @@ not active.\\
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&{\dn bhagavaan} = God\\
-  &&&\note{\noun, gender(?)}\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
@@ -2896,8 +2896,8 @@ aversion, (it can be) domesticated.\\
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
-  &&&\note{\noun, gender(?)}\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
@@ -3322,8 +3322,8 @@ does his (a devotee's) destruction exist. Surely, a good-doing
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
-  &&&\note{\noun, gender(?)}\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\

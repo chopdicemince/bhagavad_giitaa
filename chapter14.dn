@@ -12,8 +12,8 @@ gone (to) paramount success.\\
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&{\dn "srii} = ``title of respect''\\
   &&&\\
-  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = God\\
-  &&&\note{\noun, gender(?)}\\
+  &&bha|ga|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
@@ -1783,8 +1783,8 @@ vanished, \dots\\
   &&&\\
   &&bha|ga|vaa|nu|&bhagavaan\\
   &&&= {\dn bhagavaan}\\
-  &&&= God\\
-  &&&\note{\noun, gender(?)}\\
+  &&&= \bhagavaan\\
+  &&&\notebhagavaan\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
