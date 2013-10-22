@@ -486,8 +486,8 @@ born (from them).\\
   &&&\\
   &&thaa&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1093,8 +1093,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&\\
   &&thaa&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2956,8 +2956,8 @@ flower-abundance.\\
   &&&= song\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn saamnaa.m}&saam|naa.m&saamnaam\\
   &&&= {\dn saamnaam}\\

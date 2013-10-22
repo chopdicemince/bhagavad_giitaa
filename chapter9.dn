@@ -512,8 +512,8 @@ thus---consider (these words).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \neuter}\\
@@ -2860,8 +2860,8 @@ caste---they, also, go (on) the paramount path.\\
   &&&\note{from {\dn vai"sya.h} = vai"sya.h}\\
   &&&\\
   &&thaa&{\dn tathaa}\\
-  &&&= thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn "suudraaste.api}&"suu|draa|&"suudraa.h\\
   &&&= {\dn "suudraa.h}\\
@@ -2941,8 +2941,8 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&\\
   &&thaa&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

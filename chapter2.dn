@@ -25,8 +25,8 @@ by Madhu-killer (K.r.s.na): \dots\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &\multicolumn{3}{l}{\dn k.rpayaavi.s.tama"srupuur.naakulek.sa.nam}\\
   &&&\\
@@ -1242,8 +1242,8 @@ Just as the soul in this body (goes through) childhood, youth
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &\multicolumn{3}{l}{\dn dehaantarapraaptirdhiirastatra}\\
   &&&\\
@@ -2064,8 +2064,8 @@ other, new bodies.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn "sariiraa.ni}&"sa|rii|raa|.ni&bodies\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2409,8 +2409,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaapi}&ta|thaa|&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tathaapi}&ta|thaa|&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2650,7 +2650,8 @@ really any knowledge.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
   &&&\\
-  &{\dn tathaiva}&ta|thai|&tathaa = {\dn tathaa} = thus\\
+  &{\dn tathaiva}&ta|thai|&tathaa = {\dn tathaa} = \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\

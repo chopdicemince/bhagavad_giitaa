@@ -1146,8 +1146,8 @@ fifth.\\
   &&&= steadfastness; authority; place\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn kartaa}&kar|taa&actor; worker; doer\\
   &&&\note{\noun, \male}\\
@@ -4350,8 +4350,8 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tathaapnoti}&ta|thaap|&tathaa = {\dn tathaa} = thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn tathaapnoti}&ta|thaap|&tathaa = {\dn tathaa} = \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&no|ti&aapnoti\\
   &&&= {\dn aapnoti}\\
@@ -5485,8 +5485,8 @@ thus, O Kuru (O Arjuna).\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn kuru}&ku|ru&O Kuru\\
   &&&= O Arjuna\\

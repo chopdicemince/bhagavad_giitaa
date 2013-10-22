@@ -633,8 +633,8 @@ difference.\\
   &&&\\
   &&thaa&tathaa\\
   &&&= {\dn tathaa}\\
-  &&&= thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn daana.m}&daa|na.m&daanam\\
   &&&= {\dn daanam}\\
@@ -2289,8 +2289,8 @@ Arjuna) \dots\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{(?) from {\dn karman} = karman}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

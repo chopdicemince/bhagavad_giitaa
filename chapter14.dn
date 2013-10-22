@@ -829,8 +829,8 @@ sometimes superiority), thus.\\
   &&&= emotion; passion; dust; menstrual waste\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&thaa&tathaa = {\dn tathaa} = thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&thaa&tathaa = {\dn tathaa} = \tathaa\\
+  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1200,8 +1200,8 @@ stupid stations in life.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tathaa}&ta|thaa&thus; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &{\dn praliinastamasi}&pra|lii|na|sta|&praliina.h\\
   &&&= {\dn praliina.h}\\

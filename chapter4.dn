@@ -875,8 +875,8 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&sta|thai|&tathaa = {\dn tathaa} = so\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&sta|thai|&tathaa = {\dn tathaa} = \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2344,8 +2344,8 @@ prepared men who have taken vows.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&sta|thaa|&tathaa = {\dn tathaa} = thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&sta|thaa|&tathaa = {\dn tathaa} = \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -2437,8 +2437,8 @@ breaths.\\
   &&&\\
   &{\dn tathaapare}&ta|thaa|&{\dn tathaa}\\
   &&&= {\dn tathaa}\\
-  &&&= thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tathaa\\
+  &&&\notetathaa\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -3173,8 +3173,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn tathaa}&ta|thaa&so; likewise\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn tathaa}&ta|thaa&\tathaa\\
+  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
