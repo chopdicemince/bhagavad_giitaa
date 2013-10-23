@@ -39,8 +39,8 @@ one in these two---confidence---that is for me---say, definitely.\\
   1b&{\dn punaryoga.m}&pu|nar|&puna.h = {\dn puna.h} = again\\
   &&&\note{\adverb}\\
   &&&\\
-  &&yo|ga.m&yogam = {\dn yogam} = union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&yo|ga.m&yogam = {\dn yogam} = \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -406,8 +406,8 @@ one thing---he sees.\\
   &&&\\
   &{\dn yoga.m}&yo|ga.m&yogam\\
   &&&= {\dn yogam}\\
-  &&&= union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\

@@ -132,8 +132,8 @@ not active.\\
   &&&\\
   1b&&yo|ga.m&yogam\\
   &&&= {\dn yogam}\\
-  &&&= yoking; union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
@@ -209,8 +209,8 @@ peace is viewed as the cause.\\
   &&&\\
   &&yo|ga.m&yogam\\
   &&&= {\dn yogam}\\
-  &&&= yoking; union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1024,8 +1024,8 @@ is virtuous.\\
   &&&\\
   2b&&dyo|ga|maat|&yogam\\
   &&&= {\dn yogam}\\
-  &&&= yoking; union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &&ma|&aatma = {\dn aatma} = self; soul\\
@@ -1615,8 +1615,8 @@ doing yoking of the self.\\
   &&&\\
   &{\dn yogamaatmana.h}&yo|ga|maat|&yogam\\
   &&&= {\dn yogam}\\
-  &&&= yoking; union; action; work\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \yogam\\
+  &&&\noteyogam\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
