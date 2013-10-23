@@ -1203,8 +1203,8 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &{\dn satata.m}&sa|ta|ta.m&satatam = {\dn satatam} = always\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn yogii}&yo|gii&yoked person\\
-  &&&\note{\noun, \male}\\
+  &{\dn yogii}&yo|gii&\yogii\\
+  &&&\noteyogii\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

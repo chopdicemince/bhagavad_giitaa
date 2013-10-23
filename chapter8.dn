@@ -2263,8 +2263,9 @@ equinox or solstice---there, brightness---a yoked person returns
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&yo|gii&(?) yoked person\\
-  &&&\note{\noun, \male}\\
+  2b&&yo|gii&{\yogii}\\
+  &&&= \yogii\\
+  &&&\noteyogii\\
   &&&\\
   &{\dn praapya}&praa|pya&procurable; attainable\\
   &&&\note{\adjective}\\
@@ -2394,8 +2395,8 @@ yoking-yoked, O Arjuna.\\
   &&&\\
   1b&&nyo|gii&yogii\\
   &&&= {\dn yogii}\\
-  &&&= (?) yoked person\\
-  &&&\note{\noun, \male}\\
+  &&&= \yogii\\
+  &&&\noteyogii\\
   &&&\\
   &{\dn muhyati}&mu|hya|ti&(he/she/it) is mistaken; confused\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2522,8 +2523,8 @@ syllables is eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yogii}&yo|gii&(?) yoked person\\
-  &&&\note{\noun, \male}\\
+  2b&{\dn yogii}&yo|gii&\yogii\\
+  &&&\noteyogii\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
