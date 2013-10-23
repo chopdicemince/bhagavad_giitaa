@@ -180,8 +180,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn te.adya}&te|&for you; of you (your)\\
@@ -787,8 +787,8 @@ happened.\\
   1b&{\dn manmayaa}&man|&(?) mat = {\dn mat} = than me\\
   &&&\note{part of speech?}\\
   &&&\\
-  &&ma|yaa&{\dn mayaa} = using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&ma|yaa&{\dn mayaa} = \mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn maamupaa"sritaa.h}&maa|mu|&maam = {\dn maam} = \maam\\
@@ -1023,8 +1023,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&= saffron (orange-yellow)\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn s.r.s.ta.m}&s.r.s|.ta.m&.s.r.s.tam\\

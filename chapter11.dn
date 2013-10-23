@@ -137,8 +137,8 @@ the greatness (of you) (is) non-changeable.\\
   &&&= diffusely\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -305,8 +305,8 @@ O yoking-God, from there, for me, you---show the non-changeable self
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  1b&{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dra.s.tumiti}&dra|.s.tu|mi|&dra.s.tum\\
@@ -3508,8 +3508,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mayaivaite}&ma|yai|&mayaa = {\dn mayaa} = using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  2a&{\dn mayaivaite}&ma|yai|&mayaa = {\dn mayaa} = \mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
@@ -3630,8 +3630,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  2a&{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hataa.mstva.m}&ha|taa.m|&hataan\\
@@ -4508,8 +4508,8 @@ instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  2b&{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn pramaadaatpra.nayena}&pra|maa|daat|&{\dn pramaadaat}\\
@@ -5182,8 +5182,8 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  1a&{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn prasannena}&pra|san|ne|na&using/by pleasure; happiness\\

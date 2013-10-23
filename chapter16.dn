@@ -1091,8 +1091,8 @@ is. This, also, for me, will be, again, money.\\
   &&dya&adya = {\dn adya} = today\\
   &&&\note{\noun, \adverb, \indeclinable}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn labdhamima.m}&lab|dha|&labdham\\
@@ -1168,8 +1168,8 @@ full of strength, (and) a happy person.\\
 \begin{tabular}{llll}
   1a&{\dn asau}&a|sau&(?)\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hata.h}&ha|ta\h{a}&hit; hurt; killed\\
@@ -1292,8 +1292,8 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&= similar\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

@@ -5447,8 +5447,8 @@ thus, O Kuru (O Arjuna).\\
   &&&= more\\
   &&&\note{\suffix}\\
   &&&\\
-  &{\dn mayaa}&ma|yaa&using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &{\dn mayaa}&ma|yaa&\mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -6355,8 +6355,8 @@ speech of you.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn prasaada.h} = prasaada.h}\\
   &&&\\
-  &&ma|yaa|&{\dn mayaa} = using/by me\\
-  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&ma|yaa|&{\dn mayaa} = \mayaa\\
+  &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&|&a = {\dn a} = not\\
