@@ -1557,8 +1557,8 @@ knows the paramount (string)---he gets from-me-behavior.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn madbhaava.m}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2b&{\dn madbhaava.m}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|va.m&bhaavam\\

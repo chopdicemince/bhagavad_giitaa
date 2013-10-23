@@ -538,8 +538,8 @@ paramount (things)---not using another (thing)---really, using yoking
   &&&\note{similar: \noun, \male, {\dn sa.mnyaasin} = sa.mnyaasin}\\
   &&&\note{= person who abandons worldly things}\\
   &&&\\
-  &{\dn matparaa.h}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn matparaa.h}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|raa\h{aa}&{\dn paraa.h}\\
@@ -855,8 +855,8 @@ doing actions.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn matkarmaparamo}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  1b&{\dn matkarmaparamo}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&kar|ma|&karmam\\
@@ -878,8 +878,8 @@ doing actions.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn madarthamapi}&ma|dar|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2a&{\dn madarthamapi}&ma|dar|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&tha|ma|&artham\\
@@ -956,8 +956,8 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn madyogamaa"srita.h}&ma|dyo|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn madyogamaa"srita.h}&ma|dyo|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ga|maa|&yogam = {\dn yogam} = yoking\\
@@ -1253,8 +1253,8 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   2b&&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn madbhakta.h}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn madbhakta.h}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta\h{a}&bhakta.h\\
@@ -1446,8 +1446,8 @@ from-me-devotee. He (is) (a) favorite of me.\\
   2b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn madbhakta.h}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn madbhakta.h}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta\h{a}&{\dn bhakta.h}\\
@@ -1780,8 +1780,8 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn "sraddadhaana.h} = "sraddadhaana.h}\\
   &&&\\
-  &{\dn matparamaa}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn matparamaa}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra|maa&paramaa.h\\

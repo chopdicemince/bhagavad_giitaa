@@ -22,9 +22,9 @@ eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn madanugrahaaya}&ma|da|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  1a&{\dn madanugrahaaya}&ma|da|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&nu|gra|haa|ya&anugrahaaya\\
   &&&= {\dn anugrahaaya}\\
@@ -6076,8 +6076,8 @@ O son of Paa.n.du (O Arjuna).\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn matkarmak.rnmatparamo}\\
   &&&\\
-  &&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&kar|ma&karmam = {\dn karmam} = \karmam\\
@@ -6086,8 +6086,8 @@ O son of Paa.n.du (O Arjuna).\\
   &&k.rn|&k.rt = {\dn k.rt} = acting; working; doing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra|mo&parama.h\\
@@ -6097,8 +6097,8 @@ O son of Paa.n.du (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madbhakta.h}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  1b&{\dn madbhakta.h}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta\h{a}&{\dn bhakta.h}\\

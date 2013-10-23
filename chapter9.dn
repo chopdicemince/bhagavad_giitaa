@@ -325,8 +325,9 @@ By me, all this world is spread, by (my) non-visible form. All beings
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn matsthaani}&mat|&{\dn mat}\\
-  &&&= (?) ``me''\\
+  2a&{\dn matsthaani}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sthaa|ni&{\dn sthaani}\\
   &&&= standing; staying; stopping; steadfast\\
@@ -378,8 +379,9 @@ being-bearing and not being-standing. My self is the being-creator.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn matsthaani}&mat|&{\dn mat}\\
-  &&&= ``me''\\
+  &{\dn matsthaani}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sthaa|ni&{\dn sthaani}\\
   &&&= standing; staying\\
@@ -524,8 +526,9 @@ thus---consider (these words).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn matsthaaniityupadhaaraya}&mat|&{\dn mat}\\
-  &&&= (?) ``me''\\
+  2b&{\dn matsthaaniityupadhaaraya}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sthaa|nii|&sthaani\\
   &&&= {\dn sthaani}\\
@@ -2250,9 +2253,9 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn madyaajino.apimaam}&ma|dyaa|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  &{\dn madyaajino.apimaam}&ma|dyaa|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ji|no|&yaajina.h\\
   &&&= {\dn yaajina.h}\\
@@ -2434,9 +2437,9 @@ Arjuna), that (is) a giving (to) me.\\
   &&ku|ru|.sva&{\dn kuru.sva}\\
   &&&= (?)\\
   &&&\\
-  &{\dn madarpa.nam}&ma|dar|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  &{\dn madarpa.nam}&ma|dar|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|.nam&arpa.nam\\
   &&&= {\dn arpa.nam}\\
@@ -3000,14 +3003,18 @@ really, (you are) devoted to me.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn madbhakto}&mad|&mat = {\dn mat} = (?) ``me''\\
+  &{\dn madbhakto}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|to&bhakta.h = {\dn bhakta.h} = devotee\\
   &&&\note{\noun, \male}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = (?) ``me''\\
+  1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&jii&yaajii = {\dn yaajii} = (?) worshipper\\
   &&&\note{\noun, \male(?)}\\
@@ -3061,8 +3068,9 @@ really, (you are) devoted to me.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   &&&\\
-  &{\dn matparaaya.na.h}&mat|&{\dn mat}\\
-  &&&= (?) ``me''\\
+  &{\dn matparaaya.na.h}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|raa|ya|.na\h{a}&{\dn paraaya.na.h}\\
   &&&= devoted to\\

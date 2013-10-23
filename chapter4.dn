@@ -784,8 +784,9 @@ happened.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn manmayaa}&man|&(?) mat = {\dn mat} = than me\\
-  &&&\note{part of speech?}\\
+  1b&{\dn manmayaa}&man|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ma|yaa&{\dn mayaa} = \mayaa\\
   &&&\notemayaa\\
@@ -828,8 +829,9 @@ happened.\\
   &&&= pure; clean; clear\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\\
-  &{\dn madbhaavamaagataa.h}&mad|&(?) mat = {\dn mat} = than me\\
-  &&&\note{part of speech?}\\
+  &{\dn madbhaavamaagataa.h}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|va|maa|&bhaavam\\
   &&&= {\dn bhaavam}\\

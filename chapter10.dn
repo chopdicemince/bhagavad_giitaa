@@ -491,9 +491,9 @@ born (from them).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn madbhaavaa}&mad|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  2a&{\dn madbhaavaa}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|vaa&bhaavaa.h\\
   &&&= {\dn bhaavaa.h}\\
@@ -698,9 +698,9 @@ mutually informing and telling (one another about) me, eternally---and
 (they) are pleased and (they) enjoy (me).\\
 
 \begin{tabular}{llll}
-  1a&{\dn maccittaa}&mac|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  1a&{\dn maccittaa}&mac|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|taa&cittaa.h\\
   &&&= {\dn cittaa.h}\\
@@ -708,9 +708,9 @@ mutually informing and telling (one another about) me, eternally---and
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn citta.h} = citta.h}\\
   &&&\\
-  &{\dn madgatapraa.naa}&mad|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  &{\dn madgatapraa.naa}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ga|ta|&{\dn gata}\\
   &&&= gone; known\\
@@ -3469,8 +3469,9 @@ brightness-part-birth (of that quality from me).\\
   &&&= power; wealth\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&mat|&{\dn mat}\\
-  &&&= (?) ``me''\\
+  &&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sat|tva.m&sattvam\\
   &&&= {\dn sattvam}\\

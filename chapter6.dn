@@ -1182,8 +1182,8 @@ mind, a mind from me, yoked, seated, best from me.\\
   &{\dn sa.myamya}&sa.m|ya|mya&subdued\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn maccitto}&mac|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn maccitto}&mac|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|to&citta.h\\
@@ -1201,8 +1201,8 @@ mind, a mind from me, yoked, seated, best from me.\\
   &{\dn aasiita}&aa|sii|ta&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn aasitam} = aasitam = seat}\\
   &&&\\
-  &{\dn matpara.h}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn matpara.h}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra\h{a}&{\dn para.h}\\
@@ -1275,8 +1275,8 @@ union.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn matsa.msthaamadhigacchati}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2b&{\dn matsa.msthaamadhigacchati}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sa.m|sthaa|ma|&{\dn sa.msthaa}\\
@@ -3921,9 +3921,9 @@ me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madgatenaantaraatmanaa}&mad|&mat\\
-  &&&= {\dn mat}\\
-  &&&= (?) ``me''\\
+  1b&{\dn madgatenaantaraatmanaa}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ga|te|naan|&gatena\\
   &&&= {\dn gatena}\\

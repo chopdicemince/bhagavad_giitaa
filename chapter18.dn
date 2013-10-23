@@ -4718,8 +4718,8 @@ at all beings, (he) attains the paramount from-me-faith.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn madbhakti.m}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2b&{\dn madbhakti.m}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ti.m&bhaktim\\
@@ -4853,8 +4853,8 @@ person) attains the eternal, non-changeable place.\\
   &&&= acting; working; doing\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn madvyapaa"sraya.h}&ma|dvya|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn madvyapaa"sraya.h}&ma|dvya|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&paa|"srya|ya\h{a}&{\dn vyapaa"sraya.h}\\
@@ -4866,8 +4866,8 @@ person) attains the eternal, non-changeable place.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn matprasaadaadavaapnoti}\\
   &&&\\
-  &&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|saa|daa|da|&prasaadaat\\
@@ -4936,8 +4936,8 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\note{= of abandonment}\\
   &&&\note{from {\dn sannyaasa.h} = sannyaasa.h}\\
   &&&\\
-  &{\dn matpara.h}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn matpara.h}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra\h{a}&{\dn para.h}\\
@@ -4968,8 +4968,8 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn maccitta.h}&mac|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2b&{\dn maccitta.h}&mac|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|ta\h{a}&{\dn citta.h}\\
@@ -4996,8 +4996,8 @@ traverse---from-me-peace---then, if you, from arrogance, do not hear,
 (you) will die.\\
 
 \begin{tabular}{llll}
-  1a&{\dn maccitta.h}&mac|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  1a&{\dn maccitta.h}&mac|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&cit|ta\h{a}&{\dn citta.h}\\
@@ -5018,8 +5018,8 @@ traverse---from-me-peace---then, if you, from arrogance, do not hear,
   &&&\\
   1b&\multicolumn{3}{l}{\dn matprasaadaattari.syasi}\\
   &&&\\
-  &&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pra|saa|daat|&{\dn prasaadaat}\\
@@ -5590,8 +5590,8 @@ me. Salute me, really. (You) will attain the truth of you. (You) are a
 promise(d) and a loved (one) of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn manmanaa}&man|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  1a&{\dn manmanaa}&man|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&ma|naa&{\dn manaa} = devotion\\
@@ -5601,8 +5601,8 @@ promise(d) and a loved (one) of me.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn madbhakto}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn madbhakto}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|to&bhakti.h = {\dn bhakti.h} = faith; devotion\\
@@ -5610,8 +5610,8 @@ promise(d) and a loved (one) of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&jii&yaajii\\
@@ -5874,8 +5874,8 @@ no-doubt.\\
   &&&\\
   1b&\multicolumn{3}{l}{\dn madbhakte.svabhidhaasyati}\\
   &&&\\
-  &&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|te|.sva|&bhakte.su\\

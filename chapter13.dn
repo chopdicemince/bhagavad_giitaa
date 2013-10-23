@@ -1123,8 +1123,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&= beginning\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn matpara.m}&mat|&{\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &{\dn matpara.m}&mat|&{\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|ra.m&param\\
@@ -1230,8 +1230,8 @@ me, in the world, each (thing) (is) covered. (God) stays.\\
   &&&= ear; hearing; knowledge\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&mal|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mal|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&lo|ke&{\dn loke}\\
@@ -1664,8 +1664,8 @@ from-be-behavior.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn madbhakta}&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  2a&{\dn madbhakta}&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta&bhakta.h\\
@@ -1687,8 +1687,8 @@ from-be-behavior.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn madbhaavaayopapadyate}\\
   &&&\\
-  &&mad|&mat = {\dn mat} = from me\\
-  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&mad|&mat = {\dn mat} = \mat\\
+  &&&\notemat\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhaa|vaa|yo|&bhaavaaya\\
