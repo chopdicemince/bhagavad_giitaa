@@ -1252,8 +1252,9 @@ ancestors.\\
   &&&\\
   &{\dn tasmaattva.m}&tas|maat|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&tva.m&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -3517,8 +3518,9 @@ knowledge in the self. Having cut this doubt-action, do and stand, O
 descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tasmaadaj~naanasambhuuta.m}&tas|maa|daj|&tasmaat = {\dn tasmaat} = therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn tasmaadaj~naanasambhuuta.m}&tas|maa|daj|&tasmaat = {\dn tasmaat} = \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&\~{}naa|na|&aj\~{}naana\\
   &&&= {\dn aj~naanam}\\

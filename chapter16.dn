@@ -1852,8 +1852,9 @@ abandons this group of three.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &&sta|smaa|de|&tasmaat = {\dn tasmaat} = therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&sta|smaa|de|&tasmaat = {\dn tasmaat} = \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&tat|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
@@ -2065,8 +2066,9 @@ steadfast-action(-and)-non-action. Having known the written rule(s),
 said (by me)---in this world, (you) are able to do action.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tasmaacchaastra.m}&tas|maac|&tasmaat = {\dn tasmaat} = therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn tasmaacchaastra.m}&tas|maac|&tasmaat = {\dn tasmaat} = \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&chaa|stra.m&"saastram\\
   &&&= {\dn "saastram}\\

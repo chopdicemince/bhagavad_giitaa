@@ -1254,8 +1254,9 @@ an offering.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tasmaatsarvagata.m}&tas|maat|&{\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sar|va|&{\dn sarva}\\
   &&&= each; all\\
@@ -1551,8 +1552,9 @@ action, a man gets the highest (achievement).\\
 \begin{tabular}{llll}
   1a&{\dn tasmaadasakta.h}&tas|maa|da|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sak|ta\h{a}&asakta.h\\
   &&&= {\dn asakta.h}\\
@@ -3239,8 +3241,9 @@ knowledge-skill destruction.\\
 
 \begin{tabular}{llll}
   1a&{\dn tasmaattvamindriyaa.nyaadau}&tas|maat|&{\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&tva|min|&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\

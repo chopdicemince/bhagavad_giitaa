@@ -3453,8 +3453,9 @@ instead of the usual eight.)\\
 
 \begin{tabular}{llll}
   1a&{\dn tasmaattvamutti.s.tha}&ta|smaat|&{\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&tva|mut|&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -4814,8 +4815,9 @@ instead of the usual eight.)\\
 
 \begin{tabular}{llll}
   1a&{\dn tasmaatpra.namya}&tas|maat|&{\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&pra|.na|mya&{\dn pra.namya}\\
   &&&= (?)\\

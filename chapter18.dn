@@ -5957,8 +5957,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn tasmaanmanu.sye.su}&ta|smaan|&tasmaat = {\dn tasmaat} = from that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \ablativecase}\\
+  &{\dn tasmaanmanu.sye.su}&ta|smaan|&tasmaat = {\dn tasmaat} = \tasmaat\\
+  &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ma|nu|.sye|.su&{\dn manu.sye.su}\\
@@ -6007,8 +6007,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &&&\\
   &{\dn tasmaadanya.h}&ta|smaa|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= from that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \ablativecase}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline

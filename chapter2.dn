@@ -1721,8 +1721,9 @@ descendant of Bharata (O Arjuna).\\
   &&&\\
   2b&{\dn tasmaadyudhyasva}&tas|maa|dyu|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&dhya|sva&yudhyasva\\
   &&&= {\dn yudhyasva}\\
@@ -2323,8 +2324,9 @@ you do not deserve to lament.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaadeva.m}&tas|maa|de|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&va.m&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2500,6 +2502,8 @@ to lament.\\
   2a&{\dn tasmaadaparihaarye.arthe}&tas|maa|da|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&pa|ri|haar|ye'r|&aparihaarye\\
   &&&= {\dn aparihaarye}\\
@@ -2768,7 +2772,9 @@ deserve to lament each being.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasmaatsarvaa.ni}&tas|maat|&therefore\\
+  2a&{\dn tasmaatsarvaa.ni}&tas|maat|&{\dn tasmaat} = \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sar|vaa|.ni&each\\
   &&&\note{\noun, \neuter, \plural, \accusativecase}\\
@@ -3306,7 +3312,9 @@ Arjuna).  For the fight, be certain.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaadutti.s.tha}&tas|maa|dut&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
+  &&&= \tasmaat\\
+  &&&\notetasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&ti.s|.tha&utti.s.thatu\\
   &&&= {\dn utti.s.thatu}\\
@@ -4317,7 +4325,8 @@ action, and skill.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaadyogaaya}&tas|maad|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
+  &&&= \tasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&yo|gaa|ya&``work'' (?)\\
   &&&\note{from: \noun, \male: {\dn yoga.h} = yoga.h}\\
@@ -5625,7 +5634,8 @@ restrained---his knowledge is complete.\\
 \begin{tabular}{llll}
   1a&{\dn tasmaaadyasya}&tas|maa|dya|&tasmaat\\
   &&&= {\dn tasmaat}\\
-  &&&= therefore\\
+  &&&= \tasmaat\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sya&yasya\\
   &&&= {\dn yasya}\\
