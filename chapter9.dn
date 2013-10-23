@@ -2615,8 +2615,8 @@ also, I (am) in them.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mayi}&ma|yi&at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  2b&{\dn mayi}&ma|yi&\mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn te}&te&those/they\\

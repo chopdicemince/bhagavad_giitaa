@@ -22,8 +22,8 @@ me completely. Hear that.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn mayyaasaktamanaa.h}&may|yaa|&mayi = {\dn mayi} = at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  1a&{\dn mayyaasaktamanaa.h}&may|yaa|&mayi = {\dn mayi} = \mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&sak|ta|&aasakta = {\dn aasakta} = attached\\
@@ -563,8 +563,8 @@ string.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mayi}&ma|yi&at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  2a&{\dn mayi}&ma|yi&\mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
@@ -1032,8 +1032,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn mayi}&ma|yi&at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  &{\dn mayi}&ma|yi&\mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

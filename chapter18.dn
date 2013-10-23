@@ -4926,8 +4926,8 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mayi}&ma|yi&at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  1b&{\dn mayi}&ma|yi&\mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sannyasya}&san|nya|sya&(?)\\
@@ -5899,8 +5899,8 @@ no-doubt.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn bhakti.h} = bhakti.h}\\
   &&&\\
-  &{\dn mayi}&ma|yi&at/in/on me\\
-  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  &{\dn mayi}&ma|yi&\mayi\\
+  &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paraa.m}&pa|raa.m&paraam\\
