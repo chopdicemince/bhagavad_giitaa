@@ -463,8 +463,8 @@ Arjuna)---sure, ultimate opinion.\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
   &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
@@ -1436,8 +1436,8 @@ not bound.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1644,8 +1644,8 @@ Just as (full?), hear these, also.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3724,8 +3724,8 @@ action (is) self-behavior-born.\\
   &{\dn caapyapalaayanam}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -3863,8 +3863,8 @@ fourth caste---also, self-behavior-born.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn "suudra.h} = "suudra.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn svabhaavajam}&sva|&{\dn sva}\\
   &&&= self\\
@@ -4177,8 +4177,8 @@ abandoned), like (just as) fire (is) covered by smoke.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -4840,8 +4840,8 @@ person) attains the eternal, non-changeable place.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn karmam} = karmam}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn sadaa}&sa|daa&eternally\\
   &&&\note{\adverb, \indeclinable}\\
@@ -5231,8 +5231,8 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&&= submissive\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn tat}&tat&\tat\\
   &&&\notetat\\
@@ -6162,8 +6162,8 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &&&\note{{\dn "s.r.noti} = "s.r.noti= (he/she/it) hears}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -6177,8 +6177,8 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   2a&{\dn so.api}&so|&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn mukta.h}&muk|ta\h{a}&free\\
   &&&\note{\adjective, \male}\\

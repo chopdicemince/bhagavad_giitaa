@@ -423,8 +423,8 @@ has eleven main syllables per line.)\\
   &&&= charity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pii|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pii|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&ha&iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}\\
@@ -824,8 +824,8 @@ has eleven main syllables per line.)\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn sura.h} = sura.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn caadhipatyam}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1527,8 +1527,8 @@ these two statements---by people who know or see.\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhaya.h} = ubhaya.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &\multicolumn{3}{l}{\dn d.r.s.to.antastvanayostattvadar"sibhi.h}\\
   &&&\\
@@ -2412,8 +2412,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   2a&{\dn tathaapi}&ta|thaa|&\tathaa\\
   &&&\notetathaa\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -2695,7 +2695,8 @@ really any knowledge.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &&pye|&api = {\dn api} = also\\
+  &&pye|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&na.m&ena.m = {\dn ena.m} = this (?)\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2816,7 +2817,8 @@ in the warrior caste, and the confidence is yours).\\
   &&&\note{from: \noun, \male,}\\
   &&&\note{{\dn dharma.h} = dharma.h = nature}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn caavek.sya}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3044,7 +3046,8 @@ death.\\
   &{\dn caapi}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&people\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -3537,7 +3540,8 @@ amount of this devotion saves (a person) from great fear.\\
   &&&= small amount\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pya|&api = {\dn api} = also\\
+  &&pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
@@ -4999,7 +5003,8 @@ objects).\\
   &&&= taste; seasoning; mixture\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'pya|&api = {\dn api} = also\\
+  &&'pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
@@ -5034,7 +5039,8 @@ person---the senses are agitating and they destroy violently.\\
   &&&\\
   &{\dn hyapi}&hya|&hi = {\dn hi} = certainly\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -5968,7 +5974,8 @@ also, a person gets the complete happiness of God.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

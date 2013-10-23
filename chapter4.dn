@@ -434,8 +434,8 @@ self-magic.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{similar: \noun, \male, {\dn janma.h} = janma.h = birth}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn sannavyayaatmaa}&san|&{\dn san} = (?)\\
   &&&\\
@@ -464,8 +464,8 @@ self-magic.\\
   &&&= husband; lord; God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn san}&san&(?)\\
 \end{tabular}
@@ -1069,8 +1069,8 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\note{similar: \verbb, \infinitive, {\dn kartum} = kartum}\\
   &&&\note{= to do}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -1223,8 +1223,8 @@ ancestors.\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn puurva.h} = puurva.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn mumuk.subhi.h}&\multicolumn{2}{l}{mu|muk|.su|bhi\h{i}}\\
   &&&\\
@@ -1311,8 +1311,8 @@ will be free from non-grace.\\
   &&&= wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&tra&atra = {\dn atra} = here\\
   &&&\note{\adverb, \noun, \indeclinable}\\
@@ -1387,8 +1387,8 @@ hard to understand.\\
   &{\dn hyapi}&hya|&hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn boddhavya.m}&bod|dha|vya.m&boddhavyam\\
   &&&= {\dn boddhavyam}\\
@@ -1688,8 +1688,8 @@ not do any (thing).\\
   &&&= busy with; doing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1865,8 +1865,8 @@ selfish, (is) the same in successful (things) and non-successful
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&pi&api = {\dn api} = api\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2548,8 +2548,8 @@ the eternal God.\\
   &&&\note{\adverb, \male, \plural}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &&'pye|&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pye|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&te&ete = {\dn ete} = these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
@@ -3020,8 +3020,8 @@ sin---(then), using all-knowledge-swimming, really, you will cross
 sin.\\
 
 \begin{tabular}{llll}
-  1a&{\dn api}&a|pi&also\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn api}&a|pi&\api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn cedasi}&ce|da|&cet = {\dn cet} = if\\
   &&&\note{\conjunction, \indeclinable}\\

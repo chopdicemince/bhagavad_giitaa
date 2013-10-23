@@ -3158,8 +3158,8 @@ sages, (I am) the sage U"sanaa.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn muni.h} = muni.h}\\
   &&&\\
-  &&pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
@@ -3284,8 +3284,8 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&{\dn sarva}\\
   &&&= each; all\\

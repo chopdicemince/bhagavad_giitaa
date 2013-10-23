@@ -173,8 +173,8 @@ the greatness (of you) (is) non-changeable.\\
   &&&= greatness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn caavyayam}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -2746,8 +2746,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \firstperson, \plural, \instrumentalcase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn yodhamukhyai.h}&yo|dha|&yodha.h\\
   &&&= {\dn yodha.h}\\
@@ -3049,8 +3049,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn vaktraa.ni}&vak|traa|.ni&visages (faces); mouths; muzzles\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -3394,8 +3394,8 @@ main syllables, instead of the usual eight.)\\
   2a&{\dn .rte.api}&.r|te|&except\\
   &&&\note{\preposition, \conjunction, \indeclinable}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -3614,8 +3614,8 @@ instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn yodhaviiraan}&yo|dha|&yodha.h\\
   &&&= {\dn yodha.h}\\
@@ -3969,8 +3969,8 @@ instead of the usual eight.)\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn brahman} = brahman}\\
   &&&\\
-  &&'pyaa|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pyaa|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&di|kar|tre&aadikartre\\
   &&&= {\dn aadikartre}\\
@@ -4271,8 +4271,8 @@ instead of the usual eight.)\\
   &&&= again\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn namo}&na|mo&nama.h\\
   &&&= {\dn nama.h}\\
@@ -4524,8 +4524,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn vaapi}&vaa|&{\dn vaa} = ``yes/no question''\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4615,8 +4615,8 @@ instead of the usual eight.)\\
   &&'tha|vaa|&or\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -4782,8 +4782,8 @@ instead of the usual eight.)\\
   &&&= group of three things\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&'pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\note{\prefix}\\
@@ -5855,8 +5855,8 @@ sight-desirous.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
-  &{\dn apyasya}&a|pya|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn apyasya}&a|pya|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \neuter, \genitivecase}\\

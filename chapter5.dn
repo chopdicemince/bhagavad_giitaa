@@ -315,8 +315,8 @@ fruit.\\
   2a&{\dn ekamapyaasthita.h}&e|ka|ma|&ekam = {\dn ekam} = one\\
   &&&\note{\numberr, \neuter}\\
   &&&\\
-  &&pyaa|&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pyaa|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&sthi|ta\h{a}&aasthita.h\\
   &&&= {\dn aasthita.h}\\
@@ -383,8 +383,8 @@ one thing---he sees.\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn gamyate}&ga|mya|te&(?) (he/she/it) is gone; is caused to go\\
   &&&\note{\verbb, (?)}\\
@@ -603,8 +603,8 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&na|pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na|pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -753,8 +753,8 @@ eyes, also---senses---they are undergoing in sense-meanings.''\\
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn nimi.s} = nimi.s}\\
   &&&\\
-  &&na|pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na|pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -911,8 +911,8 @@ using senses, also, followers do action, having abandoned attachment,
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

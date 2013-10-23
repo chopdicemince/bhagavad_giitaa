@@ -355,8 +355,8 @@ about) action using nature-born things, using the gu.nas.\\
   &&&= for an instant\\
   &&&\note{\adverb}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -656,8 +656,8 @@ non-action.\\
   &&&= journey; going; way\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1682,8 +1682,8 @@ mankind, you deserve to act.\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2486,8 +2486,8 @@ free, also, from action.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn karmabhi.h}&kar|ma|bhi\h{i}&(?)\\
   &&&\note{similar:}\\
@@ -2619,8 +2619,8 @@ do?\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2871,8 +2871,8 @@ if from force, commanded?\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
   &&&\note{similar: \noun, \female, {\dn icchaa} = icchaa}\\
   &&&\\
-  &&na|pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \conjunction, \indeclinable}\\
+  &&na|pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn vaar.s.neya}&vaar|.s.ne|ya&O descendant of V.r.s.ni\\
   &&&= O K.r.s.na\\

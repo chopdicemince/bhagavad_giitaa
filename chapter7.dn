@@ -234,8 +234,8 @@ of people who try, of people successful, any knows me truthfully.\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from (?)}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn siddhaanaa.m}&sid|dhaa|naa.m&siddhaanaam\\
   &&&= {\dn siddhaanaam}\\
@@ -2013,8 +2013,8 @@ deities. (My) devotees go (to) me, also.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2580,8 +2580,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\

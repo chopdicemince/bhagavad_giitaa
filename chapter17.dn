@@ -595,8 +595,8 @@ difference.\\
   &&stva|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn sarvasya}&sar|va|sya&of each; all\\
   &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
@@ -904,8 +904,8 @@ what---remaining, also, and non-pure.\\
   &&&= impure; remaining; rejected\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn caamedhya.m}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1050,8 +1050,8 @@ passion.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn artha.h} = artha.h}\\
   &&&\\
-  &&pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\

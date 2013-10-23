@@ -2144,8 +2144,8 @@ really, in the two armies, also.\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
-  &&ra|pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ra|pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2791,8 +2791,8 @@ Madhu killing (O K.r.s.na).\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn ghna} = ghna = killing}\\
   &&&\\
-  &&'pi&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'pi&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn madhusuudana}&ma|dhu|&{\dn madhu}\\
   &&&= honey\\
@@ -2815,8 +2815,8 @@ now? For the sake of earth? (In) killing the sons of Dhr.taraa.s.tra,
 what pleasure (is there) for us, perhaps, O K.r.s.na?\\
 
 \begin{tabular}{llll}
-  1a&{\dn api}&a|pi&also\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn api}&a|pi&\api\\
+  &&&\noteapi\\
   &&&\\
   &{\dn trailokyaraajyasya}&trai|lo|kya&trailokyam\\
   &&&= {\dn trailokyam}\\
@@ -3025,8 +3025,8 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&&= if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&pye|&api = {\dn api} = also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&pye|&api = {\dn api} = \api\\
+  &&&\noteapi\\
   &&&\\
   &&te&ete\\
   &&&= {\dn ete}\\
