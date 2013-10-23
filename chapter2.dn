@@ -4124,8 +4124,8 @@ non-success. This equanimity is called ``yoga.''\\
 \begin{tabular}{llll}
   1a&{\dn yogastha.h}&yo|ga|&yoga.h\\
   &&&= {\dn yoga.h}\\
-  &&&= union; endeavor; job\\
-  &&&\note{\noun, \male}\\
+  &&&= \yogaH\\
+  &&&\noteyogaH\\
   &&&\\
   &&sta\h{a}&devoted to;\\
   &&&engaged in;\\
@@ -4182,8 +4182,8 @@ non-success. This equanimity is called ``yoga.''\\
   &&&\\
   &{\dn yoga}&yo|ga&yoga.h\\
   &&&= {\dn yoga.h}\\
-  &&&= union; endeavor; job\\
-  &&&\note{\noun, \male}\\
+  &&&= \yogaH\\
+  &&&\noteyogaH\\
   &&&\\
   &{\dn ucyate}&u|cya|te&is said; is called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -4328,8 +4328,8 @@ action, and skill.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yoga.h}&yo|ga\h{a}&work\\
-  &&&\note{\noun, \male}\\
+  2b&{\dn yoga.h}&yo|ga\h{a}&\yogaH\\
+  &&&\noteyogaH\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&``action'' (?)\\
   &&&\note{from: \noun, \neuter: {\dn karmam} = karmam = action}\\
