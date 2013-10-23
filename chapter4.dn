@@ -215,8 +215,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sakhaa}&sa|khaa&sakhaa.h\\
@@ -358,9 +358,8 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\note{\adjective, \noun, \pronoun, \neuter, \plural}\\
   &&&\note{from {\dn bahu} = bahu}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vyatiitaani}&vya|ti|taa|ni&passed; gone; abandoned\\
@@ -675,9 +674,8 @@ goes toward me, O Arjuna.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn divyameva.m}&di|vya|&divyam\\
@@ -1128,8 +1126,8 @@ says one who knows me. He does not suffer in action.\\
   1b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn karmaphale}&kar|ma|&karmam\\

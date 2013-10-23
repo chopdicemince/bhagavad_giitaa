@@ -324,9 +324,8 @@ ego---thus, this is my primal form, broken eight-fold.\\
   &&ya.m&iyam = {\dn iyam} = this\\
   &&&\note{\pronoun, \female}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -387,9 +386,8 @@ Arjuna). By this (is done) the world.\\
   &{\dn viddhi}&vid|dhi&viddhi.h = {\dn viddhi.h} = piercing; knowing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paraam}&pa|raam&paramount; other; different\\
@@ -1516,9 +1514,8 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn matam}&ma|tam&vote; opinion\\

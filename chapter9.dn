@@ -397,9 +397,8 @@ being-bearing and not being-standing. My self is the being-creator.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s.}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yogamai"svaram}&yo|ga|mai|&yogam\\
@@ -2309,9 +2308,8 @@ pure-self.\\
   1b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
   &&&\note{\pronoun, \male}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&using/by faith; trust\\
@@ -2572,9 +2570,8 @@ also, I (am) in them.\\
   1b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dev.syo.asti}&dev|.syo|&dev.sya.h\\
@@ -2784,9 +2781,8 @@ son of Kuntii (O Arjuna), assert (that) my devotee does not die.\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhakta.h}&bhak|ta\h{a}&devotee\\

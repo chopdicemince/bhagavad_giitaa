@@ -499,9 +499,8 @@ Arjuna), hear (about) the demon (from) me.\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
@@ -1137,9 +1136,8 @@ is. This, also, for me, will be, again, money.\\
   &&pi&api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline

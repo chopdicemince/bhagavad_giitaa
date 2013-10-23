@@ -116,10 +116,9 @@ that one resolute thing by which I may get confidence. (?)\\
   &&&\\
   &&va&iva = {\dn iva} = as; like; as if\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase,}\\
-  &&&\note{\genitivecase}\\
-  &&&\note{from {\dn aha.m} = aha.m}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1798,8 +1797,8 @@ to action.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from: {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paarthaasti}&par|thaas|&paartha\\
@@ -2428,9 +2427,8 @@ free, also, from action.\\
   &&&\note{\pronoun, \male, \plural}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase,}\\
-  &&&\note{\genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn matamida.m}&ma|ta|mi|&matam\\
@@ -2533,9 +2531,9 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &&&= (?) (they) do\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\noun, \firstperson, \dativecase,}\\
-  &&&\note{\genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
+  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn matam}&ma|tam&vote; opinion; wish\\
   &&&\note{\noun, \neuter}\\

@@ -380,9 +380,8 @@ me.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn samaasa.h} = samaasa.h}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\

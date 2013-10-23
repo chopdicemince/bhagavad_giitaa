@@ -303,9 +303,8 @@ Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
   &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
   &&&\note{from {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tatra}&ta|tra&there\\
@@ -504,9 +503,8 @@ Arjuna)---sure, ultimate opinion.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
@@ -1089,9 +1087,8 @@ all actions.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn nibhudh} = nibudh}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -3088,9 +3085,8 @@ wherever, and attains a distress-end.\\
   &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bharatar.sabha}&bha|ra|tar|&bharata\\
@@ -4364,9 +4360,8 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn nibudh} = nibudh}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -5530,9 +5525,8 @@ you.\\
   &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
@@ -5555,9 +5549,8 @@ you.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn d.r.dhamiti}&d.r|.dha|mi|&d.r.dham\\
@@ -5679,9 +5672,8 @@ promise(d) and a loved (one) of me.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -5981,9 +5973,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &&&= any\\
   &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
   &&&\\
-  &&me&{\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&me&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn priyak.rttama.h}&pri|ya|&{\dn priya}\\
@@ -6010,9 +6001,8 @@ And not, from him, in men, (is) any, for me, loved-acting-most \dots
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tasmaadanya.h}&ta|smaa|&tasmaat\\
@@ -6123,9 +6113,8 @@ me.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mati.h}&ma|ti\h{i}&mind; opinion\\
@@ -6727,9 +6716,8 @@ Dh.rtaraa.s.tra). And (I) am very happy, again (and) again.\\
   &&&= wonder; bewilderment; arrogance\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &\multicolumn{3}{l}{\dn mahaanraajanh.r.syaami}\\

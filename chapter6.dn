@@ -2542,8 +2542,8 @@ me).\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn na}&na&\na\\
@@ -3004,9 +3004,8 @@ advantage.\\
   &&&\\
   &{\dn iti}&i|ti&``end of quote''\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mati.h}&ma|ti\h{i}&opinion\\
@@ -3240,10 +3239,8 @@ you. (That is: There is no cutter like you).\\
   1a&{\dn etanme}&e|tan|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
   &&&\\
-  &&me&{\dn me}\\
-  &&&= for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&me&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sa.m"saya.m}&sa.m|"sa|ya.m&sa.m"sayam\\
@@ -3970,9 +3967,8 @@ me.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yuktatamo}&yuk|ta|&yoked\\

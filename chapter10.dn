@@ -40,9 +40,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
@@ -101,9 +100,8 @@ the beginning, surely, of deities and great-sages, altogether.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vidu.h}&vi|du\h{u}&wise\\
@@ -1130,9 +1128,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn bruu} = bruu}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -1588,9 +1585,8 @@ Using detail of (your) self, O being-disturbance (O K.r.s.na), say
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn me.am.rtam}&me|&{\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me.am.rtam}&me|&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&'m.r|tam&am.rtam\\
@@ -1687,9 +1683,8 @@ of me is no end.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn vistara.h} = vistara.h}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

@@ -693,9 +693,8 @@ has eleven main syllables per line.)\\
   &{\dn tanme}&tan|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&me&{\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&me&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

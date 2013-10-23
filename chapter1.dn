@@ -2333,9 +2333,8 @@ pimples) is being born. The (my) bow slips from the (my) hand. And the
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn "sariiram} = "sariiram}\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2427,9 +2426,8 @@ I see inverse reasons, O K.r.s.na.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn me}&me&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me}&me&\me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
@@ -3747,9 +3745,8 @@ for me, is more comfortable.\\
   2b&&stan|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&me&{\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&me&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn k.sematara.m}&k.se|ma|&comfortable; secure\\
