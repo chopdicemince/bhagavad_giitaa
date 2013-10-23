@@ -751,8 +751,8 @@ has eleven main syllables per line.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn prapa"s} = prapa"s}\\
   &&&\\
-  &{\dn mamaapanudyaad}&ma|maa|&mama = {\dn mama} = my\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mamaapanudyaad}&ma|maa|&mama = {\dn mama} = \mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&pa|nu|dyaad&apanudyaat\\

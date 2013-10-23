@@ -1907,8 +1907,8 @@ Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  2a&{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vartmaanuvartante}&vart|maa|&vartman\\

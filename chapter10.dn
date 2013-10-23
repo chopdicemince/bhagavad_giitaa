@@ -567,8 +567,8 @@ no-choice, using yoking, is yoked here, no doubt.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  1b&{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
@@ -3385,8 +3385,8 @@ by me (is) a (brief description) of the power vastness (of me).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn divyaanaa.m}&di|vyaa|naa.m&divyaanaam\\
@@ -3520,8 +3520,8 @@ brightness-part-birth (of that quality from me).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  2b&{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tejo.a.m"sasambhavam}&te|jo'.m|&teja.h\\

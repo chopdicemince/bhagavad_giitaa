@@ -92,8 +92,8 @@ eight.)\\
   &&&= gone; dead\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
@@ -609,8 +609,8 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  2a&{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dehe}&de|he&at/in/on a/the body\\
@@ -5484,8 +5484,8 @@ instead of the usual eight.)\\
   &&&= like this\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|me|&mama = {\dn mama} = of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&ma|me|&mama = {\dn mama} = \mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&dam&idam = {\dn idam} = this\\
@@ -5842,8 +5842,8 @@ sight-desirous.\\
   &{\dn yanmama}&yan|&yat = {\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&ma|ma&{\dn mama} = of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&ma|ma&{\dn mama} = \mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

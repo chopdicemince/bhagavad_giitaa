@@ -567,8 +567,8 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn naayaka.h} = naayaka.h}\\
   &&&\\
-  &{\dn mama}&ma|ma&my\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sainyasya}&sai|nya|sya&of a/the solider\\
@@ -2288,8 +2288,8 @@ arms and legs sink, and my mouth dries up.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sad} = sad}\\
   &&&\\
-  &{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn gaatraa.ni}&gaa|traa|.ni&bodies; arms and legs\\

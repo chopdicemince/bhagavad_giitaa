@@ -1161,8 +1161,8 @@ attain) this magic.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  1b&{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn maayaa}&maa|yaa&magic; illusion; deception\\
@@ -1466,8 +1466,8 @@ knowledge, and he (is) a friend of me.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&friend; lover\\
@@ -2088,8 +2088,8 @@ not-changeable, and ultimate.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mamaavyayamanuttamam}&ma|maa|&mama = {\dn mama} = of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  2b&{\dn mamaavyayamanuttamam}&ma|maa|&mama = {\dn mama} = \mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&vya|ya|ma|&avyayam\\

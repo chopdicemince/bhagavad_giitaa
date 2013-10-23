@@ -6834,8 +6834,8 @@ me.\\
   &&&= mind; opinion\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&ma|ma&{\dn mama} = of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&ma|ma&{\dn mama} = \mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage

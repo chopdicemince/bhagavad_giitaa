@@ -1928,8 +1928,8 @@ my paraount home.\\
   &&&= paramount\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn mama}&ma|ma&of me (my)\\
-  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &{\dn mama}&ma|ma&\mama\\
+  &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
