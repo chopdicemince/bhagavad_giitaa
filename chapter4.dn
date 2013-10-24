@@ -1345,8 +1345,8 @@ will be free from non-grace.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yajj~naatvaa}&yaj|&(?) yat = {\dn yat} = one\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&j\~{}naat|vaa&{\dn j~naatvaa}\\
@@ -2932,8 +2932,8 @@ person), you will see (that) all living things are the
 self---therefore, in me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = (?) one\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&j\~{}naat|vaa&{\dn j~naatvaa}\\

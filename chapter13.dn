@@ -272,8 +272,8 @@ has) that (has) knowledge, (in) the opinion of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yattajj~naana.m}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yattajj~naana.m}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&taj|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -311,8 +311,8 @@ me.\\
   &&k.se|tra.m&k.setram = {\dn k.setram} = place\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn yacca}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yacca}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -328,8 +328,8 @@ me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yadvikaari}&ya|dvi|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\noun, \neuter}\\
+  1b&{\dn yadvikaari}&ya|dvi|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&kaa|ri&vikaari\\
   &&&= {\dn viikaari}\\
@@ -343,8 +343,8 @@ me.\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -358,8 +358,8 @@ me.\\
   &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn yatprabhaava"sca}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatprabhaava"sca}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&pra|bhaa|va"s|&prabhaava.h\\
   &&&= {\dn prabhaava.h}\\
@@ -1052,8 +1052,8 @@ here in another way.\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn yadato.anyathaa}&ya|da|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yadato.anyathaa}&ya|da|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&to|&ata.h = {\dn ata.h} = from here\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1077,8 +1077,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &\multicolumn{3}{l}{\dn yattatpravak.syaami}\\
   &&&\\
-  &&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
@@ -1093,8 +1093,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   1b&\multicolumn{3}{l}{\dn yajj~naatvaam.rtama"snute}\\
   &&&\\
-  &&yaj|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&j\~{}naa|tvaa|&{\dn j~naatvaa} = having known\\
   &&&\note{\verbb, \perfectparticiple}\\

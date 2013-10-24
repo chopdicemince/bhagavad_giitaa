@@ -618,8 +618,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn yatkarma}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatkarma}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&kar|ma&karmam = {\dn karmam} = \karmam\\
   &&&\notekarmam\\
@@ -717,8 +717,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn yatkarma}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatkarma}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -1239,8 +1239,8 @@ opposite, yes/no---these five of him \dots (?) \dots\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn mana.h} = mana.h = mind}\\
   &&&\\
-  &&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1751,8 +1751,8 @@ passion.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn yajj~naana.m}&yaj|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yajj~naana.m}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1831,8 +1831,8 @@ cause, non-truth-profit-full, and little---that (knowledge) (is)
 ignorance, (it is) said.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yattu}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yattu}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tu&{\dn tu} = \tu\\
   &&&\notetu\\
@@ -1987,8 +1987,8 @@ good.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn yattatsaattvikamucyate}\\
   &&&\\
-  &&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
@@ -2015,8 +2015,8 @@ But what desire-desire [sic] action, using pride, yes/no, again (is
 done with) much effort---that (action) is called passion.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yattu}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yattu}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tu&{\dn tu} = \tu\\
   &&&\notetu\\
@@ -2156,8 +2156,8 @@ action (begins). What---that (action) is called ignorance.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn yattattaamasamucyate}\\
   &&&\\
-  &&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
@@ -3149,8 +3149,8 @@ That which, at the start, (is) venom-like, (but) in (after) change,
 said---self-intelligence-peace-born.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yattadagre}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yattadagre}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -3260,8 +3260,8 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&dyat|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&&dyat|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -3328,8 +3328,8 @@ sleep-laziness-madness-coming-forth---that (is) said (to be)
 ignorance.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadagre}&ya|da|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yadagre}&ya|da|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&gre&agre\\
   &&&= {\dn agre}\\
@@ -3479,8 +3479,8 @@ ignorance, passion).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yadebhi.h}&ya|de|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yadebhi.h}&ya|de|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&bhi\h{i}&ebhi.h\\
   &&&= {\dn ebhi.h}\\
@@ -3996,7 +3996,7 @@ attains success.\\
   &&&\\
   1b&{\dn yena}&ye|na&(?) using/by one/whom/what\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
-  &&&\note{from {\dn yat} = yat = one/who/what}\\
+  &&&\note{from {\dn yat} = yat}\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\
@@ -5075,8 +5075,8 @@ mistakenly. This vocation of you---the primal form will do you.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yadaha"nkaaramaa"sritya}\\
   &&&\\
-  &&ya|da|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&ya|da|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ha"n|kaa|ra|maa|&aha"nkaaram\\
   &&&= {\dn aha"nkaaram}\\
@@ -5207,8 +5207,8 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&&\\
   &\multicolumn{3}{l}{\dn yanmohaatkari.syasyava"so.api}\\
   &&&\\
-  &&yan|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yan|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&mo|haat|&{\dn mohaat}\\
   &&&= from a/the mistake; confusion; bewilderment\\

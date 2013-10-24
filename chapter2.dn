@@ -667,8 +667,8 @@ has eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yacchreya.h}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&chre|ya\h{a}&"sreya.h\\
   &&&= {\dn "sreya.h}\\
@@ -766,8 +766,8 @@ has eleven main syllables per line.)\\
 \begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn yacchokamuccho.sa.namindriyaa.naam}\\
   &&&\\
-  &&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&cho|ka|muc|&"sokam\\
   &&&= {\dn "sokam}\\
@@ -5568,7 +5568,8 @@ carries off knowledge, like wind and a boat on water.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yanmano.anuvidhiiyate}&yan|&yat = {\dn yat} = which\\
+  1b&{\dn yanmano.anuvidhiiyate}&yan|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ma|no|&mana.h\\
   &&&= {\dn mana.h}\\

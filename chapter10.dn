@@ -55,8 +55,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yatte.aha.m}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yatte.aha.m}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&te|&{\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -1165,8 +1165,8 @@ visible form of you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yanmaa.m}&yan|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&{\dn yanmaa.m}&yan|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -3278,8 +3278,8 @@ And also, I (am) that one seed of all beings, O Arjuna. That is not a
 being---moving (or) not-moving---who (is) without using me, perhaps.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yaccaapi}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yaccaapi}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3332,8 +3332,8 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &{\dn vinaa}&vi|naa&without\\
   &&&\note{\adverb, \preposition, \indeclinable}\\
   &&&\\
-  &{\dn yatsyaanmayaa}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatsyaanmayaa}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&syaan|&syaat = {\dn syaat} = perhaps\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3458,11 +3458,11 @@ strength, really, yes/no---``that-that,'' really, you---know the
 brightness-part-birth (of that quality from me).\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadyadvibhuutimatsattva.m}&ya|dya|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yadyadvibhuutimatsattva.m}&ya|dya|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
-  &&dvi|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&dvi|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&bhuu|ti|&vibhuuti.h\\
   &&&= {\dn vibhuuti.h}\\

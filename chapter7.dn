@@ -150,8 +150,8 @@ be known.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&j\~{}naat|vaa&{\dn j~naatvaa}\\
   &&&= having known\\
@@ -423,7 +423,7 @@ Arjuna). By this (is done) the world.\\
   &&&\\
   2b&{\dn yayeda.m}&ya|ye|&yayaa = {\dn yayaa} = (?) using/by one/whom/what\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
-  &&&\note{from {\dn yat} = yat = one/who/what}\\
+  &&&\note{from {\dn yat} = yat}\\
   &&&\\
   &&da.m&idam = {\dn idam} = this\\
   &&&\note{\pronoun, \neuter}\\

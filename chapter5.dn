@@ -53,8 +53,8 @@ one in these two---confidence---that is for me---say, definitely.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yacchreya}&yac|&yat = {\dn yat} = that/which\\
-  &&&\note{part of speech?}\\
+  2a&{\dn yacchreya}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&chre|ya&"sreya.h\\
   &&&= {\dn "sreya.h}\\
@@ -356,8 +356,8 @@ using unions. And one who sees a thing of philosophy and a union as
 one thing---he sees.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yatsaa"nkhyai.h}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yatsaa"nkhyai.h}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&saa"n|khyai\h{i}&{\dn saa"nkhyai.h}\\
   &&&= using/by things of philosophy\\
@@ -1747,8 +1747,8 @@ non-decaying happiness.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn yatsukham}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatsukham}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&su|kham&{\dn sukham} = happiness\\
   &&&\note{\noun, \neuter}\\

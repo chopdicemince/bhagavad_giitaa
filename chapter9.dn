@@ -87,8 +87,8 @@ displeasure---associated with science and art, which, having known
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yajj~naatvaa}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&j\~{}naat|vaa&{\dn j~naatvaa}\\
   &&&= having known\\
@@ -2374,8 +2374,8 @@ you give, whatever religious austerities you do, O son of Kuntii (O
 Arjuna), that (is) a giving (to) me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yatkaro.si}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yatkaro.si}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ka|ro|.si&{\dn karo.si}\\
@@ -2383,8 +2383,8 @@ Arjuna), that (is) a giving (to) me.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn yada"snaasi}&ya|da|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yada"snaasi}&ya|da|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&"snaa|si&a"snaasi\\
@@ -2395,8 +2395,8 @@ Arjuna), that (is) a giving (to) me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yajjuho.si}&yaj|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&{\dn yajjuho.si}&yaj|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ju|ho|.si&{\dn juho.si}\\
@@ -2408,15 +2408,15 @@ Arjuna), that (is) a giving (to) me.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn daa} = daa}\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yattapasyasi}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yattapasyasi}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ta|pa|sya|si&{\dn tapasyasi}\\

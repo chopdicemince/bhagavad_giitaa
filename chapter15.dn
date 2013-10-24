@@ -606,8 +606,8 @@ does not return.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yadgatvaa}&yad|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yadgatvaa}&yad|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ga|tvaa&{\dn gatvaa}\\
   &&&= having gone\\
@@ -743,8 +743,8 @@ God---having taken these (things), (the being) travels with
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn yadavaapnoti}&ya|da|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yadavaapnoti}&ya|da|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&vaap|no|ti&avaapnoti\\
   &&&= {\dn avaapnoti}\\
@@ -756,8 +756,8 @@ God---having taken these (things), (the being) travels with
   &&&\\
   1b&\multicolumn{3}{l}{\dn yaccaapyutkraamatii"svara.h}\\
   &&&\\
-  &&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1088,8 +1088,8 @@ What sun-gone fire shines on all the world? What in the moon? And what
 in a fire? (Know) that fire of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadaadityagata.m}&ya|daa|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yadaadityagata.m}&ya|daa|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&di|tya|&aaditya.h\\
   &&&= {\dn aaditya.h}\\
@@ -1128,16 +1128,16 @@ in a fire? (Know) that fire of me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yaccandramasi}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yaccandramasi}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&can|dra|ma|si&{\dn candramasi}\\
   &&&= (?) at/in/on a/the moon\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn candramas} = candramas}\\
   &&&\\
-  &{\dn yaccaagnau}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yaccaagnau}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&caag|&ca = {\dn ca} = \ca\\
   &&&\noteca\\

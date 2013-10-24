@@ -56,8 +56,8 @@ eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yattvayokta.m}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2a&{\dn yattvayokta.m}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tva|yok|&tvayaa = {\dn tvayaa} = using/by you\\
   &&&\note{\pronoun, \secondperson, \singular, \instrumentalcase}\\
@@ -623,8 +623,8 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yaccaanyaddra.s.tumicchasi}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yaccaanyaddra.s.tumicchasi}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
@@ -4039,8 +4039,8 @@ instead of the usual eight.)\\
   &&&= paramount; another; other; different; strange\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4451,8 +4451,8 @@ instead of the usual eight.)\\
   &&&= badly persistently; importunately\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn yadukta.m}&ya|duk|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yadukta.m}&ya|duk|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ta.m&uktam\\
   &&&= {\dn uktam}\\
@@ -4548,8 +4548,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yaccaavahaasaarthamasatk.rto.asi}\\
   &&&\\
-  &&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -5266,8 +5266,8 @@ main syllables, instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn yanme}&yan|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn yanme}&yan|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&me&{\dn me} = \me\\
   &&&\noteme\\
@@ -5841,8 +5841,8 @@ sight-desirous.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn yanmama}&yan|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yanmama}&yan|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ma|ma&{\dn mama} = \mama\\
   &&&\notemama\\

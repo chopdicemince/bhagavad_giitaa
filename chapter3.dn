@@ -1717,10 +1717,11 @@ Whatever a king does---whatever, really---another man, he that does
 proof, or that world, follows.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadyadaacarati}&ya|dya|daa|&{\dn yat yat}\\
-  &&&= yat yat\\
-  &&&= that that; whatever\\
-  &&&\note{\pronoun, \adjective, \indeclinable}\\
+  1a&{\dn yadyadaacarati}&ya|dya|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
+  &&&\\
+  &&daa|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&ca|ra|ti&aacarati\\
   &&&= {\dn aacarati}\\
@@ -1757,8 +1758,8 @@ proof, or that world, follows.\\
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn yatpramaa.na.m}&yat&yat = {\dn yat} = that/which\\
-  &&&\note{\pronoun, \adjective, \indeclinable}\\
+  &{\dn yatpramaa.na.m}&yat&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&pra|maa|.na.m&pramaa.nam\\
   &&&= {\dn pramaa.nam}\\

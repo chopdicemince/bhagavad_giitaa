@@ -270,8 +270,8 @@ is faithful with, really.\\
   2b&{\dn yo}&yo|&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn yacchraddha.h}&yac|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn yacchraddha.h}&yac|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&chrad|dha\h{a}&"sraddha.h\\
@@ -893,8 +893,8 @@ what---remaining, also, and non-pure.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1059,8 +1059,8 @@ passion.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1323,8 +1323,8 @@ austerity.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1578,8 +1578,8 @@ passion---trembling (and) non-eternal.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1649,8 +1649,8 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn yatpii.dayaa}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yatpii.dayaa}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1728,8 +1728,8 @@ person---that donation (is) remembered (as) good.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn yaddaana.m}&yad|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yaddaana.m}&yad|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&daa|na.m&daanam\\
   &&&= {\dn daanam}\\
@@ -1804,8 +1804,8 @@ results), yes/no, again, and reluctant---that donation (is) remembered
 (as) passion.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yattu}&yat|&{\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn yattu}&yat|&{\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&tu&{\dn tu} = \tu\\
   &&&\notetu\\
@@ -1899,8 +1899,8 @@ person, \dots (?) \dots non-true action, without respect---that
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn kaala.h} = kaala.h}\\
   &&&\\
-  &{\dn yaddaanamapaatrebhya"sca}&yad|&yat = {\dn yat} = (?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yaddaanamapaatrebhya"sca}&yad|&yat = {\dn yat} = \yat\\
+  &&&\noteyat\\
   &&&\\
   &&daa|na|&daanam\\
   &&&= {\dn daanam}\\
@@ -2451,8 +2451,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yat}&yat&(?) one/who/what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn yat}&yat&\yat\\
+  &&&\noteyat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
