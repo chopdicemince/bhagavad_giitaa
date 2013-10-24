@@ -177,8 +177,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &{\dn evaaya.m}&evaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
   &&&\notemayaa\\
@@ -2634,8 +2634,8 @@ another (world), O very good Kuru (O Arjuna)?\\
   1a&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn loko.astyayaj~nasya}&lo|ko|&loka.h = {\dn loka.h} = world; mankind; place\\
   &&&\note{\noun, \male}\\
@@ -3390,8 +3390,8 @@ next (world).\\
   2a&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn loko.astinaparo}&lo|ko|&loka.h\\
   &&&= {\dn loka.h}\\

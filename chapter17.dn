@@ -257,8 +257,8 @@ is faithful with, really.\\
   &&&= {\dn maya.h}\\
   &&&= (?)\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn puru.so}&pu|ru|s.o&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\

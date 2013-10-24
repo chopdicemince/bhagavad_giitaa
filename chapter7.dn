@@ -2154,8 +2154,8 @@ not-changeable.\\
   &&&= dumb; confused\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = I\\
-  &&&\note{\pronoun, \firstperson}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn naabhijaanaati}&naa|&na = {\dn na} = \na\\
   &&&\notena\\

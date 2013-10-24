@@ -1772,8 +1772,8 @@ he is still and does not move intrinsically.\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2729,8 +2729,8 @@ do not see (of) this. (I am) shaking and steadfast.\\
   1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn yogastvayaa}&yo|ga|stva|&yoga.h\\
   &&&= {\dn yoga.h}\\

@@ -2849,8 +2849,8 @@ if from force, commanded?\\
   &&&= suitable; begun; done\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
