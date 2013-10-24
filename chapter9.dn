@@ -2097,8 +2097,8 @@ fall.\\
   1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn sarvayaj~naanaa.m}&sar|va|&{\dn sarva}\\
   &&&= each; all\\
@@ -2712,8 +2712,8 @@ correctly---he (is) convinced, surely.\\
   &&&= convinced\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
   &&&\notesaH\\
@@ -2809,8 +2809,8 @@ caste---they, also, go (on) the paramount path.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn paartha}&paar|tha&O prince\\
   &&&= O Arjuna\\

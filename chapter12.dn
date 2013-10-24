@@ -467,8 +467,8 @@ attain a person/thing.\\
   &&&= visible; clear\\
   &&&\note{\adjective, \female}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn gatirdu.hkha.m}&ga|tir|&gati.h\\
   &&&= {\dn gati.h}\\
@@ -1035,8 +1035,8 @@ deep thought. Peace (is better) (than) abandonment, Afterwards,
   &&&= better; more\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &\multicolumn{3}{l}{\dn j~naanamabhyaasaajj~naanaaddhyaana.mvi"si.syate}\\
   &&&\\

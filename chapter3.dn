@@ -344,8 +344,8 @@ about) action using nature-born things, using the gu.nas.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hi}&hi&certainly\\
-  &&&\note{\adverb}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn ka"scitk.sa.namapi}&ka"s|cit|&{\dn ka"scit} = any\\
   &&&\note{\adjective, \pronoun, \adverb}\\
@@ -386,8 +386,8 @@ about) action using nature-born things, using the gu.nas.\\
   &&&\note{similar: \noun, \female, {\dn kaaryataa} = kaaryataa}\\
   &&&\note{= effect}\\
   &&&\\
-  &{\dn hyava"sa.h}&hya|&hi = {\dn hi} = certainly\\
-  &&&\note{\adverb}\\
+  &{\dn hyava"sa.h}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&va|"sa\h{a}&ava"sa.h\\
   &&&= {\dn ava"sa.h}\\
@@ -633,8 +633,8 @@ non-action.\\
   &&&= greater; bigger; stronger\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hyakarma.na.h}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyakarma.na.h}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&kar|ma|.na\h{a}&akarma.na.h\\
   &&&= {\dn akarma.na.h}\\
@@ -965,8 +965,8 @@ objects of enjoyment) is a thief, really.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
-  &&hi&{\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&hi&{\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn vo}&vo&va.h = {\dn va.h} = you; for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \plural,}\\
@@ -1591,8 +1591,8 @@ action, a man gets the highest (achievement).\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn sakta.h} = sakta.h}\\
   &&&\\
-  &{\dn hyaacarankarma}&hyaa|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyaacarankarma}&hyaa|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&ca|ran&aacaranam\\
   &&&= {\dn aacaranam}\\
@@ -1641,8 +1641,8 @@ mankind, you deserve to act.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&samsiddhim\\
   &&&= {\dn samsiddhim}\\
@@ -1877,8 +1877,8 @@ Arjuna).\\
   1a&{\dn yadi}&ya|di&if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn hyaha.m}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyaha.m}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
@@ -2724,8 +2724,8 @@ blocking.\\
   &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn hyasya}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyasya}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
@@ -3288,8 +3288,8 @@ knowledge-skill destruction.\\
   &&&\note{{\dn prajayati} = prajayati = (he/she/it) wins}\\
   &&&\note{root: {\dn praji} = praji}\\
   &&&\\
-  &{\dn hyena.m}&hye|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyena.m}&hye|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&na.m&enam = {\dn enam} = (?) this\\
   &&&\note{\pronoun, \neuter}\\

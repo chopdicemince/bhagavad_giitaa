@@ -155,8 +155,8 @@ not active.\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hyasannyastasa"nkalpo}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyasannyastasa"nkalpo}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&san|nya|sta|&asannyasta.h\\
   &&&= {\dn asannyasta.h}\\
@@ -280,8 +280,8 @@ having attained yoking.\\
   1a&{\dn yadaa}&ya|daa&when\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn nendriyaarthe.su}&nen|&na = {\dn na} = \na\\
   &&&\notena\\
@@ -413,8 +413,8 @@ self is an enemy of the self.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn hyaatmano}&hyaat|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyaatmano}&hyaat|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&ma|no&aatmana.h\\
   &&&= {\dn aatmana.h}\\
@@ -2237,8 +2237,8 @@ wicked.\\
   &&&= mind\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn hyena.m}&hye|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyena.m}&hye|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&na.m&enam = {\dn enam} = he/she/it/this/that\\
   &&&\note{\pronoun, \neuter}\\
@@ -2810,8 +2810,8 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn ca~ncala.h} = ca\~{}ncala.h}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
@@ -3293,8 +3293,8 @@ you. (That is: There is no cutter like you).\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hyupapadyate}&hyu|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyupapadyate}&hyu|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&pa|pa|dya|te&upapadyate\\
   &&&= {\dn upapadyate}\\
@@ -3363,8 +3363,8 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &\multicolumn{3}{l}{\dn kalyaa.nak.rtka"sciddurgati.m}\\
   &&&\\
@@ -3518,8 +3518,8 @@ similar to this (situation).\\
   2a&{\dn etaddhi}&e|tad|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
   &&&\\
-  &&dhi&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&dhi&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn durlabhatara.m}&dur|la|bha|&{\dn durlabha}\\
   &&&= rare; difficult to get\\
@@ -3657,8 +3657,8 @@ overcomes the word of (texts about) yoking.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn h.r} = h.r}\\
   &&&\\
-  &{\dn hyava"so.apisa.h}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyava"so.apisa.h}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&va|"so|&ava"sa\\
   &&&= {\dn ava"sa}\\

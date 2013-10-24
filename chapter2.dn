@@ -388,8 +388,8 @@ has eleven main syllables per line.)\\
   &&&\note{from: \perfectparticiple, {\dn hatvaa} = hatvaa}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn mahaanubhaavaan}&ma|haa|nu|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -687,8 +687,8 @@ has eleven main syllables per line.)\\
   &&&\note{{\dn bruute} = bruute = (he/she/it) says}\\
   &&&\note{root: {\dn bruu} = bruu}\\
   &&&\\
-  &&hi&{\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&hi&{\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn tanme}&tan|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -744,8 +744,8 @@ has eleven main syllables per line.)\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn prapa"syaami}&pra|pa|"syaa|mi&(I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -1393,8 +1393,8 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2466,7 +2466,8 @@ to lament.\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn jaatam} = jaatam}\\
   &&&\\
-  &{\dn hi}&hi&certainly\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn dhruvo}&dhru|vo&dhruva.h\\
   &&&= {\dn dhruva.h}\\
@@ -2861,7 +2862,8 @@ in the warrior caste, and the confidence is yours).\\
   &&&= (?) ``nature''\\
   &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h = nature}\\
   &&&\\
-  &&dhi&hi = {\dn hi} = certainly\\
+  &&dhi&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn yuddhaacchreyo.anyatk.satriyasya}&yud|dhaac|&yuddhaat\\
   &&&= {\dn yuddhaat}\\
@@ -3624,8 +3626,8 @@ infinite.\\
   &&&\note{from: \adjective, {\dn bahu} = bahu = many/much}\\
   &&&\note{from: \noun, \female, {\dn "saakhaa} = "saakhaa = branch}\\
   &&&\\
-  &{\dn hyanantaa"sca}&hya|&hi = {\dn hi} = certainly\\
-  &&&\note{\adverb}\\
+  &{\dn hyanantaa"sca}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&nan|taa"s|&anantaa.h\\
   &&&= {\dn anantaa.h}\\
@@ -4212,7 +4214,8 @@ for fruit (of their actions).\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn duuram} = duuram}\\
   &&&\\
-  &{\dn hyavara.m}&hya|&hi = {\dn hi} = certainly\\
+  &{\dn hyavara.m}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&va|ra.m&avara.m\\
   &&&= {\dn avara.m}\\
@@ -4372,7 +4375,8 @@ position of health.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn yukta.h} = yukta.h}\\
   &&&\\
-  &{\dn hi}&hi&certainly\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -5046,7 +5050,8 @@ person---the senses are agitating and they destroy violently.\\
   &&&= {\dn yatata.h}\\
   &&&= (?)\\
   &&&\\
-  &{\dn hyapi}&hya|&hi = {\dn hi} = certainly\\
+  &{\dn hyapi}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -5127,7 +5132,8 @@ complete.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn va"sa.h} = va"sa.h}\\
   &&&\\
-  &{\dn hi}&hi&certainly\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn yasyendriyaa.ni}&ya|syen|&yasya = {\dn yasya} = of one (?)\\
   &&&\note{\pronoun, \male, \genitivecase}\\
@@ -5440,7 +5446,8 @@ born---a happy mind, certainly. Knowledge is present around, fast.\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn cetas} = cetas}\\
   &&&\\
-  &{\dn hyaa"su}&hyaa|&hi = {\dn hi} = certainly\\
+  &{\dn hyaa"su}&hyaa|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&"su&aa"su\\
   &&&= {\dn aa"su}\\
@@ -5562,7 +5569,8 @@ carries off knowledge, like wind and a boat on water.\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
-  &{\dn hi}&hi&certainly\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn carataa.m}&ca|ra|taa.m&``not fixed; moving; wandering'' (?)\\
   % ----------------------------------------------------------------------------

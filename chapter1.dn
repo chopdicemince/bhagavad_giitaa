@@ -913,8 +913,8 @@ really, surely.\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2983,8 +2983,8 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3404,8 +3404,8 @@ lost-food-water-actions (lost offerings of food and water).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
-  &{\dn hye.saa.m}&hye|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hye.saa.m}&hye|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&.saa.m&e.saam = {\dn e.saam} = (?) of these; of them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\

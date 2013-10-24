@@ -1899,8 +1899,8 @@ births (in the different kinds of living things).\\
   &&&= standing; staying\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2512,8 +2512,8 @@ does not hurt the self, using the self. From there, (the person) goes
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&hi&{\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&hi&{\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere\\
   &&&\note{\adverb, \indeclinable}\\

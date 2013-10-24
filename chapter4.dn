@@ -237,8 +237,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&= mystery; secret\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn hyetaduttamam}&hye|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyetaduttamam}&hye|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&ta|dut|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
@@ -526,8 +526,8 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &{\dn yadaa}&ya|daa&when\\
   &&&\note{\adverb, \conjunction, \indeclinable}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn dharmasya}&dhar|ma|sya&of conduct; virtue; devotion; religion\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -972,8 +972,8 @@ action-born.\\
   &&&= quickly; immediately; directly\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn maanu.se}&maa|nu|.se&at/in/on manhood; humanity\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1385,8 +1385,8 @@ hard to understand.\\
   &&&\note{{\dn karmam} = karmam = \karmam}\\
   &&&\notekarmam\\
   &&&\\
-  &{\dn hyapi}&hya|&hi = {\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hyapi}&hya|&hi = {\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -3197,8 +3197,8 @@ knowledge. A self (with) action done, using time (over time), finds
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn j~naanena}&j\~{}naa|ne|na&using/by knowledge; awareness; consciousness\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\

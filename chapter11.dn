@@ -118,8 +118,8 @@ the greatness (of you) (is) non-changeable.\\
   &&&\note{\noun, \male, \dual}\\
   &&&\note{from {\dn apyaya.h} = apyaya.h}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn bhuutaanaa.m}&bhuu|taa|naa.m&bhuutaanaam\\
   &&&= {\dn bhuutaanaam}\\
@@ -1926,8 +1926,8 @@ instead of the usual eight.)\\
   &&&= inside\\
   &&&\note{\noun, \adjective, \adverb, \preposition, \indeclinable}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2036,8 +2036,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&{\dn amii}&a|mii&(?)\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
@@ -2464,8 +2464,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -3201,8 +3201,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn aakhyaa} = aakhyaa}\\
   &&&\\
-  &&hi&{\dn hi} = surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&hi&{\dn hi} = \hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\noteme\\
@@ -3294,8 +3294,8 @@ instead of the usual eight.)\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn hi}&hi&surely\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn hi}&hi&\hi\\
+  &&&\notehi\\
   &&&\\
   &{\dn prajaanaami}&pra|jaa|naa|mi&(I) know\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
