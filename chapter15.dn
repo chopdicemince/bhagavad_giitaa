@@ -62,7 +62,7 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&&\\
   &{\dn yasya}&ya|sya&(?) of one/whom/what\\
   &&&\note{\pronoun, \male, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn par.naani}&par|.naa|ni&leaves; wings\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -70,8 +70,8 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yasta.m}&ya|&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn yasta.m}&ya|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
@@ -1603,8 +1603,8 @@ non-changeable God.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2a&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn lokatrayamaavi"sya}&lo|ka|&loka.h\\
   &&&= {\dn loka.h}\\
@@ -1660,7 +1660,7 @@ knowledge---known (as) the ultimate man.\\
   &&yas|maat|&{\dn yasmaat}\\
   &&&= (?) from one/whom/what; because\\
   &&&\note{\pronoun, \male, \ablativecase, \indeclinable}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&k.sa|ra|ma|&k.saram = {\dn k.saram} = perishable\\
   &&&\note{\adjective, \neuter}\\
@@ -1742,8 +1742,8 @@ all-(knowing), serves me, using all-behavior, O son of Bharata (O
 Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn maamevamasammuu.dho}&maa|me|&maam = {\dn maam} = \maam\\
   &&&\notemaam\\

@@ -689,8 +689,8 @@ goes toward me, O Arjuna.\\
   1b&&me|va.m&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn yo}&yo&(?) ya.h = {\dn ya.h} = one\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows; regards; learns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1154,8 +1154,8 @@ says one who knows me. He does not suffer in action.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn yo.abhijaanaati}&yo|&(?) ya.h = {\dn ya.h} = one\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo.abhijaanaati}&yo|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&bhi|jaa|naa|ti&abhijaanaati\\
   &&&= {\dn abhijaanaati}\\
@@ -1475,8 +1475,8 @@ men. He is occupied with all actions done.\\
   &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn pa"syedakarma.ni}&pa|"sye|&pa"syet = {\dn pa"syet} = (he/she/it) may see\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
@@ -1499,8 +1499,8 @@ men. He is occupied with all actions done.\\
   &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1552,7 +1552,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
 \begin{tabular}{llll}
   1a&{\dn yasya}&ya|sya&(?) of one\\
   &&&\note{\pronoun, \male, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn sarve}&sar|ve&each; all\\
   &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\

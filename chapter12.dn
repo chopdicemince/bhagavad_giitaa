@@ -1250,8 +1250,8 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn madbhakta.h}&mad|&mat = {\dn mat} = \mat\\
   &&&\notemat\\
@@ -1288,7 +1288,7 @@ of me.\\
   &&&= {\dn yasmaat}\\
   &&&= (?) from one/whom/what\\
   &&&\note{\pronoun, \male, \ablativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&no|&na = {\dn na} = \na\\
   &&&\notena\\
@@ -1322,8 +1322,8 @@ of me.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1360,8 +1360,8 @@ of me.\\
   &&&= free (liberated)\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1443,8 +1443,8 @@ from-me-devotee. He (is) (a) favorite of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn madbhakta.h}&mad|&mat = {\dn mat} = \mat\\
   &&&\notemat\\
@@ -1475,8 +1475,8 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
 (is) a favorite of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -1537,8 +1537,8 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &&&\note{similar: \noun, \female, {\dn bhakti.h} = bhakti.h}\\
   &&&\note{= faith; devotion}\\
   &&&\\
-  &&nya\h{a}&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&nya\h{a}&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1678,7 +1678,7 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
   &&&\\
   &{\dn yena}&ye|na&(?) using/by one/whom/what\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn kenacit}&ke|na|cit&using/by a/the person/thing\\
   &&&\note{\adverb, \indeclinable}\\

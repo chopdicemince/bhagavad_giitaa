@@ -1755,11 +1755,11 @@ with a primal form---(the deities are) restrained by the self.\\
 him)---really, I distribute that non-shaking faith.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn yaa.m}&yaa.m&yaam = {\dn yaam} = (?) one/whom/what\\
   &&&\note{\pronoun, \female, \accusativecase}\\
@@ -2352,7 +2352,7 @@ cherish me (with) a firm vow.\\
 \begin{tabular}{llll}
   1a&{\dn ye.saa.m}&ye|.saa.m&(?) of ones/whom/what\\
   &&&\note{\pronoun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn tvantagata.m}&tvan|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
@@ -2474,7 +2474,7 @@ and all action.\\
   &&&\\
   &{\dn ye}&ye&(?) ones/who/what\\
   &&&\note{\pronoun, \male, \plural}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -560,7 +560,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 \begin{tabular}{llll}
   2a&{\dn yaaneva}&yaa|ne|&yaan = {\dn yaan} = (?) ones/whom/what\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1598,7 +1598,7 @@ thing---not any (person) is able to do (it).\\
   &&&\\
   1b&{\dn yena}&ye|na&(?) using/by one/whom/what; because\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\note{\indeclinable}\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
@@ -1747,8 +1747,8 @@ descendant of Bharata (O Arjuna).\\
 does not kill and is not killed.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn ena.m}&e|na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -1765,8 +1765,8 @@ does not kill and is not killed.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1b&{\dn ya"scaina.m}&ya"s|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1954,8 +1954,8 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn enamajamavyayam}&e|na|ma|&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -4823,8 +4823,8 @@ not hate attainable goodness and non-goodness---his knowledge is
 complete.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya.h}&ya\h{a}&one (?)\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sarvatraanabhisnehastattatpraapya}&sar|va|traa|&sarvatra\\
   &&&= {\dn sarvatra}\\
@@ -5875,8 +5875,8 @@ desiring possessions, humble---he learns peace.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
-  &&.h(a)&ya.h = {\dn ya.h} = one (?)\\
-  &&&\note{\pronoun, \male}\\
+  &&.h(a)&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sarvaanpumaa.m"scarati}&sar|vaan|&all; each\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\

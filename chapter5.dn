@@ -415,8 +415,8 @@ one thing---he sees.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -833,8 +833,8 @@ water (as a lotus leaf is not attached to water).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1385,8 +1385,8 @@ stains.\\
   &&&= enlightened; wise; intelligent\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ya|&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\noun, \male}\\
+  &&ya|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&sta|daat|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -1559,7 +1559,7 @@ are standing (with) God.\\
   &&&= {\dn ye.saam}\\
   &&&= (?) of ones; whom; what\\
   &&&\note{\pronoun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn saamye}&saa|mye&at/in/on sameness; equality; similarity\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1912,7 +1912,8 @@ joined. He is a happy man.\\
   &&va&{\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn so.dhu.m}&so|.dhu.m&so.dhum\\
   &&&= {\dn so.dhum}\\
@@ -1989,8 +1990,8 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yo.anta.hsukho.antaraaraamastathaantarjyotireva}\\
   &&&\\
-  &&yo'n|&ya.h = {\dn ya.h} = (?) one\\
-  &&&\note{\pronoun, \male}\\
+  &&yo'n|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&ta.h|&anta.h = {\dn anta.h} = in; inside\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2024,8 +2025,8 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2387,8 +2388,8 @@ freed, really---he.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sadaa}&sa|daa&always; eternally\\
   &&&\note{\adverb, \indeclinable}\\

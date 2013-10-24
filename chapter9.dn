@@ -2307,8 +2307,8 @@ pure-self.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1b&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\noteme\\

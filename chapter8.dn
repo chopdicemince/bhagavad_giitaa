@@ -391,8 +391,8 @@ not here.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2a&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn prayaati}&pra|yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -443,11 +443,11 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
 \begin{tabular}{llll}
   1a&{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/whom/what\\
   &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/who/what\\
   &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn vaapi}&vaa|&vaa = {\dn vaa} = ``yes/no question''\\
   &&&\\
@@ -756,8 +756,8 @@ syllables is eight.)\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn anusm.r} = anusm.r}\\
   &&&\\
-  &&dya\h{a}&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&dya\h{a}&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1185,8 +1185,8 @@ path.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2a&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn prayaati}&pra|yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1252,8 +1252,8 @@ person.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1b&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn maam}&maam&\maam\\
   &&&\notemaam\\
@@ -1817,8 +1817,8 @@ not vanish in all beings destroyed.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2a&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1903,7 +1903,7 @@ my paraount home.\\
 \begin{tabular}{llll}
   2a&{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/whom/what\\
   &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn praapya}&praa|pya&attainable\\
   &&&\note{\adjective}\\
@@ -1988,7 +1988,7 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
 \begin{tabular}{llll}
   2a&{\dn yasyaanta.h}&ya|syaan|&yasya = {\dn yasya} = (?) of one/whom/what\\
   &&&\note{\pronoun, \male, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&ta\h{a}&anta.h\\
   &&&= {\dn anta.h}\\
@@ -2007,7 +2007,7 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   &&&\\
   2b&{\dn yena}&ye|na&(?) using/by one/whom/what\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\

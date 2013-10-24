@@ -1800,8 +1800,8 @@ war (with) a preferred wish.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ya}&ya&(?) ya.h = {\dn ya.h} = one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn ete.atra}&e|te|&these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
@@ -2601,7 +2601,7 @@ happiness?\\
   &&&= {\dn ye.saam}\\
   &&&= (?) of ones/whom/what\\
   &&&\note{\pronoun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&the&arthe\\
   &&&= {\dn arthe}\\
@@ -3720,8 +3720,8 @@ for me, is more comfortable.\\
   &&&= hand\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ya\h{a}&{\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&ya\h{a}&{\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

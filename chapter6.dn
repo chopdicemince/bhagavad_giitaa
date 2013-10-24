@@ -51,8 +51,8 @@ not active.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\noun, \male}\\
+  &{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -480,7 +480,7 @@ an enemy.\\
   &&&\\
   1b&{\dn yenaatmaivaatmanaa}&ye|naat|&yena = {\dn yena} = (?) using/by one/whom/what\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&mai|&aatmaa = {\dn aatmaa} = self; soul\\
   &&&\note{\noun, \male}\\
@@ -1804,7 +1804,7 @@ teacher, also, the person does not swerve.\\
 \begin{tabular}{llll}
   1a&{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/whom/what\\
   &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn labdhvaa}&lab|dhvaa&having gotten\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -1847,7 +1847,7 @@ teacher, also, the person does not swerve.\\
   2a&{\dn yasminsthito}&yas|min|&{\dn yasmin}\\
   &&&= (?) at/in/on one/whom/what\\
   &&&\note{\pronoun, \male, \locativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h = one/who/what}\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&sthi|to&sthita.h\\
   &&&= {\dn sthita.h}\\
@@ -2478,8 +2478,8 @@ me).\\
 \begin{tabular}{llll}
   1a&{\dn yo}&yo&ya.h\\
   &&&= {\dn ya.h}\\
-  &&&= (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&&= \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -2572,8 +2572,8 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&= standing; staying; stopping; still\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -2661,8 +2661,8 @@ paramount.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn yo.arjuna}&yo'r|&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo.arjuna}&yo'r|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -2726,8 +2726,8 @@ do not see (of) this. (I am) shaking and steadfast.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -3943,8 +3943,8 @@ me.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\

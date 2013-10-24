@@ -156,8 +156,8 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\noteetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&dyo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &&dyo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -355,8 +355,8 @@ me.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn yatprabhaava"sca}&yat|&{\dn yat} = (?) one/who/what\\
   &&&\note{\pronoun, \neuter}\\
@@ -2079,8 +2079,8 @@ Whoever, really, knows man and the primal form, using
 strings---with---in all ways, present, also---he is not born again.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = (?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  1a&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn eva.m}&e|va.m&evam = {\dn evam} = thus; really\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2476,8 +2476,8 @@ sees.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2b&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2618,8 +2618,8 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ya.h}&ya\h{a}&(?) one/who/what\\
-  &&&\note{\pronoun, \male}\\
+  2a&{\dn ya.h}&ya\h{a}&\yaH\\
+  &&&\noteyaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
