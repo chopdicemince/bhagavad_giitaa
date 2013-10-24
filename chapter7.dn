@@ -133,8 +133,8 @@ be known.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&mi|da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&&mi|da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn vak.syaamya"se.sata.h}&va|k.syaa|mya|&vak.syaami\\
   &&&= {\dn vak.syaami}\\
@@ -425,8 +425,8 @@ Arjuna). By this (is done) the world.\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn yat} = yat}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn dhaaryate}&dhaar|ya|te&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
@@ -572,8 +572,8 @@ string.\\
   &&&= each; all\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn prota.m}&pro|ta.m&protam\\
   &&&= {\dn protam}\\
@@ -1083,8 +1083,8 @@ changeable.\\
   &&&= each; all\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn jagat}&ja|gat&world; meter with $4 \times 12 = 48$ syllables\\
   &&&\note{\noun, \neuter}\\

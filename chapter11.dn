@@ -1883,8 +1883,8 @@ instead of the usual eight.)\\
   &&&= universe\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = idam\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn tapantam}&ta|pan|tam&(?) tapanam\\
   &&&= {\dn tapanam}\\
@@ -1918,8 +1918,8 @@ instead of the usual eight.)\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn p.rthivii} = p.rthivii}\\
   &&&\\
-  &&da|man|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da|man|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&ta|ra.m&antaram\\
   &&&= {\dn antaram}\\
@@ -1988,8 +1988,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4504,8 +4504,8 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -5202,8 +5202,8 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5490,8 +5490,8 @@ instead of the usual eight.)\\
   &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&dam&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&dam&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
@@ -5537,8 +5537,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn prapa"sya}&pra|pa|"sya&prapa"syatu\\
@@ -5706,8 +5706,8 @@ gone.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn maanu.sa.m}&maa|nu|.sa.m&maanu.sam\\
@@ -5820,8 +5820,8 @@ sight-desirous.\\
   &&&= to be seen\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn ruupa.m}&ruu|pa.m&ruupam\\
   &&&= {\dn ruupam}\\

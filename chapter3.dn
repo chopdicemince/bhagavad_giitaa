@@ -2439,8 +2439,8 @@ free, also, from action.\\
   &&&= opinion; knowledge; wish\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn nityamanuti.s.thantimaanavaa.h}&ni|tya|&nityam\\
   &&&= {\dn nityam}\\
@@ -3071,8 +3071,8 @@ that (desire).\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&da|maa|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da|maa|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&v.r|tam&aav.rtam\\
   &&&= {\dn aav.rtam}\\

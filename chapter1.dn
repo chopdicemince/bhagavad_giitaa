@@ -820,8 +820,8 @@ Bhiima-protected.\\
   &{\dn tvidamete.saa.m}&tvi|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &&da|me|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&da|me|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&te|.saa.m&ete.saam = {\dn ete.saam} = of these/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
@@ -1597,8 +1597,8 @@ K.r.s.na, then said this group of words, O great master.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  3b&&mi|da|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \neuter}\\
+  3b&&mi|da|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&maa|ha|&aaha = {\dn aaha} = (?) said\\
   &&&\note{root: {\dn ah} = ah}\\
@@ -2220,10 +2220,8 @@ sad, he said this: \dots\\
   &&&\note{\verbb, \participle}\\
   &&&\note{root: {\dn vi.sad} = vi.sad}\\
   &&&\\
-  &&ni|da|ma|&idam\\
-  &&&= {\dn idam}\\
-  &&&= this\\
-  &&&\note{\pronoun, \neuter}\\
+  &&ni|da|ma|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&bra|viit&abraviit\\
   &&&= {\dn abraviit}\\
@@ -3139,7 +3137,7 @@ K.r.s.na.\\
   &&&= {\dn asmaat}\\
   &&&= from this\\
   &&&\note{\pronoun, \neuter, \ablativecase}\\
-  &&&\note{from: \neuter, {\dn idam} = idam = this}\\
+  &&&\note{from: \neuter, {\dn idam} = idam}\\
   &&&\\
   &&ni|var|ti|tum&{\dn nivartitum}\\
   &&&= (?) to stop; disappear\\

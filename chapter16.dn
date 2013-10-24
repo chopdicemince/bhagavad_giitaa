@@ -1085,8 +1085,8 @@ This, today, using me, (is) gotten. This (gets?) mind-joy. This
 is. This, also, for me, will be, again, money.\\
 
 \begin{tabular}{llll}
-  1a&{\dn idamadya}&i|da|ma|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  1a&{\dn idamadya}&i|da|ma|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&dya&adya = {\dn adya} = today\\
   &&&\note{\noun, \adverb, \indeclinable}\\
@@ -1123,15 +1123,15 @@ is. This, also, for me, will be, again, money.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn idamastiidamapi}&i|da|ma|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  2a&{\dn idamastiidamapi}&i|da|ma|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&stii|&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &&da|ma|&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da|ma|&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -1809,8 +1809,8 @@ abandons this group of three.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn naraka.h} = naraka.h}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

@@ -4003,8 +4003,8 @@ attains success.\\
   &&&= each; all\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn tatam}&ta|tam&stretched; spread\\
   &&&\note{\adjective, \neuter}\\
@@ -5765,8 +5765,8 @@ not (for) non-(devotion-people), anytime, and not (for)
 non-(service-people), and not to be said (for) one who envies me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ida.m}&i|da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  1a&{\dn ida.m}&i|da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn te}&te&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -5857,8 +5857,8 @@ no-doubt.\\
   1a&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn ida.m}&i|da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &{\dn ida.m}&i|da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\

@@ -3596,8 +3596,8 @@ world.\\
   &&ha|mi|&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &&da.m&idam = {\dn idam} = this\\
-  &&&\note{\pronoun, \thirdperson, \neuter}\\
+  &&da.m&idam = {\dn idam} = \idam\\
+  &&&\noteidam\\
   &&&\\
   &{\dn k.rtsnamekaa.m"sena}&k.rts|na|&k.rtsnam\\
   &&&= {\dn k.rtsnam}\\
