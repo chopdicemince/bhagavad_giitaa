@@ -2586,8 +2586,8 @@ person.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn yaa}&yaa&(?) one/who/what\\
-  &&&\note{\pronoun, \female}\\
+  &{\dn yaa}&yaa&\yaa\\
+  &&&\noteyaa\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2623,7 +2623,7 @@ of passion.\\
 \begin{tabular}{llll}
   1a&{\dn yayaa}&ya|yaa&(?) using/by one/whom/what\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
-  &&&\note{from {\dn yaa} = yaa = one/who/what}\\
+  &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
   &{\dn dharmamadharma.m}&dhar|ma|ma|&dharmam = {\dn dharmam} = good conduct; religion\\
   &&&\note{\noun, \male, \accusativecase}\\
@@ -2729,8 +2729,8 @@ of ignorance.\\
   &&ti&iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn yaa}&yaa&(?) one/who/what\\
-  &&&\note{\pronoun, \female}\\
+  &{\dn yaa}&yaa&\yaa\\
+  &&&\noteyaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2892,7 +2892,7 @@ Arjuna) (is) a person of passion.\\
 \begin{tabular}{llll}
   1a&{\dn yayaa}&ya|yaa&(?) using/by one/whom/what\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
-  &&&\note{from {\dn yaa} = yaa = one/who/what}\\
+  &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
@@ -4390,7 +4390,7 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn j~naanam} = j\~{}naanam}\\
   &&&\\
-  &{\dn yaa}&yaa&(?) one/who/what\\
+  &{\dn yaa}&yaa&\yaa\\
   &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn paraa}&pa|raa&paramount; another; other; different; strange\\
