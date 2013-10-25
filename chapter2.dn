@@ -4248,9 +4248,8 @@ for fruit (of their actions).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn buddhau}&bud|dhau&at/in/on reason; intelligence; mind\\
-  &&&\note{\noun, \female, \locativecase}\\
-  &&&\note{or {\dn buddhyaam} = buddhyaam}\\
+  2a&{\dn buddhau}&bud|dhau&\buddhau\\
+  &&&\notebuddhau\\
   &&&\note{from {\dn buddhi.h} = buddhi.h}\\
   &&&\\
   &{\dn "sara.namanviccha}&"sa|ra|.na|man|&"sara.nam\\
