@@ -22,8 +22,8 @@ Ik.svaaku.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn ima.m}&i|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  1a&{\dn ima.m}&i|ma.m&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn vivasvate}&vi|va|sva|te&(?)\\
@@ -111,8 +111,8 @@ enemies (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&mi|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  1b&&mi|ma.m&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn raajar.sayo}&raa|jar|&raaja.h\\

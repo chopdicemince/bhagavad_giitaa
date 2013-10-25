@@ -654,8 +654,8 @@ difference.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bheda.h} = bheda.h}\\
   &&&\\
-  &&ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &&ma.m&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\

@@ -2943,9 +2943,8 @@ Arjuna).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
-  &&ma.m|&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
-  &&&\note{\accusativecase}\\
+  &&ma.m|&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&ra|vi\h{i}&{\dn ravi.h}\\

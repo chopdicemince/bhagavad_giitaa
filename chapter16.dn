@@ -1102,8 +1102,8 @@ is. This, also, for me, will be, again, money.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&mi|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  1b&&mi|ma.m&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn praapsye}&praap|sye&(?)\\

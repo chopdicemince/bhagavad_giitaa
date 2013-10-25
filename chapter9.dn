@@ -679,8 +679,8 @@ form.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn graama.h} = graama.h}\\
   &&&\\
-  &{\dn ima.mk.rtsnamava"sa.m}&i|ma.m|&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \singular}\\
+  &{\dn ima.mk.rtsnamava"sa.m}&i|ma.m|&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&k.rts|na|&k.rtsnam\\
@@ -2968,8 +2968,8 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&mi|ma.m&imam = {\dn imam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  2b&&mi|ma.m&imam = {\dn imam} = \imam\\
+  &&&\noteimam\\
   &&&\\
   &{\dn praapya}&praa|pya&procurable\\
   &&&\note{\adjective}\\
