@@ -1264,8 +1264,8 @@ non-knowledge---covered knowledge.\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1302,12 +1302,13 @@ one (God).\\
   &{\dn tadaj~naana.m}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&j\~{}naa|na.m&aj\~{}naanam\\
-  &&&= {\dn aj~naanam}\\
-  &&&= not + knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&j\~{}naa|na.m&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1348,8 +1349,8 @@ one (God).\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1440,8 +1441,8 @@ stains.\\
   &&&\\
   2b&{\dn j~naananirdhuutakalma.saa.h}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&nir|dhuu|ta|&{\dn nirdhuuta}\\

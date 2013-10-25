@@ -1587,8 +1587,8 @@ burned by knowledge-fire. Wise men call him a wise man.\\
 \begin{tabular}{llll}
   2a&{\dn j~naanaagnidagdhakarmaa.na.m}&j\~{}naa|naag|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&ni|&agni.h\\
   &&&= {\dn agni.h}\\
@@ -1906,8 +1906,8 @@ action for devotion.\\
   &&&\\
   &&j\~{}naa|naa|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; consciousness; awareness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&va|sthi|ta|&avasthita\\
   &&&= {\dn avasthita}\\
@@ -2301,8 +2301,8 @@ union in the fire, in the knowledge on fire.\\
   &&&\\
   &{\dn j~naanadiipite}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; consciousness; awareness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&dii|pi|te&{\dn diipite}\\
   &&&= at/in/on something excited; illuminated; on fire\\
@@ -2370,8 +2370,8 @@ prepared men who have taken vows.\\
   &&&\\
   &&\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; consciousness; awareness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&yaj|\~{}naa"s|&yaj\~{}naa.h\\
   &&&= {\dn yaj~naa.h}\\
@@ -2802,8 +2802,8 @@ prince (O Arjuna), in knowledge, completes (knowledge).\\
   &&&\\
   1b&&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; consciousness; awareness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&yaj|\~{}na\h{a}&{\dn yaj~na.h}\\
   &&&= sacrifice; devotion; worship\\
@@ -2900,8 +2900,8 @@ truth.\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; consciousness; awareness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3069,8 +3069,8 @@ sin.\\
   &&&\\
   &{\dn j~naanaplavenaiva}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&pla|ve|nai|&plavena\\
   &&&= {\dn plavena}\\
@@ -3148,8 +3148,8 @@ knowledge-fire does all actions (to) ash.\\
 \begin{tabular}{llll}
   2a&{\dn j~naanaagni.h}&j\~{}naa|naag|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&ni\h{i}&agni.h\\
   &&&= {\dn agni.h}\\
@@ -3283,8 +3283,8 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3308,8 +3308,8 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
 \begin{tabular}{llll}
   2a&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &{\dn labdhvaa}&lab|dhvaa&(?) having gotten; known; succeeded\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -3462,8 +3462,8 @@ Arjuna).\\
   &&&\\
   1b&{\dn j~naanasa~nchinnasa.m"sayam}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&sa\~{}n|chin|na|&{\dn sa~nchinna}\\
   &&&= cut\\
@@ -3518,15 +3518,17 @@ knowledge in the self. Having cut this doubt-action, do and stand, O
 descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tasmaadaj~naanasambhuuta.m}&tas|maa|daj|&tasmaat = {\dn tasmaat} = \tasmaat\\
+  1a&{\dn tasmaadaj~naanasambhuuta.m}&tas|maa|da|&tasmaat = {\dn tasmaat} = \tasmaat\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&\~{}naa|na|&aj\~{}naana\\
-  &&&= {\dn aj~naanam}\\
-  &&&= not + knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\prefix, {\dn a} = a = not}\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&j\~{}naa|na|&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&sam|bhuu|ta.m&sambhuutam\\
   &&&= {\dn sambhuutam}\\
@@ -3545,8 +3547,8 @@ descendant of Bharata (O Arjuna).\\
   &&&\\
   &{\dn j~naanaasinaatmana.h}&j\~{}naa|naa|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge; awareness; consciousness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&si|naat|&asinaa\\
   &&&= {\dn asinaa}\\

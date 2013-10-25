@@ -43,8 +43,8 @@ gone (to) paramount success.\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn j~naanam} = j\~{}naanam}\\
   &&&\\
-  &{\dn j~naanamuttamam}&j\~{}naa|na|mut|&j\~{}naanam = {\dn j~naanam} = knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn j~naanamuttamam}&j\~{}naa|na|mut|&j\~{}naanam = {\dn j~naanam} = \jJAnam\\
+  &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ta|mam&uttamam\\
@@ -110,8 +110,8 @@ pulverization, and (they) are not afraid.\\
   &&&\\
   &{\dn j~naanamupaa"sritya}&j\~{}naa|na|mu|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&paa|"sri|tya&upaa"sritya\\
@@ -484,8 +484,8 @@ non-sin (O Arjuna).\\
   &&&\\
   2b&{\dn j~naanasa"ngena}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&sa"n|ge|na&{\dn sa"ngena}\\
@@ -608,8 +608,8 @@ all beings. It binds, using (occurrences of) carelessness, laziness,
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&ja.m&jam\\
   &&&= {\dn jam}\\
@@ -717,8 +717,8 @@ in madness.\\
 \begin{tabular}{llll}
   2a&{\dn j~naanamaav.rtya}&j\~{}naa|na|maa|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&v.r|tya&aav.rtya\\
   &&&= {\dn aav.rtya}\\
@@ -878,8 +878,8 @@ situation happens), then goodness is from getting powerful, thus.\\
 \begin{tabular}{llll}
   2a&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &{\dn yadaa}&ya|daa&when\\
   &&&\note{\adverb, \conjunction, \pronoun, \indeclinable}\\
@@ -1308,8 +1308,8 @@ ignorance.\\
   &&&\\
   2b&&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &{\dn tamasa.h}&ta|ma|sa\h{a}&(?) of darkness; ignorance; hell\\
   &&&\note{\noun, \neuter, \genitivecase}\\
@@ -1339,8 +1339,8 @@ you---and non-knowledge, really.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.mjan} = sa.mjan}\\
   &&&\\
-  &{\dn j~naana.m}&j\~{}naa|nam&knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn j~naana.m}&j\~{}naa|nam&\jJAnam\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1397,8 +1397,8 @@ you---and non-knowledge, really.\\
   &&&\\
   &&j\~{}naa|na|me|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\

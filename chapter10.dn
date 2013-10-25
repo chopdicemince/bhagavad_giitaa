@@ -278,8 +278,8 @@ non-fear, really, and \dots\\
   &&&\\
   &&j\~{}naa|na|ma|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&sam|mo|ha\h{a}&asammoha.h\\
   &&&= {\dn asammoha.h}\\
@@ -890,13 +890,13 @@ knowledge-lamp-brightness.\\
   1b&&ma|ha|ma|&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &&j\~{}naa|na|&aj\~{}naanam\\
-  &&&= {\dn aj~naanam}\\
-  &&&= not + knowledge\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
+  &&|&a = {\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&j\~{}naa|na|&j\~{}naanam\\
+  &&&= {\dn j~naanam}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&ja.m|&jam\\
   &&&= {\dn jam}\\
@@ -935,8 +935,8 @@ knowledge-lamp-brightness.\\
   &&&\\
   2b&{\dn j~naanadiipena}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&dii|pe|na&{\dn diipena}\\
   &&&= using/by a/the lamp; light\\
@@ -3251,13 +3251,13 @@ silence. Of knowledge-full-people, I (am) knowledge.\\
   &&&\\
   2b&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &{\dn j~naanavataamaham}&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jJAnam\\
+  &&&\notejJAnam\\
   &&&\\
   &&va|&vat = {\dn vat} = like; full\\
   &&&\note{\suffix}\\
