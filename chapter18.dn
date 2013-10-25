@@ -1413,8 +1413,8 @@ not bound.\\
   &&&\\
   1b&{\dn buddhiryasya}&bud|dhir|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
-  &&&= brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  &&&= \buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &&ya|sya&{\dn yasya}\\
   &&&= (?) of one/whom/what\\
@@ -2595,8 +2595,8 @@ person.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn buddhi.h}&bud|dhi\h{i}&brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
@@ -2683,8 +2683,8 @@ of passion.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn buddhi.h}&bud|dhi\h{i}&brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
@@ -2776,8 +2776,8 @@ of ignorance.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn buddhi.h}&bud|dhi\h{i}&brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \singular}\\
@@ -3219,8 +3219,8 @@ said---self-intelligence-peace-born.\\
   &&&\\
   &&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
-  &&&= brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  &&&= \buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &&pra|saa|da|&prasaada.h\\
   &&&= {\dn prasaada.h}\\
@@ -4252,8 +4252,8 @@ paramount success.\\
   &&&\note{\adjective}\\
   &&&\\
   &&bud|dhi\h{i}&{\dn buddhi.h}\\
-  &&&= brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  &&&= \buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere\\
   &&&\note{\adverb, \indeclinable}\\
@@ -4951,8 +4951,8 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&&\\
   &&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
-  &&&= brainpower; intelligence\\
-  &&&\note{\noun, \female}\\
+  &&&= \buddhiH\\
+  &&&\notebuddhiH\\
   &&&\\
   &&yo|ga|mu|&yogam\\
   &&&= {\dn yogam}\\
