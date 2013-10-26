@@ -948,9 +948,9 @@ this group of words: \dots\\
   &&ni|va&iva = {\dn iva} = as if\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Dh.rtaraa.s.tra\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
@@ -1373,9 +1373,9 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&= self\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
@@ -1731,9 +1731,9 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{similar: \noun, \neuter, {\dn yuddham} = yuddham}\\
   &&&\note{= war; fight}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
@@ -2574,9 +2574,9 @@ there are what lamentations (why be sad)?\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn madhyam} = madhyam}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
@@ -2765,9 +2765,9 @@ deserve to lament each being.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage

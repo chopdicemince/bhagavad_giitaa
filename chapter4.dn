@@ -546,9 +546,9 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
@@ -3603,9 +3603,9 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn utthaa} = utthaa}\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&O descendant of Bharata\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
 \newpage
