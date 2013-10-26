@@ -2426,8 +2426,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho}\\
-  &&&= O arm; forearm\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \baaho\\
+  &&&\notebaaho\\
   &&&\note{from {\dn baahu.h} = baahu.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5683,8 +5683,9 @@ restrained---his knowledge is complete.\\
   &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho}\\
-  &&&= O arm; forearm\\
-  &&&\note{\noun, \male}\\
+  &&&= \baaho\\
+  &&&\notebaaho\\
+  &&&\note{from {\dn baahu.h} = baahu.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
