@@ -640,7 +640,8 @@ sleeping, breathing, \dots\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&ti&iti = {\dn iti} = ``end of quote''\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -784,7 +785,8 @@ eyes, also---senses---they are undergoing in sense-meanings.''\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn v.rt} = v.rt}\\
   &&&\\
-  &{\dn iti}&i|ti&``end of quote''\\
+  &{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn dhaarayan}&dhaa|ra|yan&undergoing\\
   &&&\note{\verbb, \participle}\\

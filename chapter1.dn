@@ -2012,9 +2012,8 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn kuru.h} = kuru.h}\\
   &&&\\
-  &&ni|ti&iti\\
-  &&&= {\dn iti}\\
-  &&&= ``end of a quote''\\
+  &&ni|ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3580,7 +3579,8 @@ Kr.s.na---``In hell, surely, their dwelling is.'' \dots (?) \dots.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &&tya|&iti = {\dn iti} = ``end of a quote''\\
+  &&tya|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&nu|"su|"sru|ma&anu"su"sruma\\
   &&&= {\dn anu"su"sruma}\\

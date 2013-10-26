@@ -228,7 +228,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &{\dn ceti}&ce|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ti&iti = {\dn iti} = ``end of quote''\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -330,7 +331,8 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\note{\verbb, \pasttense, \thirdperson, \singular, \male}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn iti}&i|ti&``end of quote''\\
+  &{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1148,7 +1150,8 @@ says one who knows me. He does not suffer in action.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn iti}&i|ti&``end of quote''\\
+  2a&{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -1303,7 +1306,8 @@ will be free from non-grace.\\
   &&&= \karmam\\
   &&&\notekarmam\\
   &&&\\
-  &&ti&iti = {\dn iti} = ``end of quote''\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

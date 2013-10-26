@@ -209,8 +209,8 @@ abandoned,'' (says) another (great mind).\\
   &&va|di|&vat = {\dn vat} = full of\\
   &&&\note{\suffix}\\
   &&&\\
-  &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tye|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&ke&eke\\
   &&&= {\dn eke}\\
@@ -267,8 +267,8 @@ abandoned,'' (says) another (great mind).\\
   &&&= to be abandoned\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn caapare}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -500,8 +500,8 @@ Arjuna)---sure, ultimate opinion.\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn kartavyam} = kartavyam}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\noteme\\
@@ -612,8 +612,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   1a&{\dn du.hkhamityeva}&du.h|kha|mi|&du.hkham = {\dn du.hkham} = distress\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tye|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -711,8 +711,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&tye|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tye|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -950,8 +950,8 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
   &&&= abandoner\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&tya|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tya|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&bhi|dhii|ya|te&abhidhiiyate\\
   &&&= {\dn abhidhiiyate}\\
@@ -1533,8 +1533,8 @@ thus, (are) three-kind(s) (of) action-group.\\
   &&&\note{\noun, \male}\\
   &&&\note{from {\dn kart.r} = kart.r}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2725,8 +2725,8 @@ of ignorance.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn yaa}&yaa&\yaa\\
   &&&\noteyaa\\
@@ -5099,8 +5099,8 @@ mistakenly. This vocation of you---the primal form will do you.\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn yudh} = yudh}\\
   &&&\\
-  &{\dn iti}&i|ti&thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn manyase}&ma|nya|se&(you) think\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -5410,8 +5410,8 @@ mystery-more---by me. Judiciously, using all this, just as (you) wish,
 thus, O Kuru (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn iti}&i|ti&thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn te}&te&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
@@ -5557,8 +5557,8 @@ you.\\
   &&&= firmly; surely\\
   &&&\note{\adverb}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -6109,8 +6109,8 @@ me.\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\noteme\\
@@ -6420,8 +6420,8 @@ wonder---hole-happines (goose pimples).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn ityaha.m}&i|tya|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn ityaha.m}&i|tya|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\

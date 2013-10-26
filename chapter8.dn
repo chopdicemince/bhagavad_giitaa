@@ -496,8 +496,8 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -1144,8 +1144,8 @@ path.\\
 \begin{tabular}{llll}
   1a&{\dn o.m}&o.m&a syllable in meditation\\
   &&&\\
-  &{\dn ityekaak.sara.m}&i|tye|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn ityekaak.sara.m}&i|tye|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&kaa|&ekam\\
   &&&= {\dn ekam}\\
@@ -1870,8 +1870,8 @@ my paraount home.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \adjective, \male, {\dn k.sara.h} = k.sara.h}\\
   &&&\\
-  &{\dn ityuktastamaahu.h}&i|tyuk|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn ityuktastamaahu.h}&i|tyuk|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&ta|&ukta.h\\
   &&&= {\dn ukta.h}\\

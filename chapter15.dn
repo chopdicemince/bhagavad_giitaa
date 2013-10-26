@@ -1592,8 +1592,8 @@ non-changeable God.\\
   &&&= self; soul\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&tyu|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tyu|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&daa|h.r|ta\h{a}&udaah.rta.h\\
   &&&= {\dn udaah.rta.h}\\
@@ -1827,8 +1827,8 @@ Arjuna). Having known this---intelligence may be, and action-action
 [sic]---O son of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn iti}&i|ti&thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn iti}&i|ti&\iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn guhyatama.m}&gu|hya|&{\dn guhya}\\
   &&&= secret; hidden; mysterious; private\\

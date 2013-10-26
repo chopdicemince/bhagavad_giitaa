@@ -320,8 +320,8 @@ ego---thus, this is my primal form, broken eight-fold.\\
   &&&= ego; pride\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn itiiya.m}&i|tii|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn itiiya.m}&i|tii|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&ya.m&iyam = {\dn iyam} = this\\
   &&&\note{\pronoun, \female}\\
@@ -468,8 +468,8 @@ the place of birth and the pulverization of all of the world, thus.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
-  &&tyu|&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&tyu|&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &&pa|dhaa|ra|ya&upadhaaraya\\
   &&&= {\dn upadhaaraya}\\
@@ -1001,8 +1001,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &{\dn eveti}&e|ve|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   &&&\\
   &{\dn taanviddhi}&taan|&{\dn taan} = those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
@@ -1629,8 +1629,8 @@ all---thus. He is a great-self---very rare.\\
   &&&= each; all\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
   &&&\\
-  &&ti&iti = {\dn iti} = thus; ``end of quote''\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ti&iti = {\dn iti} = \iti\\
+  &&&\noteiti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
