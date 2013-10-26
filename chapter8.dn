@@ -1441,8 +1441,8 @@ not again-born.\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage
@@ -2445,8 +2445,8 @@ yoking-yoked, O Arjuna.\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage

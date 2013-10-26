@@ -740,8 +740,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage
@@ -2926,8 +2926,8 @@ Arjuna) (is) a person of passion.\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage
@@ -5273,8 +5273,8 @@ The lord of all beings stays in the heart-place, O Arjuna. The roaming
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
   &&&\\
   &{\dn ti.s.thati}&ti|.s.tha|ti&(he/she/it) stays\\

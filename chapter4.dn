@@ -749,8 +749,8 @@ goes toward me, O Arjuna.\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage
@@ -3144,8 +3144,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage

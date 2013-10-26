@@ -5198,8 +5198,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&ju|ne|&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
@@ -6024,8 +6024,8 @@ form), O destroying of enemies (O Arjuna).\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \arjuna\\
+  &&&\notearjuna\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
 \end{tabular}
 \newpage
