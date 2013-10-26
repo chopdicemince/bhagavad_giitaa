@@ -2269,8 +2269,8 @@ arms and legs sink, and my mouth dries up.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2525,8 +2525,8 @@ of) happiness.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vijaya.h} = vijaya.h}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3297,8 +3297,8 @@ castes, and is viewed as a bad person.)\\
   &&&\note{from {\dn abhibhava.h} = abhibhava.h}\\
   &&&\\
   &&k.r.s|.na&{\dn k.r.s.na}\\
-  &&&= O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&= \kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline

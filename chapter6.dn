@@ -2819,8 +2819,8 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3131,8 +3131,8 @@ he go (on), O K.r.s.na?\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn gati.h} = gati.h}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   &&&\\
   &{\dn gacchati}&gac|cha|ti&(he/she/it) goes\\
@@ -3247,8 +3247,8 @@ you. (That is: There is no cutter like you).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.m"saya.h} = sa.m"saya.h}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r.s|.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline

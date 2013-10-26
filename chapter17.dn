@@ -69,8 +69,8 @@ Goodness? Passion? Ignorance?\\
   &{\dn kaa}&kaa&who/what\\
   &&&\note{\pronoun, \female}\\
   &&&\\
-  &{\dn k.r.s.na}&k.r|.s.na&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn k.r.s.na}&k.r|.s.na&\kRSNa\\
+  &&&\notekRSNa\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
   % ----------------------------------------------------------------------------
   \hline
