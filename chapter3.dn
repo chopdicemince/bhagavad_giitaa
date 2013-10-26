@@ -1124,8 +1124,8 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yepacantyaatmakaara.naat}&ye|&(?) {\dn ye} = for one; of one\\
-  &&&\note{\pronoun, \male, \dativecase, \genitivecase}\\
+  2b&{\dn yepacantyaatmakaara.naat}&ye|&\ye\\
+  &&&\noteye\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &&pa|can|tyaat|&pacanti\\
@@ -2443,8 +2443,8 @@ Men who always to this wish of me, with faith, without envy---they are
 free, also, from action.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ye}&ye&(?) ones\\
-  &&&\note{\pronoun, \male, \plural}\\
+  1a&{\dn ye}&ye&\ye\\
+  &&&\noteye\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -2524,8 +2524,9 @@ But ones who envy this---they do not do my wish. They are
 all-knowledge-foolish, knowing-damaged, and not wise.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ye}&ye&(?) ones\\
-  &&&\note{\pronoun, \male, \plural}\\
+  1a&{\dn ye}&ye&\ye\\
+  &&&\noteye\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn tvetadabhyasuuyanto}&tve|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
