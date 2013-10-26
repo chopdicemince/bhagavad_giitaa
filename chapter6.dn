@@ -1222,8 +1222,8 @@ union.\\
   &&&\note{\participle}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&ne|va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ne|va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &{\dn sadaatmaana.m}&sa|daat&sadaa\\
   &&&= {\dn sadaa}\\
@@ -2315,8 +2315,8 @@ completely.\\
   &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
   &&&\note{= doing}\\
   &&&\\
-  &&ne|va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ne|va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &{\dn sadaatmaana.m}&sa|daat|&sadaa\\
   &&&= {\dn sadaa}\\

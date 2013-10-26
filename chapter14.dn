@@ -1923,8 +1923,8 @@ stands does not go \dots\\
   &{\dn ityeva.m}&i|tye|&iti = {\dn iti} = really; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

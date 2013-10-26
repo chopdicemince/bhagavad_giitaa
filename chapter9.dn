@@ -1857,8 +1857,8 @@ usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn eva.m}&e|va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn eva.m}&e|va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &{\dn trayiidharmamanuprapannaa}&tra|yii|&{\dn trayii}\\
   &&&= (?) three\\
@@ -2475,8 +2475,8 @@ yoked-self, (you) will approach me.\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn phalam} = phalam}\\
   &&&\\
-  &&va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3057,8 +3057,8 @@ really, (you are) devoted to me.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&va|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

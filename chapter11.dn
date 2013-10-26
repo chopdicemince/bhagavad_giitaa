@@ -197,8 +197,8 @@ paramount-God (O K.r.s.na). (I) wish to see the majestic form of you,
 O ultimate-man (O K.r.s.na).\\
 
 \begin{tabular}{llll}
-  1a&{\dn evametadyathaattha}&e|va|me|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn evametadyathaattha}&e|va|me|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&ta|dya|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
@@ -761,8 +761,8 @@ things), from there, O King (Dh.rtaraa.stra), (showed) to the prince
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn evamuktvaa}&e|va|mukt|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn evamuktvaa}&e|va|mukt|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&vaa&uktvaa = {\dn uktvaa} = having said\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -5373,8 +5373,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn eva.mruupa.h}&e|va.m|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn eva.mruupa.h}&e|va.m|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&ruu|pa\h{a}&(?) ruupam\\
   &&&= {\dn ruupam}\\
@@ -5945,8 +5945,8 @@ see(n). You (have) seen me just as (I was).\\
   2a&{\dn "sakya}&"sa|kya&able; possible\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn eva.mvidho}&e|va.m|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn eva.mvidho}&e|va.m|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&vi|dho&vidha.h\\
   &&&= {\dn vidha.h}\\
@@ -6014,8 +6014,8 @@ form), O destroying of enemies (O Arjuna).\\
   1b&{\dn ahameva.mvidho.arjuna}&a|ha|me|&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &&va.m|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va.m|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&vi|dho'r|&vidha.h\\
   &&&= {\dn vidha.h}\\

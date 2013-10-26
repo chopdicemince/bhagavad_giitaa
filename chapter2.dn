@@ -855,8 +855,8 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn evamuktvaa}&e|va|mukt|&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn evamuktvaa}&e|va|mukt|&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &&vaa&uktvaa\\
   &&&= {\dn uktvaa}\\
@@ -2328,8 +2328,8 @@ you do not deserve to lament.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&va.m&evam = {\dn evam} = really; thus\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &{\dn viditvaina.m}&vi|di|tvai|&viditvaa\\
   &&&= {\dn viditvaa}\\
@@ -3398,7 +3398,8 @@ similar. Thus, you will not gain evil.\\
   2b&{\dn naiva.m}&nai|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&va.m&eva.m = {\dn eva.m} = thus\\
+  &&va.m&evam = {\dn evam} = \evam\\
+  &&&\noteevam\\
   &&&\\
   &{\dn paapamavaapsyasi}&paa|pa|ma&paapam\\
   &&&= {\dn paapam}\\
