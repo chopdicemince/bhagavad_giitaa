@@ -1069,9 +1069,9 @@ mind, (at) the start, and not-changeable.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2812,9 +2812,9 @@ caste---they, also, go (on) the paramount path.\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn vyapaa"sritya}&vya|paa|"sri|tya&(?)\\

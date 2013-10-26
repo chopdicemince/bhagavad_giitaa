@@ -507,9 +507,9 @@ Arjuna)---sure, ultimate opinion.\\
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2600,9 +2600,9 @@ person.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn saattvikii}&saat|tvi|kii&(?) person true; good; pure; energetic\\
@@ -2688,9 +2688,9 @@ of passion.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn raajasii}&raa|ja|sii&(?) person of passion; dust-like particle;\\
@@ -2781,9 +2781,9 @@ of ignorance.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \singular}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn taamasii}&taa|ma|sii&(?) person of darkness; ignorance; hell\\
@@ -2867,9 +2867,9 @@ person who is true.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\pronoun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn saattvikii}&saat|tvi|kii&(?) person who is true; good;\\
@@ -2957,9 +2957,9 @@ Arjuna) (is) a person of passion.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn raajasii}&raa|ja|sii&(?) person of passion; dust-like particle;\\
@@ -3039,9 +3039,9 @@ Arjuna), (is) a person of ignorance.\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn taamasii}&taa|ma|sii&(?) person of darkness; ignorance; hell\\
@@ -6235,9 +6235,9 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&= hearing; knowledge heard\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   % ----------------------------------------------------------------------------
   \hline

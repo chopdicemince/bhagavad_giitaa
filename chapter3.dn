@@ -1347,9 +1347,9 @@ Arjuna).\\
   2b&{\dn mogha.m}&mo|gha.m&in vain\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
@@ -1803,9 +1803,9 @@ to action.\\
   &&&\\
   &{\dn paarthaasti}&par|thaas|&paartha\\
   &&&= {\dn paartha}\\
-  &&&= O prince\\
+  &&&= \paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &&sti&asti = {\dn asti} = (he/she/it) is\\
@@ -1928,9 +1928,9 @@ Arjuna).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sarva"sa.h}&sar|va|"sa\h{a}&all together; wholly\\

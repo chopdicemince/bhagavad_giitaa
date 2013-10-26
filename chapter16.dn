@@ -328,9 +328,9 @@ prince (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn paartha}&paar|tha&O prince\\
+  2b&{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sampadamaasuriim}&sam|pa|da|maa|&sampadam\\
@@ -494,9 +494,9 @@ Arjuna), hear (about) the demon (from) me.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{root: {\dn aasura.h} = aasura.h}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn me}&me&\me\\

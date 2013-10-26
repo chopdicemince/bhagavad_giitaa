@@ -33,8 +33,8 @@ me completely. Hear that.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince = O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn paartha}&paar|tha&\paartha = O Arjuna\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -807,9 +807,9 @@ sharpness of sharp people.\\
   &&&= piercing; knowing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sanaatanam}&sa|naa|ta|nam&eternal; ancient\\

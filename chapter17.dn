@@ -2303,9 +2303,9 @@ Arjuna) \dots\\
   &&&= sound; word\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn yujyate}&yu|jya|te&(he/she/it) is yoked\\
@@ -2472,9 +2472,9 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
-  &{\dn paartha}&paar|tha&O prince\\
+  &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   % ----------------------------------------------------------------------------
   \hline
