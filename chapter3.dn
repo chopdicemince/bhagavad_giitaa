@@ -755,9 +755,9 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&&= \karmam\\
   &&&\notekarmam\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kunti\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3140,9 +3140,9 @@ satisfy.\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn ruupam} = ruupam}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

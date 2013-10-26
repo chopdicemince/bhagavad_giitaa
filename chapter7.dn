@@ -624,8 +624,8 @@ the sound in vacuum, and prowess in men.\\
   &&&= in water\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

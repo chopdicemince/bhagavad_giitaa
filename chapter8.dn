@@ -499,8 +499,8 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&ti&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1460,9 +1460,9 @@ not again-born.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

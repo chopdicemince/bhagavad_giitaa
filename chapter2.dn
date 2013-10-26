@@ -1302,8 +1302,8 @@ them, O descendant of Bharata (O Arjuna).\\
   &&stu&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kunti = O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya = O Arjuna\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3324,9 +3324,9 @@ Arjuna).  For the fight, be certain.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn utthaa} = utthaa}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5058,8 +5058,8 @@ person---the senses are agitating and they destroy violently.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya = O Arjuna\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

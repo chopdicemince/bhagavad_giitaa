@@ -126,9 +126,9 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2802,9 +2802,9 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&'pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

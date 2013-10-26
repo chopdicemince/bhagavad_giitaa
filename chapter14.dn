@@ -275,9 +275,9 @@ those---God-great-origin---I (am) the seed-giving father.\\
   &&&\note{\noun, \female, \plural, \locativecase}\\
   &&&\note{from {\dn yoni.h} = yoni.h}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -565,9 +565,9 @@ action-sticking.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn nibandh} = nibandh}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline

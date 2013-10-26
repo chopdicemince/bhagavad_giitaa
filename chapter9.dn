@@ -564,9 +564,9 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -851,9 +851,9 @@ cycle of creation and destruction).\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2061,9 +2061,9 @@ with a non-(good-)behavior.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2424,9 +2424,9 @@ Arjuna), that (is) a giving (to) me.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn tapasya} = tapasya}\\
   &&&\\
-  &{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn arjuna.h} = arjuna.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2767,9 +2767,9 @@ son of Kuntii (O Arjuna), assert (that) my devotee does not die.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn kaunteya}&kaun|te|ya&O son of Kuntii\\
+  2a&{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\notekaunteya\\
   &&&\note{from {\dn kaunteya.h} = kaunteya.h}\\
   &&&\\
   &{\dn pratijaaniihi}&pra|ti|jaa|nii|hi&(?) pratijaanaatu\\
