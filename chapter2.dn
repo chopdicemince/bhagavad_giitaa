@@ -393,8 +393,8 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn mahaanubhaavaan}&ma|haa|nu|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&bhaa|vaan&ubhaavaan\\
   &&&= {\dn ubhaavaan}\\
@@ -2422,7 +2422,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho}\\
   &&&= O arm; forearm\\
@@ -3146,12 +3147,15 @@ small importance.\\
   &&&\note{\singular, \accusativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &{\dn mahaarathaa.h}&ma|haa|ra|thaa\h{aa}&great chariots/warriors\\
+  &{\dn mahaarathaa.h}&ma|haa|&mahaan\\
+  &&&= {\dn mahaan}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
+  &&&\\
+  &&ra|thaa\h{aa}&{\dn rathaa.h}\\
+  &&&= chariots/warriors\\
   &&&\note{\noun, \male, \plural}\\
-  &&&\note{from: \adjective, \male,}\\
-  &&&\note{{\dn mahaan} = mahaan = great}\\
-  &&&\note{from: \noun, \male,}\\
-  &&&\note{{\dn ratha.h} = ratha.h = chariot/warrior}\\
+  &&&\note{from {\dn ratha.h} = ratha.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5675,8 +5679,8 @@ restrained---his knowledge is complete.\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho}\\
   &&&= O arm; forearm\\

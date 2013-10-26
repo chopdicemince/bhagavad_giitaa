@@ -781,8 +781,8 @@ things), from there, O King (Dh.rtaraa.stra), (showed) to the prince
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|haa|&{\dn mahaan} = great\\
-  &&&\note{\adjective, \male}\\
+  1b&&ma|haa|&{\dn mahaan} = \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&yo|ge|&yoga.h = {\dn yoga.h} = \yogaH\\
   &&&\noteyogaH\\
@@ -1081,12 +1081,10 @@ suitable (light) would be the brightness of his great self
   &&&\note{\pronoun, \thirdperson, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn mahaatmana.h}&ma|haat|&mahaa\\
-  &&&= {\dn mahaa}\\
-  &&&= mahaan\\
+  &{\dn mahaatmana.h}&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
@@ -2011,8 +2009,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn mahaatman}&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&man&aatman\\
   &&&= {\dn aatman}\\
@@ -2098,8 +2096,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn mahar.sisiddhasa"nghaa.h}&ma|har|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&.si|&.r.si.h\\
   &&&= {\dn .r.si.h}\\
@@ -2316,8 +2314,8 @@ of the usual eight.)\\
 \begin{tabular}{llll}
   1b&{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho}\\
   &&&= O arm; forearm\\
@@ -3947,8 +3945,8 @@ instead of the usual eight.)\\
   &&&\\
   &&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&man&aatman\\
   &&&= {\dn aatman}\\
@@ -5672,8 +5670,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&ma|haat|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\

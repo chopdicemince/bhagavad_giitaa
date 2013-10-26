@@ -27,8 +27,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn mahaabaaho}&ma|haa|&mahaan = {\dn maahaan} = great\\
-  &&&\note{\adjective, \male}\\
+  &{\dn mahaabaaho}&ma|haa|&mahaan = {\dn maahaan} = \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&baa|ho&{\dn baaho} = O arm; forearm\\
   &&&\note{\noun, \male, \vocativecase}\\
@@ -128,8 +128,8 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&\\
   &{\dn mahar.saya.h}&ma|har|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&.sa|ya\h{a}&.r.saya.h\\
   &&&= {\dn .r.saya.h}\\
@@ -219,8 +219,8 @@ using (of) all sins.\\
   &{\dn lokamahe"svaram}&lo|ka|&loka.h = {\dn loka.h} = world; human race; place\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ma|he|&mahaan = {\dn mahaan} = great\\
-  &&&\note{\adjective, \male}\\
+  &&ma|he|&mahaan = {\dn mahaan} = \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&"sva|ram&ii"svaram\\
   &&&= {\dn ii"svaram}\\
@@ -2113,8 +2113,8 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
 \begin{tabular}{llll}
   1a&{\dn mahar.sii.naa.m}&ma|har|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\noun, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&.sii|.naa.m&.r.sii.naam\\
   &&&= {\dn .r.sii.naam}\\

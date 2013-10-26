@@ -508,8 +508,8 @@ thus---consider (these words).\\
   &&&= going\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn mahaan}&ma|haan&great\\
-  &&&\note{\adjective, \male}\\
+  &{\dn mahaan}&ma|haan&\mahaan\\
+  &&&\notemahaan\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -947,8 +947,8 @@ Fools despise me, occupying a woman form. (Fools are) not knowing
   &&&\\
   &&ma|he|&mahaan\\
   &&&= {\dn mahaan}\\
-  &&&= great\\
-  &&&\note{\adjective, \male}\\
+  &&&= \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&"sva|ram&ii"svaram\\
   &&&= {\dn ii"svaram}\\
@@ -1055,8 +1055,8 @@ form---O prince (O Arjuna)---having known not-another being of the
 mind, (at) the start, and not-changeable.\\
 
 \begin{tabular}{llll}
-  1a&{\dn mahaatmaanastu}&ma|haat|&mahaan = {\dn mahaan} = great\\
-  &&&\note{\adjective, \male}\\
+  1a&{\dn mahaatmaanastu}&ma|haat|&mahaan = {\dn mahaan} = \mahaan\\
+  &&&\notemahaan\\
   &&&\\
   &&maa|na|&aatmaana.h = {\dn aatmaana.h} = (?) selves; souls\\
   &&&\note{\noun, \male, \plural}\\
