@@ -1313,10 +1313,8 @@ Arjuna).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn anuv.rt} = anuv.rt}\\
   &&&\\
-  &&ha|&iha\\
-  &&&= {\dn iha}\\
-  &&&= here; in this world; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha|&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &&ya\h{a}&{\dn ya.h} = \yaH\\
   &&&\noteyaH\\
@@ -1493,10 +1491,8 @@ people---there is no meaning.\\
   &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\note{from: \noun, \neuter, {\dn k.rtam} = k.rtam}\\
   &&&\\
-  &&ha&iha\\
-  &&&= {\dn iha}\\
-  &&&= in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn ka"scana}&ka"s|ca|na&somebody\\
   &&&\note{\pronoun, \noun, \indeclinable}\\
@@ -2987,8 +2983,8 @@ and great-evil. This knowledge is enmity in this world.\\
   &&na|mi&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \female?, \accusativecase}\\
   &&&\\
-  &&ha&iha = {\dn iha} = in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn vairi.nam}&vai|ri|.nam&(?) enmity\\
   &&&\note{\noun, \neuter}\\

@@ -1591,10 +1591,8 @@ passion---trembling (and) non-eternal.\\
   &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&ha&iha\\
-  &&&= {\dn iha}\\
-  &&&= in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn prokta.m}&prok|ta.m&proktam\\
   &&&= {\dn proktam}\\
@@ -2498,8 +2496,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &&&= {\dn na} + {\dn u}\\
   &&&= not + or\\
   &&&\\
-  &{\dn iha}&i|ha&in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn iha}&i|ha&\iha\\
+  &&&\noteiha\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -426,8 +426,8 @@ has eleven main syllables per line.)\\
   &&pii|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&ha&iha = {\dn iha} = in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn loke}&lo|ke&at/in/on a/the world; human race; place\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -462,8 +462,8 @@ has eleven main syllables per line.)\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn guru.h} = guru.h}\\
   &&&\\
-  &&hai|&iha = {\dn iha} = in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&hai|&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -3509,8 +3509,8 @@ amount of this devotion saves (a person) from great fear.\\
   1a&{\dn nehaabhikramanaa"so.asti}&ne|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&haa|&iha = {\dn iha} = in this\\
-  &&&\note{\adverb}\\
+  &&haa|&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &&bhi|kra|ma&abhikrama.h\\
   &&&= {\dn abhikrama.h}\\
@@ -3608,8 +3608,8 @@ infinite.\\
   1b&&re|ke|&ekaa = {\dn ekaa} = one\\
   &&&\note{\numberr, \female}\\
   &&&\\
-  &&ha&iha = {\dn iha} = in this (world)\\
-  &&&\note{\adverb}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn kurunandana}&ku|ru|nan|da|na&O son of Kuru\\
   &&&= O Arjuna\\
@@ -4304,8 +4304,8 @@ action, and skill.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn haa} = haa}\\
   &&&\\
-  &&ha&iha = {\dn iha} = here; now; in this life\\
-  &&&\note{\adverb}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

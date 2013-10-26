@@ -140,8 +140,8 @@ enemies (O Arjuna).\\
   &&&= after some time\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ha&iha = {\dn iha} = in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn mahataa}&ma|ha|taa&greatness\\
   &&&\note{\noun, \female}\\
@@ -957,8 +957,8 @@ action-born.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
   &&&\\
-  &{\dn iha}&i|ha&in this world; now; here\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn iha}&i|ha&\iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn devataa.h}&de|va|taa\h{aa}&gods\\
   &&&\note{\noun, \male, \plural}\\
@@ -3215,10 +3215,8 @@ knowledge. A self (with) action done, using time (over time), finds
   &&&= holy; saintly; pure\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&ha&iha\\
-  &&&= {\dn iha}\\
-  &&&= in this world; here; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&ha&iha = {\dn iha} = \iha\\
+  &&&\noteiha\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
