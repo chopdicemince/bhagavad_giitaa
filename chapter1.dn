@@ -650,8 +650,8 @@ Sumadatta are likewise, really.\\
   &&&\\
   &&ja|ya\h{a}&jaya.h\\
   &&&= {\dn jaya.h}\\
-  &&&= victorious\\
-  &&&\note{\adjective, \male}\\
+  &&&= \jayaH\\
+  &&&\notejayaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1181,8 +1181,14 @@ by Bhiima, (known for) action and a wolf-stomach (big appetite).\\
   &&&\note{\noun, \male(?), \accusativecase}\\
   &&&\note{from {\dn devadatta.h} = devadatta.h}\\
   &&&\\
-  &{\dn dhana~njaya.h}&dha|na\~{}n|ja|ya\h{a}&Dhana\~{}njaya = Arjuna\\
-  &&&\note{\noun, \male}\\
+  &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
+  &&&= {\dn dhanam}\\
+  &&&= \dhanam\\
+  &&&\notedhanam\\
+  &&&\\
+  &&ja|ya\h{a}&{\dn jaya.h}\\
+  &&&= \jayaH\\
+  &&&\notejayaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
