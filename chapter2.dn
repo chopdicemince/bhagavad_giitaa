@@ -4168,9 +4168,15 @@ non-success. This equanimity is called ``yoga.''\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
-  &{\dn dhana~njaya}&dha|na\~{}n|ja|ya&O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn dhana~njaya.h} = dhana\~{}njaya.h}\\
+  &{\dn dhana~njaya}&dha|na\~{}n|&dhanam\\
+  &&&= {\dn dhanam}\\
+  &&&= \dhanam\\
+  &&&\notedhanam\\
+  &&&\\
+  &&ja|ya&{\dn jaya}\\
+  &&&= \jaya\\
+  &&&\notejaya\\
+  &&&\note{from {\dn jaya.h} = jaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4250,10 +4256,15 @@ for fruit (of their actions).\\
   &&&\noteyogaat\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &&dha|na\~{}n|ja|ya&O dhana\~{}njaya\\
-  &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn dhana~njaya.h} = dhana\~{}njaya.h}\\
+  &&dha|na\~{}n|&dhanam\\
+  &&&= {\dn dhanam}\\
+  &&&= \dhanam\\
+  &&&\notedhanam\\
+  &&&\\
+  &&ja|ya&{\dn jaya}\\
+  &&&= \jaya\\
+  &&&\notejaya\\
+  &&&\note{from {\dn jaya.h} = jaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
