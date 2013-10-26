@@ -1176,10 +1176,15 @@ visible form of you.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn vad} = vad}\\
   &&&\\
-  &{\dn ke"sava}&ke|"sa|va&O long-haired\\
+  &{\dn ke"sava}&ke|"sa|va&\kezava\\
   &&&= O K.r.s.na\\
-  &&&\note{\adjective, \male, \vocativecase}\\
+  &&&\notekezava\\
   &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
+  &&&\note{\noun, \male}\\
+  &&&\note{{\dn vat} = vat = full}\\
+  &&&\note{\suffix}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

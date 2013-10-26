@@ -89,9 +89,15 @@ known, O K.r.s.na.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn ke"sava}&ke|"sa|va&\kezava\\
+  &&&= O K.r.s.na\\
+  &&&\notekezava\\
   &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
+  &&&\note{\noun, \male}\\
+  &&&\note{{\dn vat} = vat}\\
+  &&&\note{\suffix}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

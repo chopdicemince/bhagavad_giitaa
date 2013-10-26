@@ -4633,9 +4633,15 @@ walk?\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
-  &{\dn ke"sava}&ke|"sa|va&O K.r.s.na\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &{\dn ke"sava}&ke|"sa|va&\kezava\\
+  &&&= O K.r.s.na\\
+  &&&\notekezava\\
   &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
+  &&&\note{\noun, \male}\\
+  &&&\note{{\dn vat} = vat = full}\\
+  &&&\note{\suffix}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
