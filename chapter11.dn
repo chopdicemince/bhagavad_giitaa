@@ -5735,13 +5735,13 @@ gone.\\
   &&&\\
   &{\dn janaardana}&ja|naar|&jana.h\\
   &&&= {\dn jana.h}\\
-  &&&= person; group of people\\
-  &&&\note{\noun, \male}\\
+  &&&= \janaH\\
+  &&&\notejanaH\\
   &&&\\
   &&da|na&ardana\\
   &&&= {\dn ardana}\\
-  &&&= O distress; destruction\\
-  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&= \ardana\\
+  &&&\noteardana\\
   &&&\note{from {\dn ardanam} = ardanam}\\
 \end{tabular}
 \newpage
