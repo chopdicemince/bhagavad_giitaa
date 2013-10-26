@@ -1680,8 +1680,8 @@ Using what attributes is a person passed through these three strings
 three strings?\\
 
 \begin{tabular}{llll}
-  0&{\dn arjuna}&ar|ju|na&Arjuna\\
-  &&&\note{\noun, \male}\\
+  0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
+  &&&\notearjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
