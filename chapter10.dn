@@ -1413,8 +1413,8 @@ worlds.\\
   &&&\\
   &&lo|kaa|&lokaan\\
   &&&= {\dn lokaan}\\
-  &&&= worlds; human race; places\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \lokaan\\
+  &&&\notelokaan\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   % ----------------------------------------------------------------------------
   \hline
