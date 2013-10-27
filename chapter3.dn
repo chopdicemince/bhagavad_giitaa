@@ -1991,8 +1991,9 @@ worlds).\\
   &&&\\
   &{\dn lokaa}&lo|kaa&lokaa.h\\
   &&&= {\dn lokaa.h}\\
-  &&&= humans; places; worlds\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \lokAH\\
+  &&&\notelokAH\\
+  &&&\note{from {\dn loka.h} = loka.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

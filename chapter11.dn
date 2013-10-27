@@ -2369,8 +2369,8 @@ of the usual eight.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn lokaa.h}&lo|kaa\h{aa}&worlds; human race; places\\
-  &&&\note{\noun, \male, \plural}\\
+  &{\dn lokaa.h}&lo|kaa\h{aa}&\lokAH\\
+  &&&\notelokAH\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
   &{\dn pravyathitaastathaaham}&pra|vya|thi|taa|sta|&pravyathitaa.h\\
@@ -3037,8 +3037,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn lokaas}&lo|kaas&lokaa.h\\
   &&&= {\dn lokaa.h}\\
-  &&&= worlds; human race; places\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \lokAH\\
+  &&&\notelokAH\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   % ----------------------------------------------------------------------------
   \hline
