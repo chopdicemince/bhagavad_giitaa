@@ -1994,8 +1994,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&{\dn lokatraya.m}&lo|ka|&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&tra|ya.m&trayam\\
   &&&= {\dn trayam}\\
@@ -2937,8 +2937,8 @@ instead of the usual eight.)\\
   &&&\\
   &&lo|ka|&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&vii|raa&viiraa.h\\
   &&&= {\dn viiraa.h}\\
@@ -3350,8 +3350,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &{\dn lokak.sayak.rtprav.rddho}&lo|ka|&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&k.sa|ya|&k.saya.h\\
   &&&= {\dn k.saya.h}\\
@@ -4773,8 +4773,8 @@ instead of the usual eight.)\\
   &&&\\
   &&lo|ka|&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&tra|ye|&trayam\\
   &&&= {\dn trayam}\\

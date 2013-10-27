@@ -219,8 +219,8 @@ using (of) all sins.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn lokamahe"svaram}&lo|ka|&loka.h = {\dn loka.h} = world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &{\dn lokamahe"svaram}&lo|ka|&loka.h = {\dn loka.h} = \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&ma|he|&mahaan = {\dn mahaan} = \mahaan\\
   &&&\notemahaan\\
@@ -534,8 +534,8 @@ born (from them).\\
   &&&\\
   &{\dn loka}&lo|ka&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &{\dn imaa.h}&i|maa\h{aa}&these\\
   &&&\note{\pronoun, \female, \plural}\\
