@@ -269,11 +269,12 @@ is higher (older). How may I know this: you, at the beginning, said
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn apara.m}&a|pa|ra.m&aparam = {\dn aparam} = other; inferior; lower\\
+  1a&{\dn apara.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pa|ra.m&param = {\dn param} = other; inferior; lower\\
   &&&\note{\adjective, \male?, \accusativecase?}\\
-  &&&\note{from {\dn apara.h} = apara.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn para.h} = para.h}\\
+  &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn bhavato}&bha|va|to&bhavata.h = {\dn bhavata.h} = your\\
   &&&\note{\pronoun, \secondperson, \singular, \male}\\
@@ -431,22 +432,27 @@ changing. Also, the self is in residence in matter. I exist using
 self-magic.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ajo.api}&a|jo|&aja.h = {\dn aja.h} = not born\\
+  1a&{\dn ajo.api}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&jo|&ja.h = {\dn ja.h} = born\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \male, {\dn janma.h} = janma.h = birth}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn janma.h} = janma.h = birth}\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
   &{\dn sannavyayaatmaa}&san|&{\dn san} = (?)\\
   &&&\\
-  &&na|vya|yaat|&avyaya\\
-  &&&= {\dn avyaya}\\
-  &&&= not spending; not dying; not changing\\
+  &&na|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yaat|&vyaya\\
+  &&&= {\dn vyaya}\\
+  &&&= spending; dying; changing\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn vyaya} = vyaya}\\
   &&&\\
   &&maa&aatmaa = {\dn aatmaa} = self; soul\\
   &&&\note{\noun, \male}\\
@@ -559,12 +565,14 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&= rise; exaltation; power\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&dhar|ma|sya&adharmasya\\
-  &&&= {\dn adharmasya}\\
-  &&&= not + of conduct; virtue; devotion; religion\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&dhar|ma|sya&dharmasya\\
+  &&&= {\dn dharmasya}\\
+  &&&= of conduct; virtue; devotion; religion\\
   &&&\note{\noun, \male, \genitivecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h}\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1085,20 +1093,24 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&= perforating; piercing; knowing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&kar|taa|ra|ma|&akartaaram\\
-  &&&= {\dn akartaaram}\\
-  &&&= (?) not + doer\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \verbb, \infinitive, {\dn kartum} = kartum}\\
-  &&&\note{= to do}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
   &&&\\
-  &&vya|yam&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= not + changeable\\
+  &&kar|taa|ra|ma|&kartaaram\\
+  &&&= {\dn kartaaram}\\
+  &&&= (?) doer\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn kartum} = kartum = to do}\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yam&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= changeable\\
   &&&\note{\adjective, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \neuter, {\dn vyayam} = vyayam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1299,7 +1311,7 @@ will be free from non-grace.\\
   &&&\note{\pronoun, \neuter}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&kar|me|&karmam\\
   &&&= {\dn karmam}\\
@@ -1362,12 +1374,14 @@ will be free from non-grace.\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn mok.s} = mok.s}\\
   &&&\\
-  &&'\quad"su|bhaat&a"subhaat\\
-  &&&= {\dn a"subhaat}\\
-  &&&= not + from beauty; charm; grace\\
+  &&'|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"su|bhaat&"subhaat\\
+  &&&= {\dn "subhaat}\\
+  &&&= from beauty; charm; grace\\
   &&&\note{\noun, \neuter, \ablativecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter,  {\dn "subham} = "subham}\\
+  &&&\note{from {\dn "subham} = "subham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1421,12 +1435,13 @@ hard to understand.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn akarma.na"sca}&a|kar|ma|.na"s|&akarma.na.h\\
-  &&&= {\dn akarma.na.h}\\
-  &&&= not + related to action or work\\
+  2a&{\dn akarma.na"sca}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&kar|ma|.na"s|&karma.na.h\\
+  &&&= {\dn karma.na.h}\\
+  &&&= related to action or work\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn karma.na.h} = karma.na.h}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -1471,7 +1486,7 @@ men. He is occupied with all actions done.\\
   &&&\notekarmam\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
@@ -1488,11 +1503,13 @@ men. He is occupied with all actions done.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &&da|kar|ma|.ni&akarma.ni\\
-  &&&= {\dn akarma.ni}\\
-  &&&= not + related to action or work\\
+  1b&da|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&kar|ma|.ni&karma.ni\\
+  &&&= {\dn karma.ni}\\
+  &&&= related to action or work\\
   &&&\note{\adjective}\\
-  &&&\note{\prefix: {\dn a} = a = not}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1853,11 +1870,13 @@ selfish, (is) the same in successful (things) and non-successful
   &&&= accomplished; perfect; successful\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\\
-  &&sid|dhau&asiddhau\\
-  &&&= {\dn asiddhau}\\
-  &&&= not + accomplished; perfect; successful\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sid|dhau&siddhau\\
+  &&&= {\dn siddhau}\\
+  &&&= accomplished; perfect; successful\\
   &&&\note{\adjective, \male, \dual}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2650,12 +2669,14 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &&yaj|\~{}na|sya&ayaj\~{}nasya\\
-  &&&= {\dn ayaj~nasya}\\
-  &&&= not + of a/the sacrifice; devotion; worship\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&yaj|\~{}na|sya&yaj\~{}nasya\\
+  &&&= {\dn yaj~nasya}\\
+  &&&= of a/the sacrifice; devotion; worship\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
-  &&&\note{\prefix: {\dn a} = a = not}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3362,11 +3383,13 @@ next (world).\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&"srad|da|dhaa|na"s|&a"sraddadhaana.h\\
-  &&&= {\dn a"sraddadhaana.h}\\
-  &&&= not + believing; trustful; faithful\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"srad|da|dhaa|na"s|&"sraddadhaana.h\\
+  &&&= {\dn "sraddadhaana.h}\\
+  &&&= believing; trustful; faithful\\
   &&&\note{\adjective, \male}\\
-  &&&\note{\prefix: {\dn a} = a = not}\\
   &&&\\
   &&ca&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3526,7 +3549,7 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\

@@ -162,22 +162,24 @@ in heaven. Non-repuation is the tax (bad result), O Arjuna.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn ju.s.ta.h} = ju.s.ta.h}\\
   &&&\\
-  &&svar|gya|&asvargyam\\
-  &&&= {\dn asvargyam}\\
-  &&&= not + in heaven\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&svar|gya|&svargyam\\
+  &&&= {\dn svargyam}\\
+  &&&= in heaven\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn asvargya.h} = asvargya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn svargya.h} = svargya.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|kiir|ti|&akiirti.h\\
-  &&&= {\dn akiirti.h}\\
-  &&&= not + credit; reputatation\\
+  2b&&ma|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\ 
+  &&kiir|ti|&kiirti.h\\
+  &&&= {\dn kiirti.h}\\
+  &&&= credit; reputatation\\
   &&&\note{\noun, \female}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
   &&&\\
   &&ka|ra|mar|&karam\\
   &&&= {\dn karam}\\
@@ -380,12 +382,13 @@ has eleven main syllables per line.)\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn guru.h} = guru.h}\\
   &&&\\
-  &&hat|vaa&ahatvaa\\
-  &&&= {\dn ahatvaa}\\
-  &&&= not + having hit; hurt; killed\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&hat|vaa&hatvaa\\
+  &&&= {\dn hatvaa}\\
+  &&&= having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \perfectparticiple, {\dn hatvaa} = hatvaa}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
@@ -798,12 +801,11 @@ has eleven main syllables per line.)\\
   &&&= in/on the ground\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&sa|pat|na|m.rd|&asapatnam\\
-  &&&= {\dn asapatnam}\\
-  &&&= not + enemy\\
-  &&&\note{\adjective, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn sapatna.h} = sapatna.h}\\
+  &&sa|pat|na|m.rd|&sapatnam\\
+  &&&= {\dn sapatnam}\\
+  &&&= enemy\\
+  &&&\note{\noun, \male}\\
+  &&&\note{from: {\dn sapatna.h} = sapatna.h}\\
   &&&\\
   &&dha.m&.rddham\\
   &&&= {\dn .rddham}\\
@@ -1021,13 +1023,14 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn a"socyaananva"socastva.m}&a|"so|cyaa|nan|&a"socyaan\\
-  &&&= {\dn a"socyaan}\\
-  &&&= not + woeful; regrettable\\
+  1a&{\dn a"socyaananva"socastva.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"so|cyaa|nan|&"socyaan\\
+  &&&= {\dn "socyaan}\\
+  &&&= woeful; regrettable\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn a"socya.h} = a"socya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn "socya.h} = "socya.h}\\
+  &&&\note{from {\dn "socya.h} = "socya.h}\\
   &&&\\
   &&va|"so|ca|&anva"soca.h\\
   &&&= {\dn anva"soca.h}\\
@@ -1072,13 +1075,14 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn asu.h} = asu.h}\\
   &&&\\
-  &&ga|taa|&agataan\\
-  &&&= {\dn agataan}\\
-  &&&= not + gone; dead; understood\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&ga|taa|&gataan\\
+  &&&= {\dn gataan}\\
+  &&&= gone; dead; understood\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn agata.h} = agata.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn gata.h} = gata.h}\\
+  &&&\note{from {\dn gata.h} = gata.h}\\
   &&&\\
   &&suu.m"s|&asuun\\
   &&&= {\dn asuun}\\
@@ -1348,13 +1352,14 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&\note{similar: \adjective, {\dn apaayin} = apaayin}\\
   &&&\note{= perishable; disappearing}\\
   &&&\\
-  &&'ni|tyaa|&anityaa.h\\
-  &&&= {\dn anityaa.h}\\
-  &&&= not + eternal\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&'ni|tyaa|&nityaa.h\\
+  &&&= {\dn nityaa.h}\\
+  &&&= eternal\\
   &&&\note{\adjective, \male, \plural}\\
-  &&&\note{from {\dn anitya.h} = anitya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn nitya.h} = nitya.h}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1457,13 +1462,14 @@ is suitable for ``not-dead'' (immortality).\\
   2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &&'m.r|ta|tvaa|ya&am.rtatvaaya\\
-  &&&= {\dn am.rtatvaaya}\\
-  &&&= for (not + dead); for ambrosia\\
-  &&&\note{\noun, \neuter, \dativecase}\\
-  &&&\note{from {\dn am.rtatvam} = am.rtatvam}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \neuter, {\dn m.rtam} = m.rtam = dead}\\
+  &&'|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&m.r|ta|tvaa|ya&m.rtatvaaya\\
+  &&&= {\dn m.rtatvaaya}\\
+  &&&= for something dead\\
+  &&&\note{\adjective, \neuter, \dativecase}\\
+  &&&\note{from {\dn m.rtam} = m.rtam}\\
   &&&\\
   &{\dn kalpate}&kal|pa|te&(he/she/it) is suitable for\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1483,11 +1489,15 @@ these two statements---by people who know or see.\\
   1a&{\dn naasato}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&sa|to&asata.h\\
-  &&&= {\dn asata.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sa|to&sata.h\\
+  &&&= {\dn sata.h}\\
   &&&= (?)\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \adjective, {\dn satata} = satata = eternal}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn satata} = satata = eternal}\\
+  &&&\note{\adjective}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1503,12 +1513,13 @@ these two statements---by people who know or see.\\
   1b&{\dn naabhaavo}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&bhaa|vo&abhaava.h\\
-  &&&= {\dn abhaava.h}\\
-  &&&= non + birth; state (of existence)\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&bhaa|vo&bhaava.h\\
+  &&&= {\dn bhaava.h}\\
+  &&&= birth; state (of existence)\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn bhaava.h} = bhaava.h}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1576,12 +1587,13 @@ this (everything) is covered (by it). The decay of this non-decayable
 thing---not any (person) is able to do (it).\\
 
 \begin{tabular}{llll}
-  1a&{\dn avinaa"si}&a|vi|naa|"si&avinaa"sin\\
-  &&&= {\dn avinaa"sin}\\
-  &&&= not + perishable\\
+  1a&{\dn avinaa"si}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vi|naa|"si&vinaa"sin\\
+  &&&= {\dn vinaa"sin}\\
+  &&&= perishable\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn vinaa"sin} = vinaa"sin}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
@@ -1622,13 +1634,14 @@ thing---not any (person) is able to do (it).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vinaa"sa.h} = vinaa"sa.h}\\
   &&&\\
-  &&vya|ya|syaa|&avyayasya\\
-  &&&= {\dn avyayasya}\\
-  &&&= of something (not + changeable;\\
-  &&&decayable)\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|ya|syaa|&vyayasya\\
+  &&&= {\dn vyayasya}\\
+  &&&= of something changeable; decayable\\
   &&&\note{\adjective, \male, \genitivecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male: {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
   &&&\\
   &&sya&asya\\
   &&&= {\dn asya}\\
@@ -1702,20 +1715,23 @@ descendant of Bharata (O Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn anaa"sino.aprameyasya}&a|naa|"si|no|&anaa"sina.h\\
-  &&&= {\dn anaa"sina.h}\\
-  &&&= not perishable; destructive; destroying\\
-  &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn naa"sin} = naa"sin}\\
+  2a&{\dn anaa"sino.aprameyasya}&a|&{\dn a} = not\\
+  &&&\notea\\
   &&&\\
-  &&'pra|me|ya|sya&aprameyasya\\
-  &&&= {\dn aprameyasya}\\
-  &&&= of something (not + measurable; proved)\\
+  &&naa|"si|no|&naa"sina.h\\
+  &&&= {\dn naa"sina.h}\\
+  &&&= perishable; destructive; destroying\\
+  &&&\note{\adjective}\\
+  &&&\note{from {\dn naa"sin} = naa"sin}\\
+  &&&\\
+  &&'|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pra|me|ya|sya&prameyasya\\
+  &&&= {\dn prameyasya}\\
+  &&&= of something measurable; proved\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn aprameya.h}= aprameya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn prameya.h} = prameya.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1884,12 +1900,13 @@ has eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ajo}&a|jo&aja.h\\
-  &&&= {\dn aja.h}\\
-  &&&= not + born\\
+  2a&{\dn ajo}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&jo&ja.h\\
+  &&&= {\dn ja.h}\\
+  &&&= born\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h}\\
   &&&\\
   &{\dn nitya.h}&ni|tya\h{a}&eternal\\
   &&&\note{\adjective, \male}\\
@@ -1941,12 +1958,16 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&= knowledge\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vi|naa|"si|na.m&avinaa"sinam\\
-  &&&= {\dn avinaa"sinam}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vi|naa|"si|na.m&vinaa"sinam\\
+  &&&= {\dn vinaa"sinam}\\
   &&&= (?)\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \neuter, {\dn vina"sanam} = vina"sanam}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn vina"sanam} = vina"sanam}\\
   &&&\note{= death; disappearance; loss}\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&nityam = {\dn nityam} = eternal\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -1961,20 +1982,21 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
   &&&\\
-  &&ja|ma|&ajam = {\dn ajam} = not + born\\
-  &&&\note{from {\dn aja.h} = aja.h}\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn ja.h} = ja.h = born}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
   &&&\\
-  &&vya|yam&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= not + changeable\\
+  &&ja|ma|&jam = {\dn jam} = born\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male,}\\
-  &&&\note{{\dn vyaya.h} = vyaya.h = changeable}\\
+  &&&\note{from {\dn ja.h} = ja.h = born}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yam&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= changeable\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2207,26 +2229,36 @@ not moving. This is eternal.\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &&daa|hyo|&adaahya.h = {\dn adaahya.h} = (?) not + burnable\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \male, {\dn daaha.h} = daaha.h}\\
-  &&&\note{= burning; redness; heat}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&daa|hyo|&daahya.h\\
+  &&&= {\dn daahya.h}\\
+  &&&= burning; redness; heat\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|kle|dyo|&akledya.h = {\dn akledya.h} = (?) not + wettable\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \male, {\dn kleda.h} = kleda.h = wetness; rotting}\\
+  1b&&ma|&{\dn a} = a = not\\
+  &&&\notea\\
   &&&\\
-  &&'\quad"so|.sya&a"so.sya.h = {\dn a"so.sya.h} = (?) not + dryable\\
+  &&kle|dyo|&kledya.h = {\dn kledya.h} = (?) wettable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \male, {\dn "so.sa.h} = "so.sa.h = drying; breath}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn kleda.h} = kleda.h = wetness; rotting}\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&'|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"so|.sya&"so.sya.h = {\dn "so.sya.h} = (?) dryable\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn "so.sa.h} = "so.sa.h = drying; breath}\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\
@@ -2253,12 +2285,13 @@ not moving. This is eternal.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ra|ca|lo|&acala.h\\
-  &&&= {\dn acala.h}\\
-  &&&= not + confused; shaking; moving\\
+  2b&&ra|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&ca|lo|&cala.h\\
+  &&&= {\dn cala.h}\\
+  &&&= confused; shaking; moving\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn cala.h} = cala.h}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -2281,34 +2314,37 @@ you do not deserve to lament.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyakto.ayamacintyo.ayamavikaaryo.ayamucyate}\\
   &&&\\
-  &&a|vyak|to|&avyakta.h\\
-  &&&= {\dn avyakta.h}\\
-  &&&= not + visible\\
+  &&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|to|&vyakta.h\\
+  &&&= {\dn vyakta.h}\\
+  &&&= visible\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &&cin|tyo|&acintya.h\\
-  &&&= {\dn acintya.h}\\
-  &&&= not + thinkable\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&cin|tyo|&cintya.h\\
+  &&&= {\dn cintya.h}\\
+  &&&= thinkable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn cintya.h} = cintya.h}\\
   &&&\\
   &&'ya|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|vi|kaar|yo|&avikaarya.h\\
-  &&&= {\dn avikaarya.h}\\
-  &&&= not + changeable\\
+  1b&&ma|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vi|kaar|yo|&vikaarya.h\\
+  &&&= {\dn vikaarya.h}\\
+  &&&= changeable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vikaarya.h} = vikaarya.h}\\
   &&&\\
   &&'ya|mu|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -2507,12 +2543,14 @@ to lament.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&pa|ri|haar|ye'r|&aparihaarye\\
-  &&&= {\dn aparihaarye}\\
-  &&&= not in a/the separated; avoided; repeated\\
-  &&&thing\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pa|ri|haar|ye'r|&parihaarye\\
+  &&&= {\dn parihaarye}\\
+  &&&= at/in/on something separated; avoided; repeated\\
   &&&\note{\adjective, \male, \locativecase}\\
-  &&&\note{from {\dn a} + {\dn parihaarya.h} = a + parihaarya.h}\\
+  &&&\note{from {\dn parihaarya.h} = parihaarya.h}\\
   &&&\\
   &&the&arthe\\
   &&&= {\dn arthe}\\
@@ -2550,11 +2588,13 @@ descendant of Bharata (O Arjuna)---and not-clear-at-the-end. Really,
 there are what lamentations (why be sad)?\\
 
 \begin{tabular}{llll}
-  1a&{\dn avyaktaadiini}&a|vyak|taa|&avyakta\\
-  &&&= {\dn avyakta}\\
-  &&&= not clear\\
+  1a&{\dn avyaktaadiini}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|taa|&vyakta\\
+  &&&= {\dn vyakta}\\
+  &&&= clear\\
   &&&\note{\adjective}\\
-  &&&\note{from {\dn a} + {\dn vyakta} = a + vyakta}\\
   &&&\\
   &&dii|ni&aadiini\\
   &&&= {\dn aadiini}\\
@@ -2583,9 +2623,12 @@ there are what lamentations (why be sad)?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn avyaktanidhanaanyeva}&a|vyak|ta|&not clear\\
+  2a&{\dn avyaktanidhanaanyeva}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|ta|&{\dn vyakta}\\
+  &&= clear\\
   &&&\note{\adjective}\\
-  &&&\note{from {\dn a} + {\dn vyakta} = a + vyakta}\\
   &&&\\
   &&ni|dha|naa|nye|&nidhanaani\\
   &&&= {\dn nidhanaani}\\
@@ -2747,11 +2790,13 @@ deserve to lament each being.\\
   &&&\note{\adverb}\\
   &&&\note{from {\dn nitya} = nitya = eternal}\\
   &&&\\
-  &&va|dhyo|&avadhya.h\\
-  &&&= {\dn avadhya.h}\\
-  &&&= not to be killed\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&va|dhyo|&vadhya.h\\
+  &&&= {\dn vadhya.h}\\
+  &&&= to be killed\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from {\dn a} + {\dn vadhya.h} = a + vadhya.h}\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
@@ -3047,10 +3092,14 @@ death.\\
 (Paraphrase: People will talk about your infamy after your death.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn akiirti.m}&a|kiir|ti.m&non-reputation; non-fame; non-glory\\
+  1a&{\dn akiirti.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&kiir|ti.m&kiirtim\\
+  &&&= {\dn kiirtim}\\
+  &&&= reputation; fame; glory\\
   &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
+  &&&\note{from {\dn kiirti.h} = kiirti.h}\\
   &&&\\
   &{\dn caapi}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3087,12 +3136,13 @@ death.\\
   &{\dn caakiirtirmara.naadatiricyate}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&kiir|tir|&akiirti.h\\
-  &&&= {\dn akiirti.h}\\
-  &&&= non-reputation; non-fame; non-glory\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&kiir|tir|&kiirti.h\\
+  &&&= {\dn kiirti.h}\\
+  &&&= reputation; fame; glory\\
   &&&\note{\noun, \female}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \female, {\dn kiirti.h} = kiirti.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3201,9 +3251,12 @@ Your enemies will say many not-to-be-said sounds, abusing your
 ability. From more sadness, certainly, what can come?\\
 
 \begin{tabular}{llll}
-  1a&{\dn avaacyavaadaa.m"sca}&a|vaa|cya|&not to be said\\
+  1a&{\dn avaacyavaadaa.m"sca}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vaa|cya|&{\dn vaacya}\\
+  &&&= to be said\\
   &&&\note{\adjective}\\
-  &&&\note{from {\dn a} + {\dn vaacya} = a + vaacya}\\
   &&&\\
   &&vaa|daa.m"s|&vaadaan\\
   &&&= {\dn vaadaan}\\
@@ -3374,10 +3427,18 @@ similar. Thus, you will not gain evil.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn laabhaalaabhau}&laa|bhaa|laa|bhau&profit and non-profit\\
+  1b&{\dn laabhaalaabhau}&laa|bhaa|&laaba.h\\
+  &&&= {\dn laabha.h}\\
+  &&&= profit\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&laa|bhau&{\dn laabhau}\\
+  &&&= two acts of profit\\
   &&&\note{\noun, \male, \dual}\\
-  &&&\note{from: \noun, \male, {\dn laabha.h} = laabha.h}\\
-  &&&\note{from: \noun, \male, {\dn a} + {\dn laabha.h} = a + laabha.h}\\
+  &&&\note{from {\dn laabha.h} = laabha.h}\\
   &&&\\
   &{\dn jayaajayau}&ja|yaa|&jaya.h\\
   &&&= {\dn jaya.h}\\
@@ -3385,7 +3446,7 @@ similar. Thus, you will not gain evil.\\
   &&&\notejayaH\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&ja|yau&{\dn jayau}\\
   &&&= two victories\\
@@ -3699,11 +3760,13 @@ group of words, O prince (O Arjuna):\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pravad} = pravad}\\
   &&&\\
-  &&vi|pa"s|ci|ta\h{a}&avipa"scita.h\\
-  &&&= {\dn avipa"scita.h}\\
-  &&&= not wise\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vi|pa"s|ci|ta\h{a}&vipa"scita.h\\
+  &&&= {\dn vipa"scita.h}\\
+  &&&= wise\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from {\dn a} + {\dn vipa"scita.h} = a + vipa"scita.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4130,10 +4193,16 @@ actions. Do not be a joining in your non-action.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
-  &&kar|ma|.ni&akarma.ni\\
-  &&&= {\dn akarma.ni}\\
-  &&&= in non-action (?)\\
-  &&&\note{from: \noun, \neuter, {\dn a} + {\dn karmam} = a + karmam}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&kar|ma|.ni&karma.ni\\
+  &&&= {\dn karma.ni}\\
+  &&&= (?) in action\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karmam} = karmam}\\
+  &&&\note{= \karmam}\\
+  &&&\notekarmam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4190,11 +4259,14 @@ non-success. This equanimity is called ``yoga.''\\
   &&&= success\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&sid|dhyo.h&asiddhyo.h\\
-  &&&= {\dn asiddhyo.h}\\
-  &&&= at/in/on non-success\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sid|dhyo.h&siddhyo.h\\
+  &&&= {\dn siddhyo.h}\\
+  &&&= at/in/on success\\
   &&&\note{\noun, \female, \locativecase}\\
-  &&&\note{from {\dn a} + {\dn siddhi.h} = a + siddhi.h}\\
+  &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &{\dn samo}&sa|mo&sama.h\\
   &&&= {\dn sama.h}\\
@@ -4563,11 +4635,13 @@ when your mind is not disturbed, then you will get devotion.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn samaadhi.h} = samaadhi.h}\\
   &&&\\
-  &&ca|laa|&acalaa\\
-  &&&= {\dn acalaa}\\
-  &&&= steady; not moving; not disturbed\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&ca|laa|&calaa\\
+  &&&= {\dn calaa}\\
+  &&&= moving; disturbed\\
   &&&\note{\adjective, \female}\\
-  &&&\note{from {\dn a} + {\dn calaa} = a + calaa}\\
   &&&\\
   &{\dn buddhistadaa}&bud|dhi|sta|&buddhi.h\\
   &&&= {\dn buddhi.h}\\
@@ -4887,13 +4961,13 @@ complete.\\
   &&&= goodness; happiness; beauty\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&"su|bham&a"subham\\
-  &&&= {\dn a"subham}\\
-  &&&= non-goodness;\\
-  &&&\quad non-happiness;\\
-  &&&\quad non-beauty\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"su|bham&"subham\\
+  &&&= {\dn "subham}\\
+  &&&= goodness; happiness; beauty\\
   &&&\note{\noun, \neuter}\\
-  &&&\note{from {\dn a} + {\dn "subham} = a + "subham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5524,7 +5598,7 @@ or non-peace---from where does happiness come?\\
   &&&\notebuddhiH\\
   &&&\\
   &&|&a= {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&yuk|ta|sya&yuktasya\\
   &&&= {\dn yuktasya}\\
@@ -5541,7 +5615,7 @@ or non-peace---from where does happiness come?\\
   &&&\noteca\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&yuk|ta|sya&yuktasya\\
   &&&= {\dn yuktasya}\\
@@ -5574,11 +5648,14 @@ or non-peace---from where does happiness come?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&"saan|ta|sya|&a"saantasya\\
-  &&&= {\dn a"saantasya}\\
-  &&&= of non-peace\\
-  &&&\note{\noun, \male, \genitivecase}\\
-  &&&\note{from {\dn a} + {\dn "saanti.h} = a + "saanti.h}\\
+  2b&&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"saan|ta|sya|&"saantasya\\
+  &&&= {\dn "saantasya}\\
+  &&&= of peace\\
+  &&&\note{\noun, \female, \genitivecase}\\
+  &&&\note{from {\dn "saanti.h} = "saanti.h}\\
   &&&\\
   &{\dn kuta.h}&ku|ta\h{a}&from where\\
   &&&\\

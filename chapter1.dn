@@ -774,13 +774,13 @@ limited is this, the power of these (the Paa.n.davas), (which is)
 Bhiima-protected.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aparyaapta.m}&a|par|yaap|ta.m&aparyaaptam\\
-  &&&= {\dn aparyaaptam}\\
-  &&&= not + enough; limited\\
+  1a&{\dn aparyaapta.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&par|yaap|ta.m&paryaaptam\\
+  &&&= {\dn paryaaptam}\\
+  &&&= enough; limited\\
   &&&\note{\adjective, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \neuter,}\\
-  &&&\note{{\dn paryaaptam} = paryaaptam}\\
   &&&\\
   &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -1364,12 +1364,13 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&pa|raa|ji|ta\h{a}&aparaajita.h\\
-  &&&= {\dn aparaajita.h}\\
-  &&&= not + defeated\\
-  &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn paraajita.h} = paraajita.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pa|raa|ji|ta\h{a}&paraajita.h\\
+  &&&= {\dn paraajita.h}\\
+  &&&= defeated\\
+  &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1673,14 +1674,13 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&&\note{\dativecase, \genitivecase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&'cyu|ta&acyuta = {\dn acyuta}\\
-  &&&= O (not + disappeared)\\
-  &&&= O K.r.s.na\\
+  &&'|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&cyu|ta&ayuta = {\dn cyuta}\\
+  &&&= O disappeared; gone; moved\\
   &&&\note{\adjective, \male, \vocativecase}\\
-  &&&\note{from {\dn acutya.h} = acyuta.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn cyuta.h} = cyuta.h}\\
-  &&&\note{= disappeared; gone; moved}\\
+  &&&\note{from {\dn cutya.h} = cyuta.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3270,11 +3270,13 @@ goodness, all non-goodness overcomes the clan.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|dhar|mo|&adharma.h\\
-  &&&= {\dn adharma.h}\\
-  &&&= a + dharma.h\\
-  &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + goodness\\
+  2b&&ma|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&dhar|mo|&dharma.h\\
+  &&&= {\dn dharma.h}\\
+  &&&= dharma.h\\
+  &&&= goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&'bhi|bha|va|tyu|&abhibhavati\\
@@ -3300,11 +3302,12 @@ castes, and is viewed as a bad person.)\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn adharmaabhibhavaatk.r.s.na}}\\
   &&&\\
-  &&a|dhar|maa|&adharma.h\\
-  &&&= {\dn adharma.h}\\
-  &&&= a + dharma.h\\
-  &&&= {\dn a} + {\dn dharma.h}\\
-  &&&= not + goodness\\
+  &&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&dhar|maa|&dharma.h\\
+  &&&= {\dn dharma.h}\\
+  &&&= goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&bhi|bha|vaat|&abhibhavaat\\
@@ -3721,23 +3724,24 @@ for me, is more comfortable.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&pra|tii|kaa|ra|&apratiikaaram\\
-  &&&= {\dn apratiikaaram}\\
-  &&&= not + remedy\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pra|tii|kaa|ra|&pratiikaaram\\
+  &&&= {\dn pratiikaaram}\\
+  &&&= remedy\\
+  &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn apratiikaara.h} = apratiikaara.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn pratiikaara.h} = pratiikaara.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|"sa|stra.m&a"sastram\\
-  &&&= {\dn a"sastram}\\
-  &&&= not + missle; weapon; tool\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn a"sastra.h} = a"sastra.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn "sastram} = "sastram}\\
+  1b&&ma|&{\dn a} = a = not\\
+  &&&\notea\\
+  &&&\\
+  &&"sa|stra.m&"sastram\\
+  &&&= {\dn "sastram}\\
+  &&&= missle; weapon; tool\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn "sastrapaa.naya.h}&"sa|stra|&"sastram\\
   &&&= {\dn "sastram}\\

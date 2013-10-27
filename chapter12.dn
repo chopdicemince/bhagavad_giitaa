@@ -67,7 +67,7 @@ God)---of those, who are yoked-(knowing)-most?\\
   &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&k.sa|ra|ma|&k.saram\\
   &&&= {\dn k.saram}\\
@@ -75,7 +75,7 @@ God)---of those, who are yoked-(knowing)-most?\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&vyak|ta.m&vyaktam\\
   &&&= {\dn vyaktam}\\
@@ -245,7 +245,7 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\notetu\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&k.sa|ra|ma|&k.saram\\
   &&&= {\dn k.saram}\\
@@ -254,7 +254,7 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&nir|de|"sya|&nirde"syam = {\dn nirde"syam} = definite\\
   &&&\note{\adjective, \neuter}\\
@@ -263,7 +263,7 @@ best-standing, the non-moving, the fixed, \dots\\
   \hline
   &&&\\
   1b&&ma|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&vyak|ta.m&vyaktam = {\dn vyaktam} = visible; clear\\
   &&&\note{\adjective, \neuter}\\
@@ -286,7 +286,7 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\verbb, root}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&cin|tya.m&cintyam\\
   &&&= {\dn cintyam}\\
@@ -311,7 +311,7 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&ca|la.m&calam\\
   &&&= {\dn calam}\\
@@ -435,7 +435,7 @@ attain a person/thing.\\
   \hline
   &&&\\
   1b&&ma|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&vyak|taa|&vyakta\\
   &&&= {\dn vyakta}\\
@@ -443,10 +443,10 @@ attain a person/thing.\\
   &&&\note{\adjective}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&sak|ta|&{\dn sakta}\\
   &&&= sticking; attached\\
@@ -461,7 +461,7 @@ attain a person/thing.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn avyaktaa}&a|&{\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&vyak|taa&{\dn vyaktaa}\\
   &&&= visible; clear\\
@@ -844,7 +844,7 @@ doing actions.\\
   &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&sa|mar|tho|&samartha.h = {\dn samartha.h} = sufficient; suitable; able\\
   &&&\note{\adjective}\\
@@ -941,7 +941,7 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
   &&&\noteapi\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&"sak|to|&"sakta.h = {\dn "sakta.h} = able\\
   &&&\note{\adjective, \male}\\
@@ -1124,7 +1124,7 @@ forgiv(ing), \dots\\
 
 \begin{tabular}{llll}
   1a&{\dn adve.s.taa}&a|&{\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&dve|.s.taa&{\dn dve.s.taa}\\
   &&&= enemy\\
@@ -1336,7 +1336,7 @@ of me.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&mar|.sa|&mar.sa.h\\
   &&&= {\dn mar.sa.h}\\
@@ -1519,7 +1519,7 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &&&\note{\adjective}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&"su|bha|&{\dn "subha}\\
   &&&= good\\
@@ -1687,7 +1687,7 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn aniketa.h}&a|&{\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&ni|ke|ta\h{a}&{\dn niketa.h}\\
   &&&= residence; house\\
@@ -1745,7 +1745,7 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&m.r|ta|mi|&m.rtam\\
   &&&= {\dn m.rtam}\\

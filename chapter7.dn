@@ -59,13 +59,14 @@ me completely. Hear that.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn asa.m"saya.m}&a|sa.m|"sa|ya.m&asa.m"sayam\\
-  &&&= {\dn asa.m"sayam}\\
-  &&&= not + doubt; danger\\
+  2a&{\dn asa.m"saya.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sa.m|"sa|ya.m&sa.m"sayam\\
+  &&&= {\dn sa.m"sayam}\\
+  &&&= doubt; danger\\
   &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn asa.m"saya.h} = asa.m"saya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn sa.m"saya.h} = sa.m"saya.h}\\
+  &&&\note{from {\dn sa.m"saya.h} = sa.m"saya.h}\\
   &&&\\
   &{\dn samagra.m}&sa|ma|gra.m&samagram\\
   &&&= {\dn samagram}\\
@@ -359,12 +360,13 @@ Arjuna). By this (is done) the world.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn apareyamitastvanyaa.m}\\
   &&&\\
-  &&a|pa|re|&apara\\
-  &&&= {\dn apara}\\
-  &&&= not + paramount; other; different\\
+  &&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pa|re|&para\\
+  &&&= {\dn para}\\
+  &&&= paramount; other; different\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn para} = para}\\
   &&&\\
   &&ya|mi|&iyam = {\dn iyam} = this\\
   &&&\note{\pronoun, \female}\\
@@ -905,12 +907,13 @@ to goodness, O Bharata-bull (O Arjuna).\\
   &&&= goodness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vi|rud|dho&aviruddha.h\\
-  &&&= {\dn aviruddha.h}\\
-  &&&= not + inverse\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vi|rud|dho&viruddha.h\\
+  &&&= {\dn viruddha.h}\\
+  &&&= inverse\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn viruddha.h} = viruddha.h}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
@@ -1122,13 +1125,14 @@ changeable.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
-  &&vya|yam&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= not + changeable\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yam&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= changeable\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1809,13 +1813,14 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&ca|laa.m&acalaam\\
-  &&&= {\dn acalaam}\\
-  &&&= not + shaking; confused\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&ca|laa.m&calaam\\
+  &&&= {\dn calaam}\\
+  &&&= shaking; confused\\
   &&&\note{\adjective, \female, \accusativecase}\\
-  &&&\note{from {\dn acalaa} = acalaa}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \female, {\dn calaa} = calaa}\\
+  &&&\note{from {\dn calaa} = calaa}\\
   &&&\\
   &{\dn "sraddhaa.m}&"srad|dhaa.m&"sraddhaam\\
   &&&= {\dn "sraddhaam}\\
@@ -2029,13 +2034,14 @@ person attained, (not knowing that) my behavior is paramount,
 not-changeable, and ultimate.\\
 
 \begin{tabular}{llll}
-  1a&{\dn avyakta.m}&a|vyak|ta.m&avyaktam\\
-  &&&= {\dn avyaktam}\\
-  &&&= not + visible; evident; clear\\
+  1a&{\dn avyakta.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|ta.m&vyaktam\\
+  &&&= {\dn vyaktam}\\
+  &&&= visible; evident; clear\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn avyakta.h} = avyakta.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \male, \adjective, {\dn vyakta.h} = vyakta.h}\\
+  &&&\note{from {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &{\dn vyaktimaapanna.m}&vyak|ti|maa|&vyaktim\\
   &&&= {\dn vyaktim}\\
@@ -2060,7 +2066,7 @@ not-changeable, and ultimate.\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&bud|dha|ya\h{a}&{\dn buddhaya.h}\\
   &&&= \buddhayaH\\
@@ -2082,12 +2088,15 @@ not-changeable, and ultimate.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &&jaa|nan|to&ajaananta.h\\
-  &&&= {\dn ajaananta.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&jaa|nan|to&jaananta.h\\
+  &&&= {\dn jaananta.h}\\
   &&&= (?)\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
-  &&&\note{= knowledge}\\
+  &&&\note{similar:}\\
+  &&&\\note{{\dn j~naanam} = j\~{}naanam = \jJAnam}\\
+  &&&\notejJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2180,21 +2189,23 @@ not-changeable.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&ja|ma|&ajam\\
-  &&&= {\dn ajam}\\
-  &&&= not + born\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn aja.h} = aja.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \prefix, {\dn ja.h} = ja.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
   &&&\\
-  &&vya|yam&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= not + changeable; decayable\\
+  &&ja|ma|&jam\\
+  &&&= {\dn jam}\\
+  &&&= born\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn ja.h} = ja.h}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yam&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= changeable; decayable\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

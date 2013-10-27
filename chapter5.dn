@@ -472,12 +472,15 @@ grief. A union-joined a sage, using no delay, gets God.\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn aap} = aap}\\
   &&&\\
-  &&yo|ga|ta\h{a}&ayogata.h\\
-  &&&= {\dn ayogata.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&yo|ga|ta\h{a}&yogata.h\\
+  &&&= {\dn yogata.h}\\
   &&&= (?)\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \male, {\dn yoga.h} = yoga.h}\\
-  &&&\note{= union; action; work}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn yoga.h} = yoga.h = yogaH}\\
+  &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1007,7 +1010,7 @@ attached to fruit (results), is bound.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ayukta.h}&a|&{\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&yuk|ta\h{a}&{\dn yukta.h}\\
   &&&= \yuktaH\\
@@ -1257,12 +1260,14 @@ non-knowledge---covered knowledge.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aj~naanenaav.rta.m}&a|j\~{}naa|ne|naa|&aj\~{}naanena\\
-  &&&= {\dn aj~naanena}\\
-  &&&= not + using/by knowledge; awareness; consciousness\\
+  2a&{\dn aj~naanenaav.rta.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&j\~{}naa|ne|naa|&j\~{}naanena\\
+  &&&= {\dn j~naanena}\\
+  &&&= using/by knowledge; awareness; consciousness\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
+  &&&\note{from {\dn j~naanam} = j\~{}naanam}\\
   &&&\\
   &&v.r|ta.m&aav.rtam\\
   &&&= {\dn aav.rtam}\\
@@ -1310,7 +1315,7 @@ one (God).\\
   &&&\notetat\\
   &&&\\
   &&|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  &&&\notea\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1666,13 +1671,13 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &{\dn caapriyam}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&pri|yam&apriyam\\
-  &&&= {\dn apriyam}\\
-  &&&= not + pleasure; kindness; love\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&pri|yam&{\dn priyam}\\
+  &&&= pleasure; kindness; love\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \neuter, {\dn priyam} = priyam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1686,12 +1691,13 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&= \buddhiH\\
   &&&\notebuddhiH\\
   &&&\\
-  &&sam|muu|.dho&asammuu.dha.h\\
-  &&&= {\dn asammuu.dha.h}\\
-  &&&= not + foolish; bewildered; confused\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sam|muu|.dho&sammuu.dha.h\\
+  &&&= {\dn sammuu.dha.h}\\
+  &&&= foolish; bewildered; confused\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn sammuu.dha.h} = sammuu.dha.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1731,12 +1737,13 @@ non-decaying happiness.\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn spar"sa.h} = spar"sa.h}\\
   &&&\\
-  &&sak|taat|&asakta\\
-  &&&= {\dn asakta}\\
-  &&&= not + sticking; attached; engaged in\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sak|taat|&sakta\\
+  &&&= {\dn sakta}\\
+  &&&= sticking; attached; engaged in\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn sakta.h} = sakta.h}\\
   &&&\\
   &&maa&aatmaa = {\dn aatmaa} = self; soul\\
   &&&\note{\noun, \male}\\
@@ -1796,12 +1803,13 @@ non-decaying happiness.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&.sa|ya|ma"s|&ak.sayam\\
-  &&&= {\dn ak.sayam}\\
-  &&&= not + decaying; dying; ending\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&.sa|ya|ma"s|&k.sayam\\
+  &&&= {\dn k.sayam}\\
+  &&&= decaying; dying; ending\\
   &&&\note{\adjective, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn k.saya.h} = k.saya.h}\\
   &&&\\
   &&nu|te&a"snute\\
   &&&= {\dn a"snute}\\

@@ -198,12 +198,13 @@ is called the self. Being-birth-doing is called action.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn ak.sara.m}&a|k.sa|ra.m&ak.saram\\
-  &&&= {\dn ak.saram}\\
-  &&&= not + changeable; perishable\\
+  1a&{\dn ak.sara.m}&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&k.sa|ra.m&k.saram\\
+  &&&= {\dn k.saram}\\
+  &&&= changeable; perishable\\
   &&&\note{\adjective, \neuter}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \neuter, {\dn k.saram} = k.saram}\\
   &&&\\
   &{\dn brahma}&brah|ma&brahmam = {\dn brahmam} = God\\
   &&&\note{\noun, \neuter}\\
@@ -607,12 +608,13 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn e.s} = e.s}\\
   &&&\\
-  &&sa.m|"sa|ya\h{a}&asa.m"saya.h\\
-  &&&= {\dn asa.m"saya.h}\\
-  &&&= not + doubt; danger\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&sa.m|"sa|ya\h{a}&sa.m"saya.h\\
+  &&&= {\dn sa.m"saya.h}\\
+  &&&= doubt; danger\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn sa.m"saya.h} = sa.m"saya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -775,12 +777,13 @@ syllables is eight.)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dhaat.r} = dhaat.r}\\
   &&&\\
-  &&cin|tya|&acintya\\
-  &&&= {\dn acintya}\\
-  &&&= not + thinkable\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&cin|tya|&cintya\\
+  &&&= {\dn cintya}\\
+  &&&= thinkable\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn cintya} = cintya}\\
   &&&\\
   &&ruu|pam&{\dn ruupam}\\
   &&&= form\\
@@ -840,13 +843,14 @@ syllables is eight.)\\
   &&&\note{\noun, \neuter}\\
   &&&\note{from {\dn manas} = manas}\\
   &&&\\
-  &&ca|le|na&acalena\\
-  &&&= {\dn acalena}\\
-  &&&= not + using/by someone/something\\
-  &&&shaking; confused\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&ca|le|na&calena\\
+  &&&= {\dn calena}\\
+  &&&= using/by something shaking; confused\\
   &&&\note{\adjective, \neuter, \instrumentalcase}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \neuter, {\dn calam} = calam}\\
+  &&&\note{from {\dn calam} = calam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1344,13 +1348,14 @@ great-self, (and are) gone (to) a paramount success.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aalaya.h} = aalaya.h}\\
   &&&\\
-  &&"saa|"sva|tam&a"saa"svatam\\
-  &&&= {\dn a"saa"svatam}\\
-  &&&= not + eternal\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&"saa|"sva|tam&"saa"svatam\\
+  &&&= {\dn "saa"svatam}\\
+  &&&= eternal\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn a"saa"svata.h} = a"saa"svata.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn a"saa"svata.h} = a"saa"svata.h}\\
+  &&&\note{from {\dn "saa"svata.h} = "saa"svata.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1594,13 +1599,14 @@ a non-visible sign.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyaktaadvyaktaya.h}\\
   &&&\\
-  &&a|vyak|taa|dvyak|&avyaktaat\\
-  &&&= {\dn avyaktaat}\\
-  &&&= not + from someone/something visible; clear\\
+  &&a|&{\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|taa|dvyak|&vyaktaat\\
+  &&&= {\dn vyaktaat}\\
+  &&&= from someone/something visible; clear\\
   &&&\note{\adjective, \male, \ablativecase}\\
-  &&&\note{from {\dn avyakta.h} = avyakta.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
+  &&&\note{from {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &&ta|ya\h{a}&vyaktaya.h\\
   &&&= {\dn vyaktaya.h}\\
@@ -1659,12 +1665,13 @@ a non-visible sign.\\
   &&vaa&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&vyak|ta|&avyakta\\
-  &&&= {\dn avyakta}\\
-  &&&= not + visible; clear\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|ta|&vyakta\\
+  &&&= {\dn vyakta}\\
+  &&&= visible; clear\\
   &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, {\dn vyakta} = vyakta}\\
   &&&\\
   &&sa.m|j\~{}na|ke&{\dn sa.mj~nake}\\
   &&&= sa\~{}nj\~{}nake\\
@@ -1731,12 +1738,13 @@ Arjuna). (A being) is powerful at the day-approach.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aagama.h} = aagama.h}\\
   &&&\\
-  &&va|"sa\h{a}&ava"sa.h\\
-  &&&= {\dn ava"sa.h}\\
-  &&&= not + submissive\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&va|"sa\h{a}&va"sa.h\\
+  &&&= {\dn va"sa.h}\\
+  &&&= submissive\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn va"sa.h} = va"sa.h}\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
@@ -1793,20 +1801,22 @@ not vanish in all beings destroyed.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&vyak|to&avyakta.h\\
-  &&&= {\dn avyakta.h}\\
-  &&&= not + visible; clear\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
+  1b&&|&a = {\dn a} = not\\
+  &&&\notea\\
   &&&\\
-  &&vyak|taat|&avyaktaat\\
-  &&&= {\dn ayaktaat}\\
-  &&&= not + from a/the person/thing visible; clear\\
+  &&vyak|to&vyakta.h\\
+  &&&= {\dn vyakta.h}\\
+  &&&= visible; clear\\
+  &&&\note{\adjective, \male}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vyak|taat|&vyaktaat\\
+  &&&= {\dn yaktaat}\\
+  &&&= from a/the person/thing visible; clear\\
   &&&\note{\adjective, \male, \ablativecase}\\
-  &&&\note{from {\dn avyakta.h} = avyakta.h}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
+  &&&\note{from {\dn vyakta.h} = vyakta.h}\\
   &&&\\
   &&\multicolumn{2}{l}{sa|naa|ta|na\h{a}}\\
   &&&\\
@@ -1856,19 +1866,20 @@ Not-visible and not-changeable---that one (is) said \dots (?)
 my paraount home.\\
 
 \begin{tabular}{llll}
-  1a&{\dn avyakto.ak.sara}&a|vyak|to|&avyakta.h\\
-  &&&= {\dn avyakta.h}\\
-  &&&= not + visible; clear\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn vyakta.h} = vyakta.h}\\
+  1a&{\dn avyakto.ak.sara}&a|&{\dn a} = not\\
   &&&\\
-  &&k.sa|ra|&ak.sara.h\\
-  &&&= {\dn ak.sara.h}\\
-  &&&= not + changeable; perishable\\
+  &&vyak|to|&vyakta.h\\
+  &&&= {\dn vyakta.h}\\
+  &&&= visible; clear\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \adjective, \male, {\dn k.sara.h} = k.sara.h}\\
+  &&&\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&k.sa|ra|&k.sara.h\\
+  &&&= {\dn k.sara.h}\\
+  &&&= changeable; perishable\\
+  &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn ityuktastamaahu.h}&i|tyuk|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
