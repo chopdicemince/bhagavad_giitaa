@@ -1900,8 +1900,8 @@ and not weary---men, all together, follow my path, O prince (O
 Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadi}&ya|di&if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  1a&{\dn yadi}&ya|di&\yadi\\
+  &&&\noteyadi\\
   &&&\\
   &{\dn hyaha.m}&hya|&hi = {\dn hi} = \hi\\
   &&&\notehi\\

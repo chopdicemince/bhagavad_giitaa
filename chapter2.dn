@@ -544,8 +544,8 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
   &&&\note{root: {\dn ji} = ji}\\
   &&&\\
-  &{\dn yadi}&ya|di&if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn yadi}&ya|di&\yadi\\
+  &&&\noteyadi\\
   &&&\\
   &{\dn vaa}&vaa&''yes/no?''\\
   &&&\\

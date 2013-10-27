@@ -292,8 +292,8 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
-  &{\dn yadi}&ya|di&if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn yadi}&ya|di&\yadi\\
+  &&&\noteyadi\\
   &&&\\
   &{\dn tacchakya.m}&tac|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -1051,8 +1051,8 @@ suitable (light) would be the brightness of his great self
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yadi}&ya|di&if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  2a&{\dn yadi}&ya|di&\yadi\\
+  &&&\noteyadi\\
   &&&\\
   &{\dn bhaa.h}&bhaa\h{aa}&lights\\
   &&&\note{\noun, \female, \plural}\\

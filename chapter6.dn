@@ -2690,8 +2690,8 @@ paramount.\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
-  &{\dn yadi}&ya|di&if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn yadi}&ya|di&\yadi\\
+  &&&\noteyadi\\
   &&&\\
   &{\dn vaa}&vaa&``yes/no question''\\
   &&&\\
