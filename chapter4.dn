@@ -3050,8 +3050,8 @@ sin.\\
   1a&{\dn api}&a|pi&\api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn cedasi}&ce|da|&cet = {\dn cet} = if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cedasi}&ce|da|&cet = {\dn cet} = \cet\\
+  &&&\notecet\\
   &&&\\
   &&si&asi = {\dn asi} = (you) are\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\

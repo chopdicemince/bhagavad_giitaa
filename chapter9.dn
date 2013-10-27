@@ -2666,8 +2666,8 @@ correctly---he (is) convinced, surely.\\
   1a&{\dn api}&a|pi&\api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn cetsuduraacaaro}&cet|&{\dn cet} = if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn cetsuduraacaaro}&cet|&{\dn cet} = \cet\\
+  &&&\notecet\\
   &&&\\
   &&su|&{\dn su}\\
   &&&= good; very\\
