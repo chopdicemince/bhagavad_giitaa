@@ -1770,8 +1770,8 @@ a verse, each line has eight main syllables.)\\
   &&&\\
   &&lo|kam&lokam\\
   &&&= {\dn lokam}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \lokam\\
+  &&&\notelokam\\
   &&&\note{from {\dn loka.h} = loka.h}\\
 \end{tabular}
 \newpage
@@ -1835,8 +1835,8 @@ usual eight.)\\
   &&&\\
   &&lo|ka.m&lokam\\
   &&&= {\dn lokam}\\
-  &&&= world; human; race\\
-  &&&\note{\noun, \male, \locativecase}\\
+  &&&= \lokam\\
+  &&&\notelokam\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
   &{\dn vi"saala.m}&vi|"saa|la.m&vast\\
@@ -1861,8 +1861,8 @@ usual eight.)\\
   &&&\\
   &&lo|ka.m&lokam\\
   &&&= {\dn lokam}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \lokam\\
+  &&&\notelokam\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
   &{\dn vi"santi}&vi|"san|ti&(they) enter\\
@@ -2980,8 +2980,8 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&\\
   &{\dn lokamima.m}&lo|ka|&lokam\\
   &&&= {\dn lokam}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \lokam\\
+  &&&\notelokam\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   % ----------------------------------------------------------------------------
   \hline
