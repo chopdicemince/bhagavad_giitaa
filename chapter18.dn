@@ -5528,8 +5528,8 @@ you.\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
-  &&&= paramount; different\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \paramam\\
+  &&&\noteparamamneuter\\
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&voice; speech; word; phrase\\
   &&&\note{\noun, \neuter}\\
@@ -5859,8 +5859,8 @@ no-doubt.\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
-  &&&= paramount; different\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \paramam\\
+  &&&\noteparamamneuter\\
   &&&\\
   &{\dn guhya.m}&gu|hya.m&guhyam\\
   &&&= {\dn guhyam}\\

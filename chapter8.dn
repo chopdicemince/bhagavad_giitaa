@@ -209,8 +209,9 @@ is called the self. Being-birth-doing is called action.\\
   &{\dn brahma}&brah|ma&brahmam = {\dn brahmam} = God\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam} = paramount\\
-  &&&\note{\adjective, \neuter}\\
+  &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
+  &&&= \paramam\\
+  &&&\noteparamamneuter\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -665,8 +666,8 @@ going, thinking, a man goes (to) the paramount, divine, man
 \begin{tabular}{llll}
   2a&{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
-  &&&= paramount\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \paramam\\
+  &&&\noteparammale\\
   &&&\note{from {\dn parama.h} = parama.h}\\
   &&&\\
   &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
@@ -1939,8 +1940,8 @@ my paraount home.\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
-  &&&= paramount\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \paramam\\
+  &&&\noteparamamneuter\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
   &&&\notemama\\
