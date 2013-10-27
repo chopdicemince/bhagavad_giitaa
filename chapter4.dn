@@ -1862,8 +1862,8 @@ selfish, (is) the same in successful (things) and non-successful
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sama.h}&sa|ma\h{a}&same; similar; good\\
-  &&&\note{\adjective, \male}\\
+  2a&{\dn sama.h}&sa|ma\h{a}&\samaH\\
+  &&&\notesamaH\\
   &&&\\
   &{\dn siddhaavasiddhau}&sid|dhaa|va|&siddhau\\
   &&&= {\dn siddhau}\\

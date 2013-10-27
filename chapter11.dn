@@ -4744,8 +4744,8 @@ instead of the usual eight.)\\
   &&&\\
   &&sa|mo|&sama.h\\
   &&&= {\dn sama.h}\\
-  &&&= same; equal; similar; straight; complete\\
-  &&&\note{\adjective, \male}\\
+  &&&= \samaH\\
+  &&&\notesamaH\\
   &&&\\
   &&'stya|&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
