@@ -268,8 +268,8 @@ O ultimate-man (O K.r.s.na).\\
   &&&\\
   &{\dn puru.sottama}&pu|ru|.sot|&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
-  &&&= man; spirit; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &&ta|ma&uttama\\
   &&&= {\dn uttama}\\
@@ -1744,8 +1744,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn puru.so}&pu|ru|.so&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
-  &&&= man; spirit; soul; God\\
-  &&&\note{\noun, \male}\\
+  &&&= \puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn mato}&ma|to&mata.h\\
   &&&= {\dn mata.h}\\
@@ -4068,8 +4068,8 @@ instead of the usual eight.)\\
   &&&= deity\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; spirit; soul; God\\
-  &&&\note{\noun, \male}\\
+  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn puraa.nas}&pu|raa|.nas&puraa.na.h\\
   &&&= {\dn puraa.na.h}\\

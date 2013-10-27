@@ -1424,8 +1424,8 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\\
   &{\dn puru.sar.sabha}&pu|ru|.sar|&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
-  &&&= man\\
-  &&&\note{\noun, \male}\\
+  &&&= \puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &&.sa|bha&.r.sabha\\
   &&&= {\dn .r.sabha}\\
@@ -2007,8 +2007,8 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; person; soul\\
-  &&&\note{\noun, \male}\\
+  &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\

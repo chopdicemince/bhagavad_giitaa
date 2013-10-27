@@ -1849,8 +1849,8 @@ happiness (and) distress, in enjoyment, (it is) said.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; soul; spirit; God\\
-  &&&\note{\noun, \male}\\
+  2a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn sukhadu.hkhaanaa.m}&su|kha|&sukham\\
   &&&= {\dn sukham}\\
@@ -1892,8 +1892,8 @@ strings. The cause (is) the string-association of this
 births (in the different kinds of living things).\\
 
 \begin{tabular}{llll}
-  1a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&man; soul; spirit; God\\
-  &&&\note{\noun, \male}\\
+  1a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn prak.rtistho}&pra|k.r|ti|&prak.rti.h\\
   &&&= {\dn prak.rti.h}\\
@@ -2067,8 +2067,8 @@ paramount man (God).\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&pu|ru|.sa\h{a}&{\dn puru.sa.h}\\
-  &&&= man; soul; spirit; God\\
-  &&&\note{\noun, \male}\\
+  &&&= \puruSaH\\
+  &&&\notepuruSaH\\
   &&&\\
   &{\dn para.h}&pa|ra\h{a}&paramount; another; other; different; strange\\
   &&&\note{\adjective, \male}\\
