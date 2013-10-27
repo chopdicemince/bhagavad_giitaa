@@ -597,8 +597,8 @@ string.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn ga.na.h} = ga.na.h}\\
   &&&\\
-  &{\dn iva}&i|va&as if\\
-  &&&\note{\conjunction, \indeclinable}\\
+  &{\dn iva}&i|va&\iva\\
+  &&&\noteiva\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
