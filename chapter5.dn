@@ -489,8 +489,8 @@ grief. A union-joined a sage, using no delay, gets God.\\
   &&&\\
   &&yuk|to&yukta.h\\
   &&&= {\dn yukta.h}\\
-  &&&= joined; suitable; occupied with\\
-  &&&\note{\adjective, \male}\\
+  &&&= \yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn munirbrahma}&mu|nir|&muni.h\\
   &&&= {\dn muni.h}\\
@@ -534,8 +534,8 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   1a&{\dn yogayukto}&yo|ga|&yoga.h = {\dn yoga.h} = \yogaH\\
   &&&\noteyogaH\\
   &&&\\
-  &&yuk|to&yukta.h = {\dn yukta.h} = joined; suitable; engaged in\\
-  &&&\note{\adjective, \male}\\
+  &&yuk|to&yukta.h = {\dn yukta.h} = \yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn vi"suddhaatmaa}&vi|"sud|dhaat|&vi"suddha\\
   &&&= {\dn vi"suddha}\\
@@ -649,8 +649,8 @@ sleeping, breathing, \dots\\
   &&&\\
   1b&{\dn yukto}&yuk|to&yukta.h\\
   &&&= {\dn yukta.h}\\
-  &&&= joined; suitable; engaged in\\
-  &&&\note{\adjective, \male}\\
+  &&&= \yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn manyeta}&man|ye|ta&(he/she/it) thinks\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
@@ -968,8 +968,8 @@ gets perfect peace. A (person of) non-union, using desire-action,
 attached to fruit (results), is bound.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yukta.h}&yuk|ta\h{a}&union; association; devotion; attachment\\
-  &&&\note{\noun, \male}\\
+  1a&{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn karmaphala.m}&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -1006,10 +1006,12 @@ attached to fruit (results), is bound.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ayukta.h}&a|yuk|ta\h{a}&not + union; assocation; devotion; attachment\\
-  &&&\note{\noun, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{from: \noun, \male, {\dn yukta.h} = yukta.h}\\
+  2a&{\dn ayukta.h}&a|&{\dn a} = not\\
+  &&&\note{\prefix}\\
+  &&&\\
+  &&yuk|ta\h{a}&{\dn yukta.h}\\
+  &&&= \yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn kaamakaare.na}&kaa|ma|&kaama.h\\
   &&&= {\dn kaama.h}\\
@@ -1971,8 +1973,8 @@ joined. He is a happy man.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn yukta.h}&yuk|ta\h{a}&yoked; joined; suitable\\
-  &&&\note{\adjective, \male}\\
+  &{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
+  &&&\noteyuktaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
