@@ -2660,8 +2660,8 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&ya.m&ayam = {\dn ayam} = \ayam\\
   &&&\noteayam\\
   &&&\\
-  &{\dn loko.astyayaj~nasya}&lo|ko|&loka.h = {\dn loka.h} = world; mankind; place\\
-  &&&\note{\noun, \male}\\
+  &{\dn loko.astyayaj~nasya}&lo|ko|&loka.h = {\dn loka.h} = \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&'stya|&asti\\
   &&&= {\dn asti}\\
@@ -3421,8 +3421,8 @@ next (world).\\
   &&&\\
   &{\dn loko.astinaparo}&lo|ko|&loka.h\\
   &&&= {\dn loka.h}\\
-  &&&= world; human race; place\\
-  &&&\note{\noun, \male}\\
+  &&&= \lokaH\\
+  &&&\notelokaH\\
   &&&\\
   &&'sti|&asti\\
   &&&= {\dn asti}\\
