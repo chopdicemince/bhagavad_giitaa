@@ -550,8 +550,8 @@ paramount (things)---not using another (thing)---really, using yoking
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ananyenaiva}&a|na|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  2a&{\dn ananyenaiva}&a|na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&nye|nai|&anyena\\
   &&&= {\dn anyena}\\
@@ -1387,8 +1387,8 @@ each-action-abandoner---one (who fits this description) (is) a
 from-me-devotee. He (is) (a) favorite of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn anapek.sa.h}&a|na|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  1a&{\dn anapek.sa.h}&a|na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&pe|k.sa\h{a}&apek.sa.h\\
   &&&= {\dn apek.sa.h}\\

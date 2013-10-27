@@ -752,8 +752,8 @@ death, old age, disease, distress, defect, thinking, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|na|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  1b&&ma|na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ha"n|kaa|ra&aha"nkaara.h\\
   &&&= {\dn aha"nkhaara.h}\\
@@ -826,8 +826,8 @@ desire (and) not worthy of desire, in attainments, \dots\\
   &&&= attachment\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&na|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&bhi|.sva"n|ga\h{a}&abhi.sva"nga.h\\
   &&&= {\dn abhi.sva"nga.h}\\
@@ -882,8 +882,8 @@ desire (and) not worthy of desire, in attainments, \dots\\
   &&&= worthy of desire; love; sacrifice\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ni|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&ni|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&.s.to|&i.s.ta\\
   &&&= {\dn i.s.ta}\\
@@ -913,8 +913,8 @@ alone, place-residing, no sex, man-meeting, \dots\\
   &{\dn caananyayogena}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&na|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&nya|&anya\\
   &&&= {\dn anya}\\
@@ -1121,8 +1121,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn anaadi}&a|naa|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  2a&{\dn anaadi}&a|naa|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&di&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -1743,8 +1743,8 @@ really, primal-form births.\\
   &&&= piercing; knowing\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&naa|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&naa|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&dii&aadii\\
   &&&= {\dn aadii}\\
@@ -2751,8 +2751,8 @@ Arjuna). (It) does not act. (It) is not attached.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn anaaditvaannirgu.natvaatparamaatmaayamavyaya.h}\\
   &&&\\
-  &&a|naa|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&a|naa|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&di|tvaan|&aaditvaat\\
   &&&= {\dn aaditvaat}\\

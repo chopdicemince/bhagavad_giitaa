@@ -987,8 +987,8 @@ all-directions-fac(ing).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  2b&&ma|nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta.m&antam\\
   &&&= {\dn antam}\\
@@ -1446,8 +1446,8 @@ instead of the usual eight.)\\
   &&&= from all sides\\
   &&&\note{\adverb}\\
   &&&\\
-  &&'nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&'nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta|&antam\\
   &&&= {\dn antam}\\
@@ -1778,8 +1778,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn anaadimadhyaantamanantaviiryam}\\
   &&&\\
-  &&a|naa|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&a|naa|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&di|&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -1811,8 +1811,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn anantabaahu.m}&a|nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  1b&{\dn anantabaahu.m}&a|nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta|&antam\\
   &&&= {\dn antam}\\
@@ -3980,8 +3980,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ananta}&a|nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  2a&{\dn ananta}&a|nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta&anta.h\\
   &&&= {\dn anta.h}\\
@@ -4150,8 +4150,8 @@ instead of the usual eight.)\\
   &&&= universe\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
@@ -4360,8 +4360,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn anantaviiryaamitavikramastva.m}\\
   &&&\\
-  &&a|nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&a|nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
@@ -5248,8 +5248,8 @@ main syllables, instead of the usual eight.)\\
   &&&= universe\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&nan|&an = {\dn an} = not\\
-  &&&\note{\prefix}\\
+  &&nan|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&ta|maa|&antam\\
   &&&= {\dn antam}\\
@@ -5994,8 +5994,8 @@ form), O destroying of enemies (O Arjuna).\\
   &{\dn tvananyayaa}&tva|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &&na|&an = {\dn an} = not\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&na|&an = {\dn an} = \an\\
+  &&&\notean\\
   &&&\\
   &&nya|yaa&anyayaa\\
   &&&= {\dn anyayaa}\\
