@@ -6530,8 +6530,8 @@ himself.\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &{\dn param}&pa|ram&paramount; another; other; different; strange\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &{\dn param}&pa|ram&\param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
 \end{tabular}
 \newpage

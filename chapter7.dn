@@ -1121,8 +1121,8 @@ changeable.\\
   &&&\\
   &{\dn paramavyayam}&pa|ra|ma|&param\\
   &&&= {\dn param}\\
-  &&&= paramount; other; different\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
@@ -2078,8 +2078,8 @@ not-changeable, and ultimate.\\
 \begin{tabular}{llll}
   2a&{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; other; different\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn bhaavamajaananto}&bhaa|va|ma|&bhaavam\\

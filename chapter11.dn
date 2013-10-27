@@ -1700,8 +1700,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; strange; different\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn nidhaanam}&ni|dhaa|nam&repository; resting place\\
   &&&\note{\noun, \neuter}\\
@@ -4034,8 +4034,8 @@ instead of the usual eight.)\\
   &&&\\
   &&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn yat}&yat&\yat\\
   &&&\noteyat\\
@@ -4092,8 +4092,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn nidhaanam}&ni|dhaa|nam&repository; place of rest\\
   &&&\note{\noun, \neuter}\\
@@ -4122,8 +4122,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -5213,8 +5213,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= parmamount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn dar"sitamaatmayogaat}&dar|"si|ta|maat|&dar"sitam\\
   &&&= {\dn dar"sitam}\\

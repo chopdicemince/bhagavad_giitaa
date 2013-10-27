@@ -918,8 +918,8 @@ syllables is eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; other; different\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn puru.samupaiti}&pu|ru|.sa|mu|&puru.sa.h\\
@@ -2543,8 +2543,8 @@ syllables is eight.)\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn sthaanamupaiti}&sthaa|na|mu|&sthaanam\\
   &&&= {\dn sthaanam}\\

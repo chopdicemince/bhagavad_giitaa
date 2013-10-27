@@ -1374,8 +1374,8 @@ one (God).\\
   &&&\notetat\\
   &&&\\
   &&pa|ram&{\dn param}\\
-  &&&= other/best/greatest/last one (God)\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage

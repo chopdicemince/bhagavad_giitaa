@@ -981,8 +981,8 @@ powerful.\\
   &&&\\
   1a&{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn brahma}&brah|ma&O God\\
   &&&\note{\noun, \neuter, \vocativecase}\\
@@ -990,8 +990,8 @@ powerful.\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn dhaama}&dhaa|ma&O residence\\
   &&&\note{\noun, \neuter, \vocativecase}\\

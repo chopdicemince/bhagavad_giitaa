@@ -1135,8 +1135,8 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= parmamount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &{\dn brahma}&brah|ma&brahmam\\
   &&&= {\dn brahmam}\\
@@ -1578,8 +1578,8 @@ each (being).\\
   &&&\\
   &{\dn paramucyate}&pa|ra|mu|&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
@@ -3083,8 +3083,8 @@ paramount (place).\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn param}&pa|ram&paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &{\dn param}&pa|ram&\param\\
+  &&&\noteparamneuter\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

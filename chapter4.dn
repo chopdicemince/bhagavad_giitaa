@@ -272,8 +272,8 @@ is higher (older). How may I know this: you, at the beginning, said
   1a&{\dn apara.m}&a|&{\dn a} = not\\
   &&&\notea\\
   &&&\\
-  &&pa|ra.m&param = {\dn param} = other; inferior; lower\\
-  &&&\note{\adjective, \male?, \accusativecase?}\\
+  &&pa|ra.m&param = {\dn param} = \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn bhavato}&bha|va|to&bhavata.h = {\dn bhavata.h} = your\\
@@ -290,8 +290,8 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\\
   1b&{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= other; superior; next\\
-  &&&\note{\adjective, \male?, \accusativecase?}\\
+  &&&= \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn janma}&jan|ma&janma.h\\

@@ -24,8 +24,8 @@ gone (to) paramount success.\\
   &&&\\
   1a&{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \param\\
+  &&&\noteparamneuter\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
@@ -1547,8 +1547,8 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\\
   &{\dn para.m}&pa|ra.m&param\\
   &&&= {\dn param}\\
-  &&&= paramount; another; other; different; strange\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \param\\
+  &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
