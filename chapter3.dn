@@ -2803,8 +2803,8 @@ devotion is fear-producing.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn paradharmaatsvanu.s.thitaat}&pa|ra|&{\dn para} = another/other\\
-  &&&\note{\prefix}\\
+  1b&{\dn paradharmaatsvanu.s.thitaat}&pa|ra|&{\dn para} = \para\\
+  &&&\notepara\\
   &&&\\
   &&dhar|maat|&{\dn dharmaat}\\
   &&&= from manner; religion; devotion; virtue\\
@@ -2838,8 +2838,8 @@ devotion is fear-producing.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn paradharmo}&pa|ra|&{\dn para} = another/other\\
-  &&&\note{\prefix}\\
+  2b&{\dn paradharmo}&pa|ra|&{\dn para} = \para\\
+  &&&\notepara\\
   &&&\\
   &&dhar|mo&dharma.h\\
   &&&= {\dn dharma.h}\\
