@@ -1718,8 +1718,8 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
   &&&= favorite; loved\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn nara.h}&na|ra\h{a}&man\\
-  &&&\note{\noun, \male}\\
+  &{\dn nara.h}&na|ra\h{a}&\naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

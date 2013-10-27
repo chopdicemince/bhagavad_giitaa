@@ -1990,8 +1990,8 @@ joined. He is a happy man.\\
   &{\dn sukhii}&su|khii&happy\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn nara.h}&na|ra\h{a}&man; male; person\\
-  &&&\note{\noun, \male}\\
+  &{\dn nara.h}&na|ra\h{a}&\naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

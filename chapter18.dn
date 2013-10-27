@@ -1255,8 +1255,8 @@ opposite, yes/no---these five of him \dots (?) \dots\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn nara.h}&na|ra\h{a}&man\\
-  &&&\note{\noun, \male}\\
+  &{\dn nara.h}&na|ra\h{a}&\naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3920,8 +3920,8 @@ success.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
-  &{\dn nara.h}&na|ra\h{a}&man\\
-  &&&\note{\noun, \male}\\
+  &{\dn nara.h}&na|ra\h{a}&\naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -6167,8 +6167,8 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn nara.h}&na|ra\h{a}&man\\
-  &&&\note{\noun, \male}\\
+  &{\dn nara.h}&na|ra\h{a}&\naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -1641,8 +1641,8 @@ life.\\
   &&&\\
   &{\dn naraadhamaan}&na|raa|&nara.h\\
   &&&= {\dn nara.h}\\
-  &&&= man\\
-  &&&\note{\noun, \male}\\
+  &&&= \naraH\\
+  &&&\notenaraH\\
   &&&\\
   &&dha|maan&adhamaan\\
   &&&= {\dn adhamaan}\\
@@ -1920,8 +1920,8 @@ path.\\
   &&&\note{(?) from {\dn trii.ni} = trii.ni}\\
   &&&\\
   &&na|ra\h{a}&{\dn nara.h}\\
-  &&&= man\\
-  &&&\note{\noun, \male}\\
+  &&&= \naraH\\
+  &&&\notenaraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
