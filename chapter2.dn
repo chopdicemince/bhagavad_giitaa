@@ -2218,13 +2218,16 @@ not moving. This is eternal.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn acchedyo.ayamadaahyo.ayamakledyo.a"so.sya}\\
   &&&\\
-  &&ac|che|dyo|&acchedya.h\\
-  &&&= {\dn acchedya.h}\\
-  &&&= (?) not + cuttable; tearable\\
+  &&ac|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&che|dyo|&chedya.h\\
+  &&&= {\dn chedya.h}\\
+  &&&= (?) cuttable; tearable\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \prefix, {\dn a} = a = not}\\
-  &&&\note{extra letter: {\dn c} = c}\\
-  &&&\note{from: \noun, \neuter, {\dn chedyam} = chedyam = cut; tear}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn chedyam} = chedyam = cut; tear}\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&'ya|ma|&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
