@@ -3435,8 +3435,8 @@ next (world).\\
   &&&\\
   &&pa|ro&para.h\\
   &&&= {\dn para.h}\\
-  &&&= other; next; superior\\
-  &&&\note{\adjective, \male}\\
+  &&&= \paraH\\
+  &&&\noteparaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
