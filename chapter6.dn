@@ -1050,8 +1050,8 @@ looking in all directions.\\
 \begin{tabular}{llll}
   1a&{\dn sama.m}&sa|ma.m&samam\\
   &&&= {\dn samam}\\
-  &&&= same; equal; similar; straight; good\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \samam\\
+  &&&\notesamammale\\
   &&&\note{from {\dn sama.h} = sama.h}\\
   &&&\\
   &{\dn kaaya"sirogriiva.m}&kaa|ya|&kaaya.h\\
@@ -2664,8 +2664,8 @@ paramount.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sama.m}&sa|ma.m&same; equal; similar; straight; complete\\
-  &&&\note{\adjective, \neuter}\\
+  1b&{\dn sama.m}&sa|ma.m&\samam\\
+  &&&\notesamamneuter\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
