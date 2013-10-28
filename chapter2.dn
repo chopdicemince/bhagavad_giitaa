@@ -1654,8 +1654,9 @@ thing---not any (person) is able to do (it).\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn ka"scitkartumarhati}&ka"s|cit|&any\\
-  &&&\note{\adjective, \pronoun, \adverb, \indeclinable}\\
+  &{\dn ka"scitkartumarhati}&ka"s|cit|&{\dn ka"scit}\\
+  &&&= \kazcit\\
+  &&&\notekazcit\\
   &&&\\
   &&kar|tu|mar|&kartum\\
   &&&= {\dn kartum}\\
@@ -2679,7 +2680,8 @@ really any knowledge.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s}\\
   &&&\\
-  &{\dn ka"scidenam}&ka"s|ci|de&ka"scit = {\dn ka"scit} = any\\
+  &{\dn ka"scidenam}&ka"s|ci|de&ka"scit = {\dn ka"scit} = \kazcit\\
+  &&&\notekazcit\\
   &&&\\
   &&nam&enam = {\dn enam} = this (?)\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2768,7 +2770,8 @@ really any knowledge.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn ka"scit}&ka"s|cit&any\\
+  &{\dn ka"scit}&ka"s|cit&\kazcit\\
+  &&&\notekazcit\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
