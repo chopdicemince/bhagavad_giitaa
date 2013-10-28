@@ -2646,8 +2646,8 @@ there are what lamentations (why be sad)?\\
   &&&\\
   2b&{\dn tatra}&ta|tra&there\\
   &&&\\
-  &{\dn kaa}&kaa&what\\
-  &&&\note{\pronoun, \female}\\
+  &{\dn kaa}&kaa&\kaa\\
+  &&&\notekaa\\
   &&&\\
   &{\dn paridevanaa}&pa|ri|de|va|naa&paridevanaa.h\\
   &&&= {\dn paridevanaa.h}\\
@@ -4696,8 +4696,8 @@ walk?\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn praj~na.h} = praj\~{}na.h}\\
   &&&\\
-  &{\dn kaa}&kaa&what\\
-  &&&\note{\pronoun, \female}\\
+  &{\dn kaa}&kaa&\kaa\\
+  &&&\notekaa\\
   &&&\\
   &{\dn bhaa.saa}&bhaa|.saa&language; complaint; accusation\\
   &&&\note{\noun, \female}\\
