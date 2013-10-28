@@ -3587,8 +3587,8 @@ world.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn j~naatena}&j\~{}naa|te|na&using/by a/the person/thing known\\
   &&&\note{\adjective, \neuter, \instrumentalcase}\\

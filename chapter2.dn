@@ -3323,8 +3323,8 @@ ability. From more sadness, certainly, what can come?\\
   &&&\\
   &{\dn nu}&nu&certainly\\
   &&&\\
-  &{\dn kim}&kim&what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn kim}&kim&\kim\\
+  &&&\notekim\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4740,8 +4740,8 @@ walk?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn kimaasiita}&ki|maa|&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn kimaasiita}&ki|maa|&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &&sii|ta&aasiita\\
   &&&= {\dn aasiita}\\
@@ -4753,8 +4753,8 @@ walk?\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn vraj} = vraj}\\
   &&&\\
-  &{\dn kim}&kim&what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn kim}&kim&\kim\\
+  &&&\notekim\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

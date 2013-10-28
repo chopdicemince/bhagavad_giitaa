@@ -107,8 +107,8 @@ they do, O Sa\~{}njaya?''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn kimakurvata}&ki|ma|&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  2b&{\dn kimakurvata}&ki|ma|&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &&kur|va|ta&akurvata\\
   &&&= {\dn akurvata}\\
@@ -2570,8 +2570,8 @@ a wish for us (for) a kingdom, pleasures, and (occurrences of)
 happiness?\\
 
 \begin{tabular}{llll}
-  1a&{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
@@ -2588,8 +2588,8 @@ happiness?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  1b&{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn bhogairjiivitena}&bho|gair|&bhogai.h\\
   &&&= {\dn bhogai.h}\\
@@ -2845,8 +2845,8 @@ what pleasure (is there) for us, perhaps, O K.r.s.na?\\
   1b&{\dn heto.h}&he|to\h{o}&(?) for the sake of\\
   &&&\note{\preposition}\\
   &&&\\
-  &{\dn ki.m}&ki.m&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn nu}&nu&now; surely\\
   &&&\note{\adverb, \indeclinable}\\

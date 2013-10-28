@@ -19,8 +19,8 @@ is God called?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn kim}&kim&what\\
-  &&&\note{\pronoun, \neuter}\\
+  1a&{\dn kim}&kim&\kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn tadbrahma}&tad|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -28,8 +28,8 @@ is God called?\\
   &&brah|ma&brahmam = {\dn brahmam} = God\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn kimadhyaatma.m}&ki|ma|&kim = {\dn kim} = what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn kimadhyaatma.m}&ki|ma|&kim = {\dn kim} = \kim\\
+  &&&\notekim\\
   &&&\\
   &&dhyaat|ma.m&adhyaatmam = {\dn adhyaatmam} = self\\
   &&&\note{\adjective, \neuter}\\
@@ -80,8 +80,8 @@ is God called?\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn adhidaiva.h} = adhidaiva.h}\\
   &&&\\
-  &{\dn kim}&kim&what\\
-  &&&\note{\pronoun, \neuter}\\
+  &{\dn kim}&kim&\kim\\
+  &&&\notekim\\
   &&&\\
   &{\dn ucyate}&u|cya|te&(he/she/it) is said; is called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
