@@ -138,8 +138,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1b&{\dn gu.naprav.rddhaa}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&pra|v.rd|dhaa&prav.rddhaa.h\\
   &&&= {\dn prav.rddhaa.h}\\
@@ -940,8 +940,8 @@ see.\\
   &&&\\
   &{\dn gu.naanvitam}&gu|.naan|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&vi|ta.m&anvitam\\
   &&&= {\dn anvitam}\\

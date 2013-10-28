@@ -1597,8 +1597,8 @@ Just as (full?), hear these, also.\\
   &&&\\
   &{\dn gu.nabhedata.h}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&bhe|da|ta\h{a}&{\dn bhedata.h}\\
   &&&= (?)\\
@@ -1614,8 +1614,8 @@ Just as (full?), hear these, also.\\
   &&&\\
   &{\dn gu.nasa"nkhyaane}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&sa"n|khyaa|ne&{\dn sa"nkhyaane}\\
   &&&= at/in/on a/the appearance; counting\\
@@ -2469,8 +2469,9 @@ money-victory (O Arjuna).\\
   1b&{\dn gu.natastrividha.m}&gu|.na|ta|&gu.nata.h\\
   &&&= {\dn gu.nata.h}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn gu.na.h} = gu.na.h}\\
-  &&&\note{= string; attribute}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn gu.na.h} = gu.na.h}\\
+  &&&\noteguNaH\\
   &&&\\
   &&stri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\

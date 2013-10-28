@@ -1060,8 +1060,8 @@ changeable.\\
   &&&\\
   &&gu|.na|&gu.na.h\\
   &&&= {\dn guna.h}\\
-  &&&= string; (occurrence of) goodness; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&ma|yair|&mayai.h\\
   &&&= {\dn mayai.h}\\
@@ -1156,8 +1156,8 @@ attain) this magic.\\
   &&&\\
   &{\dn gu.namayii}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&ma|yii&{\dn mayii}\\
   &&&= (?) made of\\

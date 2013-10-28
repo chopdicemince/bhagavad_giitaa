@@ -1286,8 +1286,8 @@ enjoyer.\\
   &&&\\
   &&gu|.naa|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&bhaa|sa.m&aabhaasam\\
   &&&= {\dn aabhaasam}\\
@@ -1352,8 +1352,8 @@ enjoyer.\\
   &&&\\
   &{\dn gu.nabhokt.r}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&bhok|t.r&{\dn bhokt.r}\\
   &&&= enjoyer\\
@@ -1940,8 +1940,8 @@ births (in the different kinds of living things).\\
   &&&\\
   &{\dn gu.nasa"ngo.asya}&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&sa"n|go|&sa"nga.h\\
   &&&= {\dn sa"nga.h}\\

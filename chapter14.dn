@@ -1461,8 +1461,8 @@ go down.\\
   &&&\\
   &&gu|.na|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&v.rt|ti|&v.rtti.h\\
   &&&= {\dn v.rtti.h}\\
@@ -1539,8 +1539,9 @@ knows the paramount (string)---he gets from-me-behavior.\\
   2a&{\dn gu.nebhya"sca}&gu|.ne|bhya"s|&gu.nebhya.h\\
   &&&= {\dn gu.nebhya.h}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn gu.na.h} = gu.na.h}\\
-  &&&\note{= string; attribute}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn gu.na.h} = gu.na.h}\\
+  &&&\noteguNaH\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -2121,8 +2122,8 @@ string-passed-through (``successful'').\\
   &&&\\
   2b&{\dn gu.naatiita.h}&gu|.naa|&gu.na.h\\
   &&&= {\dn gu.na.h}\\
-  &&&= string; attribute\\
-  &&&\note{\noun, \male}\\
+  &&&= \guNaH\\
+  &&&\noteguNaH\\
   &&&\\
   &&tii|ta\h{a}&atiita.h\\
   &&&= {\dn atiita.h}\\
