@@ -1435,8 +1435,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &\multicolumn{3}{l}{\dn sarvato.anantaruupam}\\
@@ -1594,8 +1594,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn durniriik.sya.m}&dur|&{\dn dur}\\
@@ -1846,8 +1846,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn diiptahutaa"savaktra.m}&diip|ta|&{\dn diipta}\\
@@ -2037,8 +2037,8 @@ instead of the usual eight.)\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn surasa"nghaa}&su|ra|&sura.h\\
@@ -2120,8 +2120,8 @@ instead of the usual eight.)\\
   &&&\note{similar: \noun, \male, {\dn stuvat} = stuvat}\\
   &&&\note{= praiser; worshipper}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn stutibhi.h}&stu|ti|bhi\h{i}&using/by praises\\
@@ -2247,8 +2247,8 @@ the last half-line, which has ten. The usual number is eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{from {\dn vik.s} = vik.s}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn vismitaa"scaiva}&vi|smi|taa"s|&vismitaa.h\\
@@ -2465,9 +2465,8 @@ instead of the usual eight.)\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn pravyathitaantaraatmaa}&pra|vya|thi|taan|&pravyathita\\
@@ -2662,8 +2661,8 @@ instead of the usual eight.)\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn dh.rtaraa.s.trasya}&dh.r|ta|raa|.s.tra|sya&of (King) Dh.rtaraa.s.tra\\
@@ -3395,9 +3394,8 @@ main syllables, instead of the usual eight.)\\
   &&'pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn na}&na&\na\\
@@ -4646,8 +4644,8 @@ instead of the usual eight.)\\
   &&&\\
   &\multicolumn{3}{l}{\dn tvaamahamaprameyam}\\
   &&&\\
-  &&tvaa|ma|&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &&tvaa|ma|&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ha|ma|&aham = {\dn aham} = \aham\\
@@ -4839,8 +4837,8 @@ instead of the usual eight.)\\
   &&&\note{similar: \noun, \male, {\dn prasaada.h} = prasaada.h}\\
   &&&\note{= peace; purity}\\
   &&&\\
-  &{\dn tvaamahamii"samii.dyam}&tvaa|ma|&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaamahamii"samii.dyam}&tvaa|ma|&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ha|mii|&aham = {\dn aham} = \aham\\
@@ -5079,8 +5077,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
-  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
+  &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn dra.s.tumaha.m}&dra|.s.tu|ma|&dra.s.tum\\

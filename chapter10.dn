@@ -1071,9 +1071,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&= {\dn aahu.h}\\
   &&&= (?)\\
   &&&\\
-  &&stvaa|m.r|&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\accusativecase}\\
+  &&stvaa|m.r|&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&.sa|ya\h{a}&.r.saya.h\\
@@ -1465,9 +1464,8 @@ thought, O God, by me?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&stvaa.m&tvaam = {\dn tvaam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\accusativecase}\\
+  1b&&stvaa.m&tvaam = {\dn tvaam} = \tvaam\\
+  &&&\notetvaam\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn sadaa}&sa|daa&eternally; always\\
