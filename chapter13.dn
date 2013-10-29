@@ -3056,8 +3056,8 @@ paramount (place).\\
   &&&\\
   &&mo|k.sa.m&mok.sam\\
   &&&= {\dn mok.sam}\\
-  &&&= liberation\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \mokSam\\
+  &&&\notemokSam\\
   &&&\note{from {\dn mok.sa.h} = mok.sa.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
