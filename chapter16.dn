@@ -2080,9 +2080,8 @@ said (by me)---in this world, (you) are able to do action.\\
   &&&= proof; measure\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline

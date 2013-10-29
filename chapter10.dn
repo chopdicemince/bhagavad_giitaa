@@ -58,9 +58,8 @@ will say one (piece of) advice desireable (and) pleasing.\\
   2a&{\dn yatte.aha.m}&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&te|&{\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&te|&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = \aham\\
@@ -1207,9 +1206,8 @@ visible form of you.\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn bhagavanvyakti.m}&bha|ga|van|&{\dn bhagavan}\\

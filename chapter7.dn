@@ -115,9 +115,8 @@ be known.\\
   &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn te.aha.m}&te|&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te.aha.m}&te|&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = \aham\\

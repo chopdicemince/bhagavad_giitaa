@@ -30,9 +30,8 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &&&\note{{\dn karmam} = karmam = \karmam}\\
   &&&\notekarmam\\
   &&&\\
-  &&ste&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -683,9 +682,8 @@ non-action.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \dativecase,}\\
-  &&&\note{\genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -863,7 +861,7 @@ for you. Be loved and love-yielding.''\\
   &{\dn vo.astvi.s.takaamadhuk}&vo|&va.h\\
   &&&= {\dn va.h}\\
   &&&= you; for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular,}\\
+  &&&\note{\pronoun, \secondperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
@@ -919,8 +917,8 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1b&{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn devaa}&de|vaa&devaa.h\\

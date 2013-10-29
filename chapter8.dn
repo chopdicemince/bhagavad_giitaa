@@ -1033,9 +1033,8 @@ syllables is eight.)\\
   2b&{\dn tatte}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&te&{\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&te&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn pada.m}&pa|da.m&padam\\

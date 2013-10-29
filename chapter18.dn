@@ -5121,9 +5121,8 @@ mistakenly. This vocation of you---the primal form will do you.\\
   &&&= vocation; steadfastness\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ste&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5412,9 +5411,8 @@ thus, O Kuru (O Arjuna).\\
   1a&{\dn iti}&i|ti&\iti\\
   &&&\noteiti\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn j~naanamaakhyaata.m}&j\~{}naa|na|maa|&j\~{}naanam\\
@@ -5568,9 +5566,8 @@ you.\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn hitam}&hi|tam&good; benefit; profit\\
@@ -5650,9 +5647,8 @@ promise(d) and a loved (one) of me.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5766,9 +5762,8 @@ non-(service-people), and not to be said (for) one who envies me.\\
   1a&{\dn ida.m}&i|da.m&idam = {\dn idam} = \idam\\
   &&&\noteidam\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn naatapaskaaya}&naa|&na = {\dn na} = \na\\
@@ -6286,9 +6281,8 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&= gone; destroyed; dead\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&ste&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn dhana~njaya}&dha|na\~{}n|&dhanam\\

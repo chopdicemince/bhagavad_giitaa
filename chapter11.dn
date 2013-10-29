@@ -249,9 +249,8 @@ O ultimate-man (O K.r.s.na).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn ruupamai"svara.m}&ruu|pa|&ruupam\\
@@ -709,9 +708,8 @@ for you a divine eye. See the yoking power of me.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn daa} = daa}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn cak.su.h}&ca|k.su\h{u}&eye\\
@@ -2291,9 +2289,8 @@ of the usual eight.)\\
   &&&= great\\
   &&&\note{\adjective}\\
   &&&\\
-  &&te&{\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&te&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn bahuvaktranetra.m}&ba|hu|&{\dn bahu} = many/much\\
@@ -2540,9 +2537,8 @@ instead of the usual eight.)\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn mukhaani}&mu|khaa|ni&mouths; muzzles\\
@@ -2775,9 +2771,8 @@ instead of the usual eight.)\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn vaktram} = vaktram}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn tvaramaa.naa}&tva|ra|&{\dn tvara}\\
@@ -3237,9 +3232,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn devavara}&de|va|&deva.h\\
@@ -3930,9 +3924,8 @@ instead of the usual eight.)\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn na}&na&\na\\
@@ -4233,9 +4226,8 @@ instead of the usual eight.)\\
   &&&= homage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ste|&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste|&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'stu&astu = {\dn astu} = (you) be\\
@@ -4281,9 +4273,8 @@ instead of the usual eight.)\\
   &&&= homage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ste&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
 \end{tabular}
 \newpage
@@ -4318,9 +4309,8 @@ instead of the usual eight.)\\
   &&&= in the back\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&ste&te = {\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&ste&te = {\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
 \end{tabular}
 \newpage
@@ -4335,9 +4325,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn sarvata}&sar|va|ta&sarvata.h\\
@@ -5434,9 +5423,8 @@ instead of the usual eight.)\\
   1a&{\dn maa}&maa&not\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn vyathaa}&vya|thaa&pain; anguish\\

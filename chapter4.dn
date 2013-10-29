@@ -184,9 +184,8 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\notemayaa\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn te.adya}&te|&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te.adya}&te|&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'dya&adya = {\dn adya} = today\\
@@ -1344,9 +1343,8 @@ will be free from non-grace.\\
   2a&{\dn tatte}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&te&{\dn te} = for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &&te&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn karma}&kar|ma&karmam\\
@@ -2919,9 +2917,8 @@ truth.\\
   &&&\note{\verbb, \futuretensecertain, \thirdperson, \plural}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn te}&te&for you; of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn te}&te&\teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
