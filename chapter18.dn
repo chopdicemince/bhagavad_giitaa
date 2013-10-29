@@ -6241,8 +6241,8 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tvayaikaagre.na}&tva|yai|&tvayaa = {\dn tvayaa} = using/by you\\
-  &&&\note{\pronoun, \secondperson, \singular, \instrumentalcase}\\
+  1b&{\dn tvayaikaagre.na}&tva|yai|&tvayaa = {\dn tvayaa} = \tvayaa\\
+  &&&\notetvayaa\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&kaa|&ekam = {\dn ekam} = one\\

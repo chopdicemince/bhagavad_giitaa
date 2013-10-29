@@ -59,8 +59,8 @@ eight.)\\
   2a&{\dn yattvayokta.m}&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&tva|yok|&tvayaa = {\dn tvayaa} = using/by you\\
-  &&&\note{\pronoun, \secondperson, \singular, \instrumentalcase}\\
+  &&tva|yok|&tvayaa = {\dn tvayaa} = \tvayaa\\
+  &&&\notetvayaa\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ta.m&uktam\\
@@ -1935,8 +1935,8 @@ instead of the usual eight.)\\
   &&&= full; spread\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn tvayaikena}&tva|yai|&tvayaa = {\dn tvayaa} = using/by you\\
-  &&&\note{\pronoun, \secondperson, \singular, \instrumentalcase}\\
+  &{\dn tvayaikena}&tva|yai|&tvayaa = {\dn tvayaa} = \tvayaa\\
+  &&&\notetvayaa\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ke|na&ekena\\
@@ -4134,8 +4134,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn tvayaa}&tva|yaa&using/by you\\
-  &&&\note{\pronoun, \secondperson, \singular, \instrumentalcase}\\
+  2b&{\dn tvayaa}&tva|yaa&\tvayaa\\
+  &&&\notetvayaa\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn tata.m}&ta|ta.m&tatam\\
