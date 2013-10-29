@@ -1591,8 +1591,8 @@ attains non-(death).\\
 \begin{tabular}{llll}
   1a&{\dn gu.naanetaanatiitya}&gu|.naa|ne|&gu.naan\\
   &&&= {\dn gu.naan}\\
-  &&&= strings; attributes\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \guNAn\\
+  &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&taa|na|&etaan = {\dn etaan} = these/them\\
@@ -1707,8 +1707,8 @@ three strings?\\
   &&&\\
   &&gu|.naa|ne|&gu.naan\\
   &&&= {\dn gu.naan}\\
-  &&&= strings; attributes\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \guNAn\\
+  &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&taa|&etaan = {\dn etaan} = these/them\\
@@ -1760,8 +1760,8 @@ three strings?\\
   &&&\\
   &&gu|.naa|na|&gu.naan\\
   &&&= {\dn gu.naan}\\
-  &&&= strings; attributes\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \guNAn\\
+  &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&ti|var|ta|te&ativartate\\
@@ -2190,8 +2190,8 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
   &\multicolumn{3}{l}{\dn gu.naansamatiityaitaanbrahmabhuuyaaya}\\
   &&&\\
   &&gu|.naan|&{\dn gu.naan}\\
-  &&&= strings; attributes\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \guNAn\\
+  &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &&sa|ma|tii|tyai|&samatiitya\\
