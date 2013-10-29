@@ -365,8 +365,8 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn gu.naa.h}&gu|naa\h{aa}&strings; attributes\\
-  &&&\note{\noun, \male, \plural}\\
+  1b&{\dn gu.naa.h}&gu|naa\h{aa}&\guNAH\\
+  &&&\noteguNAH\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &{\dn prak.rtisambhavaa.h}&pra|k.r|ti|&prak.rti.h\\
@@ -1913,8 +1913,8 @@ stands does not go \dots\\
 \begin{tabular}{llll}
   2a&{\dn gu.naa}&gu|.naa&gu.naa.h\\
   &&&= {\dn gu.naa.h}\\
-  &&&= strings; attributes\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \guNAH\\
+  &&&\noteguNAH\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
   &{\dn vartanta}&var|tan|te&(they) are\\
