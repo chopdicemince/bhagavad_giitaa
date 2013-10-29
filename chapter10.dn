@@ -1281,8 +1281,8 @@ deity of deities), O world-lord.\\
   &&&\note{{\dn vetti} = vetti = (he/she/it) knows}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn puru.sottama}&pu|ru|.sot|&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
@@ -1423,8 +1423,8 @@ worlds.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn vyaapya}&vyaa|pya&penetrable\\
   &&&\note{\adjective}\\
@@ -3533,8 +3533,8 @@ brightness-part-birth (of that quality from me).\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn avagam} = avagam}\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

@@ -711,7 +711,7 @@ has eleven main syllables per line.)\\
   &&ste|&te = {\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
@@ -724,7 +724,7 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular, \accusativecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn prapannam}&pra|pan|nam&approaching; suppliant\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -928,8 +928,8 @@ if comedy, in the middle of the two armies, (to despairing Arjuna),
 this group of words: \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn tvamuvaaca}&tva|mu|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1a&{\dn tvamuvaaca}&tva|mu|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
@@ -1036,8 +1036,8 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&= {\dn anva"soca.h}\\
   &&&= (?)\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you (Arjuna)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam (Arjuna)\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1149,8 +1149,8 @@ from later (will be).\\
   1b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn neme}&ne|&na = {\dn na} = \na\\
   &&&\notena\\
@@ -2457,8 +2457,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn mahaabaaho}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -2567,8 +2567,8 @@ to lament.\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn tva.m"socitumarhasi}&tva.m|&you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m"socitumarhasi}&tva.m|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&"so|ci|tu|mar|&"socitum\\
   &&&= {\dn "socitum}\\
@@ -2843,8 +2843,8 @@ deserve to lament each being.\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn tva.m}&tva.m&you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&\tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn "socitumarhasi}&"so|ci|tu|mar&"socitum\\
   &&&= {\dn "socitum}\\
@@ -3028,8 +3028,8 @@ self nature and fame, you will get evil.\\
   &{\dn cettvamima.m}&cet|&{\dn cet} = \cet\\
   &&&\notecet\\
   &&&\\
-  &&tva|mi|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&tva|mi|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&ma.m&ima.m = {\dn ima.m} = this\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
@@ -3222,8 +3222,8 @@ small importance.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn tva.m}&tva.m&you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn bahumato}&ba|hu|ma|to&bahumata.h\\
   &&&= {\dn bahumata.h}\\
@@ -4143,7 +4143,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\note{\pronoun, \secondperson}\\
   &&&\note{\singular, \genitivecase}\\
   &&&\note{or {\dn tava} = tava}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4189,7 +4189,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\note{\pronoun, \secondperson}\\
   &&&\note{\singular, \genitivecase}\\
   &&&\note{or {\dn tava} = tava}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn sa"ngo.astvakarma.ni}&sa"n|go|&sa"nga.h\\
   &&&= {\dn sa"nga.h}\\

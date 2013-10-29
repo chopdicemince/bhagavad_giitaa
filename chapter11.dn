@@ -212,8 +212,8 @@ O ultimate-man (O K.r.s.na).\\
   &&&= {\dn aattha}\\
   &&&= (?)\\
   &&&\\
-  &{\dn tvamaatmaana.m}&tva|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tvamaatmaana.m}&tva|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -343,8 +343,8 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1663,8 +1663,8 @@ opinion of me.\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1a&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1687,8 +1687,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
@@ -1709,8 +1709,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tvamavyaya.h}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  2a&{\dn tvamavyaya.h}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1739,8 +1739,8 @@ instead of the usual eight.)\\
   &&&= eternal; ancient\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn puru.so}&pu|ru|.so&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
@@ -3455,8 +3455,8 @@ instead of the usual eight.)\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&tva|mut|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&tva|mut|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&ti|.s.tha&utti.s.tha\\
   &&&= {\dn utti.s.tha}\\
@@ -3639,8 +3639,8 @@ instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn hata.h} = hata.h}\\
   &&&\\
-  &&stva.m|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn jahi}&ja|hi&(?) jahaatu\\
   &&&= {\dn jahaatu}\\
@@ -4006,8 +4006,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  2b&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -4055,8 +4055,8 @@ O non-end(ing)-form (O K.r.s.na).\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn tvamaadideva.h}&tva|maa|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1a&{\dn tvamaadideva.h}&tva|maa|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&di|&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -4079,8 +4079,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
@@ -4211,8 +4211,8 @@ instead of the usual eight.)\\
   &&&= Brahma\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn prapitaamaha"sca}&pra|pi|taa|ma|ha"s|&prapitaamaha.h\\
   &&&= {\dn prapitaamaha.h}\\
@@ -4386,8 +4386,8 @@ instead of the usual eight.)\\
   &&&= valor; force; going\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4705,8 +4705,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&sya&asya = {\dn asya} = of this\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
@@ -5512,8 +5512,8 @@ instead of the usual eight.)\\
   &{\dn punastva.m}&pu|na|&puna.h = {\dn puna.h} = again\\
   &&&\note{\adverb}\\
   &&&\\
-  &&stva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&stva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

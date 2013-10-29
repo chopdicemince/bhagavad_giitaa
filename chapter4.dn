@@ -322,8 +322,8 @@ is higher (older). How may I know this: you, at the beginning, said
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tvamaadau}&tva|maa|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  2b&{\dn tvamaadau}&tva|maa|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&dau&adau = {\dn adau} = at the beginning\\
   &&&\note{\adverb}\\
@@ -377,7 +377,7 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &{\dn tava}&ta|va&of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular,}\\
   &&&\note{\genitivecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn caarjuna}&caar|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -411,8 +411,8 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   2b&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &{\dn vettha}&vet|tha&(?)\\
   &&&\\
@@ -1271,8 +1271,8 @@ ancestors.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&tva.m&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

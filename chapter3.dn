@@ -33,7 +33,7 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &&ste&te = {\dn te} = for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular,}\\
   &&&\note{\dativecase, \genitivecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -637,8 +637,8 @@ non-action.\\
   &&&\notekarmam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn tva.m}&tva.m&you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -686,7 +686,7 @@ non-action.\\
   &{\dn te}&te&for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular, \dativecase,}\\
   &&&\note{\genitivecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -865,7 +865,7 @@ for you. Be loved and love-yielding.''\\
   &&&= you; for you; of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular,}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn tvam} = tvam = you}\\
+  &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&'stvi.s|&astu\\
   &&&= {\dn astu}\\
@@ -3286,8 +3286,8 @@ knowledge-skill destruction.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&tva|min|&tvam = {\dn tvam} = you\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&tva|min|&tvam = {\dn tvam} = \tvam\\
+  &&&\notetvam\\
   &&&\\
   &&dri|yaa|.nyaa|&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\
