@@ -199,8 +199,8 @@ In me, ones (who) (attain) me, (in) mind, (are) eternal(ly)-yoked
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ste&te = {\dn te} = those/they\\
-  &&&\note{\noun, \thirdperson, \male, \plural}\\
+  2b&&ste&te = {\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -370,8 +370,8 @@ each-being-good.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  2a&{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn praapnuvanti}&praap|nu|van|ti&(they) attain\\
@@ -1798,8 +1798,8 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn bhakta.h} = bhakta.h}\\
   &&&\\
-  &&ste|&te = {\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&ste|&te = {\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'tii|va&atiiva = {\dn atiiva} = very\\

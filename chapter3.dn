@@ -1114,8 +1114,8 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   2a&{\dn bhu~njate}&bhu\~{}n|ja|te&(?)\\
   &&&\note{\verbb?, \presenttense, \thirdperson, \singular}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn tvagha.m}&tva|&tu = {\dn tu} = \tu\\
@@ -2521,8 +2521,8 @@ free, also, from action.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn muc} = muc}\\
   &&&\\
-  &{\dn te.api}&te|&{\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te.api}&te|&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'pi&api = {\dn api} = \api\\

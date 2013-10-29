@@ -1621,8 +1621,8 @@ are standing (with) God.\\
   &&&\note{similar: \noun, \neuter, {\dn brahmam} = brahmam}\\
   &&&\note{= God}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn sthitaa.h}&sthi|taa\h{aa}&standing; present; devoted\\
@@ -1864,8 +1864,8 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage

@@ -1030,8 +1030,8 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
@@ -1208,8 +1208,8 @@ attain) this magic.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn t.R} = t.rr}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
@@ -2405,8 +2405,8 @@ cherish me (with) a firm vow.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  2a&{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn dvandvamohanirmuktaa}&dvan|dva|&dvandvam\\
@@ -2492,8 +2492,8 @@ and all action.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  2a&{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn brahma}&brah|ma&brahmam\\
@@ -2605,8 +2605,8 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  2b&{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn vidur}&vi|du\h{u}&wise\\

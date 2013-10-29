@@ -629,8 +629,8 @@ sexual-desire-(motive)?\\
   &&&= steadfast\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1487,8 +1487,8 @@ non-law-previous.\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&ste&{\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&ste&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   % ----------------------------------------------------------------------------
   \hline

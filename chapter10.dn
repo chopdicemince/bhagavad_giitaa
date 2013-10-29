@@ -861,8 +861,8 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn upayaa} = upayaa}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
 \end{tabular}
 \newpage
@@ -1636,8 +1636,8 @@ of me is no end.\\
   1a&{\dn hanta}&han|ta&``interjection''\\
   &&&\note{\interjection, \indeclinable}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn kathayi.syaami}&ka|tha|yi|.syaa|mi&(I) will say\\

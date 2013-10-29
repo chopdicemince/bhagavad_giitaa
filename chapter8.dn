@@ -1564,8 +1564,8 @@ night.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn te.ahoraatravido}&te|&{\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  2b&{\dn te.ahoraatravido}&te|&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'ho|&aha.h\\

@@ -2289,8 +2289,8 @@ hearing.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te.api}&te|&{\dn te} = those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  2a&{\dn te.api}&te|&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'pi&api = {\dn api} = \api\\
@@ -3079,8 +3079,8 @@ paramount (place).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn te}&te&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te}&te&\temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn param}&pa|ram&\param\\

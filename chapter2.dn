@@ -583,8 +583,8 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn te.avasthitaa.h}&te|&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  2b&{\dn te.avasthitaa.h}&te|&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'va|sthi|taa\h{aa}&avasthitaa.h\\
@@ -3122,8 +3122,8 @@ death.\\
   &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
   &&&\note{root: {\dn kath} = kath}\\
   &&&\\
-  &{\dn te.avyayaam}&te|&those/they\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn te.avyayaam}&te|&{\dn te} = \temale\\
+  &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&'vya|yaam&avyayaam\\
