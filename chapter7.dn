@@ -456,8 +456,8 @@ the place of birth and the pulverization of all of the world, thus.\\
   &&&\note{similar: \noun, \female, {\dn yonii} = yonii}\\
   &&&\note{= vagina}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; people; creatures\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2256,8 +2256,8 @@ anyone (knows) me.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings; spirits; men; creatures\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
@@ -2330,8 +2330,8 @@ stupidity, O destroying of enemies (O Arjuna).\\
   &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
   &&&\\
   &&bhuu|taa|ni&{\dn bhuutaani}\\
-  &&&= beings; spirits; men; creatures\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   &&&\\
   &{\dn sammoha.m}&sam|mo|ha.m&stupidity; confusion\\

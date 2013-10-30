@@ -1176,8 +1176,8 @@ offering, rain is. An offering is action-origin.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&ghosts; people; beings\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&g\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2674,8 +2674,8 @@ do?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings; people; creatures; spirits\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline

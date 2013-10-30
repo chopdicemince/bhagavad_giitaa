@@ -2604,8 +2604,8 @@ there are what lamentations (why be sad)?\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn aadi} = addi}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings; animals; spirits\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2832,8 +2832,8 @@ deserve to lament each being.\\
   &&&\note{from {\dn sarvam} = sarvam = each}\\
   &&&\note{here, \nominativecase = \accusativecase}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&beings; animals; spirits\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{here, \nominativecase = \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3112,8 +3112,8 @@ death.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&people\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5859,8 +5859,9 @@ sage.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn jaag.r} = jaag.r}\\
   &&&\\
-  &{\dn bhuutaani}&bhuu|taa|ni&people; living things; spirits\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
+  &&&\notebhuutaani\\
+  &&&\note{from {\dn bhuutam} = bhuutam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
