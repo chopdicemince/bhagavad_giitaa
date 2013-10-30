@@ -638,8 +638,8 @@ has eleven main syllables per line.)\\
   &&&\note{\prefix}\\
   &&&\\
   &&bhaa|va\h{a}&{\dn bhaava.h}\\
-  &&&= birth; behavior\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhAvaH\\
+  &&&\notebhAvaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1503,8 +1503,8 @@ these two statements---by people who know or see.\\
   &&&\\
   &{\dn bhaavo}&bhaa|vo&bhaava.h\\
   &&&= {\dn bhaava.h}\\
-  &&&= birth; state (of existence)\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhAvaH\\
+  &&&\notebhAvaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1516,8 +1516,8 @@ these two statements---by people who know or see.\\
   &&&\\
   &&bhaa|vo&bhaava.h\\
   &&&= {\dn bhaava.h}\\
-  &&&= birth; state (of existence)\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhAvaH\\
+  &&&\notebhAvaH\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

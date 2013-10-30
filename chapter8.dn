@@ -220,8 +220,8 @@ is called the self. Being-birth-doing is called action.\\
   &&sva|&{\dn sva} = self\\
   &&&\note{\adjective}\\
   &&&\\
-  &&bhaa|vo|&bhaava.h = {\dn bhaava.h} = birth; behavior\\
-  &&&\note{\noun, \male}\\
+  &&bhaa|vo|&bhaava.h = {\dn bhaava.h} = \bhAvaH\\
+  &&&\notebhAvaH\\
   &&&\\
   &&'dhyaat|ma|mu|&adhyaatmam = {\dn adhyaatmam} = self\\
   &&&\note{\adjective, \neuter}\\
@@ -240,8 +240,8 @@ is called the self. Being-birth-doing is called action.\\
   &&&\\
   &&bhaa|vod|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
-  &&&= birth; being\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhAvaH\\
+  &&&\notebhAvaH\\
   &&&\\
   &&bha|va|&udbhava.h\\
   &&&= {\dn udbhava.h}\\
@@ -288,8 +288,8 @@ body, O best (O Arjuna).\\
   &&&= changeable; perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn bhaava.h}&bhaa|va\h{a}&birth; behavior\\
-  &&&\note{\noun, \male}\\
+  &{\dn bhaava.h}&bhaa|va\h{a}&\bhAvaH\\
+  &&&\notebhAvaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -515,8 +515,8 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
-  &&&= birth; behavior\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhAvaH\\
+  &&&\notebhAvaH\\
   &&&\\
   &&bhaa|vi|ta\h{a}&{\dn bhaavita.h}\\
   &&&= born\\
@@ -1794,8 +1794,8 @@ not vanish in all beings destroyed.\\
   &&&\\
   &\multicolumn{3}{l}{\dn bhaavo.anyo.avyakto.avyaktaatsanaatana.h}\\
   &&&\\
-  &&bhaa|vo|&bhaava.h = {\dn bhaava.h} = birth; behavior\\
-  &&&\note{\noun, \male}\\
+  &&bhaa|vo|&bhaava.h = {\dn bhaava.h} = \bhAvaH\\
+  &&&\notebhAvaH\\
   &&&\\
   &&nyo&anya.h = {\dn anya.h} = another; other; different; strange\\
   &&&\note{\adjective, \male}\\
