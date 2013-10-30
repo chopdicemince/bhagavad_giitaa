@@ -4,7 +4,11 @@
 \usepackage{graphicx}
 
 \usepackage{mymacros}
-
+% ------------------------------------------------------------------------------
+\addtolength{\oddsidemargin}{0mm}
+\addtolength{\evensidemargin}{-38mm}
+\addtolength{\textwidth}{40mm}
+% ------------------------------------------------------------------------------
 \begin{document}
 % ------------------------------------------------------------------------------
 \title{Learn Sanskrit:\\
