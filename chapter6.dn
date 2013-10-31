@@ -976,8 +976,8 @@ is virtuous.\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn k.rtvaa}&k.rt|vaa&having done\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn k.rtvaa}&k.rt|vaa&\kRtvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn k.r} = k.r}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2116,8 +2116,8 @@ may think of not any (thing), also.\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn k.rtvaa}&k.rt|vaa&having done\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn k.rtvaa}&k.rt|vaa&\kRtvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn k.r} = k.r}\\
   % ----------------------------------------------------------------------------
   \hline

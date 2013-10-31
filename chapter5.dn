@@ -2310,8 +2310,8 @@ inside nose, \dots\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn sama.h} = sama.h}\\
   &&&\\
-  &{\dn k.rtvaa}&kr.t|vaa&having done\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn k.rtvaa}&kr.t|vaa&\kRtvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn k.r} = k.r}\\
   % ----------------------------------------------------------------------------
   \hline
