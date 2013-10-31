@@ -1247,8 +1247,8 @@ been the moon, (and) made of juice, (I) cause all plants to prosper.\\
   &&&= moon\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn bhuutvaa}&bhuu|tvaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn rasaatmaka.h}&ra|saat|&rasa.h\\
@@ -1280,8 +1280,8 @@ I---having been the fire of breathing things, body-occupying, yoked
   &&&= sun; fire; digestion\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn bhuutvaa}&bhuu|tvaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   % ----------------------------------------------------------------------------
   \hline

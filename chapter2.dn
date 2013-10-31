@@ -1881,8 +1881,8 @@ has eleven main syllables per line.)\\
   &&ya.m&ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\\
-  &{\dn bhuutvaa}&bhuut|vaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn bhavitaa}&bha|vi|taa&(he/she/it) will possibly be\\
@@ -3231,8 +3231,8 @@ small importance.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn bhuutvaa}&bhuut|vaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  2b&{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn yaasyasi}&yaa|sya|si&(you) create froth;\\
@@ -4274,8 +4274,8 @@ non-success. This equanimity is called ``yoga.''\\
   &&&= \samaH\\
   &&&\notesamaH\\
   &&&\\
-  &{\dn bhuutvaa}&bhuut|vaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   % ----------------------------------------------------------------------------
   \hline

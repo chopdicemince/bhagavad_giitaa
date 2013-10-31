@@ -2432,8 +2432,8 @@ possessions---fight. The affliction is gone.\\
   &&&= indifferent; not desiring possesions; unselfish\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn bhuutvaa}&bhuut|vaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   % ----------------------------------------------------------------------------
   \hline

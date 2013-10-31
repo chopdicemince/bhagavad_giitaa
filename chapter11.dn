@@ -5638,8 +5638,8 @@ main syllables, instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn bhuutvaa}&bhuu|tvaa&having been\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  2b&{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn puna.h}&pu|na\h{a}&again\\
