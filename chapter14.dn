@@ -1178,8 +1178,8 @@ stupid stations in life.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn pralaya.h} = pralaya.h}\\
   &&&\\
-  &{\dn gatvaa}&ga|tvaa&having gone\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn gatvaa}&ga|tvaa&\gatvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn gam} = gam}\\
   % ----------------------------------------------------------------------------
   \hline
