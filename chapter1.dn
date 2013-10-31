@@ -140,8 +140,8 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  1a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&\dRSTvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
@@ -1536,8 +1536,8 @@ K.r.s.na, then said this group of words, O great master.\\
   &&&\note{from {\dn vyavasthita.h} = vyavasthita.h}\\
   &&&\\
   &&d.r.s.t|vaa&{\dn d.r.s.tvaa}\\
-  &&&= having seen\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &&&= \dRSTvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2253,8 +2253,8 @@ arms and legs sink, and my mouth dries up.\\
   &&&\\
   1a&{\dn d.r.s.tvema.m}&d.r.s.t|ve|&d.r.s.tvaa\\
   &&&= {\dn d.r.s.tvaa}\\
-  &&&= having seen\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &&&= \dRSTvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &&ma.m&imam = {\dn imam} = \imam\\

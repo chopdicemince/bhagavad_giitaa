@@ -5129,8 +5129,8 @@ objects).\\
   2b&{\dn para.m}&pa|ra.m&more; better; best\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn d.r.s.tvaa}&d.r.s.t|vaa&having seen\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn d.r.s.tvaa}&d.r.s.t|vaa&\dRSTvA\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn pa"s} = pa"s}\\
   &&&\\
   &{\dn nivartate}&ni|var|ta|te&(he/she/it) disappears; stops; turns back\\
