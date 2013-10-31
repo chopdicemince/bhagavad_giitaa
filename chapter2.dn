@@ -3,7 +3,7 @@
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 1}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+\saJjaya said (to King Dh.rtaraa.s.tra):\\
 
 (To) him (Arjuna), thus, filled with kindess, (with) a
 tear-plentiful-confused-eye, (with) grief---this statement (was) said
@@ -12,8 +12,8 @@ by Madhu-killer (K.r.s.na): \dots\\
 (K.r.sna killed a demon named ``Madhu,'' whose name means ``honey.'')\\
 
 \begin{tabular}{llll}
-  0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
-  &&&\note{\noun, \male}\\
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjaya\\
+  &&&\notesaJjaya\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
@@ -839,15 +839,15 @@ has eleven main syllables per line.)\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 9}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+\saJjaya said (to King Dh.rtaraa.s.tra):\\
 
 Really, having said (things) to K.r.s.na, Arjuna, (associated with)
 the killing of enemies, \dots did not fight (?) \dots, thus. (To)
 K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
 
 \begin{tabular}{llll}
-  0&{\dn sa~njaya}&sa\~{}n|ja|ya&Sa\~{}njaya\\
-  &&&\note{\noun, \male}\\
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjaya\\
+  &&&\notesaJjaya\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
@@ -919,7 +919,7 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 10}
 
-(Sa\~{}njaya said to King Dh.rtaraa.s.tra:)\\
+(\saJjaya said to King Dh.rtaraa.s.tra:)\\
 
 You, O descendant of Bharata (O Dh.rtaraa.s.tra)---K.r.s.na said, as
 if comedy, in the middle of the two armies, (to despairing Arjuna),
