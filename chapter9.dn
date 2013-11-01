@@ -1224,8 +1224,8 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn bhaktyaa}&bhak|tyaa&using/by faith; devotion\\
-  &&&\note{\noun, \female, \instrumentalcase}\\
+  &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
+  &&&\notebhaktyaa\\
   &&&\note{from {\dn bhakti.h} = bhakti.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2330,8 +2330,8 @@ pure-self.\\
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn bhaktyaa}&bhak|tyaa&using/by faith; trust\\
-  &&&\note{\noun, \female, \instrumentalcase}\\
+  &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
+  &&&\notebhaktyaa\\
   &&&\note{from {\dn bhakti.h} = bhakti.h}\\
   &&&\\
   &{\dn prayacchati}&pra|yac|cha|ti&(he/she/it) presents\\
@@ -2626,8 +2626,8 @@ also, I (am) in them.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn bhaktyaa}&bhak|tyaa&using/by faith; trust\\
-  &&&\note{\noun, \female, \instrumentalcase}\\
+  &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
+  &&&\notebhaktyaa\\
   &&&\note{from {\dn bhakti.h} = bhakti.h}\\
   % ----------------------------------------------------------------------------
   \hline
