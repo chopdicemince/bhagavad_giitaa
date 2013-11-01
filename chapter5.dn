@@ -70,7 +70,7 @@ one in these two---confidence---that is for me---say, definitely.\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&ka.m&ekam = {\dn ekam} = one\\
-  &&&\note{\numberr, \neuter}\\
+  &&&\note{\noun, \neuter}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -314,7 +314,7 @@ fruit.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ekamapyaasthita.h}&e|ka|ma|&ekam = {\dn ekam} = one\\
-  &&&\note{\numberr, \neuter}\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &&pyaa|&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -395,7 +395,7 @@ one thing---he sees.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn eka.m}&e|ka.m&ekam = {\dn ekam} = one\\
-  &&&\note{\numberr, \neuter}\\
+  &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn saa"nkhya.m}&saa"n|khya.m&saa"nkhyam\\
   &&&= {\dn saa"nkhyam}\\
@@ -1095,7 +1095,7 @@ one anus, and one penis opening.)\\
 \begin{tabular}{llll}
   2a&{\dn navadvaare}&na|va|&{\dn nava}\\
   &&&= nine\\
-  &&&\note{\numberr}\\
+  &&&\note{\noun, \allgenders, \plural}\\
   &&&\\
   &&dvaa|re&at/in/on a/the door; gate; opening\\
   &&&\note{\noun, \neuter, \locativecase}\\
