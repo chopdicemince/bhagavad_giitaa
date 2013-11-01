@@ -832,8 +832,8 @@ water (as a lotus leaf is not attached to water).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
   &&&\\
-  &{\dn tyaktvaa}&tyakt|vaa&having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn karoti}&ka|ro|ti&(he/she/it) does\\
@@ -984,8 +984,8 @@ attached to fruit (results), is bound.\\
   &&&= \phalam\\
   &&&\notephalam\\
   &&&\\
-  &{\dn tyaktvaa}&tyakt|vaa&having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   % ----------------------------------------------------------------------------
   \hline

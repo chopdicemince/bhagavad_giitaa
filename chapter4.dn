@@ -711,8 +711,8 @@ goes toward me, O Arjuna.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tyaktvaa}&tyak|tvaa&having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  2a&{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn deha.m}&de|ha.m&deham\\
@@ -1661,8 +1661,8 @@ Having abandoned action-fruit-attachment, (being) eternally satisfied,
 not do any (thing).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tyaktvaa}&tyakt|vaa&haing abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  1a&{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn karmaphalaasa"nga.m}&kar|ma|&karmam\\

@@ -479,8 +479,8 @@ Arjuna)---sure, ultimate opinion.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
   &&&\\
-  &{\dn tyaktvaa}&tyak|tvaa&having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn phalaani}&pha|laa|ni&\phalaani\\
@@ -753,8 +753,8 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa"nga.h} = sa"nga.h}\\
   &&&\\
-  &{\dn tyaktvaa}&tyak|tvaa&having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn phala.m}&pha|la.m&phalam\\
@@ -4463,8 +4463,8 @@ desire(-and)-dislike-dry(ness) (indifference), \dots\\
   &&&\\
   &&styak|tvaa&tyaktvaa\\
   &&&= {\dn tyaktvaa}\\
-  &&&= having abandoned\\
-  &&&\note{\verbb, \perfectparticiple}\\
+  &&&= \tyaktvaa\\
+  &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   % ----------------------------------------------------------------------------
   \hline
