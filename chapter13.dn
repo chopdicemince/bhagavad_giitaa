@@ -2186,8 +2186,8 @@ action-yoking.\\
   &&&\\
   &&maa|na|maat|&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   &&&\\
   &&ma|naa&aatmanaa\\
@@ -2562,8 +2562,8 @@ does not hurt the self, using the self. From there, (the person) goes
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2634,8 +2634,8 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&&\\
   &&maa|na|&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline

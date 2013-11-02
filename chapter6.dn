@@ -381,9 +381,9 @@ self is an enemy of the self.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&maa|na.m&aatmaanam = {\dn aatmaanam} = (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na.m&aatmaanam = {\dn aatmaanam} = \aatmaanam\\
+  &&&\noteaatmaanam\\
+  &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -392,8 +392,8 @@ self is an enemy of the self.\\
   &&naat|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&maa|na|ma|&aatmaanam = {\dn aatmaanam} = (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&maa|na|ma|&aatmaanam = {\dn aatmaanam} = \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   &&&\\
   &&va|saa|da|yet&avasaadayet\\
@@ -821,8 +821,8 @@ and without possessions.\\
   &&&\\
   1b&&maat|maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   &&&\\
   &{\dn rahasi}&ra|ha|si&(you) separate; leave; abandon\\
@@ -1238,8 +1238,8 @@ union.\\
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1691,8 +1691,8 @@ person is satisfied.\\
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2335,8 +2335,8 @@ completely.\\
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2415,8 +2415,8 @@ all-seeing.\\
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
-  &&&= (?) self; soul\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \aatmaanam\\
+  &&&\noteaatmaanam\\
   &&&\note{from {\dn aatmaa} = aatmaa}\\
   % ----------------------------------------------------------------------------
   \hline
