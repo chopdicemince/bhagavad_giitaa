@@ -1259,8 +1259,8 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &&&\\
   &&bhak|ta\h{a}&bhakta.h\\
   &&&= {\dn bhakta.h}\\
-  &&&= devotee\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhaktaH\\
+  &&&\notebhaktaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
@@ -1451,8 +1451,8 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&bhak|ta\h{a}&{\dn bhakta.h}\\
-  &&&= devotee\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhaktaH\\
+  &&&\notebhaktaH\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\

@@ -1676,8 +1676,8 @@ from-be-behavior.\\
   &&&\\
   &&bhak|ta&bhakta.h\\
   &&&= {\dn bhakta.h}\\
-  &&&= devotee\\
-  &&&\note{\noun, \male}\\
+  &&&= \bhaktaH\\
+  &&&\notebhaktaH\\
   &&&\\
   &{\dn etadvij~naaya}&e|ta|dvi|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
