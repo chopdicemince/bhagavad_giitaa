@@ -152,8 +152,8 @@ the beginning, surely, of deities and great-sages, altogether.\\
   &&&\\
   &{\dn devaanaa.m}&de|vaa|naa.m&devaanaam\\
   &&&= {\dn devaanaam}\\
-  &&&= of deities\\
-  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&= \devaanaam\\
+  &&&\notedevaanaam\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1903,8 +1903,8 @@ consciousness.\\
   &&&\\
   1b&{\dn devaanaamasmi}&de|vaa|naa|ma|&devaanaam\\
   &&&= {\dn devaanaam}\\
-  &&&= of deities\\
-  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&= \devaanaam\\
+  &&&\notedevaanaam\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
   &&smi&asmi = {\dn asmi} = (I) am\\
