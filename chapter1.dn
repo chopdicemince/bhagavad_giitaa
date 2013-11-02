@@ -189,9 +189,9 @@ the teacher (Dro.na). The kings said this group of words: \dots''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn raajaa}&raa|jaa&raajaa.h = {\dn raajaa.h} = kings\\
-  &&&\note{\noun, \male, \plural}\\
-  &&&\note{from {\dn raaja.h} = raaja.h}\\
+  2b&{\dn raajaa}&raa|jaa&king\\
+  &&&\noteraajaa\\
+  &&&\note{from {\dn raajan} = raajan}\\
   &&&\\
   &{\dn vacanamabraviit}&va|ca|na|ma|&vacanam\\
   &&&= {\dn vacanam}\\
@@ -1246,10 +1246,9 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&\note{\noun, \male(?), \accusativecase}\\
   &&&\note{from {\dn anantavijaya.h} = anantavijaya.h}\\
   &&&\\
-  &{\dn raajaa}&raa|jaa&raaja.h\\
-  &&&= {\dn raaja.h}\\
-  &&&= king\\
-  &&&\note{\noun, \male}\\
+  &{\dn raajaa}&raa|jaa&king\\
+  &&&\noteraajaa\\
+  &&&\note{from {\dn raajan} = raajan}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
