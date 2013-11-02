@@ -409,8 +409,8 @@ self is an enemy of the self.\\
 \begin{tabular}{llll}
   2a&{\dn aatmaiva}&aat|mai|&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -432,8 +432,8 @@ self is an enemy of the self.\\
   &&&\\
   2b&{\dn raatmaiva}&raat|mai|&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -465,8 +465,8 @@ an enemy.\\
   &&&= friend; relative; association\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&maat|&aatmaa = {\dn aatmaa} = self; soul\\
-  &&&\note{\noun, \male}\\
+  &&maat|&aatmaa = {\dn aatmaa} = \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &&ma|na|sta|&aatmana.h\\
   &&&= {\dn aatmana.h}\\
@@ -484,8 +484,8 @@ an enemy.\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &&mai|&aatmaa = {\dn aatmaa} = self; soul\\
-  &&&\note{\noun, \male}\\
+  &&mai|&aatmaa = {\dn aatmaa} = \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &&vaat|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -529,8 +529,8 @@ an enemy.\\
   &&&\\
   &&mai|&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -574,8 +574,8 @@ honor and dishonor.\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &{\dn samaahita.h}&sa|maa|hi|ta\h{a}&steadfast\\
   &&&\note{\adjective, \male}\\
@@ -645,8 +645,8 @@ pile of stones, and gold, are the same (to the devotee).\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -849,8 +849,8 @@ and without possessions.\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1145,8 +1145,8 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &\multicolumn{3}{l}{\dn vigatabhiirbrahmacaarivratesthita.h}\\
   &&&\\
@@ -2459,8 +2459,8 @@ all-seeing.\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

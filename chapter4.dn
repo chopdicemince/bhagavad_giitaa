@@ -453,8 +453,8 @@ self-magic.\\
   &&&= spending; dying; changing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa&aatmaa = {\dn aatmaa} = self; soul\\
-  &&&\note{\noun, \male}\\
+  &&maa&aatmaa = {\dn aatmaa} = \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1760,8 +1760,8 @@ life). He does not get injustice.\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3401,8 +3401,8 @@ next (world).\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   &&&\\
   &{\dn vina"syati}&vi|na|"sya|ti&(he/she/it) is frustrated; blocked; destroyed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

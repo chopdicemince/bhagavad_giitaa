@@ -2477,8 +2477,8 @@ instead of the usual eight.)\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5661,8 +5661,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -498,10 +498,10 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
   &&&= foolish; stupid; confused\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa&aatmaan\\
-  &&&= {\dn aatmaan}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&maa&aatmaa\\
+  &&&= {\dn aatmaa}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1148,7 +1148,7 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   &&&= {\dn aatma}\\
   &&&= auto; self\\
   &&&\note{\prefix}\\
-  &&&\note{from: \noun, \male, {\dn aatmaa} = aatmaa = self; soul}\\
+  &&&\note{from: \noun, \male, {\dn aatmaa} = aatmaa = \aatmaa}\\
   &&&\note{from: \noun, \male, {\dn aatman} = aatman = self; soul}\\
   &&&\\
   &&kaa|ra|.naat&{\dn kaara.naat}\\
@@ -2186,8 +2186,8 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= \aatmaa\\
+  &&&\noteaatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
