@@ -5268,8 +5268,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&nye|na&anyena\\
   &&&= {\dn anyena}\\
-  &&&= using/by a/the person/thing another; other; different; strange\\
-  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&= \anyena\\
+  &&&\noteanyena{\male}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn na}&na&\na\\
@@ -5395,8 +5395,8 @@ instead of the usual eight.)\\
   &&&\\
   &&nye|na&anyena\\
   &&&= {\dn anyena}\\
-  &&&= using/by a/the person/thing another; other; different; strange\\
-  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&= \anyena\\
+  &&&\noteanyena{\male}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn kurupraviira}&ku|ru|&{\dn kuru}\\
