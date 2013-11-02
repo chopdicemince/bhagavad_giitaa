@@ -924,8 +924,8 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   &&&\\
   &{\dn devaa}&de|vaa&devaa.h\\
   &&&= {\dn devaa.h}\\
-  &&&= gods\\
-  &&&\note{\noun, \male, \plural, \nominativecase, \vocativecase}\\
+  &&&= \devAH\\
+  &&&\notedevAH\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
   &{\dn bhaavayantu}&bhaa|va|yan|tu&(you) devote to; cherish; think about\\
@@ -997,8 +997,8 @@ objects of enjoyment) is a thief, really.\\
   &&&\\
   &{\dn devaa}&de|vaa&devaa.h\\
   &&&= {\dn devaa.h}\\
-  &&&= gods\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \devAH\\
+  &&&\notedevAH\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   % ----------------------------------------------------------------------------
   \hline

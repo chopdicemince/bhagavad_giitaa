@@ -1229,8 +1229,8 @@ visible form of you.\\
   &&&\\
   &&de|vaa&devaa.h\\
   &&&= {\dn devaa.h}\\
-  &&&= deities\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \devAH\\
+  &&&\notedevAH\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
   &{\dn na}&na&\na\\
