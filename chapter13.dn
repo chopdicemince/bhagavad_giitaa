@@ -2200,9 +2200,8 @@ action-yoking.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn anye}&a|nye&at/in/on a/the person/thing\\
-  &&&another; other; different; strange\\
-  &&&\note{\noun, \male, \locativecase}\\
+  2a&{\dn anye}&a|nye&\anye\\
+  &&&\noteanye{\male}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn saa"nkhyena}&saa"n|khye|na&using/by a kind of philosophy\\
@@ -2246,9 +2245,8 @@ homage. And also, those (people) travel through death, dependent on
 hearing.\\
 
 \begin{tabular}{llll}
-  1a&{\dn anye}&a|nye&at/in/on a/the person/thing\\
-  &&&another; other; different; strange\\
-  &&&\note{\noun, \male, \locativecase}\\
+  1a&{\dn anye}&a|nye&\anye\\
+  &&&\noteanye{\male}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn tvevamajaananta.h}&tve|&tu = {\dn tu} = \tu\\
@@ -2272,9 +2270,8 @@ hearing.\\
   &&&\\
   &&nye|&anye\\
   &&&= {\dn anye}\\
-  &&&= at/in/on a/the person/thing\\
-  &&&another; other; different; strange\\
-  &&&\note{\noun, \male, \locativecase}\\
+  &&&= \anye\\
+  &&&\noteanye{\male}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &&bhya&bhya.h\\
