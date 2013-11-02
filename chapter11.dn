@@ -4665,8 +4665,8 @@ instead of the usual eight.)\\
 
 \begin{tabular}{llll}
    1a&{\dn pitaasi}&pi|taa|&{\dn pitaa}\\
-   &&&= father\\
-   &&&\note{\noun, \male}\\
+   &&&= \pitaa\\
+   &&&\notepitaa\\
    &&&\note{from {\dn pit.r} = pit.r}\\
    &&&\\
    &&si&asi = {\dn asi} = (you) are\\
@@ -4851,8 +4851,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn piteva}&pi|te|&pitaa\\
   &&&= {\dn pitaa}\\
-  &&&= father\\
-  &&&\note{\noun, \male}\\
+  &&&= \pitaa\\
+  &&&\notepitaa\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
   &&va&iva = {\dn iva} = \iva\\
