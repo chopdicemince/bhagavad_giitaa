@@ -2216,8 +2216,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\note{from {\dn vrata.h} = vrata.h}\\
   &&&\\
   &{\dn devaanpit.Rnyaanti}&de|vaan|&{\dn devaan}\\
-  &&&= deities\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \devaan\\
+  &&&\notedevaan\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   % ----------------------------------------------------------------------------
   \hline

@@ -311,8 +311,8 @@ and in another.\\
   &&&\\
   &{\dn devaanyak.sarak.saa.msi}&de|vaa|&devaan\\
   &&&= {\dn devaan}\\
-  &&&= deities\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \devaan\\
+  &&&\notedevaan\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   % ----------------------------------------------------------------------------
   \hline
