@@ -1150,8 +1150,8 @@ all, partitioned in many ways.\\
   &&&\\
   &&de|va|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&de|va|sya|&{\dn devasya}\\
   &&&= of a/the deity\\
@@ -1290,8 +1290,8 @@ syllables, instead of the usual eight.)\\
   &&&\\
   &{\dn deva}&de|va&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &{\dn dehe}&de|he&at/in/on a/the body\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -2619,8 +2619,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn deve"sa}&de|ve|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&"sa&ii"sa.h\\
   &&&= {\dn ii"sa.h}\\
@@ -3238,8 +3238,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn devavara}&de|va|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&va|ra&{\dn vara}\\
   &&&= O best\\
@@ -4057,8 +4057,8 @@ instead of the usual eight.)\\
   &&&\\
   &&de|va\h{a}&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
   &&&\notepuruSaH\\
@@ -5005,8 +5005,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn deve"sa}&de|ve|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&"sa&ii"sa\\
   &&&= {\dn ii"sa}\\

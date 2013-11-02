@@ -1088,8 +1088,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&\\
   1b&{\dn devar.sirnaaradastathaa}&de|var|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&.sir|&.r.si.h\\
   &&&= {\dn .r.si.h}\\
@@ -1321,8 +1321,8 @@ deity of deities), O world-lord.\\
   &&&\\
   2b&{\dn devadeva}&de|va|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&de|va&deva\\
   &&&= {\dn deva}\\
@@ -2233,8 +2233,8 @@ am) the monk Kapila.\\
   &&&\\
   1b&{\dn devar.sii.naa.m}&de|var|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&.sii|.naa.m&.r.sii.naam\\
   &&&= {\dn .r.sii.naam}\\

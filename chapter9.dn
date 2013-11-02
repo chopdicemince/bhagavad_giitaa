@@ -1796,8 +1796,8 @@ a verse, each line has eight main syllables.)\\
   &&&\\
   &{\dn devabhogaan}&de|va|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&bho|gaan&{\dn bhogaan}\\
   &&&= (occurrences of) enjoyment, such as eating\\
@@ -2207,8 +2207,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\\
   &{\dn devavrataa}&de|va|&deva.h\\
   &&&= {\dn deva.h}\\
-  &&&= deity\\
-  &&&\note{\noun, \male}\\
+  &&&= \devaH\\
+  &&&\notedevaH\\
   &&&\\
   &&vra|taa&{\dn vrataa.h}\\
   &&&= vowers\\
