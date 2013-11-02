@@ -2376,9 +2376,8 @@ pure-self.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= from/of a/the self; soul\\
-  &&&\note{\noun, \male}\\
-  &&&\note{\ablativecase, \genitivecase}\\
+  &&&= \AtmanaH\\
+  &&&\noteAtmanaH\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
