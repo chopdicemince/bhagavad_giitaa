@@ -1039,8 +1039,8 @@ powerful.\\
   &&&\\
   &&de|va|ma|&devam\\
   &&&= {\dn devam}\\
-  &&&= deity\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \devam\\
+  &&&\notedevam\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
