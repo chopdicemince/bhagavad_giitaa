@@ -726,9 +726,10 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&\\
   &&maa|no'l|&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
-  &&&= (?) selves; souls\\
+  &&&= (O) selves; souls\\
   &&&\note{\noun, \male, \plural}\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&pa|&alpa\\
   &&&= {\dn alpa}\\
@@ -1826,7 +1827,7 @@ abandons this group of three.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
+  &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
@@ -1934,7 +1935,7 @@ path.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
+  &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\

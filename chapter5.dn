@@ -549,6 +549,7 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -561,6 +562,7 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn jitendriya.h}&ji|ten|&jita\\
   &&&= {\dn jita}\\
@@ -600,6 +602,7 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1338,8 +1341,9 @@ one (God).\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) of the self; soul\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &&&= from/of the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
@@ -1406,9 +1410,10 @@ stains.\\
   &&&\\
   &&maa|na|&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
-  &&&= (?) of the self; soul\\
-  &&&\note{\noun, \male, \genitivecase}\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&= (O) selves; souls\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1747,6 +1752,7 @@ non-decaying happiness.\\
   &&&\\
   &&maa&aatmaa = {\dn aatmaa} = \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1758,7 +1764,7 @@ non-decaying happiness.\\
   &&&\\
   &&ma|ni&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self; soul\\
+  &&&= at/in/on a/the self; soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -1794,6 +1800,7 @@ non-decaying happiness.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2139,9 +2146,10 @@ benefit of each being.\\
   &&&\\
   &&maa|na\h{a}&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn aatmaa} = aatmaa}\\
-  &&&\note{= self; soul}\\
+  &&&= (O) selves; souls\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2236,7 +2244,7 @@ known-selves.\\
   &&&\\
   &&ma|naam&aatmanaam\\
   &&&= {\dn aatmanaam}\\
-  &&&= (?) of selves; souls\\
+  &&&= of selves; souls\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}

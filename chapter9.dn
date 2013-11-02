@@ -458,6 +458,7 @@ being-bearing and not being-standing. My self is the being-creator.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn bhuutabhaavana.h}&bhuu|ta|&bhuutam\\
   &&&= {\dn bhuutam}\\
@@ -1070,9 +1071,10 @@ mind, (at) the start, and not-changeable.\\
   1a&{\dn mahaatmaanastu}&ma|haat|&mahaan = {\dn mahaan} = \mahaan\\
   &&&\notemahaan\\
   &&&\\
-  &&maa|na|&aatmaana.h = {\dn aatmaana.h} = (?) selves; souls\\
+  &&maa|na|&aatmaana.h = {\dn aatmaana.h} = (O) selves; souls\\
   &&&\note{\noun, \male, \plural}\\
-  &&&\note{from {\dn aatman} = aatman = self; soul}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&stu&tu = {\dn tu} = \tu\\
   &&&\notetu\\
@@ -2374,7 +2376,7 @@ pure-self.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
+  &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
@@ -2536,6 +2538,7 @@ yoked-self, (you) will approach me.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2763,6 +2766,7 @@ son of Kuntii (O Arjuna), assert (that) my devotee does not die.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3085,7 +3089,7 @@ really, (you are) devoted to me.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn matparaaya.na.h}&mat|&{\dn mat} = \mat\\
   &&&\notemat\\

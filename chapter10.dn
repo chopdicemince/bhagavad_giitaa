@@ -1261,7 +1261,7 @@ deity of deities), O world-lord.\\
   &&&\\
   &&ma|naat|&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -1269,7 +1269,7 @@ deity of deities), O world-lord.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1381,8 +1381,9 @@ worlds.\\
   &&&\\
   &&ma|&aatman\\
   &&&= {\dn aatman}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= O self; soul\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&\multicolumn{2}{l}{vi|bhuu|ta|ya\h{a}}\\
   &&&\\
@@ -1531,7 +1532,7 @@ Using detail of (your) self, O being-disturbance (O K.r.s.na), say
   &&&\\
   &&ma|no&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
+  &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
@@ -1719,6 +1720,7 @@ beings, really.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn gu.daake"sa}&gu|.daa|ke|"sa&O Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\

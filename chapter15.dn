@@ -1021,7 +1021,7 @@ not see this (situation).\\
   &&&\\
   &&ma|nya|&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self; soul\\
+  &&&= at/in/on a/the self; soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -1052,8 +1052,9 @@ not see this (situation).\\
   &&&\\
   &&maa|no&aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
-  &&&= (?) selves; souls\\
+  &&&= (O) selves; souls\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1591,6 +1592,7 @@ non-changeable God.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&tyu|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\

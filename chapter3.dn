@@ -502,6 +502,7 @@ sense objects---he is regarded as a foolish soul and wrong conduct.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1148,8 +1149,9 @@ apart and aged. They \dots (?) \dots. But villains cook a bad
   &&&= {\dn aatma}\\
   &&&= auto; self\\
   &&&\note{\prefix}\\
-  &&&\note{from: \noun, \male, {\dn aatmaa} = aatmaa = \aatmaa}\\
-  &&&\note{from: \noun, \male, {\dn aatman} = aatman = self; soul}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn aatman} = aatman = \aatman}\\
+  &&&\note{\noun, \male}\\
   &&&\\
   &&kaa|ra|.naat&{\dn kaara.naat}\\
   &&&= from reason; cause; music instrument\\
@@ -1398,8 +1400,9 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&stvaat|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &&ma|&aatman = {\dn aatman} = self; soul\\
-  &&&\note{\noun, \male}\\
+  &&ma|&aatman = {\dn aatman} = O self; soul\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&ra|ti|re|&rati.h\\
   &&&= {\dn rati.h}\\
@@ -1418,8 +1421,9 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&&\\
   1b&&daat|ma|&aatman\\
   &&&= {\dn aatman}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= O self; soul\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&t.rp|ta"s|&t.rpta.h\\
   &&&= {\dn t.rpta.h}\\
@@ -1437,9 +1441,9 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
 \begin{tabular}{llll}
   2a&{\dn aatmanyeva}&aat|ma|nye|&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn aatman} = aatman}\\
-  &&&\note{= self; soul}\\
+  &&&= at/in/on a/the self; soul\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2188,6 +2192,7 @@ together. The foolish ego self thinks, ``I am the doer.''\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3469,12 +3474,13 @@ dangerous desire-form.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) self\\
-  &&&\note{\noun, gender?, part of speech?}\\
+  &&&= using/by a/the self; soul\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

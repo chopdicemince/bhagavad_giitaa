@@ -455,6 +455,7 @@ self-magic.\\
   &&&\\
   &&maa&aatmaa = {\dn aatmaa} = \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -582,7 +583,7 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn s.rjaamyaham}&s.r|jaa|mya|&s.rjaami\\
   &&&= {\dn s.rjaami}\\
@@ -1762,6 +1763,7 @@ life). He does not get injustice.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3021,9 +3023,9 @@ self---therefore, in me.\\
   &&&\\
   &&ma|nya|&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn aatmaa} = aatmaa}\\
-  &&&\note{= self; soul}\\
+  &&&= at/in/on a/the self; soul\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&tho&atho\\
   &&&= {\dn atho}\\
@@ -3274,9 +3276,9 @@ knowledge. A self (with) action done, using time (over time), finds
   &&&\\
   &&ma|ni&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn aatman} = aatman}\\
-  &&&\note{= self; soul}\\
+  &&&= at/in/on a/the self; soul\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn vindati}&vin|da|ti&(he/she/it) meets; gets; finds\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3403,6 +3405,7 @@ next (world).\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn vina"syati}&vi|na|"sya|ti&(he/she/it) is frustrated; blocked; destroyed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3453,9 +3456,10 @@ next (world).\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn aatmaa} = aatmaa}\\
-  &&&\note{= self; soul}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3580,9 +3584,10 @@ descendant of Bharata (O Arjuna).\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?)\\
-  &&&\note{similar: \prefix, {\dn aatma} = aatma}\\
-  &&&\note{= self; soul}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -377,13 +377,13 @@ self is an enemy of the self.\\
   &&&\\
   &&ma|naat|&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&maa|na.m&aatmaanam = {\dn aatmaanam} = \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -394,7 +394,7 @@ self is an enemy of the self.\\
   &&&\\
   &&maa|na|ma|&aatmaanam = {\dn aatmaanam} = \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&va|saa|da|yet&avasaadayet\\
   &&&= {\dn avasaadayet}\\
@@ -411,6 +411,7 @@ self is an enemy of the self.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -420,8 +421,9 @@ self is an enemy of the self.\\
   &&&\\
   &&ma|no&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn bandhu}&ban|dhu\h{u}&{\dn bandhu.h}\\
@@ -434,6 +436,7 @@ self is an enemy of the self.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -445,8 +448,9 @@ self is an enemy of the self.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
@@ -467,11 +471,13 @@ an enemy.\\
   &&&\\
   &&maat|&aatmaa = {\dn aatmaa} = \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&ma|na|sta|&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&sya&tasya = {\dn tasya} = of that; of him (his)\\
@@ -486,13 +492,14 @@ an enemy.\\
   &&&\\
   &&mai|&aatmaa = {\dn aatmaa} = \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&vaat|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -507,7 +514,7 @@ an enemy.\\
   &&&\\
   &&ma|na|&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
+  &&&= from/of a/the self; soul\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
@@ -531,6 +538,7 @@ an enemy.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -557,8 +565,9 @@ honor and dishonor.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn pra"saantasya}&pra|"saan|ta|sya&of something calm\\
@@ -576,6 +585,7 @@ honor and dishonor.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn samaahita.h}&sa|maa|hi|ta\h{a}&steadfast\\
   &&&\note{\adjective, \male}\\
@@ -647,6 +657,7 @@ pile of stones, and gold, are the same (to the devotee).\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -823,7 +834,7 @@ and without possessions.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &{\dn rahasi}&ra|ha|si&(you) separate; leave; abandon\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
@@ -851,6 +862,7 @@ and without possessions.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -901,7 +913,8 @@ grass remainder, \dots\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
   &&&= from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
@@ -1147,6 +1160,7 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &\multicolumn{3}{l}{\dn vigatabhiirbrahmacaarivratesthita.h}\\
   &&&\\
@@ -1240,7 +1254,7 @@ union.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1493,7 +1507,7 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
   &&&\\
   1b&&maat|ma|nye|&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self; soul\\
+  &&&= at/in/on a/the self; soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -1623,8 +1637,9 @@ doing yoking of the self.\\
   &&&\\
   &&ma|na\h{a}&aatmana.h\\
   &&&= {\dn aatmana.h}\\
-  &&&= (?) from/of a/the self; soul\\
-  &&&\note{\noun, \male, \ablativecase, \genitivecase}\\
+  &&&= from/of a/the self; soul\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
 \newpage
@@ -1685,7 +1700,7 @@ person is satisfied.\\
   &&&\\
   &&ma|naat|&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -1693,7 +1708,7 @@ person is satisfied.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1704,7 +1719,7 @@ person is satisfied.\\
   &&&\\
   &&naat|ma|ni&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self; soul\\
+  &&&= at/in/on a/the self; soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -2102,14 +2117,14 @@ may think of not any (thing), also.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn aatmasa.mstha.m}&aat|ma|&{\dn aatman}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= O self; soul\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&sa.m|stha.m&sa.mstham\\
   &&&= {\dn sa.mstham}\\
   &&&= same (together) + standing; staying; still\\
   &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
   &&&\note{from: \adjective, {\dn sama} = sama}\\
   &&&\note{from: \adjective, \male, {\dn stha.h} = stha.h}\\
   &&&\\
@@ -2209,7 +2224,7 @@ mind) to be restrained may lead in (into) the self, really.\\
   &&&\\
   2b&&daat|ma|nye|&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self; soul\\
+  &&&= at/in/on a/the self; soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -2337,7 +2352,7 @@ completely.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2417,7 +2432,7 @@ all-seeing.\\
   &&&= {\dn aatmaanam}\\
   &&&= \aatmaanam\\
   &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatmaa} = aatmaa}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2436,7 +2451,7 @@ all-seeing.\\
   &&&\\
   &&ma|ni&aatmani\\
   &&&= {\dn aatmani}\\
-  &&&= (?) at/in/on a/the self/soul\\
+  &&&= at/in/on a/the self/soul\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
@@ -2461,6 +2476,7 @@ all-seeing.\\
   &&&= {\dn aatmaa}\\
   &&&= \aatmaa\\
   &&&\noteaatmaa\\
+  &&&\note{from {\dn aatman} = aatman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2650,8 +2666,9 @@ paramount.\\
 \begin{tabular}{llll}
   1a&{\dn aatmaupamyena}&aat|mau|&aatman\\
   &&&= {\dn aatman}\\
-  &&&= self; soul\\
-  &&&\note{\noun, \male}\\
+  &&&= O self; soul\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
   &&pa|mye|na&aupamyena\\
   &&&= {\dn aupamyena}\\
@@ -2993,7 +3010,7 @@ advantage.\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
@@ -3944,7 +3961,7 @@ me.\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\
-  &&&= (?) using/by a/the self; soul\\
+  &&&= using/by a/the self; soul\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn aatman} = aatman}\\
 \end{tabular}
