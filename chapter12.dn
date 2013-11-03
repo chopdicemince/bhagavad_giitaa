@@ -974,8 +974,8 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
   2a&\multicolumn{3}{l}{\dn sarvakarmaphalatyaaga.m}\\
   &&&\\
   &&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -1131,8 +1131,8 @@ forgiv(ing), \dots\\
   &&&\note{from {\dn dve.s.t.r} = dve.s.t.r}\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&bhuu|taa|naa.m&bhuutaanaam\\
   &&&= {\dn bhuutaanaam}\\
@@ -1429,8 +1429,8 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &&&\\
   &&sar|vaa|&sarva\\
   &&&= {\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&ram|bha|&aarambha.h\\
   &&&= {\dn aarambha.h}\\

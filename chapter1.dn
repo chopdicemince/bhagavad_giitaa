@@ -905,8 +905,8 @@ really, surely.\\
   &&&\note{\pronoun, \secondperson, \plural}\\
   &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
-  &{\dn sarva}&sar|va&each; all\\
-  &&&\note{\adjective}\\
+  &{\dn sarva}&sar|va&\sarva\\
+  &&&\notesarva\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\

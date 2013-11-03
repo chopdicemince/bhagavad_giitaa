@@ -236,8 +236,8 @@ has) that (has) knowledge, (in) the opinion of me.\\
   \hline
   &&&\\
   1b&{\dn sarvak.setre.su}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&k.se|tre|.su&{\dn k.setre.su}\\
   &&&= at/in/on places\\
@@ -1276,8 +1276,8 @@ enjoyer.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn sarvendriyagu.naabhaasa.m}\\
   &&&\\
-  &&sar|ven|&sarva = {\dn sarva} = each; all\\
-  &&&\note{\adjective}\\
+  &&sar|ven|&sarva = {\dn sarva} = \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&dri|ya|&indriyam\\
   &&&= {\dn indriyam}\\
@@ -1301,8 +1301,8 @@ enjoyer.\\
   &&&\\
   &&sar|ven|&sarva\\
   &&&= {\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&dri|ya|&indriyam\\
   &&&= {\dn indriyam}\\
@@ -1325,8 +1325,8 @@ enjoyer.\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn sarvabh.rccaiva}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&bh.rc|&bh.rt\\
   &&&= {\dn bh.rt}\\
@@ -2841,8 +2841,8 @@ body (and) is not above-attached.\\
   &&&\noteyathaa\\
   &&&\\
   &{\dn sarvagata.m}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&ga|ta.m&gatam\\
   &&&= {\dn gatam}\\

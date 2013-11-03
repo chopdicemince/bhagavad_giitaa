@@ -664,8 +664,8 @@ the sound in vacuum, and prowess in men.\\
   &&&\\
   &{\dn sarvavede.su}&sar|va|&sarva\\
   &&&= {\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&ve|de|.su&{\dn vede.su}\\
   &&&= at/in/on holy texts\\
@@ -746,8 +746,8 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&bhuu|te|.su&{\dn bhuute.su}\\
   &&&= at/in/on beings; spirits; men; creatures\\
@@ -795,8 +795,8 @@ sharpness of sharp people.\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sarvabhuutaanaa.m}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&bhuu|taa|naa.m&bhuutaanaam\\
   &&&= {\dn bhuutaanaam}\\
@@ -1496,8 +1496,8 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn udaara.h} = udaara.h}\\
   &&&\\
-  &{\dn sarva}&sar|va&each; all\\
-  &&&\note{\adjective, \pronoun, \adverb}\\
+  &{\dn sarva}&sar|va&\sarva\\
+  &&&\notesarva\\
   &&&\\
   &{\dn evaite}&e|vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\

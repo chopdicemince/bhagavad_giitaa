@@ -970,8 +970,8 @@ all-directions-fac(ing).\\
 \begin{tabular}{llll}
   2a&{\dn sarvaa"scaryamaya.m}&sar|vaa"s|&sarva\\
   &&&= {\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&car|ya|ma|ya.m&aa"scaryamayam\\
   &&&= {\dn aa"scaryamayam}\\
@@ -6109,8 +6109,8 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&{\dn sarva}\\
-  &&&= each; all\\
-  &&&\note{\adjective}\\
+  &&&= \sarva\\
+  &&&\notesarva\\
   &&&\\
   &&bhuu|te|.su&{\dn bhuute.su}\\
   &&&= at/in/on beings; spirits; men; creatures\\
