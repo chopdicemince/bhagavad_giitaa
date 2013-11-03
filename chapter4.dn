@@ -2771,9 +2771,8 @@ the action births. Really, having known all those, you will be free.\\
   &&&\\
   &&sar|vaa|&sarvaan\\
   &&&= {\dn sarvaan}\\
-  &&&= all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male, \plural,}\\
-  &&&\note{\accusativecase}\\
+  &&&= \sarvaan\\
+  &&&\notesarvaan\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline
