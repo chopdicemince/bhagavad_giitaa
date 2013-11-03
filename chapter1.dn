@@ -490,8 +490,8 @@ and the sons of Draupadii---all, really, are great-warriors.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarva}&sar|va&sarva.h = {\dn sarva.h} = each; all\\
-  &&&\note{\noun, \male}\\
+  2b&{\dn sarva}&sar|va&\sarva\\
+  &&&\notesarva\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\

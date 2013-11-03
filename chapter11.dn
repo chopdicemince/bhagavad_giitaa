@@ -4401,8 +4401,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sarva.h}&sar|va\h{a}&each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male}\\
+  &{\dn sarva.h}&sar|va\h{a}&\sarvaH\\
+  &&&\notesarvaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

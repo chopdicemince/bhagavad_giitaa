@@ -422,8 +422,8 @@ about) action using nature-born things, using the gu.nas.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarva.h}&sar|va\h{a}&each\\
-  &&&\note{\adjective, \pronoun, \adverb}\\
+  2b&{\dn sarva.h}&sar|va\h{a}&\sarvaH\\
+  &&&\notesarvaH\\
   &&&\\
   &{\dn prak.rtijairgu.nai.h}&pra|k.r|ti|jair|&prak.rtijai.h\\
   &&&= {\dn prak.rtijai.h}\\
@@ -1541,8 +1541,8 @@ people---there is no meaning.\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&sarva.h\\
   &&&= {\dn sarva.h}\\
-  &&&= each/all\\
-  &&&\note{\pronoun, \male, \adjective, \adverb}\\
+  &&&= \sarvaH\\
+  &&&\notesarvaH\\
   &&&\\
   &&bhuu|te|.su&{\dn bhuute.su}\\
   &&&= at/in/on ghosts; beings; people\\
