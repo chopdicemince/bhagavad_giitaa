@@ -1182,8 +1182,8 @@ from later (will be).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\
+  2b&{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn vayamata.h}&va|ya|ma|&vayam = {\dn vayam} = we\\
@@ -5940,8 +5940,8 @@ gets no peace.\\
   &{\dn pravi"santi}&pra|vi|"san|ti&(they) enter; reach; undertake\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\\
-  &{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\
+  &{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

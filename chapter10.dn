@@ -1080,8 +1080,8 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn .r.si.h} = .r.si.h}\\
   &&&\\
-  &{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

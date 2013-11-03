@@ -748,8 +748,8 @@ sake), (with) abandoned-lives, (with) many weapons, all war-wise.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\
+  2b&{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn yuddhavi"saaradaa.h}&yud|dha|&yuddham\\

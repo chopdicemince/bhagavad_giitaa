@@ -68,8 +68,8 @@ gone (to) paramount success.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn muni.h} = muni.h}\\
   &&&\\
-  &{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \plural}\\
+  &{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

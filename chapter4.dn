@@ -1575,8 +1575,8 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\note{\pronoun, \male, \genitivecase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &{\dn sarve}&sar|ve&each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male, \plural}\\
+  &{\dn sarve}&sar|ve&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn samaarambhaa.h}&\multicolumn{2}{l}{sa|maa|ram|bhaa\h{aa}}\\
@@ -2568,9 +2568,8 @@ destroyed sins, a sacrifice (of) a superior food hand---they achieve
 the eternal God.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sarve.apyete}&sar|ve|&each; all\\
-  &&&\note{\adjective, \pronoun,}\\
-  &&&\note{\adverb, \male, \plural}\\
+  1a&{\dn sarve.apyete}&sar|ve|&\sarvemale\\
+  &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &&'pye|&api = {\dn api} = \api\\
