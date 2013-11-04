@@ -401,8 +401,8 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&= knowledge; getting\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sarvaa.ni}&sar|vaa|ni&all\\
-  &&&\note{\adjective, \noun, \pronoun, \adverb, \neuter, \plural}\\
+  &{\dn sarvaa.ni}&sar|vaa|ni&\sarvANi\\
+  &&&\notesarvANi\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2255,8 +2255,8 @@ union in the fire, in the knowledge on fire.\\
 \begin{tabular}{llll}
   1a&{\dn sarvaa.niindriyakarmaa.ni}&sar|vaa|.niin&sarvaa.ni\\
   &&&= {\dn sarvaa.ni}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter, \plural}\\
+  &&&= \sarvANi\\
+  &&&\notesarvANi\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &&dri|ya|&indriyam\\

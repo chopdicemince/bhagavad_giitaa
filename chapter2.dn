@@ -2827,10 +2827,9 @@ deserve to lament each being.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&sar|vaa|.ni&each\\
-  &&&\note{\noun, \neuter, \plural, \accusativecase}\\
-  &&&\note{from {\dn sarvam} = sarvam = each}\\
-  &&&\note{here, \nominativecase = \accusativecase}\\
+  &&sar|vaa|.ni&{\dn sarvaa.ni} = \sarvANi\\
+  &&&\notesarvANi\\
+  &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
   &&&\notebhuutaani\\
@@ -5207,8 +5206,8 @@ complete.\\
   &&&\note{\noun, \thirdperson, \neuter, \plural}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
-  &{\dn sarvaa.ni}&sar|vaa|.ni&each/all\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn sarvaa.ni}&sar|vaa|.ni&\sarvANi\\
+  &&&\notesarvANi\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn sa.myamya}&sa.m|yam|ya&restrained; subdued; controlled\\
