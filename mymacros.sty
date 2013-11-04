@@ -306,20 +306,20 @@
 % ------------------------------------------------------------------------------
 \newcommand{\aatman}{self; soul}
 
-\newcommand{\aatmaa}{self; soul}
+\newcommand{\aatmaa}{\aatman}
 \newcommand{\noteaatmaa}{\note{\noun, \male}}
 
-\newcommand{\aatmaanam}{\aatmaa}
+\newcommand{\aatmaanam}{\aatman}
 \newcommand{\noteaatmaanam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\aatmanaa}{\instrumentalphrase a/the \aatmaa}
+\newcommand{\aatmanaa}{\instrumentalphrase a/the \aatman}
 \newcommand{\noteaatmanaa}{\note{\noun, \male, \instrumentalcase}}
 
-\newcommand{\AtmanaH}{\ablativephrase/\genitivephrase a/the \aatmaa}
+\newcommand{\AtmanaH}{\ablativephrase/\genitivephrase a/the \aatman}
 \newcommand{\noteAtmanaH}{\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}}
 
-\newcommand{\aatmani}{\locativephrase a/the \aatmaa}
+\newcommand{\aatmani}{\locativephrase a/the \aatman}
 \newcommand{\noteaatmani}{\note{\noun, \male, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{above + being; God; creation}
@@ -361,7 +361,7 @@
 \newcommand{\bhuutaani}{beings (living things)}
 \newcommand{\notebhuutaani}{\note{\noun, \neuter, \plural}}
 
-\newcommand{\bhuutaanaam}{\genitivephrase beings (living things)}
+\newcommand{\bhuutaanaam}{\genitivephrase \bhuutaani}
 \newcommand{\notebhuutaanaam}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\buddhiH}{brainpower; intelligence}
@@ -380,7 +380,7 @@
 \newcommand{\buddhau}{\locativephrase \buddhiH}
 \newcommand{\notebuddhau}{\note{\noun, \female, \locativecase}}
 
-\newcommand{\buddhayaH}{(\vocativephrase) (acts of) brainpower; intelligence}
+\newcommand{\buddhayaH}{(\vocativephrase) (acts of) \buddhiH}
 \newcommand{\notebuddhayaH}{\note{\noun, \female}\\
   &&&\note{\nominativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
@@ -403,10 +403,10 @@
 \newcommand{\notedevAH}{\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}}
 
-\newcommand{\devaan}{deities}
+\newcommand{\devaan}{\devAH}
 \newcommand{\notedevaan}{\note{\noun, \male, \plural, \accusativecase}}
 
-\newcommand{\devaanaam}{\genitivephrase deities}
+\newcommand{\devaanaam}{\genitivephrase \devAH}
 \newcommand{\notedevaanaam}{\note{\noun, \male, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\guNaH}{one of the three strings/modes/attributes\\
@@ -425,7 +425,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\jJAnam}{knowledge}
 \newcommand{\notejJAnam}{\note{\noun, \neuter}}
-
+% ------------------------------------------------------------------------------
 \newcommand{\karmam}{act; action; work; doing; deed}
 \newcommand{\notekarmam}{\note{\noun, \neuter}}
 
@@ -504,17 +504,17 @@
 \newcommand{\raajaa}{king}
 \newcommand{\noteraajaa}{\note{\noun, \male}}
 % ------------------------------------------------------------------------------
-\newcommand{\samaH}{same; equal; similar; straight; complete}
-\newcommand{\notesamaH}{\note{\adjective, \male}}
-
-\newcommand{\sama}{\samaH}
+\newcommand{\sama}{same; equal; similar; straight; complete}
 \newcommand{\notesama}{\note{\adjective}}
 
-\newcommand{\samam}{\samaH}
+\newcommand{\samaH}{\sama}
+\newcommand{\notesamaH}{\note{\adjective, \male}}
+
+\newcommand{\samam}{\sama}
 \newcommand{\notesamammale}{\note{\adjective, \male, \accusativecase}}
 \newcommand{\notesamamneuter}{\note{\adjective, \neuter}}
 
-\newcommand{\samAH}{\samaH}
+\newcommand{\samAH}{\sama}
 \newcommand{\notesamAH}{\note{\adjective, \male, \plural}}
 % ------------------------------------------------------------------------------
 \newcommand{\sarva}{each; all}
@@ -565,7 +565,7 @@
 \newcommand{\yogaH}{yoking}
 \newcommand{\noteyogaH}{\note{\noun, \male}}
 
-\newcommand{\yogam}{yoking}
+\newcommand{\yogam}{\yogaH}
 \newcommand{\noteyogam}{\note{\noun, \male, \accusativecase}}
 
 \newcommand{\yogena}{\instrumentalphrase \yogaH}
