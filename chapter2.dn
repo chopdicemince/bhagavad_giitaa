@@ -4090,8 +4090,8 @@ in knowledge.\\
 \begin{tabular}{llll}
   2a&{\dn taavaansarve.su}&taa|vaan|&similarly (?)\\
   &&&\\
-  &&sar|ve|.su&at each place\\
-  &&&\note{\noun, \male, \locativecase}\\
+  &&sar|ve|.su&{\dn sarve.su} = \sarveSu\\
+  &&&\notesarveSu{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn vede.su}&ve|de|.su&in knowledge\\

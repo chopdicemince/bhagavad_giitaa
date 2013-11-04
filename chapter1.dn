@@ -860,8 +860,8 @@ really, surely.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at/in/on each/all thing(s)\\
-  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
+  &&&\notesarveSu{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

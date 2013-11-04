@@ -2423,9 +2423,8 @@ sees.\\
   &&&= \samam\\
   &&&\notesamamneuter\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at/in/on each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter}\\
-  &&&\note{\plural, \locativecase}\\
+  &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
+  &&&\notesarveSu{\neuter}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\

@@ -1788,9 +1788,8 @@ passion.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at/in/on each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter, \plural}\\
-  &&&\note{\locativecase}\\
+  &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
+  &&&\notesarveSu{\neuter}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
@@ -4706,9 +4705,8 @@ at all beings, (he) attains the paramount from-me-faith.\\
   2a&{\dn sama.h}&sa|ma\h{a}&\samaH\\
   &&&\notesamaH\\
   &&&\\
-  &{\dn sarve.su}&sar|ve|.su&at/in/on each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter, \plural}\\
-  &&&\note{\locativecase}\\
+  &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
+  &&&\notesarveSu{\neuter}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
