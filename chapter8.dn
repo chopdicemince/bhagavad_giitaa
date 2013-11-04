@@ -785,9 +785,8 @@ syllables is eight.)\\
   &&&\note{\adjective}\\
   &&&\\
   &&ruu|pam&{\dn ruupam}\\
-  &&&= form\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \ruupam\\
+  &&&\noteruupam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
