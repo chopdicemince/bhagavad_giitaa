@@ -467,9 +467,8 @@ non-sin (O Arjuna).\\
 \begin{tabular}{llll}
   2a&{\dn sukhasa"ngena}&su|kha|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&sa"n|ge|na&{\dn sa"ngena}\\
   &&&= using/by sticking; association\\
@@ -1971,8 +1970,8 @@ self-praise \dots\\
   &&&= {\dn sukha.h}\\
   &&&= (?) sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn svastha.h}&sva|&sva.h = {\dn sva.h} = self; soul\\
   &&&\note{\noun, \male}\\

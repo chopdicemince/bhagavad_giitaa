@@ -1322,8 +1322,8 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&\\
   &&su|kha|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
@@ -1446,8 +1446,8 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\\
   &&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn dhiira.m}&dhii|ra.m&dhiiram\\
   &&&= {\dn dhiiram}\\
@@ -3413,8 +3413,8 @@ similar. Thus, you will not gain evil.\\
 \begin{tabular}{llll}
   1a&{\dn sukhadu.hkhe}&su|kha|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&du.h|khe&in sadness\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -5656,8 +5656,8 @@ or non-peace---from where does happiness come?\\
   &&&\\
   &{\dn kuta.h}&ku|ta\h{a}&from where\\
   &&&\\
-  &{\dn sukham}&su|kham&happiness\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn sukham}&su|kham&\sukham\\
+  &&&\notesukham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

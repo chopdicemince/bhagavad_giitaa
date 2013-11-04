@@ -3058,9 +3058,8 @@ happiness---three-kind(s). From repetition, (a person) is happy,
 wherever, and attains a distress-end.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sukha.m}&su|kha.m&sukham = {\dn sukha.m} = happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1a&{\dn sukha.m}&su|kha.m&sukham = {\dn sukha.m} = \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn tvidaanii.m}&tvi|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
@@ -3302,8 +3301,8 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   &&&\\
   &&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn raajasa.m}&raa|ja|sa.m&raajasam\\
   &&&= {\dn raajasam}\\
@@ -3352,8 +3351,8 @@ ignorance.\\
   &&&\\
   1b&{\dn sukha.m}&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn mohanamaatmana.h}&mo|ha|na|maat|&mohanam\\
   &&&= {\dn mohanam}\\

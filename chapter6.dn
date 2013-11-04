@@ -600,8 +600,8 @@ honor and dishonor.\\
   &&&\\
   &&su|kha|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&du.h|khe|.su&{\dn du.hkhe.su}\\
   &&&= at/in/on (occurrences of) distress\\
@@ -1733,8 +1733,8 @@ he is still and does not move intrinsically.\\
 \begin{tabular}{llll}
   1a&{\dn sukhamaatyantika.m}&su|kha|maa|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&tyan|ti|ka.m&aatyantikam\\
   &&&= {\dn aatyantikam}\\
@@ -2270,8 +2270,8 @@ wicked.\\
   &&&\\
   &{\dn sukhamuttamam}&su|kha|mut|&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&ta|mam&uttamam\\
   &&&= {\dn uttamam}\\
@@ -2387,9 +2387,8 @@ completely.\\
   &&&\\
   &{\dn sukhama"snute}&su|kha|ma"s&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &&nu|te&a"snute\\
   &&&= {\dn a"snute}\\
@@ -2694,8 +2693,8 @@ paramount.\\
 \begin{tabular}{llll}
   2a&{\dn sukha.m}&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
-  &&&= (occurrence of) happiness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sukham\\
+  &&&\notesukham\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
   &&&\\
