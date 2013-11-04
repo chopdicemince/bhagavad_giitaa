@@ -573,8 +573,8 @@ string.\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
   &&&\noteidam\\
@@ -1085,8 +1085,8 @@ changeable.\\
   &&&\\
   &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
   &&&\noteidam\\
@@ -1636,8 +1636,8 @@ all---thus. He is a great-self---very rare.\\
   &&&\\
   &{\dn sarvamiti}&sar|va|mi|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&ti&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
@@ -2332,8 +2332,8 @@ stupidity, O destroying of enemies (O Arjuna).\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn sarvabhuutaani}&sar|va|&{\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&bhuu|taa|ni&{\dn bhuutaani}\\
   &&&= \bhuutaani\\

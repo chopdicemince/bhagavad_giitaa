@@ -654,8 +654,8 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   &&&\\
   &{\dn sarva.m}&sar|va.m&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \accusativecase}\\
+  &&&= \sarvam\\
+  &&&\notesarvammale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn pravartate}&pra|var|ta|te&(he/she/it) proceeds\\
@@ -1156,9 +1156,8 @@ visible form of you.\\
 \begin{tabular}{llll}
   1a&{\dn sarvametad.rta.m}&sar|va|me|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&ta|d.r|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
@@ -1729,8 +1728,8 @@ beings, really.\\
   &&&\\
   1b&{\dn sarvabhuutaa"sayasthita.h}&sar|va|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&bhuu|taa|&bhuutam\\
   &&&= {\dn bhuutam}\\

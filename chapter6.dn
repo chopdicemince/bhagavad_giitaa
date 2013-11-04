@@ -2408,8 +2408,8 @@ self. Yoking looks (at) the yoked self, everywhere, and is
 all-seeing.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sarvabhuutasthamaatmaana.m}&sar|va|&sarvam = {\dn sarvam} = each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  1a&{\dn sarvabhuutasthamaatmaana.m}&sar|va|&sarvam = {\dn sarvam} = \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&bhuu|ta|&bhuutam\\
   &&&= {\dn bhuutam}\\
@@ -2431,8 +2431,8 @@ all-seeing.\\
   &&&\\
   1b&{\dn sarvabhuutaanicaatmani}&sar|va|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&bhuu|taa|ni|&{\dn bhuutaani}\\
   &&&= \bhuutaani\\
@@ -2515,9 +2515,8 @@ me).\\
   &&&\\
   1b&{\dn sarva.m}&sar|va.m&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2578,8 +2577,8 @@ seated. Atogether, present, also, that devotee lives in me.\\
 \begin{tabular}{llll}
   1a&{\dn sarvabhuutasthita.m}&sar|va|&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\adjective, \pronoun, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &&bhuu|ta|&bhuutam\\
   &&&= {\dn bhuutam}\\

@@ -4338,8 +4338,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn sarva}&sar|va&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4380,9 +4380,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&{\dn sarva.m}&sar|va.m&sarvam\\
   &&&= {\dn sarvam}\\
-  &&&= each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \sarvam\\
+  &&&\notesarvamneuter\\
   &&&\\
   &{\dn samaapno.si}&sa|maap|no|.si&(?) samaapnosi\\
   &&&= {\dn samaapnosi}\\
