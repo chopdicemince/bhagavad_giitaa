@@ -1615,8 +1615,8 @@ each (being).\\
   2b&{\dn h.rdi}&h.r|di&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn h.rd} = h.rd = heart}\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&of each; all\\
-  &&&\note{\pronoun, \adjective, \neuter, \genitivecase}\\
+  &{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\neuter}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn vi.s.thitam}&vi|.s.thi|tam&standing\\

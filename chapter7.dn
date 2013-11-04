@@ -2140,9 +2140,8 @@ not-changeable.\\
   &{\dn prakaa"sa.h}&pra|kaa|"sa\h{a}&bright; clear; visible\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&of each/all\\
-  &&&\note{\adjective, \pronoun, \adverb, \male,}\\
-  &&&\note{\genitivecase}\\
+  &{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

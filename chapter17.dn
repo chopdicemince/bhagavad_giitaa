@@ -228,8 +228,8 @@ is faithful with, really.\\
   &&&\note{\adjective, \preposition, \male, \plural}\\
   &&&\note{from {\dn anuruupa.h} = anuruupa.h}\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&of each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
+  &{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -598,8 +598,8 @@ difference.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&of each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
+  &{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   % ----------------------------------------------------------------------------
   \hline

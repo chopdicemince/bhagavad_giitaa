@@ -1359,8 +1359,8 @@ kind-of-Hindu-philosophy-doer (and) (sacred-)knowledge-(knower).\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn sarvasya}&sar|va|sya&of each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male, \genitivecase}\\
+  1a&{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn caaha.m}&caa|&ca = {\dn ca} = \ca\\

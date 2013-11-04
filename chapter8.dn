@@ -764,9 +764,8 @@ syllables is eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sarvasya}&sar|va|sya&of each; all\\
-  &&&\note{\pronoun, \adjective, \adverb, \male}\\
-  &&&\note{\genitivecase}\\
+  2a&{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &\multicolumn{3}{l}{\dn dhaataaramacintyaruupam}\\

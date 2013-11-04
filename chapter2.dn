@@ -2811,8 +2811,8 @@ deserve to lament each being.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
-  &{\dn sarvasya}&sar|va|sya&of each\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &{\dn sarvasya}&sar|va|sya&\sarvasya\\
+  &&&\notesarvasya{\male}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
