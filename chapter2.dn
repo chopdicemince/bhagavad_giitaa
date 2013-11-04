@@ -1327,8 +1327,8 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= (occurrence of) distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&daa\h{aa}&{\dn daa.h}\\
   &&&= (?)\\
@@ -1441,8 +1441,8 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= (occurrence of) distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
@@ -3314,8 +3314,8 @@ ability. From more sadness, certainly, what can come?\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= sadness\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&ta|ra.m&more\\
   &&&\note{\suffix}\\

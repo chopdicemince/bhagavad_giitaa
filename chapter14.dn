@@ -1297,8 +1297,8 @@ ignorance.\\
   &&&\\
   &{\dn du.hkhamaj~naana.m}&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1963,8 +1963,8 @@ self-praise \dots\\
   &&&= \sama\\
   &&&\notesama\\
   &&&\\
-  &&du.h|kha|&du.hkham = {\dn du.hkham} = distress\\
-  &&&\note{\noun, \neuter}\\
+  &&du.h|kha|&du.hkham = {\dn du.hkham} = \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&su|kha\h{a}&sukha.h\\
   &&&= {\dn sukha.h}\\

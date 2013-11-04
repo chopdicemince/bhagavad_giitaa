@@ -1468,8 +1468,8 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   &&&\\
   &{\dn du.hkhahaa}&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&haa&{\dn haa} = ``hurt''\\
   &&&\note{\suffix}\\
@@ -1914,8 +1914,8 @@ contacting material objects) is called yoking.\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&sa.m|yo|ga|&sa.myoga.h\\
   &&&= {\dn sa.myoga.h}\\
@@ -2705,8 +2705,8 @@ paramount.\\
   &&&\\
   &{\dn du.hkha.m}&du.h|kha.m&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

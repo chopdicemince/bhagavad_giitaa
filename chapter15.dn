@@ -513,8 +513,8 @@ instead of the usual eight.)\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&sa.m|j\~{}nair&sa.mj\~{}nai.h\\
   &&&= {\dn sa.mj~nai.h}\\

@@ -598,8 +598,8 @@ said.\\
   &&&\\
   &{\dn du.hkha.m}&du.h|kha.m&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -794,8 +794,8 @@ death, old age, disease, distress, defect, thinking, \dots\\
   &&&\\
   2b&&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
-  &&&= distress\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \duHkham\\
+  &&&\noteduHkham\\
   &&&\\
   &&do|.saa|&do.sa.h\\
   &&&= {\dn do.sa.h}\\
