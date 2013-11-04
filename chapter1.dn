@@ -2547,9 +2547,8 @@ of) happiness.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn raajyam} = raajyam}\\
   &&&\\
-  &{\dn sukhaani}&su|khaa|ni&(occurrences of) happiness\\
-  &&&\note{\noun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn sukhaani}&su|khaa|ni&\sukhaani\\
+  &&&\notesukhaani\\
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2638,8 +2637,8 @@ happiness?\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
-  &{\dn sukhaani}&su|khaa|ni&(occurrences of) happiness\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &{\dn sukhaani}&su|khaa|ni&\sukhaani\\
+  &&&\notesukhaani\\
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
