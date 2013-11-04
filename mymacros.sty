@@ -37,6 +37,15 @@
 \newcommand{\genitivecase}{genitive case, 6}
 \newcommand{\locativecase}{locative case, 7}
 \newcommand{\vocativecase}{vocative case, 8}
+
+%\newcommand{\nominativephrase}{}
+%\newcomand{\accusativephrase}{}
+\newcommand{\instrumentalphrase}{by using }
+\newcommand{\dativephrase}{for }
+\newcommand{\ablativephrase}{from }
+\newcommand{\genitivephrase}{of }
+\newcommand{\locativephrase}{at/in/on }
+\newcommand{\vocativephrase}{O }
 % ------------------------------------------------------------------------------
 % Verbs.
 %
@@ -152,16 +161,16 @@
 \newcommand{\arjunaH}{Arjuna}
 \newcommand{\notearjunaH}{\note{\noun, \proper, \male}}
 
-\newcommand{\arjuna}{O Arjuna}
+\newcommand{\arjuna}{\vocativephrase Arjuna}
 \newcommand{\notearjuna}{\note{\noun, \male, \vocativecase}}
 
-\newcommand{\bhaarata}{O son/descendant of Bharata}
+\newcommand{\bhaarata}{\vocativephrase son/descendant of Bharata}
 \newcommand{\notebhaarata}{\note{\noun, \male, \vocativecase}}
 
-\newcommand{\kaunteya}{O son of Kuntii}
+\newcommand{\kaunteya}{\vocativephrase son of Kuntii}
 \newcommand{\notekaunteya}{\note{\noun, \male, \vocativecase}}
 
-\newcommand{\paartha}{O son of P.rthaa}
+\newcommand{\paartha}{\vocativephrase son of P.rthaa}
 \newcommand{\notepaartha}{\note{\noun, \male, \vocativecase}}
 
 \newcommand{\dhanam}{money}
@@ -170,10 +179,10 @@
 \newcommand{\jayaH}{victory}
 \newcommand{\notejayaH}{\note{\noun, \male}}
 
-\newcommand{\jaya}{O victory}
+\newcommand{\jaya}{\vocativephrase victory}
 \newcommand{\notejaya}{\note{\noun, \male, \vocativecase}}
 
-\newcommand{\pANDava}{O son of Paa.n.du}
+\newcommand{\pANDava}{\vocativephrase son of Paa.n.du}
 \newcommand{\notepANDava}{\note{\noun, \male, \vocativecase}}
 
 \newcommand{\pANDavaH}{son of Paa.n.du}
@@ -182,7 +191,7 @@
 \newcommand{\mahaan}{mighty; great}
 \newcommand{\notemahaan}{\note{\adjective, \male}}
 
-\newcommand{\baaho}{O arm; forearm}
+\newcommand{\baaho}{\vocativephrase arm; forearm}
 \newcommand{\notebaaho}{\note{\noun, \male, \vocativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\saJjayaH}{Sa\~{}njaya}
@@ -223,10 +232,10 @@
 \newcommand{\tvaam}{\tvam}
 \newcommand{\notetvaam}{\note{\pronoun, \secondperson, \singular, \accusativecase}}
 
-\newcommand{\tvayaa}{using/by you}
+\newcommand{\tvayaa}{\instrumentalphrase you}
 \newcommand{\notetvayaa}{\note{\pronoun, \secondperson, \singular, \instrumentalcase}}
 
-\newcommand{\teyou}{for you; of you (your)}
+\newcommand{\teyou}{\dativephrase you; \genitivephrase you (your)}
 \newcommand{\noteteyou}{\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\dativecase, \genitivecase}}
 % ------------------------------------------------------------------------------
@@ -236,20 +245,20 @@
 \newcommand{\maam}{me}
 \newcommand{\notemaam}{\note{\pronoun, \firstperson, \accusativecase}}
 
-\newcommand{\me}{for me; of me (my)}
+\newcommand{\me}{\dativephrase me; \genitivephrase me (my)}
 \newcommand{\noteme}{\note{\pronoun, \firstperson}\\
   &&&\note{\dativecase, \genitivecase}}
 
-\newcommand{\mayaa}{using/by me}
+\newcommand{\mayaa}{\instrumentalphrase me}
 \newcommand{\notemayaa}{\note{\pronoun, \firstperson, \instrumentalcase}}
 
-\newcommand{\mat}{from me}
+\newcommand{\mat}{\ablativephrase me}
 \newcommand{\notemat}{\note{\pronoun, \firstperson, \ablativecase}}
 
-\newcommand{\mama}{of me (my)}
+\newcommand{\mama}{\genitivephrase me (my)}
 \newcommand{\notemama}{\note{\pronoun, \firstperson, \genitivecase}}
 
-\newcommand{\mayi}{at/in/on me}
+\newcommand{\mayi}{\locativephrase me}
 \newcommand{\notemayi}{\note{\pronoun, \firstperson, \locativecase}}
 % ------------------------------------------------------------------------------
 % Interrogative pronouns.
@@ -257,7 +266,7 @@
 \newcommand{\kaH}{what/who}
 \newcommand{\notekaH}{\note{\pronoun, \interrogative, \male}}
 
-\newcommand{\kaiH}{using/by what/whom}
+\newcommand{\kaiH}{\instrumentalphrase what/whom}
 \newcommand{\notekaiH}[1]{\note{\pronoun, \interrogative, #1}\\
   &&&\note{\plural, \instrumentalcase}}
 
@@ -303,14 +312,14 @@
 \newcommand{\aatmaanam}{\aatmaa}
 \newcommand{\noteaatmaanam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\aatmanaa}{using/by a/the \aatmaa}
+\newcommand{\aatmanaa}{\instrumentalphrase a/the \aatmaa}
 \newcommand{\noteaatmanaa}{\note{\noun, \male, \instrumentalcase}}
 
-\newcommand{\AtmanaH}{from/of a/the \aatmaa}
+\newcommand{\AtmanaH}{\ablativephrase/\genitivephrase a/the \aatmaa}
 \newcommand{\noteAtmanaH}{\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}}
 
-\newcommand{\aatmani}{at/in/on a/the \aatmaa}
+\newcommand{\aatmani}{\locativephrase a/the \aatmaa}
 \newcommand{\noteaatmani}{\note{\noun, \male, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{above + being; God; creation}
@@ -322,10 +331,10 @@
 \newcommand{\anyaH}{\anya}
 \newcommand{\noteanyaH}{\note{\adjective, \noun, \male}}
 
-\newcommand{\anyena}{using/by \anya}
+\newcommand{\anyena}{\instrumentalphrase \anya}
 \newcommand{\noteanyena}[1]{\note{\adjective, \noun, #1, \instrumentalcase}}
 
-\newcommand{\anye}{at/in/on \anya}
+\newcommand{\anye}{\locativephrase \anya}
 \newcommand{\noteanye}[1]{\note{\adjective, \noun, #1, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\bhAvaH}{behavior; being (living thing); existence; birth}
@@ -352,7 +361,7 @@
 \newcommand{\bhuutaani}{beings (living things)}
 \newcommand{\notebhuutaani}{\note{\noun, \neuter, \plural}}
 
-\newcommand{\bhuutaanaam}{of beings (living things)}
+\newcommand{\bhuutaanaam}{\genitivephrase beings (living things)}
 \newcommand{\notebhuutaanaam}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\buddhiH}{brainpower; intelligence}
@@ -361,17 +370,17 @@
 \newcommand{\buddhim}{\buddhiH}
 \newcommand{\notebuddhim}{\note{\noun, \female, \accusativecase}}
 
-\newcommand{\buddhyaa}{using/by \buddhiH}
+\newcommand{\buddhyaa}{\instrumentalphrase \buddhiH}
 \newcommand{\notebuddhyaa}{\note{\noun, \female, \instrumentalcase}}
 
-\newcommand{\buddheH}{from/of \buddhiH}
+\newcommand{\buddheH}{\ablativephrase/\genitivephrase \buddhiH}
 \newcommand{\notebuddheH}{\note{\noun, \female}\\
   &&&\note{\ablativecase, \genitivecase}}
 
-\newcommand{\buddhau}{at/in/on \buddhiH}
+\newcommand{\buddhau}{\locativephrase \buddhiH}
 \newcommand{\notebuddhau}{\note{\noun, \female, \locativecase}}
 
-\newcommand{\buddhayaH}{(O) (acts of) brainpower; intelligence}
+\newcommand{\buddhayaH}{(\vocativephrase) (acts of) brainpower; intelligence}
 \newcommand{\notebuddhayaH}{\note{\noun, \female}\\
   &&&\note{\nominativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
@@ -381,7 +390,7 @@
 \newcommand{\bhaktim}{\bhaktiH}
 \newcommand{\notebhaktim}{\note{\noun, \female, \accusativecase}}
 
-\newcommand{\bhaktyaa}{using/by \bhaktiH}
+\newcommand{\bhaktyaa}{\instrumentalphrase \bhaktiH}
 \newcommand{\notebhaktyaa}{\note{\noun, \female, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\devaH}{deity}
@@ -397,7 +406,7 @@
 \newcommand{\devaan}{deities}
 \newcommand{\notedevaan}{\note{\noun, \male, \plural, \accusativecase}}
 
-\newcommand{\devaanaam}{of deities}
+\newcommand{\devaanaam}{\genitivephrase deities}
 \newcommand{\notedevaanaam}{\note{\noun, \male, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\guNaH}{one of the three strings/modes/attributes\\
@@ -411,7 +420,7 @@
 \newcommand{\guNAn}{\guNAH}
 \newcommand{\noteguNAn}{\note{\noun, \male, \plural, \accusativecase}}
 
-\newcommand{\guNaiH}{using/by\ \guNAH}
+\newcommand{\guNaiH}{\instrumentalphrase \guNAH}
 \newcommand{\noteguNaiH}{\note{\noun, \male, \plural, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\jJAnam}{knowledge}
@@ -514,7 +523,7 @@
 \newcommand{\sarvaH}{\sarva}
 \newcommand{\notesarvaH}{\note{\adjective, \pronoun, \male, \adverb}}
 
-\newcommand{\sarvasya}{of \sarva}
+\newcommand{\sarvasya}{\genitivephrase \sarva}
 \newcommand{\notesarvasya}[1]{\note{\adjective, \pronoun, #1, \genitivecase}}
 
 \newcommand{\sarvemale}{\sarva}
@@ -532,7 +541,7 @@
 \newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase, \adverb}}
 
-\newcommand{\sarveSu}{at/in/on \sarva}
+\newcommand{\sarveSu}{\locativephrase \sarva}
 \newcommand{\notesarveSu}[1]{\note{\adjective, \pronoun, #1, \plural, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\yajJaH}{sacrifice; offering; worship}
@@ -541,13 +550,13 @@
 \newcommand{\yajJam}{\yajJaH}
 \newcommand{\noteyajJam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\yajJena}{using/by \yajJaH}
+\newcommand{\yajJena}{\instrumentalphrase \yajJaH}
 \newcommand{\noteyajJena}{\note{\noun, \male, \instrumentalcase}}
 
-\newcommand{\yajJAt}{from \yajJaH}
+\newcommand{\yajJAt}{\ablativephrase \yajJaH}
 \newcommand{\noteyajJAt}{\note{\noun, \male, \ablativecase}}
 
-\newcommand{\yajJe}{at/in/on \yajJaH}
+\newcommand{\yajJe}{\locativephrase \yajJaH}
 \newcommand{\noteyajJe}{\note{\noun, \male, \locativecase}}
 
 \newcommand{\yajJAH}{sacrifices; offerings; worship}
@@ -559,10 +568,10 @@
 \newcommand{\yogam}{yoking}
 \newcommand{\noteyogam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\yogena}{using/by \yogaH}
+\newcommand{\yogena}{\instrumentalphrase \yogaH}
 \newcommand{\noteyogena}{\note{\noun, \male, \instrumentalcase}}
 
-\newcommand{\yogaat}{from \yogaH}
+\newcommand{\yogaat}{\ablativephrase \yogaH}
 \newcommand{\noteyogaat}{\note{\noun, \male, \ablativecase}}
 
 \newcommand{\yogii}{yoked man}
@@ -574,7 +583,7 @@
 \newcommand{\yuktAH}{\yuktaH}
 \newcommand{\noteyuktAH}{\note{\adjective, \male, \plural}}
 % ------------------------------------------------------------------------------
-\newcommand{\yuktasya}{of something yoked}
+\newcommand{\yuktasya}{\genitivephrase something yoked}
 \newcommand{\noteyuktasya}{\note{\adjective, \male, \genitivecase}}
 
 \newcommand{\zrI}{``title of respect''}
