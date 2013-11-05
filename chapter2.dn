@@ -2865,13 +2865,14 @@ another person in the warrior caste (in other words: you are a person
 in the warrior caste, and the confidence is yours).\\
 
 \begin{tabular}{llll}
-  1a&{\dn svadharmamapi}&sva|dhar|ma|ma&svadharma.h\\
-  &&&= {\dn svadharma.h}\\
-  &&&= self nature\\
+  1a&{\dn svadharmamapi}&sva|&sva.h = {\dn sva.h} = self\\
   &&&\note{\noun, \male}\\
-  &&&\note{from: \adjective, {\dn sva} = sva = self}\\
-  &&&\note{from: \noun, \male,}\\
-  &&&\note{{\dn dharma.h} = dharma.h = nature}\\
+  &&&\\
+  &&dhar|ma|ma|&dharmam\\
+  &&&= {\dn dharmam}\\
+  &&&= \dharmam\\
+  &&&\notedharmam\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -3054,10 +3055,14 @@ self nature and fame, you will get evil.\\
   2a&{\dn tata.h}&ta|ta\h{a}&then; from that; from there\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn svadharma.m}&sva|dhar|ma.m&self nature\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from: \adjective, {\dn sva} = sva = self}\\
-  &&&\note{from: \noun, \male, {\dn dharma.h} = dharma.h = nature}\\
+  &{\dn svadharma.m}&sva|&sva.h = {\dn sva.h} = self\\
+  &&&\note{\noun, \male}\\
+  &&&\\
+  &&dhar|ma.m&dharmam\\
+  &&&= {\dn dharmam}\\
+  &&&= \dharmam\\
+  &&&\notedharmam\\
+  &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &{\dn kiirti.m}&kiir|ti.m&fame\\
   &&&\note{\noun, \female, \accusativecase}\\
