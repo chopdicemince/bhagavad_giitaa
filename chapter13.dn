@@ -2566,8 +2566,8 @@ does not hurt the self, using the self. From there, (the person) goes
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = from there\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn yaati}&yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2707,8 +2707,8 @@ person) attains God.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tata}&ta|ta&tata.h = {\dn tata.h} = from there\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tata}&ta|ta&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
   &&&\noteeva\\

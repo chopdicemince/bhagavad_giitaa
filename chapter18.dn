@@ -4782,8 +4782,8 @@ enters that non-gap (God).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = from there\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
@@ -5559,8 +5559,8 @@ you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = from there\\
-  &&&\note{\adverb, \indeclinable}\\
+  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\

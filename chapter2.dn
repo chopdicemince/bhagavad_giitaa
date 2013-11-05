@@ -3052,8 +3052,8 @@ self nature and fame, you will get evil.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tata.h}&ta|ta\h{a}&then; from that; from there\\
-  &&&\note{\adverb}\\
+  2a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn svadharma.m}&sva|&sva.h = {\dn sva.h} = self\\
   &&&\note{\noun, \male}\\
@@ -3315,7 +3315,8 @@ ability. From more sadness, certainly, what can come?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatodu.hkhatara.m}&ta|to|&tata.h = {\dn tata.h} = from\\
+  2b&{\dn tatodu.hkhatara.m}&ta|to|&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
@@ -3464,8 +3465,8 @@ similar. Thus, you will not gain evil.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = from there\\
-  &&&\note{\adverb}\\
+  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
+  &&&\notetataH\\
   &&&\\
   &{\dn yuddhaaya}&yud|dhaa|ya&for a/the fight\\
   &&&\note{\noun, \neuter, \dativecase}\\
