@@ -537,8 +537,8 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn dharmasya}&dhar|ma|sya&of conduct; virtue; devotion; religion\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &{\dn dharmasya}&dhar|ma|sya&\dharmasya\\
+  &&&\notedharmasya\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -570,8 +570,8 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&\\
   &&dhar|ma|sya&dharmasya\\
   &&&= {\dn dharmasya}\\
-  &&&= of conduct; virtue; devotion; religion\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &&&= \dharmasya\\
+  &&&\notedharmasya\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   % ----------------------------------------------------------------------------
   \hline

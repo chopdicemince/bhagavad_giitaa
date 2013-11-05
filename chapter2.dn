@@ -3638,10 +3638,8 @@ amount of this devotion saves (a person) from great fear.\\
   &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &{\dn dharmasya}&dhar|ma|sya&of nature;\\
-  &&&devotion;\\
-  &&&religion\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &{\dn dharmasya}&dhar|ma|sya&\dharmasya\\
+  &&&\notedharmasya\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   % ----------------------------------------------------------------------------
   \hline
