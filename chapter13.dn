@@ -553,8 +553,9 @@ moving \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn pa~nca}&pa\~{}n|ca&five\\
-  &&&\note{\noun}\\
+  2b&{\dn pa~nca}&pa\~{}n|ca&\paJca\\
+  &&&\notepaJca\\
+  &&&\note{from {\dn pa~ncan} = pa\~{}ncan}\\
   &&&\\
   &{\dn cendriyagocaraa.h}&cen|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
