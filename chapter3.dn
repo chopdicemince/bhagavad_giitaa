@@ -2799,8 +2799,8 @@ devotion is fear-producing.\\
   &&&\\
   &&dhar|mo&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= manner; religion; devotion; virtue\\
-  &&&\note{\noun, \male}\\
+  &&&= \dharmaH\\
+  &&&\notedharmaH\\
   &&&\\
   &{\dn vigu.na.h}&vi|gu|.na\h{a}&worthless; unsuccessful; bad\\
   &&&\note{\adjective, \male}\\
@@ -2847,8 +2847,8 @@ devotion is fear-producing.\\
   &&&\\
   &&dhar|mo&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= manner; religion; devotion; virtue\\
-  &&&\note{\noun, \male}\\
+  &&&= \dharmaH\\
+  &&&\notedharmaH\\
   &&&\\
   &{\dn bhayaavaha.h}&bha|yaa|&bhayam\\
   &&&= {\dn bhayam}\\

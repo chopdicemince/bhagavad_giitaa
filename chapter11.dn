@@ -1719,8 +1719,8 @@ instead of the usual eight.)\\
   &&&\\
   &&dhar|ma|&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= goodness; virtue; religion\\
-  &&&\note{\noun,\male}\\
+  &&&= \dharmaH\\
+  &&&\notedharmaH\\
   &&&\\
   &&gop|taa&{\dn goptaa}\\
   &&&= herdsman; shepherd\\

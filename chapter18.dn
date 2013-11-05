@@ -4065,8 +4065,8 @@ self-behavior-action.\\
   &&&\\
   &&dhar|mo&dharma.h\\
   &&&= {\dn dharma.h}\\
-  &&&= good conduct; religion\\
-  &&&\note{\noun, \male}\\
+  &&&= \dharmaH\\
+  &&&\notedharmaH\\
   &&&\\
   &{\dn vigu.na.h}&vi|gu|.na\h{a}&bad\\
   &&&\note{\adjective}\\
