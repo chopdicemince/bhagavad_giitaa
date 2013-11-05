@@ -2625,15 +2625,15 @@ of passion.\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
   &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn dharmamadharma.m}&dhar|ma|ma|&dharmam = {\dn dharmam} = good conduct; religion\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &{\dn dharmamadharma.m}&dhar|ma|ma|&dharmam = {\dn dharmam} = \dharmam\\
+  &&&\notedharmam\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
   &&&\\
-  &&dhar|ma.m&dharmam = {\dn dharmam} = good conduct; religion\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&dhar|ma.m&dharmam = {\dn dharmam} = \dharmam\\
+  &&&\notedharmam\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2716,14 +2716,14 @@ of ignorance.\\
   &&&\\
   &&dhar|ma.m&dharmam\\
   &&&= {\dn dharmam}\\
-  &&&= good conduct; religion\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \dharmam\\
+  &&&\notedharmam\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &{\dn dharmamiti}&dhar|ma|mi|&dharmam\\
   &&&= {\dn dharmam}\\
-  &&&= good conduct; religion\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \dharmam\\
+  &&&\notedharmam\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
   &&ti&iti = {\dn iti} = \iti\\
