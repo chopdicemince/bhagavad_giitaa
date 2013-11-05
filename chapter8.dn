@@ -2144,8 +2144,9 @@ go (to) God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn .sa.nmaasaa}&.sa.n|&.sa.t = {\dn .sa.t} = six\\
-  &&&\note{\noun}\\
+  1b&{\dn .sa.nmaasaa}&.sa.n|&.sa.t = {\dn .sa.t} = \SaT\\
+  &&&\noteSaT\\
+  &&&\note{from {\dn .sa.s} = .sa.s}\\
   &&&\\
   &&maa|saa&maasaa.h\\
   &&&= {\dn maasaa.h}\\
@@ -2233,8 +2234,9 @@ equinox or solstice---there, brightness---a yoked person returns
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn .sa.nmaasaa}&.sa.n|&.sa.t = {\dn .sa.t} = six\\
-  &&&\note{\noun}\\
+  1b&{\dn .sa.nmaasaa}&.sa.n|&.sa.t = {\dn .sa.t} = \SaT\\
+  &&&\noteSaT\\
+  &&&\note{from {\dn .sa.s} = .sa.s}\\
   &&&\\
   &&maa|saa&maasaa.h\\
   &&&= {\dn maasaa.h}\\
