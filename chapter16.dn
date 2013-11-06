@@ -1537,9 +1537,8 @@ in bodies.\\
   &&&\\
   &{\dn bala.m}&ba|la.m&balam\\
   &&&= {\dn balam}\\
-  &&&= strength; force\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \balam\\
+  &&&\notebalam\\
   &&&\\
   &{\dn darpa.m}&dar|pa.m&darpam\\
   &&&= {\dn darpam}\\
