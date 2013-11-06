@@ -3824,8 +3824,8 @@ wealth; to movement.''\\
 \begin{tabular}{llll}
   1a&{\dn kaamaatmaana.h}&kaa|maat|&kaama.h\\
   &&&= {\dn kaama.h}\\
-  &&&= sexual love\\
-  &&&\note{\noun, \male}\\
+  &&&= \kAmaH\\
+  &&&\notekAmaH\\
   &&&\\
   &&maa|na\h{a}&(?) aatmaana.h\\
   &&&= {\dn aatmaana.h}\\
@@ -5314,8 +5314,8 @@ born. From association, desire is born. From desire, anger is born.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.mjan} = sa.mjan}\\
   &&&\\
-  &{\dn kaama.h}&kaa|ma\h{a}&sexual love; desire; pleasure\\
-  &&&\note{\noun, \male}\\
+  &{\dn kaama.h}&kaa|ma\h{a}&\kAmaH\\
+  &&&\notekAmaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -5969,8 +5969,8 @@ gets no peace.\\
   &&&\\
   &{\dn kaamakaamii}&kaa|ma|&{\dn kaama.h}\\
   &&&= kaama.h\\
-  &&&= sexual desire; wish; desire\\
-  &&&\note{\noun, \male}\\
+  &&&= \kAmaH\\
+  &&&\notekAmaH\\
   &&&\\
   &&kaa|mii&(?)\\
 \end{tabular}
