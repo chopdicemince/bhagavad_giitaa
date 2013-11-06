@@ -4784,8 +4784,9 @@ wise.\\
   &&&\\
   &{\dn yadaa}&ya|daa&when\\
   &&&\\
-  &{\dn kaamaansarvaanpaartha}&kaa|maan|&love; sexual love; desires\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &{\dn kaamaansarvaanpaartha}&kaa|maan|&{\dn kaamaan}\\
+  &&&= \kaamaan\\
+  &&&\notekaamaan\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5989,8 +5990,8 @@ desiring possessions, humble---he learns peace.\\
   &&&\\
   &{\dn kaamaanya.h}&kaa|maa|nya|&kaamaan\\
   &&&= {\dn kaamaan}\\
-  &&&= sexual desires; wishes; desires\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&= \kaamaan\\
+  &&&\notekaamaan\\
   &&&\note{from {\dn kaama.h} = kaama.h}\\
   &&&\\
   &&.h(a)&ya.h = {\dn ya.h} = \yaH\\
