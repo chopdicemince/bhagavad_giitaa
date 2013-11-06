@@ -1966,8 +1966,8 @@ joined. He is a happy man.\\
   &&&\\
   &&kro|dho|&krodha.h\\
   &&&= {\dn krodha.h}\\
-  &&&= anger; passion\\
-  &&&\note{\noun, \male}\\
+  &&&= \krodhaH\\
+  &&&\notekrodhaH\\
   &&&\\
   &&bha|va.m&udbhavam\\
   &&&= {\dn udbhavam}\\
@@ -2185,8 +2185,8 @@ known-selves.\\
   &&&\\
   &&kro|dha|&krodha.h\\
   &&&= {\dn krodha.h}\\
-  &&&= anger; passion\\
-  &&&\note{\noun, \male}\\
+  &&&= \krodhaH\\
+  &&&\notekrodhaH\\
   &&&\\
   &&vi|muk|taa|naa.m&vimuktaanaam\\
   &&&= {\dn vimuktaanaam}\\
@@ -2404,8 +2404,8 @@ freed, really---he.\\
   &&&\\
   &&kro|dho&krodha.h\\
   &&&= {\dn krodha.h}\\
-  &&&= anger; passion\\
-  &&&\note{\noun, \male}\\
+  &&&= \krodhaH\\
+  &&&\notekrodhaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
