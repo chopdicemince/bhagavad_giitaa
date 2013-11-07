@@ -993,8 +993,8 @@ attached to fruit (results), is bound.\\
   &&&\\
   1b&{\dn "saantimaapnoti}&"saan|ti|maap|&"saantim\\
   &&&= {\dn "saantim}\\
-  &&&= peace\\
-  &&&\note{\noun, \female}\\
+  &&&= \zAntim\\
+  &&&\notezAntim\\
   &&&\note{from {\dn "saanti.h} = "saanti.h}\\
   &&&\\
   &&no|ti&aapnoti\\
@@ -2505,8 +2505,8 @@ person gets peace.\\
   &&&\\
   &{\dn "saantim.rcchati}&"saan|ti|m.rc|&"saantim\\
   &&&= {\dn "saantim}\\
-  &&&= peace\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \zAntim\\
+  &&&\notezAntim\\
   &&&\note{from {\dn "saanti.h} = "saanti.h}\\
   &&&\\
   &&cha|ti&.rcchati\\

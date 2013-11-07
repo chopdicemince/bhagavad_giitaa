@@ -5955,8 +5955,8 @@ gets no peace.\\
   &&&\\
   &{\dn "saantimaapnoti}&"saan|ti|maap|&"saantim\\
   &&&= {\dn "saantim}\\
-  &&&= peace\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \zAntim\\
+  &&&\notezAntim\\
   &&&\note{from {\dn "saanti.h} = "saanti.h}\\
   &&&\\
   &&no|ti&aapnoti\\
@@ -6036,8 +6036,9 @@ desiring possessions, humble---he learns peace.\\
   &&&\\
   &{\dn "saantimadhigacchati}&"saan|ti|ma|&"saantim\\
   &&&= {\dn "saantim}\\
-  &&&= peace\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \zAntim\\
+  &&&\notezAntim\\
+  &&&\note{from {\dn "saanti.h} = "saanti.h}\\
   &&&\\
   &&dhi|gac|cha|ti&adhigacchati\\
   &&&= {\dn adhigacchati}\\
