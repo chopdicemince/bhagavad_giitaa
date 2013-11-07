@@ -1938,9 +1938,10 @@ action for devotion.\\
   &&&= fixed; standing; placed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ce|ta|sa\h{a}&(?)\\
-  &&&\note{similar: \noun, \neuter, {\dn cetas} = cetas}\\
-  &&&\note{= heart; intelligence; mind}\\
+  &&ce|ta|sa\h{a}&{\dn cetasa.h}\\
+  &&&= \cetasaH\\
+  &&&\notecetasaH\\
+  &&&\note{from {\dn cetas} = cetas}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
