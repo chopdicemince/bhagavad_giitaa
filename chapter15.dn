@@ -346,8 +346,8 @@ instead of the usual eight.)\\
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
   &&&\notetataH\\
   &&&\\
-  &{\dn pada.m}&pa|da.m&padam = {\dn padam} = foot; step; term\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn pada.m}&pa|da.m&padam = {\dn padam} = \padam\\
+  &&&\notepadam\\
   &&&\\
   &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
@@ -544,8 +544,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn padamavyaya.m}&pa|da|ma|&padam\\
   &&&= {\dn padam}\\
-  &&&= foot; step; term\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \padam\\
+  &&&\notepadam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\

@@ -1036,9 +1036,8 @@ syllables is eight.)\\
   &&&\\
   &{\dn pada.m}&pa|da.m&padam\\
   &&&= {\dn padam}\\
-  &&&= step; position; part\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \padam\\
+  &&&\notepadam\\
   &&&\\
   &{\dn sa"ngrahe.na}&sa"n|gra|he|.na&using/by \dots (?) \dots\\
   &&&\note{\noun, \male, \locativecase}\\
