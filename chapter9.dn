@@ -709,9 +709,8 @@ form.\\
   &&&\\
   &{\dn prak.rterva"saat}&pra|k.r|ter|&prak.rte.h\\
   &&&= {\dn prak.rte.h}\\
-  &&&= from/of a/the primeval form\\
-  &&&\note{\noun, \female}\\
-  &&&\note{\ablativecase, \genitivecase}\\
+  &&&= \prakRteH\\
+  &&&\noteprakRteH\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
   &&va|"saat&{\dn va"saat}\\
