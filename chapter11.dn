@@ -417,8 +417,8 @@ thousands---various divine forms and various color forms.\\
   &&&= (?) by hundreds\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&'tha&atha = {\dn atha} = else; also\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&'tha&atha = {\dn atha} = \atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn sahasra"sa.h}&sa|ha|sra|"sa\h{a}&by thousands\\
   &&&\note{\adverb}\\
@@ -4299,8 +4299,8 @@ instead of the usual eight.)\\
   &&&\\
   &&tha&atha\\
   &&&= {\dn atha}\\
-  &&&= else; then\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn p.r.s.thataste}&p.r|.s.tha|ta|&p.r.s.thata.h\\
   &&&= {\dn p.r.s.thata.h}\\

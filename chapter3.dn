@@ -2879,8 +2879,8 @@ if from force, commanded?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn atha}&a|tha&hence; therefore; now\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn atha}&a|tha&\atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn kena}&ke|na&using/by what/whom\\
   &&&\note{\pronoun, \adjective, \male, \instrumentalcase}\\

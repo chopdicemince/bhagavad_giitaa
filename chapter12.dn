@@ -748,8 +748,8 @@ steadfast mind---from there, using repetition-yoking, (get) a wish to
 attain me, O money-victory (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn atha}&a|tha&else; then\\
-  &&&\note{\adjective, \adverb, \indeclinable}\\
+  1a&{\dn atha}&a|tha&\atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn citta.m}&cit|ta.m&cittam\\
   &&&= {\dn cittam}\\
@@ -929,8 +929,8 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn athaitadapya"sakto.asi}\\
   &&&\\
-  &&a|thai|&atha = {\dn atha} = else; then\\
-  &&&\note{\adjective, \adverb, \indeclinable}\\
+  &&a|thai|&atha = {\dn atha} = \atha\\
+  &&&\noteatha\\
   &&&\\
   &&ta|da|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\

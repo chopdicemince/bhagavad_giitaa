@@ -2408,8 +2408,8 @@ infinitely often, and dies infinitely often), yes or no? Thus, also,
 you, O great-arm (O Arjuna), do not deserve to lament this.\\
 
 \begin{tabular}{llll}
-  1a&{\dn atha}&a|tha&also\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn atha}&a|tha&\atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn caina.m}&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3021,7 +3021,8 @@ Then, if you will not do this nature fight, then, having abandoned
 self nature and fame, you will get evil.\\
 
 \begin{tabular}{llll}
-  1a&{\dn atha}&a|tha&then\\
+  1a&{\dn atha}&a|tha&\atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn cettvamima.m}&cet|&{\dn cet} = \cet\\
   &&&\notecet\\

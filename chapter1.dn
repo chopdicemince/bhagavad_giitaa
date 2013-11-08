@@ -1525,8 +1525,8 @@ monkey flag (representing the god Hanumaan), (with) a started missle
 K.r.s.na, then said this group of words, O great master.\\
 
 \begin{tabular}{llll}
-  1a&{\dn atha}&a|tha&then\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn atha}&a|tha&\atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn vyavasthitaand.r.s.tvaa}&vya|va|sthi|taan|&{\dn vyavasthitaan}\\
   &&&= standing; steadfast\\
@@ -2061,8 +2061,8 @@ really, in the two armies, also.\\
   &&&\\
   &&tha&atha\\
   &&&= {\dn atha}\\
-  &&&= then\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \atha\\
+  &&&\noteatha\\
   &&&\\
   &{\dn pitaamahaan}&pi|taa|ma|haan&paternal grandfathers\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
