@@ -2670,8 +2670,10 @@ do?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn prak.rti.m}&pra|k.r|ti.m&original state; mother; matter\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  2a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
+  &&&= {\dn prak.rtim}\\
+  &&&= \prakRtim\\
+  &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
   &{\dn yaanti}&yaan|ti&(they) go; achieve; escape\\

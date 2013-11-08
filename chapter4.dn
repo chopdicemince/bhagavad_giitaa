@@ -482,8 +482,8 @@ self-magic.\\
 \begin{tabular}{llll}
   2a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
   &&&= {\dn prak.rtim}\\
-  &&&= origin; mother; matter\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \prakRtim\\
+  &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prakr.ti.h}\\
   &&&\\
   &{\dn svaamadhi.s.thaaya}&svaa|ma|&svaam\\

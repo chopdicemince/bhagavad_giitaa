@@ -19,8 +19,8 @@ known, O K.r.s.na.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim = {\dn prak.rtim} = primal form\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  1a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim = {\dn prak.rtim} = \prakRtim\\
+  &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
   &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam = {\dn puru.sam} = man; spirit; soul; God\\
@@ -1721,8 +1721,8 @@ really, (have) no-beginning---also, (know) changes and strings and
 really, primal-form births.\\
 
 \begin{tabular}{llll}
-  1a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim = {\dn prak.rtim} = primal form\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  1a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim = {\dn prak.rtim} = \prakRtim\\
+  &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
   &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
@@ -2105,8 +2105,8 @@ strings---with---in all ways, present, also---he is not born again.\\
   &&&\\
   1b&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
   &&&= {\dn prak.rtim}\\
-  &&&= primal form\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \prakRtim\\
+  &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
