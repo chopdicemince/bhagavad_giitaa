@@ -349,10 +349,10 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   &&&= \sattvam\\
   &&&\notesattvam\\
   &&&\\
-  &{\dn rajastama}&ra|ja|sta|&raja.h\\
-  &&&= {\dn raja.h}\\
-  &&&= emotion; passion; menstrual waste\\
-  &&&\note{\noun, \male}\\
+  &{\dn rajastama}&ra|ja|sta|&rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &&ma&tama.h\\
   &&&= {\dn tama.h}\\
@@ -516,8 +516,10 @@ action-sticking.\\
 \begin{tabular}{llll}
   1a&{\dn rajo}&ra|jo&raja.h\\
   &&&= {\dn raja.h}\\
-  &&&= emotion; passion; menstrual waste; dust\\
-  &&&\note{\noun, \male}\\
+  &&&= rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &{\dn raagaatmaka.m}&raa|gaat|&raaga.h\\
   &&&= {\dn raaga.h}\\
@@ -697,8 +699,10 @@ in madness.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn raja.h}&ra|ja\h{a}&emotion; passion; dust\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn raja.h}&ra|ja\h{a}&rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &{\dn karma.ni}&kar|ma|.ni&(?)\\
   &&&\note{similar:}\\
@@ -758,10 +762,10 @@ sometimes superiority), thus.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn rajastama"scaabhibhuuya}\\
   &&&\\
-  &&ra|ja|sta|&raja.h\\
-  &&&= {\dn raja.h}\\
-  &&&= emotion; passion; dust; menstrual waste\\
-  &&&\note{\noun, \male}\\
+  &&ra|ja|sta|&rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &&ma"s|&tama.h\\
   &&&= {\dn tama.h}\\
@@ -795,8 +799,10 @@ sometimes superiority), thus.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn raja.h}&ra|ja\h{a}&emotion; passion; dust; menstrual waste\\
-  &&&\note{\noun, \male}\\
+  2a&{\dn raja.h}&ra|ja\h{a}&rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&sattvam\\
   &&&= {\dn sattvam}\\
@@ -824,10 +830,10 @@ sometimes superiority), thus.\\
   &&&= \sattvam\\
   &&&\notesattvam\\
   &&&\\
-  &{\dn rajastathaa}&ra|ja|stha|&raja.h\\
-  &&&= {\dn raja.h}\\
-  &&&= emotion; passion; dust; menstrual waste\\
-  &&&\note{\noun, \male}\\
+  &{\dn rajastathaa}&ra|ja|stha|&rajas\\
+  &&&= {\dn rajas}\\
+  &&&= \rajas\\
+  &&&\noterajas\\
   &&&\\
   &&thaa&tathaa = {\dn tathaa} = \tathaa\\
   &&&\notetathaa\\
