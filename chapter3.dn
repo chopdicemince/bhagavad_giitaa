@@ -845,8 +845,8 @@ for you. Be loved and love-yielding.''\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn anena}&a|ne|na&using/by this\\
-  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
+  2a&{\dn anena}&a|ne|na&\anena\\
+  &&&\noteanena\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn prasavi.syadhvame.sa}&\multicolumn{2}{l}{pra|sa|vi|.sya|dhva|}\\
@@ -914,8 +914,9 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   &&&\\
   &&ne|na&anena\\
   &&&= {\dn anena}\\
-  &&&= using/by this\\
-  &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
+  &&&= \anena\\
+  &&&\noteanena\\
+  &&&\note{from {\dn ayam} = ayam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
