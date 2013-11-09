@@ -1331,8 +1331,8 @@ deity of deities), O world-lord.\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
   &{\dn jagatpate}&ja|gat|&{\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&pa|te&{\dn pate}\\
   &&&= O lord\\
@@ -3637,8 +3637,8 @@ world.\\
   &&&= standing; staying; steadfast; stopping\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn jagat}&ja|gat&world\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn jagat}&ja|gat&\jagat\\
+  &&&\notejagat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

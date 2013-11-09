@@ -574,8 +574,8 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&stha.m&stham = {\dn stham} = standing; staying\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn jagatk.rtsna.m}&ja|gat|&{\dn jagat} = world\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn jagatk.rtsna.m}&ja|gat|&{\dn jagat} = \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&k.rts|na.m&k.rtsnam = {\dn k.rtsnam} = all\\
   &&&\note{\adjective, \neuter}\\
@@ -1115,9 +1115,8 @@ all, partitioned in many ways.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn jagatk.rtsna.m}&ja|gat|&{\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&k.rts|na.m&k.rtsnam\\
   &&&= {\dn k.rtsnam}\\
@@ -2626,8 +2625,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn jagannivaasa}&ja|gan|&jagat\\
   &&&= {\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&ni|vaa|sa&{\dn nivaasa}\\
   &&&= O residence\\
@@ -3130,9 +3129,8 @@ instead of the usual eight.)\\
   &&&\note{= abundance}\\
   &&&\\
   &{\dn jagatsamagra.m}&ja|gat|&{\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&sa|ma|gra.m&samagram\\
   &&&= {\dn samagram}\\
@@ -3833,8 +3831,8 @@ main syllables, instead of the usual eight.)\\
   1b&\multicolumn{3}{l}{\dn jagatprah.r.syatyanurajyate}\\
   &&&\\
   &&ja|gat|&{\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&pra|h.r|.sya|tya|&prah.r.syati\\
   &&&= {\dn prah.r.syati}\\
@@ -3984,8 +3982,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn jagannivaasa}&ja|gan|&jagat\\
   &&&= {\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&ni|vaa|sa&{\dn nivaasa}\\
   &&&= O residence\\
@@ -5011,8 +5009,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn jagannivaasa}&ja|gan|&jagat\\
   &&&= {\dn jagat}\\
-  &&&= world\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \jagat\\
+  &&&\notejagat\\
   &&&\\
   &&ni|vaa|sa&{\dn nivaasa}\\
   &&&= O residence\\
