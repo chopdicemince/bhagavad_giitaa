@@ -2671,7 +2671,9 @@ really any knowledge.\\
   &&&\note{\adverb}\\
   &&&\note{from: \noun, \neuter,}\\
   &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from: \suffix, {\dn vat} = vat = full of}\\
+  &&&\note{from:}\\
+  &&&\note{{\dn vat} = vat = \vat}\\
+  &&&\notevat\\
   &&&\\
   &&pa"s|ya|ti&(he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2695,7 +2697,9 @@ really any knowledge.\\
   &&&\note{\adverb}\\
   &&&\note{from: \noun, \neuter,}\\
   &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from: \suffix, {\dn vat} = vat = full of}\\
+  &&&\note{from:}\\
+  &&&\note{{\dn vat} = vat = \vat}\\
+  &&&\notevat\\
   &&&\\
   &&va|da|ti&(he/she/it) says\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2723,7 +2727,9 @@ really any knowledge.\\
   &&&\note{\adverb}\\
   &&&\note{from: \noun, \neuter,}\\
   &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from: \suffix, {\dn vat} = vat = full of}\\
+  &&&\note{from:}\\
+  &&&\note{{\dn vat} = vat = \vat}\\
+  &&&\notevat\\
   &&&\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -4715,8 +4721,9 @@ walk?\\
   &&&\note{similar:}\\
   &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
   &&&\note{\noun, \male}\\
-  &&&\note{{\dn vat} = vat = full}\\
-  &&&\note{\suffix}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn vat} = vat = \vat}\\
+  &&&\notevat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

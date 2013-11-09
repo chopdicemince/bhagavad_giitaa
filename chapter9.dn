@@ -772,8 +772,8 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &&&= indifferent\\
   &&&\note{\adjective}\\
   &&&\\
-  &&va|daa|&vat = {\dn vat} = full\\
-  &&&\note{\suffix}\\
+  &&va|daa|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&sii|na|&aasiinam\\
   &&&= {\dn aasiinam}\\

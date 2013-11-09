@@ -1357,8 +1357,8 @@ one (God).\\
   &&&= sun\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vaj|&vat = {\dn vat} = like\\
-  &&&\note{\suffix}\\
+  &&vaj|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\

@@ -206,8 +206,8 @@ abandoned,'' (says) another (great mind).\\
   &&&= defect; sin; evil\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&va|di|&vat = {\dn vat} = full of\\
-  &&&\note{\suffix}\\
+  &&va|di|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&tye|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
@@ -1629,8 +1629,8 @@ Just as (full?), hear these, also.\\
   &&&= \yathaa\\
   &&&\noteyathaa\\
   &&&\\
-  &&vac|&vat = {\dn vat} = full\\
-  &&&\note{\suffix}\\
+  &&vac|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&ch.r|.nu&.s.r.nu\\
   &&&= {\dn .s.r.nu}\\
@@ -1843,8 +1843,8 @@ ignorance, (it is) said.\\
   &&&= all\\
   &&&\note{\adjective}\\
   &&&\\
-  &&va|de|&{\dn vat} = full\\
-  &&&\note{\suffix}\\
+  &&va|de|&{\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&ka|smin|&ekasmin = {\dn ekasmin} = at/in/on one\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1887,8 +1887,8 @@ ignorance, (it is) said.\\
   &&&= purpose; profit\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&va|dal|&vat = {\dn vat} = full\\
-  &&&\note{\suffix}\\
+  &&va|dal|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&pa.m&alpam\\
   &&&= {\dn alpam}\\
@@ -2673,8 +2673,8 @@ of passion.\\
   &&&= \yathaa\\
   &&&\noteyathaa\\
   &&&\\
-  &&vat|&{\dn vat} = full\\
-  &&&\note{\suffix}\\
+  &&vat|&{\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&pra|jaa|naa|ti&{\dn prajaanaati}\\
   &&&= (he/she/it) knows\\

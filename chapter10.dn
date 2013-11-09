@@ -1193,8 +1193,9 @@ visible form of you.\\
   &&&\note{similar:}\\
   &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
   &&&\note{\noun, \male}\\
-  &&&\note{{\dn vat} = vat = full}\\
-  &&&\note{\suffix}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn vat} = vat = \vat}\\
+  &&&\notevat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3111,8 +3112,8 @@ strength-full-things, I (am) strength.\\
   &&&= \sattvam\\
   &&&\notesattvam\\
   &&&\\
-  &&va|&vat = {\dn vat} = like; full\\
-  &&&\note{\prefix}\\
+  &&va|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&taa|ma|&aam = {\dn aam} = of things \dots\\
   &&&\note{\suffix, \plural, \genitivecase}\\
@@ -3273,8 +3274,8 @@ silence. Of knowledge-full-people, I (am) knowledge.\\
   &&&= \jJAnam\\
   &&&\notejJAnam\\
   &&&\\
-  &&va|&vat = {\dn vat} = like; full\\
-  &&&\note{\suffix}\\
+  &&va|&vat = {\dn vat} = \vat\\
+  &&&\notevat\\
   &&&\\
   &&taa|ma|&aam = {\dn aam} = of \dots\\
   &&&\note{\suffix, \plural, \genitivecase}\\
