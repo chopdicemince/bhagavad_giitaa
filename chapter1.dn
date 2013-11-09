@@ -2660,8 +2660,8 @@ paternal grandfathers.\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &{\dn ime.avasthitaa}&i|me|&{\dn ime}\\
-  &&&= these\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&&= \ime\\
+  &&&\noteime\\
   &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
   &&'va|sthi|taa&avasthitaa.h\\

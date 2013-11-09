@@ -1153,8 +1153,8 @@ from later (will be).\\
   &{\dn neme}&ne|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&me&ime = {\dn ime} = these\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &&me&ime = {\dn ime} = \ime\\
+  &&&\noteime\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn janaadhipaa.h}&ja|naa|dhi|paa\h{aa}&kings\\
@@ -1682,8 +1682,8 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{similar: \adjective, {\dn antavat} = antavat}\\
   &&&\note{= perishable}\\
   &&&\\
-  &{\dn ime}&i|me&these\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
+  &{\dn ime}&i|me&\ime\\
+  &&&\noteime\\
   &&&\note{from {\dn ayam} = ayam = this}\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
