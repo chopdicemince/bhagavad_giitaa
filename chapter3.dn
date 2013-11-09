@@ -2479,8 +2479,8 @@ free, also, from action.\\
   &&&\\
   &{\dn matamida.m}&ma|ta|mi|&matam\\
   &&&= {\dn matam}\\
-  &&&= opinion; knowledge; wish\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \matam\\
+  &&&\notematam\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
   &&&\noteidam\\
@@ -2582,8 +2582,8 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn matam}&ma|tam&vote; opinion; wish\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn matam}&ma|tam&\matam\\
+  &&&\notematam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

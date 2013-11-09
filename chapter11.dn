@@ -1745,8 +1745,8 @@ instead of the usual eight.)\\
   &&&= {\dn mata.h}\\
   &&&= (?) matam\\
   &&&= {\dn matam}\\
-  &&&= vote; opinion\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \matam\\
+  &&&\notematam\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\noteme\\
