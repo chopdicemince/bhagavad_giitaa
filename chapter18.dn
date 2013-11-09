@@ -2556,8 +2556,8 @@ person.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn kaaryam} = kaaryam}\\
   &&&\\
-  &{\dn bhayaabhaye}&bha|yaa|&bhayam = {\dn bhayam} = fear\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn bhayaabhaye}&bha|yaa|&bhayam = {\dn bhayam} = \bhayam\\
+  &&&\notebhayam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -2988,9 +2988,8 @@ Arjuna), (is) a person of ignorance.\\
   &&&\\
   &{\dn bhaya.m}&bha|ya.m&bhayam\\
   &&&= {\dn bhayam}\\
-  &&&= fear\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \bhayam\\
+  &&&\notebhayam\\
   &&&\\
   &{\dn "soka.m}&"so|ka.m&"sokam\\
   &&&= {\dn "sokam}\\
