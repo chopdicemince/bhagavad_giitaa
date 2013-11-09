@@ -488,8 +488,8 @@ self-magic.\\
   &&&\\
   &{\dn svaamadhi.s.thaaya}&svaa|ma|&svaam\\
   &&&= {\dn svaam}\\
-  &&&= self\\
-  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&= \svaam\\
+  &&&\notesvaam\\
   &&&\note{from {\dn sva.h} = sva.h}\\
   &&&\\
   &&dhi.s|.thaa|ya&adhi.s.thaaya\\

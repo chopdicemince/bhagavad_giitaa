@@ -652,8 +652,8 @@ form.\\
   &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn svaamava.s.tabhya}&svaa|ma|&svaam = {\dn svaam} = self\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &{\dn svaamava.s.tabhya}&svaa|ma|&svaam = {\dn svaam} = \svaam\\
+  &&&\notesvaam\\
   &&&\note{from {\dn sva.h} = sva.h}\\
   &&&\\
   &&va|.s.ta|bhya&ava.s.tabhya\\
