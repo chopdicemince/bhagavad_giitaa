@@ -1432,8 +1432,8 @@ go down.\\
   &&&\\
   &&sthaa&sthaa.h\\
   &&&= {\dn sthaa.h}\\
-  &&&= people standing; staying\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \sthAH\\
+  &&&\notesthAH\\
   &&&\note{from {\dn stha.h} = stha.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1470,8 +1470,8 @@ go down.\\
   &&&\\
   &&sthaa&sthaa.h\\
   &&&= {\dn sthaa.h}\\
-  &&&= people standing; staying\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&= \sthAH\\
+  &&&\notesthAH\\
   &&&\note{from {\dn stha.h} = stha.h}\\
   % ----------------------------------------------------------------------------
   \hline
