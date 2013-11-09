@@ -1399,13 +1399,15 @@ near.\\
   &&&\\
   &&ca|ra.m&caram\\
   &&&= {\dn caram}\\
-  &&&= moving\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \caram\\
+  &&&\notecaram\\
+  &&&\note{from {\dn cara.h} = cara.h}\\
   &&&\\
   &{\dn carameva}&ca|ra|me|&caram\\
   &&&= {\dn caram}\\
-  &&&= moving\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \caram\\
+  &&&\notecaram\\
+  &&&\note{from {\dn cara.h} = cara.h}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\

@@ -602,8 +602,9 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&|&a = {\dn a} = not\\
   &&&\notea\\
   &&&\\
-  &&ca|ram&caram = {\dn caram} = moving\\
-  &&&\note{\adjective, \neuter}\\
+  &&ca|ram&caram = {\dn caram} = \caram\\
+  &&&\notecaram\\
+  &&&\note{from {\dn cara.h} = cara.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
