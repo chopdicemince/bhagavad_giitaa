@@ -688,8 +688,8 @@ for you a divine eye. See the yoking power of me.\\
   &&&\\
   &{\dn svacak.su.saa}&sva|&sva.h\\
   &&&= {\dn sva.h}\\
-  &&&= self\\
-  &&&\note{\noun, \male}\\
+  &&&= \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&ca|k.su|.saa&{\dn cak.su.saa}\\
   &&&= (?) using/by seeing; eye\\
@@ -1863,8 +1863,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&{\dn svatejasaa}&sva|&sva.h\\
   &&&= {\dn sva.h}\\
-  &&&= self\\
-  &&&\note{\noun, \male}\\
+  &&&= \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&te|ja|saa&{\dn tejasaa}\\
   &&&= (?) using/by fire; light; splendor\\

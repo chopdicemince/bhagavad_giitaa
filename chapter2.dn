@@ -634,8 +634,8 @@ has eleven main syllables per line.)\\
   &&&= hit; hurt; killed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&sva&{\dn sva} = self\\
-  &&&\note{\prefix}\\
+  &&sva&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va\h{a}&{\dn bhaava.h}\\
   &&&= \bhAvaH\\
@@ -1372,9 +1372,8 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&= (?) something above\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sva&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\adjective}\\
+  &&sva&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\
@@ -2865,8 +2864,8 @@ another person in the warrior caste (in other words: you are a person
 in the warrior caste, and the confidence is yours).\\
 
 \begin{tabular}{llll}
-  1a&{\dn svadharmamapi}&sva|&sva.h = {\dn sva.h} = self\\
-  &&&\note{\noun, \male}\\
+  1a&{\dn svadharmamapi}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&dhar|ma|ma|&dharmam\\
   &&&= {\dn dharmam}\\
@@ -3056,8 +3055,8 @@ self nature and fame, you will get evil.\\
   2a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
   &&&\notetataH\\
   &&&\\
-  &{\dn svadharma.m}&sva|&sva.h = {\dn sva.h} = self\\
-  &&&\note{\noun, \male}\\
+  &{\dn svadharma.m}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&dhar|ma.m&dharmam\\
   &&&= {\dn dharmam}\\

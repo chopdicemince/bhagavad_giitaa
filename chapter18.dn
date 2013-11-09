@@ -3568,9 +3568,8 @@ self-behavior-births-strings.\\
   &&&\\
   2b&{\dn svabhaavaprabhavairgu.nai.h}\\
   &&&\\
-  &&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -3669,9 +3668,8 @@ self-behavior-born.\\
   &&&= \karmam\\
   &&&\notekarmam\\
   &&&\\
-  &{\dn svabhaavajam}&sva&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &{\dn svabhaavajam}&sva&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -3768,9 +3766,8 @@ action (is) self-behavior-born.\\
   &&&= \karmam\\
   &&&\notekarmam\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -3821,9 +3818,8 @@ fourth caste---also, self-behavior-born.\\
   &&&= \karmam\\
   &&&\notekarmam\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -3864,9 +3860,8 @@ fourth caste---also, self-behavior-born.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -3925,9 +3920,8 @@ success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarmanirata.h}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  2a&{\dn svakarmanirata.h}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&kar|ma|&karmam\\
   &&&= {\dn karmam}\\
@@ -4010,9 +4004,8 @@ attains success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarma.naa}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  2a&{\dn svakarma.naa}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&kar|ma|.naa&{\dn karma.naa}\\
   &&&= (?) using/by a/the action; work; doing\\
@@ -4059,9 +4052,8 @@ self-behavior-action.\\
   &&&\note{similar: \adjective, {\dn "sreyas} = "sreyas}\\
   &&&\note{= better}\\
   &&&\\
-  &&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  &&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&dhar|mo&dharma.h\\
   &&&= {\dn dharma.h}\\
@@ -4097,9 +4089,8 @@ self-behavior-action.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svabhaavaniyata.m}&sva|&{\dn sva}\\
-  &&&= self\\
-  &&&\note{\prefix}\\
+  2a&{\dn svabhaavaniyata.m}&sva|&sva.h = {\dn sva.h} = \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -5153,8 +5144,8 @@ mistake, (you) will act---non-submissive---also, that.\\
 \begin{tabular}{llll}
   1a&{\dn svabhaavajena}&sva|&sva.h\\
   &&&= {\dn sva.h}\\
-  &&&= self\\
-  &&&\note{\noun, \male}\\
+  &&&= \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&bhaa|va|&bhaava.h\\
   &&&= {\dn bhaava.h}\\

@@ -1729,8 +1729,8 @@ a verse, each line has eight main syllables.)\\
   &&&\\
   &{\dn svargati.m}&svar|&sva.h\\
   &&&= {\dn sva.h}\\
-  &&&= self\\
-  &&&\note{\noun, \male}\\
+  &&&= \svaH\\
+  &&&\notesvaH\\
   &&&\\
   &&ga|ti.m&gatim\\
   &&&= {\dn gatim}\\
