@@ -5435,8 +5435,8 @@ tranquility.\\
   &&&\\
   &&dve|.sa|&dve.sa.h\\
   &&&= {\dn dve.sa.h}\\
-  &&&= hate; dislike\\
-  &&&\note{\noun, \male}\\
+  &&&= \dveSaH\\
+  &&&\notedveSaH\\
   &&&\\
   &&vi|muk|tai|&vimuktai.h\\
   &&&= {\dn vimuktai.h}\\

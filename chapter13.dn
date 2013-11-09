@@ -590,8 +590,8 @@ said.\\
   1a&{\dn icchaa}&ic|chaa&\icchaa\\
   &&&\noteicchaa\\
   &&&\\
-  &{\dn dve.sa.h}&dve|.sa\h{a}&detestation\\
-  &&&\note{\noun, \male}\\
+  &{\dn dve.sa.h}&dve|.sa\h{a}&\dveSaH\\
+  &&&\notedveSaH\\
   &&&\\
   &{\dn sukha.m}&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
