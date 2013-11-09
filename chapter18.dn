@@ -5425,8 +5425,8 @@ thus, O Kuru (O Arjuna).\\
   &&&\\
   &&gu|hya|&guhyam\\
   &&&= {\dn guhyam}\\
-  &&&= mystery; secret; privacy; genitals\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \guhyam\\
+  &&&\noteguhyam\\
   &&&\\
   &&ta|ra.m&taram\\
   &&&= {\dn taram}\\
@@ -5492,8 +5492,8 @@ you.\\
   &&&\\
   &&gu|hya|&guhyam\\
   &&&= {\dn guhyam}\\
-  &&&= mystery; secret; privacy; genitals\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \guhyam\\
+  &&&\noteguhyam\\
   &&&\\
   &&ta|ma.m&tamam\\
   &&&= {\dn tamam}\\
@@ -5849,8 +5849,8 @@ no-doubt.\\
   &&&\\
   &{\dn guhya.m}&gu|hya.m&guhyam\\
   &&&= {\dn guhyam}\\
-  &&&= mystery; secret; privacy; genitals\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \guhyam\\
+  &&&\noteguhyam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -6506,9 +6506,8 @@ himself.\\
   &&&\\
   &&gu|hya|ma|&guhyam\\
   &&&= {\dn guhyam}\\
-  &&&= mystery; secret; privacy; genitals\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \guhyam\\
+  &&&\noteguhyam\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
