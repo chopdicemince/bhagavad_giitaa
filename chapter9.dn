@@ -1524,8 +1524,8 @@ seed.\\
   &&&\\
   &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
   &&&= {\dn "sara.nam}\\
-  &&&= refuge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \zaraNam\\
+  &&&\notezaraNam\\
   &&&\\
   &{\dn suh.rt}&su|h.rt&friend\\
   &&&\note{\noun, \male}\\

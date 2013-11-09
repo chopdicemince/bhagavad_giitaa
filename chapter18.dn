@@ -5326,8 +5326,8 @@ peace---the eternal place.\\
   &&&\\
   &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
   &&&= {\dn "sara.nam}\\
-  &&&= shelter; protection; refuge\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \zaraNam\\
+  &&&\notezaraNam\\
   &&&\\
   &{\dn gaccha}&gac|cha&(you) go\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
@@ -5698,9 +5698,8 @@ Abandoning all good works, go (to) one shelter: me. I will free you
   &&&\\
   &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
   &&&= {\dn "sara.nam}\\
-  &&&= shelter\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \zaraNam\\
+  &&&\notezaraNam\\
   &&&\\
   &{\dn vraja}&vra|ja&(you) go\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
