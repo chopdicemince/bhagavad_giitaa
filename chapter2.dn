@@ -3293,8 +3293,8 @@ ability. From more sadness, certainly, what can come?\\
   &&&\\
   &{\dn tavaahitaa.h}&ta|vaa|&tava\\
   &&&= {\dn tava}\\
-  &&&= your\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&= \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&hi|taa\h{aa}&ahitaa.h\\
@@ -3312,8 +3312,8 @@ ability. From more sadness, certainly, what can come?\\
   &&&\\
   &&ta|va&tava\\
   &&&= {\dn tava}\\
-  &&&= your\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&&= \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn saamarthya.m}&saa|mar|thya.m&ability\\
@@ -4145,10 +4145,8 @@ actions. Do not be a joining in your non-action.\\
   &&&= authority\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&te&your\\
-  &&&\note{\pronoun, \secondperson}\\
-  &&&\note{\singular, \genitivecase}\\
-  &&&\note{or {\dn tava} = tava}\\
+  &&te&{\dn te} = \teyou\\
+  &&&\noteteyou\\
   &&&\note{from {\dn tvam} = tvam}\\
   % ----------------------------------------------------------------------------
   \hline

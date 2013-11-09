@@ -1283,8 +1283,8 @@ syllables, instead of the usual eight.)\\
   &&&\notedevaan\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
-  &&sta|va&{\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&sta|va&{\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn deva}&de|va&deva.h\\
@@ -1481,8 +1481,8 @@ instead of the usual eight.)\\
   &&&= again\\
   &&&\note{\adverb}\\
   &&&\\
-  &&vaa|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&vaa|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&di.m&aadim\\
@@ -1976,8 +1976,8 @@ instead of the usual eight.)\\
   &&&= fierce\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn taveda.m}&ta|ve|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn taveda.m}&ta|ve|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
@@ -2913,8 +2913,8 @@ instead of the usual eight.)\\
   2a&{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\notetathaa\\
   &&&\\
-  &{\dn tavaamii}&ta|vaa|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tavaamii}&ta|vaa|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&mii&amii\\
@@ -3034,8 +3034,8 @@ instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tavaapi}&ta|vaa|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  2b&{\dn tavaapi}&ta|vaa|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
@@ -3147,8 +3147,8 @@ instead of the usual eight.)\\
   &&&= brightness; light\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&vo|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &&vo|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&graa\h{aa}&ugraa.h\\
@@ -3289,8 +3289,8 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{from {\dn praj~naa} = praj\~{}naa}\\
   &&&\\
-  &{\dn tava}&ta|va&of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tava}&ta|va&\tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn prav.rttim}&pra|vr.t|tim&prediliction; profession\\
@@ -3819,8 +3819,8 @@ main syllables, instead of the usual eight.)\\
   &&&\notehRSIkeza\\
   &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
   &&&\\
-  &{\dn tava}&ta|va&of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tava}&ta|va&\tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn prakiirtyaa}&pra|kiir|tyaa&using/by celebration\\
@@ -4482,8 +4482,8 @@ instead of the usual eight.)\\
   &&&\note{similar: \noun, \female, {\dn mahimaa} = mahimaa}\\
   &&&\note{= greatness}\\
   &&&\\
-  &{\dn taveda.m}&ta|ve|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn taveda.m}&ta|ve|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&da.m&idam = {\dn idam} = \idam\\
@@ -5173,8 +5173,8 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn prasanna.h} = prasanna.h}\\
   &&&\\
-  &{\dn tavaarjuneda.m}&ta|vaar|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tavaarjuneda.m}&ta|vaar|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ju|ne|&arjuna\\
@@ -5703,8 +5703,8 @@ gone.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn tava}&ta|va&of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  1b&{\dn tava}&ta|va&\tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn saumya.m}&sau|mya.m&sauymam\\

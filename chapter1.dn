@@ -272,8 +272,8 @@ arranged, using a Drupada-son, a wise student of you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tava}&ta|va&of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  2b&{\dn tava}&ta|va&\tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &{\dn "si.sye.na}&"si|.sye|.na&using/by a/the student; scholar; disciple\\

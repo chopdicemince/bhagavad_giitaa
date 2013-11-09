@@ -3591,8 +3591,8 @@ world.\\
   &&&\note{\adjective, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn j~naatam} = j\~{}naatam}\\
   &&&\\
-  &{\dn tavaarjuna}&ta|vaar|&tava = {\dn tava} = of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tavaarjuna}&ta|vaar|&tava = {\dn tava} = \tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
   &&ju|na&arjuna\\

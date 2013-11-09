@@ -6378,8 +6378,8 @@ speech of you.\\
   &&&= word; phrase; speech\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn tava}&ta|va&of you (your)\\
-  &&&\note{\pronoun, \secondperson, \singular, \genitivecase}\\
+  &{\dn tava}&ta|va&\tava\\
+  &&&\notetava\\
   &&&\note{from {\dn tvam} = tvam}\\
 \end{tabular}
 \newpage
