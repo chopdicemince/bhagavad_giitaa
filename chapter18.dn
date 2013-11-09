@@ -5497,8 +5497,8 @@ you.\\
   &&&\\
   &&ta|ma.m&tamam\\
   &&&= {\dn tamam}\\
-  &&&= most\\
-  &&&\note{\suffix}\\
+  &&&= \tamam\\
+  &&&\notetamam\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
