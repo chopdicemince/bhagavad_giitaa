@@ -3782,8 +3782,8 @@ for me, is more comfortable.\\
   &&&\note{\adjective}\\
   &&&\note{from: \adjective, {\dn k.sema} = k.sema}\\
   &&&\\
-  &&ta|ra.m&taram = {\dn taram} = more\\
-  &&&\note{\suffix}\\
+  &&ta|ra.m&taram = {\dn taram} = \taram\\
+  &&&\notetaram\\
   &&&\\
   &{\dn bhavet}&bha|vet&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\

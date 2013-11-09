@@ -529,8 +529,8 @@ string.\\
   &&&= \para\\
   &&&\notepara\\
   &&&\\
-  &&ta|ra.m&taram = {\dn taram} = more\\
-  &&&\note{\suffix}\\
+  &&ta|ra.m&taram = {\dn taram} = \taram\\
+  &&&\notetaram\\
   &&&\\
   &{\dn naanyatki~ncidasti}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
