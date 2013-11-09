@@ -3186,8 +3186,8 @@ small importance.\\
 \begin{tabular}{llll}
   1a&{\dn bhayaadra.naaduparata.m}&bha|yaa|dra|&bhayaat\\
   &&&= {\dn bhayaat}\\
-  &&&= from fear\\
-  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&= \bhayaat\\
+  &&&\notebhayaat\\
   &&&\note{from {\dn bhayam} = bhayam}\\
   &&&\\
   &&.naa|du&ra.naat\\
@@ -3659,8 +3659,8 @@ amount of this devotion saves (a person) from great fear.\\
   &&&= {\dn mahata.h}\\
   &&&= great\\
   &&&\\
-  &{\dn bhayaat}&bha|yaat&from fear\\
-  &&&\note{\noun, \neuter, \ablativecase}\\
+  &{\dn bhayaat}&bha|yaat&\bhayaat\\
+  &&&\notebhayaat\\
   &&&\note{from {\dn bhayam} = bhayam}\\
 \end{tabular}
 \newpage
