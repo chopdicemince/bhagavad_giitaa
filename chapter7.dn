@@ -1445,8 +1445,8 @@ knowledge, and he (is) a friend of me.\\
 \begin{tabular}{llll}
   2a&{\dn priyo}&pri|yo&priya.h\\
   &&&= {\dn priya.h}\\
-  &&&= friend; lover\\
-  &&&\note{\noun, \male}\\
+  &&&= \priyaH\\
+  &&&\notepriyaH\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
@@ -1478,8 +1478,8 @@ knowledge, and he (is) a friend of me.\\
   &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&friend; lover\\
-  &&&\note{\noun, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

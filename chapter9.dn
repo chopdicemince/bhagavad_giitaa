@@ -2606,8 +2606,8 @@ also, I (am) in them.\\
   &{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

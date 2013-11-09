@@ -615,8 +615,8 @@ difference.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved; dear\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

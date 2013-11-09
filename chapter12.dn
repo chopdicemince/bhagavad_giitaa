@@ -1269,8 +1269,8 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1373,8 +1373,8 @@ of me.\\
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1461,8 +1461,8 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1547,8 +1547,8 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn priya.h}&pri|ya\h{a}&favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
+  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1715,8 +1715,8 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
   &&&\\
   &{\dn priyo}&pri|yo&priya.h\\
   &&&= {\dn priya.h}\\
-  &&&= favorite; loved\\
-  &&&\note{\adjective, \male}\\
+  &&&= \priyaH\\
+  &&&\notepriyaH\\
   &&&\\
   &{\dn nara.h}&na|ra\h{a}&\naraH\\
   &&&\notenaraH\\
