@@ -840,10 +840,10 @@ happiness---(such is) an abandoner. Goodness-having, a wise person
   2a&{\dn tyaagii}&tyaa|gii&abandoner\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sattvasamaavi.s.to}&sat|tva|&sattva.h\\
-  &&&= {\dn sattva.h}\\
-  &&&= essence; goodness; life; living thing\\
-  &&&\note{\noun, \male}\\
+  &{\dn sattvasamaavi.s.to}&sat|tva|&sattvam\\
+  &&&= {\dn sattvam}\\
+  &&&= \sattvam\\
+  &&&\notesattvam\\
   &&&\\
   &&sa|maa|vi|.s.to&samaavi.s.ta.h\\
   &&&= {\dn samaavi.s.ta.h}\\
@@ -3456,8 +3456,8 @@ ignorance, passion).\\
 \begin{tabular}{llll}
   2a&{\dn sattva.m}&sat|tva.m&sattvam\\
   &&&= {\dn sattvam}\\
-  &&&= essence; goodness; life; living thing\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \sattvam\\
+  &&&\notesattvam\\
   &&&\\
   &{\dn prak.rtijairmukta.m}&pra|k.r|ti|&prak.rti.h\\
   &&&= {\dn prak.rti.h}\\
