@@ -136,8 +136,8 @@ that (faith).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn "sraddhaa}&"srad|dhaa&faith; trust\\
-  &&&\note{\noun, \female}\\
+  &{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
+  &&&\notezraddhA\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -234,8 +234,8 @@ is faithful with, really.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn "sraddhaa}&"srad|dhaa&faith; trust\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
+  &&&\notezraddhA\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&(he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -250,8 +250,8 @@ is faithful with, really.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn "sraddhaamayo.aya.m}&"srad|dhaa|&{\dn "sraddhaa}\\
-  &&&= faith; trust\\
-  &&&\note{\noun, \female}\\
+  &&&= \zraddhA\\
+  &&&\notezraddhA\\
   &&&\\
   &&ma|yo|&maya.h\\
   &&&= {\dn maya.h}\\
@@ -1156,8 +1156,8 @@ sacrifice (is acknowledged as) ignorance.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn "sraddhaavirahita.m}&"srad|dhaa|&{\dn "sraddhaa}\\
-  &&&= faith; trust\\
-  &&&\note{\noun, \female}\\
+  &&&= \zraddhA\\
+  &&&\notezraddhA\\
   &&&\\
   &&vi|ra|hi|ta.m&virahitam\\
   &&&= {\dn virahitam}\\
