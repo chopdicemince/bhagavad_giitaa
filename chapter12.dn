@@ -306,9 +306,9 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\\
   &&stha|ma|&stham\\
   &&&= {\dn stham}\\
-  &&&= standing; staying\\
-  &&&\note{\adjective, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \stham\\
+  &&&\notestham\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\

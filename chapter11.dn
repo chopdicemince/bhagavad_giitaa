@@ -571,8 +571,9 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&ka|&ekam = {\dn ekam} = one\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&stha.m&stham = {\dn stham} = standing; staying\\
-  &&&\note{\adjective, \neuter}\\
+  &&stha.m&stham = {\dn stham} = \stham\\
+  &&&\notestham\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &{\dn jagatk.rtsna.m}&ja|gat|&{\dn jagat} = \jagat\\
   &&&\notejagat\\
@@ -1111,9 +1112,9 @@ all, partitioned in many ways.\\
   &&&\\
   &&stha.m&stham\\
   &&&= {\dn stham}\\
-  &&&= standing; staying\\
-  &&&\note{\adjective, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \stham\\
+  &&&\notestham\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &{\dn jagatk.rtsna.m}&ja|gat|&{\dn jagat}\\
   &&&= \jagat\\
@@ -1346,8 +1347,9 @@ syllables, instead of the usual eight.)\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&stham&{\dn stham}\\
-  &&&= standing; staying\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \stham\\
+  &&&\notestham\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
 \end{tabular}
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}

@@ -2415,8 +2415,9 @@ all-seeing.\\
   &&&\\
   &&stha|maat|&stham\\
   &&&= {\dn stham}\\
-  &&&= standing; staying; doing\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \stham\\
+  &&&\notestham\\
+  &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &&maa|na.m&aatmaanam\\
   &&&= {\dn aatmaanam}\\
