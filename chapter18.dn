@@ -2794,9 +2794,9 @@ of ignorance.\\
   &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn taamasii}&taa|ma|sii&(?) person of darkness; ignorance; hell\\
-  &&&\note{\noun, \male}\\
-  &&&\note{similar: \noun, \neuter, {\dn tamas} = tamas}\\
+  &{\dn taamasii}&taa|ma|sii&\taamasii\\
+  &&&\notetaamasii\\
+  &&&\note{(?) from {\dn tamas} = tamas}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3051,9 +3051,9 @@ Arjuna), (is) a person of ignorance.\\
   &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn taamasii}&taa|ma|sii&(?) person of darkness; ignorance; hell\\
-  &&&\note{\noun, \male}\\
-  &&&\note{similar: \noun, \neuter, {\dn tamas} = tamas}\\
+  &{\dn taamasii}&taa|ma|sii&\taamasii\\
+  &&&\notetaamasii\\
+  &&&\note{(?) from {\dn tamas} = tamas}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
