@@ -1480,8 +1480,8 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn punastavaadi.m}&pu|na|sta|&puna.h\\
   &&&= {\dn puna.h}\\
-  &&&= again\\
-  &&&\note{\adverb}\\
+  &&&= \punaH\\
+  &&&\notepunaH\\
   &&&\\
   &&vaa|&tava = {\dn tava} = \tava\\
   &&&\notetava\\
@@ -4247,8 +4247,8 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&{\dn puna"sca}&pu|na"s|&puna.h\\
   &&&= {\dn puna.h}\\
-  &&&= again\\
-  &&&\note{\adverb}\\
+  &&&= \punaH\\
+  &&&\notepunaH\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -5491,8 +5491,8 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   &&&\\
-  &{\dn punastva.m}&pu|na|&puna.h = {\dn puna.h} = again\\
-  &&&\note{\adverb}\\
+  &{\dn punastva.m}&pu|na|&puna.h = {\dn puna.h} = \punaH\\
+  &&&\notepunaH\\
   &&&\\
   &&stva.m&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
@@ -5637,8 +5637,8 @@ main syllables, instead of the usual eight.)\\
   &&&\noteperfectparticiple\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn puna.h}&pu|na\h{a}&again\\
-  &&&\note{\adverb}\\
+  &{\dn puna.h}&pu|na\h{a}&\punaH\\
+  &&&\notepunaH\\
   &&&\\
   &{\dn saumyavapurmahaatmaa}&sau|mya|&{\dn saumya}\\
   &&&= mild; pleasant\\

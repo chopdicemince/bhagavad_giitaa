@@ -608,8 +608,8 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&&\\
   &{\dn punastaani}&pu|na|staa|&puna.h\\
   &&&= {\dn puna.h}\\
-  &&&= again\\
-  &&&\note{\adverb}\\
+  &&&= \punaH\\
+  &&&\notepunaH\\
   &&&\\
   &&ni&taani = {\dn taani} = those/them\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
@@ -667,11 +667,11 @@ form.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn vis.rj} = vis.rj}\\
   &&&\\
-  &{\dn puna.h}&pu|na\h{a}&again\\
-  &&&\note{\adverb}\\
+  &{\dn puna.h}&pu|na\h{a}&\punaH\\
+  &&&\notepunaH\\
   &&&\\
-  &{\dn puna.h}&pu|na\h{a}&again\\
-  &&&\note{\adverb}\\
+  &{\dn puna.h}&pu|na\h{a}&\punaH\\
+  &&&\notepunaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2925,8 +2925,8 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   1a&{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
   &&&\notekim\\
   &&&\\
-  &{\dn punarbraahma.naa.h}&pu|nar|&puna.h = {\dn puna.h} = again\\
-  &&&\note{\adverb}\\
+  &{\dn punarbraahma.naa.h}&pu|nar|&puna.h = {\dn puna.h} = \punaH\\
+  &&&\notepunaH\\
   &&&\\
   &&braah|ma|.naa\h{aa}&{\dn braahma.naa.h}\\
   &&&= (?) brahma.naa.h\\

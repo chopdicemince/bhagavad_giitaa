@@ -1842,8 +1842,8 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
   &&&\\
-  &{\dn puna.h}&pu|na\h{a}&again\\
-  &&&\note{\adverb}\\
+  &{\dn puna.h}&pu|na\h{a}&\punaH\\
+  &&&\notepunaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
