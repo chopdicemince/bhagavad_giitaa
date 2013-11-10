@@ -5056,8 +5056,10 @@ knowledge is complete.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn indriyaa.niindriyaarthebhyastasya}&in|dri|yaa|.niin|&body organs; senses\\
-  &&&\note{\noun, \neuter, \plural}\\
+  2a&{\dn indriyaa.niindriyaarthebhyastasya}&in|dri|yaa|.niin|&indriyaa.ni\\
+  &&&= {\dn indriyaa.ni}\\
+  &&&= \noteindriyANi\\
+  &&&\noteindriyANi\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &&dri|yaar|&indriyam\\
@@ -5184,8 +5186,8 @@ person---the senses are agitating and they destroy violently.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn indriyaa.ni}&in|dri|yaa|.ni&senses; body organs; power\\
-  &&&\note{\noun, \neuter, \plural}\\
+  2a&{\dn indriyaa.ni}&in|dri|yaa|.ni&\indriyANi\\
+  &&&\noteindriyANi\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &{\dn pramaathiini}&pra|maa|thii|ni&troubling; agitating; destroying (?)\\
@@ -5254,8 +5256,8 @@ complete.\\
   &&&\\
   &&dri|yaa|.ni&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\
-  &&&= senses; body organs; power\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \indriyANi\\
+  &&&\noteindriyANi\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5791,8 +5793,8 @@ restrained---his knowledge is complete.\\
 \begin{tabular}{llll}
   2a&{\dn indriyaa.niindriyaarthebhyastasya}&in|dri|yaa|.niin|&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\
-  &&&= body organs; senses; power\\
-  &&&\note{\noun, \neuter, \plural}\\
+  &&&= \indriyANi\\
+  &&&\noteindriyANi\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &&dri|yaar|&indriyam\\
