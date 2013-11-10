@@ -679,8 +679,8 @@ pile of stones, and gold, are the same (to the devotee).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn yukta}&yuk|ta&yoked; joined; skillful; suitable\\
-  &&&\note{\adjective}\\
+  2a&{\dn yukta}&yuk|ta&\yukta\\
+  &&&\noteyukta\\
   &&&\\
   &{\dn ityucyate}&i|tyu|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
@@ -1203,8 +1203,8 @@ mind, a mind from me, yoked, seated, best from me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yukta}&yuk|ta&yoked; joined; suitable; skilled\\
-  &&&\note{\adjective}\\
+  2b&{\dn yukta}&yuk|ta&\yukta\\
+  &&&\noteyukta\\
   &&&\\
   &{\dn aasiita}&aa|sii|ta&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn aasitam} = aasitam = seat}\\
@@ -1406,8 +1406,8 @@ sleep of wakefulness, yoking is hurtful to distress.\\
 
 \begin{tabular}{llll}
   1a&{\dn yuktaahaaravihaarasya}&yuk|taa|&{\dn yukta}\\
-  &&&= yoked; joined; suitable; skilled\\
-  &&&\note{\adjective}\\
+  &&&= \yukta\\
+  &&&\noteyukta\\
   &&&\\
   &&haa|ra|&aahaara.h\\
   &&&= {\dn aahaara.h}\\
@@ -1422,8 +1422,8 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   \hline
   &&&\\
   1b&{\dn yuktace.s.tasya}&yuk|ta|&{\dn yukta}\\
-  &&&= yoked; joined; suitable; skilled\\
-  &&&\note{\adjective}\\
+  &&&= \yukta\\
+  &&&\noteyukta\\
   &&&\\
   &&ce.s|.ta|sya&{\dn ce.s.tasya}\\
   &&&= of movement; lifestyle; behavior\\
@@ -1439,8 +1439,8 @@ sleep of wakefulness, yoking is hurtful to distress.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn yuktasvapnaavabodhasya}&yuk|ta|&{\dn yukta}\\
-  &&&= yoked; joined; suitable; skilled\\
-  &&&\note{\adjective}\\
+  &&&= \yukta\\
+  &&&\noteyukta\\
   &&&\\
   &&svap|naa|&svapna.h\\
   &&&= {\dn svapna.h}\\
@@ -1533,8 +1533,8 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yukta}&yuk|ta&yoked; joined; suitable; skilled\\
-  &&&\note{\adjective}\\
+  2b&{\dn yukta}&yuk|ta&\yukta\\
+  &&&\noteyukta\\
   &&&\\
   &{\dn ityucyate}&i|tyu|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
