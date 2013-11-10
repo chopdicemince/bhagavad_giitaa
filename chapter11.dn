@@ -5895,8 +5895,8 @@ see(n). You (have) seen me just as (I was).\\
   &&na&{\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &{\dn tapasaa}&ta|pa|saa&(?) using/by penance; asceticism; suffering; heat\\
-  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &{\dn tapasaa}&ta|pa|saa&\tapasaa\\
+  &&&\notetapasaa\\
   &&&\note{from {\dn tapas} = tapas}\\
   % ----------------------------------------------------------------------------
   \hline
