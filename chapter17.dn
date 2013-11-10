@@ -92,8 +92,10 @@ Goodness? Passion? Ignorance?\\
   &&&\\
   &&ma\h{a}&tama.h\\
   &&&= {\dn tama.h}\\
-  &&&= darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

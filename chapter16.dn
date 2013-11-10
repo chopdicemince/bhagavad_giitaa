@@ -1902,8 +1902,10 @@ path.\\
   &&&\\
   &&ta|mo|&tama.h\\
   &&&= {\dn tama.h}\\
-  &&&= darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &&dvaa|rai|stri|&dvaarai.h\\
   &&&= {\dn dvaarai.h}\\

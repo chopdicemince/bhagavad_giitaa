@@ -356,8 +356,10 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   &&&\\
   &&ma&tama.h\\
   &&&= {\dn tama.h}\\
-  &&&= darkness; hell; ignorance\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &{\dn iti}&i|ti&\iti\\
   &&&\noteiti\\
@@ -597,8 +599,12 @@ all beings. It binds, using (occurrences of) carelessness, laziness,
 (and) sleep, O descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tamastvaj~naanaja.m}&ta|ma|&tama.h = {\dn tama.h} = darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  1a&{\dn tamastvaj~naanaja.m}&ta|ma|&tama.h\\
+  &&&= {\dn tama.h}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &&stva|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
@@ -730,8 +736,10 @@ in madness.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn tama.h}&ta|ma\h{a}&darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn tama.h}&ta|ma\h{a}&tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -769,8 +777,10 @@ sometimes superiority), thus.\\
   &&&\\
   &&ma"s|&tama.h\\
   &&&= {\dn tama.h}\\
-  &&&= darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -811,8 +821,10 @@ sometimes superiority), thus.\\
   &&&\\
   &{\dn tama"scaiva}&ta|ma"s|&tama.h\\
   &&&= {\dn tama.h}\\
-  &&&= darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -822,8 +834,10 @@ sometimes superiority), thus.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tama.h}&ta|ma\h{a}&darkness; ignorance; hell\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn tama.h}&ta|ma\h{a}&tamas\\
+  &&&= {\dn tamas}\\
+  &&&= \tamas\\
+  &&&\notetamas\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&sattvam\\
   &&&= {\dn sattvam}\\
