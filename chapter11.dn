@@ -5343,8 +5343,10 @@ instead of the usual eight.)\\
   &{\dn tapobhirugrai.h}&ta|po|bhi|ru|&tapobhi.h\\
   &&&= {\dn tapobhi.h}\\
   &&&= (?)\\
-  &&&\note{similar: \noun, \neuter, {\dn tapa.h} = tapa.h}\\
-  &&&\note{= asceticism; austerity; penance; fire}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn tapas} = tapas}\\
+  &&&\note{= \tapas}\\
+  &&&\notetapas\\
   &&&\\
   &&grai\h{i}&ugrai.h\\
   &&&= {\dn ugrai.h}\\

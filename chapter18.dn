@@ -248,8 +248,10 @@ abandoned,'' (says) another (great mind).\\
   &&&\notedaanam\\
   &&&\\
   &&ta|pa\h{a}&{\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
@@ -384,8 +386,10 @@ purifying of great minds.\\
   &&&\\
   &&ta|pa\h{a}&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
@@ -428,8 +432,10 @@ purifying of great minds.\\
   &&&\\
   &{\dn tapa"scaiva}&ta|pa"s|&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -3610,8 +3616,10 @@ self-behavior-born.\\
   &&&\\
   &&pa\h{a}&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \male}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn "sauca.m}&"sau|ca.m&"saucam\\
   &&&= {\dn "saucam}\\

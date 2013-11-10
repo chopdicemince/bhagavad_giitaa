@@ -422,9 +422,10 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&\\
   &{\dn tapo}&ta|po&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity; suffering\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn janaa.h}&ja|naa\h{aa}&men\\
   &&&\note{\noun, \male, \plural}\\
@@ -630,8 +631,8 @@ difference.\\
   &&&\\
   &&pa|sta|&tapas\\
   &&&= {\dn tapas}\\
-  &&&= fire; heat; austerity; torture\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&thaa&tathaa\\
   &&&= {\dn tathaa}\\
@@ -1268,8 +1269,8 @@ characteristics) is called body austerity.\\
   &&&\\
   &{\dn tapa}&ta|pa&tapas\\
   &&&= {\dn tapas}\\
-  &&&= fire; heat; austerity; torture\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn ucyate}&u|cya|te&(he/she/it) is uttered; said; called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1359,8 +1360,8 @@ austerity.\\
   &&&\\
   &{\dn tapa}&ta|pa&tapas\\
   &&&= {\dn tapas}\\
-  &&&= fire; heat; austerity; torture\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn ucyate}&u|cya|te&(he/she/it) is uttered; said; called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1432,8 +1433,10 @@ thus---this (group of characteristics) is called austerity-mind.\\
   &&&\\
   2b&&ta|po&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn maanasamucyate}&maa|na|sa|mu|&maanasam\\
   &&&= {\dn maanasam}\\
@@ -1475,8 +1478,8 @@ austerity is acknowledged as) good.\\
   &&&\\
   1b&{\dn tapastattrividha.m}&ta|pa|&tapas\\
   &&&= {\dn tapas}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&stat|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -1566,8 +1569,10 @@ passion---trembling (and) non-eternal.\\
   &&&\\
   1b&{\dn tapo}&ta|po&tapa.h\\
   &&&= {\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &{\dn dambhena}&dam|bhe|na&using/by deceit; feigning; hypocrisy\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -1661,8 +1666,10 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\note{similar: \noun, \female, {\dn kriyaa} = kriyaa}\\
   &&&\note{= action; work; doing}\\
   &&&\\
-  &{\dn tapa.h}&ta|pa\h{a}&fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn tapa.h}&ta|pa\h{a}&tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2088,8 +2095,10 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\notedaanam\\
   &&&\\
   &&ta|pa\h{a}&{\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&kri|yaa\h{aa}&{\dn kriyaa.h}\\
   &&&= actions; works; doings\\
@@ -2172,8 +2181,10 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\noteyajJaH\\
   &&&\\
   &&ta|pa\h{a}&{\dn tapa.h}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= tapas\\
+  &&&= {\dn tapas}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&kri|yaa\h{aa}&{\dn kriyaa.h}\\
   &&&= actions; works; doings\\
@@ -2431,8 +2442,8 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &&&\\
   1b&{\dn tapastapta.m}&ta|pa|stap|&tapas\\
   &&&= {\dn tapas}\\
-  &&&= fire; heat; austerity\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \tapas\\
+  &&&\notetapas\\
   &&&\\
   &&ta.m&taptam\\
   &&&= {\dn taptam}\\
