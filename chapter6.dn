@@ -3234,9 +3234,9 @@ path (away) from God is foolish.\\
   &&&= foolish; confused\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn brahma.na.h}&brah|ma|.na\h{a}&(?) from/of God\\
-  &&&\note{\noun, \neuter, \ablativecase, \genitivecase}\\
-  &&&\note{from {\dn brahmam} = brahmam}\\
+  &{\dn brahma.na.h}&brah|ma|.na\h{a}&\brahmaNaH\\
+  &&&\notebrahmaNaH\\
+  &&&\note{from {\dn brahman} = brahman}\\
   &&&\\
   &{\dn pathi}&pa|thi&(?)\\
   &&&\note{similar: \noun, \male, {\dn patha.h} = patha.h}\\
