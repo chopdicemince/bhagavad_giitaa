@@ -1363,9 +1363,9 @@ them, O descendant of Bharata (O Arjuna).\\
   \hline
   &&&\\
   2b&&staa.m|&taan\\
-  &&&= {\dn taani}\\
-  &&&= those/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&&= {\dn taan}\\
+  &&&= \taan\\
+  &&&\notetaan\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
   &&sti|ti|k.sa|&titik.sa.h\\
@@ -5218,8 +5218,8 @@ me---certainly, those senses are of one in power. His knowledge is
 complete.\\
 
 \begin{tabular}{llll}
-  1a&{\dn taani}&taa|ni&those/they\\
-  &&&\note{\noun, \thirdperson, \neuter, \plural}\\
+  1a&{\dn taani}&taa|ni&\taani\\
+  &&&\notetaani\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&\sarvANi\\

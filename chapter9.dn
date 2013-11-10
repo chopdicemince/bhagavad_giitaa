@@ -611,9 +611,8 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&&= \punaH\\
   &&&\notepunaH\\
   &&&\\
-  &&ni&taani = {\dn taani} = those/them\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&ni&taani = {\dn taani} = \taani\\
+  &&&\notetaani\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -738,8 +737,8 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn taani}&taa|ni&those/they\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \plural}\\
+  &{\dn taani}&taa|ni&\taani\\
+  &&&\notetaani\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
