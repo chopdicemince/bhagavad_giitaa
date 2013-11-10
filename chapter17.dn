@@ -1050,9 +1050,8 @@ passion.\\
   &&&\\
   &&tha|ma|&artham\\
   &&&= {\dn artham}\\
-  &&&= purpose; profit\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -1563,9 +1562,8 @@ passion---trembling (and) non-eternal.\\
   &&&\\
   &&tha.m&artham\\
   &&&= {\dn artham}\\
-  &&&= purpose; profit\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1692,9 +1690,8 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\\
   &&tha.m&artham\\
   &&&= {\dn atham}\\
-  &&&= purpose; profit\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
   % ----------------------------------------------------------------------------
@@ -1828,8 +1825,8 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   &&&\\
   &&tha.m&artham\\
   &&&= {\dn artham}\\
-  &&&= purpose; profit\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

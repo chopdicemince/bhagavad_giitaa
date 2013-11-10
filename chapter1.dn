@@ -585,9 +585,10 @@ of my soldier. I say for you the name-meaning (of) those.\\
   &&&\\
   &&tha.m&artha.m\\
   &&&= {\dn artha.m}\\
-  &&&= meaning\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= artham\\
+  &&&= {\dn artham}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   &&&\\
   &{\dn taanbraviimite}&taan|&{\dn taan}\\
   &&&= \taan\\

@@ -894,9 +894,8 @@ knowledge-lamp-brightness.\\
   &&&\\
   &&tha|&artham\\
   &&&= {\dn artham}\\
-  &&&= meaning; purpose; profit\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

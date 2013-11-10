@@ -883,9 +883,8 @@ doing actions.\\
   &&&\\
   &&tha|ma|&artham\\
   &&&= {\dn artham}\\
-  &&&= profit; purpose\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
+  &&&= \artham\\
+  &&&\noteartham\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
