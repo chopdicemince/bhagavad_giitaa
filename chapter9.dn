@@ -237,9 +237,9 @@ death-life-road.\\
   &&&\note{\pronoun, \thirdperson, \male}\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
-  &{\dn parantapa}&pa|ran|ta|pa&O killing of enemies\\
+  &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\noteparantapa\\
   &&&\note{from {\dn parantapa.h} = parantapa.h}\\
 \end{tabular}
 \newpage

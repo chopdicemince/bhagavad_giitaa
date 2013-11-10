@@ -3554,9 +3554,9 @@ self-behavior-births-strings.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn parantapa}&pa|ran|ta|pa&O destroying of enemies\\
+  &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
   &&&= O Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\noteparantapa\\
   &&&\note{from {\dn parantapa.h} = parantapa.h}\\
 \end{tabular}
 \newpage
