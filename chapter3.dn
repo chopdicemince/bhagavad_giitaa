@@ -1249,8 +1249,8 @@ an offering.\\
   &&&\\
   &{\dn brahmodbhava.m}&brah|mod|&brahman\\
   &&&= {\dn brahman}\\
-  &&&= God; priest; prayer\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&bha|va.m&udbhavam\\
   &&&= {\dn udbhavam}\\
@@ -1264,8 +1264,8 @@ an offering.\\
   &&&\\
   1b&{\dn brahmaak.sarasamudbhavam}&brah|maak|&brahman\\
   &&&= {\dn brahman}\\
-  &&&= God; priest; prayer\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&.sa|ra|&ak.sara.h\\
   &&&= {\dn ak.sara.h}\\
@@ -1293,8 +1293,8 @@ an offering.\\
   &&&\\
   &{\dn brahma}&brah|ma&brahman\\
   &&&= {\dn brahman}\\
-  &&&= God; priest; prayer\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

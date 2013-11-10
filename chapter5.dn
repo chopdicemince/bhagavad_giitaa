@@ -498,11 +498,10 @@ grief. A union-joined a sage, using no delay, gets God.\\
   &&&= sage; saint; monk\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1605,10 +1604,10 @@ are standing (with) God.\\
   &&&= \samam\\
   &&&\notesamamneuter\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1703,10 +1702,10 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahmavidbrahma.ni}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn brahmavidbrahma.ni}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&vid|&{\dn vid} = knowing\\
   &&&\note{\adjective}\\
@@ -1778,10 +1777,10 @@ non-decaying happiness.\\
   2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn brahmayogayuktaatmaa}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmayogayuktaatmaa}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&yo|ga|&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -2057,10 +2056,10 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &{\dn yogii}&yo|gii&\yogii\\
   &&&\noteyogii\\
   &&&\\
-  &{\dn brahmanirvaa.na.m}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmanirvaa.na.m}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&nir|vaa|.na.m&nirvaa.nam\\
   &&&= {\dn nirvaa.nam}\\
@@ -2070,10 +2069,10 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahmabhuuto.adhigacchati}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn brahmabhuuto.adhigacchati}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&bhuu|to'|&bhuuta.h\\
   &&&= {\dn bhuuta.h}\\
@@ -2101,10 +2100,10 @@ benefit of each being.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
-  &{\dn brahmanirvaa.nam.r.saya.h}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmanirvaa.nam.r.saya.h}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&nir|vaa|.na|&{\dn nirvaa.nam}\\
   &&&= final liberation; ultimate happiness\\
@@ -2219,10 +2218,10 @@ known-selves.\\
   &&&= near; on all sides\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn brahmanirvaa.na.m}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmanirvaa.na.m}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&nir|vaa|.na.m&nirvaa.nam\\
   &&&= {\dn nirvaa.nam}\\

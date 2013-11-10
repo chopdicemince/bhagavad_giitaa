@@ -2296,10 +2296,10 @@ wicked.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahmabhuutamakalma.sam}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn brahmabhuutamakalma.sam}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&bhuu|ta|ma|&bhuutam\\
   &&&= {\dn bhuutam}\\
@@ -2365,10 +2365,10 @@ completely.\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
-  &{\dn brahmasa.mspar"samatyanta.m}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmasa.mspar"samatyanta.m}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&sa.m|spar|"sa|&sa.mspar"sam\\
   &&&= {\dn sa.mspar"sam}\\

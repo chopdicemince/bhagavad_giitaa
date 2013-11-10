@@ -446,10 +446,10 @@ God-saying-words, and really, reason \dots (?) \dots, using sure
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn brahmasuutrapadai"scaiva}\\
   &&&\\
-  &&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&suu|tra|&suutram\\
   &&&= {\dn suutram}\\
@@ -1140,10 +1140,10 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&= \param\\
   &&&\noteparamneuter\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2729,10 +2729,10 @@ person) attains God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &{\dn sampadyate}&sam|pa|dya|te&(he/she/it) succeeds; attains\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

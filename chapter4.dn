@@ -1984,20 +1984,20 @@ God-giving, God-offering, God-fire, God-offering, God---really, by
 him, contemplative God-action is accomplished.\\
 
 \begin{tabular}{llll}
-  1a&{\dn brahmaarpa.na.m}&brah|maar|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  1a&{\dn brahmaarpa.na.m}&brah|maar|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&pa|.na.m&arpa.nam\\
   &&&= {\dn arpa.nam}\\
   &&&= inserting; delivery; giving\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &{\dn havirbrahmaagnau}&ha|vir|&havis\\
   &&&= {\dn havis}\\
@@ -2006,10 +2006,10 @@ him, contemplative God-action is accomplished.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&brah|maag|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  1b&&brah|maag|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&nau&agnau\\
   &&&= {\dn agnau}\\
@@ -2027,10 +2027,10 @@ him, contemplative God-action is accomplished.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn brahmaiva}&brah|mai|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2a&{\dn brahmaiva}&brah|mai|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2047,10 +2047,10 @@ him, contemplative God-action is accomplished.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahmakarmasamaadhinaa}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2b&{\dn brahmakarmasamaadhinaa}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&kar|ma&karmam\\
   &&&= {\dn karmam}\\
@@ -2108,10 +2108,10 @@ sacrifice, using sacrifice.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn brahmaagnaavapare}&brah|maag|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  2a&{\dn brahmaagnaavapare}&brah|maag|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&naa|va|&agnau\\
   &&&= {\dn agnau}\\
@@ -2638,11 +2638,10 @@ the eternal God.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &{\dn sanaatanam}&sa|naa|ta|nam&eternal; ancient; primeval\\
   &&&\note{\adjective, \neuter}\\

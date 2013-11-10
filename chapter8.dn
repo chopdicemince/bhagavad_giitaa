@@ -25,8 +25,8 @@ is God called?\\
   &{\dn tadbrahma}&tad|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&brah|ma&brahmam = {\dn brahmam} = God\\
-  &&&\note{\noun, \neuter}\\
+  &&brah|ma&brahman = {\dn brahman} = \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &{\dn kimadhyaatma.m}&ki|ma|&kim = {\dn kim} = \kim\\
   &&&\notekim\\
@@ -206,8 +206,8 @@ is called the self. Being-birth-doing is called action.\\
   &&&= changeable; perishable\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam = {\dn brahmam} = God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahma}&brah|ma&brahman = {\dn brahman} = \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
   &&&= \paramam\\
@@ -1159,10 +1159,10 @@ path.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1410,8 +1410,8 @@ not again-born.\\
   &&aa|&{\dn aa}\\
   &&&= (?)\\
   &&&\\
-  &&brah|ma|&brahmam = {\dn brahmam} = God\\
-  &&&\note{\noun, \neuter}\\
+  &&brah|ma|&brahman = {\dn brahman} = \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&bhu|va|naal|&bhuvanaat\\
   &&&= {\dn bhuvanaat}\\
@@ -2182,16 +2182,15 @@ go (to) God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahma}&brah|ma&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn brahma}&brah|ma&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
-  &{\dn brahmavido}&brah|ma|&brahmam\\
-  &&&= {\dn brahmam}\\
-  &&&= God\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn brahmavido}&brah|ma|&brahman\\
+  &&&= {\dn brahman}\\
+  &&&= \brahman\\
+  &&&\notebrahman\\
   &&&\\
   &&vi|do&vida.h\\
   &&&= {\dn vida.h}\\
