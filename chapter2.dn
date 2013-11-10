@@ -784,8 +784,8 @@ has eleven main syllables per line.)\\
   &&&\\
   &&dri|yaa|.naam&indriyaa.naam\\
   &&&= {\dn indriyaa.naam}\\
-  &&&= of senses; body organs; powers\\
-  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&= \indriyANAm\\
+  &&&\noteindriyANAm\\
   &&&\note{from {\dn indriyam} = indriyam}\\
 \end{tabular}
 \newpage
@@ -5684,8 +5684,10 @@ Certainly, of wandering senses which the mind follows---that, of this,
 carries off knowledge, like wind and a boat on water.\\
 
 \begin{tabular}{llll}
-  1a&{\dn indriyaa.naa.m}&in|dri|yaa|.naa.m&of body organs; senses; power\\
-  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  1a&{\dn indriyaa.naa.m}&in|dri|yaa|.naa.m&indriyaa.naam\\
+  &&&= {\dn indriyaa.naam}\\
+  &&&= \indriyANAm\\
+  &&&\noteindriyANAm\\
   &&&\note{from {\dn indriyam} = indriyam}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
