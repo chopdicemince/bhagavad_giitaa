@@ -129,9 +129,8 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\\
   &{\dn "sariira.m}&"sa|rii|ra.m&"sariiram\\
   &&&= {\dn "sariiram}\\
-  &&&= body\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \zarIram\\
+  &&&\notezarIram\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
@@ -2801,8 +2800,8 @@ Arjuna). (It) does not act. (It) is not attached.\\
 \begin{tabular}{llll}
   2a&{\dn "sariirastho.api}&"sa|rii|ra|&"sariiram\\
   &&&= {\dn "sariiram}\\
-  &&&= body\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \zarIram\\
+  &&&\notezarIram\\
   &&&\\
   &&stho|&stha.h\\
   &&&= {\dn stha.h}\\
