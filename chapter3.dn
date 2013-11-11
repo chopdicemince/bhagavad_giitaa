@@ -1535,9 +1535,10 @@ people---there is no meaning.\\
   &{\dn caasya}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&sarva.h\\
   &&&= {\dn sarva.h}\\
@@ -2770,9 +2771,10 @@ blocking.\\
   &{\dn hyasya}&hya|&hi = {\dn hi} = \hi\\
   &&&\notehi\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn paripanthinau}&pa|ri|pan|thi|nau&blocking; hindering\\
   &&&\note{\adjective, \male, \dual}\\
@@ -3226,9 +3228,10 @@ said. Using these, this (desire) confuses knowledge, covering a man.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ra|syaa|&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  1b&&ra|syaa|&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &&dhi.s|.thaa|na|mu|&adhi.s.thaanam\\
   &&&= {\dn adhi.s.thaanam}\\

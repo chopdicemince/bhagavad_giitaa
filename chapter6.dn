@@ -3306,9 +3306,10 @@ you. (That is: There is no cutter like you).\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sa.m"saya.h} = sa.m"saya.h}\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\noun, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

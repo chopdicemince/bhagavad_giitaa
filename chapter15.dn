@@ -230,8 +230,9 @@ syllables.)\\
   &&&= \ruupam\\
   &&&\noteruupam\\
   &&&\\
-  &&sye|&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
+  &&sye|&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &&ha&iha = {\dn iha} = \iha\\

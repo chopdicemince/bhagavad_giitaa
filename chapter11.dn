@@ -1686,8 +1686,9 @@ instead of the usual eight.)\\
   1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn vi"svasya}&vi|"sva|sya&of the universe\\
@@ -4071,8 +4072,9 @@ instead of the usual eight.)\\
   1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn vi"svasya}&vi|"sva|sya&of a/the universe\\
@@ -4691,9 +4693,10 @@ instead of the usual eight.)\\
   1b&{\dn tvamasya}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idma} = idam}\\
   &&&\\
   &{\dn puujya"sca}&puu|jya"s|&puujya.h\\
   &&&= {\dn puujya.h}\\
@@ -5839,8 +5842,9 @@ sight-desirous.\\
   &{\dn apyasya}&a|pya|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \neuter, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
+  &&&\note{from {\dn ayam} = ayam}\\
   &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn ruupasya}&ruu|pa|sya&of a/the form\\

@@ -233,9 +233,10 @@ death-life-road.\\
   &&&\notedharmasya\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
   &&&= O Arjuna\\
@@ -1427,9 +1428,10 @@ really.\\
   &&ha|ma|&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn jagato}&ja|ga|to&jagata.h\\
   &&&= {\dn jagata.h}\\

@@ -1643,9 +1643,10 @@ thing---not any (person) is able to do (it).\\
   &&&\\
   &&sya&asya\\
   &&&= {\dn asya}\\
-  &&&= of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&&= \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3642,9 +3643,10 @@ amount of this devotion saves (a person) from great fear.\\
   &&pya|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn dharmasya}&dhar|ma|sya&\dharmasya\\
   &&&\notedharmasya\\
@@ -5135,9 +5137,10 @@ objects).\\
   &&'pya|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -5539,9 +5542,10 @@ born---a happy mind, certainly. Knowledge is present around, fast.\\
   &&&= damage; loss; disappearance\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&syo|&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&syo|&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &&pa|jaa|ya|te&upajaayate\\
   &&&= {\dn upajaayate}\\
@@ -5716,9 +5720,10 @@ carries off knowledge, like wind and a boat on water.\\
   2a&{\dn tadasya}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&sya&asya = {\dn asya} = of this\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&asya = {\dn asya} = \asya\\
+  &&&\noteasya\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &{\dn harati}&ha|ra|ti&(he/she/it) destroys; takes; carries off\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
