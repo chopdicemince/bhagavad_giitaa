@@ -1156,7 +1156,7 @@ from later (will be).\\
   &&&\\
   &&me&ime = {\dn ime} = \ime\\
   &&&\noteime\\
-  &&&\note{from {\dn ayam} = ayam = this}\\
+  &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
   &{\dn janaadhipaa.h}&ja|naa|dhi|paa\h{aa}&kings\\
   &&&\note{\noun, \male, \plural}\\
@@ -1685,7 +1685,7 @@ descendant of Bharata (O Arjuna).\\
   &&&\\
   &{\dn ime}&i|me&\ime\\
   &&&\noteime\\
-  &&&\note{from {\dn ayam} = ayam = this}\\
+  &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
   &&&= {\dn dehaa.h}\\
@@ -1824,8 +1824,8 @@ does not kill and is not killed.\\
   2b&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1878,8 +1878,8 @@ has eleven main syllables per line.)\\
   1b&{\dn naaya.m}&naa|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
   &&&\noteperfectparticiple\\
@@ -1915,8 +1915,8 @@ has eleven main syllables per line.)\\
   &&&= eternal\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn puraa.no}&pu|raa|.no&puraa.na.h\\
   &&&= {\dn puraa.na.h}\\
@@ -2228,8 +2228,8 @@ not moving. This is eternal.\\
   &&&\note{{\dn chedyam} = chedyam = cut; tear}\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&'ya|ma|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya|ma|&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -2239,8 +2239,8 @@ not moving. This is eternal.\\
   &&&= burning; redness; heat\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ya|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya|&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2295,8 +2295,8 @@ not moving. This is eternal.\\
   &&&= confused; shaking; moving\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn sanaatana.h}&sa|naa|ta|na\h{a}&eternal; ancient\\
   &&&\note{\adjective, \male}\\
@@ -2324,8 +2324,8 @@ you do not deserve to lament.\\
   &&&= visible\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya|ma|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya|ma|&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -2335,8 +2335,8 @@ you do not deserve to lament.\\
   &&&= thinkable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya|&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2348,8 +2348,8 @@ you do not deserve to lament.\\
   &&&= changeable\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya|mu|&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya|mu|&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
@@ -2808,8 +2808,8 @@ deserve to lament each being.\\
   &&&= to be killed\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

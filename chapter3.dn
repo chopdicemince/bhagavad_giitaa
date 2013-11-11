@@ -750,8 +750,8 @@ Arjuna). (Be) free from assocation, and (be) practicing.\\
   &&&= \lokaH\\
   &&&\notelokaH\\
   &&&\\
-  &&'ya.m&ayam = {\dn ayam} = this\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  &&'ya.m&ayam = {\dn ayam} = \ayam\\
+  &&&\noteayam\\
   &&&\\
   &{\dn karmabandhana.h}&kar|ma|&karmam = {\dn karmam} = \karmam\\
   &&&\notekarmam\\
@@ -1991,7 +1991,7 @@ worlds).\\
   &&&\\
   &&me&ime = {\dn ime} = \ime\\
   &&&\noteime\\
-  &&&\note{from {\dn ayam} = ayam = this}\\
+  &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
   &{\dn lokaa}&lo|kaa&lokaa.h\\
   &&&= {\dn lokaa.h}\\
