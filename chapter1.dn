@@ -3471,9 +3471,11 @@ person.)\\
   &&&\\
   &&re|tai\h{i}&etai.h\\
   &&&= {\dn etai.h}\\
-  &&&= using/by these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \instrumentalcase}\\
+  &&&= \etaiH\\
+  &&&\noteetaiH\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
+  &&&\note{or}\\
+  &&&\note{from {\dn etat} = etat = \etat}\\
   &&&\\
   &{\dn kulaghnaanaa.m}&ku|la|&kulam\\
   &&&= {\dn kulam}\\
