@@ -1420,8 +1420,8 @@ worlds.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ni|maa.m|&imaan = {\dn imaan} = these\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  2b&&ni|maa.m|&imaan = {\dn imaan} = \imaan\\
+  &&&\noteimaan\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &&stva.m&tvam = {\dn tvam} = \tvam\\

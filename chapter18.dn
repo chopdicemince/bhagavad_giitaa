@@ -1450,8 +1450,8 @@ not bound.\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn imaa/llokaanna}&i|maa/l|&imaan = {\dn imaan} = these\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &{\dn imaa/llokaanna}&i|maa/l|&imaan = {\dn imaan} = \imaan\\
+  &&&\noteimaan\\
   &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
   &&lo|kaan|&{\dn lokaan}\\
