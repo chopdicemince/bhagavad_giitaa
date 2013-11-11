@@ -876,9 +876,10 @@ situation happens), then goodness is from getting powerful, thus.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
-  &&'smin|&asmin = {\dn asmin} = at/in/on this\\
-  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
+  &&'smin|&asmin = {\dn asmin} = \asmin\\
+  &&&\noteasmin\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

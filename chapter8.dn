@@ -120,9 +120,10 @@ restrained-selves (by people who know self-control)?\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
-  &&'smin|&asmin = {\dn asmin} = at/in/on this\\
-  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
+  &&'smin|&asmin = {\dn asmin} = \asmin\\
+  &&&\noteasmin\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   &&&\\
   &&ma|dhu|&{\dn madhu}\\
   &&&= honey\\

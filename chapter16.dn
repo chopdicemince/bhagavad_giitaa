@@ -449,9 +449,10 @@ Arjuna), hear (about) the demon (from) me.\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
-  &&'smin|&asmin = {\dn asmin} = at/in/on this\\
-  &&&\note{\pronoun, \thirdperson, \male, \locativecase}\\
+  &&'smin|&asmin = {\dn asmin} = \asmin\\
+  &&&\noteasmin\\
   &&&\note{from {\dn ayam} = ayam}\\
+  &&&\note{from {\dn idam} = idam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
