@@ -2065,8 +2065,8 @@ paramount man (God).\\
   \hline
   &&&\\
   2b&{\dn dehe.asminpuru.sa.h}&de|he|&{\dn dehe}\\
-  &&&= at/in/on a/the body\\
-  &&&\note{\noun, \male, \locativecase}\\
+  &&&= \dehe\\
+  &&&\notedehe\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   &&&\\
   &&'smin&asmin = {\dn asmin} = \asmin\\
@@ -2891,8 +2891,8 @@ body (and) is not above-attached.\\
   &&&= steadfast\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn dehe}&de|he&at/in/on a/the body\\
-  &&&\note{\noun, \male, \locativecase}\\
+  &{\dn dehe}&de|he&\dehe\\
+  &&&\notedehe\\
   &&&\note{from {\dn deha.h} = deha.h}\\
   % ----------------------------------------------------------------------------
   \hline
