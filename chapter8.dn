@@ -415,8 +415,8 @@ not here.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yaati}&yaa|ti&(he/she/it) goes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  2b&{\dn yaati}&yaa|ti&\yaati\\
+  &&&\noteyaati\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn naastyatra}&naa|&na = {\dn na} = \na\\
@@ -684,8 +684,8 @@ going, thinking, a man goes (to) the paramount, divine, man
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yaati}&yaa|ti&(he/she/it) goes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  2b&{\dn yaati}&yaa|ti&\yaati\\
+  &&&\noteyaati\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn paarthaanucintayan}&paar|thaa|&{\dn paartha}\\
@@ -1208,8 +1208,8 @@ path.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn yaati}&yaa|ti&(he/she/it) goes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn yaati}&yaa|ti&\yaati\\
+  &&&\noteyaati\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn paramaa.m}&pa|ra|maa.m&paramaam\\
@@ -2339,8 +2339,8 @@ path of whiteness), a man goes (to) final freedom. By the other
   &&&\\
   &{\dn yaatyanaav.rttimanyayaavartate}&yaa|tya|&yaati\\
   &&&= {\dn yaati}\\
-  &&&= (he/she/it) goes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&= \yaati\\
+  &&&\noteyaati\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &&naa|v.rt|ti|&anaav.rttim\\
