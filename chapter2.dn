@@ -15,8 +15,8 @@ by Madhu-killer (K.r.s.na): \dots\\
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -74,8 +74,8 @@ by Madhu-killer (K.r.s.na): \dots\\
   &&&\\
   2b&&mu|vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
   &{\dn madhusuudana.h}&ma|dhu|&{\dn madhu}\\
@@ -110,8 +110,8 @@ in heaven. Non-repuation is the tax (bad result), O Arjuna.\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -293,8 +293,8 @@ K.r.s.na)?\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -850,8 +850,8 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -932,8 +932,8 @@ this group of words: \dots\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
   &{\dn h.r.siike"sa.h}&h.r|.sii|ke|"sa\h{a}&\hRSIkezaH\\
@@ -1016,8 +1016,8 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -4691,8 +4691,8 @@ walk?\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -4785,8 +4785,8 @@ wise.\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline

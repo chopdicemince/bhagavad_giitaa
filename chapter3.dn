@@ -12,8 +12,8 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -196,8 +196,8 @@ Saa"nkhya philosophy, and using action-work of devotees.\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -832,8 +832,8 @@ for you. Be loved and love-yielding.''\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
   &{\dn prajaapati.h}&pra|jaa|&seed; offspring; mankind\\
@@ -2877,8 +2877,8 @@ if from force, commanded?\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2958,8 +2958,8 @@ and great-evil. This knowledge is enmity in this world.\\
   &&bha|ga|vaa|nu&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
   &&&\notebhagavaan\\
   &&&\\
-  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&vaa|ca&uvaaca = {\dn uvaaca} = \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline

@@ -16,8 +16,8 @@ eight.)\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -385,8 +385,8 @@ thousands---various divine forms and various color forms.\\
   &&bha|va|vaa|nu|&bhagavaan = {\dn bhagavaan} = \bhagavaan\\
   &&&\notebhagavaan\\
   &&&\\
-  &&vaa|ca&uvaaca = {\dn uvaaca} = (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&vaa|ca&uvaaca = {\dn uvaaca} = \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -755,8 +755,8 @@ things), from there, O King (Dh.rtaraa.stra), (showed) to the prince
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1267,8 +1267,8 @@ syllables, instead of the usual eight.)\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3323,8 +3323,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
 \end{tabular}
 \newpage
@@ -3687,8 +3687,8 @@ main syllables, instead of the usual eight.)\\
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -3806,8 +3806,8 @@ main syllables, instead of the usual eight.)\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5160,8 +5160,8 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5546,8 +5546,8 @@ main syllables, instead of the usual eight.)\\
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5676,8 +5676,8 @@ gone.\\
   0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&(he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -5784,8 +5784,8 @@ sight-desirous.\\
   &&&\\
   &&vaa|ca&uvaaca\\
   &&&= {\dn uvaaca}\\
-  &&&= (he/she/it) said\\
-  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&= \uvaaca\\
+  &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
   % ----------------------------------------------------------------------------
   \hline
