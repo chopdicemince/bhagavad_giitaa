@@ -1331,8 +1331,8 @@ will be free from non-grace.\\
   &&'pya|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&tra&atra = {\dn atra} = here\\
-  &&&\note{\adverb, \noun, \indeclinable}\\
+  &&tra&atra = {\dn atra} = \atra\\
+  &&&\noteatra\\
   &&&\\
   &{\dn mohitaa.h}&mo|hi|taa\h{aa}&deceived\\
   &&&\note{\adjective, \male, \plural}\\

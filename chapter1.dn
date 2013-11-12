@@ -294,8 +294,8 @@ Here are warriors---great-archers, similar to Bhiima and Arjuna---at
 the fight: Yuyudhaana and Viraata, and Drupada, a great warrior.\\
 
 \begin{tabular}{llll}
-  1a&{\dn atra}&a|tra&here\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn atra}&a|tra&\atra\\
+  &&&\noteatra\\
   &&&\\
   &{\dn "suuraamahe.svaasaa}&"suu|raa|&"suuraa.h\\
   &&&= {\dn "suuraa.h}\\
@@ -1814,8 +1814,8 @@ war (with) a preferred wish.\\
   &&&\\
   &&'tra&atra\\
   &&&= {\dn atra}\\
-  &&&= here\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \atra\\
+  &&&\noteatra\\
   &&&\\
   &{\dn samaagataa.h}&\multicolumn{2}{l}{sa|maa|ga|taa\h{aa}}\\
   &&&\\
