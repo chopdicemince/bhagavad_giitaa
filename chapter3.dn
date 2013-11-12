@@ -2677,8 +2677,8 @@ do?\\
   &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go; achieve; escape\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\

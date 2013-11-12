@@ -585,8 +585,8 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&&\noteprakRtim\\
   &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn maamikaam}&maa|mi|kaam&(?)\\
@@ -2202,8 +2202,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
 (to) a being. (Worshippers) go (to) me. Sacrificers also (go to) me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  1a&{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn devavrataa}&de|va|&deva.h\\
@@ -2230,8 +2230,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
   &&nyaan|ti&{\dn yaanti}\\
-  &&&= (they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&= \yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn pit.rvrataa.h}&pi|t.r|&{\dn pit.r}\\
@@ -2250,8 +2250,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\notebhuutaani\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn bhuutejyaa}&bhuu|te|&bhuutam\\
@@ -2268,8 +2268,8 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  2b&{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn madyaajino.apimaam}&ma|dyaa|&mat = {\dn mat} = \mat\\
@@ -2899,8 +2899,8 @@ caste---they, also, go (on) the paramount path.\\
   &&'pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn paraa.m}&pa|raa.m&paraam\\

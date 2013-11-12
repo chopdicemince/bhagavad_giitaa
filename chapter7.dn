@@ -1997,8 +1997,8 @@ deities. (My) devotees go (to) me, also.\\
   &&&= (?) worshipper(s)\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2011,8 +2011,8 @@ deities. (My) devotees go (to) me, also.\\
   &&&\notebhaktAH\\
   &&&\note{from {\dn bhakta.h} = bhakta.h}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn maamapi}&maa|ma|&maam = {\dn maam} = \maam\\
@@ -2343,8 +2343,8 @@ stupidity, O destroying of enemies (O Arjuna).\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn sarga.h} = sarga.h}\\
   &&&\\
-  &{\dn yaanti}&yaan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn yaanti}&yaan|ti&\yaanti\\
+  &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
