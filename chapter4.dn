@@ -1725,8 +1725,8 @@ not do any (thing).\\
   &&&\notekiJcit\\
   &&&\\
   &&ka|ro|ti&{\dn karoti}\\
-  &&&= (he/she/it) does\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&= \karoti\\
+  &&&\notekaroti\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
@@ -3160,8 +3160,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&= {\dn kurute}\\
   &&&= (?) karoti\\
   &&&= {\dn karoti}\\
-  &&&= (he/she/it) does\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&= \karoti\\
+  &&&\notekaroti\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &&ju|na&arjuna\\
@@ -3203,8 +3203,8 @@ knowledge-fire does all actions (to) ash.\\
   &&ku|ru|te&{\dn kurute}\\
   &&&= (?) karoti\\
   &&&= {\dn karoti}\\
-  &&&= (he/she/it) does\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&= \karoti\\
+  &&&\notekaroti\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
