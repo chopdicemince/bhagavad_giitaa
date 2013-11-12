@@ -1440,8 +1440,8 @@ go down.\\
   &&&= up\\
   &&&\note{\adverb}\\
   &&&\\
-  &{\dn gacchanti}&gac|chan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn gacchanti}&gac|chan|ti&\gacchanti\\
+  &&&\notegacchanti\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
   &{\dn sattvasthaa}&sat|tva|&sattvam\\
@@ -1498,8 +1498,8 @@ go down.\\
   2b&{\dn adho}&a|dho&adha.h = {\dn adha.h} = down\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn gacchanti}&gac|chan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn gacchanti}&gac|chan|ti&\gacchanti\\
+  &&&\notegacchanti\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
   &{\dn taamasaa.h}&taa|ma|saa\h{aa}&\tAmasAH\\

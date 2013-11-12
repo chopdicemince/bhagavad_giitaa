@@ -2177,8 +2177,8 @@ go (to) God.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn prayaata.h} = prayaata.h}\\
   &&&\\
-  &{\dn gacchanti}&gac|chan|ti&(they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn gacchanti}&gac|chan|ti&\gacchanti\\
+  &&&\notegacchanti\\
   &&&\note{root: {\dn gam} = gam}\\
   % ----------------------------------------------------------------------------
   \hline

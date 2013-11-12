@@ -1434,8 +1434,8 @@ stains.\\
 \begin{tabular}{llll}
   2a&{\dn gacchantyapunaraav.rtti.m}&gac|chan|tya|&gacchanti\\
   &&&= {\dn gacchanti}\\
-  &&&= (they) go\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&= \gacchanti\\
+  &&&\notegacchanti\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
   &&pu|na|raa|&apuna.h\\
