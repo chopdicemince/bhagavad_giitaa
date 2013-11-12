@@ -969,8 +969,8 @@ yoked-thought-sense-action, seated on the seat, doing yoking, the self
 is virtuous.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tatraikaagra.m}&ta|trai|&tatra = {\dn tatra} = there\\
-  &&&\note{\adverb, \indeclinable}\\
+  1a&{\dn tatraikaagra.m}&ta|trai|&tatra = {\dn tatra} = \tatra\\
+  &&&\notetatra\\
   &&&\\
   &&kaa|&ekam = {\dn ekam} = one\\
   &&&\note{\noun, \neuter}\\
@@ -3584,8 +3584,8 @@ body. And (he) tries from there (to be) successful (in his two lives:
 past and current), O Kuru-son (O Arjuna).\\
 
 \begin{tabular}{llll}
-  1a&{\dn tatra}&ta|tra&there\\
-  &&&\note{\adverb, \pronoun, \noun, \indeclinable}\\
+  1a&{\dn tatra}&ta|tra&\tatra\\
+  &&&\notetatra\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\

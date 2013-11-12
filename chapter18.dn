@@ -308,8 +308,8 @@ Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
   &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn tatra}&ta|tra&there\\
-  &&&\note{\adverb, \noun, \indeclinable}\\
+  &{\dn tatra}&ta|tra&\tatra\\
+  &&&\notetatra\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1308,8 +1308,8 @@ There, really, a female---but one who sees an actor-self only---(has)
 non-action intelligence. That man does not see---very bad mind.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tatraiva.m}&ta|trai|&tatra = {\dn tatra} = there\\
-  &&&\note{\adverb, \pronoun, \noun, \indeclinable}\\
+  1a&{\dn tatraiva.m}&ta|trai|&tatra = {\dn tatra} = \tatra\\
+  &&&\notetatra\\
   &&&\\
   &&va.m&evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}\\
@@ -6784,8 +6784,8 @@ me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatra}&ta|tra&there\\
-  &&&\note{\adverb, \pronoun, \noun, \indeclinable}\\
+  2a&{\dn tatra}&ta|tra&\tatra\\
+  &&&\notetatra\\
   &&&\\
   &{\dn "sriirvijayo}&"sriir|&"srii.h\\
   &&&= {\dn "srii.h}\\
