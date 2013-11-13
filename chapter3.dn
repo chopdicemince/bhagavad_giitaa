@@ -339,8 +339,10 @@ reach fulfillment.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn siddhi.m}&sid|dhi.m&intellect; fulfillment; skill\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  2b&{\dn siddhi.m}&sid|dhi.m&siddhim\\
+  &&&= {\dn siddhim}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &{\dn samadhigacchati}&sa|ma|dhi|gac|cha|ti&(he/she/it) surpasses; reads; reaches\\

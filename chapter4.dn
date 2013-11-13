@@ -956,8 +956,8 @@ action-born.\\
   &&&\\
   &{\dn siddhi.m}&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= fulfillment; skill; art\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   % ----------------------------------------------------------------------------
   \hline

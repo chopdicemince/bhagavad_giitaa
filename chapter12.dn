@@ -905,8 +905,8 @@ doing actions.\\
   &&&\\
   &&sid|dhi|ma|&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &&vaap|sya|si&avaapsyasi\\

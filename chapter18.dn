@@ -3941,8 +3941,8 @@ success.\\
   &&&\\
   &{\dn siddhi.m}&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -4032,8 +4032,8 @@ attains success.\\
   &&&\\
   2b&{\dn siddhi.m}&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &{\dn vindati}&vin|da|ti&\vindati\\
@@ -4285,8 +4285,8 @@ paramount success.\\
   &&&\\
   &&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &{\dn paramaa.m}&pa|ra|maa.m&paramaam\\
@@ -4324,8 +4324,8 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
 \begin{tabular}{llll}
   1a&{\dn siddhi.m}&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \siddhim\\
+  &&&\notesiddhim\\
   &&&\note{from {\dn siddhi.h} = siddhi.h}\\
   &&&\\
   &{\dn praapto}&praap|to&praapta.h\\
