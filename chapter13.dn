@@ -2486,15 +2486,15 @@ sees.\\
   2b&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
 \end{tabular}
 \newpage
@@ -2628,8 +2628,8 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   2a&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn tathaatmaanamakartaara.m}&ta|thaat|&tathaa = {\dn tathaa} = \tathaa\\
@@ -2657,8 +2657,8 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
 \end{tabular}
 \newpage

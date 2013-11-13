@@ -2502,8 +2502,8 @@ me).\\
   &&&\notemaam\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere; every time\\
@@ -2523,8 +2523,8 @@ me).\\
   &&&\notemayi\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
 \end{tabular}
 \newpage
@@ -2674,8 +2674,8 @@ paramount.\\
   1b&{\dn sama.m}&sa|ma.m&\samam\\
   &&&\notesamamneuter\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn yo.arjuna}&yo'r|&ya.h = {\dn ya.h} = \yaH\\

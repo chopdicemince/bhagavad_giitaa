@@ -418,15 +418,15 @@ one thing---he sees.\\
   2b&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\noteyaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn pa"syati}&pa|"sya|ti&(he/she/it) sees\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
+  &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
 \end{tabular}
 \newpage
