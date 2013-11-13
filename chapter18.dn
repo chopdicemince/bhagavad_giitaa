@@ -3913,8 +3913,8 @@ success.\\
   &&&\\
   1b&{\dn sa.msiddhi.m}&sa.m|sid|dhi.m&sa.msiddhim\\
   &&&= {\dn sa.msiddhim}\\
-  &&&= success\\
-  &&&\note{\noun, \female, \accusativecase}\\
+  &&&= \saMsiddhim\\
+  &&&\notesaMsiddhim\\
   &&&\note{from {\dn sa.msiddhi.h} = sa.msiddhi.h}\\
   &&&\\
   &{\dn labhate}&la|bha|te&(he/she/it) learns; attains\\

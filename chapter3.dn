@@ -1678,11 +1678,11 @@ mankind, you deserve to act.\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
   &&&\\
-  &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&samsiddhim\\
-  &&&= {\dn samsiddhim}\\
-  &&&= last thing; completion; perfection\\
-  &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from {\dn samsiddhi} = samsiddhi}\\
+  &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&sa.msiddhim\\
+  &&&= {\dn sa.msiddhim}\\
+  &&&= \saMsiddhim\\
+  &&&\notesaMsiddhim\\
+  &&&\note{from {\dn samsiddhi.h} = samsiddhi.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
