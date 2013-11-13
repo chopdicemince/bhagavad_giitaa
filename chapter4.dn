@@ -547,8 +547,9 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&= decrease; faigue; sickness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&bha|va|ti&(he/she/it) happens; is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&bha|va|ti&{\dn bhavati}\\
+  &&&= \bhavati\\
+  &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
@@ -1001,8 +1002,8 @@ action-born.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&bha|va|ti&{\dn bhavati}\\
-  &&&= (he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&= \bhavati\\
+  &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn karmajaa}&kar|ma|&karmam\\

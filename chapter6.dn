@@ -177,8 +177,8 @@ not active.\\
   2b&{\dn yogii}&yo|gii&\yogii\\
   &&&\noteyogii\\
   &&&\\
-  &{\dn bhavati}&bha|va|ti&(he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn bhavati}&bha|va|ti&\bhavati\\
+  &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn ka"scana}&ka"s|ca|na&someone; anyone\\
@@ -1460,8 +1460,8 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   &&&= \yogaH\\
   &&&\noteyogaH\\
   &&&\\
-  &{\dn bhavati}&bha|va|ti&(he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn bhavati}&bha|va|ti&\bhavati\\
+  &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn du.hkhahaa}&du.h|kha|&du.hkham\\
@@ -3530,8 +3530,8 @@ similar to this (situation).\\
   1b&{\dn kule}&ku|le&at/in/on a/the clan; community; caste\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\\
-  &{\dn bhavati}&bha|va|ti&(he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn bhavati}&bha|va|ti&\bhavati\\
+  &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn dhiimataam}&dhii|ma|taam&(?) of things wise\\
