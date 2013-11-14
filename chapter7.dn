@@ -1132,9 +1132,10 @@ changeable.\\
   &&&\\
   &&vya|yam&vyayam\\
   &&&= {\dn vyayam}\\
-  &&&= changeable\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \vyayam\\
+  &&&\notevyayam\\
   &&&\note{from {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyayam} = vyayam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2103,11 +2104,15 @@ not-changeable, and ultimate.\\
   &&&\notemama\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
-  &&vya|ya|ma|&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= not + changeable; decayable\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|ya|ma|&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= \vyayam\\
+  &&&\notevyayam\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyayam} = vyayam}\\
   &&&\\
   &&nut|ta|mam&anuttamam\\
   &&&= {\dn anuttamam}\\
@@ -2201,9 +2206,10 @@ not-changeable.\\
   &&&\\
   &&vya|yam&vyayam\\
   &&&= {\dn vyayam}\\
-  &&&= changeable; decayable\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \vyayam\\
+  &&&\notevyayam\\
   &&&\note{from {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyayam} = vyayam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

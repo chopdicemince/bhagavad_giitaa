@@ -49,11 +49,15 @@ Ik.svaaku.\\
   &&ha|ma|&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
   &&&\\
-  &&vya|yam&avyayam\\
-  &&&= {\dn avyayam}\\
-  &&&= unchangeable; undecaying; imperishable\\
-  &&&\note{\adjective, \male?, \accusativecase}\\
-  &&&\note{from {\dn avyaya.h} = avyaya.h}\\
+  &&|&a = {\dn a} = not\\
+  &&&\notea\\
+  &&&\\
+  &&vya|yam&vyayam\\
+  &&&= {\dn vyayam}\\
+  &&&= \vyayam\\
+  &&&\notevyayam\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyayam} = vyayam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1110,8 +1114,10 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   &&vya|yam&vyayam\\
   &&&= {\dn vyayam}\\
-  &&&= changeable\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \vyayam\\
+  &&&\notevyayam\\
+  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
+  &&&\note{from {\dn vyayam} = vyayam}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
