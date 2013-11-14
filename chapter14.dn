@@ -710,10 +710,9 @@ in madness.\\
   &&&= \rajas\\
   &&&\noterajas\\
   &&&\\
-  &{\dn karma.ni}&kar|ma|.ni&(?)\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn karmam} = karmam = \karmam}\\
-  &&&\notekarmam\\
+  &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
   &&&= O Arjuna\\

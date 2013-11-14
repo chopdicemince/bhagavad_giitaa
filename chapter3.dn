@@ -64,11 +64,9 @@ that is what action, in awfulness, that you command me, O K.r.s.na?\\
   &&kim|&{\dn kim} = \kim\\
   &&&\notekim\\
   &&&\\
-  &{\dn karma.ni}&kar|ma|.ni&related to action or work\\
-  &&&\note{\adjective}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn karmam} = karmam = \karmam}\\
-  &&&\notekarmam\\
+  &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn ghore}&gho|re&at/in/on awfulness; horror\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -1895,8 +1893,9 @@ to action.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn karma.ni}&kar|ma|.ni&related to action\\
-  &&&\note{\adjective}\\
+  &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1932,8 +1931,9 @@ Arjuna).\\
   &&&\\
   &{\dn karma.nyatandrita.h}&kar|ma|.nya|&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= related to action\\
-  &&&\note{\adjective}\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\

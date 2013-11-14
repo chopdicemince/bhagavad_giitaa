@@ -4138,10 +4138,9 @@ actions. Do not be a joining in your non-action.\\
 \begin{tabular}{llll}
   1a&{\dn karma.nyevaadhikaaraste}&kar|ma|.nye|&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= in action (?)\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn karmam} = karmam = \karmam}\\
-  &&&\notekarmam\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -4213,11 +4212,9 @@ actions. Do not be a joining in your non-action.\\
   &&&\\
   &&kar|ma|.ni&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= (?) in action\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn karmam} = karmam}\\
-  &&&\note{= \karmam}\\
-  &&&\notekarmam\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

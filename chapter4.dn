@@ -1485,11 +1485,9 @@ men. He is occupied with all actions done.\\
 \begin{tabular}{llll}
   1a&{\dn karma.nyakarma}&kar|ma|.nya|&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= related to action or work\\
-  &&&\note{\adjective}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn karmam} = karmam = \karmam}\\
-  &&&\notekarmam\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1514,8 +1512,9 @@ men. He is occupied with all actions done.\\
   &&&\\
   &&kar|ma|.ni&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= related to action or work\\
-  &&&\note{\adjective}\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1708,8 +1707,9 @@ not do any (thing).\\
 \begin{tabular}{llll}
   2a&{\dn karma.nyabhiprav.rtto.api}&kar|ma|.nya|&karma.ni\\
   &&&= {\dn karma.ni}\\
-  &&&= related to action or work\\
-  &&&\note{\adjective}\\
+  &&&= \karmaNi\\
+  &&&\notekarmaNi\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&bhi|pra|v.rt|to|&abhiprav.rtta\\
   &&&= {\dn abhiprav.rtta}\\
