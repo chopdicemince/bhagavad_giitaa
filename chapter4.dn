@@ -954,9 +954,9 @@ action-born.\\
   &&&\\
   &{\dn karma.naa.m}&kar|ma|.naa.m&karma.naam\\
   &&&= {\dn karma.naam}\\
-  &&&= of actions; works\\
-  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&= \karmaNAm\\
+  &&&\notekarmaNAm\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn siddhi.m}&sid|dhi.m&siddhim\\
   &&&= {\dn siddhim}\\
