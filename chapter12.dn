@@ -1675,9 +1675,10 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
   &&&= satisfied\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn yena}&ye|na&(?) using/by one/whom/what\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  &{\dn yena}&ye|na&\yena\\
+  &&&\noteyena\\
   &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\note{from {\dn yat} = yat}\\
   &&&\\
   &{\dn kenacit}&ke|na|cit&using/by a/the person/thing\\
   &&&\note{\adverb, \indeclinable}\\

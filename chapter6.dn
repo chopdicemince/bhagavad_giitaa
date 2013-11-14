@@ -483,9 +483,10 @@ an enemy.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yenaatmaivaatmanaa}&ye|naat|&yena = {\dn yena} = (?) using/by one/whom/what\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  1b&{\dn yenaatmaivaatmanaa}&ye|naat|&yena = {\dn yena} = \yena\\
+  &&&\noteyena\\
   &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\note{from {\dn yat} = yat}\\
   &&&\\
   &&mai|&aatmaa = {\dn aatmaa} = \aatmaa\\
   &&&\noteaatmaa\\

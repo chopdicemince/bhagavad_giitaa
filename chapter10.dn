@@ -849,9 +849,10 @@ friendliness-previous, I give that intelligence-yoking (to) those
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yena}&ye|na&(?) using/by one/whom/what\\
-  &&&\note{\pronoun, \male, \instrumentalcase}\\
+  2b&{\dn yena}&ye|na&\yena\\
+  &&&\noteyena\\
   &&&\note{from {\dn ya.h} = ya.h}\\
+  &&&\note{from {\dn yat} = yat}\\
   &&&\\
   &{\dn maamupayaanti}&maa|mu|&maam = {\dn maam} = \maam\\
   &&&\notemaam\\
