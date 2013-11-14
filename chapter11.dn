@@ -3462,8 +3462,9 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn labhasva}&la|bha|sva&(?)\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{{\dn labhate} = labhate = (he/she/it) learns; gets}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn labhate} = labhate = \labhate}\\
+  &&&\notelabhate\\
   &&&\note{root: {\dn labh} = labh}\\
 \end{tabular}
 \newpage

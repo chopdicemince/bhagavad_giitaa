@@ -1893,8 +1893,8 @@ there, he gets those desires done, using me, really, surely.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn labhate}&la|bha|te&(he/she/it) learns; gets\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  2a&{\dn labhate}&la|bha|te&\labhate\\
+  &&&\notelabhate\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
   &{\dn ca}&ca&\ca\\

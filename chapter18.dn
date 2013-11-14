@@ -698,8 +698,9 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn labhet}&la|bhet&(?)\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{{\dn labhate} = labhate = (he/she/it) learns; attains}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn labhate} = labhate = \labhate}\\
+  &&&\notelabhate\\
   &&&\note{root: {\dn labh} = labh}\\
 \end{tabular}
 \newpage
@@ -3918,8 +3919,8 @@ success.\\
   &&&\notesaMsiddhim\\
   &&&\note{from {\dn sa.msiddhi.h} = sa.msiddhi.h}\\
   &&&\\
-  &{\dn labhate}&la|bha|te&(he/she/it) learns; attains\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn labhate}&la|bha|te&\labhate\\
+  &&&\notelabhate\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
   &{\dn nara.h}&na|ra\h{a}&\naraH\\
@@ -4726,8 +4727,8 @@ at all beings, (he) attains the paramount from-me-faith.\\
   &&&\notebhaktim\\
   &&&\note{from {\dn bhakti.h} = bhakti.h}\\
   &&&\\
-  &{\dn labhate}&la|bha|te&(he/she/it) learns; attains\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &{\dn labhate}&la|bha|te&\labhate\\
+  &&&\notelabhate\\
   &&&\note{root: {\dn labh} = labh}\\
   &&&\\
   &{\dn paraam}&pa|raam&\paraam\\
