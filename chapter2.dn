@@ -2395,8 +2395,8 @@ you do not deserve to lament.\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve; are worthy of; are able\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&= \arhasi\\
+  &&&\notearhasi\\
   &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
 \newpage
@@ -2488,8 +2488,8 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve; are worthy of; are able\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&= \arhasi\\
+  &&&\notearhasi\\
   &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
 \newpage
@@ -2578,8 +2578,8 @@ to lament.\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve; are worthy of; are able\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&= \arhasi\\
+  &&&\notearhasi\\
   &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
 \newpage
@@ -2860,8 +2860,9 @@ deserve to lament each being.\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve; are worthy of; are able\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&= \arhasi\\
+  &&&\notearhasi\\
+  &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2907,11 +2908,8 @@ in the warrior caste, and the confidence is yours).\\
   &&&\\
   &&ha|si&arhasi\\
   &&&= {\dn arhasi}\\
-  &&&= (you) deserve;\\
-  &&&are able to;\\
-  &&&are required to\\
-  &&&\note{\verbb, \presenttense,}\\
-  &&&\note{\secondperson, \singular}\\
+  &&&= \arhasi\\
+  &&&\notearhasi\\
   &&&\note{root: {\dn arh} = arh}\\
 \end{tabular}
 \newpage
