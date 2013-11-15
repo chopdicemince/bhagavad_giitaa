@@ -2977,8 +2977,8 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   &&&\\
   1b&{\dn svargadvaaramapaav.rtam}&svar|ga|&svarga.h\\
   &&&= {\dn svarga.h}\\
-  &&&= heaven\\
-  &&&\note{\noun, \male}\\
+  &&&= svargaH\\
+  &&&\notesvargaH\\
   &&&\\
   &&dvaa|ra|ma|&dvaaram\\
   &&&= {\dn dvaaram}\\
@@ -3852,8 +3852,8 @@ wealth; to movement.''\\
   &&&\\
   &{\dn svargaparaa}&svar|ga|&svarga.h\\
   &&&= {\dn svarga.h}\\
-  &&&= heaven\\
-  &&&\note{\noun, \male}\\
+  &&&= \svargaH\\
+  &&&\notesvargaH\\
   &&&\\
   &&pa|raa&highest point\\
   &&&\note{\noun, \female}\\

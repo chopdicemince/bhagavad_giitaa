@@ -1838,8 +1838,8 @@ usual eight.)\\
   &&&\\
   &{\dn svargaloka.m}&svar|ga|&svarga.h\\
   &&&= {\dn svarga.h}\\
-  &&&= heavenly\\
-  &&&\note{\adjective, \male}\\
+  &&&= \svargaH\\
+  &&&\notesvargaH\\
   &&&\\
   &&lo|ka.m&lokam\\
   &&&= {\dn lokam}\\
