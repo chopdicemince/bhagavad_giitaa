@@ -574,10 +574,10 @@ action-sticking.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn karmasa"ngena}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  2b&{\dn karmasa"ngena}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&sa"n|ge|na&{\dn sa"ngena}\\
   &&&= \saGgena\\
@@ -1200,10 +1200,10 @@ stupid stations in life.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn karmasa"ngi.su}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  1b&{\dn karmasa"ngi.su}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&sa"n|gi|.su&{\dn sa"ngi.su}\\
   &&&= (?) sa"nge.su\\
@@ -1259,9 +1259,9 @@ the fruit of passion (is) distress. Non-knowledge (is) the fruit of
 ignorance.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karma.na.h}&kar|ma|.na\h{a}&(?) of action; work; doing\\
-  &&&\note{\noun, \neuter, \genitivecase}\\
-  &&&\note{from (?) {\dn karman} = karman}\\
+  1a&{\dn karma.na.h}&kar|ma|.na\h{a}&\karmaNaH\\
+  &&&\notekarmaNaH\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn suk.rtasyaahu.h}&su|&{\dn su} = good; very\\
   &&&\note{\prefix}\\

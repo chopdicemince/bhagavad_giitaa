@@ -116,8 +116,8 @@ better.\\
   1a&{\dn sannyaasa.h}&san|nyaa|sa\h{a}&renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn karmayoga"sca}&kar|ma|&karmam = {\dn karmam} = \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmayoga"sca}&kar|ma|&karman = {\dn karman} = \karman\\
+  &&&\notekarman\\
   &&&\\
   &&yo|ga"s|&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -157,10 +157,10 @@ better.\\
   &&tu&{\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn karmasannyaasaatkarmayogo}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmasannyaasaatkarmayogo}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&san|nyaa|saat|&{\dn sannyaasaat}\\
   &&&= from renunciation; abandonment; asceticism\\
@@ -169,10 +169,10 @@ better.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  2b&&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&yo|go&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -821,8 +821,7 @@ water (as a lotus leaf is not attached to water).\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -928,10 +927,10 @@ using senses, also, followers do action, having abandoned attachment,
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= follower; magician; devotee}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn kurvanti}&kur|van|ti&(they) do\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -974,10 +973,10 @@ attached to fruit (results), is bound.\\
   1a&{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
   &&&\noteyuktaH\\
   &&&\\
-  &{\dn karmaphala.m}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmaphala.m}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
@@ -1063,7 +1062,7 @@ one anus, and one penis opening.)\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
   &&&= \karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn manasaa}&ma|na|saa&mind; spirit; intelligence\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
@@ -1154,7 +1153,7 @@ action-fruit-combination. But nature starts (these things).\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1175,10 +1174,10 @@ action-fruit-combination. But nature starts (these things).\\
   2a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn karmaphalasa.myoga.m}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmaphalasa.myoga.m}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\

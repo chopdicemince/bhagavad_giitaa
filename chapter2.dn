@@ -3577,11 +3577,17 @@ Arjuna), by which you will throw away your action bond.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn karmabandha.m}&kar|ma|ban|dha.m&action bond\\
+  2b&{\dn karmabandha.m}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
+  &&&\note{from {\dn karman} = karman}\\
+  &&&\\
+  &&ban|dha.m&bandham\\
+  &&&= {\dn bandham}\\
+  &&&= bond\\
   &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn karmabandha.h} = karmabandha.h}\\
-  &&&\note{from: \noun, \neuter, {\dn karmam} = karmam}\\
-  &&&\note{from: \noun, \male, {\dn bandha.h} = bandha.h}\\
+  &&&\note{from {\dn bandha.h} = bandha.h}\\
   &&&\\
   &{\dn prahaasyasi}&pra|haa|sya|si&(?) (you) will throw away;\\
   &&&attack;\\
@@ -3859,10 +3865,10 @@ wealth; to movement.''\\
   &&&= birth\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -4170,10 +4176,10 @@ actions. Do not be a joining in your non-action.\\
 \begin{tabular}{llll}
   2a&{\dn maa}&maa&not\\
   &&&\\
-  &{\dn karmaphalaheturbhuurmaa}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmaphalaheturbhuurmaa}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -4241,7 +4247,7 @@ non-success. This equanimity is called ``yoga.''\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4328,10 +4334,10 @@ for fruit (of their actions).\\
   &&&= lowest thing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4454,7 +4460,9 @@ action, and skill.\\
   &&&\noteyogaH\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&``action'' (?)\\
-  &&&\note{from: \noun, \neuter: {\dn karmam} = karmam = action}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn karman} = karman = \karman}\\
+  &&&\notekarman\\
   &&&\\
   &{\dn kau"salam}&kau|"sa|lam&skill; fortune; cleverness\\
   &&&\note{\noun, \neuter}
@@ -4470,9 +4478,18 @@ action, is like a sage, free from the bondage of birth. They go to a
 position of health.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karmaja.m}&kar|ma|ja.m&resulting from action (?)\\
-  &&&\note{\adjective}\\
-  &&&\note{from {\dn karmam} = karmam = action}\\
+  1a&{\dn karmaja.m}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
+  &&&\\
+  &&ja.m&jam\\
+  &&&= {\dn jam}\\
+  &&&= born\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{from {\dn ja.h} = ja.h}\\
+  &&&\note{from {\dn jam} = jam}\\
   &&&\\
   &{\dn buddhiyuktaa}&bud|dhi|&buddhi.h\\
   &&&= {\dn buddhi.h}\\

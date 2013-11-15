@@ -150,10 +150,10 @@ Abandonment of desireable actions, abandonment \dots (?)
   &&&= \sarva\\
   &&&\notesarva\\
   &&&\\
-  &&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -219,10 +219,10 @@ abandoned,'' (says) another (great mind).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  1b&{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn praahur}&praa|hur&praahu.h\\
   &&&= {\dn praahu.h}\\
@@ -253,10 +253,10 @@ abandoned,'' (says) another (great mind).\\
   &&&= \tapas\\
   &&&\notetapas\\
   &&&\\
-  &&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -391,10 +391,10 @@ purifying of great minds.\\
   &&&= \tapas\\
   &&&\notetapas\\
   &&&\\
-  &&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -476,7 +476,7 @@ Arjuna)---sure, ultimate opinion.\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -562,9 +562,8 @@ proclaimed.\\
   &&&\\
   1b&{\dn karma.no}&kar|ma|.no&karma.na.h\\
   &&&= {\dn karma.na.h}\\
-  &&&= (?) from/of a/the action; work; doing\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\ablativecase, \genitivecase}\\
+  &&&= \karmaNaH\\
+  &&&\notekarmaNaH\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn nopapadyate}&no|&na = {\dn na} = \na\\
@@ -628,8 +627,8 @@ abandoned)---that (man), having done passion abandonment---not really,
   &{\dn yatkarma}&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&kar|ma&karmam = {\dn karmam} = \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma&karman = {\dn karman} = \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -728,10 +727,10 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &{\dn yatkarma}&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -821,11 +820,10 @@ happiness---(such is) an abandoner. Goodness-having, a wise person
   &&&= happiness; goodness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -916,8 +914,7 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
   &&&= {\dn karmaa.ni}\\
   &&&= \karmANi\\
   &&&\notekarmANi\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&"se|.sa|ta\h{a}&a"se.sata.h\\
   &&&= {\dn a"se.sata.h}\\
@@ -933,10 +930,10 @@ fully. But one---an action-fruit abandoner---that abandoner, thus,
   &&stu&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn karmaphalatyaagii}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmaphalatyaagii}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -1009,9 +1006,8 @@ not of abandoners, somewhere.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
-  &{\dn karma.na.h}&kar|ma|.na\h{a}&(?) from/of action; work; doing\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\ablativecase, \genitivecase}\\
+  &{\dn karma.na.h}&kar|ma|.na\h{a}&\karmaNaH\\
+  &&&\notekarmaNaH\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
@@ -1253,11 +1249,10 @@ opposite, yes/no---these five of him \dots (?) \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1b&&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn praarabhate}&praa|ra|bha|te&(he/she/it) starts\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1512,10 +1507,10 @@ thus, (are) three-kind(s) (of) action-group.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
-  &{\dn karmacodanaa}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmacodanaa}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&co|da|naa&codanaa.h\\
   &&&= {\dn codanaa.h}\\
@@ -1531,10 +1526,10 @@ thus, (are) three-kind(s) (of) action-group.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn karteti}&kar|te|&kartaa\\
   &&&= {\dn kartaa}\\
@@ -1554,10 +1549,10 @@ thus, (are) three-kind(s) (of) action-group.\\
   &&&= kind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn karmasa"ngraha.h}&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karmasa"ngraha.h}&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&sa"n|gra|ha\h{a}&{\dn sa"ngraha.h}\\
   &&&= group\\
@@ -1579,10 +1574,10 @@ Just as (full?), hear these, also.\\
   &&&= knowledge\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1987,10 +1982,10 @@ good.\\
   &&&\note{similar: \adjective, {\dn prepsu} = prepsu}\\
   &&&\note{= desiring}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2041,10 +2036,10 @@ done with) much effort---that (action) is called passion.\\
   &&&\note{similar: \noun, \neuter, {\dn iipsanam} = iipsanam}\\
   &&&\note{= desire}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2156,10 +2151,10 @@ action (begins). What---that (action) is called ignorance.\\
   &&&\note{{\dn aarabhate} = aarabhate = (he/she/it) begins}\\
   &&&\note{root: {\dn aarabh} = aarabh}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2289,8 +2284,8 @@ be) of passion.\\
   &&&\\
   &\multicolumn{3}{l}{\dn karmaphalaprepsurlubdho}\\
   &&&\\
-  &&kar|ma|&karmam = {\dn karmam} = \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma|&karman = {\dn karman} = \karman\\
+  &&&\notekarman\\
   &&&\\
   &&pha|la|&phalam = {\dn phalam} = \phalam\\
   &&&\notephalam\\
@@ -3566,7 +3561,7 @@ self-behavior-births-strings.\\
 \begin{tabular}{llll}
   2a&{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn pravibhaktaani}&pra|vi|bhak|taa|ni&divided\\
   &&&\note{\adjective, \neuter, \plural}\\
@@ -3673,10 +3668,10 @@ self-behavior-born.\\
   &&&= person in the first caste (priests)\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn svabhaavajam}&sva&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
@@ -3771,10 +3766,10 @@ action (is) self-behavior-born.\\
   &&&(warriors and governing people)\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
@@ -3823,10 +3818,10 @@ fourth caste---also, self-behavior-born.\\
   &&&= person in the third caste (farmers)\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
@@ -3853,10 +3848,10 @@ fourth caste---also, self-behavior-born.\\
   &&&= having\\
   &&&\note{\prefix, \suffix}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3933,10 +3928,10 @@ success.\\
   2a&{\dn svakarmanirata.h}&sva|&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
   &&&\\
-  &&kar|ma|&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
+  &&kar|ma|&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   &&&\\
   &&ni|ra|ta\h{a}&{\dn nirata.h}\\
   &&&= acting; working; doing\\
@@ -4113,11 +4108,10 @@ self-behavior-action.\\
   &&&= surely\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn karma}&kar|ma&karmam\\
-  &&&= {\dn karmam}\\
-  &&&= \karmam\\
-  &&&\notekarmam\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn karma}&kar|ma&karman\\
+  &&&= {\dn karman}\\
+  &&&= \karman\\
+  &&&\notekarman\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4157,8 +4151,8 @@ abandoned), like (just as) fire (is) covered by smoke.\\
   &&&= born\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&\karmam\\
-  &&&\notekarmam\\
+  &{\dn karma}&kar|ma&\karman\\
+  &&&\notekarman\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   &&&= O Arjuna\\
@@ -4837,8 +4831,7 @@ person) attains the eternal, non-changeable place.\\
   &&&= {\dn karmaa.ni}\\
   &&&= \karmANi\\
   &&&\notekarmANi\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
@@ -4924,7 +4917,7 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
   &&kar|maa|.ni&{\dn karmaa.ni}\\
   &&&= \karmANi\\
   &&&\notekarmANi\\
-  &&&\note{from {\dn karmam} = karmam}\\
+  &&&\note{from {\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
