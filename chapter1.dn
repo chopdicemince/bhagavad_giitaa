@@ -221,9 +221,9 @@ wise student of you.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&taa.m&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = this}\\
+  &&taa.m&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &{\dn paa.n.duputraa.naamaacaarya}&paa.n|.du|&paa.n.du\\
   &&&= {\dn paa.n.du}\\
@@ -1688,8 +1688,8 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
   &&yaa|va|&yaavat = {\dn yaavat} = while\\
   &&&\note{\conjunction, \indeclinable}\\
   &&&\\
-  &&de|taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&de|taan|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&ni|riik|.se|&(?)\\
@@ -2000,8 +2000,8 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&&\\
   &&taan|&etaan\\
   &&&= {\dn etaan}\\
-  &&&= these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&&= \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2774,8 +2774,8 @@ Madhu killing (O K.r.s.na).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etaanna}&e|taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  2a&{\dn etaanna}&e|taan|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&na&not\\
@@ -2943,8 +2943,8 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &&taa|naa|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&taa|naa|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&ta|taa|yi|na\h{a}&aatataayina.h\\

@@ -1611,9 +1611,8 @@ attains non-(death).\\
   &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
-  &&taa|na|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural}\\
-  &&&\note{\accusativecase}\\
+  &&taa|na|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
   &&tii|tya&atiitya\\
@@ -1727,8 +1726,8 @@ three strings?\\
   &&&\noteguNAn\\
   &&&\note{from {\dn gu.na.h} = gu.na.h}\\
   &&&\\
-  &&taa|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&taa|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
 \end{tabular}
 \newpage
@@ -1765,8 +1764,8 @@ three strings?\\
   &&cai|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&taa.m|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&taa.m|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2215,8 +2214,8 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
   &&&= (?) gone; passed through\\
   &&&\note{\adjective(?)}\\
   &&&\\
-  &&taan|&etaan = {\dn etaan} = these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \accusativecase}\\
+  &&taan|&etaan = {\dn etaan} = \etaan\\
+  &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
