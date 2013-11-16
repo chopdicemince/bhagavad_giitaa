@@ -846,12 +846,12 @@ Bhiima-protected.\\
 
 (Duryodhana said to the warriors:)\\
 
-At the equinox and solstice points (at the main points), and at all
-places, just as part-steadfast---really, protect Bhii.sma, you all,
-really, surely.\\
+At all main points---and, properly, part-steadfast---really, protect
+Bhii.sma, O you all, really, surely.\\
 
 \begin{tabular}{llll}
   1a&{\dn ayane.su}&a|ya|ne|.su&at/in/on the equinox and solstice points\\
+  &&&= at/in/on the main points\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn ayanam} = ayanam}\\
   &&&\\
@@ -883,7 +883,7 @@ really, surely.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhii.smamevaabhirak.santu}&bhii.s|ma|&bhii.smam\\
+  2a&{\dn bhii.smamevaabhirak.santu}&bhii|.sma|&bhii.smam\\
   &&&= {\dn bhii.smam}\\
   &&&= Bhii.sma\\
   &&&\note{\noun, \male, \accusativecase}\\
@@ -892,16 +892,17 @@ really, surely.\\
   &&me|vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&bhi|rak|.san|tu&abhirak.santu\\
+  &&bhi|ra|k.san|tu&abhirak.santu\\
   &&&= {\dn abhirak.santu}\\
   &&&= (you) guard; preserve; protect\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \plural}\\
+  &&&\note{\verbb, \imperativemood, \thirdperson, \plural}\\
   &&&\note{root: {\dn abhirak.s} = abhirak.s}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn bhavanta.h}&bha|van|ta\h{a}&you\\
+  2b&{\dn bhavanta.h}&bha|van|ta\h{a}&(O) you\\
   &&&\note{\pronoun, \secondperson, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
   &{\dn sarva}&sar|va&\sarva\\
