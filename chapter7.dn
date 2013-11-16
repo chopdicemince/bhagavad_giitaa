@@ -1804,13 +1804,15 @@ him)---really, I distribute that non-shaking faith.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasya}&ta|sya&of that/of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  2a&{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
-  &{\dn tasyaacalaa.m}&ta|syaa|&tasya = {\dn tasya} = of that/of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &{\dn tasyaacalaa.m}&ta|syaa|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1875,9 +1877,10 @@ there, he gets those desires done, using me, really, surely.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&sta|syaa|&tasya = {\dn tasya} = of that/of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  1b&&sta|syaa|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&raa|dha|na|mii|&aaraadhanam\\
   &&&= {\dn aaraadhanam}\\

@@ -1069,11 +1069,9 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasya}&ta|sya&of that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  2a&{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{or}\\
-  &&&\note{\pronoun, \thirdperson, \neuter, \genitivecase}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn kartaaramapi}&kar|taa|ra|ma|&kartaaram\\

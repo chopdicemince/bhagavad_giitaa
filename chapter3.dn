@@ -1458,11 +1458,10 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&sta|sya&tasya\\
-  &&&= {\dn tasya}\\
-  &&&= of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  2b&&sta|sya&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn kaarya.m}&kaar|ya.m&function; act; deed\\
   &&&\note{\noun, \neuter}\\
@@ -1492,8 +1491,10 @@ people---there is no meaning.\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &{\dn tasya}&ta|sya&of him (his)\\
-  &&&\note{\pronoun, \genitivecase}\\
+  &{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn k.rtenaartho}&k.r|te|naar|&k.rtena\\
   &&&= {\dn k.rtena}\\

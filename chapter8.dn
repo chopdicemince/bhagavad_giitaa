@@ -1271,9 +1271,10 @@ person.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that; of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\

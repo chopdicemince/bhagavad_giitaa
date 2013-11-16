@@ -245,9 +245,10 @@ peace is viewed as the cause.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn aaruu.dha.h} = aaruu.dha.h}\\
   &&&\\
-  &&ta|syai|&tasya = {\dn tasya} = of that; of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&ta|syai|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -477,9 +478,10 @@ an enemy.\\
   &&&\noteAtmanaH\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&sya&tasya = {\dn tasya} = of that; of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2531,9 +2533,10 @@ me).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that; of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \thirdperson, \genitivecase}\\
+  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
@@ -2861,10 +2864,10 @@ iron. I think the confinement of it is as if greatly (more) difficult
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = of that/him/it\\
-  &&&\note{\pronoun, \thirdperson, \genitivecase}\\
-  &&&\note{from: \male, {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{from: \neuter, {\dn tat} = tat = \tat}\\
+  2a&{\dn tasyaaha.m}&ta|syaa|&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&ha.m&aham = {\dn aham} = \aham\\
   &&&\noteaham\\
@@ -3375,9 +3378,10 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   1b&{\dn vinaa"sastasya}&vi|naa|"sa|sta|&vinaa"sasa.h = {\dn vinaa"sasa.h} = decay; death; destruction\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sya&tasya = {\dn tasya} = of that; of him (his)\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&sya&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

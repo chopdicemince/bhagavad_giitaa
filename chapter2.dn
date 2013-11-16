@@ -5022,10 +5022,10 @@ complete.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tasya}&ta|sya&his/its\\
-  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
-  &&&\note{male: from {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{neuter: from {\dn tat} = tat = \tat}\\
+  2b&{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \neuter}\\
@@ -5098,10 +5098,10 @@ knowledge is complete.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&sta|sya&tasya = {\dn tasya} = his/its\\
-  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
-  &&&\note{male: from {\dn sa.h} = sa.h = \saH}\\
-  &&&\note{neuter: from {\dn tat} = tat = \tat}\\
+  2b&&sta|sya&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \female}\\
@@ -5288,10 +5288,10 @@ complete.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tasya}&ta|sya&his/its\\
-  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
-  &&&\note{male: from {\dn sa.h} = sa.h}\\
-  &&&\note{neuter: from {\dn tat} = tat}\\
+  2b&{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
+  &&&\note{from {\dn tat} = tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
   &&&\note{\noun, \female}\\
@@ -5839,12 +5839,10 @@ restrained---his knowledge is complete.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2a&&sta|sya&tasya\\
-  &&&= {\dn tasya}\\
-  &&&= his/its\\
-  &&&\note{\pronoun, \thirdperson, \male, \neuter, \genitivecase}\\
-  &&&\note{\male, from {\dn sa.h} = sa.h}\\
-  &&&\note{\neuter, from {\dn tat} = tat or {\dn tad} = tad}\\
+  2a&&sta|sya&tasya = {\dn tasya} = \tasya\\
+  &&&\notetasya\\
+  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&intelligence; understanding;\\
   &&&\quad knowledge\\

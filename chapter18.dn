@@ -583,9 +583,10 @@ proclaimed.\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn moha.h} = moha.h}\\
   &&&\\
-  &&ta|sya&{\dn tasya} = of that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &&ta|sya&{\dn tasya} = \tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn parityaagastaamasa.h}&pa|ri|tyaa|ga|&parityaaga.h\\
   &&&= {\dn parityaaga.h}\\
@@ -1288,9 +1289,10 @@ opposite, yes/no---these five of him \dots (?) \dots\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn tasya}&ta|sya&of that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \genitivecase}\\
+  &{\dn tasya}&ta|sya&\tasya\\
+  &&&\notetasya\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn hetava.h}&he|ta|va\h{a}&(?)\\
 \end{tabular}
