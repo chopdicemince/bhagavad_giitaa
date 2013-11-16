@@ -711,9 +711,8 @@ war-wise.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madarthe}&ma|dar|&me = {\dn me} = for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \locativecase}\\
+  1b&{\dn madarthe}&ma|dar|&me = {\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&the&arthe\\
