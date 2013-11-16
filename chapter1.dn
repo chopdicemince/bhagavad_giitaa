@@ -859,8 +859,9 @@ really, surely.\\
   &&&\noteca\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
-  &&&\notesarveSu{\male}\\
+  &&&\notesarveSu\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\note{from {\dn sarvam} = sarvam}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

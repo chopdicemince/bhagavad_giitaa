@@ -1795,7 +1795,8 @@ passion.\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
-  &&&\notesarveSu{\neuter}\\
+  &&&\notesarveSu\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
@@ -4705,7 +4706,8 @@ at all beings, (he) attains the paramount from-me-faith.\\
   &&&\notesamaH\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
-  &&&\notesarveSu{\neuter}\\
+  &&&\notesarveSu\\
+  &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&at/in/on beings; spirits; men; creatures\\
