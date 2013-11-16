@@ -792,9 +792,10 @@ friendliness-previous, I give that intelligence-yoking (to) those
 (who) approach me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those/them\\
-  &&&\note{\pronoun, \thirdperson, \plural, \genitivecase}\\
+  1a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
+  &&&\noteteSAm\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn satatayuktaanaa.m}&sa|ta|ta|&{\dn satata}\\
   &&&= eternal\\
@@ -881,9 +882,10 @@ knowledge-lamp-brightness.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn te.saamevaanukampaarthamahamaj~naanaja.mtama.h}\\
   &&&\\
-  &&te|.saa|me|&te.saam = {\dn te.saam} = of those/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
+  &&te|.saa|me|&te.saam = {\dn te.saam} = \teSAm\\
+  &&&\noteteSAm\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\

@@ -1345,11 +1345,10 @@ one (God).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te.saamaadityavajj~naana.m}&te|.saa|maa|&te.saam\\
-  &&&= {\dn te.saam}\\
-  &&&= of those/them (their)\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
+  2a&{\dn te.saamaadityavajj~naana.m}&te|.saa|maa|&te.saam = {\dn te.saam} = \teSAm\\
+  &&&\noteteSAm\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&di|tya|&aaditya.h\\
   &&&= {\dn aaditya.h}\\

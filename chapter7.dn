@@ -1404,11 +1404,10 @@ devotion is the best. Surely, greatly, I (am) a friend of a person of
 knowledge, and he (is) a friend of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn te.saa.m}&te|.saa.m&te.saam\\
-  &&&= {\dn te.saam}\\
-  &&&= of those; of them (their)\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
+  1a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
+  &&&\noteteSAm\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn j~naanii}&j\~{}naa|nii&\jJAnI\\
   &&&\notejJAnI\\
@@ -1953,9 +1952,10 @@ deities. (My) devotees go (to) me, also.\\
   &&&= \phalam\\
   &&&\notephalam\\
   &&&\\
-  &{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = of those; of them (their)\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
+  &{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
+  &&&\noteteSAm\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn tat} = tat = \tat}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
