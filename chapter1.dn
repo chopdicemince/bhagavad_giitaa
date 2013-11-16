@@ -994,9 +994,9 @@ shell powerfully.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 13}
 
-From there, conch shells and a kettle drum and small drums, a drum,
-and copies of a kind of musical instrument---suddenly, really, were
-struck. That sound was tumultuous.\\
+From that, conch shells and a kettle drum and small drums, a drum, and
+copies of a kind of musical instrument---really, were struck, by using
+force. That sound was tumultuous.\\
 
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
@@ -1041,12 +1041,14 @@ struck. That sound was tumultuous.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sahasaivaabhyahanyanta}&sa|ha|sai|&sahasaa\\
+  2a&\multicolumn{3}{l}{\dn sahasaivaabhyahanyanta}\\
+  &&&\\
+  &&sa|ha|sai|&sahasaa\\
   &&&= {\dn sahasaa}\\
-  &&&= (?) by using force; suddenly\\
+  &&&= by using force; suddenly\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\adverb, \indeclinable}\\
   &&&\note{from {\dn sahas} = sahas}\\
-  &&&\note{\indeclinable}\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1062,7 +1064,11 @@ struck. That sound was tumultuous.\\
   2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &{\dn "sabdastumulo.abhavat}&"sab|da|stu|&"sabda.h = {\dn "sabda.h} = sound\\
+  &\multicolumn{3}{l}{\dn "sabdastumulo.abhavat}\\
+  &&&\\
+  &&"sab|da|stu|&"sabda.h\\
+  &&&= {\dn "sabda.h}\\
+  &&&= sound\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&mu|lo|&tumula.h\\
