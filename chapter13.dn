@@ -35,12 +35,11 @@ known, O \textkrsna.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn k.setra.m}&k.se|tra.m&k.setram = {\dn k.setram} = place\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1b&{\dn k.setra.m}&k.se|tra.m&k.setram = {\dn k.setram} = \kSetram\\
+  &&&\notekSetram\\
   &&&\\
-  &{\dn k.setraj~nameva}&k.se|tra|&k.setram = {\dn k.setram} = place\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn k.setraj~nameva}&k.se|tra|&k.setram = {\dn k.setram} = \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na|me|&j\~{}nam = {\dn j~nam} = knowing\\
   &&&\note{\adjective, \neuter}\\
@@ -143,8 +142,8 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\\
   &&k.se|tra|mi|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&tya|&iti = {\dn iti} = \iti\\
   &&&\noteiti\\
@@ -179,8 +178,8 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\\
   2b&{\dn k.setraj~na}&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na&{\dn j~na}\\
   &&&= knowing\\
@@ -210,8 +209,8 @@ has) that (has) knowledge, (in) the opinion of me.\\
 \begin{tabular}{llll}
   1a&{\dn k.setraj~na.m}&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na.m&j\~{}nam\\
   &&&= {\dn j~nam}\\
@@ -256,13 +255,13 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na|yor|&j\~{}nayo.h\\
   &&&= {\dn j~nayo.h}\\
@@ -314,8 +313,8 @@ me.\\
   1a&{\dn tatk.setra.m}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&k.se|tra.m&k.setram = {\dn k.setram} = place\\
-  &&&\note{\noun, \neuter}\\
+  &&k.se|tra.m&k.setram = {\dn k.setram} = \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &{\dn yacca}&yac|&yat = {\dn yat} = \yat\\
   &&&\noteyat\\
@@ -624,8 +623,8 @@ said.\\
   &&&\\
   &&k.se|tra.m&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &{\dn samaasena}&sa|maa|se|na&by using joining\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -1643,8 +1642,8 @@ from-be-behavior.\\
   &&&\\
   &{\dn k.setra.m}&k.se|tra.m&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\notetathaa\\
@@ -2375,13 +2374,13 @@ the place(-and-the)-place-know(er) yoking. Know that, O Bharata-bull
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na|&{\dn j~na.h}\\
   &&&= knowing\\
@@ -2968,9 +2967,8 @@ Arjuna).\\
 \begin{tabular}{llll}
   2a&{\dn k.setra.m}&k.se|tra.m&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &{\dn k.setrii}&k.se|trii&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn k.setram} = k.setram}\\
@@ -3012,13 +3010,13 @@ paramount (place).\\
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&k.se|tra|&k.setram\\
   &&&= {\dn k.setram}\\
-  &&&= place\\
-  &&&\note{\noun, \neuter}\\
+  &&&= \kSetram\\
+  &&&\notekSetram\\
   &&&\\
   &&j\~{}na|yo|re|&j\~{}nayo.h\\
   &&&= {\dn j~nayo.h}\\
