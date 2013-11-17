@@ -1174,8 +1174,10 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
 \begin{tabular}{llll}
   1a&{\dn satata.m}&sa|ta|ta.m&satatam\\
   &&&= {\dn satatam}\\
-  &&&= always\\
-  &&&\note{\adverb}\\
+  &&&= \satatam\\
+  &&&\notesatatam\\
+  &&&\note{from {\dn satatam} = satatam}\\
+  &&&\note{from {\dn satata.h} = satata.h}\\
   &&&\\
   &{\dn kiirtayanto}&kiir|ta|yan|to&kiirtayanta.h\\
   &&&= {\dn kiirtayanta.h}\\

@@ -823,8 +823,10 @@ and without possessions.\\
   &&&\\
   &{\dn satatamaatmaana.m}&sa|ta|ta|&satatam\\
   &&&= {\dn satatam}\\
-  &&&= always\\
-  &&&\note{\adverb}\\
+  &&&= \satatam\\
+  &&&\notesatatam\\
+  &&&\note{from {\dn satatam} = satatam}\\
+  &&&\note{from {\dn satata.h} = satata.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
