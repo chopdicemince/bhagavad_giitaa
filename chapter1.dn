@@ -1459,9 +1459,11 @@ arm---(they) blew conch shells separately, separately [sic].\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 19}
 
+\saJjayasaidtodhRtarASTra\\
+
 That sound (of the conch shells) divided the hearts of the sons of
-Dh.r.taraa.s.tra, the sky, and the earth, and really was a resounding
-tumult.\\
+Dh.r.taraa.s.tra, the sky, and the earth, and really (was) a
+resounding tumult.\\
 
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
@@ -1472,7 +1474,7 @@ tumult.\\
   &&&= sound\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa.s|.traa|.naa.m}\\
+  &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa|.naa.m}\\
   &&&\\
   &&&of sons of Dh.r.taraa.s.tra\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
@@ -1516,14 +1518,19 @@ tumult.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tumulo.abhyanunaadayan}&tu|mu|lo|&tumulam\\
+  2b&\multicolumn{3}{l}{\dn tumulo.abhyanunaadayan}\\
+  &&&\\
+  &&tu|mu|lo|&tumulam\\
   &&&= {\dn tumulam}\\
   &&&= tumult\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&'bhya|nu|naa|da|yan&(?)\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson,}\\
-  &&&\note{\singular, {\dn nadayati} = nadayati}\\
+  &&'bhya|nu|naa|da|yan&abhyanunaadayan\\
+  &&&= {\dn abhyanunaadayan}\\
+  &&&= (?)\\
+  &&&\note{similar:}\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{{\dn nadayati} = nadayati}\\
   &&&\note{= (he/she/it) resounds; vibrates}\\
   &&&\note{root: {\dn nad} = nad}\\
 \end{tabular}
