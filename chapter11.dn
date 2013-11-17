@@ -247,8 +247,8 @@ O ultimate-man (O \textkrsna).\\
   &&&\\
   &&chaa|mi&icchaami\\
   &&&= {\dn icchaami}\\
-  &&&= (I) wish; desire; like\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&= \icchaami\\
+  &&&\noteicchaami\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
   &{\dn te}&te&\teyou\\
@@ -3264,8 +3264,8 @@ instead of the usual eight.)\\
   &&&\\
   &&chaa|mi&icchaami\\
   &&&= {\dn icchaami}\\
-  &&&= (I) wish; desire; like\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&= \icchaami\\
+  &&&\noteicchaami\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
   &{\dn bhavantamaadya.m}&bha|van|ta|maa|&bhavantam\\
@@ -5065,8 +5065,8 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn icchaami}&ic|chaa|mi&(I) wish; desire; like\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  1b&{\dn icchaami}&ic|chaa|mi&\icchaami\\
+  &&&\noteicchaami\\
   &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
