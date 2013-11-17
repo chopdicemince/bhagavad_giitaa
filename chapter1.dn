@@ -1,6 +1,6 @@
 \chapter*{Chapter 1}
 
-Summary: Sa\~{}njaya ({\dn sa~njaya}) tells King D.rtaraa.s.tra ({\dn
+Summary: \textsanjaya\ ({\dn sa~njaya}) tells King D.rtaraa.s.tra ({\dn
   d.rtaraa.s.tra}) what is happening on the battlefield, including a
 conversation between Prince Arjuna ({\dn arjuna}) and Lord K.r.s.na
 ({\dn k.r.s.na}). Prince Arjuna sees relatives on the battlefield and
@@ -10,7 +10,7 @@ The main characters are:
 
 \begin{itemize}
 
-\item Sa\~{}njaya is a secretary of King D.rtaraa.s.tra.
+\item \textsanjaya\ is a secretary of King D.rtaraa.s.tra.
 
 \item D.rtaraa.s.tra was the son of king, and he had a brother named
   Paa.n.du ({\dn paa.n.du}). D.rtaraa.s.tra was blind from birth, so
@@ -38,11 +38,11 @@ The main characters are:
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 1}
 
-(King) \textdhrtaraastra\ said (to Sa\~{}njaya):\\
+(King) \textdhrtaraastra\ said (to \textsanjaya):\\
 
 At the virtue place---at the Kuru place---together, wanting to fight,
 (are) my (sons) and the Paa.n.davas. Really, what did they do, O
-Sa\~{}njaya?\\
+\textsanjaya?\\
 
 \begin{tabular}{llll}
   0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&\textdhrtaraastra\\
@@ -117,7 +117,7 @@ Sa\~{}njaya?\\
   &&&\note{\verbb, \pasttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn sa~njaya}&sa\~{}n|ja|ya&O Sa\~{}njaya\\
+  &{\dn sa~njaya}&sa\~{}n|ja|ya&O \textsanjaya\\
   &&&\note{\noun, \proper, \male, \vocativecase}\\
   &&&\note{from {\dn sa~njaya.h} = sa~njaya.h}\\
 \end{tabular}
@@ -125,7 +125,7 @@ Sa\~{}njaya?\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 2}
 
-Sa\~{}njaya said (to King \textdhrtaraastra):\\
+\textsanjaya\ said (to King \textdhrtaraastra):\\
 
 But, having seen the Paa.n.dava army arranged, Duryodhana---the
 king---then said this group of words (to) the nearby teacher (Dro.na):
@@ -1885,7 +1885,7 @@ war (with) a preferred wish.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 24}
 
-Sa\~{}njaya said (to King \textdhrtaraastra):\\
+\textsanjaya\ said (to King \textdhrtaraastra):\\
 
 Really, (these words were) said to K.r.s.na by Arjuna, O descendant of
 Bharata (O King \textdhrtaraastra), in the middle of the two armies,
@@ -3823,7 +3823,7 @@ for me, is more comfortable.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 46}
 
-Sa\~{}njaya said (to King \textdhrtaraastra):\\
+\textsanjaya\ said (to King \textdhrtaraastra):\\
 
 Really, having said (these things), Arjuna, on the battlefield, in the
 chariot middle part, enters, let(ting) go (of) an arrow and
