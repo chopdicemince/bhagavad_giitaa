@@ -980,8 +980,8 @@ shell powerfully.\\
   &&&\\
   2b&{\dn "sa"nkha.m}&"sa"n|kha.m&"sa"nkham\\
   &&&= {\dn "sa"nkham}\\
-  &&&= conch shell\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \zaGkham\\
+  &&&\notezaGkham\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&(?)\\
@@ -1214,10 +1214,11 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
   &&&= \mahaan\\
   &&&\notemahaan\\
   &&&\\
-  &&"sa"n|kha.m&"sa"nkha.m\\
-  &&&= {\dn "sa"nkha.m}\\
-  &&&= conch shell\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&"sa"n|kha.m&"sa"nkham\\
+  &&&= {\dn "sa"nkham}\\
+  &&&= \zaGkham\\
+  &&&\notezaGkham\\
+  &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
