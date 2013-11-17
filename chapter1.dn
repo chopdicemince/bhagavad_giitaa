@@ -1305,10 +1305,12 @@ Sugho.sa and Ma.nipu.spaka.\\
 \section*{Chapter 1, Verse 17}
 
 And the king of Kaa"sii, a paramount archer;\\
-and "Sikha.n.dii, a great warrior;\\
+
+and "Sikha.n.dii, a mighty warrior;\\
+
 Dh.r.s.tadyumna (a son of King Drupada) and Viraa.ta (a prince who helped the Paa.n.davas);\\
-and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
-\dots\\
+
+and Saatyaki (the charioteer of Lord K.r.s.na), (who is) not-defeated;\dots\\
 
 \begin{tabular}{llll}
   1a&{\dn kaa"sya"sca}&kaa|"sya"s|&kaa"sya.h\\
@@ -1319,12 +1321,12 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn parame.svaasa.h}&pa|ra|me.s|&parama.h\\
+  &{\dn parame.svaasa.h}&pa|ra|me|&parama.h\\
   &&&= {\dn parama.h}\\
   &&&= \paramaH\\
   &&&\noteparamaH\\
   &&&\\
-  &&vaa|sa\h{a}&i.svaasa.h\\
+  &&s.vaa|sa\h{a}&i.svaasa.h\\
   &&&= {\dn i.svaasa.h}\\
   &&&= bow; archer; warrior\\
   &&&\note{\noun, \male}\\
@@ -1332,7 +1334,7 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
   \hline
   &&&\\
   1b&{\dn "sikha.n.dii}&"si|kha.n|.dii&"Sikha.n.dii\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1350,15 +1352,15 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dh.r.s.tadyumno}&dh.r.s|.ta|dyum|no&dh.r.s.tadyumna.h\\
+  2a&{\dn dh.r.s.tadyumno}&dh.r|.s.ta|dyum|no&dh.r.s.tadyumna.h\\
   &&&= {\dn dh.r.s.tadyumna.h}\\
   &&&= Dh.r.s.tadyumna\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -1368,7 +1370,7 @@ and Saatyaki (the charioteer of Lord K.r.s.na), who is not defeated;\\
   2b&{\dn saatyaki"scaaparaajita.h}&saa|tya|ki"s|&saatyaki.h\\
   &&&= {\dn saatyaki.h}\\
   &&&= Saatyaki\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
