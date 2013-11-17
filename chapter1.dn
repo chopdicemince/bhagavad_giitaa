@@ -1246,12 +1246,14 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 16}
 
-Anantavijaya (a conch shell) was blown by a king: Kuntii-son
-Yudhi.s.thira. Nakula and Sahadeva blew (the two conch shells)
+Anantavijaya (a conch shell) (was blown) by a king: Kuntii-son
+Yudhi.s.thira. Nakula and Sahadeva (blew) (the two conch shells)
 Sugho.sa and Ma.nipu.spaka.\\
 
 \begin{tabular}{llll}
-  1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&Anantavijaya\\
+  1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&anantavijayam\\
+  &&&= {\dn anantavijayam}\\
+  &&&= Anantavijaya\\
   &&&= the name of a conch shell\\
   &&&\note{\noun, \male(?), \accusativecase}\\
   &&&\note{from {\dn anantavijaya.h} = anantavijaya.h}\\
@@ -1270,7 +1272,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&= son\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn yudhi.s.thira.h}&yu|dhi.s|.thi|ra\h{a}&Yudhi.s.thira\\
+  &{\dn yudhi.s.thira.h}&yu|dhi|.s.thi|ra\h{a}&Yudhi.s.thira\\
   &&&\note{\noun, \male}\\
 \end{tabular}
 \newpage
@@ -1293,7 +1295,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&= the name of a conch shell\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ma|.ni|pu.s|pa|kau&Ma.nipu.spaka\\
+  &&ma|.ni|pu|.spa|kau&Ma.nipu.spaka\\
   &&&= the name of a conch shell\\
   &&&\note{\noun, \male, \dual}\\
   &&&\note{\nominativecase, \accusativecase}\\
