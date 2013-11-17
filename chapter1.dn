@@ -38,14 +38,14 @@ The main characters are:
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 1}
 
-(King) Dh.rtaraa.s.tra said (to Sa\~{}njaya):\\
+(King) \textdhrtaraastra\ said (to Sa\~{}njaya):\\
 
 At the virtue place---at the Kuru place---together, wanting to fight,
 (are) my (sons) and the Paa.n.davas. Really, what did they do, O
 Sa\~{}njaya?\\
 
 \begin{tabular}{llll}
-  0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&Dh.rtaraa.s.tra\\
+  0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&\textdhrtaraastra\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
@@ -125,7 +125,7 @@ Sa\~{}njaya?\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 2}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+Sa\~{}njaya said (to King \textdhrtaraastra):\\
 
 But, having seen the Paa.n.dava army arranged, Duryodhana---the
 king---then said this group of words (to) the nearby teacher (Dro.na):
@@ -1390,7 +1390,7 @@ and Saatyaki (the charioteer of Lord K.r.s.na), (who is) not-defeated;\dots\\
 \saJjayasaidtodhRtarASTra\\
 
 \dots Drupada and the sons of Draupadii, altogether---O King
-(Dh.rtaraa.s.tra)---and the son of Subhadraa, (who has a) mighty
+(\textdhrtaraastra)---and the son of Subhadraa, (who has a) mighty
 arm---(they) blew conch shells separately, separately [sic].\\
 
 \begin{tabular}{llll}
@@ -1462,7 +1462,7 @@ arm---(they) blew conch shells separately, separately [sic].\\
 \saJjayasaidtodhRtarASTra\\
 
 That sound (of the conch shells) divided the hearts of the sons of
-Dh.r.taraa.s.tra, the sky, and the earth, and really (was) a
+\textdhrtaraastra, the sky, and the earth, and really (was) a
 resounding tumult.\\
 
 \begin{tabular}{llll}
@@ -1476,7 +1476,7 @@ resounding tumult.\\
   &&&\\
   &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa|.naa.m}\\
   &&&\\
-  &&&of sons of Dh.r.taraa.s.tra\\
+  &&&of sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   % ----------------------------------------------------------------------------
@@ -1540,11 +1540,11 @@ resounding tumult.\\
 
 \saJjayasaidtodhRtarASTra\\
 
-Then---having seen the sons of Dh.rtaraa.s.tra standing---the
+Then---having seen the sons of \textdhrtaraastra\ standing---the
 Paa.n.dava (Arjuna), (with) a monkey flag (representing the monkey god
 Hanumaan), started a weapon (arrow) in a fall (by using) a raised
 bow. Then, (to) K.r.s.na, (he) said this group of words, O
-mighty-master (O King Dh.rtaraa.s.tra): \dots\\
+mighty-master (O King \textdhrtaraastra): \dots\\
 
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&\atha\\
@@ -1563,7 +1563,7 @@ mighty-master (O King Dh.rtaraa.s.tra): \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa|.s.traan|&sons of Dh.rtaraa.s.tra\\
+  1b&{\dn dhaartaraa.s.traankapidhvaja.h}&dhaar|ta|raa|.s.traan|&sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
@@ -1806,7 +1806,7 @@ one (O K.r.s.na), while I see these (with) fight-desires, standing,
 \arjunasaidtokRSNa\\
 
 I, one, see \dots (?) \dots. These are here, together, (for) the
-wicked intelligence of the son (Duryodhana) of Dh.rtaraa.s.tra, in a
+wicked intelligence of the son (Duryodhana) of \textdhrtaraastra, in a
 war (with) a preferred wish.\\
 
 \begin{tabular}{llll}
@@ -1850,7 +1850,7 @@ war (with) a preferred wish.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&of a son of Dh.rtaraa.s.tra\\
+  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&of a son of \textdhrtaraastra\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
@@ -1885,10 +1885,10 @@ war (with) a preferred wish.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 24}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+Sa\~{}njaya said (to King \textdhrtaraastra):\\
 
 Really, (these words were) said to K.r.s.na by Arjuna, O descendant of
-Bharata (O King Dh.rtaraa.s.tra), in the middle of the two armies,
+Bharata (O King \textdhrtaraastra), in the middle of the two armies,
 (with K.r.s.na) having stopped the best chariot.\\
 
 \begin{tabular}{llll}
@@ -2844,7 +2844,7 @@ Madhu killing (O K.r.s.na).\\
 \arjunasaidtokRSNa\\
 
 Also, the group of three worlds of the kingdom---for the sake of what,
-now? For the sake of earth? (In) killing the sons of Dhr.taraa.s.tra,
+now? For the sake of earth? (In) killing the sons of \textdhrtaraastra,
 what pleasure (is there) for us, perhaps, O K.r.s.na?\\
 
 \begin{tabular}{llll}
@@ -2893,7 +2893,7 @@ what pleasure (is there) for us, perhaps, O K.r.s.na?\\
   &&&\note{similar: \adjective, {\dn nihata} = nihata}\\
   &&&\note{= destroyed; killed; gone}\\
   &&&\\
-  &{\dn dhaartaraa.s.traanna.h}&dhaar|ta|raa.s|.traan|&sons of Dh.rtaraa.s.tra\\
+  &{\dn dhaartaraa.s.traanna.h}&dhaar|ta|raa.s|.traan|&sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dh.rtaraa.s.tra.h} = dh.rtaraa.s.tra.h}\\
   &&&\\
@@ -2932,7 +2932,7 @@ what pleasure (is there) for us, perhaps, O K.r.s.na?\\
 \arjunasaidtokRSNa\\
 
 Evil really enters us, having killed these warriors. Therefore we are
-not worthy to kill (of killing) the sons of Dh.rtaraa.s.tra and
+not worthy to kill (of killing) the sons of \textdhrtaraastra\ and
 family. Surely, having killed, how happy may we be, O K.r.s.na?\\
 
 \begin{tabular}{llll}
@@ -3009,7 +3009,7 @@ family. Surely, having killed, how happy may we be, O K.r.s.na?\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn dhaartaraa.s.traansabaandhavaan}\\
   &&&\\
-  &&dhaar|ta|raa.s|.traan|&sons of Dh.rtaraa.s.tra\\
+  &&dhaar|ta|raa.s|.traan|&sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
@@ -3734,7 +3734,7 @@ a kingdom-happiness-strong-desire, (we are) ready to kill a family.\\
 
 \arjunasaidtokRSNa\\
 
-If the sons of Dh.rtaraa.s.tra---what---(with) weapon (in) hand---kill
+If the sons of \textdhrtaraastra---what---(with) weapon (in) hand---kill
 me, without remedy and without a weapon---on the battlefield---that,
 for me, is more comfortable.\\
 
@@ -3785,7 +3785,7 @@ for me, is more comfortable.\\
 \begin{tabular}{llll}
   2a&{\dn dhaartaraa.s.traa}&dhaar|ta|raa|.s.traa&dhaartaraa.s.traa.h\\
   &&&= {\dn dhaartaraa.s.traa.h}\\
-  &&&= sons of Dh.rtaraa.s.tra\\
+  &&&= sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn dh.rtaraa.s.tra.h} = dh.rtaraa.s.tra.h}\\
   &&&\\
@@ -3823,7 +3823,7 @@ for me, is more comfortable.\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 46}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+Sa\~{}njaya said (to King \textdhrtaraastra):\\
 
 Really, having said (these things), Arjuna, on the battlefield, in the
 chariot middle part, enters, let(ting) go (of) an arrow and

@@ -3,7 +3,7 @@
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 1}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+Sa\~{}njaya said (to King \textdhrtaraastra):\\
 
 (To) him (Arjuna), thus, filled with kindess, (with) a
 tear-plentiful-confused-eye, (with) grief---this statement (was) said
@@ -499,7 +499,7 @@ has eleven main syllables per line.)\\
 No, and this knowledge---one of two things for us is greater: if we
 conquer, or if, yes or no, they conquer us. Really, not having killed
 ones, we will certainly live. Those standing at a paramount place (on
-the front line) are the sons of Dh.rtaraa.s.tra.\\
+the front line) are the sons of \textdhrtaraastra.\\
 
 (Note: Many verses have eight main syllables per line, but this verse
 has twelve, twelve, eleven, and eleven main syllables per line.)\\
@@ -599,7 +599,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\\
   &{\dn dhaartaraa.s.traa.h}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa\h{aa}}\\
   &&&\\
-  &&&sons of Dh.rtaraa.s.tra\\
+  &&&sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
 \end{tabular}
@@ -840,7 +840,7 @@ has eleven main syllables per line.)\\
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 9}
 
-Sa\~{}njaya said (to King Dh.rtaraa.s.tra):\\
+Sa\~{}njaya said (to King \textdhrtaraastra):\\
 
 Really, having said (things) to K.r.s.na, Arjuna, (associated with)
 the killing of enemies, \dots did not fight (?) \dots, thus. (To)
@@ -922,7 +922,7 @@ K.r.s.na, having said (things), (Arjuna) became quiet, surely.\\
 
 \saJjayasaidtodhRtarASTra\\
 
-You, O descendant of Bharata (O Dh.rtaraa.s.tra)---K.r.s.na said, as
+You, O descendant of Bharata (O \textdhrtaraastra)---K.r.s.na said, as
 if comedy, in the middle of the two armies, (to despairing Arjuna),
 this group of words: \dots\\
 
@@ -950,7 +950,7 @@ this group of words: \dots\\
   &&&\noteiva\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
-  &&&= O Dh.rtaraa.s.tra\\
+  &&&= O \textdhrtaraastra\\
   &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
