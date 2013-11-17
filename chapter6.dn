@@ -85,8 +85,8 @@ not active.\\
   &&&\\
   &&nir|&agni.h\\
   &&&= {\dn agni.h}\\
-  &&&= fire; digestive fluid\\
-  &&&\note{\noun, \male}\\
+  &&&= \agniH\\
+  &&&\noteagniH\\
   &&&\\
   &&na&{\dn na} = \na\\
   &&&\notena\\

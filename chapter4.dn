@@ -1608,8 +1608,8 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&\\
   &&ni|&agni.h\\
   &&&= {\dn agni.h}\\
-  &&&= fire; digestive fluid\\
-  &&&\note{\noun, \male}\\
+  &&&= \agniH\\
+  &&&\noteagniH\\
   &&&\\
   &&dag|dha|&burned\\
   &&&\note{\adjective}\\
@@ -3142,8 +3142,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&\\
   &&nir|&agni.h\\
   &&&= {\dn agni.h}\\
-  &&&= fire; digestive fluid\\
-  &&&\note{\noun, \male}\\
+  &&&= \agniH\\
+  &&&\noteagniH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3176,8 +3176,8 @@ knowledge-fire does all actions (to) ash.\\
   &&&\\
   &&ni\h{i}&agni.h\\
   &&&= {\dn agni.h}\\
-  &&&= fire; digestive fluid\\
-  &&&\note{\noun, \male}\\
+  &&&= \agniH\\
+  &&&\noteagniH\\
   &&&\\
   &{\dn sarvakarmaa.ni}&sar|va|&sarvam\\
   &&&= {\dn sarvam}\\

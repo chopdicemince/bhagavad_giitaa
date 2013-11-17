@@ -4187,8 +4187,8 @@ instead of the usual eight.)\\
   &&&\\
   &&nir|&agni.h\\
   &&&= {\dn agni.h}\\
-  &&&= god of fire; fire; digestive fluid\\
-  &&&\note{\noun, \male}\\
+  &&&= \agniH\\
+  &&&\noteagniH\\
   &&&\\
   &&va|ru|.na\h{a}&{\dn varu.na.h}\\
   &&&= god of water\\
