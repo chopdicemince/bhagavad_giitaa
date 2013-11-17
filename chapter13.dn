@@ -863,8 +863,10 @@ desire (and) not worthy of desire, in attainments, \dots\\
 \begin{tabular}{llll}
   2a&{\dn nitya.m}&ni|tya.m&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternally\\
-  &&&\note{\adverb}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\

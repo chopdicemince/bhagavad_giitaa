@@ -1970,8 +1970,9 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{= death; disappearance; loss}\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn nitya.m}&ni|tya.m&nityam = {\dn nityam} = eternal\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &{\dn nitya.m}&ni|tya.m&nityam = {\dn nityam} = \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2435,8 +2436,9 @@ you, O great-arm (O Arjuna), do not deserve to lament this.\\
   &&&\\
   1b&{\dn nitya.m}&ni|tya.m&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternal\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
@@ -2802,9 +2804,10 @@ deserve to lament each being.\\
   &&&\\
   &{\dn nityamavadhyo.aya.m}&ni|tya|ma|&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternally; always\\
-  &&&\note{\adverb}\\
-  &&&\note{from {\dn nitya} = nitya = eternal}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\

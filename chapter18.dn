@@ -4559,8 +4559,10 @@ meditation-yoking-paramount eternally, indifference, supported,
   &&&\\
   &{\dn nitya.m}&ni|tya.m&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternally\\
-  &&&\note{\adverb}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

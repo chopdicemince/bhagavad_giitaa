@@ -498,8 +498,9 @@ thus---consider (these words).\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternal\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
   &&&\note{from {\dn nitya.h} = nitya.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2976,8 +2977,10 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&\\
   &&ni|tya|ma|&nityam\\
   &&&= {\dn nityam}\\
-  &&&= eternal\\
-  &&&\note{\adjective, \neuter}\\
+  &&&= \nityam\\
+  &&&\notenityam\\
+  &&&\note{from {\dn nityam} = nityam}\\
+  &&&\note{from {\dn nitya.h} = nitya.h}\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
