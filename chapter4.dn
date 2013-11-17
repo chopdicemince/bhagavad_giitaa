@@ -2186,8 +2186,8 @@ other sensual enjoyments.\\
   &&&= self-control; concentration; binding\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ni|.su&agni.su = {\dn agni.su} = at/in/on fires; digestive fluids\\
-  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&ni|.su&agni.su = {\dn agni.su} = \agniSu\\
+  &&&\noteagniSu\\
   &&&\note{from {\dn agni.h} = agni.h}\\
   &&&\\
   &{\dn juhvati}&juh|va|ti&(?) johaviiti\\
@@ -2229,8 +2229,9 @@ other sensual enjoyments.\\
   &&&\\
   &&ni|.su&agni.su\\
   &&&= {\dn agni.su}\\
-  &&&= at/in/on fires; digestive fluids\\
-  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&= \agniSu\\
+  &&&\noteagniSu\\
+  &&&\note{from {\dn agni.h} = agni.h}\\
   &&&\\
   &{\dn juhvati}&juh|va|ti&(?) johaviiti\\
   &&&= {\dn johaviiti}\\
