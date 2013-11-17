@@ -436,8 +436,8 @@ God-saying-words, and really, reason \dots (?) \dots, using sure
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn vividha.h} = vividha.h}\\
   &&&\\
-  &{\dn p.rthak}&p.r|thak&separately\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn p.rthak}&p.r|thak&\pRthak\\
+  &&&\notepRthak\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2685,8 +2685,8 @@ person) attains God.\\
   &&&\\
   &&p.r|thag|&p.rthak\\
   &&&= {\dn p.rthak}\\
-  &&&= separately\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \pRthak\\
+  &&&\notepRthak\\
   &&&\\
   &&bhaa|va|&bhaavam\\
   &&&= {\dn bhaavam}\\
