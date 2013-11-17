@@ -2449,8 +2449,8 @@ breaths.\\
   &&&\\
   &{\dn praa.na.m}&praa|.na.m&praa.nam\\
   &&&= {\dn praa.nam}\\
-  &&&= breath; power; life\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \prANam\\
+  &&&\noteprANam\\
   &&&\note{from {\dn praa.na.h} = praa.na.h}\\
   % ----------------------------------------------------------------------------
   \hline

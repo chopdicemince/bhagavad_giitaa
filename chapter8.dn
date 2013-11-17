@@ -896,9 +896,9 @@ syllables is eight.)\\
   &&&\\
   &{\dn praa.namaave"sya}&praa|.na|maa|&praa.nam\\
   &&&= {\dn praa.nam}\\
-  &&&= breath; wind; spirit; life\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn praa.nam} = praa.nam}\\
+  &&&= \prANam\\
+  &&&\noteprANam\\
+  &&&\note{from {\dn praa.na.h} = praa.na.h}\\
   &&&\\
   &&ve|"sya&aave"sya\\
   &&&= {\dn aave"sya}\\
@@ -1112,8 +1112,8 @@ situations) are of people remembering yoking.\\
   &&&\\
   &{\dn praa.namaasthito}&praa|.na|&praa.nam\\
   &&&= {\dn praa.nam}\\
-  &&&= breath; life; spirit\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&= \prANam\\
+  &&&\noteprANam\\
   &&&\note{from {\dn praa.na.h} = praa.na.h}\\
   % ----------------------------------------------------------------------------
   \hline
