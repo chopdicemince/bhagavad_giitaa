@@ -46,7 +46,7 @@ Sa\~{}njaya?\\
 
 \begin{tabular}{llll}
   0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&Dh.rtaraa.s.tra\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
   &&&\noteuvaaca\\
@@ -66,7 +66,7 @@ Sa\~{}njaya?\\
   &&&\\
   &{\dn kuruk.setre}&ku|ru|&{\dn kuru}\\
   &&&= Kuru\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&k.se|tre&{\dn k.setre}\\
   &&&= at/in/on a/the place\\
@@ -96,7 +96,7 @@ Sa\~{}njaya?\\
   &{\dn paa.n.davaa"scaiva}&paa.n|.da|vaa"s|&paa.n.davaa.h\\
   &&&= {\dn paa.n.davaa.h}\\
   &&&= Paa.n.davas\\
-  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\noun, \proper, \male, \plural}\\
   &&&\note{from {\dn paa.n.dava.h} = paa.n.dava.h}\\
   &&&\\
   &&cai|&ca = {\dn ca} = \ca\\
@@ -118,7 +118,7 @@ Sa\~{}njaya?\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn sa~njaya}&sa\~{}n|ja|ya&O Sa\~{}njaya\\
-  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\noun, \proper, \male, \vocativecase}\\
   &&&\note{from {\dn sa~njaya.h} = sa~njaya.h}\\
 \end{tabular}
 \newpage
@@ -168,7 +168,7 @@ king---then said this group of words (to) the nearby teacher (Dro.na):
   &&&\note{from {\dn vyuu.dha.h} = vyuu.dha.h}\\
   &&&\\
   &{\dn duryodhanastadaa}&dur|yo|dha|na|&Duryodhana\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&sta|daa&tadaa = {\dn tadaa} = then\\
   &&&\note{\adverb, \indeclinable}\\
@@ -228,7 +228,7 @@ wise student of you.\\
   &{\dn paa.n.duputraa.naamaacaarya}&paa.n|.du|&paa.n.du\\
   &&&= {\dn paa.n.du}\\
   &&&= Paa.n.du\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&pu|traa|.naa|&putraa.naam\\
   &&&= {\dn putraa.naam}\\
@@ -262,7 +262,7 @@ wise student of you.\\
   &{\dn drupadaputre.na}&dru|pa|da|&drupada\\
   &&&= {\dn drupada}\\
   &&&= Drupada\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&pu|tre|.na&putre.na\\
   &&&= {\dn putre.na}\\
@@ -317,7 +317,7 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   \hline
   &&&\\
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ju|na|&arjuna.h = {\dn arjuna.h} = \arjunaH\\
   &&&\notearjunaH\\
@@ -336,12 +336,12 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   2a&{\dn yuyudhaano}&yu|yu|dhaa|no&yuyudhaana.h\\
   &&&= {\dn yuyudhaana.h}\\
   &&&= Yuyudhaana\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn viraa.ta"sca}&vi|raa|.ta"s|&viraa.ta.h\\
   &&&= {\dn viraa.ta.h}\\
   &&&= Viraa.ta\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -351,7 +351,7 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   2b&{\dn drupada"sca}&dru|pa|da"s|&drupada.h\\
   &&&= {\dn drupada.h}\\
   &&&= Drupada\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -379,19 +379,19 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r|.s.ta|ke|tu"s|&dh.r.s.taketu.h\\
   &&&= {\dn dh.r.s.taketu.h}\\
   &&&= Dh.r.s.taketu\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ce|ki|taa|na\h{a}&cekitaana.h\\
   &&&= {\dn cekitaana.h}\\
   &&&= Cekitaana\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   1b&{\dn kaa"siraaja"sca}&kaa|"si|raa|ja"s|&kaa"siraaja.h\\
   &&&= {\dn kaa"siraaja.h}\\
   &&&= Kaa"siraaja\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -406,12 +406,12 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   2a&{\dn purujitkuntibhosja"sca}&pu|ru|jit|&purujit\\
   &&&= {\dn purujit}\\
   &&&= Purujit\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&kun|ti|bhos|ja"s|&kuntibhoja.h\\
   &&&= {\dn kuntibhoja.h}\\
   &&&= Kuntibhoja\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -421,7 +421,7 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   2b&{\dn "saibya"sca}&"sai|bya"s|&"saibya.h\\
   &&&= {\dn "saibya.h}\\
   &&&= "Saibya\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -449,7 +449,7 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.\\
   1a&{\dn yudhaamanyu"sca}&yu|dhaa|ma|nyu"s|&yudhaamanyu.h\\
   &&&= {\dn yudhaamanyu.h}\\
   &&&= Yudhaamanyu\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -462,7 +462,7 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.\\
   1b&{\dn uttamaujaa"sca}&ut|ta|mau|jaa"s|&uttamaujaa.h\\
   &&&= {\dn uttamaujaa.h}\\
   &&&= Uttamaujaa\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -616,7 +616,7 @@ Sumadatta, likewise, really (are).\\
   &&&\note{\pronoun, \male, \secondperson, \singular}\\
   &&&\\
   &&bhii|.sma"s|&bhii.sma.h = {\dn bhii.sma.h} = Bhii.sma\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -624,7 +624,7 @@ Sumadatta, likewise, really (are).\\
   &{\dn kar.na"sca}&kar|.na"s|&kar.na.h\\
   &&&= {\dn kar.na.h}\\
   &&&= Kar.na\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -634,7 +634,7 @@ Sumadatta, likewise, really (are).\\
   1b&{\dn k.rpa"sca}&k.r|pa"s|&k.rpa.h\\
   &&&= {\dn k.rpa.h}\\
   &&&= K.rpa\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -654,12 +654,12 @@ Sumadatta, likewise, really (are).\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn a"svatthaamaa}&a"s|vat|thaa|maa&A"svatthaamaa\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn vikar.na"sca}&vi|kar|.na"s|&vikar.na.h\\
   &&&= {\dn vikar.na.h}\\
   &&&= Vikar.na\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -798,7 +798,7 @@ Bhiima-protected.\\
   &{\dn bhii.smaabhirak.sitam}&bhii|.smaa|&bhii.sma.h\\
   &&&= {\dn bhii.sma.h}\\
   &&&= Bhii.sma\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&bhi|ra|k.si|tam&abhirak.sitam\\
   &&&= {\dn abhirak.sitam}\\
@@ -833,7 +833,7 @@ Bhiima-protected.\\
   &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
   &&&= Bhiima\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&bhi|ra|k.si|tam&abhirak.sitam\\
   &&&= {\dn abhirak.sitam}\\
@@ -886,7 +886,7 @@ Bhii.sma, O you all, really, surely.\\
   2a&{\dn bhii.smamevaabhirak.santu}&bhii|.sma|&bhii.smam\\
   &&&= {\dn bhii.smam}\\
   &&&= Bhii.sma\\
-  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\noun, \proper, \male, \accusativecase}\\
   &&&\note{from {\dn bhii.sma.h} = bhii.sma.h}\\
   &&&\\
   &&me|vaa|&eva = {\dn eva} = \eva\\
@@ -941,7 +941,7 @@ shell powerfully.\\
   \hline
   &&&\\
   1b&{\dn kuruv.rddha.h}&ku|ru|&Kuru\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&v.rd|dha\h{a}&v.rddha.h\\
   &&&= {\dn v.rddha.h}\\
@@ -1171,7 +1171,7 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
   &&&= {\dn paa~ncajanyam}\\
   &&&= Paa\~{}ncajanya\\
   &&&= the conch shell of K.r.s.na\\
-  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{\noun, \proper, \male(?), \accusativecase}\\
   &&&\note{from {\dn paa~ncajanya.h} = paa\~{}ncajanya.h}\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&h.r.siike"sa.h\\
@@ -1185,7 +1185,7 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
   &&&= {\dn devadattam}\\
   &&&= Devadatta\\
   &&&= the conch shell of Arjuna\\
-  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{\noun, \proper, \male(?), \accusativecase}\\
   &&&\note{from {\dn devadatta.h} = devadatta.h}\\
   &&&\\
   &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
@@ -1204,7 +1204,7 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
   &&&= {\dn pau.n.dram}\\
   &&&= Pau.n.dra\\
   &&&= the conch shell of Bhiima\\
-  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{\noun, \proper, \male(?), \accusativecase}\\
   &&&\note{from {\dn pau.n.dra.h} = pau.n.dra.h}\\
   &&&\\
   &{\dn dadhmau}&dadh|mau&(?) blew\\
@@ -1225,7 +1225,7 @@ blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
   2b&{\dn bhiimakarmaa}&bhii|ma|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
   &&&= Bhiima\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&kar|maa&karman\\
   &&&= {\dn karman}\\
@@ -1255,7 +1255,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&= {\dn anantavijayam}\\
   &&&= Anantavijaya\\
   &&&= the name of a conch shell\\
-  &&&\note{\noun, \male(?), \accusativecase}\\
+  &&&\note{\noun, \proper, \male(?), \accusativecase}\\
   &&&\note{from {\dn anantavijaya.h} = anantavijaya.h}\\
   &&&\\
   &{\dn raajaa}&raa|jaa&king\\
@@ -1265,7 +1265,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   \hline
   &&&\\
   1b&{\dn kuntiiputro}&kun|tii|&Kuntii\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&pu|tro&putra.h\\
   &&&= {\dn putra.h}\\
@@ -1273,18 +1273,18 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn yudhi.s.thira.h}&yu|dhi|.s.thi|ra\h{a}&Yudhi.s.thira\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn nakula.h}&na|ku|la\h{a}&Nakula\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn sahadeva"sca}&sa|ha|de|va"s|&sahadeva.h\\
   &&&= {\dn sahadeva.h}\\
   &&&= Sahadeva\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
@@ -1293,11 +1293,11 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&\\
   2b&{\dn sugho.sama.nipu.spakau}&su|gho|.sa|&Sugho.sa\\
   &&&= the name of a conch shell\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ma|.ni|pu|.spa|kau&Ma.nipu.spaka\\
   &&&= the name of a conch shell\\
-  &&&\note{\noun, \male, \dual}\\
+  &&&\note{\noun, \proper, \male, \dual}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
