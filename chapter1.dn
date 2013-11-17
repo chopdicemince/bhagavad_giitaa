@@ -3620,8 +3620,10 @@ person.)\\
   &&&\\
   &{\dn niyata.m}&ni|ya|ta.m&niyatam\\
   &&&= {\dn niyatam}\\
-  &&&= surely; always\\
-  &&&\note{\adverb, \indeclinable}\\
+  &&&= \niyatam\\
+  &&&\noteniyatam\\
+  &&&\note{from {\dn niyatam} = niyatam}\\
+  &&&\note{from {\dn niyata.h} = niyata.h}\\
   &&&\\
   &{\dn vaaso}&vaa|so&vaasa.h\\
   &&&= {\dn vaasa.h}\\
