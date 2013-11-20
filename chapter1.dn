@@ -1552,8 +1552,7 @@ mighty-master (O King \textdhrtaraastra): \dots\\
   &&&\\
   &{\dn vyavasthitaand.r.s.tvaa}&vya|va|sthi|taan|&{\dn vyavasthitaan}\\
   &&&= standing; steadfast\\
-  &&&\note{\adjective, \male, \plural,}\\
-  &&&\note{\accusativecase}\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vyavasthita.h} = vyavasthita.h}\\
   &&&\\
   &&d.r.s.t|vaa&{\dn d.r.s.tvaa}\\
@@ -1572,9 +1571,10 @@ mighty-master (O King \textdhrtaraastra): \dots\\
   &&&\\
   &&dhva|ja\h{a}&flag\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn prav.rtte}&pra|v.rt|te&(?) pravartate\\
   &&&= {\dn pravartate}\\
   &&&= \hesheit\ proceeded; started\\ 
@@ -1589,14 +1589,14 @@ mighty-master (O King \textdhrtaraastra): \dots\\
   &&sam|paa|te&at/in/on a/the collision; clash; fall\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn sampaata.h} = sampaata.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn dhanurudyamya}&dha|nu|&dhanum\\
   &&& = {\dn dhanum}\\
   &&&= bow (in archery)\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ru|dya|mya&udyamya\\
   &&&= {\dn udyamya}\\
@@ -1605,9 +1605,10 @@ mighty-master (O King \textdhrtaraastra): \dots\\
   &&&\\
   &{\dn paa.n.dava.h}&paa.n|.da|va\h{a}&\pANDavaH\\
   &&&\notepANDavaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&h.r.siike"sam\\
   &&&= {\dn h.r.siike"sam}\\
   &&&= \hRSIkezam\\
