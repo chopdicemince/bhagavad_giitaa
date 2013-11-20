@@ -1976,19 +1976,23 @@ Bharata (O King \textdhrtaraastra), in the middle of the two armies.
 
 \kRSNasaidtoarjuna\\
 
-In front of Bhii.sma, Dro.na, and all world inhabitants, (\textkrsna)
-said, ``O prince (O Arjuna), see these joined Kurus.''\\
+In front of Bhii.sma, Dro.na, and of all earth inhabitants,
+(\textkrsna) said, ``O son of P.rthaa (O Arjuna), see these joined
+Kurus.''\\
 
 \begin{tabular}{llll}
-  1a&{\dn bhii.smadro.napramukhata.h}&bhii.s|ma|&Bhii.sma\\
-  &&&\note{\noun, \male}\\
+  1a&{\dn bhii.smadro.napramukhata.h}&bhii|.sma|&{\dn bhii.sma}\\
+  &&&= Bhii.sma\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&dro|.na|&Dro.na\\
-  &&&\note{\noun, \male}\\
+  &&dro|.na|&{\dn dro.na}\\
+  &&&= Dro.na\\
+  &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&\multicolumn{2}{l}{pra|mu|kha|ta\h{a}}\\
   &&&\\
-  &&&in front of\\
+  &&&{\dn pramukta.h}\\
+  &&&= in front of\\
   &&&\note{\adverb}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -1996,8 +2000,10 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   1b&{\dn sarve.saa.m}&sar|ve|.saa.m&sarves.saam\\
   &&&= {\dn sarve.saam}\\
   &&&= of each; all\\
-  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\pronoun, \adjective, \male, \neuter}\\
+  &&&\note{\plural, \genitivecase}\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -2009,8 +2015,6 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&k.si|taam&k.sitaan\\
   &&&= {\dn k.sitaan}\\
   &&&= (?) inhabitants\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn k.sit} = k.sit}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2026,15 +2030,13 @@ said, ``O prince (O Arjuna), see these joined Kurus.''\\
   &&&\\
   &\multicolumn{3}{l}{\dn pa"syaitaansamavetaankuruuniti}\\
   &&&\\
-  &&pa|"syai|&pa"syatu\\
-  &&&= {\dn pa"syatu}\\
+  &&pa|"syai|&pa"sya\\
+  &&&= {\dn pa"sya}\\
   &&&= (you) see\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&taan|&etaan\\
-  &&&= {\dn etaan}\\
-  &&&= \etaan\\
+  &&taan|&etaan = {\dn etaan} = \etaan\\
   &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
