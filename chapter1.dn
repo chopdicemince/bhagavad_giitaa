@@ -1809,9 +1809,9 @@ fight-desires-(soldiers), standing, \dots\\
 
 \arjunasaidtokRSNa\\
 
-I, one, see \dots (?) \dots. These are here, together, (for) the
-wicked intelligence of the son (\textduryodhana) of \textdhrtaraastra, in a
-war (with) a preferred wish.\\
+I see \dots (?) \dots, these which (are) here, together, from the bad
+intelligence of the son (\textduryodhana) of \textdhrtaraastra, in a
+war (with) a pleasing wish.\\
 
 \begin{tabular}{llll}
   1a&{\dn yotsyamaanaanavek.se.aha.m}&\multicolumn{2}{l}{yot|sya|maa|naa|na|}\\
@@ -1822,7 +1822,7 @@ war (with) a preferred wish.\\
   &&&\note{\noun?, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn yotsyamaana.h} = yotsyamaana.h}\\
   &&&\\
-  &&vek|.se|&avek.se\\
+  &&ve|k.se|&avek.se\\
   &&&= {\dn avek.se}\\
   &&&= (I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -1833,16 +1833,15 @@ war (with) a preferred wish.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ya}&ya&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  1b&{\dn ya}&ya&(?) ye = {\dn ye} = \ye\\
+  &&&\noteye\\
+  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn ete.atra}&e|te|&these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
-  &&'tra&atra\\
-  &&&= {\dn atra}\\
-  &&&= \atra\\
+  &&'tra&atra = {\dn atra} = \atra\\
   &&&\noteatra\\
   &&&\\
   &{\dn samaagataa.h}&\multicolumn{2}{l}{sa|maa|ga|taa\h{aa}}\\
@@ -1854,12 +1853,13 @@ war (with) a preferred wish.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dhaartaraa.s.trasya}&dhaar|ta|raa.s|.tra|sya&of a son of \textdhrtaraastra\\
+  2a&{\dn dhaartaraa.s.trasya}&\multicolumn{2}{l}{dhaar|ta|raa.s|.tra|sya}\\
+  &&&\\
+  &&&of a son of \textdhrtaraastra\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
-  &{\dn durbuddheryuddhe}&dur|&(?) dur\\
-  &&&= {\dn dur}\\
+  &{\dn durbuddheryuddhe}&dur|&{\dn dur}\\
   &&&= bad; difficult; wicked\\
   &&&\note{\adjective}\\
   &&&\\
@@ -1881,7 +1881,9 @@ war (with) a preferred wish.\\
   &&&= \priya\\
   &&&\notepriya\\
   &&&\\
-  &&ci|kiir|.sa|va\h{a}&(?)\\
+  &&\multicolumn{2}{l}{ci|kiir|.sa|va\h{a}}\\
+  &&&\\
+  &&&(?)\\
   &&&\note{similar: \noun, \female, {\dn cikiir.saa} = cikiir.saa}\\
   &&&\note{= desire; wish; intention}\\
 \end{tabular}
