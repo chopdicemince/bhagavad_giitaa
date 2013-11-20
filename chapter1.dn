@@ -1641,65 +1641,70 @@ mighty-master (O King \textdhrtaraastra): \dots\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 21}
 
 Arjuna said (to \textkrsna):\\
 
-In the midde of the two armies, stop my chariot, O non-disappearing
-one (O \textkrsna), while I see these (with) fight-desires, standing,
-\dots\\
+In the midde of the two armies, stop the chariot of me, O
+non-disappearing (one) (O \textkrsna), while (I) see these
+fight-desires-(soldiers), standing, \dots\\
 
 \begin{tabular}{llll}
-  0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
+  0&{\dn arjuna}&ar|ju|na&arjuna.h\\
+  &&&= {\dn arjuna.h}\\
+  &&&= \arjunaH\\
   &&&\notearjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
   &&&\noteuvaaca\\
   &&&\note{root: {\dn vac} = vac}\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
+  1a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
+  &&&= {\dn senayo.h}\\
+  &&&= of/at/in/on two armies\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{from {\dn senaa} = senaa}\\
+  &&&\\
+  &&ru|bha|yor|&ubhayo.h\\
+  &&&= {\dn ubhayo.h}\\
+  &&&= of/at/in/on two things\\
+  &&&\note{\pronoun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
+  &&&\\
+  &&ma|dhye&{\dn madhye}\\
+  &&&= at/in/on a/the middle\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{from {\dn madhya.h} = mahdya.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
-  &&&= {\dn senayo.h}\\
-  &&&= of two armies; at/in/on two armies\\
-  &&&\note{from {\dn senaa} = senaa}\\
-  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
-  &&&\\
-  &&ru|bha|yor|&ubhayo.h\\
-  &&&= {\dn ubhayo.h}\\
-  &&&= of two things; at/in/on two things\\
-  &&&\note{\pronoun, \female, \dual, \genitivecase, \locativecase}\\
-  &&&\note{from {\dn ubhayaa} = ubhayaa}\\
-  &&&\\
-  &&ma|dhye&at/in/on a/the middle\\
-  &&&\note{\adjective, \male(?), \locativecase}\\
-  &&&\note{from {\dn madhya.h} = mahdya.h}\\
-  &&&\note{\indeclinable}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
   1b&{\dn ratha.m}&ra|tha.m&ratham\\
   &&&= {\dn ratham}\\
   &&&= \ratham\\
   &&&\noteratham\\
   &&&\note{from {\dn ratha.h} = ratha.h}\\
   &&&\\
-  &{\dn sthaapaya}&sthaa|pa|ya&sthaapayatu\\
-  &&&= {\dn sthaapayatu}\\
-  &&&= (you) stop\\
+  &{\dn sthaapaya}&sthaa|pa|ya&(you) stop\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
-  &{\dn me.acyuta}&me|&for me; of me (my)\\
-  &&&\note{\pronoun, \firstperson, \singular,}\\
-  &&&\note{\dativecase, \genitivecase}\\
+  &{\dn me.acyuta}&me|&{\dn me} = \me\\
+  &&&\noteme\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &&'|&a = {\dn a} = not\\
   &&&\notea\\
   &&&\\
-  &&cyu|ta&ayuta = {\dn cyuta}\\
+  &&cyu|ta&cyuta\\
+  &&&= {\dn cyuta}\\
   &&&= O disappeared; gone; moved\\
   &&&\note{\adjective, \male, \vocativecase}\\
   &&&\note{from {\dn cutya.h} = cyuta.h}\\
@@ -1716,9 +1721,9 @@ one (O \textkrsna), while I see these (with) fight-desires, standing,
   &&&\noteetaan\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   &&&\\
-  &&ni|riik|.se|&(?)\\
-  &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
-  &&&\note{{\dn niriik.sate} = niriik.sate = (he/she/it) sees}\\
+  &&ni|rii|k.se|&{\dn niriik.se}\\
+  &&&= (I) see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn niriik.s} = niriik.s}\\
   &&&\\
   &&'ha.m&aham = {\dn aham} = \aham\\
@@ -1732,6 +1737,7 @@ one (O \textkrsna), while I see these (with) fight-desires, standing,
   &&&= {\dn yoddham}\\
   &&&= fight\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&kaa|maa|na|&kaamaan\\
   &&&= {\dn kaamaan}\\
