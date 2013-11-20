@@ -1761,12 +1761,10 @@ fight-desires-(soldiers), standing, \dots\\
 
 \arjunasaidtokRSNa\\
 
-\dots using what, with me, to be fought, in this war, in effort.\\
+\dots by using what, by using me, to be fought with, in this war, in effort.\\
 
 \begin{tabular}{llll}
-  1a&{\dn kairmayaa}&kair|&kai.h\\
-  &&&= {\dn kai.h}\\
-  &&&= \kaiH\\
+  1a&{\dn kairmayaa}&kair|&kai.h = {\dn kai.h} = \kaiH\\
   &&&\notekaiH{\male}\\
   &&&\note{from {\dn ka.h} = ka.h = \kaH}\\
   &&&\\
@@ -1787,17 +1785,16 @@ fight-desires-(soldiers), standing, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|smin|&asmin\\
-  &&&= {\dn asmin}\\
-  &&&= \asmin\\
+  1b&&ma|smi|nra|&asmin = {\dn asmin} = \asmin\\
   &&&\noteasmin\\
   &&&\note{from {\dn ayam} = ayam}\\
   &&&\note{from {\dn idam} = idam}\\
   &&&\\
-  &&ra|.na|&ra.nam\\
+  &&.na|&ra.nam\\
   &&&= {\dn ra.nam}\\
   &&&= war; fight; battlefield\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&sa|mu|dya|me&at/in/on effort; exertion; endeavor\\
   &&&\note{\noun, \male, \locativecase}\\
