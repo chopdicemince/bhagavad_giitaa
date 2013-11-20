@@ -1893,12 +1893,14 @@ war (with) a pleasing wish.\\
 
 \textsanjaya\ said (to King \textdhrtaraastra):\\
 
-Really, (these words were) said to \textkrsna\ by Arjuna, O descendant of
-Bharata (O King \textdhrtaraastra), in the middle of the two armies,
-(with \textkrsna) having stopped the best chariot.\\
+Really, (these words were) said by using Arjuna, O descendant of
+Bharata (O King \textdhrtaraastra), in the middle of the two armies.
+\textkrsna\ (was the listener), having stopped the chariot-ultimate.\\
 
 \begin{tabular}{llll}
-  0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h = {\dn sa~njaya.h} = \saJjayaH\\
+  0&{\dn sa~njaya}&sa\~{}n|ja|ya&sa\~{}njaya.h\\
+  &&&= {\dn sa~njaya.h}\\
+  &&&= \saJjayaH\\
   &&&\notesaJjayaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
@@ -1925,6 +1927,7 @@ Bharata (O King \textdhrtaraastra), in the middle of the two armies,
   &&&\note{from {\dn gu.daake"sa.h} = gu.daake"sa.h}\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
+  &&&= O King \textdhrtaraastra\\
   &&&\notebhaarata\\
   &&&\note{from {\dn bhaarata.h} = bhaarata.h}\\
 \end{tabular}
@@ -1933,25 +1936,26 @@ Bharata (O King \textdhrtaraastra), in the middle of the two armies,
 \begin{tabular}{llll}
   2a&{\dn senayorubhayormadhye}&se|na|yo|&senayo.h\\
   &&&= {\dn senayo.h}\\
-  &&&= of two armies; at/in/on two armies\\
-  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&= of/at/in/on two armies\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn senaa} = senaa}\\
   &&&\\
   &&ru|bha|yor|&ubhayo.h\\
   &&&= {\dn ubhayo.h}\\
-  &&&= of two things; at/in/on two things\\
-  &&&\note{\noun, \female, \dual, \genitivecase, \locativecase}\\
+  &&&= of/at/in/on two things\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn ubhayaa} = ubhayaa}\\
   &&&\\
   &&ma|dhye&{\dn madhye}\\
   &&&= at/in/on a/the middle\\
-  &&&\note{\adjective, \male(?), \locativecase}\\
+  &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn madhya.h} = madhya.h}\\
-  &&&\note{\indeclinable}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sthaapayitvaa}&sthaa|pa|yit|vaa&having stopped; set\\
+  2b&{\dn sthaapayitvaa}&sthaa|pa|yi|tvaa&having stopped; set\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
