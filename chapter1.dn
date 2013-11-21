@@ -2426,8 +2426,8 @@ me). And the skin (of me) really burns.\\
 
 \arjunasaidtokRSNa\\
 
-And I am not able to solidify. And (it is) as if my mind wanders. And
-I see inverse reasons, O \textkrsna.\\
+And (I) am not able to stand. And (it is) as if the mind (of me)
+wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -2442,10 +2442,11 @@ I see inverse reasons, O \textkrsna.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn "sak} = "sak}\\
   &&&\\
-  &&va|sthaa|tu.m&(?) avasthaatu.m\\
-  &&&= {\dn avasthaatu.m}\\
-  &&&= to stop; solidify\\
+  &&va|sthaa|tu.m&avasthaatum\\
+  &&&= {\dn avasthaatum}\\
+  &&&= (?) to stand; stay; stop; be steadfast\\
   &&&\note{\verbb, \infinitive}\\
+  &&&\note{root: {\dn avasthaa} = avasthaa}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2471,8 +2472,10 @@ I see inverse reasons, O \textkrsna.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nimittaani}&ni|mit|taa|ni&reasons; causes; marks\\
+  2a&{\dn nimittaani}&ni|mit|taa|ni&(\vocativephrase) reasons; causes; marks\\
   &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{from {\dn nimittam} = nimittam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2484,8 +2487,10 @@ I see inverse reasons, O \textkrsna.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&inverses; opposites\\
-  &&&\note{\noun, \adjective, \neuter, \plural, \accusativecase}\\
+  2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&(\vocativephrase) inverse; opposite; contrary\\
+  &&&\note{\noun, \adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{from {\dn vipariitam} = vipariitam}\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&\kezava\\
