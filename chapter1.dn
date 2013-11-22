@@ -3433,16 +3433,17 @@ of parents of mixed castes, and is viewed as a bad person.)\\
 
 \arjunasaidtokRSNa\\
 
-A mixture (a child of two parents of different castes; a bad person)
-is hellish, really, (being) of clan-killers, and of a clan. Surely,
-the fathers (ancestors) of these (mixtures) fall, (because of)
-lost-food-water-actions (lost offerings of food and water).\\
+A mixture (a child of parents of mixed castes; a bad person) is
+hellish, really, (being) of clan-killers, and of a clan. Surely, the
+fathers (ancestors) of these (mixtures) fall, (because of)
+lost-food-water-actions (that is, the mixtures do not offer food or
+water to their ancestors).\\
 
 \begin{tabular}{llll}
   1a&{\dn sa"nkaro}&sa"n|ka|ro&sa"nkara.h\\
   &&&= {\dn sa"nkara.h}\\
   &&&= mixture\\
-  &&&= child of parents of different castes\\
+  &&&= child of parents of mixed castes\\
   &&&= bad person\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -3484,20 +3485,27 @@ lost-food-water-actions (lost offerings of food and water).\\
   &&&\\
   &{\dn pitaro}&pi|ta|ro&pitara.h\\
   &&&= {\dn pitara.h}\\
-  &&&= fathers; ancestors\\
+  &&&= (\vocativephrase) fathers; ancestors\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
   &{\dn hye.saa.m}&hye|&hi = {\dn hi} = \hi\\
   &&&\notehi\\
   &&&\\
-  &&.saa.m&e.saam = {\dn e.saam} = (?) of these; of them (their)\\
+  &&.saa.m&e.saam\\
+  &&&= {\dn e.saam}\\
+  &&&= (?) ete.saam\\
+  &&&= {\dn ete.saam}\\
+  &&&= of these/them (their)\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn luptapi.n.dodakakriyaa.h}&lup|ta|&lost; robbed; broken; hurt\\
+  2b&\multicolumn{3}{l}{\dn luptapi.n.dodakakriyaa.h}\\
+  &&&\\
+  &&lup|ta|&lost; robbed; broken; hurt\\
   &&&\note{\adjective}\\
   &&&\\
   &&pi.n|.do|&pi.n.da.h\\
@@ -3509,9 +3517,11 @@ lost-food-water-actions (lost offerings of food and water).\\
   &&&= {\dn udakam}\\
   &&&= water\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&kri|yaa\h{aa}&actions; work; doing\\
   &&&\note{\noun, \female, \plural}\\
+  &&&\note{\nominativecase, \accusativecase, \vocativecase}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
 \end{tabular}
 \newpage
