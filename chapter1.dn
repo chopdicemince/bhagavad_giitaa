@@ -2690,17 +2690,16 @@ whom (is) a desire for us (for) a kingdom, (acts of) enjoyment, and
 
 \arjunasaidtokRSNa\\
 
-Those, these, standing, in a war, having abandoned life and pieces of
-money---teachers, fathers (ancestors), sons, likewise, really, and
-paternal grandfathers.\\
+Those, these, standing, in a war, having abandoned breaths (lives) and
+pieces of money---teachers, fathers (ancestors), sons, likewise,
+really, and paternal grandfathers.\\
 
 \begin{tabular}{llll}
   1a&{\dn ta}&ta&te = {\dn te} = \temale\\
   &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn ime.avasthitaa}&i|me|&{\dn ime}\\
-  &&&= \ime\\
+  &{\dn ime.avasthitaa}&i|me|&{\dn ime} = \ime\\
   &&&\noteime\\
   &&&\note{from {\dn ayam} = ayam = \ayam}\\
   &&&\\
@@ -2719,6 +2718,7 @@ paternal grandfathers.\\
   1b&{\dn praa.naa.mstyaktvaa}&praa|.naa.m|&praa.naan\\
   &&&= {\dn praa.naan}\\
   &&&= \prANAn\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn praa.na.h} = praa.na.h}\\
   &&&\\
   &&styakt|vaa&tyaktvaa\\
@@ -2727,8 +2727,9 @@ paternal grandfathers.\\
   &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
-  &{\dn dhanaani}&dha|naa|ni&pieces of money\\
+  &{\dn dhanaani}&dha|naa|ni&(\vocativephrase) pieces of money\\
   &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase, \vocativecase}\\
   &&&\note{from {\dn dhanam} = dhanam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2741,14 +2742,16 @@ paternal grandfathers.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
   &&&\\
-  &{\dn pitara.h}&pi|ta|ra\h{a}&fathers; ancestors\\
+  &{\dn pitara.h}&pi|ta|ra\h{a}&(\vocativephrase) fathers; ancestors\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
-  &{\dn putraastathaiva}&pu|traa|&putraa.h\\
+  &{\dn putraastathaiva}&pu|traa|&(\vocativephrase) putraa.h\\
   &&&= {\dn putraa.h}\\
   &&&= sons\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn putra.h} = putra.h}\\
   % ----------------------------------------------------------------------------
   \hline
@@ -2764,8 +2767,9 @@ paternal grandfathers.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn pitaamahaa.h}&pi|taa|ma|haa\h{aa}&paternal grandfathers\\
+  &{\dn pitaamahaa.h}&pi|taa|ma|haa\h{aa}&(\vocativephrase) paternal grandfathers\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pitaamaha.h} = pitaamaha.h}\\
 \end{tabular}
 \newpage
