@@ -2960,9 +2960,10 @@ now? For the sake of earth? (Killing?) the sons of
 
 \arjunasaidtokRSNa\\
 
-Evil really enters us, having killed these warriors. Therefore we are
-not worthy to kill (of killing) the sons of \textdhrtaraastra\ and
-family. Surely, having killed, how happy may we be, O \textkrsna?\\
+Evil really (enters?) us, having killed these warriors. From that
+(therefore), we are not able to kill the sons of
+\textdhrtaraastra\ \dots (?) \dots family. Surely, having killed, how
+happy may (we) be, O \textkrsna?\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn paapamevaa"srayedasmaanhatvaitaanaatataayina.h}}\\
@@ -2971,6 +2972,7 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &&&= {\dn paapam}\\
   &&&= crime; evil; vice\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&me|vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2982,17 +2984,15 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &&&\note{= (he/she/it) enters; attaches; inhabits}\\
   &&&\note{root: {\dn aa"sri} = aa"sri}\\
   &&&\\
-  &&smaan|&asmaan\\
-  &&&= {\dn asmaan}\\
-  &&&= us\\
+  &&smaan|&asmaan = {\dn asmaan} = us\\
   &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
   &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&hat|vai|&hatvaa\\
+  1b&&ha|tvai|&hatvaa\\
   &&&= {\dn hatvaa}\\
-  &&&= (?) having hit; hurt; killed\\
+  &&&= having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
@@ -3003,13 +3003,13 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &&ta|taa|yi|na\h{a}&aatataayina.h\\
   &&&= {\dn aatataayina.h}\\
   &&&= warriors\\
-  &&&\note{\noun, \male, \plural, \accusativecase(?)}\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn aatataayin} = aatataayin}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasmaannaarhaa}&tas|maan|&tasmaat\\
+  2a&{\dn tasmaannaarhaa}&ta|smaan|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
   &&&\notetasmaat\\
@@ -3020,8 +3020,9 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &&&\\
   &&haa&arhaa.h\\
   &&&= {\dn arhaa.h}\\
-  &&&= worthy; able; proper\\
+  &&&= (\vocativephrase) worthy; able; proper\\
   &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn arha.h} = arha.h}\\
   &&&\\
   &{\dn vaya.m}&va|ya.m&vayam = {\dn vayam} = we\\
@@ -3038,7 +3039,7 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn dhaartaraa.s.traansabaandhavaan}\\
   &&&\\
-  &&dhaar|ta|raa.s|.traan|&sons of \textdhrtaraastra\\
+  &&dhaar|ta|raa|.s.traan|&sons of \textdhrtaraastra\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
@@ -3059,13 +3060,13 @@ family. Surely, having killed, how happy may we be, O \textkrsna?\\
   &{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn hatvaa}&hat|vaa&(?) having hit; hurt; killed\\
+  &{\dn hatvaa}&ha|tvaa&having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn han} = han}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  3c&{\dn sukhina.h}&su|khi|na\h{a}&happy\\
+  3b&{\dn sukhina.h}&su|khi|na\h{a}&happy\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sukhin} = sukhin}\\
   &&&\\
