@@ -3088,7 +3088,7 @@ happy may (we) be, O \textkrsna?\\
 \arjunasaidtokRSNa\\
 
 If, also, these do not see---(with) strong-desire-hurt minds---a clan
-end as an action (of) wickedness, and friend-rebellion (as) a sin
+end (as) an action (of) wickedness, and sin in a friend-rebellion
 \dots\\
 
 \begin{tabular}{llll}
@@ -3098,9 +3098,7 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&pye|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&te&ete\\
-  &&&= {\dn ete}\\
-  &&&= these/they\\
+  &&te&ete = {\dn ete} = these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
@@ -3145,8 +3143,11 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&&= {\dn k.rtam}\\
   &&&= action; work\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn do.sa.m}&do|.sa.m&defect; wickedness\\
+  &{\dn do.sa.m}&do|.sa.m&do.sam\\
+  &&&= {\dn do.sam}\\
+  &&&= defect; wickedness\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
   % ----------------------------------------------------------------------------
@@ -3156,6 +3157,7 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&&= {\dn mitram}\\
   &&&= friend\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&dro|he&{\dn drohe}\\
   &&&= at/in/on a/the rebellion; attack; treachery\\
@@ -3167,6 +3169,7 @@ end as an action (of) wickedness, and friend-rebellion (as) a sin
   &&&\\
   &{\dn paatakam}&paa|ta|kam&sin; crime; loss of caste\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
