@@ -2779,26 +2779,31 @@ really, and paternal grandfathers.\\
 \arjunasaidtokRSNa\\
 
 Maternal uncles, fathers-in-law, sons of sons, brothers of wives,
-relatives, likewise---these, I do not like to kill, killing also, O
-Madhu killing (O \textkrsna).\\
+relatives, likewise---these, (I) do not desire to kill---killing
+also---O Madhu-killing (O \textkrsna). (K.r.s.na had killed a demon
+named ``Madhu.'')\\
 
 \begin{tabular}{llll}
-  1a&{\dn maatulaa.h}&maa|tu|laa\h{aa}&maternal uncles\\
+  1a&{\dn maatulaa.h}&maa|tu|laa\h{aa}&(\vocativephrase) maternal uncles\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn maatula.h} = maatula.h}\\
   &&&\\
-  &{\dn "sva"suraa.h}&"sva|"su|raa\h{aa}&fathers-in-law\\
+  &{\dn "sva"suraa.h}&"sva|"su|raa\h{aa}&(\vocativephrase) fathers-in-law\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn "sva"sura.h} = "sva"sura.h}\\
   &&&\\
-  &{\dn pautraa.h}&pau|traa\h{aa}&sons of sons\\
+  &{\dn pautraa.h}&pau|traa\h{aa}&(\vocativephrase) sons of sons\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pautra.h} = pautra.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn "syaalaa.h}&"syaa|laa\h{aa}&brothers of wives\\
+  1b&{\dn "syaalaa.h}&"syaa|laa\h{aa}&(\vocativephrase) brothers of wives\\
   &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn "syaala.h} = "syaala.h}\\
   &&&\\
   &{\dn sambandhinastathaa}&sam|ban|dhi|na|&sambandhina.h\\
@@ -2847,6 +2852,8 @@ Madhu killing (O \textkrsna).\\
   &{\dn madhusuudana}&ma|dhu|&{\dn madhu}\\
   &&&= honey\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\\
   &&suu|da|na&suudana\\
   &&&= {\dn suudana}\\
