@@ -3270,9 +3270,8 @@ O man-disturbance (O \textkrsna).\\
 
 \arjunasaidtokRSNa\\
 
-At a clan-end, the clan occurrences of
-goodness---ancient---perish. And at a destroyed occurrence of
-goodness, all non-goodness overcomes the clan.\\
+At a clan-end, the ancient clan-acts-of-virtue perish. And at a
+destroyed act of virtue, a non-act-of-virtue overcomes all the clan.\\
 
 \begin{tabular}{llll}
   1a&{\dn kulak.saye}&ku|la|&kulam\\
@@ -3301,18 +3300,19 @@ goodness, all non-goodness overcomes the clan.\\
   &&&\notedharmAH\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &{\dn sanaatanaa.h}&sa|naa|ta|naa\h{aa}&eternal; ancient\\
+  &{\dn sanaatanaa.h}&sa|naa|ta|naa\h{aa}&(\vocativephrase) eternal; ancient\\
   &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn sanaatana.h} = sanaatana.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn dharme}&dhar|me&at/in/on a/the (occurrence of) goodness\\
+  2a&{\dn dharme}&dhar|me&at/in/on a/the (act of) virtue; religion; law\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &{\dn na.s.te}&na.s|.te&at/in/on something damaged; disappeared; destroyed\\
+  &{\dn na.s.te}&na|.s.te&at/in/on something damaged; disappeared; destroyed\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn na.s.ta.h} = na.s.ta.h}\\
   &&&\\
@@ -3327,6 +3327,7 @@ goodness, all non-goodness overcomes the clan.\\
   &&&= {\dn k.rtsnam}\\
   &&&= all\\
   &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
