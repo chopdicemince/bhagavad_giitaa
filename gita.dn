@@ -19,13 +19,11 @@ the Bhagavad Gita}
 \maketitle
 % ------------------------------------------------------------------------------
 \include{chapter_about_the_bhagavad_gita}
-\include{chapter_about_sanskrit}
-\include{chapter_transliteration}
-\include{chapter_alphabet}
-\include{chapter_organization}
-\include{chapter_melody}
-\include{chapter_grammar}
-\include{chapter_examples_of_cases}
+\include{chapter_about_this_book}
+\include{chapter_about_hinduism}
+\include{chapter_about_sanskrit_history}
+\include{chapter_about_sanskrit_transliteration}
+\include{chapter_about_sanskrit_grammar}
 \include{chapter1}
 \include{chapter2}
 \include{chapter3}

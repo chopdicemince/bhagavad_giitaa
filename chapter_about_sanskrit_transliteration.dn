@@ -1,4 +1,105 @@
-\chapter*{Sanskrit alphabet: Devanagari}
+\chapter*{About Sanskrit transliteration}
+
+Note: A serious discussion of Sanskrit, or any other language, should
+probably use the International Phonetic Alphabet (IPA). A rough
+description of the IPA is that it has a unique character for every
+unique sound in all human languages. Some IPA characters are English
+letters and can easily be typed on an a U.S English keyboard, but many
+IPA characters require special software. My typesetting knowledge and
+linguistic knowledge are limited, and I will not use the IPA.\\
+
+Devanagari is the traditional script (written characters) of
+Sanskrit. In this book, we will write Sanskrit in two main ways:
+Devanagari, and the Velthuis transliteration.
+
+Simply, {\em transliterate} means to spell a word of one language by
+using the alphabet of another language. Transliteration is not
+perfect. People may have different opinions about how to transliterate
+a given word.
+
+Sanskrit has sounds which an English speaker may not be able to
+distinguish, without much practice. For example:
+
+\begin{itemize}
+
+\item Sanskrit distinguishes between aspirated and non-aspirated
+  sounds.
+
+  Simply, {\em aspirate} means to pronounce a sound with a big
+  breath---with a big puff of air. Try the following experiment. Put
+  your hand near your mouth. Pronounce ``pin.'' Notice the amount of
+  air hitting your hand. Next, pronounce ``spin.'' Notice the amount
+  of air hitting your hand. It may be less. You are aspirating the
+  ``p'' in ``pin,'' but you are not aspirating the ``p'' in ``spin.''
+
+\item Sanskrit distinguishes between dental and retroflex sounds.
+
+  Try the following experiment. Clench your teeth. Slip your tongue
+  between your teeth, so that the tip sticks out a little from your
+  teeth. Say ``knee.'' You are prouncing a dental sound, the ``n.''
+  Next, stop clenching your teeth. Place your tongue so that the tip
+  is on the top of your mouth and behind your top front teeth. Say
+  ``knee'' again. You are pronouncing a retroflex sound, the ``n.''
+  The retroflex ``n'' might seem ``fuzzier'' or ``more nasal'' than
+  the dental ``n.''
+
+\end{itemize}
+
+To transliterate Sanskrit into English, people sometimes introduced
+extra characters, to help represent some of these extra sounds in
+Sanskrit.
+% ------------------------------------------------------------------------------
+\section*{Four transliterations}
+
+People have invented various ways to transliterate Sanskrit into
+English. Some transliterations are below, with their advantages and
+disadvantages.
+
+\begin{itemize}
+
+\item IAST: International Alphabet for Sanskrit Transliteration.
+
+  Advantages: You can use uppercase and lowercase letters normally, as
+  you would in regular English. (Some other transliterations might
+  treat lowercase letters and uppercase letters differently.)
+
+  Disadvantages: If you want to type some of the characters on a
+  U.S. English keyboard, you need to use special software.
+
+\item ITRANS. Indian Languages Transliteration.
+
+  Advantages: You can type all of the characters using a U.S. English
+  keyboard without using special software.
+
+  Disadvantages: This tranlisteration uses lowercase and uppercase
+  letters. It may look unusual.
+
+\item HK: Harvard-Kyoto Transliteration.
+
+  Advantages: This transliteration uses only English letters.
+
+  Disadvantages: This transliteration uses lowercase and uppercase
+  letters. It may look unusual.
+
+\item Velthuis Transliteration.
+
+  Advantages: This transliteration is a version of the IAST that you
+  can type on a U.S. English keyboard without using special software.
+
+\end{itemize}
+
+The tables on the next pages show the above transliterations. The
+transliterations have differences, but they also have
+similarities. Try to be familiar with parts of all of them.
+
+If you know the International Alphabet for Sanskrit Transliteration
+(IAST), then it is easy to learn the Velthuis Transliteration. It
+might be helpful to look at these two transliterations first. Notice
+how you can easily change an IAST character into a Velthuis
+character. After you are familiar with these transliterations, look at
+the ITRANS or Harvard-Kyoto transliterations.
+% ------------------------------------------------------------------------------
+\section*{Devanagari}
 
 The Sanskrit alphabet is called Devanagari (or ``Devanaagarii''). Its
 name means something like ``god city.'' To understand why, see the

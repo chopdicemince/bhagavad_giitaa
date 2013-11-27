@@ -7,11 +7,11 @@ gita.pdf: gita.tex
 
 gita.tex: gita.dn \
   chapter_about_the_bhagavad_gita.tex \
-  chapter_about_sanskrit.tex \
-  chapter_transliteration.tex \
-  chapter_alphabet.tex \
-  chapter_organization.tex \
-  chapter_melody.tex \
+  chapter_about_this_book.tex \
+  chapter_about_hinduism.tex \
+  chapter_about_sanskrit_history.tex \
+  chapter_about_sanskrit_transliteration.tex \
+  chapter_about_sanskrit_grammar.tex \
   chapter1.tex \
   chapter2.tex \
   chapter3.tex \
@@ -30,8 +30,6 @@ gita.tex: gita.dn \
   chapter16.tex \
   chapter17.tex \
   chapter18.tex \
-  chapter_grammar.tex \
-  chapter_examples_of_cases.tex \
   mymacros.sty \
 
 	devnag gita.dn
@@ -39,20 +37,20 @@ gita.tex: gita.dn \
 chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
 	devnag chapter_about_the_bhagavad_gita.dn
 
-chapter_about_sanskrit.tex: chapter_about_sanskrit.dn
-	devnag chapter_about_sanskrit.dn
+chapter_about_this_book.tex: chapter_about_this_book.dn
+	devnag chapter_about_this_book.dn
 
-chapter_transliteration.tex: chapter_transliteration.dn
-	devnag chapter_transliteration.dn
+chapter_about_hinduism.tex: chapter_about_hinduism.dn
+	devnag chapter_about_hinduism.dn
 
-chapter_alphabet.tex: chapter_alphabet.dn
-	devnag chapter_alphabet.dn
+chapter_about_sanskrit_history.tex: chapter_about_sanskrit_history.dn
+	devnag chapter_about_sanskrit_history.dn
 
-chapter_organization.tex: chapter_organization.dn
-	devnag chapter_organization.dn
+chapter_about_sanskrit_transliteration.tex: chapter_about_sanskrit_transliteration.dn
+	devnag chapter_about_sanskrit_transliteration.dn
 
-chapter_melody.tex: chapter_melody.dn
-	devnag chapter_melody.dn
+chapter_about_sanskrit_grammar.tex: chapter_about_sanskrit_grammar.dn
+	devnag chapter_about_sanskrit_grammar.dn
 
 chapter1.tex: chapter1.dn
 	devnag chapter1.dn
@@ -107,12 +105,6 @@ chapter17.tex: chapter17.dn
 
 chapter18.tex: chapter18.dn
 	devnag chapter18.dn
-
-chapter_grammar.tex: chapter_grammar.dn
-	devnag chapter_grammar.dn
-
-chapter_examples_of_cases.tex: chapter_examples_of_cases.dn
-	devnag chapter_examples_of_cases.dn
 # ------------------------------------------------------------------------------
 clean:
 	rm --force *.aux *.log *.dvi *.tex *~ .*~ *.*~

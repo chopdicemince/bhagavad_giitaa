@@ -1,47 +1,93 @@
 \chapter*{About the Bhagavad Gita}
 
-The Bhagavad Gita (or ``Giitaa'') is a religious text of Hinduism, written in the
-language of Sanskrit. Today, relatively few people speak Sanskrit
-fluently, but there is a movement to revive it. In India, there is
-much religious text that was written in Sanskrit. Many people may be
-able to read and pronounce the Sanskrit, but they may not fully
-understand its meaning.
+The name ``Bhagavad Gita'' is from the language of Sanskrit and means,
+literally, ``God Song.'' (Bhagavad = God; Gita = Song.) The Bhagavad
+Gita is a poem with 700 verses, arranged in 18 chapters. It is part of
+Hindism, and is part of a larger work called the ``Mahabharata,''
+whose name means, literally, ``mighty descendant of Bharat'' or
+``mighty India.'' (Maha = mighty; bharata = descendant of Bharata.)
 
-``Bhagavad Gita'' means ``holy song'' (``bhagavad'' has various
-translations, one of which is ``holy''). It is part of another text,
-the Mahabharata (or ``Mahaabhaarata''), whose name means ``great India'' (mahaa +
-bhaarata), and which is a history of the ancient world. In the
-Bhagavad Giitaa, Lord \textkrsna\ (sometimes spelled ``Krishna'') gave
-advice to his friend Arjuna. After eighteen days of fighting their
-enemies, they are victorious.
+The name ``Bhagavad Gita'' comes from at least two facts: (1) many or
+all verses of the Bhagavad Gita can be sung to one or more melodies,
+and (2) some verses in the Bhagavad Gita were spoken by Krishna (God)
+to his cousin Arjuna. Krishna and Arjuna are the two main heros of the
+story.
 
-There are 18 chapters and 700 verses.
-\\
+The Bhagavad Gita is a story of good versus evil. There are two armies
+ready to fight each other for control of a kingdom. One army is good,
+and one is bad. Each army is associated with a king who is a son of
+King Bharata, who had ruled the world. (The name ``Mahabharata'' comes
+frome his name.)  The good army is associated with the king Pandu, who
+has five sons, one of which is Arjuna. The bad army is associated with
+the king Dhrtarastra, who has one hundred sons, the oldest of which is
+Duryodhana.
 
-\begin{tabular}{r|r|r}
-  Chapter&Verses&Cumulative verses\\
-  \hline
-  1&46&46\\
-  2&72&118\\
-  3&43&161\\
-  \hline
-  4&42&203\\
-  5&29&232\\
-  6&47&279\\
-  \hline
-  7&30&309\\
-  8&28&337\\
-  9&34&371\\
-  \hline
-  10&42&413\\
-  11&55&468\\
-  12&20&488\\
-  \hline
-  13&35&523\\
-  14&27&550\\
-  15&20&570\\
-  \hline
-  16&24&594\\
-  17&28&622\\
-  18&78&700\\
-\end{tabular}
+The verses in the Bhagavad Gita do not always have the same number of
+lines or syllables. But a number of verses have 32 ``main'' syllables,
+divided into 16 main syllables per line (or 8 main syllables per half
+line). Such verses can be sung to the following melody:
+
+\begin{figure}[h]
+  \includegraphics[width=\columnwidth]{music.png}
+  \caption{You can use this melody to sing some lines of the Bhagavad Gita, or you can use another melody.}
+  \label{figure:music}
+\end{figure}
+
+Table~\ref{table:chapter verses} gives the number of verses in each
+chapter.
+
+\begin{table}
+  \centering
+  \begin{tabular}{r|r|r}
+    Chapter&Verses&Cumulative verses\\
+    \hline
+    1&46&46\\
+    2&72&118\\
+    3&43&161\\
+    \hline
+    4&42&203\\
+    5&29&232\\
+    6&47&279\\
+    \hline
+    7&30&309\\
+    8&28&337\\
+    9&34&371\\
+    \hline
+    10&42&413\\
+    11&55&468\\
+    12&20&488\\
+    \hline
+    13&35&523\\
+    14&27&550\\
+    15&20&570\\
+    \hline
+    16&24&594\\
+    17&28&622\\
+    18&78&700\\
+  \end{tabular}
+  \caption{Number of verses in each chapter.}
+  \label{table:chapter verses}
+\end{table}
+
+Table~\ref{table:spellings} lists some Sanskrit names which we
+mentioned above. Each name has a ``non-strict spelling'' (possibly one
+of many) and a ``strict'' spelling. A later chapter about Sanskrit
+transliteration will explain the ``strict'' spelling.\\
+
+\begin{table}
+  \centering
+  \begin{tabular}{l|l}
+    Non-strict spelling&Strict spelling\\
+    \hline
+    Bhagavad Gita&Bhagavad Giitaa\\
+    Mahabharata&Mahaabhaarata\\
+    Krishna&K.r.s.na\\
+    Arjuna&(same)\\
+    Sanjaya&Sa\~{}njaya\\
+    Pandu&Paa.n.du\\
+    Dhrtarastra&Dh.rtaraa.s.tra\\
+    Duryodhana&(same)\\
+  \end{tabular}
+  \caption{``Non-strict'' and ``strict'' spellings.}
+  \label{table:spellings}
+\end{table}
