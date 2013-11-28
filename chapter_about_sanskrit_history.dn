@@ -1,1 +1,45 @@
 \chapter*{About Sanskrit history}
+
+One way of thinking about Sanskrit is that it is the Latin of
+India. Latin is an ancestor of various European languages, such as
+French, Italian, Spanish, Catalan, and Portuguese. Similarly, Sanskrit
+is an ancestor of various Indian languages, such as Bengali, Hindi,
+Marathi, Punjabi, and Sindhi.
+
+Another way of thinking about Sanskrit is by using religion:
+Catholicism is associated with Latin, Judaism is associated with
+Hebrew, Islam is associated with Arabic, and Hinduism is assosciated
+with Sanskrit.
+
+Sir William Jones (1746--1794) was a judge and philologer/philogist
+(linguist) who was born in London and traveled to Calcutta/Kolkata. In
+1786, he spoke about the similarities of Sanskrit, Greek, and Latin:
+
+\begin{quote}
+The Sanscrit language, whatever be its antiquity, is of a wonderful
+structure; more perfect than the Greek, more copious than the Latin,
+and more exquisitely refined than either, yet bearing to both of them
+a stronger affinity, both in the roots of verbs and in the forms of
+grammar, than could possibly have been produced by accident; so
+strong, indeed, than no philologer could examine them all three,
+without believing them to have sprung from some common source, which
+perhaps, no longer exists; there is a similar reason, though not quite
+so forcible, for supposing that both the Gothick and Celtick, though
+blended with a very different idiom, had the same origin with the
+Sanscrit; and the old Persian might be added to the same family.
+\end{quote}
+
+There are two groups of Sanskrit. Vedic Sanskrit is Sanskrit in the
+period from about 1500 BC/BCE to about 200 BC/CE. (``Vedic'' comes
+from the Sanskrit word ``veda,'' which means ``knowledge.'') Classical
+Sanskrit is Sanskrit in the period from about 500 BC to 1000 AD.
+
+Around 5 BC or 4 BC, a man named Panini (also spelled ``Paa.nini'')
+wrote a definitive text about Sanskrit. The title is ``Ashtadhyayi''
+(also spelled ``a.s.taadhyaayi''), which can be translated as ``The
+Eight Chapters.'' (In Sanskrit, ``a.s.ta'' means ``eight.'') The text
+has 3,959 rules which define Classical Sanskrit. As an example of the
+greatness of this text, the notation used by Panini is similar to, and
+as powerful as, Backus-Naur Form (also called Backus-Normal Form),
+which was introduced around 1963 to describe context-free grammars and
+programming languages.
