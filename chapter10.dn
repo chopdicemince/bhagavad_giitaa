@@ -477,10 +477,7 @@ born (from them).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn manu.h} = manu.h}\\
   &&&\\
-  &&thaa&tathaa\\
-  &&&= {\dn tathaa}\\
-  &&&= \tathaa\\
-  &&&\notetathaa\\
+  &&thaa&\tathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1069,10 +1066,7 @@ All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   &&&= Naarada\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&thaa&tathaa\\
-  &&&= {\dn tathaa}\\
-  &&&= \tathaa\\
-  &&&\notetathaa\\
+  &&thaa&\tathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2866,7 +2860,6 @@ flower-abundance.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
-  &&&\notetathaa\\
   &&&\\
   &{\dn saamnaa.m}&saam|naa.m&saamnaam\\
   &&&= {\dn saamnaam}\\

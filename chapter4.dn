@@ -849,8 +849,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\notetaan\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&sta|thai|&tathaa = {\dn tathaa} = \tathaa\\
-  &&&\notetathaa\\
+  &&sta|thai|&\tathaa\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -2290,8 +2289,7 @@ prepared men who have taken vows.\\
   &&&\noteyajJAH\\
   &&&\note{from {\dn yaj~na.h} = yaj\~{}na.h}\\
   &&&\\
-  &&sta|thaa|&tathaa = {\dn tathaa} = \tathaa\\
-  &&&\notetathaa\\
+  &&sta|thaa|&\tathaa\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -2380,10 +2378,7 @@ breaths.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn apaana.h} = apaana.h}\\
   &&&\\
-  &{\dn tathaapare}&ta|thaa|&{\dn tathaa}\\
-  &&&= {\dn tathaa}\\
-  &&&= \tathaa\\
-  &&&\notetathaa\\
+  &{\dn tathaapare}&ta|thaa|&\tathaa\\
   &&&\\
   &&pa|re&apare\\
   &&&= {\dn apare}\\
@@ -3107,7 +3102,6 @@ knowledge-fire does all actions (to) ash.\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
-  &&&\notetathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

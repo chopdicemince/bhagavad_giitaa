@@ -626,10 +626,7 @@ difference.\\
   &&&= \tapas\\
   &&&\notetapas\\
   &&&\\
-  &&thaa&tathaa\\
-  &&&= {\dn tathaa}\\
-  &&&= \tathaa\\
-  &&&\notetathaa\\
+  &&thaa&\tathaa\\
   &&&\\
   &{\dn daana.m}&daa|na.m&daanam\\
   &&&= {\dn daanam}\\
@@ -2268,7 +2265,6 @@ Arjuna) \dots\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
-  &&&\notetathaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

@@ -177,8 +177,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\tathaa}{thus; likewise}
-\newcommand{\notetathaa}{\note{\adverb, \indeclinable}}
+\newcommand{\tathaa}{
+  tathaa = {\dn tathaa} = thus; likewise\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\tatra}{there}
 \newcommand{\notetatra}{\note{\adverb, \pronoun, \noun, \indeclinable}}
