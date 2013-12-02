@@ -167,8 +167,10 @@
   &&&\note{\adjective, \neuter, \adverb, \indeclinable}
 }
 
-\newcommand{\na}{not}
-\newcommand{\notena}{\note{\adverb, \indeclinable}}
+\newcommand{\na}{
+  na = {\dn na} = not\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\yathaa}{just as; properly}
 \newcommand{\noteyathaa}{\note{\adverb, \indeclinable}}

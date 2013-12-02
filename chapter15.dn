@@ -224,7 +224,6 @@ syllables.)\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn ruupamasyeha}&ruu|pa|ma|&ruupam\\
   &&&= {\dn ruupam}\\
@@ -252,8 +251,7 @@ syllables.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn naanto}&naan|&na = {\dn na} = \na\\
-  &&&\notena\\
+  1b&{\dn naanto}&naan|&\na\\
   &&&\\
   &&to&anta.h\\
   &&&= {\dn anta.h}\\
@@ -261,7 +259,6 @@ syllables.)\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn caadirna}&caa|&\ca\\
   &&&\\
@@ -270,8 +267,7 @@ syllables.)\\
   &&&= beginning\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&na&{\dn na} = \na\\
-  &&&\notena\\
+  &&na&\na\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -368,7 +364,6 @@ instead of the usual eight.)\\
   &&&\note{from {\dn gata.h} = gata.h}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn nivartanti}&ni|var|tan|ti&(?) nivartante\\
   &&&= {\dn nivartante}\\
@@ -569,7 +564,6 @@ does not return.\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
@@ -588,7 +582,6 @@ does not return.\\
   \hline
   &&&\\
   1b&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn "sa"saa"nko}&"sa|"saa"n|ko&"sa"saa"nka.h\\
   &&&= {\dn "sa"saa"nka.h}\\
@@ -596,7 +589,6 @@ does not return.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn paavaka.h}&paa|va|ka\h{a}&fire; god of fire; saint\\
   &&&\note{\noun, \male}\\
@@ -613,7 +605,6 @@ does not return.\\
   &&&\note{root: {\dn gam} = gam}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn nivartante}&ni|var|tan|te&(they) vanish; stop; retreat; return\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -939,8 +930,7 @@ see.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vimuu.dha.h} = vimuu.dha.h}\\
   &&&\\
-  &{\dn naanupa"syanti}&naa|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naanupa"syanti}&naa|&\na\\
   &&&\\
   &&nu|pa|"syan|ti&anupa"syanti\\
   &&&= {\dn anupa"syanti}\\
@@ -1039,8 +1029,7 @@ not see this (situation).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn naina.m}&nai|&na = {\dn na} = \na\\
-  &&&\notena\\
+  2b&{\dn naina.m}&nai|&\na\\
   &&&\\
   &&na.m&enam = {\dn enam} = this/that/he/she/it\\
   &&&\note{\pronoun, \thirdperson}\\

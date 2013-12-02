@@ -74,7 +74,6 @@ not active.\\
   \hline
   &&&\\
   2b&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn niragnirna}&ni|rag|&ni.h\\
   &&&= {\dn ni.h}\\
@@ -86,8 +85,7 @@ not active.\\
   &&&= \agniH\\
   &&&\noteagniH\\
   &&&\\
-  &&na&{\dn na} = \na\\
-  &&&\notena\\
+  &&na&\na\\
   &&&\\
   &{\dn caakriya.h}&caa|&\ca\\
   &&&\\
@@ -150,7 +148,6 @@ not active.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn hyasannyastasa"nkalpo}&hya|&\hi\\
   &&&\\
@@ -279,8 +276,7 @@ having attained yoking.\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
-  &{\dn nendriyaarthe.su}&nen|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn nendriyaarthe.su}&nen|&\na\\
   &&&\\
   &&dri|yaar|&indriyam\\
   &&&= {\dn indriyam}\\
@@ -296,7 +292,6 @@ having attained yoking.\\
   \hline
   &&&\\
   1b&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn karmasvanu.sajjate}&kar|ma|sva|&karmasu\\
   &&&= {\dn karmasu}\\
@@ -383,8 +378,7 @@ self is an enemy of the self.\\
   &&&\\
   1b&\multicolumn{3}{l}{\dn naatmaanamavasaadayet}\\
   &&&\\
-  &&naat|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &&naat|&\na\\
   &&&\\
   &&maa|na|ma|&aatmaanam = {\dn aatmaanam} = \aatmaanam\\
   &&&\noteaatmaanam\\
@@ -904,8 +898,7 @@ grass remainder, \dots\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn naatyucchrita.m}&naa|&na = {\dn na} = \na\\
-  &&&\notena\\
+  2a&{\dn naatyucchrita.m}&naa|&\na\\
   &&&\\
   &&tyuc|&ati = {\dn ati} = very\\
   &&&\note{\adverb, \indeclinable}\\
@@ -915,8 +908,7 @@ grass remainder, \dots\\
   &&&= raised\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn naatiniica.m}&naa|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naatiniica.m}&naa|&\na\\
   &&&\\
   &&ti|&ati = {\dn ati} = very\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1289,8 +1281,7 @@ too much sleep of the disposition, and not being awake, really, O
 Arjuna.\\
 
 \begin{tabular}{llll}
-  1a&{\dn naatya"snatastu}&naa|&na = {\dn na} = \na\\
-  &&&\notena\\
+  1a&{\dn naatya"snatastu}&naa|&\na\\
   &&&\\
   &&tya"s|&ati = {\dn ati} = very\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1314,7 +1305,6 @@ Arjuna.\\
   \hline
   &&&\\
   1b&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn caikaantamana"snata.h}&cai|&\ca\\
   &&&\\
@@ -1334,7 +1324,6 @@ Arjuna.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn caatisvapna"siilasya}&caa|&\ca\\
   &&&\\
@@ -1360,8 +1349,7 @@ Arjuna.\\
   &&&\note{{\dn jaagrati} = jaagrati = (he/she/it) is awake; watchful}\\
   &&&\note{root: {\dn jaag.r} = jaag.r}\\
   &&&\\
-  &{\dn naiva}&nai|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naiva}&nai|&\na\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -1554,8 +1542,7 @@ doing yoking of the self.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn ne"ngate}&ne"n|&na = {\dn na} = \na\\
-  &&&\notena\\
+  1b&{\dn ne"ngate}&ne"n|&\na\\
   &&&\\
   &&ga|te&ingate\\
   &&&= {\dn ingate}\\
@@ -1752,7 +1739,6 @@ he is still and does not move intrinsically.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn caivaaya.m}&cai|&\ca\\
   &&&\\
@@ -1814,8 +1800,7 @@ teacher, also, the person does not swerve.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
-  &{\dn naadhika.m}&naa|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naadhika.m}&naa|&\na\\
   &&&\\
   &&dhi|ka.m&adhikam\\
   &&&= {\dn adhikam}\\
@@ -1840,7 +1825,6 @@ teacher, also, the person does not swerve.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn du.hkhena}&du.h|khe|na&by using distress\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
@@ -2098,7 +2082,6 @@ may think of not any (thing), also.\\
   \hline
   &&&\\
   2a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn ki~ncidapi}&ki\~{}n|ci|da|&\kiJcit\\
   &&&\\
@@ -2494,7 +2477,6 @@ me).\\
   &&ha.m&\aham\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn pra.na"syaami}&pra|.na|"syaa|mi&(I) perish; disappear; escape\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -2510,7 +2492,6 @@ me).\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn pra.na"syati}&pra|.na|"sya|ti&(he/she/it) perishes; disappears; escapes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2736,7 +2717,6 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&ha.m&\aham\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -3116,8 +3096,7 @@ path (away) from God is foolish.\\
   &&&= {\dn kaccit}\\
   &&&= (?)\\
   &&&\\
-  &&no|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &&no|&\na\\
   &&&\\
   &&bha|ya|&ubhaya\\
   &&&= {\dn ubhaya}\\
@@ -3253,7 +3232,6 @@ you. (That is: There is no cutter like you).\\
   &&&\note{\noun, gender(?)}\\
   &&&\\
   &{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn hyupapadyate}&hyu|&\hi\\
   &&&\\
@@ -3290,15 +3268,13 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\notepaartha\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
-  &{\dn naiveha}&nai|&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naiveha}&nai|&\na\\
   &&&\\
   &&ve|&\eva\\
   &&&\\
   &&ha&\iha\\
   &&&\\
-  &{\dn naamutra}&naa&na = {\dn na} = \na\\
-  &&&\notena\\
+  &{\dn naamutra}&naa&\na\\
   &&&\\
   &&mu|tra&amutra = {\dn amutra} = in the next world/life\\
   &&&\note{\adverb}\\
@@ -3321,7 +3297,6 @@ does his (a devotee's) destruction exist. Surely, a good-doing
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn na}&na&\na\\
-  &&&\notena\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
