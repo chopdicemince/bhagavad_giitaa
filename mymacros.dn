@@ -122,8 +122,10 @@
   &&&\note{\adverb, \noun, \indeclinable}
 }
 
-\newcommand{\ca}{and}
-\newcommand{\noteca}{\note{\conjunction, \indeclinable}}
+\newcommand{\ca}{
+  ca = {\dn ca} = and\\
+  &&&\note{\conjunction, \indeclinable}
+}
 
 \newcommand{\cet}{if}
 \newcommand{\notecet}{\note{\conjunction, \indeclinable}}

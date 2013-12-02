@@ -99,8 +99,7 @@ At the virtue place---at the Kuru place---together, wanting to fight,
   &&&\note{\noun, \proper, \male, \plural}\\
   &&&\note{from {\dn paa.n.dava.h} = paa.n.dava.h}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &&cai|&\ca\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -342,8 +341,7 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   &&&= Viraa.ta\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -352,8 +350,7 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   &&&= Drupada\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn mahaaratha.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -392,8 +389,7 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   &&&= Kaa"siraaja\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&(?)\\
   &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
@@ -412,8 +408,7 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   &&&= Kuntibhoja\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -422,8 +417,7 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.\\
   &&&= "Saibya\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn narapu"ngava.h}&na|ra|&nara.h\\
   &&&= {\dn nara.h}\\
@@ -450,8 +444,7 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.\\
   &&&= Yudhaamanyu\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn vikraanta}&vi|kraan|ta&bold; mighty; strong\\
   &&&\note{\adjective}\\
@@ -463,8 +456,7 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.\\
   &&&= Uttamaujaa\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn viiryavaan}&viir|ya|vaan&(?)\\
   &&&\note{similar: \adjective, {\dn viiryavat} = viiryavat}\\
@@ -484,8 +476,7 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn draupadeya.h} = draupadeya.h}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -613,16 +604,14 @@ Sumadatta, likewise, really (are).\\
   &&bhii|.sma"s|&bhii.sma.h = {\dn bhii.sma.h} = Bhii.sma\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn kar.na"sca}&kar|.na"s|&kar.na.h\\
   &&&= {\dn kar.na.h}\\
   &&&= Kar.na\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -631,8 +620,7 @@ Sumadatta, likewise, really (are).\\
   &&&= K.rpa\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn samiti.mjaya.h}&sa|mi|ti.m|&samitim\\
   &&&= {\dn samitim}\\
@@ -656,8 +644,7 @@ Sumadatta, likewise, really (are).\\
   &&&= Vikar.na\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -675,7 +662,6 @@ Sumadatta, likewise, really (are).\\
   &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -693,7 +679,6 @@ war-wise.\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn bahava.h}&ba|ha|va\h{a}&many\\
   &&&\note{\adjective, \noun, \pronoun, \male}\\
@@ -847,7 +832,6 @@ Bhii.sma, O you all, really, surely.\\
   &&&\note{from {\dn ayanam} = ayanam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
   &&&\notesarveSu\\
@@ -999,16 +983,14 @@ force. That sound was tumultuous.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn "sa"nkha.h} = "sa"nkha.h}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn bherya"sca}&bher|ya"s|&(?) bhera.h\\
   &&&= {\dn bhera.h}\\
   &&&= kettle drum\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1127,8 +1109,7 @@ conch shells.\\
   &&&= Arjuna\\
   &&&\notepANDavaH\\
   &&&\\
-  &&cai|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &&cai|&\ca\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1277,8 +1258,7 @@ Sugho.sa and Ma.nipu.spaka.\\
   &&&= Sahadeva\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1309,8 +1289,7 @@ and Saatyaki (the charioteer of Lord \textkrsna), (who is) not-defeated;\dots\\
   &&&= the king of Kaa"sii\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn parame.svaasa.h}&pa|ra|me|&parama.h\\
   &&&= {\dn parama.h}\\
@@ -1328,7 +1307,6 @@ and Saatyaki (the charioteer of Lord \textkrsna), (who is) not-defeated;\dots\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn mahaaratha.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -1353,8 +1331,7 @@ and Saatyaki (the charioteer of Lord \textkrsna), (who is) not-defeated;\dots\\
   &&&= Viraa.ta\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1363,8 +1340,7 @@ and Saatyaki (the charioteer of Lord \textkrsna), (who is) not-defeated;\dots\\
   &&&= Saatyaki\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&caa|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &&caa|&\ca\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1396,8 +1372,7 @@ arm---(they) blew conch shells separately, separately [sic].\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn draupadeya.h} = draupadeya.h}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1416,8 +1391,7 @@ arm---(they) blew conch shells separately, separately [sic].\\
   &&&= son of Subhadraa\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn mahaabaahu.h}&ma|haa|&mahaan\\
   &&&= {\dn mahaan}\\
@@ -1492,8 +1466,7 @@ resounding tumult.\\
   &&&= sky\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn p.rthivii.m}&p.r|thi|vii.m&p.rthiviim\\
   &&&= {\dn p.rthiviim}\\
@@ -1501,8 +1474,7 @@ resounding tumult.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn p.rthivii} = p.rthivii}\\
   &&&\\
-  &{\dn caiva}&cai|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &{\dn caiva}&cai|&\ca\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1989,7 +1961,6 @@ Kurus.''\\
   &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn mahiik.sitaam}&ma|hii|&{\dn mahii}\\
   &&&= earth; heaven; world\\
@@ -2139,8 +2110,7 @@ friends, really, in the two armies, also.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn suh.rt} = suh.rt}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &&cai|&\ca\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2317,7 +2287,6 @@ and legs of me sink, and the mouth (of me) parches.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn pari"su.syati}&pa|ri|"su|.sya|ti&(he/she/it) parches; dries up\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2339,8 +2308,7 @@ me). And the skin (of me) really burns.\\
   &&&= trembling\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn "sariire}&"sa|rii|re&\zarIre\\
   &&&\notezarIre\\
@@ -2355,8 +2323,7 @@ me). And the skin (of me) really burns.\\
   &&&= standing up of hairs; goose pimples\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&(he/she/it) is being born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2387,8 +2354,7 @@ me). And the skin (of me) really burns.\\
   &&&= skin\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&cai|&ca = {\dn ca} = \ca\\
-  &&&\noteca\\
+  &&cai|&\ca\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2411,7 +2377,6 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&\notena\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn "saknomyavasthaatu.m}&"sak|no|mya|&"saknomi\\
   &&&= {\dn "saknomi}\\
@@ -2437,7 +2402,6 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&\noteiva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
@@ -2454,7 +2418,6 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&\note{from {\dn nimittam} = nimittam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn pa"syaami}&pa"|syaa|mi&(I) see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -2494,7 +2457,6 @@ war. (I) wish (for) no victory, O \textkrsna, and no kingdom, and (no)
   &&&\notena\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn "sreyo.anupa"syaami}&"sre|yo|&"sreya.h\\
   &&&= {\dn "sreya.h}\\
@@ -2553,7 +2515,6 @@ war. (I) wish (for) no victory, O \textkrsna, and no kingdom, and (no)
   &&&\notena\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn raajya.m}&raa|jya.m&raajyam\\
   &&&= {\dn raajyam}\\
@@ -2566,7 +2527,6 @@ war. (I) wish (for) no victory, O \textkrsna, and no kingdom, and (no)
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2651,7 +2611,6 @@ whom (is) a desire for us (for) a kingdom, (acts of) enjoyment, and
   &&&\note{from {\dn sukham} = sukham}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2702,7 +2661,6 @@ really, and paternal grandfathers.\\
   &&&\note{from {\dn dhanam} = dhanam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2734,7 +2692,6 @@ really, and paternal grandfathers.\\
   &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn pitaamahaa.h}&pi|taa|ma|haa\h{aa}&(\vocativephrase) paternal grandfathers\\
   &&&\note{\noun, \male, \plural}\\
@@ -3124,7 +3081,6 @@ end (as) an action (of) wickedness, and sin in a friend-rebellion
   &&&\note{from {\dn droha.h} = droha.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
   &&&\\
   &{\dn paatakam}&paa|ta|kam&sin; crime; loss of caste\\
   &&&\note{\noun, \neuter}\\
@@ -3428,7 +3384,6 @@ water to their ancestors).\\
   &&&\note{from {\dn kulam} = kulam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  &&&\noteca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3561,8 +3516,7 @@ as a bad person.)\\
   &&&\notedharmAH\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &&ca&{\dn ca} = \ca\\
-  &&&\noteca\\
+  &&ca&\ca\\
   &&&\\
   &{\dn "saa"svataa.h}&"saa|"sva|taa\h{aa}&(\vocativephrase) eternal\\
   &&&\note{\adjective, \male, \plural}\\
