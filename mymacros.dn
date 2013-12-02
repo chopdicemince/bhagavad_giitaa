@@ -147,8 +147,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iha}{in this world; here; now}
-\newcommand{\noteiha}{\note{\adverb, \indeclinable}}
+\newcommand{\iha}{
+  iha = {\dn iha} = in this world; here; now\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\iti}{thus; ``end of quote''}
 \newcommand{\noteiti}{\note{\adverb, \indeclinable}}
