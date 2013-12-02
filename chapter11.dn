@@ -195,10 +195,7 @@ O ultimate-man (O \textkrsna).\\
   &&ta|dya|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
   &&&\\
-  &&thaat|&yathaa\\
-  &&&= {\dn yathaa}\\
-  &&&= \yathaa\\
-  &&&\noteyathaa\\
+  &&thaat|&\yathaa\\
   &&&\\
   &&tha&aattha\\
   &&&= {\dn aattha}\\
@@ -2803,7 +2800,6 @@ instead of the usual eight.)\\
 
 \begin{tabular}{llll}
   1a&{\dn yathaa}&ya|thaa&\yathaa\\
-  &&&\noteyathaa\\
   &&&\\
   &{\dn nadiinaa.m}&na|dii|naa.m&nadiinaam\\
   &&&= {\dn nadiinaam}\\
@@ -2913,7 +2909,6 @@ instead of the usual eight.)\\
 
 \begin{tabular}{llll}
   1a&{\dn yathaa}&ya|thaa&\yathaa\\
-  &&&\noteyathaa\\
   &&&\\
   &{\dn pradiipta.m}&pra|diip|ta.m&pradiiptam\\
   &&&= {\dn pradiiptam}\\
@@ -5812,7 +5807,6 @@ see(n). You (have) seen me just as (I was).\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
-  &&&\noteyathaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

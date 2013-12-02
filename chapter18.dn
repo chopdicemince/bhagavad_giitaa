@@ -1581,9 +1581,7 @@ Just as (full?), hear these, also.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yathaavacch.r.nu}&ya|thaa|&{\dn yathaa}\\
-  &&&= \yathaa\\
-  &&&\noteyathaa\\
+  2b&{\dn yathaavacch.r.nu}&ya|thaa|&\yathaa\\
   &&&\\
   &&vac|&vat = {\dn vat} = \vat\\
   &&&\notevat\\
@@ -2618,9 +2616,7 @@ of passion.\\
   &&a|&{\dn a} = not\\
   &&&\notea\\
   &&&\\
-  &&ya|thaa|&{\dn yathaa}\\
-  &&&= \yathaa\\
-  &&&\noteyathaa\\
+  &&ya|thaa|&\yathaa\\
   &&&\\
   &&vat|&{\dn vat} = \vat\\
   &&&\notevat\\
@@ -3871,7 +3867,6 @@ success.\\
   \hline
   &&&\\
   2b&{\dn yathaa}&ya|thaa&\yathaa\\
-  &&&\noteyathaa\\
   &&&\\
   &{\dn vindati}&vin|da|ti&\vindati\\
   &&&\notevindati\\
@@ -4254,7 +4249,6 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
-  &&&\noteyathaa\\
   &&&\\
   &{\dn brahma}&brah|ma&brahman\\
   &&&= {\dn brahman}\\
@@ -5351,8 +5345,7 @@ thus, O Kuru (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yathecchasi}&ya|thec|&yathaa = {\dn yathaa} = \yathaa\\
-  &&&\noteyathaa\\
+  2b&{\dn yathecchasi}&ya|thec|&\yathaa\\
   &&&\\
   &&cha|si&icchasi\\
   &&&= {\dn icchasi}\\
