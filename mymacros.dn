@@ -192,8 +192,10 @@
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\yadi}{if}
-\newcommand{\noteyadi}{\note{\conjunction, \indeclinable}}
+\newcommand{\yadi}{
+  yadi = {\dn yadi} = if\\
+  &&&\note{\conjunction, \indeclinable}
+}
 
 \newcommand{\tataH}{from that; therefore}
 \newcommand{\notetataH}{\note{\adverb, \indeclinable}}
