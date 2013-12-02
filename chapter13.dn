@@ -223,9 +223,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&maa.m&\maam\\
   &&&\\
   &{\dn viddhi}&vid|dhi&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -295,8 +293,6 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\notematam\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -386,8 +382,6 @@ me.\\
   &&&\note{from {\dn samaasa.h} = samaasa.h}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
   &&&= {\dn "s.r.notu}\\
@@ -910,8 +904,6 @@ alone, place-residing, no sex, man-meeting, \dots\\
 
 \begin{tabular}{llll}
   1a&{\dn mayi}&ma|yi&\mayi\\
-  &&&\notemayi\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn caananyayogena}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
@@ -1132,9 +1124,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&= beginning\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn matpara.m}&mat|&{\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn matpara.m}&mat|&\mat\\
   &&&\\
   &&pa|ra.m&param\\
   &&&= {\dn param}\\
@@ -1239,9 +1229,7 @@ me, in the world, each (thing) (is) covered. (God) stays.\\
   &&&= ear; hearing; knowledge\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&mal|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&mal|&\mat\\
   &&&\\
   &&lo|ke&{\dn loke}\\
   &&&= at/in/on at/the world; human race; place\\
@@ -1676,9 +1664,7 @@ from-be-behavior.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn madbhakta}&mad|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2a&{\dn madbhakta}&mad|&\mat\\
   &&&\\
   &&bhak|ta&bhakta.h\\
   &&&= {\dn bhakta.h}\\
@@ -1699,9 +1685,7 @@ from-be-behavior.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn madbhaavaayopapadyate}\\
   &&&\\
-  &&mad|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&mad|&\mat\\
   &&&\\
   &&bhaa|vaa|yo|&bhaavaaya\\
   &&&= {\dn bhaavaaya}\\

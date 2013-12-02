@@ -3,7 +3,7 @@
 \usepackage{devanagari}
 \usepackage{graphicx}
 
-\usepackage{mymacros}
+\include{mymacros}
 % ------------------------------------------------------------------------------
 \addtolength{\oddsidemargin}{0mm}
 \addtolength{\evensidemargin}{-38mm}

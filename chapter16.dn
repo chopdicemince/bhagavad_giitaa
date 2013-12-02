@@ -500,8 +500,6 @@ Arjuna), hear (about) the demon (from) me.\\
   &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
   &&&= {\dn "s.r.notu}\\
@@ -1095,8 +1093,6 @@ is. This, also, for me, will be, again, money.\\
   &&&\note{\noun, \adverb, \indeclinable}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn labdhamima.m}&lab|dha|&labdham\\
   &&&= {\dn labdham}\\
@@ -1140,8 +1136,6 @@ is. This, also, for me, will be, again, money.\\
   &&&\noteapi\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1172,8 +1166,6 @@ full of strength, (and) a happy person.\\
   1a&{\dn asau}&a|sau&(?)\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn hata.h}&ha|ta\h{a}&hit; hurt; killed\\
   &&&\note{\adjective, \male}\\
@@ -1210,11 +1202,9 @@ full of strength, (and) a happy person.\\
   &&&= lord; god; God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&'ha|ma|&\aham\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn bhogii}&bho|gii&(?) enjoyer\\
   &&&\note{\noun, \male(?)}\\
@@ -1228,8 +1218,7 @@ full of strength, (and) a happy person.\\
   &&&= successful\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&'ha.m&\aham\\
   &&&\\
   &{\dn balavaansukhii}&ba|la|&bala.h\\
   &&&= {\dn bala.h}\\
@@ -1296,8 +1285,6 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1572,9 +1559,7 @@ in bodies.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn maamaatmaparadehe.su}\\
   &&&\\
-  &&maa|maat|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&maa|maat|&\maam\\
   &&&\\
   &&ma|&aatma\\
   &&&= {\dn aatma}\\
@@ -1621,8 +1606,7 @@ life.\\
   &&&\notetaan\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn dvi.sata.h}&dvi|.sa|ta\h{a}&(?) detesting\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
@@ -1743,9 +1727,7 @@ go (on) the lowest path.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamapraapyaiva}&maa|ma|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2a&{\dn maamapraapyaiva}&maa|ma|&\maam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\

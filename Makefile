@@ -6,6 +6,7 @@ gita.pdf: gita.tex
 	pdflatex gita.tex # Run 2. For any references.
 
 gita.tex: gita.dn \
+  mymacros.tex \
   chapter_about_the_bhagavad_gita.tex \
   chapter_about_this_book.tex \
   chapter_about_hinduism.tex \
@@ -30,10 +31,12 @@ gita.tex: gita.dn \
   chapter16.tex \
   chapter17.tex \
   chapter18.tex \
-  mymacros.sty \
 
 	devnag gita.dn
 # ------------------------------------------------------------------------------
+mymacros.tex: mymacros.dn
+	devnag mymacros.dn
+
 chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
 	devnag chapter_about_the_bhagavad_gita.dn
 

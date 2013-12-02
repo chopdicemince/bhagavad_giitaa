@@ -518,9 +518,7 @@ Brahman-ultimate (O Dro.na)---leaders-of-the-soldier of me. The
 name-purpose (of the leaders)---I say those for you: \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn asmaaka.m}&a|smaa|ka.m&asmaakam = {\dn asmaakam} = \asmaakam\\
-  &&&\noteasmaakam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1a&{\dn asmaaka.m}&a|smaa|ka.m&\asmaakam\\
   &&&\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
@@ -567,8 +565,6 @@ name-purpose (of the leaders)---I say those for you: \dots\\
   &&&\note{from {\dn naayaka.h} = naayaka.h}\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sainyasya}&sai|nya|sya&of a/the solider\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -711,9 +707,7 @@ war-wise.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madarthe}&ma|dar|&me = {\dn me} = \me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1b&{\dn madarthe}&ma|dar|&\me\\
   &&&\\
   &&the&arthe\\
   &&&= {\dn arthe}\\
@@ -784,9 +778,7 @@ Bhiima-protected.\\
   &{\dn tadasmaaka.m}&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&smaa|ka.m&asmaakam = {\dn asmaakam} = \asmaakam\\
-  &&&\noteasmaakam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&smaa|ka.m&\asmaakam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1697,9 +1689,7 @@ fight-desires-(soldiers), standing, \dots\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
   &&&\\
-  &{\dn me.acyuta}&me|&{\dn me} = \me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn me.acyuta}&me|&\me\\
   &&&\\
   &&'|&a = {\dn a} = not\\
   &&&\notea\\
@@ -1727,8 +1717,7 @@ fight-desires-(soldiers), standing, \dots\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn niriik.s} = niriik.s}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&'ha.m&\aham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1768,9 +1757,7 @@ fight-desires-(soldiers), standing, \dots\\
   &&&\notekaiH{\male}\\
   &&&\note{from {\dn ka.h} = ka.h = \kaH}\\
   &&&\\
-  &&ma|yaa&{\dn mayaa} = \mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&ma|yaa&\mayaa\\
   &&&\\
   &{\dn saha}&sa|ha&with\\
   &&&\note{\preposition, \indeclinable}\\
@@ -1828,8 +1815,7 @@ war (with) a pleasing wish.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn avek.s} = avek.s}\\
   &&&\\
-  &&'ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&'ha.m&\aham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2323,8 +2309,6 @@ and legs of me sink, and the mouth (of me) parches.\\
   &&&\note{root: {\dn sad} = sad}\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn gaatraa.ni}&gaa|traa|.ni&bodies; arms and legs\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -2368,8 +2352,6 @@ me). And the skin (of me) really burns.\\
   &&&\note{from {\dn "sariiram} = "sariiram}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2463,8 +2445,6 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&\noteca\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&mind\\
   &&&\note{\noun, \male}\\
@@ -2608,10 +2588,7 @@ whom (is) a desire for us (for) a kingdom, (acts of) enjoyment, and
   1a&{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
   &&&\notekim\\
   &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn no}&no&\naH\\
   &&&\\
   &{\dn raajyena}&raa|jye|na&by using a/the kingdom; state; government\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
@@ -2661,10 +2638,7 @@ whom (is) a desire for us (for) a kingdom, (acts of) enjoyment, and
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn no}&no&na.h = {\dn na.h} = us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn no}&no&\naH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2924,10 +2898,7 @@ now? For the sake of earth? (Killing?) the sons of
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn dhaartaraa.s.tra.h} = dhaartaraa.s.tra.h}\\
   &&&\\
-  &&na\h{a}&{\dn na.h} = us; for us; of us (our)\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&na\h{a}&\naH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2984,9 +2955,7 @@ happy may (we) be, O \textkrsna?\\
   &&&\note{= (he/she/it) enters; attaches; inhabits}\\
   &&&\note{root: {\dn aa"sri} = aa"sri}\\
   &&&\\
-  &&smaan|&asmaan = {\dn asmaan} = us\\
-  &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&smaan|&\asmaan\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3025,9 +2994,7 @@ happy may (we) be, O \textkrsna?\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn arha.h} = arha.h}\\
   &&&\\
-  &{\dn vaya.m}&va|ya.m&vayam = {\dn vayam} = we\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn vaya.m}&va|ya.m&\vayam\\
   &&&\\
   &{\dn hantu.m}&han|tu.m&hantum\\
   &&&= {\dn hantum}\\
@@ -3194,12 +3161,7 @@ O man-disturbance (O \textkrsna).\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&smaa|bhi\h{i}&asmaabhi.h\\
-  &&&= {\dn asmaabhi.h}\\
-  &&&= by using us\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{\instrumentalcase}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&smaa|bhi\h{i}&\asmAbhiH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3738,9 +3700,7 @@ family.\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn vyavasita.h} = vyavasita.h}\\
   &&&\\
-  &{\dn vayam}&va|yam&we\\
-  &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn vayam}&va|yam&\vayam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3801,9 +3761,7 @@ battlefield---that, for me, (is) more comfortable.\\
   &&&\\
   &\multicolumn{3}{l}{{\dn maamapratiikaarama"sastra.m}}\\
   &&&\\
-  &&maa|ma|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&maa|ma|&\maam\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -3858,9 +3816,7 @@ battlefield---that, for me, (is) more comfortable.\\
   2b&&stan|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&me&{\dn me} = \me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&me&\me\\
   &&&\\
   &{\dn k.sematara.m}&k.se|ma|&comfortable; secure\\
   &&&\note{\adjective}\\

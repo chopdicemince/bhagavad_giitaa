@@ -254,9 +254,7 @@ death-life-road.\\
   &&&= procurable; attainable\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn nivartante}&ni|var|tan|te&(they) abandon; return\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -290,8 +288,6 @@ By me, all this world is spread, by (my) non-visible form. All beings
 
 \begin{tabular}{llll}
   1a&{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn tatamida.m}&ta|ta|mi|&tatam\\
   &&&= {\dn tatam}\\
@@ -331,9 +327,7 @@ By me, all this world is spread, by (my) non-visible form. All beings
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn matsthaani}&mat|&{\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2a&{\dn matsthaani}&mat|&\mat\\
   &&&\\
   &&sthaa|ni&{\dn sthaani}\\
   &&&= \sthaani\\
@@ -357,8 +351,7 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &{\dn caaha.m}&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn te.svavasthita.h}&te|.sva|&te.su = {\dn te.su} = at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
@@ -385,9 +378,7 @@ being-bearing and not being-standing. My self is the being-creator.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn matsthaani}&mat|&{\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn matsthaani}&mat|&\mat\\
   &&&\\
   &&sthaa|ni&{\dn sthaani}\\
   &&&= \sthaani\\
@@ -407,8 +398,6 @@ being-bearing and not being-standing. My self is the being-creator.\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s.}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn yogamai"svaram}&yo|ga|mai|&yogam\\
   &&&= {\dn yogam}\\
@@ -452,9 +441,7 @@ being-bearing and not being-standing. My self is the being-creator.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mamaatmaa}&ma|maat|&mama = {\dn mama} = \mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2b&{\dn mamaatmaa}&ma|maat|&\mama\\
   &&&\\
   &&maa&aatmaa\\
   &&&= {\dn aatmaa}\\
@@ -536,9 +523,7 @@ thus---consider (these words).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn matsthaaniityupadhaaraya}&mat|&{\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2b&{\dn matsthaaniityupadhaaraya}&mat|&\mat\\
   &&&\\
   &&sthaa|nii|&sthaani\\
   &&&= {\dn sthaani}\\
@@ -594,7 +579,7 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &{\dn maamikaam}&maa|mi|kaam&(?)\\
   &&&\note{similar: \pronoun, \firstperson, \accusativecase,}\\
   &&&\note{{\dn maam} = maam = me}\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&&\note{\nounrootasmad}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -634,8 +619,7 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vis.rj} = vis.rj}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -736,9 +720,7 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn taani}&taa|ni&\taani\\
   &&&\notetaani\\
@@ -815,9 +797,7 @@ for this reason, O son of Kuntii (O Arjuna), the world returns (in its
 cycle of creation and destruction).\\
 
 \begin{tabular}{llll}
-  1a&{\dn mayaadhyak.se.na}&ma|yaa|&{\dn mayaa} = \mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1a&{\dn mayaadhyak.se.na}&ma|yaa|&\mayaa\\
   &&&\\
   &&dhya|k.se|.na&adhyak.se.na\\
   &&&= {\dn adhyak.se.na}\\
@@ -895,9 +875,7 @@ Fools despise me, occupying a woman form. (Fools are) not knowing
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn avaj~naa} = avaj\~{}naa}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn muu.dhaa}&muu|.dhaa&muu.dhaa.h\\
   &&&= {\dn muu.dhaa.h}\\
@@ -952,8 +930,6 @@ Fools despise me, occupying a woman form. (Fools are) not knowing
   \hline
   &&&\\
   2b&{\dn mama}&ma|ma&\mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhuutamahe"svaram}&bhuu|ta|&bhuutam\\
   &&&= {\dn bhuutam}\\
@@ -1081,9 +1057,7 @@ mind, (at) the start, and not-changeable.\\
   &&stu&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&= O Arjuna\\
@@ -1186,9 +1160,7 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
   &&&\note{{\dn kiirtayanti} = kiirtayanti = (they) praise}\\
   &&&\note{root: {\dn kiirt} = kiirt}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1227,9 +1199,7 @@ homage (to) me, using faith. Eternal(ly)-yoked, they sit.\\
   &&ca&{\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
   &&&\notebhaktyaa\\
@@ -1292,9 +1262,7 @@ homage (to) me, using oneness, discretely, everywhere-face.\\
   &&&= worshipper\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn maamupaasate}&maa|mu|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maamupaasate}&maa|mu|&\maam\\
   &&&\\
   &&paa|sa|te&upaasate\\
   &&&= {\dn upaasate}\\
@@ -1339,16 +1307,14 @@ herb(s). I (am) magic speech. I, really, (am) melted butter. I (am)
 fire. I (am) sacrifice.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  1a&{\dn aha.m}&a|ha.m&\aham\\
   &&&\\
   &{\dn kraturaha.m}&kra|tu|ra|&kratu.h\\
   &&&= {\dn kratu.h}\\
   &&&= intelligence; rite; sacrifice\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn yaj~na.h}&ya|j\~{}na\h{a}&\yajJaH\\
   &&&\noteyajJaH\\
@@ -1359,11 +1325,9 @@ fire. I (am) sacrifice.\\
   &&&= self-power; self-state; sacrifice\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|ma|&\aham\\
   &&&\\
-  &&ha|mau|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|mau|&\aham\\
   &&&\\
   &&.sa|dham&au.sadham\\
   &&&= {\dn au.sadham}\\
@@ -1380,11 +1344,9 @@ fire. I (am) sacrifice.\\
   &&&= magic speech\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|ma|&\aham\\
   &&&\\
-  &&ha|me|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|me|&\aham\\
   &&&\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -1396,16 +1358,14 @@ fire. I (am) sacrifice.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|ha|mag|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  2b&&ma|ha|mag|&\aham\\
   &&&\\
   &&ni|ra|&agni.h\\
   &&&= {\dn agni.h}\\
   &&&= \agniH\\
   &&&\noteagniH\\
   &&&\\
-  &&ha.m|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m|&\aham\\
   &&&\\
   &&hu|tam&{\dn hutam}\\
   &&&= sacrifice\\
@@ -1429,8 +1389,7 @@ really.\\
   &&&\note{\noun, \male}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|ma|&\aham\\
   &&&\\
   &&sya&asya = {\dn asya} = \asya\\
   &&&\noteasya\\
@@ -1588,11 +1547,9 @@ really, death. And I (am) truth and non-truth, O Arjuna.\\
   &&&\note{similar: \noun, \male, {\dn tapa.h} = tapa.h}\\
   &&&\note{= heat}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|ma|&\aham\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn var.sa.m}&var|.sa.m&var.sam\\
   &&&= {\dn var.sam}\\
@@ -1662,8 +1619,7 @@ really, death. And I (am) truth and non-truth, O Arjuna.\\
   &&caa|&ca = {\dn ca} = \ca\\
   &&&\noteca\\
   &&&\\
-  &&ha|mar|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|mar|&\aham\\
   &&&\\
   &&ju|na&arjuna\\
   &&&= {\dn arjuna}\\
@@ -1694,9 +1650,7 @@ a verse, each line has eight main syllables.)\\
   &&&= knowledge; magic\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn somapaa.h}&so|ma|&{\dn soma.h}\\
   &&&= nectar; magic drug; moon; air; water\\
@@ -1958,9 +1912,7 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&\note{{\dn cintayanti} = cintayanti = (they) think}\\
   &&&\note{root: {\dn cint} = cint}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2016,8 +1968,7 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn vah} = vah}\\
   &&&\\
-  &&ham&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ham&\aham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2080,9 +2031,7 @@ with a non-(good-)behavior.\\
   &&'pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn maameva}&maa|me|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maameva}&maa|me|&\maam\\
   &&&\\
   &&va&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -2120,8 +2069,7 @@ really. And, but, they do not know me using the truth. Therefore, they
 fall.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aha.m}&a|ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  1a&{\dn aha.m}&a|ha.m&\aham\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
@@ -2165,9 +2113,7 @@ fall.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maamabhijaananti}&maa|ma|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maamabhijaananti}&maa|ma|&\maam\\
   &&&\\
   &&bhi|jaa|nan|ti&abhijaananti\\
   &&&= {\dn abhijaananti}\\
@@ -2279,9 +2225,7 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn madyaajino.apimaam}&ma|dyaa|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn madyaajino.apimaam}&ma|dyaa|&\mat\\
   &&&\\
   &&ji|no|&yaajina.h\\
   &&&= {\dn yaajina.h}\\
@@ -2292,9 +2236,7 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&pi|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&maam&{\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&maam&\maam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2337,8 +2279,6 @@ pure-self.\\
   &&&\noteyaH\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
   &&&\notebhaktyaa\\
@@ -2355,8 +2295,7 @@ pure-self.\\
   &&&\notetat\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn bhaktyupah.rtama"snaami}&bhak|tyu|&bhakti.h\\
   &&&= {\dn bhakti.h}\\
@@ -2462,9 +2401,7 @@ Arjuna), that (is) a giving (to) me.\\
   &&ku|ru|.sva&{\dn kuru.sva}\\
   &&&= (?)\\
   &&&\\
-  &{\dn madarpa.nam}&ma|dar|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn madarpa.nam}&ma|dar|&\mat\\
   &&&\\
   &&pa|.nam&arpa.nam\\
   &&&= {\dn arpa.nam}\\
@@ -2554,9 +2491,7 @@ yoked-self, (you) will approach me.\\
   &&&= \vimuktaH\\
   &&&\notevimuktaH\\
   &&&\\
-  &{\dn maamupai.syasi}&maa|mu|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maamupai.syasi}&maa|mu|&\maam\\
   &&&\\
   &&pai|.sya|si&upai.syasi\\
   &&&= {\dn upai.syasi}\\
@@ -2582,8 +2517,7 @@ also, I (am) in them.\\
   &&&= \samaH\\
   &&&\notesamaH\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn sarvabhuute.su}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\
@@ -2600,8 +2534,6 @@ also, I (am) in them.\\
   &&&\notena\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn dev.syo.asti}&dev|.syo|&dev.sya.h\\
   &&&= {\dn dev.sya.h}\\
@@ -2632,9 +2564,7 @@ also, I (am) in them.\\
   &{\dn tu}&tu&\tu\\
   &&&\notetu\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
   &&&\notebhaktyaa\\
@@ -2643,8 +2573,6 @@ also, I (am) in them.\\
   \hline
   &&&\\
   2b&{\dn mayi}&ma|yi&\mayi\\
-  &&&\notemayi\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn te}&te&\temale\\
   &&&\notetemale\\
@@ -2660,8 +2588,7 @@ also, I (am) in them.\\
   &&pya|&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &&ham&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ham&\aham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2695,9 +2622,7 @@ correctly---he (is) convinced, surely.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn maamananyabhaak}&maa|ma|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maamananyabhaak}&maa|ma|&\maam\\
   &&&\\
   &&na|&an = {\dn an} = \an\\
   &&&\notean\\
@@ -2812,8 +2737,6 @@ son of Kuntii (O Arjuna), assert (that) my devotee does not die.\\
   &&&\notena\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn bhakta.h}&bhak|ta\h{a}&\bhaktaH\\
   &&&\notebhaktaH\\
@@ -2833,9 +2756,7 @@ sin \dots, females of the third caste---likewise, people of the fourth
 caste---they, also, go (on) the paramount path.\\
 
 \begin{tabular}{llll}
-  1a&{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1a&{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\notehi\\
@@ -3011,8 +2932,6 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&\note{= sharing; adoration; worship}\\
   &&&\\
   &{\dn maam}&maam&\maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3035,25 +2954,19 @@ really, (you are) devoted to me.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn madbhakto}&mad|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn madbhakto}&mad|&\mat\\
   &&&\\
   &&bhak|to&bhakta.h = {\dn bhakta.h} = \bhaktaH\\
   &&&\notebhaktaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madyaajii}&ma|dyaa|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1b&{\dn madyaajii}&ma|dyaa|&\mat\\
   &&&\\
   &&jii&yaajii = {\dn yaajii} = (?) worshipper\\
   &&&\note{\noun, \male(?)}\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn namaskuru}&na|ma|sku&namas\\
   &&&= {\dn namas}\\
@@ -3071,9 +2984,7 @@ really, (you are) devoted to me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn maamevai.syasi}&maa|me|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  2a&{\dn maamevai.syasi}&maa|me|&\maam\\
   &&&\\
   &&vai|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
@@ -3100,9 +3011,7 @@ really, (you are) devoted to me.\\
   &&&\noteaatmaanam\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &{\dn matparaaya.na.h}&mat|&{\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn matparaaya.na.h}&mat|&\mat\\
   &&&\\
   &&pa|raa|ya|.na\h{a}&{\dn paraaya.na.h}\\
   &&&= devoted to\\

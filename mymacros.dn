@@ -10,6 +10,7 @@
 \newcommand{\note}[1]{\mytextcolor{[#1]}}
 \newcommand{\transliteration}[1]{\mytextcolor{#1}}
 \newcommand{\h}[1]{\mytextcolor{(|.h(#1))}}
+\newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
 % ------------------------------------------------------------------------------
 \newcommand{\textdhrtaraastra}{Dh.rtaraa.s.tra}
 \newcommand{\textsanjaya}{Sa\~{}njaya}
@@ -311,30 +312,88 @@
 \newcommand{\notevaH}{\note{\pronoun, \secondperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}}
 % ------------------------------------------------------------------------------
-\newcommand{\aham}{I}
-\newcommand{\noteaham}{\note{\pronoun, \firstperson}}
+% First-person pronouns.
+\newcommand{\nounrootasmad}{\nounroot{\dn asmad}{asmad}}
 
-\newcommand{\maam}{me}
-\newcommand{\notemaam}{\note{\pronoun, \firstperson, \accusativecase}}
+\newcommand{\aham}{
+  aham = {\dn aham} = I\\
+  &&&\note{\pronoun, \firstperson, \nominativecase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\me}{\dativephrase\ me; \genitivephrase\ me (my)}
-\newcommand{\noteme}{\note{\pronoun, \firstperson}\\
-  &&&\note{\dativecase, \genitivecase}}
+\newcommand{\maam}{
+  maam = {\dn maam} = me\\
+  &&&\note{\pronoun, \firstperson, \accusativecase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\mayaa}{\instrumentalphrase\ me}
-\newcommand{\notemayaa}{\note{\pronoun, \firstperson, \instrumentalcase}}
+\newcommand{\me}{
+  me = {\dn me} = \dativephrase\ me; \genitivephrase\ me (my)\\
+  &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\mat}{\ablativephrase\ me}
-\newcommand{\notemat}{\note{\pronoun, \firstperson, \ablativecase}}
+\newcommand{\mayaa}{
+  mayaa = {\dn mayaa} = \instrumentalphrase\ me\\
+  &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\mama}{\genitivephrase\ me (my)}
-\newcommand{\notemama}{\note{\pronoun, \firstperson, \genitivecase}}
+\newcommand{\mat}{
+  mat = {\dn mat} = \ablativephrase\ me\\
+  &&&\note{\pronoun, \firstperson, \ablativecase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\mayi}{\locativephrase\ me}
-\newcommand{\notemayi}{\note{\pronoun, \firstperson, \locativecase}}
+\newcommand{\mama}{
+  mama = {\dn mama} = \genitivephrase\ me (my)\\
+  &&&\note{\pronoun, \firstperson, \genitivecase}\\
+  &&&\note{\nounrootasmad}
+}
 
-\newcommand{\asmaakam}{\genitivephrase\ us (our)}
-\newcommand{\noteasmaakam}{\note{\pronoun, \firstperson, \plural, \genitivecase}}
+\newcommand{\mayi}{
+  mayi = {\dn mayi} = \locativephrase\ me\\
+  &&&\note{\pronoun, \firstperson, \locativecase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\AvayoH}{
+  aavayo.h = {\dn aavayo.h} = \genitivephrase/\locativephrase\ us two\\
+  &&&\note{\pronoun, \firstperson, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\vayam}{
+  vayam = {\dn vayam} = we\\
+  &&&\note{\pronoun, \firstperson, \plural, \nominativecase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\asmaan}{
+  asmaan = {\dn asmaan} = us\\
+  &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\naH}{
+  na.h = {\dn na.h} = us; \dativephrase\ us; \genitivephrase us (our)\\
+  &&&\note{\pronoun, \firstperson, \plural}\\
+  &&&\note{\accusativecase, \dativecase, \genitivephrase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\asmAbhiH}{
+  asmaabhi.h = {\dn asmaabhi.h} = \instrumentalphrase\ us\\
+  &&&\note{\pronoun, \firstperson, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootasmad}
+}
+
+\newcommand{\asmaakam}{
+  asmaakam = {\dn asmaakam} = \genitivephrase\ us (our)\\
+  &&&\note{\pronoun, \firstperson, \plural, \genitivecase}\\
+  &&&\note{\nounrootasmad}
+}
 % ------------------------------------------------------------------------------
 % Interrogative pronouns.
 

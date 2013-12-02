@@ -46,8 +46,7 @@ Ik.svaaku.\\
   &&&\note{\male}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&ha|ma|&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha|ma|&\aham\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -185,8 +184,6 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\noteayam\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn te.adya}&te|&{\dn te} = \teyou\\
   &&&\noteteyou\\
@@ -219,8 +216,6 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn sakhaa}&sa|khaa&sakhaa.h\\
   &&&= {\dn sakhaa.h}\\
@@ -365,8 +360,6 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\note{from {\dn bahu} = bahu}\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vyatiitaani}&vya|ti|taa|ni&passed; gone; abandoned\\
   &&&\note{\adjective, \neuter, \plural}\\
@@ -396,8 +389,7 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\notetaani\\
   &&&\note{from {\dn tat} = tat}\\
   &&&\\
-  &&ha.m&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ha.m&\aham\\
   &&&\\
   &{\dn veda}&ve|da&veda.h\\
   &&&= {\dn veda.h}\\
@@ -595,8 +587,7 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn s.rj} = s.rj}\\
   &&&\\
-  &&ham&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ham&\aham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -688,8 +679,6 @@ goes toward me, O Arjuna.\\
   &&&\noteca\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn divyameva.m}&di|vya|&divyam\\
   &&&= {\dn divyam}\\
@@ -745,9 +734,7 @@ goes toward me, O Arjuna.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn i} = i}\\
   &&&\\
-  &{\dn maameti}&maa|me|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maameti}&maa|me|&\maam\\
   &&&\\
   &&ti&eti\\
   &&&= {\dn eti}\\
@@ -797,17 +784,11 @@ happened.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn manmayaa}&man|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  1b&{\dn manmayaa}&man|&\mat\\
   &&&\\
-  &&ma|yaa&{\dn mayaa} = \mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &&ma|yaa&\mayaa\\
   &&&\\
-  &{\dn maamupaa"sritaa.h}&maa|mu|&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maamupaa"sritaa.h}&maa|mu|&\maam\\
   &&&\\
   &&\multicolumn{2}{l}{paa|"sri|taa\h{aa}}\\
   &&&\\
@@ -842,9 +823,7 @@ happened.\\
   &&&= pure; clean; clear\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\\
-  &{\dn madbhaavamaagataa.h}&mad|&mat = {\dn mat} = \mat\\
-  &&&\notemat\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn madbhaavamaagataa.h}&mad|&\mat\\
   &&&\\
   &&bhaa|va|maa|&bhaavam\\
   &&&= {\dn bhaavam}\\
@@ -875,9 +854,7 @@ follow my path, O prince (O Arjuna), all together.\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
   &&&\noteyathaa\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn prapadyante}&pa|pa|dyan|te&(they) do; seek refuge with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -901,15 +878,12 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &&ham&aham = {\dn aham} = \aham\\
-  &&&\noteaham\\
+  &&ham&\aham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn mama}&ma|ma&\mama\\
-  &&&\notemama\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn vartmaanuvartante}&vart|maa|&vartman\\
   &&&= {\dn vartman}\\
@@ -1040,8 +1014,6 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-  &&&\notemayaa\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn s.r.s.ta.m}&s.r.s|.ta.m&.s.r.s.tam\\
   &&&= {\dn .s.r.s.tam}\\
@@ -1084,9 +1056,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&pi&api = {\dn api} = \api\\
   &&&\noteapi\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1129,9 +1099,7 @@ says one who knows me. He does not suffer in action.\\
   1a&{\dn na}&na&\na\\
   &&&\notena\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
   &&&\notekarmANi\\
@@ -1147,8 +1115,6 @@ says one who knows me. He does not suffer in action.\\
   &&&\notena\\
   &&&\\
   &{\dn me}&me&\me\\
-  &&&\noteme\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
   &&&\\
   &{\dn karmaphale}&kar|ma|&karman\\
   &&&= {\dn karman}\\
@@ -1169,9 +1135,7 @@ says one who knows me. He does not suffer in action.\\
   2a&{\dn iti}&i|ti&\iti\\
   &&&\noteiti\\
   &&&\\
-  &{\dn maa.m}&maa.m&maam = {\dn maam} = \maam\\
-  &&&\notemaam\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
+  &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn yo.abhijaanaati}&yo|&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
@@ -3031,8 +2995,6 @@ self---therefore, in me.\\
   &&&\note{\adverb}\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
-  &&&\notemayi\\
-  &&&\note{from {\dn aham} = aham = \aham}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
