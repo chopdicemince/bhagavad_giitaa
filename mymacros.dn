@@ -112,8 +112,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\atha}{then}
-\newcommand{\noteatha}{\note{\adverb, \indeclinable}}
+\newcommand{\atha}{
+  atha = {\dn atha} = then\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\atra}{here}
 \newcommand{\noteatra}{\note{\adverb, \noun, \indeclinable}}
