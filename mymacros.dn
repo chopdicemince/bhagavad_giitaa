@@ -162,9 +162,10 @@
   &&&\note{\adverb, \preposition, \conjunction, \indeclinable}
 }
 
-\newcommand{\kiJcit}{any; little}
-\newcommand{\notekiJcit}{\note{\adjective, \neuter, \adverb}\\
-  &&&\note{\indeclinable}}
+\newcommand{\kiJcit}{
+  ki\~{}ncit = {\dn ki~ncit} = any; little\\
+  &&&\note{\adjective, \neuter, \adverb, \indeclinable}
+}
 
 \newcommand{\na}{not}
 \newcommand{\notena}{\note{\adverb, \indeclinable}}
