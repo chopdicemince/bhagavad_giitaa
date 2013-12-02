@@ -187,8 +187,10 @@
   &&&\note{\adverb, \pronoun, \noun, \indeclinable}
 }
 
-\newcommand{\tu}{but}
-\newcommand{\notetu}{\note{\conjunction, \indeclinable}}
+\newcommand{\tu}{
+  tu = {\dn tu} = but\\
+  &&&\note{\conjunction, \indeclinable}
+}
 
 \newcommand{\yadi}{if}
 \newcommand{\noteyadi}{\note{\conjunction, \indeclinable}}

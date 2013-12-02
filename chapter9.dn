@@ -30,7 +30,6 @@ displeasure---associated with science and art, which, having known
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
-  &&&\notetu\\
   &&&\\
   &{\dn te}&te&\teyou\\
   &&&\noteteyou\\
@@ -1040,8 +1039,7 @@ mind, (at) the start, and not-changeable.\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&stu&tu = {\dn tu} = \tu\\
-  &&&\notetu\\
+  &&stu&\tu\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
@@ -2076,7 +2074,6 @@ fall.\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn tu}&tu&\tu\\
-  &&&\notetu\\
   &&&\\
   &{\dn maamabhijaananti}&maa|ma|&\maam\\
   &&&\\
@@ -2520,7 +2517,6 @@ also, I (am) in them.\\
   &&&\note{from {\dn bhaj} = bhaj}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
-  &&&\notetu\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
