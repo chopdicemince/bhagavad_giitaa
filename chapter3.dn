@@ -353,7 +353,6 @@ about) action using nature-born things, using the gu.nas.\\
   &&&\notena\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn ka"scitk.sa.namapi}&ka"s|cit|&{\dn ka"scit} = \kazcit\\
   &&&\notekazcit\\
@@ -395,8 +394,7 @@ about) action using nature-born things, using the gu.nas.\\
   &&&\note{similar: \noun, \female, {\dn kaaryataa} = kaaryataa}\\
   &&&\note{= effect}\\
   &&&\\
-  &{\dn hyava"sa.h}&hya|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyava"sa.h}&hya|&\hi\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -646,8 +644,7 @@ non-action.\\
   &&&= greater; bigger; stronger\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hyakarma.na.h}&hya|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyakarma.na.h}&hya|&\hi\\
   &&&\\
   &&|&a = {\dn a} = not\\
   &&&\notea\\
@@ -978,8 +975,7 @@ objects of enjoyment) is a thief, really.\\
   &&&\notebhogaan\\
   &&&\note{from {\dn bhoga.h} = bhoga.h}\\
   &&&\\
-  &&hi&{\dn hi} = \hi\\
-  &&&\notehi\\
+  &&hi&\hi\\
   &&&\\
   &{\dn vo}&vo&va.h = {\dn va.h} = \vaH\\
   &&&\notevaH\\
@@ -1608,8 +1604,7 @@ action, a man gets the highest (achievement).\\
   &&&= committed; clinging; attached\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn hyaacarankarma}&hyaa|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyaacarankarma}&hyaa|&\hi\\
   &&&\\
   &&ca|ran&aacaranam\\
   &&&= {\dn aacaranam}\\
@@ -1658,7 +1653,6 @@ mankind, you deserve to act.\\
   &&va&\eva\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&sa.msiddhim\\
   &&&= {\dn sa.msiddhim}\\
@@ -1887,8 +1881,7 @@ Arjuna).\\
   1a&{\dn yadi}&ya|di&\yadi\\
   &&&\noteyadi\\
   &&&\\
-  &{\dn hyaha.m}&hya|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyaha.m}&hya|&\hi\\
   &&&\\
   &&ha.m&\aham\\
   &&&\\
@@ -2740,8 +2733,7 @@ blocking.\\
   &&&\note{\pronoun, \thirdperson, \male, \dual}\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &{\dn hyasya}&hya|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyasya}&hya|&\hi\\
   &&&\\
   &&sya&asya = {\dn asya} = \asya\\
   &&&\noteasya\\
@@ -3306,8 +3298,7 @@ knowledge-skill destruction.\\
   &&&\note{{\dn prajayati} = prajayati = (he/she/it) wins}\\
   &&&\note{root: {\dn praji} = praji}\\
   &&&\\
-  &{\dn hyena.m}&hye|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hyena.m}&hye|&\hi\\
   &&&\\
   &&na.m&enam = {\dn enam} = (?) this\\
   &&&\note{\pronoun, \neuter}\\

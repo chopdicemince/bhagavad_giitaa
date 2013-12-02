@@ -882,7 +882,6 @@ Bhii.sma, O you all, really, surely.\\
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2959,7 +2958,6 @@ happy may (we) be, O \textkrsna?\\
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
@@ -3385,8 +3383,7 @@ water to their ancestors).\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pit.r} = pit.r}\\
   &&&\\
-  &{\dn hye.saa.m}&hye|&hi = {\dn hi} = \hi\\
-  &&&\notehi\\
+  &{\dn hye.saa.m}&hye|&\hi\\
   &&&\\
   &&.saa.m&e.saam\\
   &&&= {\dn e.saam}\\

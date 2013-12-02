@@ -142,8 +142,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\hi}{surely}
-\newcommand{\notehi}{\note{\adverb, \indeclinable}}
+\newcommand{\hi}{
+  hi = {\dn hi} = surely\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\iha}{in this world; here; now}
 \newcommand{\noteiha}{\note{\adverb, \indeclinable}}

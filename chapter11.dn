@@ -115,7 +115,6 @@ the greatness (of you) (is) non-changeable.\\
   &&&\note{from {\dn apyaya.h} = apyaya.h}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn bhuutaanaa.m}&bhuu|taa|naa.m&bhuutaanaam\\
   &&&= {\dn bhuutaanaam}\\
@@ -1893,7 +1892,6 @@ instead of the usual eight.)\\
   &&&\note{\noun, \adjective, \adverb, \preposition, \indeclinable}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2002,7 +2000,6 @@ instead of the usual eight.)\\
   1a&{\dn amii}&a|mii&(?)\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
   &&&\notetvaam\\
@@ -2423,7 +2420,6 @@ instead of the usual eight.)\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&tvaam = {\dn tvaam} = \tvaam\\
   &&&\notetvaam\\
@@ -3142,8 +3138,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn aakhyaa} = aakhyaa}\\
   &&&\\
-  &&hi&{\dn hi} = \hi\\
-  &&&\notehi\\
+  &&hi&\hi\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
@@ -3233,7 +3228,6 @@ instead of the usual eight.)\\
   &&&\notena\\
   &&&\\
   &{\dn hi}&hi&\hi\\
-  &&&\notehi\\
   &&&\\
   &{\dn prajaanaami}&pra|jaa|naa|mi&(I) know\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
