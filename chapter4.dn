@@ -435,8 +435,7 @@ self-magic.\\
   &&&\note{{\dn janma.h} = janma.h = birth}\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pi&\api\\
   &&&\\
   &{\dn sannavyayaatmaa}&san|&{\dn san} = (?)\\
   &&&\\
@@ -467,8 +466,7 @@ self-magic.\\
   &&&= husband; lord; God\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pi&\api\\
   &&&\\
   &{\dn san}&san&(?)\\
 \end{tabular}
@@ -1053,8 +1051,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\note{similar: \verbb, \infinitive, {\dn kartum} = kartum}\\
   &&&\note{= to do}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
@@ -1205,8 +1202,7 @@ ancestors.\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn puurva.h} = puurva.h}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   &&&\\
   &{\dn mumuk.subhi.h}&\multicolumn{2}{l}{mu|muk|.su|bhi\h{i}}\\
   &&&\\
@@ -1294,8 +1290,7 @@ will be free from non-grace.\\
   &&&= wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'pya|&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pya|&\api\\
   &&&\\
   &&tra&atra = {\dn atra} = \atra\\
   &&&\noteatra\\
@@ -1368,8 +1363,7 @@ hard to understand.\\
   &{\dn hyapi}&hya|&hi = {\dn hi} = \hi\\
   &&&\notehi\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   &&&\\
   &{\dn boddhavya.m}&bod|dha|vya.m&boddhavyam\\
   &&&= {\dn boddhavyam}\\
@@ -1670,8 +1664,7 @@ not do any (thing).\\
   &&&= busy with; doing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&'pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pi&\api\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1850,8 +1843,7 @@ selfish, (is) the same in successful (things) and non-successful
   &&&\noteperfectparticiple\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2536,8 +2528,7 @@ the eternal God.\\
   &&&\notesarvemale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &&'pye|&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pye|&\api\\
   &&&\\
   &&te&ete = {\dn ete} = these/they\\
   &&&\note{\pronoun, \thirdperson, \male, \plural}\\
@@ -3008,7 +2999,6 @@ sin.\\
 
 \begin{tabular}{llll}
   1a&{\dn api}&a|pi&\api\\
-  &&&\noteapi\\
   &&&\\
   &{\dn cedasi}&ce|da|&cet = {\dn cet} = \cet\\
   &&&\notecet\\

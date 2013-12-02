@@ -366,8 +366,7 @@ about) action using nature-born things, using the gu.nas.\\
   &&&= for an instant\\
   &&&\note{\adverb}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -674,8 +673,7 @@ non-action.\\
   &&&= journey; going; way\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\noteca\\
@@ -1715,8 +1713,7 @@ mankind, you deserve to act.\\
   &&vaa|&eva = {\dn eva} = \eva\\
   &&&\noteeva\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2525,8 +2522,7 @@ free, also, from action.\\
   &&&\notetemale\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&'pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&'pi&\api\\
   &&&\\
   &{\dn karmabhi.h}&kar|ma|bhi\h{i}&(?)\\
   &&&\note{similar:}\\
@@ -2656,8 +2652,7 @@ do?\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &&pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&pi&\api\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2915,8 +2910,7 @@ if from force, commanded?\\
   &&&\note{similar: \prefix, {\dn a} = a = not}\\
   &&&\note{similar: \noun, \female, {\dn icchaa} = icchaa}\\
   &&&\\
-  &&na|pi&api = {\dn api} = \api\\
-  &&&\noteapi\\
+  &&na|pi&\api\\
   &&&\\
   &{\dn vaar.s.neya}&vaar|.s.ne|ya&O descendant of V.r.s.ni\\
   &&&= O \textkrsna\\

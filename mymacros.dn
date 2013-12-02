@@ -102,8 +102,10 @@
 % ------------------------------------------------------------------------------
 % Indeclinables.
 
-\newcommand{\api}{also}
-\newcommand{\noteapi}{\note{\adverb, \indeclinable}}
+\newcommand{\api}{
+  api = {\dn api} = also\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\ataH}{from here; therefore}
 \newcommand{\noteataH}{\note{\adverb, \indeclinable}}
