@@ -464,8 +464,7 @@ has eleven main syllables per line.)\\
   &&hai|&iha = {\dn iha} = \iha\\
   &&&\noteiha\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -554,8 +553,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
   &&&\note{\pronoun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
   &&&\\
   &{\dn hatvaa}&hat|vaa&(?) having hit; hurt; killed\\
   &&&\note{\verbb, \perfectparticiple}\\
@@ -837,8 +835,7 @@ the killing of enemies, \dots did not fight (?) \dots, thus. (To)
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn evamuktvaa}&e|va|mukt|&evam = {\dn evam} = \evam\\
-  &&&\noteevam\\
+  1a&{\dn evamuktvaa}&e|va|mukt|&\evam\\
   &&&\\
   &&vaa&uktvaa\\
   &&&= {\dn uktvaa}\\
@@ -1106,8 +1103,7 @@ from later (will be).\\
   &{\dn tvevaaha.m}&tve|&tu = {\dn tu} = \tu\\
   &&&\notetu\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&vaa|&\eva\\
   &&&\\
   &&ha.m&\aham\\
   &&&\\
@@ -1148,8 +1144,7 @@ from later (will be).\\
   &&&\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\notena\\
@@ -2236,7 +2231,6 @@ not moving. This is eternal.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
-  &&&\noteeva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
@@ -2338,8 +2332,7 @@ you do not deserve to lament.\\
   &&&\notetasmaat\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\\
-  &&va.m&evam = {\dn evam} = \evam\\
-  &&&\noteevam\\
+  &&va.m&\evam\\
   &&&\\
   &{\dn viditvaina.m}&vi|di|tvai|&viditvaa\\
   &&&= {\dn viditvaa}\\
@@ -2609,8 +2602,7 @@ there are what lamentations (why be sad)?\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn nidhanam} = nidhanam}\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2681,8 +2673,7 @@ really any knowledge.\\
   &{\dn tathaiva}&ta|thai|&tathaa = {\dn tathaa} = \tathaa\\
   &&&\notetathaa\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
   &&&\\
   &{\dn caanya.h}&caan|&\ca\\
   &&&\\
@@ -2739,8 +2730,7 @@ really any knowledge.\\
   &&&\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
-  &&va&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&va&\eva\\
   &&&\\
   &{\dn ka"scit}&ka"s|cit&\kazcit\\
   &&&\notekazcit\\
@@ -3444,8 +3434,7 @@ similar. Thus, you will not gain evil.\\
   2b&{\dn naiva.m}&nai|&na = {\dn na} = \na\\
   &&&\notena\\
   &&&\\
-  &&va.m&evam = {\dn evam} = \evam\\
-  &&&\noteevam\\
+  &&va.m&\evam\\
   &&&\\
   &{\dn paapamavaapsyasi}&paa|pa|ma&paapam\\
   &&&= {\dn paapam}\\
@@ -4100,8 +4089,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\notekarmaNi\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
-  &&vaa|&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&vaa|&\eva\\
   &&&\\
   &&dhi|kaa|ras|&adhikaara.h\\
   &&&= {\dn adhikaara.h}\\
@@ -4797,8 +4785,7 @@ wise.\\
   &&&\noteaatmani\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&vaat|&eva = {\dn eva} = \eva\\
-  &&&\noteeva\\
+  &&vaat|&\eva\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\

@@ -132,11 +132,15 @@
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\eva}{really; thus}
-\newcommand{\noteeva}{\note{\adverb, \indeclinable}}
+\newcommand{\eva}{
+  eva = {\dn eva} = really; thus\\
+  &&&\note{\adverb, \indeclinable}
+}
 
-\newcommand{\evam}{\eva}
-\newcommand{\noteevam}{\noteeva}
+\newcommand{\evam}{
+  evam = {\dn evam} = really; thus\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\hi}{surely}
 \newcommand{\notehi}{\note{\adverb, \indeclinable}}
