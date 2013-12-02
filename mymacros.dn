@@ -107,8 +107,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\ataH}{from here; therefore}
-\newcommand{\noteataH}{\note{\adverb, \indeclinable}}
+\newcommand{\ataH}{
+  ata.h = {\dn ata.h} = from here; therefore\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\atha}{then}
 \newcommand{\noteatha}{\note{\adverb, \indeclinable}}
