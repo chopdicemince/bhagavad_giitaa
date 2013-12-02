@@ -157,9 +157,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iva}{seemingly; like; as if}
-\newcommand{\noteiva}{\note{\adverb, \preposition}\\
-    &&&\note{\conjunction, \indeclinable}}
+\newcommand{\iva}{
+  iva = {\dn iva} = seemingly; like; as if\\
+  &&&\note{\adverb, \preposition, \conjunction, \indeclinable}
+}
 
 \newcommand{\kiJcit}{any; little}
 \newcommand{\notekiJcit}{\note{\adjective, \neuter, \adverb}\\
