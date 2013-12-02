@@ -1721,8 +1721,7 @@ go (on) the lowest path.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2b&{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn yaantyadhamaa.m}&yaan|tya|&yaanti\\
   &&&= {\dn yaanti}\\
@@ -1903,8 +1902,7 @@ path.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&sta|to&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2b&&sta|to&\tataH\\
   &&&\\
   &{\dn yaati}&yaa|ti&\yaati\\
   &&&\noteyaati\\

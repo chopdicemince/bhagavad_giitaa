@@ -1804,7 +1804,6 @@ teacher, also, the person does not swerve.\\
   &&&\note{from {\dn adhika.h} = adhika.h}\\
   &&&\\
   &{\dn tata.h}&ta|ta\h{a}&\tataH\\
-  &&&\notetataH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2136,15 +2135,9 @@ mind) to be restrained may lead in (into) the self, really.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatastato}&ta|ta|sta|&tata.h\\
-  &&&= {\dn tata.h}\\
-  &&&= \tataH\\
-  &&&\notetataH\\
+  2a&{\dn tatastato}&ta|ta|sta|&\tataH\\
   &&&\\
-  &&to&tata.h\\
-  &&&= {\dn tata.h}\\
-  &&&= \tataH\\
-  &&&\notetataH\\
+  &&to&\tataH\\
   &&&\\
   &{\dn niyamyaitadaatmanyeva}&ni|ya|myai|&niyamya\\
   &&&= {\dn niyamya}\\
@@ -3521,10 +3514,7 @@ past and current), O Kuru-son (O Arjuna).\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
-  &{\dn tato}&ta|to&tata.h\\
-  &&&= {\dn tata.h}\\
-  &&&= \tataH\\
-  &&&\notetataH\\
+  &{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
   % ----------------------------------------------------------------------------
@@ -3683,10 +3673,7 @@ he goes (on) a paramount going (or path).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&sta|to&tata.h\\
-  &&&= {\dn tata.h}\\
-  &&&= \tataH\\
-  &&&\notetataH\\
+  2b&&sta|to&\tataH\\
   &&&\\
   &{\dn yaati}&yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

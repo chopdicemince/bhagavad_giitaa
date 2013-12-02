@@ -197,8 +197,10 @@
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\tataH}{from that; therefore}
-\newcommand{\notetataH}{\note{\adverb, \indeclinable}}
+\newcommand{\tataH}{
+  tata.h = {\dn tata.h} = from that; therefore\\
+  &&&\note{\adverb, \indeclinable}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vaa}{``yes/no question''}
 % ------------------------------------------------------------------------------

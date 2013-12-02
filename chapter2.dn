@@ -2953,7 +2953,6 @@ self nature and fame, you will get evil.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
-  &&&\notetataH\\
   &&&\\
   &{\dn svadharma.m}&sva|&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
@@ -3209,8 +3208,7 @@ ability. From more sadness, certainly, what can come?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatodu.hkhatara.m}&ta|to|&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2b&{\dn tatodu.hkhatara.m}&ta|to|&\tataH\\
   &&&\\
   &&du.h|kha|&du.hkham\\
   &&&= {\dn du.hkham}\\
@@ -3359,8 +3357,7 @@ similar. Thus, you will not gain evil.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2a&{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn yuddhaaya}&yud|dhaa|ya&for a/the fight\\
   &&&\note{\noun, \neuter, \dativecase}\\

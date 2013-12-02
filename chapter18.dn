@@ -4671,8 +4671,7 @@ enters that non-gap (God).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2a&{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
@@ -5415,8 +5414,7 @@ you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tato}&ta|to&tata.h = {\dn tata.h} = \tataH\\
-  &&&\notetataH\\
+  2b&{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
