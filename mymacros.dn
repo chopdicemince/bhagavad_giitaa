@@ -182,8 +182,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\tatra}{there}
-\newcommand{\notetatra}{\note{\adverb, \pronoun, \noun, \indeclinable}}
+\newcommand{\tatra}{
+  tatra = {\dn tatra} = there\\
+  &&&\note{\adverb, \pronoun, \noun, \indeclinable}
+}
 
 \newcommand{\tu}{but}
 \newcommand{\notetu}{\note{\conjunction, \indeclinable}}

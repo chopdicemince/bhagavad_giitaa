@@ -1619,8 +1619,7 @@ a non-visible sign.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatraivaavyaktasa.mj~nake}&ta|trai|&tatra = {\dn tatra} = \tatra\\
-  &&&\notetatra\\
+  2b&{\dn tatraivaavyaktasa.mj~nake}&ta|trai|&\tatra\\
   &&&\\
   &&vaa&\eva\\
   &&&\\
@@ -2125,7 +2124,6 @@ go (to) God.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tatra}&ta|tra&\tatra\\
-  &&&\notetatra\\
   &&&\\
   &{\dn prayaataa}&pra|yaa|taa&prayaataa.h\\
   &&&= {\dn prayaataa.h}\\
@@ -2210,7 +2208,6 @@ equinox or solstice---there, brightness---a yoked person returns
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn tatra}&ta|tra&\tatra\\
-  &&&\notetatra\\
   &&&\\
   &{\dn caandramasa.m}&caan|dra|ma|sa.m&(?) candramasam\\
   &&&= {\dn candramasam}\\
