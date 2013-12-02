@@ -152,8 +152,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iti}{thus; ``end of quote''}
-\newcommand{\noteiti}{\note{\adverb, \indeclinable}}
+\newcommand{\iti}{
+  iti = {\dn iti} = thus; ``end of quote''\\
+  &&&\note{\adverb, \indeclinable}
+}
 
 \newcommand{\iva}{seemingly; like; as if}
 \newcommand{\noteiva}{\note{\adverb, \preposition}\\
