@@ -117,8 +117,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\atra}{here}
-\newcommand{\noteatra}{\note{\adverb, \noun, \indeclinable}}
+\newcommand{\atra}{
+  atra = {\dn atra} = here\\
+  &&&\note{\adverb, \noun, \indeclinable}
+}
 
 \newcommand{\ca}{and}
 \newcommand{\noteca}{\note{\conjunction, \indeclinable}}
