@@ -2989,8 +2989,7 @@ sin.\\
 \begin{tabular}{llll}
   1a&{\dn api}&a|pi&\api\\
   &&&\\
-  &{\dn cedasi}&ce|da|&cet = {\dn cet} = \cet\\
-  &&&\notecet\\
+  &{\dn cedasi}&ce|da|&\cet\\
   &&&\\
   &&si&asi = {\dn asi} = (you) are\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\

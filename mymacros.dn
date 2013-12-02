@@ -127,8 +127,10 @@
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\cet}{if}
-\newcommand{\notecet}{\note{\conjunction, \indeclinable}}
+\newcommand{\cet}{
+  cet = {\dn cet} = if\\
+  &&&\note{\conjunction, \indeclinable}
+}
 
 \newcommand{\eva}{really; thus}
 \newcommand{\noteeva}{\note{\adverb, \indeclinable}}
