@@ -278,8 +278,13 @@
 }
 % ------------------------------------------------------------------------------
 % Names for Arjuna.
-\newcommand{\arjunaH}{Arjuna}
-\newcommand{\notearjunaH}{\note{\noun, \proper, \male}}
+\newcommand{\nounrootarjuna}{\nounroot{\dn arjuna}{arjuna}}
+
+\newcommand{\arjunaH}{
+  arjuna.h = {\dn arjuna.h} = Arjuna\\
+  &&&\note{\noun, \proper, \male, \nominativecase}\\
+  &&&\note{\nounrootarjuna}
+}
 
 \newcommand{\arjuna}{\vocativephrase\ Arjuna}
 \newcommand{\notearjuna}{\note{\noun, \proper, \male, \vocativecase}}

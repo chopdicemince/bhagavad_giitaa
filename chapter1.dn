@@ -315,8 +315,7 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.\\
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
-  &&ju|na|&arjuna.h = {\dn arjuna.h} = \arjunaH\\
-  &&&\notearjunaH\\
+  &&ju|na|&\arjunaH\\
   &&&\\
   &&sa|maa&samaa.h = {\dn samaa.h} = \samAH\\
   &&&\notesamAH\\
@@ -1589,10 +1588,7 @@ non-disappearing (one) (O \textkrsna), while (I) see these
 fight-desires-(soldiers), standing, \dots\\
 
 \begin{tabular}{llll}
-  0&{\dn arjuna}&ar|ju|na&arjuna.h\\
-  &&&= {\dn arjuna.h}\\
-  &&&= \arjunaH\\
-  &&&\notearjunaH\\
+  0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
   &&&\noteuvaaca\\
@@ -2192,8 +2188,7 @@ Having seen this family, O \textkrsna, \dots (?) \dots ready, the arms
 and legs of me sink, and the mouth (of me) parches.\\
 
 \begin{tabular}{llll}
-  0&{\dn arjuna}&ar|ju|na&arjuna.h = {\dn arjuna.h} = \arjunaH\\
-  &&&\notearjunaH\\
+  0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
   &&&\noteuvaaca\\
