@@ -260,7 +260,7 @@
 \newcommand{\nounroothRSIkeza}{\nounroot{\dn h.r.siike"sa}{h.r.siike"sa}}
 
 \newcommand{\hRSIkezaH}{
-  h.r.siike"sa.h = {\dn h.r.siike"sa.h} = K.r.s.na\\
+  h.r.siike"sa.h = {\dn h.r.siike"sa.h} = \textkrsna\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroothRSIkeza}
 }
