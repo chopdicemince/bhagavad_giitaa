@@ -946,8 +946,7 @@ all-directions-fac(ing).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  2b&&ma|nan|&\an\\
   &&&\\
   &&ta.m&antam\\
   &&&= {\dn antam}\\
@@ -1396,8 +1395,7 @@ instead of the usual eight.)\\
   &&&= from all sides\\
   &&&\note{\adverb}\\
   &&&\\
-  &&'nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&'nan|&\an\\
   &&&\\
   &&ta|&antam\\
   &&&= {\dn antam}\\
@@ -1720,8 +1718,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn anaadimadhyaantamanantaviiryam}\\
   &&&\\
-  &&a|naa|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&a|naa|&\an\\
   &&&\\
   &&di|&aadi.h\\
   &&&= {\dn aadi.h}\\
@@ -1753,8 +1750,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn anantabaahu.m}&a|nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  1b&{\dn anantabaahu.m}&a|nan|&\an\\
   &&&\\
   &&ta|&antam\\
   &&&= {\dn antam}\\
@@ -3856,8 +3852,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ananta}&a|nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  2a&{\dn ananta}&a|nan|&\an\\
   &&&\\
   &&ta&anta.h\\
   &&&= {\dn anta.h}\\
@@ -4023,8 +4018,7 @@ instead of the usual eight.)\\
   &&&= universe\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&nan|&\an\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
@@ -4222,8 +4216,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn anantaviiryaamitavikramastva.m}\\
   &&&\\
-  &&a|nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&a|nan|&\an\\
   &&&\\
   &&ta|&anta.h\\
   &&&= {\dn anta.h}\\
@@ -5073,8 +5066,7 @@ main syllables, instead of the usual eight.)\\
   &&&= universe\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&nan|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&nan|&\an\\
   &&&\\
   &&ta|maa|&antam\\
   &&&= {\dn antam}\\
@@ -5787,8 +5779,7 @@ form), O destroying of enemies (O Arjuna).\\
   &&&\\
   &{\dn tvananyayaa}&tva|&\tu\\
   &&&\\
-  &&na|&an = {\dn an} = \an\\
-  &&&\notean\\
+  &&na|&\an\\
   &&&\\
   &&nya|yaa&anyayaa\\
   &&&= {\dn anyayaa}\\

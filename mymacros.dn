@@ -216,8 +216,10 @@
   &&&\note{\prefix, \adverb, \indeclinable}
 }
 
-\newcommand{\an}{not}
-\newcommand{\notean}{\note{\prefix, \adverb, \indeclinable}}
+\newcommand{\an}{
+  an = {\dn an} = not\\
+  &&&\note{\prefix, \adverb, \indeclinable}
+}
 % ------------------------------------------------------------------------------
 % Names for K.r.s.na.
 
