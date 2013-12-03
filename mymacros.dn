@@ -236,8 +236,11 @@
   &&&\note{\suffix}\\
 }
 
-\newcommand{\kRSNa}{\vocativephrase\ K.r.s.na}
-\newcommand{\notekRSNa}{\note{\noun, \proper, \male, \vocativecase}}
+\newcommand{\kRSNa}{
+  k.r.s.na = {\dn k.r.s.na} = \vocativephrase\ \textkrsna\\
+  &&&\note{\noun, \proper, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn k.r.s.na}{k.r.s.na}}
+}
 
 \newcommand{\janaH}{born thing; living thing; man}
 \newcommand{\notejanaH}{\note{\noun, \male}}
