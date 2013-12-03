@@ -223,8 +223,18 @@
 % ------------------------------------------------------------------------------
 % Names for K.r.s.na.
 
-\newcommand{\kezava}{\vocativephrase\ hair-full (long-haired) man}
-\newcommand{\notekezava}{\note{\noun, \male, \vocativecase}}
+\newcommand{\kezava}{
+  \vocativephrase\ hair-full (long-haired) man\\
+  &&&= \vocativephrase\ \textkrsna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn ke"sava}{ke"sava}}\\
+  &&&\note{similar:}\\
+  &&&\note{{\dn ke"sa.h} = ke"sa.h = hair}\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn ke"sa}{ke"sa}}\\
+  &&&\note{{\dn vat} = vat = full of}\\
+  &&&\note{\suffix}\\
+}
 
 \newcommand{\kRSNa}{\vocativephrase\ K.r.s.na}
 \newcommand{\notekRSNa}{\note{\noun, \proper, \male, \vocativecase}}
