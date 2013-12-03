@@ -55,8 +55,7 @@ me completely. Hear that.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn asa.m"saya.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn asa.m"saya.m}&a|&\aprefix\\
   &&&\\
   &&sa.m|"sa|ya.m&sa.m"sayam\\
   &&&= {\dn sa.m"sayam}\\
@@ -344,8 +343,7 @@ Arjuna). By this (is done) the world.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn apareyamitastvanyaa.m}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&pa|re|&para\\
   &&&= {\dn para}\\
@@ -869,8 +867,7 @@ to goodness, O Bharata-bull (O Arjuna).\\
   &&&= \dharmaH\\
   &&&\notedharmaH\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vi|rud|dho&viruddha.h\\
   &&&= {\dn viruddha.h}\\
@@ -1074,8 +1071,7 @@ changeable.\\
   &&&\noteparammale\\
   &&&\note{from {\dn para.h} = para.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&vyayam\\
   &&&= {\dn vyayam}\\
@@ -1732,8 +1728,7 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{from {\dn sa.h} = sa.h = \saH}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ca|laa.m&calaam\\
   &&&= {\dn calaam}\\
@@ -1943,8 +1938,7 @@ person attained, (not knowing that) my behavior is paramount,
 not-changeable, and ultimate.\\
 
 \begin{tabular}{llll}
-  1a&{\dn avyakta.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn avyakta.m}&a|&\aprefix\\
   &&&\\
   &&vyak|ta.m&vyaktam\\
   &&&= {\dn vyaktam}\\
@@ -1972,8 +1966,7 @@ not-changeable, and ultimate.\\
   &&&\\
   &{\dn maamabuddhaya.h}&maa|ma|&\maam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&bud|dha|ya\h{a}&{\dn buddhaya.h}\\
   &&&= \buddhayaH\\
@@ -1995,8 +1988,7 @@ not-changeable, and ultimate.\\
   &&&\notebhaavam\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&jaa|nan|to&jaananta.h\\
   &&&= {\dn jaananta.h}\\
@@ -2009,8 +2001,7 @@ not-changeable, and ultimate.\\
   &&&\\
   2b&{\dn mamaavyayamanuttamam}&ma|maa|&\mama\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|ya|ma|&vyayam\\
   &&&= {\dn vyayam}\\
@@ -2092,8 +2083,7 @@ not-changeable.\\
   &&&\\
   &{\dn maamajamavyayam}&maa|ma|&\maam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ja|ma|&jam\\
   &&&= {\dn jam}\\
@@ -2101,8 +2091,7 @@ not-changeable.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn ja.h} = ja.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&vyayam\\
   &&&= {\dn vyayam}\\

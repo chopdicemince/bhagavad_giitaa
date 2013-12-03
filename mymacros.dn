@@ -207,8 +207,14 @@
 % Prefixes or suffixes.
 
 % Note: LaTeX already has a command called ``\a''.
+
+% Note: LaTeX already has a command called ``\aa''.
+
 %\newcommand{\a}{not}
-\newcommand{\notea}{\note{\prefix, \adverb, \indeclinable}}
+\newcommand{\aprefix}{
+  a = {\dn a} = not\\
+  &&&\note{\prefix, \adverb, \indeclinable}
+}
 
 \newcommand{\an}{not}
 \newcommand{\notean}{\note{\prefix, \adverb, \indeclinable}}

@@ -180,8 +180,7 @@ using (of) all sins.\\
   &&&\\
   &{\dn maamajamanaadi.m}&maa|ma|&\maam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ja|ma|&ajam\\
   &&&= {\dn jam}\\
@@ -219,8 +218,7 @@ using (of) all sins.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn asammuu.dha.h}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn asammuu.dha.h}&a|&\aprefix\\
   &&&\\
   &&sam|muu|.dha\h{a}&{\dn sammuu.dha.h}\\
   &&&= \sammUDhaH\\
@@ -271,8 +269,7 @@ non-fear, really, and \dots\\
   &&&= \jJAnam\\
   &&&\notejJAnam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sam|mo|ha\h{a}&sammoha.h\\
   &&&= {\dn sammoha.h}\\
@@ -317,8 +314,7 @@ non-fear, really, and \dots\\
   &&&= birth; existence\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&bhaa|vo&bhaava.h\\
   &&&= {\dn bhaava.h}\\
@@ -334,8 +330,7 @@ non-fear, really, and \dots\\
   &&&\\
   &{\dn caabhayameva}&caa|&\ca\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&bha|ya|me|&bhayam\\
   &&&= {\dn bhayam}\\
@@ -357,8 +352,7 @@ donation, fame, non-fame are behaviors of beings (of me)
 really---separate kinds.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ahi.msaa}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn ahi.msaa}&a|&\aprefix\\
   &&&\\
   &&hi.m|saa&{\dn hi.msaa}\\
   &&&= injury\\
@@ -391,8 +385,7 @@ really---separate kinds.\\
   &&&= fame\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&ya|"sa\h{a}&ya"sa.h\\
   &&&= {\dn ya"sa.h}\\
@@ -573,8 +566,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
   2a&{\dn so.avikalpena}&so|&sa.h = {\dn sa.h} = \saH\\
   &&&\notesaH\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&vi|kal|pe|na&vikalpena\\
   &&&= {\dn vikalpena}\\
@@ -864,8 +856,7 @@ knowledge-lamp-brightness.\\
   &&&\\
   1b&&ma|ha|ma|&\aham\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\  
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1008,8 +999,7 @@ powerful.\\
   &&&\notedevam\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ja.m&jam\\
   &&&= {\dn jam}\\
@@ -2231,8 +2221,7 @@ men, (I am) the man-king.\\
   &&&\\
   &{\dn maam}&maam&\maam\\
   &&&\\
-  &{\dn am.rtodbhavam}&a|&a = {\dn a} = not\\
-  &&&\notea\\
+  &{\dn am.rtodbhavam}&a|&\aprefix\\
   &&&\\
   &&m.r|tod|&m.rta\\
   &&&= {\dn m.rta}\\
@@ -2728,8 +2717,7 @@ compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   &&&\\
   &&vaa|&\eva\\
   &&&\\
-  &&(a)&a = {\dn a} = not\\
-  &&&\notea\\
+  &&(a)&\aprefix\\
   &&&\\
   &&k.sa|ya\h{a}&decay; destruction\\
   &&&\note{\noun, \male}\\
@@ -3245,8 +3233,7 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&&\notecaram\\
   &&&\note{from {\dn cara.h} = cara.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ca|ram&caram\\
   &&&= {\dn caram}\\

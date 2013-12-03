@@ -151,8 +151,7 @@ not active.\\
   &&&\\
   &{\dn hyasannyastasa"nkalpo}&hya|&\hi\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&san|nya|sta|&sannyasta.h\\
   &&&= {\dn sannyasta.h}\\
@@ -1064,8 +1063,7 @@ looking in all directions.\\
   &&&\note{\participle}\\
   &&&\note{root: {\dn dh.r} = dh.r}\\
   &&&\\
-  &&na|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&na|&\aprefix\\
   &&&\\
   &&ca|la.m&calam\\
   &&&= {\dn calam}\\
@@ -1923,8 +1921,7 @@ everywhere.\\
   &&&= \yogaH\\
   &&&\noteyogaH\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&nir|vi.n|.na|&nirvi.n.na\\
   &&&= {\dn nirvi.n.na}\\
@@ -2123,8 +2120,7 @@ mind) to be restrained may lead in (into) the self, really.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn ca~ncala.h}= ca\~{}ncala.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sthi|ram&sthiram\\
   &&&= {\dn sthiram}\\
@@ -2240,8 +2236,7 @@ wicked.\\
   &&&= \bhuutam\\
   &&&\notebhuutam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&kal|ma|.sam&kalma.sam\\
   &&&= {\dn kalma.sam}\\
@@ -2830,8 +2825,7 @@ aversion, (it can be) domesticated.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn asa.m"saya.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn asa.m"saya.m}&a|&\aprefix\\
   &&&\\
   &&sa.m|"sa|ya.m&sa.m"sayam\\
   &&&= {\dn sa.m"sayam}\\
@@ -2900,8 +2894,7 @@ using a submissive self, trying---(it is) possible to get an
 advantage.\\
 
 \begin{tabular}{llll}
-  1a&{\dn asa.myataatmanaa}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn asa.myataatmanaa}&a|&\aprefix\\
   &&&\\
   &&sa.m|ya|taat|&sa.myata\\
   &&&= {\dn sa.myata}\\
@@ -2989,8 +2982,8 @@ he go (on), O \textkrsna?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn ayati.h}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn ayati.h}&a|&\aprefix\\
+  &&&\\
   &&ya|ti\h{i}&devotee; sage; ascetic\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -3024,8 +3017,7 @@ he go (on), O \textkrsna?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn apraapya}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn apraapya}&a|&\aprefix\\
   &&&\\
   &&praa|pya&{\dn praapya}\\
   &&&= procurable\\
@@ -3569,8 +3561,7 @@ overcomes the word of (texts about) yoking.\\
   &&&\\
   &{\dn hyava"so.apisa.h}&hya|&\hi\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&va|"so|&va"sa\\
   &&&= {\dn va"sa}\\

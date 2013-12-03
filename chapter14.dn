@@ -397,8 +397,7 @@ non-perishable being in the body, O great-arm (O Arjuna).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dehin} = dehin}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&{\dn vyayam}\\
   &&&= \vyayam\\
@@ -594,8 +593,7 @@ all beings. It binds, using (occurrences of) carelessness, laziness,
   &&&\\
   &&stva|&\tu\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -939,8 +937,7 @@ passion---these are born in abundan(ce), O Bharata-bull (O Arjuna).\\
   &&&\notekarmaNAm\\
   &&&\note{from {\dn karman} = karman}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&"sa|ma\h{a}&{\dn "sama.h}\\
   &&&= peace\\
@@ -995,16 +992,14 @@ ignorance---these are born in abundan(ce), O Kuru-son (O Arjuna).\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aprakaa"so.aprav.rtti"sca}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&pra|kaa|"so|&prakaa"sa.h\\
   &&&= {\dn prakaa"sa.h}\\
   &&&= light; brightness; clearness; splendor\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'&\aprefix\\
   &&&\\
   &&pra|v.rt|ti"s|&prav.rtti.h\\
   &&&= {\dn prav.rtti.h}\\
@@ -1135,8 +1130,7 @@ non-dirtiness worlds.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&na|&a = {\dn a} = not\\
-  &&&\notea\\
+  2b&&na|&\aprefix\\
   &&&\\
   &&ma|laan|&{\dn malaan}\\
   &&&= (pieces of) dirt; dirtiness\\
@@ -1292,8 +1286,7 @@ ignorance.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&ma|&\aprefix\\
   &&&\\
   2b&&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1379,8 +1372,7 @@ you---and non-knowledge, really.\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&j\~{}naa|na|me|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1636,8 +1628,7 @@ attains non-(death).\\
   &&&= \vimuktaH\\
   &&&\notevimuktaH\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&m.r|ta|ma&{\dn m.rtam}\\
   &&&= dead\\
@@ -1980,8 +1971,7 @@ self-praise \dots\\
   &&&= \priya\\
   &&&\notepriya\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pri|yo&priya.h\\
   &&&= {\dn priya.h}\\
@@ -2123,8 +2113,7 @@ And whoever, using non-deviation (and) devotion-yoking, serves me---he
   &{\dn yo.avyabhicaare.na}&yo|&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&vya|bhi|caa|re|.na&{\dn vyabhicaare.na}\\
   &&&= by using a/the deviation; violation; vice\\
@@ -2213,8 +2202,7 @@ eternal and devotion (and) happiness and complete God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  1b&&ma|&\aprefix\\
   &&&\\
   &&m.r|ta|syaa|&m.rtasya\\
   &&&= {\dn m.rtasya}\\
@@ -2222,8 +2210,7 @@ eternal and devotion (and) happiness and complete God.\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn m.rta.h} = m.rta.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|ya|sya&{\dn vyayasya}\\
   &&&= of a/the person/thing changeable; perishable\\

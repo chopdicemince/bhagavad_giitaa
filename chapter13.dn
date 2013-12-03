@@ -498,8 +498,7 @@ moving \dots\\
   &&&= \buddhiH\\
   &&&\notebuddhiH\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vyak|ta|me|&vyaktam\\
   &&&= {\dn vyaktam}\\
@@ -630,8 +629,7 @@ teacher-homage, purity, steadfastness, self-control, \dots\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn amaanitvamadambhitvamahi.msaa}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&maa|ni|tva|ma|&maanitvam\\
   &&&= {\dn maanitvam}\\
@@ -645,8 +643,7 @@ teacher-homage, purity, steadfastness, self-control, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  1b&&ma|&\aprefix\\
   &&&\\
   &&hi.m|saa&{\dn hi.msaa}\\
   &&&= harm; hostility\\
@@ -791,8 +788,7 @@ house-beginnings, eternally---and equanimity (in things) worthy of
 desire (and) not worthy of desire, in attainments, \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn asaktiranabhi.sva"nga.h}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn asaktiranabhi.sva"nga.h}&a|&\aprefix\\
   &&&\\
   &&sak|ti|ra|&sakti.h\\
   &&&= {\dn sakti.h}\\
@@ -904,8 +900,7 @@ alone, place-residing, no sex, man-meeting, \dots\\
   &&&= \bhaktiH\\
   &&&\notebhaktiH\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|bhi|caa|ri|.nii&{\dn vyabhicaari.nii}\\
   &&&= adulteress\\
@@ -932,8 +927,7 @@ alone, place-residing, no sex, man-meeting, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  2b&&ma|&\aprefix\\
   &&&\\
   &&ra|tir|&rati.h\\
   &&&= {\dn rati.h}\\
@@ -1020,8 +1014,7 @@ here in another way.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  2b&&ma|&\aprefix\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1075,8 +1068,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn j~naa} = j\~{}naa}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&m.r|ta|ma|&m.rtam = {\dn m.rtam} = dead\\
   &&&\note{\adjective, \neuter}\\
@@ -1125,8 +1117,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &&naa|&\na\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sa|du|&sat\\
   &&&= {\dn sat}\\
@@ -1279,8 +1270,7 @@ enjoyer.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn asakta.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn asakta.m}&a|&\aprefix\\
   &&&\\
   &&sak|ta.m&saktam\\
   &&&= {\dn saktam}\\
@@ -1351,8 +1341,7 @@ near.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  1b&&ma|&\aprefix\\
   &&&\\
   &&ca|ra.m&caram\\
   &&&= {\dn caram}\\
@@ -1383,8 +1372,7 @@ near.\\
   &&ta|da|&tat = {\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vi|j\~{}ne|ya.m&vij\~{}neyam\\
   &&&= {\dn vij~neyam}\\
@@ -1428,8 +1416,7 @@ and the being-maintainer. It (God) (is) to be known, (is) swallowing,
 and (is) influential.\\
 
 \begin{tabular}{llll}
-  1a&{\dn avibhakta.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn avibhakta.m}&a|&\aprefix\\
   &&&\\
   &&vi|bhak|ta.m&vibhaktam\\
   &&&= {\dn vibhaktam}\\
@@ -1899,8 +1886,7 @@ births (in the different kinds of living things).\\
   &&&= {\dn sat}\\
   &&&= true; good\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sa|dyo|&sat\\
   &&&= {\dn sat}\\
@@ -2184,8 +2170,7 @@ hearing.\\
   &&&\\
   &&va|ma|&\evam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&jaa|nan|ta\h{a}&{\dn jaananta.h} = (?)\\
   &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
@@ -2390,8 +2375,7 @@ sees.\\
   &&&\note{= (he/she/it) dies; is destroyed; is lost}\\
   &&&\note{root: {\dn vina"s} = vina"s}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vi|na|"syan|ta.m&vina"syantam\\
   &&&= {\dn vina"syantam}\\
@@ -2557,8 +2541,7 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  2b&&ma|&\aprefix\\
   &&&\\
   &&kar|taa|ra.m&kartaaram\\
   &&&= {\dn kartaaram}\\
@@ -2699,8 +2682,7 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&ya|ma|&ayam = {\dn ayam} = \ayam\\
   &&&\noteayam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|ya\h{a}&{\dn vyaya.h}\\
   &&&= changeable; perishable\\

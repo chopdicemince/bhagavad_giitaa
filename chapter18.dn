@@ -785,8 +785,7 @@ happiness---(such is) an abandoner. Goodness-having, a wise person
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn dvi.s} = dvi.s}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ku|"sa|la.m&ku"salam\\
   &&&= {\dn ku"salam}\\
@@ -989,8 +988,7 @@ not of abandoners, somewhere.\\
   &&&\notebhavati\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&tyaa|gi|naa.m&tyaaginaam\\
   &&&= {\dn tyaaginaam}\\
@@ -1306,8 +1304,7 @@ non-action intelligence. That man does not see---very bad mind.\\
   &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&k.r|ta|&k.rtam\\
   &&&= {\dn k.rtam}\\
@@ -1629,8 +1626,7 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   &&&\notebhaavam\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|ya|mii|&vyayam\\
   &&&= {\dn vyayam}\\
@@ -1648,8 +1644,7 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn avibhakta.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn avibhakta.m}&a|&\aprefix\\
   &&&\\
   &&vi|bhak|ta.m&vibhaktam\\
   &&&= {\dn vibhaktam}\\
@@ -1807,8 +1802,7 @@ ignorance, (it is) said.\\
   &&&= sticking; attached; yoked\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&hai|tu|kam&{\dn haitukam}\\
   &&&= having a cause; reason\\
@@ -1819,8 +1813,7 @@ ignorance, (it is) said.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn atattvaarthavadalpa.m}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&tat|tvaar|&tattvam\\
   &&&= {\dn tattvam}\\
@@ -1894,8 +1887,7 @@ good.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  1b&&ma|&\aprefix\\
   &&&\\
   &&raa|ga|&raaga.h\\
   &&&= {\dn raaga.h}\\
@@ -1913,8 +1905,7 @@ good.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aphalaprepsunaa}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn aphalaprepsunaa}&a|&\aprefix\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -2178,8 +2169,7 @@ good.\\
   &&&= success\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sid|dhyor|&siddhyo.h\\
   &&&= {\dn siddhyo.h}\\
@@ -2254,8 +2244,7 @@ be) of passion.\\
   &&&= having\\
   &&&\note{\suffix, \male}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&"su|ci\h{i}&{\dn "suci.h}\\
   &&&= white; clean; pure\\
@@ -2305,8 +2294,7 @@ despairing person, and a long-string-worker (procrastinator)---(such
 an) actor is said (to be) of ignorance.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ayukta.h}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn ayukta.h}&a|&\aprefix\\
   &&&\\
   &&yuk|ta\h{a}&{\dn yukta.h}\\
   &&&= \yuktaH\\
@@ -2329,8 +2317,7 @@ an) actor is said (to be) of ignorance.\\
   &&&= {\dn nai.sk.rtika.h}\\
   &&&= (?)\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&la|sa\h{a}&{\dn lasa.h}\\
   &&&= moving\\
@@ -2491,8 +2478,7 @@ person.\\
   1b&{\dn kaaryaakaarye}&kaar|yaa|&kaaryam = {\dn kaaryam} = action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&kaar|ye&at/in/on a/the action; work; doing\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -2501,8 +2487,7 @@ person.\\
   &{\dn bhayaabhaye}&bha|yaa|&bhayam = {\dn bhayam} = \bhayam\\
   &&&\notebhayam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&bha|ye&{\dn bhaye}\\
   &&&= at/in/on fear\\
@@ -2569,8 +2554,7 @@ of passion.\\
   &&&\notedharmam\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&dhar|ma.m&dharmam = {\dn dharmam} = \dharmam\\
   &&&\notedharmam\\
@@ -2586,8 +2570,7 @@ of passion.\\
   &&&\\
   &{\dn caakaaryameva}&caa|&\ca\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&kaar|ya|me|&kaaryam = {\dn kaaryam} = action; work; doing\\
   &&&\note{\noun, \neuter}\\
@@ -2602,8 +2585,7 @@ of passion.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn ayathaavatprajaanaati}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&ya|thaa|&\yathaa\\
   &&&\\
@@ -2645,8 +2627,7 @@ inver(ted)---that (intelligence), O prince (O Arjuna), (is) a person
 of ignorance.\\
 
 \begin{tabular}{llll}
-  1a&{\dn adharma.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn adharma.m}&a|&\aprefix\\
   &&&\\
   &&dhar|ma.m&dharmam\\
   &&&= {\dn dharmam}\\
@@ -2784,8 +2765,7 @@ person who is true.\\
   &&&\noteyogena\\
   &&&\note{from {\dn yoga.h} = yoga.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|bhi|caa|ri|.nyaa&{\dn vyabhicaari.nyaa}\\
   &&&= (?)\\
@@ -3638,8 +3618,7 @@ action (is) self-behavior-born.\\
   &&&\\
   &&pya|&\api\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pa|laa|ya|nam&{\dn palaayanam}\\
   &&&= fleeing\\
@@ -4141,8 +4120,7 @@ absence of action---uisng abandonment, (such a person) attains
 paramount success.\\
 
 \begin{tabular}{llll}
-  1a&{\dn asaktabuddhi.h}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn asaktabuddhi.h}&a|&\aprefix\\
   &&&\\
   &&sak|ta|&{\dn sakta}\\
   &&&= sticking; attached; yoked\\
@@ -4772,8 +4750,7 @@ person) attains the eternal, non-changeable place.\\
   &&&= \padam\\
   &&&\notepadam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&{\dn vyayam}\\
   &&&= \vyayam\\
@@ -5088,8 +5065,7 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&va|"so|&va"sa.h\\
   &&&= {\dn va"sa.h}\\
@@ -5603,8 +5579,7 @@ non-(service-people), and not to be said (for) one who envies me.\\
   &&&\\
   &{\dn naatapaskaaya}&naa|&\na\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ta|pa|skaa|ya&{\dn tapaskaaya}\\
   &&&= (?)\\
@@ -5615,8 +5590,7 @@ non-(service-people), and not to be said (for) one who envies me.\\
   &&&\\
   1b&{\dn naabhaktaaya}&naa|&\na\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&bhak|taa|ya&{\dn bhaktaaya}\\
   &&&= (?)\\
@@ -5633,8 +5607,7 @@ non-(service-people), and not to be said (for) one who envies me.\\
   &&&\\
   &{\dn caa"su"sruu.save}&caa|&\ca\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&"su|"sruu|.sa|ve&{\dn "su"sruu.save}\\
   &&&= (?)\\
@@ -5743,8 +5716,7 @@ no-doubt.\\
   &&&\note{\verbb, \futuretensecertain, \thirdperson, \singular}\\
   &&&\note{root: {\dn e.s} = e.s}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sa.m|"sa|ya\h{a}&sa.m"saya.h\\
   &&&= {\dn sa.m"saya.h}\\
@@ -6061,8 +6033,7 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&= {\dn kaccit}\\
   &&&= (?)\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -6148,8 +6119,7 @@ speech of you.\\
   &&&\\
   &&ma|yaa|&\mayaa\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&cyu|ta&{\dn cyuta}\\
   &&&= perishable; changeable; fallen\\

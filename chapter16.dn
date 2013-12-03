@@ -21,8 +21,7 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn abhaya.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn abhaya.m}&a|&\aprefix\\
   &&&\\
   &&bha|ya.m&bhayam = {\dn bhayam} = \bhayam\\
   &&&\notebhayam\\
@@ -100,8 +99,7 @@ non-slander/non-libel, compassion in beings, non-greed, gentleness,
 modesty, non-fickleness \dots\\
 
 \begin{tabular}{llll}
-  1a&{\dn ahi.msaa}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn ahi.msaa}&a|&\aprefix\\
   &&&\\
   &&hi.m|saa&{\dn hi.msaa}\\
   &&&= harm; hurt; violence; killing\\
@@ -114,8 +112,7 @@ modesty, non-fickleness \dots\\
   &&&= \satyam\\
   &&&\notesatyam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&kro|dha|&krodha.h\\
   &&&= {\dn krodha.h}\\
@@ -134,8 +131,7 @@ modesty, non-fickleness \dots\\
   &&&= \zAntiH\\
   &&&\notezAntiH\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pai|"su|nam&{\dn pai"sunam}\\
   &&&= slander; libel\\
@@ -153,8 +149,7 @@ modesty, non-fickleness \dots\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn bhuutam} = bhuutam}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&lo|lup|tva.m&loluptvam\\
   &&&= {\dn loluptvam}\\
@@ -175,8 +170,7 @@ modesty, non-fickleness \dots\\
   &&&= shame; shyness; modesty\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&caa|pa|lam&{\dn caapalam}\\
   &&&= fickleness\\
@@ -209,8 +203,7 @@ female deity, O son of Bharata (O Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  1b&&ma|&\aprefix\\
   &&&\\
   &&dro|ho&droha.h\\
   &&&= {\dn droha.h}\\
@@ -302,8 +295,7 @@ prince (O Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aj~naana.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn aj~naana.m}&a|&\aprefix\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -594,16 +586,14 @@ non-restrained, (and) non-mutual-born. What else, (besides)
 sexual-desire-(motive)?\\
 
 \begin{tabular}{llll}
-  1a&{\dn asatyamaprati.s.tha.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn asatyamaprati.s.tha.m}&a|&\aprefix\\
   &&&\\
   &&sa|tya|ma|&satyam\\
   &&&= {\dn satyam}\\
   &&&= \satyam\\
   &&&\notesatyam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pra|ti|.s.tha.m&prati.s.tham\\
   &&&= {\dn prati.s.tham}\\
@@ -637,8 +627,7 @@ sexual-desire-(motive)?\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn aparasparasambhuuta.m}\\
   &&&\\
-  &&a|&{\dn a} = not\\
-  &&&\notea\\
+  &&a|&\aprefix\\
   &&&\\
   &&pa|ra|spa|ra&{\dn paraspara}\\
   &&&= mutual\\
@@ -757,8 +746,7 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&\notejagataH\\
   &&&\note{from {\dn jagat} = jagat}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&hi|taa\h{aa}&hitaa.h\\
   &&&= {\dn hitaa.h}\\
@@ -835,8 +823,7 @@ deceit(ful) mind (and) lust, from a mistake, having taken non-true
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn grah} = grah}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sad|&sat\\
   &&&= {\dn sat}\\
@@ -855,8 +842,7 @@ deceit(ful) mind (and) lust, from a mistake, having taken non-true
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn prav.rt} = prav.rt}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&"su|ci|&{\dn "suci}\\
   &&&= pure; clean; white\\
@@ -889,8 +875,7 @@ much. Thus. Sure.\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn cintaa} = cintaa}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pa|ri|me|yaa.m&parimeyaam\\
   &&&= {\dn parimeyaam}\\
@@ -1037,8 +1022,7 @@ profit piles.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&ma|&a = {\dn a} = not\\
-  &&&\notea\\
+  2b&&ma|&\aprefix\\
   &&&\\
   &&nyaa|ye|naar|&{\dn nyaayena}\\
   &&&= by using law; rule\\
@@ -1287,8 +1271,7 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&\\
   &&i|tya|&\iti\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&j\~{}naa|na|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1376,8 +1359,7 @@ eternal-sexual-love-enjoyment---(demons) fall in hell, not (clean).\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn naraka.h} = naraka.h}\\
   &&&\\
-  &&'|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&'|&\aprefix\\
   &&&\\
   &&"su|cau&{\dn "sucau}\\
   &&&= (?)\\
@@ -1468,8 +1450,7 @@ non-law-previous.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn dambha.h} = dambha.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vi|dhi|&vidhi.h\\
   &&&= {\dn vidhi.h}\\
@@ -1627,8 +1608,7 @@ life.\\
   &&&= eternally\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&"su|bhaa|&"subhaan\\
   &&&= {\dn "subhaan}\\
@@ -1704,8 +1684,7 @@ go (on) the lowest path.\\
 \begin{tabular}{llll}
   2a&{\dn maamapraapyaiva}&maa|ma|&\maam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&praa|pyai|&praapya\\
   &&&= {\dn praapya}\\
@@ -2044,8 +2023,7 @@ said (by me)---in this world, (you) are able to do action.\\
   &&&= action; work; doing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&kaar|ya|&kaaryam\\
   &&&= {\dn kaaryam}\\

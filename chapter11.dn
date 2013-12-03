@@ -151,8 +151,7 @@ the greatness (of you) (is) non-changeable.\\
   &&&= paper; sheet; letter; leaf\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&k.sa&{\dn k.sa}\\
   &&&= O destruction\\
@@ -170,8 +169,7 @@ the greatness (of you) (is) non-changeable.\\
   &&&\\
   &{\dn caavyayam}&caa|&\ca\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&{\dn vyayam}\\
   &&&= \vyayam\\
@@ -344,8 +342,7 @@ O yoking-God, from there, for me, you---show the non-changeable self
   &&&\noteaatmaanam\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|yam&{\dn vyayam}\\
   &&&= changeable; perishable\\
@@ -498,8 +495,7 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{\adjective, \noun, \neuter, \plural}\\
   &&&\note{from {\dn bahu} = bahu}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&d.r|.s.ta|&{\dn d.r.s.ta}\\
   &&&= seen\\
@@ -577,8 +573,7 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&ca|raa|&cara = {\dn cara} = \cara\\
   &&&\notecara\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&ca|ram&caram = {\dn caram} = \caram\\
   &&&\notecaram\\
@@ -1591,8 +1586,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn dyuti.h} = dyuti.h}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pra|me|yam&{\dn prameyam}\\
   &&&= provable; measurable\\
@@ -1617,8 +1611,7 @@ instead of the usual eight.)\\
   1a&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&k.sa|ra.m&k.saram\\
   &&&= {\dn k.saram}\\
@@ -1664,8 +1657,7 @@ instead of the usual eight.)\\
   2a&{\dn tvamavyaya.h}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&vya|ya\h{a}&{\dn vyaya.h}\\
   &&&= changeable; decayable\\
@@ -2165,8 +2157,7 @@ the last half-line, which has ten. The usual number is eight.)\\
   &&&= a Yak.sa\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&su|ra|&sura.h\\
   &&& {\dn sura.h}\\
@@ -3894,8 +3885,7 @@ instead of the usual eight.)\\
   2b&{\dn tvamak.sara.m}&tva|ma|&tvam = {\dn tvam} = \tvam\\
   &&&\notetvam\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&k.sa|ra.m&k.saram\\
   &&&= {\dn k.saram}\\
@@ -3907,8 +3897,7 @@ instead of the usual eight.)\\
   &&&= true\\
   &&&\note{\adjective}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sat|&{\dn sat}\\
   &&&= true\\
@@ -4247,8 +4236,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn viiryam} = viiryam}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&mi|ta|&{\dn mita}\\
   &&&= measured; limited; meted\\
@@ -4356,8 +4344,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ajaanataa}&a|&{\dn a} = not\\
-  &&&\notea\\
+  2a&{\dn ajaanataa}&a|&\aprefix\\
   &&&\\
   &&jaa|na|taa&(?) ``know''\\
   &&&\\
@@ -4427,8 +4414,7 @@ instead of the usual eight.)\\
   &&&\note{from {\dn artha.h} = artha.h}\\
   &&&\note{from {\dn artham} = artham}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&sat|&{\dn sat}\\
   &&&= true\\
@@ -4480,8 +4466,7 @@ instead of the usual eight.)\\
   &&&\\
   &&pya|&\api\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&cyu|ta&{\dn cyuta}\\
   &&&= O fallen; shaken\\
@@ -4515,8 +4500,7 @@ instead of the usual eight.)\\
   &&&\\
   &&ha|ma|&\aham\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pra|me|yam&{\dn prameyam}\\
   &&&= provable; measurable\\
@@ -4556,8 +4540,7 @@ instead of the usual eight.)\\
    &&&= moving\\
    &&&\note{\adjective, \male}\\
    &&&\\
-   &&||&a = {\dn a} = not\\
-   &&&\notea\\
+   &&||&\aprefix\\
    &&&\\
    &&ca|ra|sya&{\dn carasya}\\
    &&&= of a/the person/thing moving\\
@@ -4644,8 +4627,7 @@ instead of the usual eight.)\\
   &&&\\
   &&'pya|&\api\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&pra|ti|ma|&pratima\\
   &&&= {\dn pratima}\\
@@ -4785,8 +4767,7 @@ world-residence (O \textkrsna).\\
 instead of the usual eight.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn ad.r.s.tapuurva.m}&a|&{\dn a} = not\\
-  &&&\notea\\
+  1a&{\dn ad.r.s.tapuurva.m}&a|&\aprefix\\
   &&&\\
   &&d.r|.s.ta|&{\dn d.r.s.ta}\\
   &&&= seen\\
@@ -5117,8 +5098,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&|&a = {\dn a} = not\\
-  &&&\notea\\
+  &&|&\aprefix\\
   &&&\\
   &&nye|na&anyena\\
   &&&= {\dn anyena}\\
