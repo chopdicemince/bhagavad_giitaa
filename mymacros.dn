@@ -249,8 +249,13 @@
   &&&\note{\nounroot{\dn jana}{jana}}
 }
 
-\newcommand{\ardana}{\vocativephrase\ disturbance; distress; excitement}
-\newcommand{\noteardana}{\note{\noun, \neuter, \vocativecase}}
+\newcommand{\ardana}{
+  ardana\\
+  &&&= {\dn ardana}\\
+  &&&= \vocativephrase\ disturbance; distress; excitement\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{\nounroot{\dn ardana}{ardana}}
+}
 
 \newcommand{\hRSIkezaH}{K.r.s.na}
 \newcommand{\notehRSIkezaH}{\note{\noun, \male}}
