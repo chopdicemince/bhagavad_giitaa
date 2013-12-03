@@ -257,8 +257,13 @@
   &&&\note{\nounroot{\dn ardana}{ardana}}
 }
 
-\newcommand{\hRSIkezaH}{K.r.s.na}
-\newcommand{\notehRSIkezaH}{\note{\noun, \male}}
+\newcommand{\nounroothRSIkeza}{\nounroot{\dn h.r.siike"sa}{h.r.siike"sa}}
+
+\newcommand{\hRSIkezaH}{
+  h.r.siike"sa.h = {\dn h.r.siike"sa.h} = K.r.s.na\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroothRSIkeza}
+}
 
 \newcommand{\hRSIkezam}{K.r.s.na}
 \newcommand{\notehRSIkezam}{\note{\noun, \male, \accusativecase}}
@@ -266,7 +271,7 @@
 \newcommand{\hRSIkeza}{
   h.r.siike"sa = {\dn h.r.siike"sa} = \vocativephrase\ \textkrsna\\
   &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{\nounroot{\dn h.r.siike"sa}{h.r.siike"sa}}
+  &&&\note{\nounroothRSIkeza}
 }
 
 \newcommand{\parantapa}{\vocativephrase\ enemy-fire}
