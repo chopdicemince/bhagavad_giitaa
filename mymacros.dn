@@ -243,8 +243,11 @@
   &&&\note{\nounroot{\dn k.r.s.na}{k.r.s.na}}
 }
 
-\newcommand{\janaH}{born thing; living thing; man}
-\newcommand{\notejanaH}{\note{\noun, \male}}
+\newcommand{\janaH}{
+  jana.h = {\dn jana.h} = born thing; living thing; man\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn jana}{jana}}
+}
 
 \newcommand{\ardana}{\vocativephrase\ disturbance; distress; excitement}
 \newcommand{\noteardana}{\note{\noun, \neuter, \vocativecase}}
