@@ -265,8 +265,11 @@
   &&&\note{\nounroothRSIkeza}
 }
 
-\newcommand{\hRSIkezam}{K.r.s.na}
-\newcommand{\notehRSIkezam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\hRSIkezam}{
+  h.r.siike"sam = {\dn h.r.siike"sam} = \textkrsna\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounroothRSIkeza}
+} 
 
 \newcommand{\hRSIkeza}{
   h.r.siike"sa = {\dn h.r.siike"sa} = \vocativephrase\ \textkrsna\\

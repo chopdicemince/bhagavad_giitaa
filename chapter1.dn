@@ -1548,11 +1548,7 @@ mighty-master (O King \textdhrtaraastra): \dots\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&h.r.siike"sam\\
-  &&&= {\dn h.r.siike"sam}\\
-  &&&= \hRSIkezam\\
-  &&&\notehRSIkezam\\
-  &&&\note{from {\dn h.r.siike"sa.h} = h.r.siike"sa.h}\\
+  3a&{\dn h.r.siike"sa.m}&h.r|.sii|ke|"sa.m&\hRSIkezam\\
   &&&\\
   &{\dn tadaa}&ta|daa&then\\
   &&&\note{\adverb, \indeclinable}\\
