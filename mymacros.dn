@@ -224,7 +224,8 @@
 % Names for K.r.s.na.
 
 \newcommand{\kezava}{
-  \vocativephrase\ hair-full (long-haired) man\\
+  ke"sava = {\dn ke"sava}\\
+  &&&= \vocativephrase\ hair-full (long-haired) man\\
   &&&= \vocativephrase\ \textkrsna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn ke"sava}{ke"sava}}\\
