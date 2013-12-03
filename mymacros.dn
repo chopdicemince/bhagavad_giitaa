@@ -276,9 +276,6 @@
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroothRSIkeza}
 }
-
-\newcommand{\parantapa}{\vocativephrase\ enemy-fire}
-\newcommand{\noteparantapa}{\note{\noun, \male, \vocativecase}}
 % ------------------------------------------------------------------------------
 % Names for Arjuna.
 \newcommand{\arjunaH}{Arjuna}
@@ -317,6 +314,15 @@
 
 \newcommand{\baaho}{\vocativephrase\ arm; forearm}
 \newcommand{\notebaaho}{\note{\noun, \male, \vocativecase}}
+
+
+\newcommand{\parantapa}{
+  parantapa = {\dn parantapa}\\
+  &&&= \vocativephrase\ enemy-fire\\
+  &&&= \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn parantapa}{parantapa}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\saJjayaH}{Sa\~{}njaya}
 \newcommand{\notesaJjayaH}{\note{\noun, \proper, \male}}
