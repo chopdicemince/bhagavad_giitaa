@@ -292,8 +292,13 @@
   &&&\note{\nounrootarjuna}
 }
 
-\newcommand{\bhaarata}{\vocativephrase\ son/descendant of Bharata}
-\newcommand{\notebhaarata}{\note{\noun, \male, \vocativecase}}
+% Note: ``Bhaarata'' can mean Arjuna or King Dh.rtaraa.s.tra.
+\newcommand{\bhaarata}{
+  bhaarata = {\dn bhaarata}\\
+  &&&= \vocativephrase\ son/descendant of Bharata\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn bhaarata}{bhaarata}}
+}
 
 \newcommand{\kaunteya}{\vocativephrase\ son of Kuntii}
 \newcommand{\notekaunteya}{\note{\noun, \male, \vocativecase}}
