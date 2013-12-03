@@ -286,8 +286,11 @@
   &&&\note{\nounrootarjuna}
 }
 
-\newcommand{\arjuna}{\vocativephrase\ Arjuna}
-\newcommand{\notearjuna}{\note{\noun, \proper, \male, \vocativecase}}
+\newcommand{\arjuna}{
+  arjuna = {\dn arjuna} = \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \proper, \male, \vocativecase}\\
+  &&&\note{\nounrootarjuna}
+}
 
 \newcommand{\bhaarata}{\vocativephrase\ son/descendant of Bharata}
 \newcommand{\notebhaarata}{\note{\noun, \male, \vocativecase}}
