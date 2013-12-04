@@ -387,8 +387,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\eSaH}{this/he}
-\newcommand{\noteeSaH}{\note{\pronoun, \demonstrative, \thirdperson, \male}}
+\newcommand{\eSaH}{
+  e.sa.h = {\dn e.sa.h} = this/he\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \nominativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\tasmaat}{from that/him; therefore}
 \newcommand{\notetasmaat}{\note{\pronoun, \demonstrative, \male, \ablativecase}\\

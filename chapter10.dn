@@ -521,7 +521,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
 \begin{tabular}{llll}
   1a&{\dn etaa.m}&e|taa.m&etaan = {\dn etaan} = \etaan\\
   &&&\noteetaan\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h = \eSaH}\\
+  &&&\note{from {\dn e.sa.h} = e.sa.h}\\
   &&&\\
   &{\dn vibhuuti.m}&vi|bhuu|ti.m&vibhuutim\\
   &&&= {\dn vibhuutim}\\
@@ -3235,8 +3235,7 @@ by me (is) a (brief description) of the power vastness (of me).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn e.sa}&e|.sa&e.sa.h = {\dn e.sa.h} = \eSaH\\
-  &&&\noteeSaH\\
+  2a&{\dn e.sa}&e|.sa&\eSaH\\
   &&&\\
   &{\dn tuudde"sata.h}&tuud|&\tu\\
   &&&\\
