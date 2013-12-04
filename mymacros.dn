@@ -307,8 +307,12 @@
   &&&\note{\nounroot{\dn kaunteya}{kaunteya}}
 }
 
-\newcommand{\paartha}{\vocativephrase\ son of P.rthaa}
-\newcommand{\notepaartha}{\note{\noun, \male, \vocativecase}}
+\newcommand{\paartha}{
+  paartha = {\dn paartha} = \vocativephrase\ son of P.rthaa\\
+  &&&= \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn paartha}{paartha}}
+}
 
 \newcommand{\dhanam}{money}
 \newcommand{\notedhanam}{\note{\noun, \neuter}}

@@ -31,9 +31,7 @@ me completely. Hear that.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   &&&\\
-  &{\dn paartha}&paar|tha&\paartha = O Arjuna\\
-  &&&\notepaartha\\
-  &&&\note{from {\dn paartha.h} = paartha.h}\\
+  &{\dn paartha}&paar|tha&\paartha\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -770,9 +768,6 @@ sharpness of sharp people.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  &&&= O Arjuna\\
-  &&&\notepaartha\\
-  &&&\note{from {\dn paartha.h} = paartha.h}\\
   &&&\\
   &{\dn sanaatanam}&sa|naa|ta|nam&eternal; ancient\\
   &&&\note{\adjective, \neuter}\\
