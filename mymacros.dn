@@ -314,8 +314,12 @@
   &&&\note{\nounroot{\dn paartha}{paartha}}
 }
 
-\newcommand{\dhanam}{money}
-\newcommand{\notedhanam}{\note{\noun, \neuter}}
+\newcommand{\dhanam}{
+  dhanam = {\dn dhanam} = money\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroot{\dn dhana}{dhana}}
+}
 
 \newcommand{\jayaH}{victory}
 \newcommand{\notejayaH}{\note{\noun, \male}}
