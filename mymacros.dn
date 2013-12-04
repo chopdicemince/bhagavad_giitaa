@@ -333,16 +333,21 @@
   &&&\note{\nounroot{\dn jaya}{jaya}}
 }
 
+\newcommand{\nounrootpANDava}{\nounroot{\dn paa.n.dava}{paa.n.dava}}
+
 \newcommand{\pANDava}{
   paa.n.dava = {\dn paa.n.dava} = \vocativephrase\ son of Paa.n.du\\
   &&&= \vocativephrase\ Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{\nounroot{\dn paa.n.dava}{paa.n.dava}}
+  &&&\note{\nounrootpANDava}
 }
 
-\newcommand{\pANDavaH}{Paa.n.dava\\
-  &&&= son of Paa.n.du}
-\newcommand{\notepANDavaH}{\note{\noun, \proper, \male}}
+\newcommand{\pANDavaH}{
+  paa.n.dava.h = {\dn paa.n.dava.h} = Paa.n.dava\\
+  &&&= son of Paa.n.du\\
+  &&&\note{\noun, \proper, \male, \nominativecase}\\
+  &&&\note{\nounrootpANDava}
+}
 
 \newcommand{\mahaan}{mighty; great}
 \newcommand{\notemahaan}{\note{\adjective, \male}}
