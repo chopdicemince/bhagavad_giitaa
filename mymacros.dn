@@ -327,8 +327,11 @@
   &&&\note{\nounroot{\dn jaya}{jaya}}
 }
 
-\newcommand{\jaya}{\vocativephrase\ victory}
-\newcommand{\notejaya}{\note{\noun, \male, \vocativecase}}
+\newcommand{\jaya}{
+  jaya = {\dn jaya} = \vocativephrase\ victory\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn jaya}{jaya}}
+}
 
 \newcommand{\pANDava}{\vocativephrase\ son of Paa.n.du}
 \newcommand{\notepANDava}{\note{\noun, \male, \vocativecase}}
