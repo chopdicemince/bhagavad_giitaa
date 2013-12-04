@@ -300,8 +300,12 @@
   &&&\note{\nounroot{\dn bhaarata}{bhaarata}}
 }
 
-\newcommand{\kaunteya}{\vocativephrase\ son of Kuntii}
-\newcommand{\notekaunteya}{\note{\noun, \male, \vocativecase}}
+\newcommand{\kaunteya}{
+  kaunteya = {\dn kaunteya} = \vocativephrase\ son of Kuntii\\
+  &&&= \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn kaunteya}{kaunteya}}
+}
 
 \newcommand{\paartha}{\vocativephrase\ son of P.rthaa}
 \newcommand{\notepaartha}{\note{\noun, \male, \vocativecase}}
