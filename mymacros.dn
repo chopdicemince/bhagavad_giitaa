@@ -321,8 +321,11 @@
   &&&\note{\nounroot{\dn dhana}{dhana}}
 }
 
-\newcommand{\jayaH}{victory}
-\newcommand{\notejayaH}{\note{\noun, \male}}
+\newcommand{\jayaH}{
+  jaya.h = {\dn jaya.h} = victory\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn jaya}{jaya}}
+}
 
 \newcommand{\jaya}{\vocativephrase\ victory}
 \newcommand{\notejaya}{\note{\noun, \male, \vocativecase}}

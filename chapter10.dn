@@ -2932,10 +2932,7 @@ strength-full-things, I (am) strength.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn jayo.asmi}&ja|yo|&jaya.h\\
-  &&&= {\dn jaya.h}\\
-  &&&= \jayaH\\
-  &&&\notejayaH\\
+  2a&{\dn jayo.asmi}&ja|yo|&\jayaH\\
   &&&\\
   &&'smi&asmi = {\dn asmi} = (I) am\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
@@ -3006,9 +3003,7 @@ sages, (I am) the sage U"sanaa.\\
   &&&\\
   &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
   &&&\\
-  &&ja|ya\h{a}&{\dn jaya.h}\\
-  &&&= \jayaH\\
-  &&&\notejayaH\\
+  &&ja|ya\h{a}&\jayaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

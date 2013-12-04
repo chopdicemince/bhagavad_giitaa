@@ -6491,8 +6491,9 @@ me.\\
   &&&\\
   &&vi|ja|yo&vijaya.h\\
   &&&= {\dn vijaya.h}\\
-  &&&= \jayaH\\
-  &&&\notejayaH\\
+  &&&= victory\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn vijaya}{vijaya}}\\
   &&&\\
   &{\dn bhuutirdhruvaa}&bhuu|tir|&bhuuti.h\\
   &&&= {\dn bhuuti.h}\\
