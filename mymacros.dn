@@ -357,9 +357,11 @@
   &&&\note{\adjectiveroot{\dn mahat}{mahat}}
 }
 
-\newcommand{\baaho}{\vocativephrase\ arm; forearm}
-\newcommand{\notebaaho}{\note{\noun, \male, \vocativecase}}
-
+\newcommand{\baaho}{
+  baaho = {\dn baaho} = \vocativephrase\ arm; forearm\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn baahu}{baahu}}
+}
 
 \newcommand{\parantapa}{
   parantapa = {\dn parantapa}\\
