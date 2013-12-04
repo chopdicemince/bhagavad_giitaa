@@ -151,7 +151,7 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn praahu.h}&praa|hu\h{u}&(?) ``is known''\\
   % ----------------------------------------------------------------------------
@@ -322,8 +322,7 @@ me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -2030,8 +2029,7 @@ strings---with---in all ways, present, also---he is not born again.\\
   &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn bhuuyo.abhijaayate}&bhuu|yo|&bhuuya.h = {\dn bhuuya.h} = again\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2178,7 +2176,7 @@ hearing.\\
 \begin{tabular}{llll}
   2a&{\dn te.api}&te|&{\dn te} = \temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&'pi&\api\\
   &&&\\
@@ -2369,8 +2367,7 @@ sees.\\
   &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
   &&&\notepazyati\\
@@ -2526,8 +2523,7 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn kart.r} = kart.r}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
   &&&\notepazyati\\
@@ -2936,7 +2932,7 @@ paramount (place).\\
   &&&\\
   &{\dn te}&te&\temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn param}&pa|ram&\param\\
   &&&\noteparamneuter\\

@@ -76,15 +76,14 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&&\\
   &&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn veda}&ve|da&veda.h\\
   &&&= {\dn veda.h}\\
   &&&= knowledge\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn vedavit}&ve|da|&veda.h\\
   &&&= {\dn veda.h}\\
@@ -128,7 +127,7 @@ instead of the usual eight.)\\
   &&&\\
   &&sta|sya&tasya = {\dn tasya} = \tasya\\
   &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn "saakhaa}&"saa|khaa&branch; part\\
@@ -375,7 +374,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn tameva}&ta|me|&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -1709,8 +1708,7 @@ Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn sarvavidbhajati}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\

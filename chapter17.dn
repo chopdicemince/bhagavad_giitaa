@@ -57,7 +57,7 @@ Goodness? Passion? Ignorance?\\
 \begin{tabular}{llll}
   2a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
   &&&\noteteSAm\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn ni.s.thaa}&ni|.s.thaa&steadfastness\\
@@ -277,7 +277,6 @@ is faithful with, really.\\
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
-  &&&\notesaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -545,7 +544,7 @@ demon(-occurrences-of)-steadfastness.\\
   &&&\\
   &&taan|&{\dn taan} = \taan\\
   &&&\notetaan\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&vid|dhyaa|&viddhi.h\\
   &&&= {\dn viddhi.h}\\
@@ -627,7 +626,7 @@ difference.\\
   &&&\\
   2b&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
   &&&\noteteSAm\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn bhedamima.m}&bhe|da|mi|&bhedam\\
@@ -984,8 +983,7 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &&&= fix; completion; accomplishment\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn sattvika.h}&sat|tvi|ka\h{a}&true; good; pure; energetic\\
   &&&\note{\adjective, \male}\\
@@ -1054,7 +1052,7 @@ passion.\\
   &&&\\
   2b&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn yaj~na.m}&ya|j\~{}na.m&yaj\~{}nam\\
   &&&= {\dn yaj~nam}\\
@@ -1976,7 +1974,7 @@ kind(s)---remembered by those people with divine knowledge and
   &&&\\
   &&na&tena = {\dn tena} = by using that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn vedaa"sca}&ve|daa"s|&vedaa.h\\
   &&&= {\dn vedaa.h}\\

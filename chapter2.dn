@@ -22,7 +22,7 @@ by Madhu-killer (\textkrsna): \dots\\
   &&&\\
   1a&{\dn ta.m}&ta.m&tam = {\dn tam} = him = Arjuna\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\\
@@ -545,7 +545,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 \begin{tabular}{llll}
   2b&{\dn te.avasthitaa.h}&te|&{\dn te} = \temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
@@ -1274,7 +1274,7 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&= {\dn taan}\\
   &&&= \taan\\
   &&&\notetaan\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&sti|ti|k.sa|&titik.sa.h\\
   &&&= {\dn titik.sa.h}\\
@@ -1360,8 +1360,7 @@ is suitable for ``not-dead'' (immortality).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn so.am.rtatvaaya}&so|&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  2b&{\dn so.am.rtatvaaya}&so|&\saH\\
   &&&\\
   &&'|&\aprefix\\
   &&&\\
@@ -1629,7 +1628,7 @@ descendant of Bharata (O Arjuna).\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&dhya|sva&yudhyasva\\
   &&&= {\dn yudhyasva}\\
@@ -1693,7 +1692,7 @@ does not kill and is not killed.\\
   &&&\\
   &{\dn tau}&tau&those two; they two\\
   &&&\note{\pronoun, \thirdperson, \male, \dual}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
@@ -1881,8 +1880,7 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   2a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
   &&&\notepuruSaH\\
@@ -2222,7 +2220,7 @@ you do not deserve to lament.\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&va.m&\evam\\
   &&&\\
@@ -2387,7 +2385,7 @@ to lament.\\
   &&&= {\dn tasmaat}\\
   &&&= therefore\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -2658,7 +2656,7 @@ deserve to lament each being.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaatsarvaa.ni}&tas|maat|&{\dn tasmaat} = \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&sar|vaa|.ni&{\dn sarvaa.ni} = \sarvANi\\
   &&&\notesarvANi\\
@@ -2943,7 +2941,7 @@ death.\\
   &&&\\
   &{\dn te.avyayaam}&te|&{\dn te} = \temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&'vya|yaam&avyayaam\\
   &&&= {\dn avyayaam}\\
@@ -3188,7 +3186,7 @@ Arjuna).  For the fight, be certain.\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&ti.s|.tha&utti.s.thatu\\
   &&&= {\dn utti.s.thatu}\\
@@ -4193,7 +4191,7 @@ action, and skill.\\
   2a&{\dn tasmaadyogaaya}&tas|maad|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&yo|gaa|ya&``work'' (?)\\
   &&&\note{from: \noun, \male: {\dn yoga.h} = yoga.h}\\
@@ -4750,7 +4748,7 @@ complete.\\
   &&&\\
   2b&{\dn tasya}&ta|sya&\tasya\\
   &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
@@ -4824,7 +4822,7 @@ knowledge is complete.\\
   &&&\\
   2b&&sta|sya&tasya = {\dn tasya} = \tasya\\
   &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
@@ -5496,7 +5494,7 @@ restrained---his knowledge is complete.\\
   1a&{\dn tasmaaadyasya}&tas|maa|dya|&tasmaat\\
   &&&= {\dn tasmaat}\\
   &&&= \tasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&sya&yasya\\
   &&&= {\dn yasya}\\
@@ -5541,7 +5539,7 @@ restrained---his knowledge is complete.\\
   &&&\\
   2a&&sta|sya&tasya = {\dn tasya} = \tasya\\
   &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn praj~naa}&praj|\~{}naa&intelligence; understanding;\\
@@ -5769,8 +5767,7 @@ desiring possessions, humble---he learns peace.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn "saantimadhigacchati}&"saan|ti|ma|&"saantim\\
   &&&= {\dn "saantim}\\

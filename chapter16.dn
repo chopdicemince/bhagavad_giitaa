@@ -557,7 +557,7 @@ purity, and no good behavior, (and) no truth is in them.\\
   &&&\\
   &{\dn te.su}&te|.su&at/in/on those/them\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -590,7 +590,7 @@ sexual-desire-(motive)?\\
   &&&\\
   &{\dn te}&te&\temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1421,7 +1421,7 @@ non-law-previous.\\
   &&&\\
   &&ste&te = {\dn te} = \temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1544,7 +1544,7 @@ life.\\
 \begin{tabular}{llll}
   1a&{\dn taanaha.m}&taa|na|&taan = {\dn taan} = \taan\\
   &&&\notetaan\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&ha.m&\aham\\
   &&&\\
@@ -1767,7 +1767,7 @@ abandons this group of three.\\
   &&&\\
   &&sta|smaa|de|&tasmaat = {\dn tasmaat} = \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&tat|&etat = {\dn etat} = \etat\\
   &&&\noteetat\\
@@ -1926,8 +1926,7 @@ attains no success, no happiness, (and) no paramount path.\\
 \begin{tabular}{llll}
   2a&{\dn na}&na&\na\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn siddhimavaapnoti}&sid|dhi|ma|&siddhim\\
   &&&= {\dn siddhim}\\
@@ -1975,7 +1974,7 @@ said (by me)---in this world, (you) are able to do action.\\
 \begin{tabular}{llll}
   1a&{\dn tasmaacchaastra.m}&tas|maac|&tasmaat = {\dn tasmaat} = \tasmaat\\
   &&&\notetasmaat\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &&chaa|stra.m&"saastram\\
   &&&= {\dn "saastram}\\

@@ -216,8 +216,7 @@ using (of) all sins.\\
   &&&= \sammUDhaH\\
   &&&\notesammUDhaH\\
   &&&\\
-  &{\dn sa}&sa&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  &{\dn sa}&sa&\saH\\  
   &&&\\
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -555,8 +554,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn so.avikalpena}&so|&sa.h = {\dn sa.h} = \saH\\
-  &&&\notesaH\\
+  2a&{\dn so.avikalpena}&so|&\saH\\
   &&&\\
   &&'|&\aprefix\\
   &&&\\
@@ -739,7 +737,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
 \begin{tabular}{llll}
   1a&{\dn te.saa.m}&te|.saa.m&te.saam = {\dn te.saam} = \teSAm\\
   &&&\noteteSAm\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn satatayuktaanaa.m}&sa|ta|ta|&{\dn satata}\\
@@ -791,7 +789,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -810,7 +808,7 @@ friendliness-previous, I give that intelligence-yoking (to) those
   &&&\\
   &{\dn te}&te&\temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -827,7 +825,7 @@ knowledge-lamp-brightness.\\
   &&&\\
   &&te|.saa|me|&te.saam = {\dn te.saam} = \teSAm\\
   &&&\noteteSAm\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &&vaa|&\eva\\
@@ -1545,7 +1543,7 @@ of me is no end.\\
   &&&\\
   &{\dn te}&te&\temale\\
   &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h = \saH}\\
+  &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
   &{\dn kathayi.syaami}&ka|tha|yi|.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain}\\
