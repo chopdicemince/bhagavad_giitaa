@@ -11,6 +11,7 @@
 \newcommand{\transliteration}[1]{\mytextcolor{#1}}
 \newcommand{\h}[1]{\mytextcolor{(|.h(#1))}}
 \newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
+\newcommand{\adjectiveroot}[2]{adjective root: {#1} = {#2}}
 % ------------------------------------------------------------------------------
 \newcommand{\textdhrtaraastra}{Dh.rtaraa.s.tra}
 \newcommand{\textsanjaya}{Sa\~{}njaya}
@@ -349,8 +350,12 @@
   &&&\note{\nounrootpANDava}
 }
 
-\newcommand{\mahaan}{mighty; great}
-\newcommand{\notemahaan}{\note{\adjective, \male}}
+\newcommand{\mahaan}{
+  mahaan = {\dn mahaan} = mighty; great; big\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiveroot{\dn mahat}{mahat}}
+}
 
 \newcommand{\baaho}{\vocativephrase\ arm; forearm}
 \newcommand{\notebaaho}{\note{\noun, \male, \vocativecase}}
