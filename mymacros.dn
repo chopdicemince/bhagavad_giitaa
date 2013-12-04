@@ -371,8 +371,11 @@
   &&&\note{\nounroot{\dn parantapa}{parantapa}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\saJjayaH}{Sa\~{}njaya}
-\newcommand{\notesaJjayaH}{\note{\noun, \proper, \male}}
+\newcommand{\saJjayaH}{
+  sa\~{}njaya.h = {\dn sa~njaya.h} = \textsanjaya\\
+  &&&\note{\noun, \proper, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn sa~njaya}{sa\~{}njaya}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\saH}{that/he}
 \newcommand{\notesaH}{\note{\pronoun, \demonstrative, \thirdperson, \male}}
