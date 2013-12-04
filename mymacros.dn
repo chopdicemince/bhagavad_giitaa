@@ -333,8 +333,12 @@
   &&&\note{\nounroot{\dn jaya}{jaya}}
 }
 
-\newcommand{\pANDava}{\vocativephrase\ son of Paa.n.du}
-\newcommand{\notepANDava}{\note{\noun, \male, \vocativecase}}
+\newcommand{\pANDava}{
+  paa.n.dava = {\dn paa.n.dava} = \vocativephrase\ son of Paa.n.du\\
+  &&&= \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounroot{\dn paa.n.dava}{paa.n.dava}}
+}
 
 \newcommand{\pANDavaH}{Paa.n.dava\\
   &&&= son of Paa.n.du}
