@@ -436,9 +436,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaan}{these/them}
-\newcommand{\noteetaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
-  &&&\note{\plural, \accusativecase}}
+\newcommand{\etaan}{
+  etaan = {\dn etaan} = these/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \plural, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\etaiH}{\instrumentalphrase\ these/them}
 \newcommand{\noteetaiH}{\note{\pronoun, \demonstrative, \thirdperson}\\
