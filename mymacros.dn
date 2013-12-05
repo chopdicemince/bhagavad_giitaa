@@ -471,9 +471,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaani}{these/they}
-\newcommand{\noteetaani}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}\\
-  &&&\note{\plural, \nominativecase, \accusativecase}}
+\newcommand{\etaani}{
+  etaani = {\dn etaani} = these/they\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\neuter, \plural, \nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 % ------------------------------------------------------------------------------
 % Second-person pronouns.
 
