@@ -51,9 +51,7 @@ known, O \textkrsna.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn etadveditumicchaami}\\
   &&&\\
-  &&e|ta|dve|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&e|ta|dve|&\etat\\
   &&&\\
   &&di|tu|mic|&veditum\\
   &&&= {\dn veditum}\\
@@ -138,9 +136,7 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etadyo}&e|ta|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2a&{\dn etadyo}&e|ta|&\etat\\
   &&&\\
   &&dyo&ya.h = {\dn ya.h} = \yaH\\
   &&&\noteyaH\\
@@ -568,8 +564,7 @@ said.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etatk.setra.m}&e|tat|&{\dn etat} = \etat\\
-  &&&\noteetat\\
+  2a&{\dn etatk.setra.m}&e|tat|&\etat\\
   &&&\\
   &&k.se|tra.m&k.setram\\
   &&&= {\dn k.setram}\\
@@ -970,8 +965,7 @@ here in another way.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn etajj~naanamiti}&e|taj|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
+  2a&{\dn etajj~naanamiti}&e|taj|&\etat\\
   &&&\\
   &&j\~{}naa|na|mi|&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1577,9 +1571,7 @@ from-be-behavior.\\
   &&&= \bhaktaH\\
   &&&\notebhaktaH\\
   &&&\\
-  &{\dn etadvij~naaya}&e|ta|dvi|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn etadvij~naaya}&e|ta|dvi|&\etat\\
   &&&\\
   &&j\~{}naa|ya&vij\~{}naaya\\
   &&&= {\dn vij~naaya}\\

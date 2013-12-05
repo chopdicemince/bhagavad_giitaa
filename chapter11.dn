@@ -189,8 +189,7 @@ O ultimate-man (O \textkrsna).\\
 \begin{tabular}{llll}
   1a&{\dn evametadyathaattha}&e|va|me|&\evam\\
   &&&\\
-  &&ta|dya|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
+  &&ta|dya|&\etat\\
   &&&\\
   &&thaat|&\yathaa\\
   &&&\\
@@ -3527,9 +3526,7 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn etacchrutvaa}&e|tac|&etat = {\dn etat} = \etat\\
-  &&&\noteetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1a&{\dn etacchrutvaa}&e|tac|&\etat\\
   &&&\\
   &&chru|tvaa&"srutvaa\\
   &&&= {\dn "srutvaa}\\

@@ -464,8 +464,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etat}{this/it}
-\newcommand{\noteetat}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}}
+\newcommand{\etat}{
+  etat = {\dn etat} = this/it\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\etaani}{these/they}
 \newcommand{\noteetaani}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}\\
