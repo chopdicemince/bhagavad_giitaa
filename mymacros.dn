@@ -429,9 +429,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\teSAm}{\genitivephrase\ \taan; their}
-\newcommand{\noteteSAm}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \neuter, \plural, \genitivecase}}
+\newcommand{\teSAm}{
+  te.saam = {\dn te.saam} = \genitivephrase\ them; their\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\etaan}{these/them}
 \newcommand{\noteetaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
