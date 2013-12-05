@@ -336,8 +336,7 @@ instead of the usual eight.)\\
   &{\dn pada.m}&pa|da.m&padam = {\dn padam} = \padam\\
   &&&\notepadam\\
   &&&\\
-  &{\dn tatparimaargitavya.m}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  &{\dn tatparimaargitavya.m}&tat|&\tat\\
   &&&\\
   &&pa|ri|maar|gi|ta|vya.m&parimaargitavyam\\
   &&&= {\dn parimaargitavyam}\\
@@ -540,7 +539,6 @@ instead of the usual eight.)\\
   &&&\note{from {\dn vyayam} = vyayam}\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-  &&&\notetat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -555,9 +553,7 @@ does not return.\\
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
-  &{\dn tadbhaasayate}&tad|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn tadbhaasayate}&tad|&\tat\\
   &&&\\
   &&bhaa|sa|ya|te&{\dn bhaasayate}\\
   &&&= (he/she/it) shows; shines on\\
@@ -602,9 +598,7 @@ does not return.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn taddhaama}&tad|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn taddhaama}&tad|&\tat\\
   &&&\\
   &&dhaa|ma&dhaamam\\
   &&&= {\dn dhaamam}\\
@@ -1107,9 +1101,7 @@ in a fire? (Know) that fire of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tattejo}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn tattejo}&tat|&\tat\\
   &&&\\
   &&te|jo&teja.h\\
   &&&= {\dn teja.h}\\

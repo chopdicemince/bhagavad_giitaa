@@ -450,9 +450,12 @@
   &&&\note{\nounroottad}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\tat}{that/it}
-\newcommand{\notetat}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\tat}{
+  tat = {\dn tat} = that/it\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\taani}{those/they/them}
 \newcommand{\notetaani}{\note{\pronoun, \demonstrative, \thirdperson}\\

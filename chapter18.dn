@@ -395,7 +395,6 @@ purifying of great minds.\\
   &&va&\eva\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-  &&&\notetat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1551,7 +1550,7 @@ Just as (full?), hear these, also.\\
   &&&\\
   &{\dn taanyapi}&taa|nya|&taani = {\dn taani} = \taani\\
   &&&\notetaani\\
-  &&&\note{from {\dn tat} = tat = \tat}\\
+  &&&\note{from {\dn tat} = tat}\\
   &&&\\
   &&pi&\api\\
 \end{tabular}
@@ -1623,9 +1622,7 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn tajj~naana.m}&taj|&\tat\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1707,9 +1704,7 @@ passion.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tajj~naana.m}&taj|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn tajj~naana.m}&taj|&\tat\\
   &&&\\
   &&j\~{}naa|na.m&j\~{}naanam\\
   &&&= {\dn j~naanam}\\
@@ -1807,8 +1802,7 @@ ignorance, (it is) said.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  &&tat|&\tat\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
   &&&= {\dn taamasam}\\
@@ -1895,9 +1889,7 @@ good.\\
   &&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&tat|&\tat\\
   &&&\\
   &&saat|tvi|ka|mu|&saattvikam\\
   &&&= {\dn saattvikam}\\
@@ -1975,9 +1967,7 @@ done with) much effort---that (action) is called passion.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tadraajasamudaah.rtam}\\
   &&&\\
-  &&ta|draa|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&ta|draa|&\tat\\
   &&&\\
   &&ja|sa|mu|&raajasam\\
   &&&= {\dn raajasam}\\
@@ -2061,9 +2051,7 @@ action (begins). What---that (action) is called ignorance.\\
   &&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&tat|&\tat\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
   &&&= {\dn taamasam}\\
@@ -2990,8 +2978,7 @@ said---self-intelligence-peace-born.\\
   1a&{\dn yattadagre}&yat|&{\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
+  &&ta|da|&\tat\\
   &&&\\
   &&gre&agre\\
   &&&= {\dn agre}\\
@@ -3028,8 +3015,7 @@ said---self-intelligence-peace-born.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatsukha.m}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  2a&{\dn tatsukha.m}&tat|&\tat\\
   &&&\\
   &&su|kha.m&{\dn dukha.m}\\
   &&&= happiness\\
@@ -3100,8 +3086,7 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   1b&&dyat|&yat = {\dn yat} = \yat\\
   &&&\noteyat\\
   &&&\\
-  &&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
+  &&ta|da|&\tat\\
   &&&\\
   &&gre|&agre\\
   &&&= {\dn agre}\\
@@ -3135,8 +3120,7 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn tatsukha.m}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  2b&{\dn tatsukha.m}&tat|&\tat\\
   &&&\\
   &&su|kha.m&sukham\\
   &&&= {\dn sukham}\\
@@ -3230,8 +3214,7 @@ ignorance.\\
   &&&\\
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
-  &&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  &&tat|&\tat\\
   &&&\\
   &&taa|ma|sa|mu|&taamasam\\
   &&&= {\dn taamasam}\\
@@ -3258,8 +3241,7 @@ ignorance, passion).\\
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
-  &{\dn tadasti}&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
+  &{\dn tadasti}&ta|da|&\tat\\
   &&&\\
   &&sti&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3771,9 +3753,7 @@ success.\\
   &&&\notevindati\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn tacch.r.nu}&tac|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn tacch.r.nu}&tac|&\tat\\
   &&&\\
   &&ch.r|.nu&.s.r.nu\\
   &&&= {\dn .s.r.nu}\\
@@ -4597,8 +4577,7 @@ enters that non-gap (God).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vi"s} = vi"s}\\
   &&&\\
-  &{\dn tadanantaram}&ta|da|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
+  &{\dn tadanantaram}&ta|da|&\tat\\
   &&&\\
   &&nan|&\an\\
   &&&\\
@@ -4995,7 +4974,6 @@ mistake, (you) will act---non-submissive---also, that.\\
   &&'pi&\api\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-  &&&\notetat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -5116,8 +5094,7 @@ peace---the eternal place.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatprasaadaatparaa.m}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  2a&{\dn tatprasaadaatparaa.m}&tat|&\tat\\
   &&&\\
   &&pra|saa|daat|&{\dn prasaadaat}\\
   &&&= from peace\\
@@ -6306,8 +6283,7 @@ And (remembering?), (remembering?)---that very wonderful form of Hari
 \textdhrtaraastra). And (I) am very happy, again (and) again.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tacca}&tac|&tat = {\dn tat} = \tat\\
-  &&&\notetat\\
+  1a&{\dn tacca}&tac|&\tat\\
   &&&\\
   &&ca&{\dn ca} = \ca\\
   &&&\\

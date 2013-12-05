@@ -1234,8 +1234,7 @@ will be free from non-grace.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatte}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  2a&{\dn tatte}&tat|&\tat\\
   &&&\\
   &&te&\te\\
   &&&\\
@@ -2728,9 +2727,7 @@ by service. They will start your knowledge. A wise person knows
 truth.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tadviddhi}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1a&{\dn tadviddhi}&tat|&\tat\\
   &&&\\
   &&vid|dhi&{\dn viddhi}\\
   &&&= (you) know\\
@@ -3072,8 +3069,7 @@ knowledge. A self (with) action done, using time (over time), finds
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tatsvaya.m}&tat|&{\dn tat} = \tat\\
-  &&&\notetat\\
+  2a&{\dn tatsvaya.m}&tat|&\tat\\
   &&&\\
   &&sva|ya.m&svayam\\
   &&&= {\dn svayam}\\
