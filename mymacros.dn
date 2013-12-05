@@ -457,9 +457,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\taani}{those/they/them}
-\newcommand{\notetaani}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\neuter, \nominativecase, \accusativecase}}
+\newcommand{\taani}{
+  taani = {\dn taani} = those/they/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\neuter, \plural, \nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\etat}{this/it}
 \newcommand{\noteetat}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}}
