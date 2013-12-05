@@ -543,9 +543,7 @@ has twelve, twelve, eleven, and eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn te.avasthitaa.h}&te|&{\dn te} = \temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2b&{\dn te.avasthitaa.h}&te|&\te\\
   &&&\\
   &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\
@@ -665,9 +663,7 @@ has eleven main syllables per line.)\\
   &&&= student; scholar; disciple\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ste|&te = {\dn te} = \teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &&ste|&\te\\
   &&&\\
   &&'ha.m&\aham\\
   &&&\\
@@ -2925,9 +2921,7 @@ death.\\
   &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
   &&&\note{root: {\dn kath} = kath}\\
   &&&\\
-  &{\dn te.avyayaam}&te|&{\dn te} = \temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &{\dn te.avyayaam}&te|&\te\\
   &&&\\
   &&'vya|yaam&avyayaam\\
   &&&= {\dn avyayaam}\\
@@ -3283,9 +3277,7 @@ Arjuna), by which you will throw away your action bond.\\
   1a&{\dn e.saa}&e|.saa&this\\
   &&&\note{\pronoun, \female}\\
   &&&\\
-  &{\dn te.abhihitaa}&te|&{\dn te} = \teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &{\dn te.abhihitaa}&te|&\te\\
   &&&\\
   &&'bhi|hi|taa&abhihitaa\\
   &&&= {\dn abhihitaa}\\
@@ -3900,9 +3892,7 @@ actions. Do not be a joining in your non-action.\\
   &&&= authority\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&te&{\dn te} = \teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &&te&\te\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3944,9 +3934,7 @@ actions. Do not be a joining in your non-action.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn te}&te&\teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  2b&{\dn te}&te&\te\\
   &&&\\
   &{\dn sa"ngo.astvakarma.ni}&sa"n|go|&sa"nga.h\\
   &&&= {\dn sa"nga.h}\\
@@ -4286,9 +4274,7 @@ to be indifference to something to be heard and something heard.\\
 \begin{tabular}{llll}
   1a&{\dn yadaa}&ya|daa&when\\
   &&&\\
-  &{\dn te}&te&\teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &{\dn te}&te&\te\\
   &&&\\
   &{\dn mohakalila.m}&mo|ha|&moha.h\\
   &&&= {\dn moha.h}\\
@@ -4360,9 +4346,7 @@ when your mind is not disturbed, then you will get devotion.\\
   &&vi|pra|ti|pan|naa&mistaken; forbidden; confused\\
   &&&\note{\adjective, \female}\\
   &&&\\
-  &{\dn te}&te&\teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &{\dn te}&te&\te\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

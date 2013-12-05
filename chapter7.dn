@@ -105,9 +105,7 @@ be known.\\
   &&&\notejJAnam\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn te.aha.m}&te|&te = {\dn te} = \teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &{\dn te.aha.m}&te|&\te\\
   &&&\\
   &&'ha.m&\aham\\
   &&&\\
@@ -963,9 +961,7 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{\pronoun, \thirdperson, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sa.h} = sa.h}\\
   &&&\\
-  &{\dn te}&te&\temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &{\dn te}&te&\te\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
 \end{tabular}
@@ -1130,9 +1126,7 @@ attain) this magic.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn t.R} = t.rr}\\
   &&&\\
-  &{\dn te}&te&\temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &{\dn te}&te&\te\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2251,9 +2245,7 @@ cherish me (with) a firm vow.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te}&te&\temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2a&{\dn te}&te&\te\\
   &&&\\
   &{\dn dvandvamohanirmuktaa}&dvan|dva|&dvandvam\\
   &&&= {\dn dvandvam}\\
@@ -2334,9 +2326,7 @@ and all action.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn te}&te&\temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2a&{\dn te}&te&\te\\
   &&&\\
   &{\dn brahma}&brah|ma&brahman\\
   &&&= {\dn brahman}\\
@@ -2439,9 +2429,7 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn te}&te&\temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2b&{\dn te}&te&\te\\
   &&&\\
   &{\dn vidur}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\

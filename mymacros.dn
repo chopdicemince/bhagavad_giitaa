@@ -401,9 +401,19 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\temale}{those/they}
-\newcommand{\notetemale}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
-  &&&\note{\plural}}
+\newcommand{\nounrootyuSmad}{\nounroot{\dn yu.smad}{yu.smad}}
+
+\newcommand{\te}{
+  te = {\dn te} = those/they (two); \dativephrase\ you; \genitivephrase\ you (your)\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \plural, \nominativecase}\\
+  &&&\note{\female, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\neuter, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\dativecase, \genitivecase}\\
+  &&&\note{\nounrootyuSmad}
+}
 
 \newcommand{\tasya}{of that/him/it; his; its}
 \newcommand{\notetasya}{\note{\pronoun, \demonstrative, \thirdperson}\\
@@ -441,6 +451,8 @@
   &&&\note{\plural, \nominativecase, \accusativecase}}
 % ------------------------------------------------------------------------------
 % Second-person pronouns.
+
+
 \newcommand{\tvam}{you}
 \newcommand{\notetvam}{\note{\pronoun, \secondperson, \singular}}
 
@@ -452,10 +464,6 @@
 
 \newcommand{\tava}{of you (your)}
 \newcommand{\notetava}{\note{\pronoun, \secondperson, \singular, \genitivecase}}
-
-\newcommand{\teyou}{\dativephrase\ you; \genitivephrase\ you (your)}
-\newcommand{\noteteyou}{\note{\pronoun, \secondperson, \singular}\\
-  &&&\note{\dativecase, \genitivecase}}
 
 \newcommand{\vaH}{\tvam; \dativephrase\ \tvam; \genitivephrase\ \tvam\ (your)}
 \newcommand{\notevaH}{\note{\pronoun, \secondperson, \plural}\\

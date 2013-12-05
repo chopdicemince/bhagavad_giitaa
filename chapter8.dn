@@ -989,9 +989,7 @@ syllables is eight.)\\
   2b&{\dn tatte}&tat|&{\dn tat} = \tat\\
   &&&\notetat\\
   &&&\\
-  &&te&{\dn te} = \teyou\\
-  &&&\noteteyou\\
-  &&&\note{from {\dn tvam} = tvam}\\
+  &&te&\te\\
   &&&\\
   &{\dn pada.m}&pa|da.m&padam\\
   &&&= {\dn padam}\\
@@ -1490,9 +1488,7 @@ night.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn te.ahoraatravido}&te|&{\dn te} = \temale\\
-  &&&\notetemale\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2b&{\dn te.ahoraatravido}&te|&\te\\
   &&&\\
   &&'ho|&aha.h\\
   &&&= {\dn aha.h}\\
