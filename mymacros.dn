@@ -487,8 +487,12 @@
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\tvaam}{\tvam}
-\newcommand{\notetvaam}{\note{\pronoun, \secondperson, \singular, \accusativecase}}
+\newcommand{\tvaam}{
+  tvaam = {\dn tvaam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\nounrootyuSmad}
+}
 
 \newcommand{\tvayaa}{\instrumentalphrase\ you}
 \newcommand{\notetvayaa}{\note{\pronoun, \secondperson, \singular, \instrumentalcase}}
