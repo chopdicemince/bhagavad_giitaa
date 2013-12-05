@@ -594,8 +594,7 @@ non-action.\\
   &&&= \karman\\
   &&&\notekarman\\
   &&&\\
-  &{\dn tva.m}&tva.m&tvam = {\dn tvam} = \tvam\\
-  &&&\notetvam\\
+  &{\dn tva.m}&tva.m&\tvam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3101,8 +3100,7 @@ knowledge-skill destruction.\\
 \begin{tabular}{llll}
   1a&{\dn tasmaattvamindriyaa.nyaadau}&tas|maat|&\tasmaat\\
   &&&\\
-  &&tva|min|&tvam = {\dn tvam} = \tvam\\
-  &&&\notetvam\\
+  &&tva|min|&\tvam\\
   &&&\\
   &&dri|yaa|.nyaa|&indriyaa.ni\\
   &&&= {\dn indriyaa.ni}\\

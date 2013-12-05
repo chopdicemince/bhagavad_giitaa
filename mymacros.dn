@@ -480,9 +480,12 @@
 % ------------------------------------------------------------------------------
 % Second-person pronouns.
 
-
-\newcommand{\tvam}{you}
-\newcommand{\notetvam}{\note{\pronoun, \secondperson, \singular}}
+\newcommand{\tvam}{
+  tvam = {\dn tvam} = you\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\nominativecase}\\
+  &&&\note{\nounrootyuSmad}
+}
 
 \newcommand{\tvaam}{\tvam}
 \newcommand{\notetvaam}{\note{\pronoun, \secondperson, \singular, \accusativecase}}
