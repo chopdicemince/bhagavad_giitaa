@@ -2207,11 +2207,7 @@ who are not all-knowing and who are slow.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn taanak.rtsnavido}&taa|na|&taan\\
-  &&&= {\dn taan}\\
-  &&&= \taan\\
-  &&&\notetaan\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2a&{\dn taanak.rtsnavido}&taa|na|&\taan\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -2456,9 +2452,7 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vimuu.dha.h} = vimu.dha.h}\\
   &&&\\
-  &&staan|&taan = {\dn taan} = \taan\\
-  &&&\notetaan\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &&staan|&\taan\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

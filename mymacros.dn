@@ -422,9 +422,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\taan}{those/them}
-\newcommand{\notetaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
-  &&&\note{\plural, \accusativecase}}
+\newcommand{\taan}{
+  taan = {\dn taan} = those/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \plural, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\teSAm}{\genitivephrase\ \taan; their}
 \newcommand{\noteteSAm}{\note{\pronoun, \demonstrative, \thirdperson}\\
