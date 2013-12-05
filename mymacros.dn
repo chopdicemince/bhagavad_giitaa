@@ -415,9 +415,12 @@
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\tasya}{of that/him/it; his; its}
-\newcommand{\notetasya}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \neuter, \genitivecase}}
+\newcommand{\tasya}{
+  tasya = {\dn tasya} = of that/him/it; his; its\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \genitivecase}\\
+  &&&\note{\nounroottad}
+}
 
 \newcommand{\taan}{those/them}
 \newcommand{\notetaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\

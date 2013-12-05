@@ -1380,10 +1380,7 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&sta|sya&tasya = {\dn tasya} = \tasya\\
-  &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
-  &&&\note{from {\dn tat} = tat = \tat}\\
+  2b&&sta|sya&\tasya\\
   &&&\\
   &{\dn kaarya.m}&kaar|ya.m&function; act; deed\\
   &&&\note{\noun, \neuter}\\
@@ -1411,9 +1408,6 @@ people---there is no meaning.\\
   &&va&\eva\\
   &&&\\
   &{\dn tasya}&ta|sya&\tasya\\
-  &&&\notetasya\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
-  &&&\note{from {\dn tat} = tat = \tat}\\
   &&&\\
   &{\dn k.rtenaartho}&k.r|te|naar|&k.rtena\\
   &&&= {\dn k.rtena}\\
