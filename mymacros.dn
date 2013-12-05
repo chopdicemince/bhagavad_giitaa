@@ -443,9 +443,12 @@
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaiH}{\instrumentalphrase\ these/them}
-\newcommand{\noteetaiH}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \neuter, \plural, \instrumentalcase}}
+\newcommand{\etaiH}{
+  etai.h = {\dn etai.h} = \instrumentalphrase\ these/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounroottad}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tat}{that/it}
 \newcommand{\notetat}{\note{\pronoun, \demonstrative, \thirdperson, \neuter}\\
