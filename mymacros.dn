@@ -614,6 +614,14 @@
   &&&\note{\nounrootkauna}
 }
 
+\newcommand{\keSu}{
+  ke.su = {\dn ke.su} = \locativephrase\ what/whom\\
+  &&&\note{\pronoun, \interrogative, \male, \neuter}\\
+  &&&\note{\plural, \locativecase}\\
+  &&&\note{\nounrootkim}\\
+  &&&\note{\nounrootkauna}
+}
+
 \newcommand{\kaa}{
   kaa = {\dn kaa} = what/who\\
   &&&\note{\pronoun, \interrogative, \female}\\
