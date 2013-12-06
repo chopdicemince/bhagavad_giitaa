@@ -613,8 +613,12 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kaa}{what/who}
-\newcommand{\notekaa}{\note{\pronoun, \interrogative, \female}}
+\newcommand{\kaa}{
+  kaa = {\dn kaa} = what/who\\
+  &&&\note{\pronoun, \interrogative, \female}\\
+  &&&\note{\nounrootkim}\\
+  &&&\note{\nounrootkauna}
+}
 
 \newcommand{\kim}{what}
 \newcommand{\notekim}{\note{\pronoun, \interrogative, \neuter}}
