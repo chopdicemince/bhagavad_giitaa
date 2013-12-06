@@ -2447,7 +2447,6 @@ person.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn yaa}&yaa&\yaa\\
-  &&&\noteyaa\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2573,7 +2572,6 @@ of ignorance.\\
   &&ti&\iti\\
   &&&\\
   &{\dn yaa}&yaa&\yaa\\
-  &&&\noteyaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4155,7 +4153,6 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\note{from {\dn j~naanam} = j\~{}naanam}\\
   &&&\\
   &{\dn yaa}&yaa&\yaa\\
-  &&&\note{\pronoun, \female}\\
   &&&\\
   &{\dn paraa}&pa|raa&\paraa\\
   &&&\noteparaa\\

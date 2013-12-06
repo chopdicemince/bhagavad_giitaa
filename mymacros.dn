@@ -664,9 +664,14 @@
   &&&\note{\nounrootjo}\\
 }
 
-\newcommand{\yaa}{that which; she who;\\
-  &&&whichever; whoever; whatever}
-\newcommand{\noteyaa}{\note{\pronoun, \female}}
+\newcommand{\yaa}{
+  yaa = {\dn yaa} = that which; she who;\\
+  &&&whichever; whoever; whatever\\
+  &&&\note{\pronoun, \interrogative, \female}\\
+  &&&\note{\nominativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
 
 \newcommand{\yat}{that which;\\
   &&&whichever; whoever; whatever}
