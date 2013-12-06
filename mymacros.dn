@@ -595,9 +595,15 @@
 }
 % ------------------------------------------------------------------------------
 % Interrogative pronouns.
+\newcommand{\nounrootkim}{\nounroot{\dn kim}{kim}}
+\newcommand{\nounrootkauna}{\nounroot{\dn kauna}{kauna}}
 
-\newcommand{\kaH}{what/who}
-\newcommand{\notekaH}{\note{\pronoun, \interrogative, \male}}
+\newcommand{\kaH}{
+  ka.h = {\dn ka.h} = what/who\\
+  &&&\note{\pronoun, \interrogative, \male}\\
+  &&&\note{\nounrootkim}\\
+  &&&\note{\nounrootkauna}
+}
 
 \newcommand{\kaiH}{\instrumentalphrase\ what/whom}
 \newcommand{\notekaiH}[1]{\note{\pronoun, \interrogative, #1}\\
