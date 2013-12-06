@@ -601,6 +601,7 @@
 \newcommand{\kaH}{
   ka.h = {\dn ka.h} = what/who\\
   &&&\note{\pronoun, \interrogative, \male}\\
+  &&&\note{\nominativecase}\\
   &&&\note{\nounrootkim}\\
   &&&\note{\nounrootkauna}
 }
@@ -616,6 +617,7 @@
 \newcommand{\kaa}{
   kaa = {\dn kaa} = what/who\\
   &&&\note{\pronoun, \interrogative, \female}\\
+  &&&\note{\nominativecase}\\
   &&&\note{\nounrootkim}\\
   &&&\note{\nounrootkauna}
 }
