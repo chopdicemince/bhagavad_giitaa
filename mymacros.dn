@@ -497,8 +497,12 @@
 \newcommand{\tvayaa}{\instrumentalphrase\ you}
 \newcommand{\notetvayaa}{\note{\pronoun, \secondperson, \singular, \instrumentalcase}}
 
-\newcommand{\tava}{of you (your)}
-\newcommand{\notetava}{\note{\pronoun, \secondperson, \singular, \genitivecase}}
+\newcommand{\tava}{
+  tava = {\dn tava} = of you (your)\\
+  &&&\note{\pronoun, \secondperson, \singular}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\nounrootyuSmad}
+}
 
 \newcommand{\vaH}{\tvam; \dativephrase\ \tvam; \genitivephrase\ \tvam\ (your)}
 \newcommand{\notevaH}{\note{\pronoun, \secondperson, \plural}\\
