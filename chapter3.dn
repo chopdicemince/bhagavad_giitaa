@@ -1623,11 +1623,9 @@ Whatever a king does---whatever, really---another man, he that does
 proof, or that world, follows.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yadyadaacarati}&ya|dya|&yat = {\dn yat} = \yat\\
-  &&&\noteyat\\
+  1a&{\dn yadyadaacarati}&ya|dya|&\yat\\
   &&&\\
-  &&daa|&yat = {\dn yat} = \yat\\
-  &&&\noteyat\\
+  &&daa|&\yat\\
   &&&\\
   &&ca|ra|ti&aacarati\\
   &&&= {\dn aacarati}\\
@@ -1662,8 +1660,7 @@ proof, or that world, follows.\\
 \begin{tabular}{llll}
   2a&{\dn sa}&sa&\saH\\
   &&&\\
-  &{\dn yatpramaa.na.m}&yat&yat = {\dn yat} = \yat\\
-  &&&\noteyat\\
+  &{\dn yatpramaa.na.m}&yat&\yat\\
   &&&\\
   &&pra|maa|.na.m&pramaa.nam\\
   &&&= {\dn pramaa.nam}\\

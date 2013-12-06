@@ -673,9 +673,14 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\yat}{that which;\\
-  &&&whichever; whoever; whatever}
-\newcommand{\noteyat}{\note{\pronoun, \neuter}}
+\newcommand{\yat}{
+  yat = {\dn yat} = that which;\\
+  &&&whichever; whoever; whatever\\
+  &&&\note{\pronoun, \interrogative, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
 
 \newcommand{\ye}{those which/who; they which/who;\\
   &&&whichever; whoever; whatever}
