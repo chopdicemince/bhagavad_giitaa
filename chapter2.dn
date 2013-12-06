@@ -1523,9 +1523,7 @@ thing---not any (person) is able to do (it).\\
   &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
-  &{\dn ka"scitkartumarhati}&ka"s|cit|&{\dn ka"scit}\\
-  &&&= \kazcit\\
-  &&&\notekazcit\\
+  &{\dn ka"scitkartumarhati}&ka"s|cit|&\kazcit\\
   &&&\\
   &&kar|tu|mar|&kartum\\
   &&&= {\dn kartum}\\
@@ -2480,8 +2478,7 @@ really any knowledge.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s}\\
   &&&\\
-  &{\dn ka"scidenam}&ka"s|ci|de&ka"scit = {\dn ka"scit} = \kazcit\\
-  &&&\notekazcit\\
+  &{\dn ka"scidenam}&ka"s|ci|de&\kazcit\\
   &&&\\
   &&nam&enam = {\dn enam} = this (?)\\
   &&&\note{\pronoun, \male, \accusativecase}\\
@@ -2567,7 +2564,6 @@ really any knowledge.\\
   &&va&\eva\\
   &&&\\
   &{\dn ka"scit}&ka"s|cit&\kazcit\\
-  &&&\notekazcit\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
