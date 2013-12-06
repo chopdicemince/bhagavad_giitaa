@@ -3080,7 +3080,6 @@ ability. From more sadness, certainly, what can come?\\
   &{\dn nu}&nu&certainly\\
   &&&\\
   &{\dn kim}&kim&\kim\\
-  &&&\notekim\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4417,8 +4416,7 @@ walk?\\
   &&&\note{\noun, \female, \plural, \accusativecase}\\
   &&&\note{from {\dn dhii} = dhii}\\
   &&&\\
-  &{\dn ki.m}&ki.m&kim = {\dn kim} = \kim\\
-  &&&\notekim\\
+  &{\dn ki.m}&ki.m&\kim\\
   &&&\\
   &{\dn prabhaa.seta}&pra|bhaa|.se|ta&(he/she/it) say; talk to; call (?)\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
@@ -4426,8 +4424,7 @@ walk?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn kimaasiita}&ki|maa|&kim = {\dn kim} = \kim\\
-  &&&\notekim\\
+  2b&{\dn kimaasiita}&ki|maa|&\kim\\
   &&&\\
   &&sii|ta&aasiita\\
   &&&= {\dn aasiita}\\
@@ -4440,7 +4437,6 @@ walk?\\
   &&&\note{root: {\dn vraj} = vraj}\\
   &&&\\
   &{\dn kim}&kim&\kim\\
-  &&&\notekim\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

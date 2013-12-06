@@ -620,8 +620,13 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kim}{what}
-\newcommand{\notekim}{\note{\pronoun, \interrogative, \neuter}}
+\newcommand{\kim}{
+  kim = {\dn kim} = what\\
+  &&&\note{\pronoun, \interrogative, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootkim}\\
+  &&&\note{\nounrootkauna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kazcit}{any; little}
 \newcommand{\notekazcit}{\note{\adjective, \male}}
