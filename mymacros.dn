@@ -655,9 +655,14 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\yena}{\instrumentalphrase\ that which; he who;\\
-  &&&whichever; whoever/whomever; whatever}
-\newcommand{\noteyena}{\note{\pronoun, \male, \neuter, \instrumentalcase}}
+\newcommand{\yena}{
+  yena = {\dn yena} = \instrumentalphrase\ that which; he who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \male, \neuter}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}\\
+}
 
 \newcommand{\yaa}{that which; she who;\\
   &&&whichever; whoever; whatever}
