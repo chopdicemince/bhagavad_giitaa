@@ -504,9 +504,12 @@
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\vaH}{\tvam; \dativephrase\ \tvam; \genitivephrase\ \tvam\ (your)}
-\newcommand{\notevaH}{\note{\pronoun, \secondperson, \plural}\\
-  &&&\note{\accusativecase, \dativecase, \genitivecase}}
+\newcommand{\vaH}{
+  va.h = {\dn va.h} = you; \dativephrase\ you; \genitivephrase\ you (your)\\
+  &&&\note{\pronoun, \secondperson, \plural}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
+  &&&\note{\nounrootyuSmad}
+}
 % ------------------------------------------------------------------------------
 % First-person pronouns.
 \newcommand{\nounrootasmad}{\nounroot{\dn asmad}{asmad}}
