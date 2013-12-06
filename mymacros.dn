@@ -605,9 +605,13 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kaiH}{\instrumentalphrase\ what/whom}
-\newcommand{\notekaiH}[1]{\note{\pronoun, \interrogative, #1}\\
-  &&&\note{\plural, \instrumentalcase}}
+\newcommand{\kaiH}{
+  kai.h = {\dn kai.h} = \instrumentalphrase\ what/whom\\
+  &&&\note{\pronoun, \interrogative, \male, \neuter}\\
+  &&&\note{\plural, \instrumentalcase}\\
+  &&&\note{\nounrootkim}\\
+  &&&\note{\nounrootkauna}
+}
 
 \newcommand{\kaa}{what/who}
 \newcommand{\notekaa}{\note{\pronoun, \interrogative, \female}}
