@@ -1152,8 +1152,7 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  2b&&yo&\yaH\\
   &&&\\
   &{\dn madbhakta.h}&mad|&\mat\\
   &&&\\
@@ -1217,7 +1216,6 @@ of me.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1254,7 +1252,6 @@ of me.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\
@@ -1331,8 +1328,7 @@ from-me-devotee. He (is) (a) favorite of me.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  2b&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn madbhakta.h}&mad|&\mat\\
   &&&\\
@@ -1358,8 +1354,7 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
 (is) a favorite of me.\\
 
 \begin{tabular}{llll}
-  1a&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  1a&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
@@ -1415,8 +1410,7 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &&&\note{similar: \noun, \female, {\dn bhakti.h} = bhakti.h}\\
   &&&\note{= faith; devotion}\\
   &&&\\
-  &&nya\h{a}&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  &&nya\h{a}&\yaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\

@@ -375,7 +375,6 @@ not here.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
   &&&\\
   &{\dn prayaati}&pra|yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -714,8 +713,7 @@ syllables is eight.)\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn anusm.r} = anusm.r}\\
   &&&\\
-  &&dya\h{a}&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  &&dya\h{a}&\yaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1129,7 +1127,6 @@ path.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
   &&&\\
   &{\dn prayaati}&pra|yaa|ti&(he/she/it) goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1196,8 +1193,7 @@ person.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  1b&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn maam}&maam&\maam\\
   &&&\\
@@ -1724,7 +1720,6 @@ not vanish in all beings destroyed.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\

@@ -52,7 +52,6 @@ not active.\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-  &&&\noteyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2401,10 +2400,7 @@ disappear of him (from him). And he does not disappear for me (from
 me).\\
 
 \begin{tabular}{llll}
-  1a&{\dn yo}&yo&ya.h\\
-  &&&= {\dn ya.h}\\
-  &&&= \yaH\\
-  &&&\noteyaH\\
+  1a&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
@@ -2482,8 +2478,7 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&= standing; staying; stopping; still\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  &{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
@@ -2566,8 +2561,7 @@ paramount.\\
   &&&\notepazyati\\
   &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &{\dn yo.arjuna}&yo'r|&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  &{\dn yo.arjuna}&yo'r|&\yaH\\
   &&&\\
   &&ju|na&\arjuna\\
 \end{tabular}
@@ -2624,8 +2618,7 @@ do not see (of) this. (I am) shaking and steadfast.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn yo.aya.m}&yo|&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  1a&{\dn yo.aya.m}&yo|&\yaH\\
   &&&\\
   &&'ya.m&ayam = {\dn ayam} = \ayam\\
   &&&\noteayam\\
@@ -3764,8 +3757,7 @@ me.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
-  &{\dn yo}&yo&ya.h = {\dn ya.h} = \yaH\\
-  &&&\noteyaH\\
+  &{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
