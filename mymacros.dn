@@ -776,9 +776,14 @@
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\AtmanaH}{\ablativephrase/\genitivephrase\ a/the \aatman}
-\newcommand{\noteAtmanaH}{\note{\noun, \male}\\
-  &&&\note{\ablativecase, \genitivecase}}
+\newcommand{\AtmanaH}{
+  aatmana.h = {\dn aatmana.h} = \ablativephrase/\genitivephrase\ a/the \aatman;\\
+  &&&selves; souls\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \accusativecase}\\
+  &&&\note{\nounrootaatman}
+}
 
 \newcommand{\aatmani}{\locativephrase\ a/the \aatman}
 \newcommand{\noteaatmani}{\note{\noun, \male, \locativecase}}
