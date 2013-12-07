@@ -12,6 +12,7 @@
 \newcommand{\h}[1]{\mytextcolor{(|.h(#1))}}
 \newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
 \newcommand{\adjectiveroot}[2]{adjective root: {#1} = {#2}}
+\newcommand{\verbroot}[2]{verb root: {#1} = {#2}}
 % ------------------------------------------------------------------------------
 \newcommand{\textdhrtaraastra}{Dh.rtaraa.s.tra}
 \newcommand{\textsanjaya}{Sa\~{}njaya}
@@ -799,8 +800,12 @@
   &&&\note{\nounroot{\dn adhibhuuta}{adhibhuuta}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\adhigacchati}{\hesheit attains; gets; goes near; learns}
-\newcommand{\noteadhigacchati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\adhigacchati}{
+  adhigacchati = {\dn adhigacchati}\\
+  &&&= \hesheit\ attains; gets; goes near; learns\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbroot{{\dn adhi} + {\dn gam}}{adhi + gam}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\agniH}{fire; god of fire; digestive fluid; bile}
 \newcommand{\noteagniH}{\note{\noun, \male}}

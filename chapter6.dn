@@ -1168,11 +1168,7 @@ union.\\
   &&&= union; organization; end\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&dhi|gac|cha|ti&adhigacchati\\
-  &&&= {\dn adhigacchati}\\
-  &&&= \adhigacchati\\
-  &&&\noteadhigacchati\\
-  &&&\note{root: {\dn adhigam} = adhigam}\\
+  &&dhi|gac|cha|ti&\adhigacchati\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
