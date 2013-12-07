@@ -691,22 +691,30 @@
   &&&\note{\nounrootjo}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\ayam}{this}
-\newcommand{\noteayam}{\note{\pronoun, \demonstrative, \thirdperson, \male}}
+% Other third-person demonstrative pronouns.
 
-\newcommand{\imam}{\ayam}
+\newcommand{\nounrootidam}{\nounroot{\dn idam}{idam}}
+
+\newcommand{\ayam}{
+  ayam = {\dn ayam} = this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson, \male}\\
+  &&&\note{\nominativecase}\\
+  &&&\note{\nounrootidam}
+}
+
+\newcommand{\imam}{this}
 \newcommand{\noteimam}{\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \accusativecase}}
 
-\newcommand{\anena}{\instrumentalphrase\ \ayam}
+\newcommand{\anena}{\instrumentalphrase\ this}
 \newcommand{\noteanena}{\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \instrumentalcase}}
 
-\newcommand{\asya}{\genitivecase\ \ayam}
+\newcommand{\asya}{\genitivecase\ this}
 \newcommand{\noteasya}{\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \genitivecase}}
 
-\newcommand{\asmin}{\locativephrase\ \ayam}
+\newcommand{\asmin}{\locativephrase\ this}
 \newcommand{\noteasmin}{\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \locativecase}}
 
