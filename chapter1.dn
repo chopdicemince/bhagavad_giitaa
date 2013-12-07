@@ -1655,10 +1655,7 @@ fight-desires-(soldiers), standing, \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&ma|smi|nra|&asmin = {\dn asmin} = \asmin\\
-  &&&\noteasmin\\
-  &&&\note{from {\dn ayam} = ayam}\\
-  &&&\note{from {\dn idam} = idam}\\
+  1b&&ma|smi|nra|&\asmin\\
   &&&\\
   &&.na|&ra.nam\\
   &&&= {\dn ra.nam}\\

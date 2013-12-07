@@ -725,9 +725,12 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\asmin}{\locativephrase\ this}
-\newcommand{\noteasmin}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \neuter, \locativecase}}
+\newcommand{\asmin}{
+  asmin = {\dn asmin} = \locativephrase\ this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \locativecase}\\
+  &&&\note{\nounrootidam}
+}
 
 \newcommand{\ime}{these}
 \newcommand{\noteime}{\note{\pronoun, \demonstrative, \thirdperson}\\
