@@ -2033,11 +2033,7 @@ action-yoking.\\
   &&&\\
   &&maa|na|maat|&\aatmaanam\\
   &&&\\
-  &&ma|naa&aatmanaa\\
-  &&&= {\dn aatmanaa}\\
-  &&&= \aatmanaa\\
-  &&&\noteaatmanaa\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&ma|naa&\aatmanaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2377,11 +2373,7 @@ does not hurt the self, using the self. From there, (the person) goes
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn hi.ms} = hi.ms}\\
   &&&\\
-  &&ma|naat|&aatmanaa\\
-  &&&= {\dn aatmanaa}\\
-  &&&= \aatmanaa\\
-  &&&\noteaatmanaa\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&ma|naat|&\aatmanaa\\
   &&&\\
   &&maa|na.m&\aatmaanam\\
   % ----------------------------------------------------------------------------

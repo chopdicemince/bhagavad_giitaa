@@ -770,8 +770,11 @@
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmanaa}{\instrumentalphrase\ a/the \aatman}
-\newcommand{\noteaatmanaa}{\note{\noun, \male, \instrumentalcase}}
+\newcommand{\aatmanaa}{
+  aatmanaa = {\dn aatmanaa} = \instrumentalphrase\ a/the \aatman\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootaatman}
+}
 
 \newcommand{\AtmanaH}{\ablativephrase/\genitivephrase\ a/the \aatman}
 \newcommand{\noteAtmanaH}{\note{\noun, \male}\\
