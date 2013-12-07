@@ -1033,8 +1033,7 @@ This, today, using me, (is) gotten. This (gets?) mind-joy. This
 is. This, also, for me, will be, again, money.\\
 
 \begin{tabular}{llll}
-  1a&{\dn idamadya}&i|da|ma|&idam = {\dn idam} = \idam\\
-  &&&\noteidam\\
+  1a&{\dn idamadya}&i|da|ma|&\idam\\
   &&&\\
   &&dya&adya = {\dn adya} = today\\
   &&&\note{\noun, \adverb, \indeclinable}\\
@@ -1067,15 +1066,13 @@ is. This, also, for me, will be, again, money.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn idamastiidamapi}&i|da|ma|&idam = {\dn idam} = \idam\\
-  &&&\noteidam\\
+  2a&{\dn idamastiidamapi}&i|da|ma|&\idam\\
   &&&\\
   &&stii|&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &&da|ma|&idam = {\dn idam} = \idam\\
-  &&&\noteidam\\
+  &&da|ma|&\idam\\
   &&&\\
   &&pi&\api\\
   &&&\\
@@ -1711,8 +1708,7 @@ abandons this group of three.\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn naraka.h} = naraka.h}\\
   &&&\\
-  &&da.m&idam = {\dn idam} = \idam\\
-  &&&\noteidam\\
+  &&da.m&\idam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

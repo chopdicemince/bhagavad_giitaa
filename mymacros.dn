@@ -748,9 +748,12 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\idam}{this}
-\newcommand{\noteidam}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\neuter, \nominativecase, \accusativecase}}
+\newcommand{\idam}{
+  idam = {\dn idam} = this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\aatman}{self; soul}
 
