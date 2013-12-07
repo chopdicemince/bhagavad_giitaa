@@ -407,9 +407,7 @@ self-magic.\\
   &&&= spending; dying; changing\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa&aatmaa = {\dn aatmaa} = \aatmaa\\
-  &&&\noteaatmaa\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa&\aatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1600,11 +1598,7 @@ life). He does not get injustice.\\
   &&&= knowledge; mind; heart\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&maa&aatmaa\\
-  &&&= {\dn aatmaa}\\
-  &&&= \aatmaa\\
-  &&&\noteaatmaa\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa&\aatmaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3184,11 +3178,7 @@ next (world).\\
   &&&= doubt; danger; hesitation\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&maa&aatmaa\\
-  &&&= {\dn aatmaa}\\
-  &&&= \aatmaa\\
-  &&&\noteaatmaa\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa&\aatmaa\\
   &&&\\
   &{\dn vina"syati}&vi|na|"sya|ti&(he/she/it) is frustrated; blocked; destroyed\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

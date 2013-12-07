@@ -755,10 +755,14 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
 \newcommand{\aatman}{self; soul}
 
-\newcommand{\aatmaa}{\aatman}
-\newcommand{\noteaatmaa}{\note{\noun, \male}}
+\newcommand{\aatmaa}{
+  aatmaa = {\dn aatmaa} = \aatman\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootaatman}
+}
 
 \newcommand{\aatmaanam}{\aatman}
 \newcommand{\noteaatmaanam}{\note{\noun, \male, \accusativecase}}
