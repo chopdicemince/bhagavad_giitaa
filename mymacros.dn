@@ -1,5 +1,7 @@
 \usepackage{xcolor}
 % ------------------------------------------------------------------------------
+\newcommand{\temp}{}
+% ------------------------------------------------------------------------------
 % Try to suppress warnings about underfull \hbox's or \vbox's.
 \hbadness=20000
 \vbadness=20000
@@ -808,16 +810,21 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootagni}{\nounroot{\dn agni}{agni}}
+\renewcommand{\temp}{fire; god of fire; digestive fluid; bile}
 
 \newcommand{\agniH}{
   agni.h = {\dn agni.h}\\
-  &&&= fire; god of fire; digestive fluid; bile\\
+  &&&= \temp\\
   &&&\note{\noun, (\proper,) \male, \nominativecase}\\
   &&&\note{\nounrootagni}
 }
 
-\newcommand{\agnau}{\locativephrase\ a/the \agniH}
-\newcommand{\noteagnau}{\note{\noun, \male, \locativecase}}
+\newcommand{\agnau}{
+  agnau = {\dn agnau}\\
+  &&&= \locativephrase\ a/the \temp\\
+  &&&\note{\noun, (\proper,) \male, \locativecase}\\
+  &&&\note{\nounrootagni}
+}
 
 \newcommand{\agniSu}{\locativephrase\ fires; gods of fire;\\
   &&&digestive fluids; bile fluids}
