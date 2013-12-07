@@ -685,8 +685,10 @@
 \newcommand{\ye}{
   ye = {\dn ye} = those which/who; they which/who;\\
   &&&whichever; whoever; whatever\\
-  &&&\note{\pronoun, \interrogative, (\male, \plural)}\\
-  &&&\note{(\neuter, \female, \dual)}\\
+  &&&\note{\pronoun, \interrogative}\\
+  &&&\note{\male, \plural, \nominativecase}\\
+  &&&\note{\female, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\neuter, \dual, \nominativecase, \accusativecase}\\
   &&&\note{\nounrootyad}\\
   &&&\note{\nounrootjo}
 }
