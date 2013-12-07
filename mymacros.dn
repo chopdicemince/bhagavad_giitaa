@@ -1,7 +1,5 @@
 \usepackage{xcolor}
 % ------------------------------------------------------------------------------
-\newcommand{\temp}{}
-% ------------------------------------------------------------------------------
 % Try to suppress warnings about underfull \hbox's or \vbox's.
 \hbadness=20000
 \vbadness=20000
@@ -810,18 +808,18 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootagni}{\nounroot{\dn agni}{agni}}
-\renewcommand{\temp}{fire; god of fire; digestive fluid; bile}
+\newcommand{\agnitemp}{fire; god of fire; digestive fluid; bile}
 
 \newcommand{\agniH}{
   agni.h = {\dn agni.h}\\
-  &&&= \temp\\
+  &&&= \agnitemp\\
   &&&\note{\noun, (\proper,) \male, \nominativecase}\\
   &&&\note{\nounrootagni}
 }
 
 \newcommand{\agnau}{
   agnau = {\dn agnau}\\
-  &&&= \locativephrase\ a/the \temp\\
+  &&&= \locativephrase\ a/the \agnitemp\\
   &&&\note{\noun, (\proper,) \male, \locativecase}\\
   &&&\note{\nounrootagni}
 }
@@ -833,17 +831,31 @@
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\anya}{another; other}
-\newcommand{\noteanya}{\note{\adjective}}
+\newcommand{\adjectiverootanya}{\adjectiveroot{\dn anya}{anya}}
+\newcommand{\anyatemp}{another; other; different; strange}
 
-\newcommand{\anyaH}{\anya}
-\newcommand{\noteanyaH}{\note{\adjective, \noun, \male}}
+\newcommand{\anyaH}{
+  anya.h = {\dn anya.h}\\
+  &&&= \anyatemp\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\nominativecase}\\
+  &&&\note{\adjectiverootanya}
+}
 
-\newcommand{\anyena}{\instrumentalphrase\ \anya}
+\newcommand{\anyena}{\instrumentalphrase\ \anyatemp}
 \newcommand{\noteanyena}[1]{\note{\adjective, \noun, #1, \instrumentalcase}}
 
-\newcommand{\anye}{\locativephrase\ \anya}
+\newcommand{\anye}{\locativephrase\ \anyatemp}
 \newcommand{\noteanye}[1]{\note{\adjective, \noun, #1, \locativecase}}
+
+\newcommand{\anyam}{
+  anyam = {\dn anyam}\\
+  &&&= \anyatemp\\
+  &&&\note{\adjective, \noun}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootanya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\arhasi}{(you) are able}
 \newcommand{\notearhasi}{\note{\verbb, \presenttense, \secondperson, \singular}}
