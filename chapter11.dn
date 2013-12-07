@@ -4893,11 +4893,7 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&nye|na&anyena\\
-  &&&= {\dn anyena}\\
-  &&&= \anyena\\
-  &&&\noteanyena{\male}\\
-  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&nye|na&\anyena\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
@@ -5014,11 +5010,7 @@ instead of the usual eight.)\\
   &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
   &&&\\
-  &&nye|na&anyena\\
-  &&&= {\dn anyena}\\
-  &&&= \anyena\\
-  &&&\noteanyena{\male}\\
-  &&&\note{from {\dn anya.h} = anya.h}\\
+  &&nye|na&\anyena\\
   &&&\\
   &{\dn kurupraviira}&ku|ru|&{\dn kuru}\\
   &&&= Kuru\\

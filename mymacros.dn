@@ -842,8 +842,13 @@
   &&&\note{\adjectiverootanya}
 }
 
-\newcommand{\anyena}{\instrumentalphrase\ \anyatemp}
-\newcommand{\noteanyena}[1]{\note{\adjective, \noun, #1, \instrumentalcase}}
+\newcommand{\anyena}{
+  anyena = {\dn anyena}\\
+  &&&= \instrumentalphrase\ \anyatemp\\
+  &&&\note{\adjective, \noun, \male, \neuter}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\adjectiverootanya}
+}
 
 \newcommand{\anye}{\locativephrase\ \anyatemp}
 \newcommand{\noteanye}[1]{\note{\adjective, \noun, #1, \locativecase}}
