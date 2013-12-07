@@ -791,8 +791,13 @@
   &&&\note{\nounrootaatman}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\adhibhuutam}{above + being; God; creation}
-\newcommand{\noteadhibhuutam}{\note{\noun, \neuter}}
+\newcommand{\adhibhuutam}{
+  adhibhuutam = {\dn adhibhuutam}\\
+  &&&= above + being; God; creation\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroot{\dn adhibhuuta}{adhibhuuta}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adhigacchati}{\hesheit attains; gets; goes near; learns}
 \newcommand{\noteadhigacchati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
