@@ -2031,11 +2031,7 @@ action-yoking.\\
   &&&= {\dn kecid}\\
   &&&= (?)\\
   &&&\\
-  &&maa|na|maat|&aatmaanam\\
-  &&&= {\dn aatmaanam}\\
-  &&&= \aatmaanam\\
-  &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na|maat|&\aatmaanam\\
   &&&\\
   &&ma|naa&aatmanaa\\
   &&&= {\dn aatmanaa}\\
@@ -2387,11 +2383,7 @@ does not hurt the self, using the self. From there, (the person) goes
   &&&\noteaatmanaa\\
   &&&\note{from {\dn aatman} = aatman}\\
   &&&\\
-  &&maa|na.m&aatmaanam\\
-  &&&= {\dn aatmaanam}\\
-  &&&= \aatmaanam\\
-  &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na.m&\aatmaanam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2454,11 +2446,7 @@ sees, thus, the self (as) a non-actor (non-doer)---he sees.\\
   &&&\\
   &{\dn tathaatmaanamakartaara.m}&ta|thaat|&\tathaa\\
   &&&\\
-  &&maa|na|&aatmaanam\\
-  &&&= {\dn aatmaanam}\\
-  &&&= \aatmaanam\\
-  &&&\noteaatmaanam\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na|&\aatmaanam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

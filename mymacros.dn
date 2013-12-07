@@ -764,8 +764,11 @@
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmaanam}{\aatman}
-\newcommand{\noteaatmaanam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\aatmaanam}{
+  aatmaanam = {\dn aatmaanam} = \aatman\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootaatman}
+}
 
 \newcommand{\aatmanaa}{\instrumentalphrase\ a/the \aatman}
 \newcommand{\noteaatmanaa}{\note{\noun, \male, \instrumentalcase}}
