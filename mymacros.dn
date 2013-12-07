@@ -718,9 +718,12 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\asya}{\genitivecase\ this}
-\newcommand{\noteasya}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \neuter, \genitivecase}}
+\newcommand{\asya}{
+  asya = {\dn asya} = \genitivephrase\ this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \genitivecase}\\
+  &&&\note{\nounrootidam}
+}
 
 \newcommand{\asmin}{\locativephrase\ this}
 \newcommand{\noteasmin}{\note{\pronoun, \demonstrative, \thirdperson}\\

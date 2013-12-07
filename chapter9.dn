@@ -226,10 +226,7 @@ death-life-road.\\
   &&&\notedharmasya\\
   &&&\note{from {\dn dharma.h} = dharma.h}\\
   &&&\\
-  &&sya&asya = {\dn asya} = \asya\\
-  &&&\noteasya\\
-  &&&\note{from {\dn ayam} = ayam}\\
-  &&&\note{from {\dn idam} = idam}\\
+  &&sya&\asya\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
 \end{tabular}
@@ -1324,10 +1321,7 @@ really.\\
   &&&\\
   &&ha|ma|&\aham\\
   &&&\\
-  &&sya&asya = {\dn asya} = \asya\\
-  &&&\noteasya\\
-  &&&\note{from {\dn ayam} = ayam}\\
-  &&&\note{from {\dn idam} = idam}\\
+  &&sya&\asya\\
   &&&\\
   &{\dn jagato}&ja|ga|to&jagata.h\\
   &&&= {\dn jagata.h}\\
