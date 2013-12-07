@@ -785,8 +785,11 @@
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmani}{\locativephrase\ a/the \aatman}
-\newcommand{\noteaatmani}{\note{\noun, \male, \locativecase}}
+\newcommand{\aatmani}{
+  aatmani = {\dn aatmani} = \locativephrase\ a/the \aatman\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootaatman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{above + being; God; creation}
 \newcommand{\noteadhibhuutam}{\note{\noun, \neuter}}
