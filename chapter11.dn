@@ -2036,8 +2036,6 @@ the last half-line, which has ten. The usual number is eight.)\\
   &&&\note{from (?)}\\
   &&&\\
   &{\dn ye}&ye&\ye\\
-  &&&\noteye\\
-  &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -3209,9 +3207,7 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ye.avasthitaa.h}&ye|&{\dn ye} = \ye\\
-  &&&\noteye\\
-  &&&\note{from {\dn ya.h} = ya.h}\\
+  2b&{\dn ye.avasthitaa.h}&ye|&\ye\\
   &&&\\
   &&'va|sthi|taa\h{aa}&avasthitaa.h\\
   &&&= {\dn avasthitaa.h}\\

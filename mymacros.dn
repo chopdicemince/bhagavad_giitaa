@@ -682,9 +682,14 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\ye}{those which/who; they which/who;\\
-  &&&whichever; whoever; whatever}
-\newcommand{\noteye}{\note{\pronoun, \male, \plural}}
+\newcommand{\ye}{
+  ye = {\dn ye} = those which/who; they which/who;\\
+  &&&whichever; whoever; whatever\\
+  &&&\note{\pronoun, \interrogative, (\male, \plural)}\\
+  &&&\note{(\neuter, \female, \dual)}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\ayam}{this}
 \newcommand{\noteayam}{\note{\pronoun, \demonstrative, \thirdperson, \male}}
