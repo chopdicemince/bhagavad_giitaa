@@ -704,9 +704,12 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\imam}{this}
-\newcommand{\noteimam}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \accusativecase}}
+\newcommand{\imam}{
+  imam = {\dn imam} = this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
 
 \newcommand{\anena}{\instrumentalphrase\ this}
 \newcommand{\noteanena}{\note{\pronoun, \demonstrative, \thirdperson}\\

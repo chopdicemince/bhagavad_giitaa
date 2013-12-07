@@ -5661,9 +5661,7 @@ me.\\
   &&&\\
   &{\dn ya}&ya&\yaH\\
   &&&\\
-  &{\dn ima.m}&i|ma.m&imam = {\dn imam} = \imam\\
-  &&&\noteimam\\
-  &&&\note{from {\dn ayam} = ayam}\\
+  &{\dn ima.m}&i|ma.m&\imam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -6029,9 +6027,7 @@ wonder---hole-happines (goose pimples).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.mvaada.h} = sa.mvaada.h}\\
   &&&\\
-  &&ma|ma|&imam = {\dn imam} = \imam\\
-  &&&\noteimam\\
-  &&&\note{from {\dn ayam} = ayam}\\
+  &&ma|ma|&\imam\\
   &&&\\
   &&"srau|.sa|&a"srau.sam\\
   &&&= {\dn a"srau.sam}\\
@@ -6173,9 +6169,7 @@ again (and) again.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sa.mvaada.h} = sa.mvaada.h}\\
   &&&\\
-  &&ma|mad|&imam = {\dn imam} = \imam\\
-  &&&\note\imam\\
-  &&&\note{from {\dn ayam} = ayam}\\
+  &&ma|mad|&\imam\\
   &&&\\
   &&bhu|tam&adbhutam\\
   &&&= {\dn adbhutam}\\
