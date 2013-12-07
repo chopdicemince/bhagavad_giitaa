@@ -826,9 +826,12 @@
   &&&\note{\nounrootagni}
 }
 
-\newcommand{\agniSu}{\locativephrase\ fires; gods of fire;\\
-  &&&digestive fluids; bile fluids}
-\newcommand{\noteagniSu}{\note{\noun, \male, \plural, \locativecase}}
+\newcommand{\agniSu}{
+  agni.su = {\dn agni.su} = \locativephrase\ fires; gods of fire;\\
+  &&&digestive fluids; bile\\
+  &&&\note{\noun, (\proper,) \male, \plural, \locativecase}\\
+  &&&\note{\nounrootagni}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\anya}{another; other}
 \newcommand{\noteanya}{\note{\adjective}}
