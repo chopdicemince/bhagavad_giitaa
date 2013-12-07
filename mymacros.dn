@@ -850,8 +850,13 @@
   &&&\note{\adjectiverootanya}
 }
 
-\newcommand{\anye}{\locativephrase\ \anyatemp}
-\newcommand{\noteanye}[1]{\note{\adjective, \noun, #1, \locativecase}}
+\newcommand{\anye}{
+  anye = {\dn anye}\\
+  &&&= \locativephrase\ \anyatemp\\
+  &&&\note{\adjective, \noun, \male, \neuter}\\
+  &&&\note{\locativecase}\\
+  &&&\note{\adjectiverootanya}
+}
 
 \newcommand{\anyam}{
   anyam = {\dn anyam}\\
