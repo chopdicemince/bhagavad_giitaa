@@ -741,9 +741,12 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\imaan}{these}
-\newcommand{\noteimaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
-  &&&\note{\plural, \accusativecase}}
+\newcommand{\imaan}{
+  imaan = {\dn imaan} = these\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \plural, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\idam}{this}
 \newcommand{\noteidam}{\note{\pronoun, \demonstrative, \thirdperson}\\
