@@ -12,9 +12,6 @@
 \newcommand{\note}[1]{\mytextcolor{[#1]}}
 \newcommand{\transliteration}[1]{\mytextcolor{#1}}
 \newcommand{\h}[1]{\mytextcolor{(|.h(#1))}}
-\newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
-\newcommand{\adjectiveroot}[2]{adjective root: {#1} = {#2}}
-\newcommand{\verbroot}[2]{verb root: {#1} = {#2}}
 % ------------------------------------------------------------------------------
 \newcommand{\textdhrtaraastra}{Dh.rtaraa.s.tra}
 \newcommand{\textsanjaya}{Sa\~{}njaya}
@@ -43,6 +40,9 @@
 \newcommand{\allgenders}{all genders}
 \newcommand{\hesheit}{(he/she/it)}
 \newcommand{\they}{(they)}
+\newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
+\newcommand{\adjectiveroot}[2]{adjective root: {#1} = {#2}}
+\newcommand{\verbroot}[2]{verb root: {#1} = {#2}}
 % ------------------------------------------------------------------------------
 % Genders.
 \newcommand{\male}{male}
