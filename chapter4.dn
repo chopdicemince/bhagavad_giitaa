@@ -1451,10 +1451,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&= \jJAnam\\
   &&&\notejJAnam\\
   &&&\\
-  &&ni|&agni.h\\
-  &&&= {\dn agni.h}\\
-  &&&= \agniH\\
-  &&&\noteagniH\\
+  &&ni|&\agniH\\
   &&&\\
   &&dag|dha|&burned\\
   &&&\note{\adjective}\\
@@ -2924,10 +2921,7 @@ knowledge-fire does all actions (to) ash.\\
   &&&= on fire; lit\\
   &&&\note{\adjective}\\
   &&&\\
-  &&nir|&agni.h\\
-  &&&= {\dn agni.h}\\
-  &&&= \agniH\\
-  &&&\noteagniH\\
+  &&nir|&\agniH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2954,10 +2948,7 @@ knowledge-fire does all actions (to) ash.\\
   &&&= \jJAnam\\
   &&&\notejJAnam\\
   &&&\\
-  &&ni\h{i}&agni.h\\
-  &&&= {\dn agni.h}\\
-  &&&= \agniH\\
-  &&&\noteagniH\\
+  &&ni\h{i}&\agniH\\
   &&&\\
   &{\dn sarvakarmaa.ni}&sar|va|&sarvam\\
   &&&= {\dn sarvam}\\

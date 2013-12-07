@@ -807,8 +807,14 @@
   &&&\note{\verbroot{{\dn adhi} + {\dn gam}}{adhi + gam}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\agniH}{fire; god of fire; digestive fluid; bile}
-\newcommand{\noteagniH}{\note{\noun, \male}}
+\newcommand{\nounrootagni}{\nounroot{\dn agni}{agni}}
+
+\newcommand{\agniH}{
+  agni.h = {\dn agni.h}\\
+  &&&= fire; god of fire; digestive fluid; bile\\
+  &&&\note{\noun, (\proper,) \male, \nominativecase}\\
+  &&&\note{\nounrootagni}
+}
 
 \newcommand{\agnau}{\locativephrase\ a/the \agniH}
 \newcommand{\noteagnau}{\note{\noun, \male, \locativecase}}
