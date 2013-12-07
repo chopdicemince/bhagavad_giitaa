@@ -732,11 +732,16 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\ime}{these}
-\newcommand{\noteime}{\note{\pronoun, \demonstrative, \thirdperson}\\
-  &&&\note{\male, \plural}}
+\newcommand{\ime}{
+  ime = {\dn ime} = these\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \plural, \nominativecase}\\
+  &&&\note{\female, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\neuter, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
 
-\newcommand{\imaan}{\ime}
+\newcommand{\imaan}{these}
 \newcommand{\noteimaan}{\note{\pronoun, \demonstrative, \thirdperson, \male}\\
   &&&\note{\plural, \accusativecase}}
 % ------------------------------------------------------------------------------

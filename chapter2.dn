@@ -1059,9 +1059,7 @@ from later (will be).\\
   &&&\\
   &{\dn neme}&ne|&\na\\
   &&&\\
-  &&me&ime = {\dn ime} = \ime\\
-  &&&\noteime\\
-  &&&\note{from {\dn ayam} = ayam}\\
+  &&me&\ime\\
   &&&\\
   &{\dn janaadhipaa.h}&ja|naa|dhi|paa\h{aa}&kings\\
   &&&\note{\noun, \male, \plural}\\
@@ -1540,8 +1538,6 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{= perishable}\\
   &&&\\
   &{\dn ime}&i|me&\ime\\
-  &&&\noteime\\
-  &&&\note{from {\dn ayam} = ayam}\\
   &&&\\
   &{\dn dehaa}&de|haa&dehaa.h\\
   &&&= {\dn dehaa.h}\\
