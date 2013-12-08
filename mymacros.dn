@@ -994,9 +994,12 @@
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogAH}{(\vocativephrase) (acts of) enjoyment; eating}
-\newcommand{\notebhogAH}{\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}}
+\newcommand{\bhogAH}{
+  bhogaa.h = {\dn bhogaa.h} = (\vocativephrase) (acts of) enjoyment; eating\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootbhoga}
+}
 
 \newcommand{\bhogaan}{(acts of) enjoyment; eating}
 \newcommand{\notebhogaan}{\note{\noun, \male, \plural, \accusativecase}}
