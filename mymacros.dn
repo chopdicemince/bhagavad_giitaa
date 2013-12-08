@@ -986,8 +986,13 @@
   &&&\note{\verbroot{\dn bhuu}{bhuu}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhogaH}{(act of) enjoyment; eating}
-\newcommand{\notebhogaH}{\note{\noun, \male}}
+\newcommand{\nounrootbhoga}{\nounroot{\dn bhoga}{bhoga}}
+
+\newcommand{\bhogaH}{
+  bhoga.h = {\dn bhoga.h} = (act of) enjoyment; eating\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootbhoga}
+}
 
 \newcommand{\bhogAH}{(\vocativephrase) (acts of) enjoyment; eating}
 \newcommand{\notebhogAH}{\note{\noun, \male, \plural}\\
