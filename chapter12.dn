@@ -782,12 +782,7 @@ doing actions.\\
 \begin{tabular}{llll}
   2a&{\dn madarthamapi}&ma|dar|&\mat\\
   &&&\\
-  &&tha|ma|&artham\\
-  &&&= {\dn artham}\\
-  &&&= \artham\\
-  &&&\noteartham\\
-  &&&\note{from {\dn artha.h} = artha.h}\\
-  &&&\note{from {\dn artham} = artham}\\
+  &&tha|ma|&\artham\\
   &&&\\
   &&pi&\api\\
   &&&\\

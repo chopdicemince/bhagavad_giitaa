@@ -873,9 +873,14 @@
   &&&\note{\verbroot{\dn arh}{arh}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\artham}{purpose; profit; benefit}
-\newcommand{\noteartham}{\note{\noun, \male, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
+
+\newcommand{\artham}{
+  artham = {\dn artham} = purpose; profit; benefit\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\nounrootartha}
+}
 
 \newcommand{\arthe}{\locativephrase\ a/the \artham}
 \newcommand{\notearthe}{\note{\noun, \male, \neuter, \locativecase}}
