@@ -1022,8 +1022,14 @@
   &&&\note{\nounrootbhoga}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhuutam}{being (living thing)}
-\newcommand{\notebhuutam}{\note{\noun, \neuter}}
+\newcommand{\nounrootbhuuta}{\nounroot{\dn bhuuta}{bhuuta}}
+
+\newcommand{\bhuutam}{
+  bhuutam = {\dn bhuutam} = being (living thing)\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootbhuuta}
+}
 
 \newcommand{\bhuutaani}{beings (living things)}
 \newcommand{\notebhuutaani}{\note{\noun, \neuter, \plural}}
