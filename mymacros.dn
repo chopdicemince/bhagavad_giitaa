@@ -1077,9 +1077,13 @@
   &&&\note{\nounrootbuddhi}
 }
  
-\newcommand{\buddheH}{\ablativephrase/\genitivephrase\ \buddhitemp}
-\newcommand{\notebuddheH}{\note{\noun, \female}\\
-  &&&\note{\ablativecase, \genitivecase}}
+\newcommand{\buddheH}{
+  buddhe.h = {\dn buddhe.h}\\
+  &&&= \ablativephrase/\genitivephrase\ \buddhitemp\\
+  &&&\note{\noun, \female}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootbuddhi}
+}
 
 \newcommand{\buddhau}{\locativephrase\ \buddhitemp}
 \newcommand{\notebuddhau}{\note{\noun, \female, \locativecase}}
