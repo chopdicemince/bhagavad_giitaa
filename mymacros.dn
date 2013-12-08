@@ -938,10 +938,14 @@
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhaavam}{\bhAvaH}
-\newcommand{\notebhaavam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\bhaavam}{
+  bhaavam = {\dn bhaavam}\\
+  &&&= \bhaavatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootbhaava}
+}
 
-\newcommand{\bhaavena}{\instrumentalphrase\ \bhAvaH}
+\newcommand{\bhaavena}{\instrumentalphrase\ \bhaavatemp}
 \newcommand{\notebhaavena}{\note{\noun, \male, \instrumentalcase}}
 
 \newcommand{\bhAvAH}{behaviors; beings (living things); existences; births}
