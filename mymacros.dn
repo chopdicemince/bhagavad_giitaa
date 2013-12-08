@@ -953,8 +953,12 @@
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhAvAH}{behaviors; beings (living things); existences; births}
-\newcommand{\notebhAvAH}{\note{\noun, \male, \plural}}
+\newcommand{\bhAvAH}{
+  bhaavaa.h = {\dn bhaavaa.h}\\
+  &&&= beings (existences; living things); behaviors; births\\
+  &&&\note{\noun, \male, \plural, \nominativecase}\\
+  &&&\note{\nounrootbhaava}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhagavaan}{God}
 \newcommand{\notebhagavaan}{\note{\noun, \male}}
