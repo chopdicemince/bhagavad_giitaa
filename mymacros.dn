@@ -1057,7 +1057,6 @@
 \newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
 \newcommand{\buddhitemp}{brainpower; intelligence}
 
-
 \newcommand{\buddhiH}{
   buddhi.h = {\dn buddhi.h} = \buddhitemp\\
   &&&\note{\noun, \female, \nominativecase}\\
@@ -1092,9 +1091,13 @@
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhayaH}{(\vocativephrase) (acts of) \buddhitemp}
-\newcommand{\notebuddhayaH}{\note{\noun, \female}\\
-  &&&\note{\nominativecase, \vocativecase}}
+\newcommand{\buddhayaH}{
+  buddhaya.h = {\dn buddhaya.h}\\
+  &&&= (\vocativephrase) (acts of) \buddhitemp\\
+  &&&\note{\noun, \female}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootbuddhi}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhaktiH}{devotion; faith}
 \newcommand{\notebhaktiH}{\note{\noun, \female}}
