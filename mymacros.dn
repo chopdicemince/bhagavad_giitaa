@@ -1040,8 +1040,12 @@
   &&&\note{\nounrootbhuuta}
 }
 
-\newcommand{\bhuutaanaam}{\genitivephrase\ \bhuutapluraltemp}
-\newcommand{\notebhuutaanaam}{\note{\noun, \neuter, \plural, \genitivecase}}
+\newcommand{\bhuutaanaam}{
+  bhuutaanaam = {\dn bhuutaanaam}\\
+  &&&= \genitivephrase\ \bhuutapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootbhuuta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\buddhiH}{brainpower; intelligence}
 \newcommand{\notebuddhiH}{\note{\noun, \female}}
