@@ -1307,10 +1307,7 @@ not bound.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn buddhiryasya}&bud|dhir|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  1b&{\dn buddhiryasya}&bud|dhir|&\buddhiH\\
   &&&\\
   &&ya|sya&{\dn yasya}\\
   &&&= (?) of one/whom/what\\
@@ -2416,7 +2413,6 @@ person.\\
   \hline
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
-  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
@@ -2492,7 +2488,6 @@ of passion.\\
   \hline
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
-  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \female}\\
@@ -2578,7 +2573,6 @@ of ignorance.\\
   \hline
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
-  &&&\notebuddhiH\\
   &&&\\
   &{\dn saa}&saa&that/she\\
   &&&\note{\pronoun, \thirdperson, \singular}\\
@@ -2987,10 +2981,7 @@ said---self-intelligence-peace-born.\\
   &&&= self; soul\\
   &&&\note{\prefix}\\
   &&&\\
-  &&bud|dhi|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  &&bud|dhi|&\buddhiH\\
   &&&\\
   &&pra|saa|da|&prasaada.h\\
   &&&= {\dn prasaada.h}\\
@@ -3944,9 +3935,7 @@ paramount success.\\
   &&&= sticking; attached; yoked\\
   &&&\note{\adjective}\\
   &&&\\
-  &&bud|dhi\h{i}&{\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  &&bud|dhi\h{i}&\buddhiH\\
   &&&\\
   &{\dn sarvatra}&sar|va|tra&everywhere\\
   &&&\note{\adverb, \indeclinable}\\
@@ -4588,10 +4577,7 @@ intelligence-yoking-taking-shelter, from-me-mind---eternally, be (so).\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn buddhiyogamupaa"sritya}\\
   &&&\\
-  &&bud|dhi|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  &&bud|dhi|&\buddhiH\\
   &&&\\
   &&yo|ga|mu|&yogam\\
   &&&= {\dn yogam}\\

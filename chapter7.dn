@@ -273,10 +273,7 @@ ego---thus, this is my primal form, broken eight-fold.\\
   &&&= mind\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn buddhireva}&bud|dhi|re|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  &{\dn buddhireva}&bud|dhi|re|&\buddhiH\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -739,15 +736,9 @@ sharpness of sharp people.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn buddhirbuddhimataamasmi}&bud|dhir|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  2a&{\dn buddhirbuddhimataamasmi}&bud|dhir|&\buddhiH\\
   &&&\\
-  &&bud|dhi|&buddhi.h\\
-  &&&= {\dn buddhi.h}\\
-  &&&= \buddhiH\\
-  &&&\notebuddhiH\\
+  &&bud|dhi|&\buddhiH\\
   &&&\\
   &&ma|taa|ma|&mataam\\
   &&&= {\dn mataam}\\

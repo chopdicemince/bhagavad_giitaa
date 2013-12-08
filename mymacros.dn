@@ -1054,8 +1054,13 @@
   &&&\note{\nounrootbhuuta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\buddhiH}{brainpower; intelligence}
-\newcommand{\notebuddhiH}{\note{\noun, \female}}
+\newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
+
+\newcommand{\buddhiH}{
+  buddhi.h = {\dn buddhi.h} = brainpower; intelligence\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootbuddhi}
+}
 
 \newcommand{\buddhim}{\buddhiH}
 \newcommand{\notebuddhim}{\note{\noun, \female, \accusativecase}}
