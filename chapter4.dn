@@ -189,10 +189,7 @@ are my follower and friends.'' Surely, this mystery is the best.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhakto.asi}&bhak|to|&bhakta.h\\
-  &&&= {\dn bhakta.h}\\
-  &&&= \bhaktaH\\
-  &&&\notebhaktaH\\
+  2a&{\dn bhakto.asi}&bhak|to|&\bhaktaH\\
   &&&\\
   &&'si&asi = {\dn asi } = (you) are\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\

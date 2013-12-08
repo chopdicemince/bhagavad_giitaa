@@ -1130,10 +1130,7 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &&&\\
   &{\dn madbhakta.h}&mad|&\mat\\
   &&&\\
-  &&bhak|ta\h{a}&bhakta.h\\
-  &&&= {\dn bhakta.h}\\
-  &&&= \bhaktaH\\
-  &&&\notebhaktaH\\
+  &&bhak|ta\h{a}&\bhaktaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\
@@ -1306,9 +1303,7 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &&&\\
   &{\dn madbhakta.h}&mad|&\mat\\
   &&&\\
-  &&bhak|ta\h{a}&{\dn bhakta.h}\\
-  &&&= \bhaktaH\\
-  &&&\notebhaktaH\\
+  &&bhak|ta\h{a}&\bhaktaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\

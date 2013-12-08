@@ -966,8 +966,13 @@
   &&&\note{\nounroot{\dn bhagavant}{bhagavant}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhaktaH}{devotee}
-\newcommand{\notebhaktaH}{\note{\noun, \male}}
+\newcommand{\nounrootbhakta}{\nounroot{\dn bhakta}{bhakta}}
+
+\newcommand{\bhaktaH}{
+  bhakta.h = {\dn bhakta.h} = devotee\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootbhakta}
+}
 
 \newcommand{\bhaktAH}{devotees}
 \newcommand{\notebhaktAH}{\note{\noun, \male, \plural}}
