@@ -890,9 +890,13 @@
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\arthebhyaH}{\dativephrase/\ablativephrase\ a/the \arthatemp}
-\newcommand{\notearthebhyaH}{\note{\noun, \male, \neuter}\\
-  &&&\note{\dativecase, \ablativecase}}
+\newcommand{\arthebhyaH}{
+  arthebhya.h = {\dn arthebhya.h}\\
+  &&&= \dativephrase/\ablativephrase\ a/the \arthatemp\\
+  &&&\note{\noun, \male, \neuter}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\nounrootartha}
+}
 
 \newcommand{\artheSu}{\locativephrase\ purposes; profits; benefits}
 \newcommand{\noteartheSu}{\note{\noun, \male, \neuter}\\
