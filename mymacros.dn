@@ -1046,6 +1046,13 @@
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootbhuuta}
 }
+
+\newcommand{\bhUteSu}{
+  bhuute.su = {\dn bhuute.su}\\
+  &&&= \locativephrase\ \bhuutapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{\nounrootbhuuta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\buddhiH}{brainpower; intelligence}
 \newcommand{\notebuddhiH}{\note{\noun, \female}}
