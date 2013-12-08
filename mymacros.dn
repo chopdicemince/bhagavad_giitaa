@@ -1141,6 +1141,12 @@
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootbhaya}
 }
+
+\newcommand{\bhaye}{
+  bhaye = {\dn bhaye} = \locativephrase\ \bhayatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootbhaya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\brahman}{God}
 \newcommand{\notebrahman}{\note{\noun, \neuter}\\
