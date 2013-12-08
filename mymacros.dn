@@ -1023,6 +1023,7 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootbhuuta}{\nounroot{\dn bhuuta}{bhuuta}}
+\newcommand{\bhuutapluraltemp}{beings (living things); spirits; ghosts}
 
 \newcommand{\bhuutam}{
   bhuutam = {\dn bhuutam} = being (living thing)\\
@@ -1031,10 +1032,15 @@
   &&&\note{\nounrootbhuuta}
 }
 
-\newcommand{\bhuutaani}{beings (living things)}
-\newcommand{\notebhuutaani}{\note{\noun, \neuter, \plural}}
+\newcommand{\bhuutaani}{
+  bhuutaani = {\dn bhuutaani}\\
+  &&&= \bhuutapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootbhuuta}
+}
 
-\newcommand{\bhuutaanaam}{\genitivephrase\ \bhuutaani}
+\newcommand{\bhuutaanaam}{\genitivephrase\ \bhuutapluraltemp}
 \newcommand{\notebhuutaanaam}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\buddhiH}{brainpower; intelligence}
