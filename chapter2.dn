@@ -589,9 +589,7 @@ has eleven main syllables per line.)\\
   &&sva&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
   &&&\\
-  &&bhaa|va\h{a}&{\dn bhaava.h}\\
-  &&&= \bhAvaH\\
-  &&&\notebhAvaH\\
+  &&bhaa|va\h{a}&\bhAvaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1370,10 +1368,7 @@ these two statements---by people who know or see.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &{\dn bhaavo}&bhaa|vo&bhaava.h\\
-  &&&= {\dn bhaava.h}\\
-  &&&= \bhAvaH\\
-  &&&\notebhAvaH\\
+  &{\dn bhaavo}&bhaa|vo&\bhAvaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1381,10 +1376,7 @@ these two statements---by people who know or see.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&bhaa|vo&bhaava.h\\
-  &&&= {\dn bhaava.h}\\
-  &&&= \bhAvaH\\
-  &&&\notebhAvaH\\
+  &&bhaa|vo&\bhAvaH\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

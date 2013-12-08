@@ -928,8 +928,15 @@
   &&&\note{\nounrootbala}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhAvaH}{behavior; being (living thing); existence; birth}
-\newcommand{\notebhAvaH}{\note{\noun, \male}}
+\newcommand{\nounrootbhaava}{\nounroot{\dn bhaava}{bhaava}}
+\newcommand{\bhaavatemp}{being (existence; living thing); behavior; birth}
+
+\newcommand{\bhAvaH}{
+  bhaava.h = {\dn bhaava.h}\\
+  &&&= \bhaavatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootbhaava}
+}
 
 \newcommand{\bhaavam}{\bhAvaH}
 \newcommand{\notebhaavam}{\note{\noun, \male, \accusativecase}}
