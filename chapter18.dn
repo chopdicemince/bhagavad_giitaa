@@ -2373,8 +2373,7 @@ person.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn kaaryam} = kaaryam}\\
   &&&\\
-  &{\dn bhayaabhaye}&bha|yaa|&bhayam = {\dn bhayam} = \bhayam\\
-  &&&\notebhayam\\
+  &{\dn bhayaabhaye}&bha|yaa|&\bhayam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -2763,10 +2762,7 @@ Arjuna), (is) a person of ignorance.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn svapna.h} = svapna.h}\\
   &&&\\
-  &{\dn bhaya.m}&bha|ya.m&bhayam\\
-  &&&= {\dn bhayam}\\
-  &&&= \bhayam\\
-  &&&\notebhayam\\
+  &{\dn bhaya.m}&bha|ya.m&\bhayam\\
   &&&\\
   &{\dn "soka.m}&"so|ka.m&"sokam\\
   &&&= {\dn "sokam}\\

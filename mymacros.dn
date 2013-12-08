@@ -1120,9 +1120,15 @@
   &&&\note{\nounrootbhakti}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhayam}{fear}
-\newcommand{\notebhayam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootbhaya}{\nounroot{\dn bhaya}{bhaya}}
+\newcommand{\bhayatemp}{fear}
+
+\newcommand{\bhayam}{
+  bhayam = {\dn bhayam} = \bhayatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootbhaya}
+}
 
 \newcommand{\bhayaat}{\ablativephrase\ \bhayam}
 \newcommand{\notebhayaat}{\note{\noun, \neuter, \ablativecase}}
