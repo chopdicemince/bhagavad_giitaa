@@ -945,8 +945,13 @@
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhaavena}{\instrumentalphrase\ \bhaavatemp}
-\newcommand{\notebhaavena}{\note{\noun, \male, \instrumentalcase}}
+\newcommand{\bhaavena}{
+  bhaavena = {\dn bhaavena}\\
+  &&&= \instrumentalphrase\ a/the\\
+  &&&\bhaavatemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootbhaava}
+}
 
 \newcommand{\bhAvAH}{behaviors; beings (living things); existences; births}
 \newcommand{\notebhAvAH}{\note{\noun, \male, \plural}}
