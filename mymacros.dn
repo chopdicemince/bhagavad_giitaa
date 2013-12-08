@@ -960,8 +960,11 @@
   &&&\note{\nounrootbhaava}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhagavaan}{God}
-\newcommand{\notebhagavaan}{\note{\noun, \male}}
+\newcommand{\bhagavaan}{
+  bhagavaan = {\dn bhagavaan} = blessed one; God\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn bhagavant}{bhagavant}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhaktaH}{devotee}
 \newcommand{\notebhaktaH}{\note{\noun, \male}}
