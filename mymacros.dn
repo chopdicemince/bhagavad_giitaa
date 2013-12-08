@@ -1014,6 +1014,13 @@
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootbhoga}
 }
+
+\newcommand{\bhogeSu}{
+  bhoge.su = {\dn bhoge.su}\\
+  &&&= \locativephrase\ \bhogapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{\nounrootbhoga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhuutam}{being (living thing)}
 \newcommand{\notebhuutam}{\note{\noun, \neuter}}
