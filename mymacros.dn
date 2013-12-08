@@ -1114,8 +1114,11 @@
   &&&\note{\nounrootbhakti}
 }
 
-\newcommand{\bhaktyaa}{\instrumentalphrase\ \bhaktitemp}
-\newcommand{\notebhaktyaa}{\note{\noun, \female, \instrumentalcase}}
+\newcommand{\bhaktyaa}{
+  bhaktyaa = {\dn bhaktyaa} = \instrumentalphrase\ \bhaktitemp\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{\nounrootbhakti}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhayam}{fear}
 \newcommand{\notebhayam}{\note{\noun, \neuter}\\
