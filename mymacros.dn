@@ -1108,8 +1108,11 @@
   &&&\note{\nounrootbhakti}
 }
 
-\newcommand{\bhaktim}{\bhaktitemp}
-\newcommand{\notebhaktim}{\note{\noun, \female, \accusativecase}}
+\newcommand{\bhaktim}{
+  bhaktim = {\dn bhaktim} = \bhaktitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootbhakti}
+}
 
 \newcommand{\bhaktyaa}{\instrumentalphrase\ \bhaktitemp}
 \newcommand{\notebhaktyaa}{\note{\noun, \female, \instrumentalcase}}
