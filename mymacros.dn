@@ -898,9 +898,13 @@
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\artheSu}{\locativephrase\ purposes; profits; benefits}
-\newcommand{\noteartheSu}{\note{\noun, \male, \neuter}\\
-  &&&\note{\plural, \locativecase}}
+\newcommand{\artheSu}{
+  arthe.su = {\dn arthe.su}\\
+  &&&= \locativephrase\ purposes; profits; benefits\\
+  &&&\note{\noun, \male, \neuter, \plural}\\
+  &&&\note{\locativecase}\\
+  &&&\note{\nounrootartha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\balam}{force; strength}
 \newcommand{\notebalam}{\note{\noun, \neuter}\\
