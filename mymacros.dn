@@ -906,11 +906,20 @@
   &&&\note{\nounrootartha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootbala}{\nounroot{\dn bala}{bala}}
+\newcommand{\balatemp}{force; strength}
+
 \newcommand{\balam}{
-  balam = {\dn balam} = force; strength\\
+  balam = {\dn balam} = \balatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{\nounroot{\dn bala}{bala}}
+  &&&\note{\nounrootbala}
+}
+
+\newcommand{\balaat}{
+  balaat = {\dn balaat} = \ablativephrase\ \balatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{\nounrootbala}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\bhAvaH}{behavior; being (living thing); existence; birth}
