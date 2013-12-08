@@ -1070,9 +1070,13 @@
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhyaa}{\instrumentalphrase\ \buddhitemp}
-\newcommand{\notebuddhyaa}{\note{\noun, \female, \instrumentalcase}}
-
+\newcommand{\buddhyaa}{
+  buddhyaa = {\dn buddhyaa}\\
+  &&&= \instrumentalphrase\ \buddhitemp\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{\nounrootbuddhi}
+}
+ 
 \newcommand{\buddheH}{\ablativephrase/\genitivephrase\ \buddhitemp}
 \newcommand{\notebuddheH}{\note{\noun, \female}\\
   &&&\note{\ablativecase, \genitivecase}}
