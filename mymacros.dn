@@ -1099,13 +1099,19 @@
   &&&\note{\nounrootbuddhi}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhaktiH}{devotion; faith}
-\newcommand{\notebhaktiH}{\note{\noun, \female}}
+\newcommand{\nounrootbhakti}{\nounroot{\dn bhakti}{bhakti}}
+\newcommand{\bhaktitemp}{devotion; faith}
 
-\newcommand{\bhaktim}{\bhaktiH}
+\newcommand{\bhaktiH}{
+  bhakti.h = {\dn bhakti.h} = \bhaktitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootbhakti}
+}
+
+\newcommand{\bhaktim}{\bhaktitemp}
 \newcommand{\notebhaktim}{\note{\noun, \female, \accusativecase}}
 
-\newcommand{\bhaktyaa}{\instrumentalphrase\ \bhaktiH}
+\newcommand{\bhaktyaa}{\instrumentalphrase\ \bhaktitemp}
 \newcommand{\notebhaktyaa}{\note{\noun, \female, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\bhayam}{fear}
