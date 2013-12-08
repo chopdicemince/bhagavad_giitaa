@@ -1130,8 +1130,11 @@
   &&&\note{\nounrootbhaya}
 }
 
-\newcommand{\bhayaat}{\ablativephrase\ \bhayam}
-\newcommand{\notebhayaat}{\note{\noun, \neuter, \ablativecase}}
+\newcommand{\bhayaat}{
+  bhayaat = {\dn bhayaat} = \ablativephrase\ \bhayatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{\nounrootbhaya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\brahman}{God}
 \newcommand{\notebrahman}{\note{\noun, \neuter}\\
