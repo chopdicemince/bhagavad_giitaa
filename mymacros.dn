@@ -874,18 +874,23 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
+\newcommand{\arthatemp}{purpose; profit; benefit}
 
 \newcommand{\artham}{
-  artham = {\dn artham} = purpose; profit; benefit\\
+  artham = {\dn artham} = \arthatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\arthe}{\locativephrase\ a/the \artham}
-\newcommand{\notearthe}{\note{\noun, \male, \neuter, \locativecase}}
+\newcommand{\arthe}{
+  arthe = {\dn arthe}\\
+  &&&= \locativephrase\ a/the \arthatemp\\
+  &&&\note{\noun, \male, \neuter, \locativecase}\\
+  &&&\note{\nounrootartha}
+}
 
-\newcommand{\arthebhyaH}{\dativephrase/\ablativephrase\ a/the \artham}
+\newcommand{\arthebhyaH}{\dativephrase/\ablativephrase\ a/the \arthatemp}
 \newcommand{\notearthebhyaH}{\note{\noun, \male, \neuter}\\
   &&&\note{\dativecase, \ablativecase}}
 
