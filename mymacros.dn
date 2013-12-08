@@ -1010,7 +1010,7 @@
 
 \newcommand{\bhogaiH}{
   bhogai.h = {\dn bhogai.h}\\
-  &&&= by using \bhogapluraltemp\\
+  &&&= \instrumentalphrase\ \bhogapluraltemp\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootbhoga}
 }
