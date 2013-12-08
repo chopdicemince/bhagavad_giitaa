@@ -1085,8 +1085,12 @@
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhau}{\locativephrase\ \buddhitemp}
-\newcommand{\notebuddhau}{\note{\noun, \female, \locativecase}}
+\newcommand{\buddhau}{
+  buddhau = {\dn buddhau}\\
+  &&&= \locativephrase\ \buddhitemp\\
+  &&&\note{\noun, \female, \locativecase}\\
+  &&&\note{\nounrootbuddhi}
+}
 
 \newcommand{\buddhayaH}{(\vocativephrase) (acts of) \buddhitemp}
 \newcommand{\notebuddhayaH}{\note{\noun, \female}\\
