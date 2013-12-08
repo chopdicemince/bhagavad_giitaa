@@ -974,8 +974,11 @@
   &&&\note{\nounrootbhakta}
 }
 
-\newcommand{\bhaktAH}{devotees}
-\newcommand{\notebhaktAH}{\note{\noun, \male, \plural}}
+\newcommand{\bhaktAH}{
+  bhaktaa.h = {\dn bhaktaa.h} = devotees\\
+  &&&\note{\noun, \male, \plural, \nominativecase}\\
+  &&&\note{\nounrootbhakta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhavati}{\hesheit\ is}
 \newcommand{\notebhavati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
