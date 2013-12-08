@@ -980,8 +980,11 @@
   &&&\note{\nounrootbhakta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhavati}{\hesheit\ is}
-\newcommand{\notebhavati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\bhavati}{
+  bhavati = {\dn bhavati} = \hesheit\ is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbroot{\dn bhuu}{bhuu}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhogaH}{(act of) enjoyment; eating}
 \newcommand{\notebhogaH}{\note{\noun, \male}}
