@@ -1001,8 +1001,11 @@
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogaan}{(acts of) enjoyment; eating}
-\newcommand{\notebhogaan}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\bhogaan}{
+  bhogaan = {\dn bhogaan} = (acts of) enjoyment; eating\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootbhoga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhuutam}{being (living thing)}
 \newcommand{\notebhuutam}{\note{\noun, \neuter}}
