@@ -1055,27 +1055,32 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
+\newcommand{\buddhitemp}{brainpower; intelligence}
+
 
 \newcommand{\buddhiH}{
-  buddhi.h = {\dn buddhi.h} = brainpower; intelligence\\
+  buddhi.h = {\dn buddhi.h} = \buddhitemp\\
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhim}{\buddhiH}
-\newcommand{\notebuddhim}{\note{\noun, \female, \accusativecase}}
+\newcommand{\buddhim}{
+  buddhim = {\dn buddhim} = \buddhitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootbuddhi}
+}
 
-\newcommand{\buddhyaa}{\instrumentalphrase\ \buddhiH}
+\newcommand{\buddhyaa}{\instrumentalphrase\ \buddhitemp}
 \newcommand{\notebuddhyaa}{\note{\noun, \female, \instrumentalcase}}
 
-\newcommand{\buddheH}{\ablativephrase/\genitivephrase\ \buddhiH}
+\newcommand{\buddheH}{\ablativephrase/\genitivephrase\ \buddhitemp}
 \newcommand{\notebuddheH}{\note{\noun, \female}\\
   &&&\note{\ablativecase, \genitivecase}}
 
-\newcommand{\buddhau}{\locativephrase\ \buddhiH}
+\newcommand{\buddhau}{\locativephrase\ \buddhitemp}
 \newcommand{\notebuddhau}{\note{\noun, \female, \locativecase}}
 
-\newcommand{\buddhayaH}{(\vocativephrase) (acts of) \buddhiH}
+\newcommand{\buddhayaH}{(\vocativephrase) (acts of) \buddhitemp}
 \newcommand{\notebuddhayaH}{\note{\noun, \female}\\
   &&&\note{\nominativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
