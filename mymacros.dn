@@ -906,9 +906,12 @@
   &&&\note{\nounrootartha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\balam}{force; strength}
-\newcommand{\notebalam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\balam}{
+  balam = {\dn balam} = force; strength\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroot{\dn bala}{bala}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhAvaH}{behavior; being (living thing); existence; birth}
 \newcommand{\notebhAvaH}{\note{\noun, \male}}

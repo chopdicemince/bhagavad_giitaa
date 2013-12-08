@@ -717,10 +717,7 @@ Bhiima-protected.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn bala.m}&ba|la.m&balam\\
-  &&&= {\dn balam}\\
-  &&&= \balam\\
-  &&&\notebalam\\
+  1b&{\dn bala.m}&ba|la.m&\balam\\
   &&&\\
   &{\dn bhii.smaabhirak.sitam}&bhii|.smaa|&bhii.sma.h\\
   &&&= {\dn bhii.sma.h}\\
@@ -750,10 +747,7 @@ Bhiima-protected.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn bala.m}&ba|la.m&balam\\
-  &&&= {\dn balam}\\
-  &&&= \balam\\
-  &&&\notebalam\\
+  2b&{\dn bala.m}&ba|la.m&\balam\\
   &&&\\
   &{\dn bhiimaabhirak.sitam}&bhii|maa|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
