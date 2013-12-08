@@ -921,6 +921,12 @@
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootbala}
 }
+
+\newcommand{\balena}{
+  balena = {\dn balena} = \instrumentalphrase\ \balatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootbala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\bhAvaH}{behavior; being (living thing); existence; birth}
 \newcommand{\notebhAvaH}{\note{\noun, \male}}
