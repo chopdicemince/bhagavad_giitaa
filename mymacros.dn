@@ -1130,6 +1130,12 @@
   &&&\note{\nounrootbhaya}
 }
 
+\newcommand{\bhayena}{
+  bhayena = {\dn bhayena} = \instrumentalphrase\ \bhayatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootbhaya}
+}
+
 \newcommand{\bhayaat}{
   bhayaat = {\dn bhayaat} = \ablativephrase\ \bhayatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
