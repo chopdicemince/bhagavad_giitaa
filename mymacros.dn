@@ -1209,6 +1209,13 @@
   &&&\note{\nounrootdaana}
 }
 
+\newcommand{\daanena}{
+  daanena = {\dn daanena} = \instrumentalphrase\ a/the\\
+  &&&\daanatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootdaana}
+}
+
 \newcommand{\daane}{
   daane = {\dn daane} = \locativephrase\ a/the\\
   &&&\daanatemp\\
