@@ -1303,8 +1303,11 @@
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devaanaam}{\genitivephrase\ \devapluraltemp}
-\newcommand{\notedevaanaam}{\note{\noun, \male, \plural, \genitivecase}}
+\newcommand{\devaanaam}{
+  devaanaam = {\dn devaanaam} = \genitivephrase\ \devapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootdeva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\dharmaH}{(act of) virtue; religion; law}
 \newcommand{\notedharmaH}{\note{\noun, \male}}
