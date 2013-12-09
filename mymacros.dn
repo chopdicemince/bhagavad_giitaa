@@ -1297,8 +1297,11 @@
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devaan}{\devapluraltemp}
-\newcommand{\notedevaan}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\devaan}{
+  devaan = {\dn devaan} = \devapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootdeva}
+}
 
 \newcommand{\devaanaam}{\genitivephrase\ \devapluraltemp}
 \newcommand{\notedevaanaam}{\note{\noun, \male, \plural, \genitivecase}}

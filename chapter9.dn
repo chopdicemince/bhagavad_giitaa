@@ -1978,10 +1978,7 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vrata.h} = vrata.h}\\
   &&&\\
-  &{\dn devaanpit.Rnyaanti}&de|vaan|&{\dn devaan}\\
-  &&&= \devaan\\
-  &&&\notedevaan\\
-  &&&\note{from {\dn deva.h} = deva.h}\\
+  &{\dn devaanpit.Rnyaanti}&de|vaan|&\devaan\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
