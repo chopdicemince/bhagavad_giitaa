@@ -5338,11 +5338,7 @@ sight-desirous.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn devaa}&de|vaa&devaa.h\\
-  &&&= {\dn devaa.h}\\
-  &&&= \devAH\\
-  &&&\notedevAH\\
-  &&&\note{from {\dn deva.h} = deva.h}\\
+  2a&{\dn devaa}&de|vaa&\devAH\\
   &&&\\
   &{\dn apyasya}&a|pya|&\api\\
   &&&\\

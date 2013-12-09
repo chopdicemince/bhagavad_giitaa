@@ -1275,6 +1275,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdeva}{\nounroot{\dn deva}{deva}}
 \newcommand{\devatemp}{deity}
+\newcommand{\devapluraltemp}{deities}
 
 \newcommand{\devaH}{
   deva.h = {\dn deva.h} = deity\\
@@ -1289,14 +1290,17 @@
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devAH}{deities}
-\newcommand{\notedevAH}{\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}}
+\newcommand{\devAH}{
+  devaa.h = {\dn devaa.h} = (\vocativephrase) \devapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootdeva}
+}
 
-\newcommand{\devaan}{\devAH}
+\newcommand{\devaan}{\devapluraltemp}
 \newcommand{\notedevaan}{\note{\noun, \male, \plural, \accusativecase}}
 
-\newcommand{\devaanaam}{\genitivephrase\ \devAH}
+\newcommand{\devaanaam}{\genitivephrase\ \devapluraltemp}
 \newcommand{\notedevaanaam}{\note{\noun, \male, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\dharmaH}{(act of) virtue; religion; law}
