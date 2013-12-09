@@ -1273,10 +1273,16 @@
   &&&\note{\nounrootdeha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\devaH}{deity}
-\newcommand{\notedevaH}{\note{\noun, \male}}
+\newcommand{\nounrootdeva}{\nounroot{\dn deva}{deva}}
+\newcommand{\devatemp}{deity}
 
-\newcommand{\devam}{\devaH}
+\newcommand{\devaH}{
+  deva.h = {\dn deva.h} = deity\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdeva}
+}
+
+\newcommand{\devam}{\devatemp}
 \newcommand{\notedevam}{\note{\noun, \male, \accusativecase}}
 
 \newcommand{\devAH}{deities}

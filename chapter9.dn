@@ -1610,10 +1610,7 @@ a verse, each line has eight main syllables.)\\
   &&di|vi&{\dn divi}\\
   &&&= (?)\\
   &&&\\
-  &{\dn devabhogaan}&de|va|&deva.h\\
-  &&&= {\dn deva.h}\\
-  &&&= \devaH\\
-  &&&\notedevaH\\
+  &{\dn devabhogaan}&de|va|&\devaH\\
   &&&\\
   &&bho|gaan&\bhogaan\\
 \end{tabular}
@@ -1974,10 +1971,7 @@ Deity-vowers go (to) deities. Father-vowers go (to) fathers. Beings go
   &&&\noteyaanti\\
   &&&\note{root: {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn devavrataa}&de|va|&deva.h\\
-  &&&= {\dn deva.h}\\
-  &&&= \devaH\\
-  &&&\notedevaH\\
+  &{\dn devavrataa}&de|va|&\devaH\\
   &&&\\
   &&vra|taa&{\dn vrataa.h}\\
   &&&= vowers\\
