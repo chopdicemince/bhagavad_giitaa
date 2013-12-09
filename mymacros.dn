@@ -271,7 +271,7 @@
   h.r.siike"sam = {\dn h.r.siike"sam} = \textkrsna\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounroothRSIkeza}
-} 
+}
 
 \newcommand{\hRSIkeza}{
   h.r.siike"sa = {\dn h.r.siike"sa} = \vocativephrase\ \textkrsna\\
@@ -1075,7 +1075,7 @@
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{\nounrootbuddhi}
 }
- 
+
 \newcommand{\buddheH}{
   buddhe.h = {\dn buddhe.h}\\
   &&&= \ablativephrase/\genitivephrase\ \buddhitemp\\
@@ -1206,6 +1206,13 @@
   &&&= \daanatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootdaana}
+}
+
+\newcommand{\daane}{
+  daane = {\dn daane} = \locativephrase\ a/the\\
+  &&&\daanatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootdaana}
 }
 % ------------------------------------------------------------------------------
