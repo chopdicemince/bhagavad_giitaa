@@ -1248,6 +1248,12 @@
   &&&\note{\nounrootdeha}
 }
 
+\newcommand{\deham}{
+  deham = {\dn deham} = \dehatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootdeha}
+}
+
 \newcommand{\dehe}{
   dehe = {\dn dehe} = \locativephrase\ a/the \dehatemp\\
   &&&\note{\noun, \male, \locativecase}\\
