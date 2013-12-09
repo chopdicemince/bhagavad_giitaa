@@ -1241,6 +1241,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdeha}{\nounroot{\dn deha}{deha}}
 \newcommand{\dehatemp}{body}
+\newcommand{\dehapluraltemp}{bodies}
 
 \newcommand{\dehaH}{
   deha.h = {\dn deha.h} = \dehatemp\\
@@ -1257,6 +1258,12 @@
 \newcommand{\dehe}{
   dehe = {\dn dehe} = \locativephrase\ a/the \dehatemp\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootdeha}
+}
+
+\newcommand{\deheSu}{
+  dehe.su = {\dn dehe.su} = \locativephrase\ \dehapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{\nounrootdeha}
 }
 % ------------------------------------------------------------------------------
