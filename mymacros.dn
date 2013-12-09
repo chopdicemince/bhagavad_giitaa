@@ -1225,6 +1225,13 @@
   &&&\note{\nounrootdaana}
 }
 
+\newcommand{\dAnaiH}{
+  daanai.h = {\dn daanai.h} = \instrumentalphrase\\
+  &&&\daanapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootdaana}
+}
+
 \newcommand{\dAneSu}{
   daane.su = {\dn daane.su} = \locativephrase\\
   &&&\daanapluraltemp\\
