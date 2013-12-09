@@ -1248,8 +1248,11 @@
   &&&\note{\nounrootdeha}
 }
 
-\newcommand{\dehe}{\locativephrase\ a/the \dehatemp}
-\newcommand{\notedehe}{\note{\noun, \male, \locativecase}}
+\newcommand{\dehe}{
+  dehe = {\dn dehe} = \locativephrase\ a/the \dehatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootdeha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\devaH}{deity}
 \newcommand{\notedevaH}{\note{\noun, \male}}
