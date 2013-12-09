@@ -1200,6 +1200,8 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdaana}{\nounroot{\dn daana}{daana}}
 \newcommand{\daanatemp}{donation; distribution; gift; giving; charity}
+\newcommand{\daanapluraltemp}{donations; distributions; gifts;\\
+  &&&(acts of) giving; charity}
 
 \newcommand{\daanam}{
   daanam = {\dn daanam}\\
@@ -1220,6 +1222,13 @@
   daane = {\dn daane} = \locativephrase\ a/the\\
   &&&\daanatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootdaana}
+}
+
+\newcommand{\dAneSu}{
+  daane.su = {\dn daane.su} = \locativephrase\\
+  &&&\daanapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{\nounrootdaana}
 }
 % ------------------------------------------------------------------------------
