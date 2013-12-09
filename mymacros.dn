@@ -1187,8 +1187,12 @@
   &&&\note{\nounrootcetas}
 }
 
-\newcommand{\cetasaam}{\genitivephrase\ \cetaspluraltemp}
-\newcommand{\notecetasaam}{\note{\noun, \neuter, \plural, \genitivecase}}
+\newcommand{\cetasaam}{
+  cetasaam = {\dn cetasaam}\\
+  &&&= \genitivephrase\ \cetaspluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootcetas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\cittaH}{mind}
 \newcommand{\notecittaH}{\note{\noun, \neuter}\\
