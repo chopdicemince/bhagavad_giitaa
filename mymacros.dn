@@ -1166,8 +1166,15 @@
   &&&\note{or}\\
   &&&\note{\adjective, \male, \accusativecase}}
 % ------------------------------------------------------------------------------
-\newcommand{\cetasaa}{\instrumentalphrase\ a/the mind; thought}
-\newcommand{\notecetasaa}{\note{\noun, \neuter, \instrumentalcase}}
+\newcommand{\nounrootcetas}{\nounroot{\dn cetas}{cetas}}
+\newcommand{\cetastemp}{mind; thought}
+
+\newcommand{\cetasaa}{
+  cetasaa = {\dn cetasaa}\\
+  &&&= \instrumentalphrase\ a/the \cetastemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootcetas}
+}
 
 \newcommand{\cetasaH}{\ablativephrase/\genitivephrase\ a/the mind; thought\\
   &&&or\\
