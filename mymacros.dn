@@ -1168,6 +1168,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootcetas}{\nounroot{\dn cetas}{cetas}}
 \newcommand{\cetastemp}{mind; thought}
+\newcommand{\cetaspluraltemp}{minds; thoughts}
 
 \newcommand{\cetasaa}{
   cetasaa = {\dn cetasaa}\\
@@ -1176,15 +1177,17 @@
   &&&\note{\nounrootcetas}
 }
 
-\newcommand{\cetasaH}{\ablativephrase/\genitivephrase\ a/the mind; thought\\
-  &&&or\\
-  &&&minds; thoughts}
-\newcommand{\notecetasaH}{\note{\noun, \neuter}\\
+\newcommand{\cetasaH}{
+  cetasa.h = {\dn cetasa.h}\\
+  &&&= \ablativephrase/\genitivephrase\ a/the \cetastemp;\\
+  &&&\vocativephrase\ \cetaspluraltemp\\
+  &&&\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\
-  &&&\note{or}\\
-  &&&\note{\noun, \neuter, \plural, \accusativecase}}
+  &&&\note{\plural, \vocativecase}\\
+  &&&\note{\nounrootcetas}
+}
 
-\newcommand{\cetasaam}{\genitivephrase\ minds; thoughts}
+\newcommand{\cetasaam}{\genitivephrase\ \cetaspluraltemp}
 \newcommand{\notecetasaam}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\cittaH}{mind}
