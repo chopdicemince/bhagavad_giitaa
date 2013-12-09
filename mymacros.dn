@@ -1239,10 +1239,16 @@
   &&&\note{\nounrootdaana}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\dehaH}{body}
-\newcommand{\notedehaH}{\note{\noun, \male}}
+\newcommand{\nounrootdeha}{\nounroot{\dn deha}{deha}}
+\newcommand{\dehatemp}{body}
 
-\newcommand{\dehe}{\locativephrase\ a/the \dehaH}
+\newcommand{\dehaH}{
+  deha.h = {\dn deha.h} = \dehatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdeha}
+}
+
+\newcommand{\dehe}{\locativephrase\ a/the \dehatemp}
 \newcommand{\notedehe}{\note{\noun, \male, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\devaH}{deity}
