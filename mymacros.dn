@@ -1261,6 +1261,12 @@
   &&&\note{\nounrootdeha}
 }
 
+\newcommand{\dehAH}{
+  dehaa.h = {\dn dehaa.h} = \dehapluraltemp\\
+  &&&\note{\noun, \male, \plural, \nominativecase}\\
+  &&&\note{\nounrootdeha}
+}
+
 \newcommand{\deheSu}{
   dehe.su = {\dn dehe.su} = \locativephrase\ \dehapluraltemp\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
