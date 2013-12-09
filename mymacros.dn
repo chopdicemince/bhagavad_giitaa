@@ -1282,8 +1282,12 @@
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devam}{\devatemp}
-\newcommand{\notedevam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\devam}{
+  devam = {\dn devam} = \devatemp; divine\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nounrootdeva}
+}
 
 \newcommand{\devAH}{deities}
 \newcommand{\notedevAH}{\note{\noun, \male, \plural}\\

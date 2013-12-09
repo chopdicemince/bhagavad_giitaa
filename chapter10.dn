@@ -923,11 +923,7 @@ powerful.\\
   &&&= first\\
   &&&\note{\adjective}\\
   &&&\\
-  &&de|va|ma|&devam\\
-  &&&= {\dn devam}\\
-  &&&= \devam\\
-  &&&\notedevam\\
-  &&&\note{from {\dn deva.h} = deva.h}\\
+  &&de|va|ma|&\devam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\

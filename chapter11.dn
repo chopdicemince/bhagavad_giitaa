@@ -901,10 +901,7 @@ all-directions-fac(ing).\\
   &&&= marvelous; miraculous; wonderful\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn devamananta.m}&de|va|&devam\\
-  &&&= {\dn devam}\\
-  &&&= divine\\
-  &&&\note{\adjective, \neuter}\\
+  &{\dn devamananta.m}&de|va|&\devam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1122,11 +1119,7 @@ head, (done-homage?), was saying (homage) (to) the deity (\textkrsna).\\
   &{\dn "sirasaa}&"si|ra|saa&(?) by using a/the head\\
   &&&\note{from {\dn "siras} = "siras}\\
   &&&\\
-  &{\dn deva.m}&de|va.m&devam\\
-  &&&= {\dn devam}\\
-  &&&= \devam\\
-  &&&\notedevam\\
-  &&&\note{from {\dn deva.h} = deva.h}\\
+  &{\dn deva.m}&de|va.m&\devam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
