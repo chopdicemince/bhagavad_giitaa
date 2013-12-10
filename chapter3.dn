@@ -2523,10 +2523,7 @@ devotion is fear-producing.\\
   &&sva|&sva.h = {\dn sva.h} = \svaH\\
   &&&\notesvaH\\
   &&&\\
-  &&dhar|mo&dharma.h\\
-  &&&= {\dn dharma.h}\\
-  &&&= \dharmaH\\
-  &&&\notedharmaH\\
+  &&dhar|mo&\dharmaH\\
   &&&\\
   &{\dn vigu.na.h}&vi|gu|.na\h{a}&worthless; unsuccessful; bad\\
   &&&\note{\adjective, \male}\\
@@ -2571,10 +2568,7 @@ devotion is fear-producing.\\
   2b&{\dn paradharmo}&pa|ra|&{\dn para} = \para\\
   &&&\notepara\\
   &&&\\
-  &&dhar|mo&dharma.h\\
-  &&&= {\dn dharma.h}\\
-  &&&= \dharmaH\\
-  &&&\notedharmaH\\
+  &&dhar|mo&\dharmaH\\
   &&&\\
   &{\dn bhayaavaha.h}&bha|yaa|&\bhayam\\
   &&&\\

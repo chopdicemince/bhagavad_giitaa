@@ -1309,16 +1309,23 @@
   &&&\note{\nounrootdeva}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\dharmaH}{(act of) virtue; religion; law}
-\newcommand{\notedharmaH}{\note{\noun, \male}}
+\newcommand{\nounrootdharma}{\nounroot{\dn dharma}{dharma}}
+\newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
 
-\newcommand{\dharmam}{\dharmaH}
+\newcommand{\dharmaH}{
+  dharma.h = {\dn dharma.h}\\
+  &&&= \dharmatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdharma}
+}
+
+\newcommand{\dharmam}{\dharmatemp}
 \newcommand{\notedharmam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\dharmaat}{\ablativephrase\ an/the \dharmaH}
+\newcommand{\dharmaat}{\ablativephrase\ an/the \dharmatemp}
 \newcommand{\notedharmaat}{\note{\noun, \male, \ablativecase}}
 
-\newcommand{\dharmasya}{\genitivephrase\ an/the \dharmaH}
+\newcommand{\dharmasya}{\genitivephrase\ an/the \dharmatemp}
 \newcommand{\notedharmasya}{\note{\noun, \male, \genitivecase}}
 
 \newcommand{\dharmAH}{(\vocativephrase) (acts of) virtue; religion; law}
