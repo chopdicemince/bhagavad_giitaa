@@ -1333,8 +1333,12 @@
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmasya}{\genitivephrase\ an/the \dharmatemp}
-\newcommand{\notedharmasya}{\note{\noun, \male, \genitivecase}}
+\newcommand{\dharmasya}{
+  dharmasya = {\dn dharmasya} = \genitivephrase\ an/the\\
+  &&&\dharmatemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootdharma}
+}
 
 \newcommand{\dharmAH}{(\vocativephrase) (acts of) virtue; religion; law}
 \newcommand{\notedharmAH}{\note{\noun, \male, \plural}\\

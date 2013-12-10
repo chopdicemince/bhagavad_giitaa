@@ -479,8 +479,6 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &{\dn hi}&hi&\hi\\
   &&&\\
   &{\dn dharmasya}&dhar|ma|sya&\dharmasya\\
-  &&&\notedharmasya\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -503,11 +501,7 @@ go of myself (and appear as an avatar to influence human affairs).\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&dhar|ma|sya&dharmasya\\
-  &&&= {\dn dharmasya}\\
-  &&&= \dharmasya\\
-  &&&\notedharmasya\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&dhar|ma|sya&\dharmasya\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
