@@ -2458,10 +2458,7 @@ blocking.\\
   &&&= \rAgaH\\
   &&&\noterAgaH\\
   &&&\\
-  &&dve|.sau&{\dn dve.sau}\\
-  &&&= hatred\\
-  &&&\note{\noun, \male, \dual}\\
-  &&&\note{from {\dn dve.sa.h} = dve.sa.h}\\
+  &&dve|.sau&\dveSau\\
   &&&\\
   &{\dn vyavasthitau}&vya|va|sthi|tau&existing; standing; placed\\
   &&&\note{\adjective, \male, \dual}\\

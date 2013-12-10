@@ -1406,11 +1406,20 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
+\newcommand{\dveSadualtemp}{(two acts of) dislike; detestation; hatred}
 
 \newcommand{\dveSaH}{
   dve.sa.h = {\dn dve.sa.h}\\
   &&&= \dveSatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdveSa}
+}
+
+\newcommand{\dveSau}{
+  dve.sau = {\dn dve.sau}\\
+  &&&= (\vocativephrase) \dveSadualtemp\\
+  &&&\note{\noun, \male, \dual, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
   &&&\note{\nounrootdveSa}
 }
 % ------------------------------------------------------------------------------
