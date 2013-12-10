@@ -1416,9 +1416,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn anya.h} = anya.h}\\
   &&&\\
-  &{\dn gu.nebhya.h}&gu|.ne|bhya\h{a}&(?)\\
-  &&&\note{similar: \noun, \male, {\dn gu.na.h} = gu.na.h}\\
-  &&&\note{= string; attribute}\\
+  &{\dn gu.nebhya.h}&gu|.ne|bhya\h{a}&\guNebhyaH\\
   &&&\\
   &{\dn kartaara.m}&kar|taa|ra.m&kartaaram\\
   &&&= {\dn kartaaram}\\
@@ -1445,11 +1443,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn gu.nebhya"sca}&gu|.ne|bhya"s|&gu.nebhya.h\\
-  &&&= {\dn gu.nebhya.h}\\
-  &&&= (?)\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn gu.na.h} = gu.na.h}\\
+  2a&{\dn gu.nebhya"sca}&gu|.ne|bhya"s|&\guNebhyaH\\
   &&&\\
   &&ca&\ca\\
   &&&\\

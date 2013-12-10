@@ -1491,6 +1491,14 @@
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootguNa}
 }
+
+\newcommand{\guNebhyaH}{
+  gu.nebhya.h = {\dn gu.nebhya.h}\\
+  &&&= \dativephrase/\ablativephrase\ \guNapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\nounrootguNa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\guhyam}{mystery; secret; privacy; genitals; anus}
 \newcommand{\noteguhyam}{\note{\noun, \neuter}\\
