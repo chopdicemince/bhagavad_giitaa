@@ -2415,15 +2415,11 @@ of passion.\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
   &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn dharmamadharma.m}&dhar|ma|ma|&dharmam = {\dn dharmam} = \dharmam\\
-  &&&\notedharmam\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &{\dn dharmamadharma.m}&dhar|ma|ma|&\dharmam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&dhar|ma.m&dharmam = {\dn dharmam} = \dharmam\\
-  &&&\notedharmam\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&dhar|ma.m&\dharmam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
@@ -2490,17 +2486,9 @@ of ignorance.\\
 \begin{tabular}{llll}
   1a&{\dn adharma.m}&a|&\aprefix\\
   &&&\\
-  &&dhar|ma.m&dharmam\\
-  &&&= {\dn dharmam}\\
-  &&&= \dharmam\\
-  &&&\notedharmam\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &&dhar|ma.m&\dharmam\\
   &&&\\
-  &{\dn dharmamiti}&dhar|ma|mi|&dharmam\\
-  &&&= {\dn dharmam}\\
-  &&&= \dharmam\\
-  &&&\notedharmam\\
-  &&&\note{from {\dn dharma.h} = dharma.h}\\
+  &{\dn dharmamiti}&dhar|ma|mi|&\dharmam\\
   &&&\\
   &&ti&\iti\\
   &&&\\

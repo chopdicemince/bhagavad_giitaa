@@ -1319,8 +1319,12 @@
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmam}{\dharmatemp}
-\newcommand{\notedharmam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\dharmam}{
+  dharmam = {\dn dharmam}\\
+  &&&= \dharmatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootdharma}
+}
 
 \newcommand{\dharmaat}{\ablativephrase\ an/the \dharmatemp}
 \newcommand{\notedharmaat}{\note{\noun, \male, \ablativecase}}
