@@ -1457,6 +1457,12 @@
   &&&\note{\nounrootguNa}
 }
 
+\newcommand{\guNam}{
+  gu.nam = {\dn gu.nam} = \guNatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootguNa}
+}
+
 \newcommand{\guNAH}{the three strings/modes/attributes\\
   &&&in Hinduism: goodness, ignorance, passion}
 \newcommand{\noteguNAH}{\note{\noun, \male, \plural}}
