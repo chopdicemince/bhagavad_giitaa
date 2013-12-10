@@ -36,6 +36,7 @@
 \newcommand{\demonstrative}{demonstrative}
 \newcommand{\proper}{proper}
 \newcommand{\allgenders}{all genders}
+\newcommand{\you}{(you)}
 \newcommand{\hesheit}{(he/she/it)}
 \newcommand{\they}{(they)}
 \newcommand{\nounroot}[2]{noun root: {#1} = {#2}}
@@ -1428,6 +1429,12 @@
 \newcommand{\gacchati}{
   gacchati = {\dn gacchati} = \hesheit\ goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootgam}
+}
+
+\newcommand{\gaccha}{
+  gaccha = {\dn gaccha} = \you\ go\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{\verbrootgam}
 }
 
