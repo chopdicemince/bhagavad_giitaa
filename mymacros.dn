@@ -1423,11 +1423,16 @@
   &&&\note{\nounrootdveSa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootgam}{\verbroot{\dn gam}{gam}}
+
+\newcommand{\gacchati}{
+  gacchati = {\dn gacchati} = \hesheit\ goes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootgam}
+}
+
 \newcommand{\gacchanti}{\they\ go}
 \newcommand{\notegacchanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}
-% ------------------------------------------------------------------------------
-\newcommand{\gacchati}{\hesheit\ goes}
-\newcommand{\notegacchati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
 % ------------------------------------------------------------------------------
 \newcommand{\guNaH}{one of the three strings/modes/attributes\\
   &&&in Hinduism: goodness, ignorance, passion}
