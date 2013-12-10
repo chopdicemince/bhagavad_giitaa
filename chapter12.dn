@@ -414,10 +414,7 @@ attain a person/thing.\\
   &&&= going\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&du.h|kha.m&du.hkham\\
-  &&&= {\dn du.hkham}\\
-  &&&= \duHkham\\
-  &&&\noteduHkham\\
+  &&du.h|kha.m&\duHkham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

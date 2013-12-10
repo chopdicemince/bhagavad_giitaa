@@ -1224,10 +1224,7 @@ ignorance.\\
   &&&= \phalam\\
   &&&\notephalam\\
   &&&\\
-  &{\dn du.hkhamaj~naana.m}&du.h|kha|&du.hkham\\
-  &&&= {\dn du.hkham}\\
-  &&&= \duHkham\\
-  &&&\noteduHkham\\
+  &{\dn du.hkhamaj~naana.m}&du.h|kha|&\duHkham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1837,8 +1834,7 @@ self-praise \dots\\
   &&&= \sama\\
   &&&\notesama\\
   &&&\\
-  &&du.h|kha|&du.hkham = {\dn du.hkham} = \duHkham\\
-  &&&\noteduHkham\\
+  &&du.h|kha|&\duHkham\\
   &&&\\
   &&su|kha\h{a}&sukha.h\\
   &&&= {\dn sukha.h}\\

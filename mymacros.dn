@@ -1363,9 +1363,16 @@
   &&&\note{\nounrootdharma}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\duHkham}{(act of) distress; in distress}
-\newcommand{\noteduHkham}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase, \adverb}}
+\newcommand{\nounrootduHkha}{\nounroot{\dn du.hkha}{du.hkha}}
+\newcommand{\duHkhatemp}{(act of) distress; in distress}
+
+\newcommand{\duHkham}{
+  du.hkham = {\dn du.hkham}\\
+  &&&= \duHkhatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase, \adverb}\\
+  &&&\note{\nounrootduHkha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\dveSaH}{dislike; detestation}
 \newcommand{\notedveSaH}{\note{\noun, \male}}
