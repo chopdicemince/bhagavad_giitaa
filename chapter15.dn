@@ -503,11 +503,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn gacchantyamuu.dhaa.h}&gac|chan|tya|&gacchanti\\
-  &&&= {\dn gacchanti}\\
-  &&&= \gacchanti\\
-  &&&\notegacchanti\\
-  &&&\note{root: {\dn gam} = gam}\\
+  2b&{\dn gacchantyamuu.dhaa.h}&gac|chan|tya|&\gacchanti\\
   &&&\\
   &&|&\aprefix\\
   &&&\\

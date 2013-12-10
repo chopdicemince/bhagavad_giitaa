@@ -1431,8 +1431,11 @@
   &&&\note{\verbrootgam}
 }
 
-\newcommand{\gacchanti}{\they\ go}
-\newcommand{\notegacchanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}
+\newcommand{\gacchanti}{
+  gacchanti = {\dn gacchanti} = \they\ go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootgam}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\guNaH}{one of the three strings/modes/attributes\\
   &&&in Hinduism: goodness, ignorance, passion}

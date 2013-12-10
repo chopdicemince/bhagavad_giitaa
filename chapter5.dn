@@ -1309,11 +1309,7 @@ stains.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn gacchantyapunaraav.rtti.m}&gac|chan|tya|&gacchanti\\
-  &&&= {\dn gacchanti}\\
-  &&&= \gacchanti\\
-  &&&\notegacchanti\\
-  &&&\note{root: {\dn gam} = gam}\\
+  2a&{\dn gacchantyapunaraav.rtti.m}&gac|chan|tya|&\gacchanti\\
   &&&\\
   &&pu|na|raa|&apuna.h\\
   &&&= {\dn apuna.h}\\
