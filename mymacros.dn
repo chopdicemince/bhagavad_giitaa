@@ -1485,8 +1485,12 @@
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNaiH}{\instrumentalphrase\ \guNapluraltemp}
-\newcommand{\noteguNaiH}{\note{\noun, \male, \plural, \instrumentalcase}}
+\newcommand{\guNaiH}{
+  gu.nai.h = {\dn gu.nai.h}\\
+  &&&= \instrumentalphrase\ \guNapluraltemp\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootguNa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\guhyam}{mystery; secret; privacy; genitals; anus}
 \newcommand{\noteguhyam}{\note{\noun, \neuter}\\
