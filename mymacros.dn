@@ -1355,6 +1355,13 @@
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootdharma}
 }
+
+\newcommand{\dharmANAm}{
+  dharmaa.naam = {\dn dharmaa.naam}\\
+  &&&= \genitivephrase\ \dharmapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootdharma}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\duHkham}{(act of) distress; in distress}
 \newcommand{\noteduHkham}{\note{\noun, \neuter}\\
