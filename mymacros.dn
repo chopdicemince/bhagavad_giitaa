@@ -1366,6 +1366,7 @@
 \newcommand{\nounrootduHkha}{\nounroot{\dn du.hkha}{du.hkha}}
 \newcommand{\duHkhatemp}{(act of) distress; in distress}
 \newcommand{\duHkhatemptemp}{(act of) distress}
+\newcommand{\duHkhapluraltemp}{(acts of) distress}
 
 \newcommand{\duHkham}{
   du.hkham = {\dn du.hkham}\\
@@ -1379,6 +1380,13 @@
   du.hkhena = {\dn du.hkhena}\\
   &&&= \instrumentalphrase\ an/the \duHkhatemptemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootduHkha}
+}
+
+\newcommand{\duHkhaiH}{
+  du.hkhai.h = {\dn du.hkhai.h}\\
+  &&&= \instrumentalphrase\ \duHkhapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootduHkha}
 }
 % ------------------------------------------------------------------------------
