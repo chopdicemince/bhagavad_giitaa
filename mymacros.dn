@@ -1326,8 +1326,12 @@
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmaat}{\ablativephrase\ an/the \dharmatemp}
-\newcommand{\notedharmaat}{\note{\noun, \male, \ablativecase}}
+\newcommand{\dharmaat}{
+  dharmaat = {\dn dharmaat} = \ablativephrase\ an/the\\
+  &&&\dharmatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootdharma}
+}
 
 \newcommand{\dharmasya}{\genitivephrase\ an/the \dharmatemp}
 \newcommand{\notedharmasya}{\note{\noun, \male, \genitivecase}}
