@@ -1461,10 +1461,7 @@ Just as (full?), hear these, also.\\
   &&&\\
   &&va&\eva\\
   &&&\\
-  &{\dn gu.nabhedata.h}&gu|.na|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &{\dn gu.nabhedata.h}&gu|.na|&\guNaH\\
   &&&\\
   &&bhe|da|ta\h{a}&{\dn bhedata.h}\\
   &&&= (?)\\
@@ -1478,10 +1475,7 @@ Just as (full?), hear these, also.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn gu.nasa"nkhyaane}&gu|.na|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &{\dn gu.nasa"nkhyaane}&gu|.na|&\guNaH\\
   &&&\\
   &&sa"n|khyaa|ne&{\dn sa"nkhyaane}\\
   &&&= at/in/on a/the appearance; counting\\
@@ -2280,7 +2274,6 @@ money-victory (O Arjuna).\\
   &&&= (?)\\
   &&&\note{similar:}\\
   &&&\note{{\dn gu.na.h} = gu.na.h}\\
-  &&&\noteguNaH\\
   &&&\\
   &&stri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\

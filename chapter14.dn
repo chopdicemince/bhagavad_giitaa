@@ -1376,10 +1376,7 @@ go down.\\
   &&&= least; lowest; last\\
   &&&\note{\adjective}\\
   &&&\\
-  &&gu|.na|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &&gu|.na|&\guNaH\\
   &&&\\
   &&v.rt|ti|&v.rtti.h\\
   &&&= {\dn v.rtti.h}\\
@@ -1455,7 +1452,6 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&= (?)\\
   &&&\note{similar:}\\
   &&&\note{{\dn gu.na.h} = gu.na.h}\\
-  &&&\noteguNaH\\
   &&&\\
   &&ca&\ca\\
   &&&\\
@@ -1980,10 +1976,7 @@ string-passed-through (``successful'').\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn gu.naatiita.h}&gu|.naa|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  2b&{\dn gu.naatiita.h}&gu|.naa|&\guNaH\\
   &&&\\
   &&tii|ta\h{a}&atiita.h\\
   &&&= {\dn atiita.h}\\

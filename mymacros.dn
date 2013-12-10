@@ -1444,9 +1444,18 @@
   &&&\note{\verbrootgam}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\guNaH}{one of the three strings/modes/attributes\\
-  &&&in Hinduism: goodness, ignorance, passion}
-\newcommand{\noteguNaH}{\note{\noun, \male}}
+\newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
+\newcommand{\guNatemp}{
+  string; mode; attribute; merit;\\
+  &&&one of the three attributes in Hinduism:\\
+  &&&goodness, ignorance, passion
+}
+
+\newcommand{\guNaH}{
+  gu.na.h = {\dn gu.na.h} = \guNatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootguNa}
+}
 
 \newcommand{\guNAH}{the three strings/modes/attributes\\
   &&&in Hinduism: goodness, ignorance, passion}

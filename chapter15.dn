@@ -131,10 +131,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn gu.naprav.rddhaa}&gu|.na|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  1b&{\dn gu.naprav.rddhaa}&gu|.na|&\guNaH\\
   &&&\\
   &&pra|v.rd|dhaa&prav.rddhaa.h\\
   &&&= {\dn prav.rddhaa.h}\\
@@ -877,10 +874,7 @@ see.\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
   &&&\\
-  &{\dn gu.naanvitam}&gu|.naan|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &{\dn gu.naanvitam}&gu|.naan|&\guNaH\\
   &&&\\
   &&vi|ta.m&anvitam\\
   &&&= {\dn anvitam}\\

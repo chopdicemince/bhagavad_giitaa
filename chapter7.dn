@@ -937,10 +937,7 @@ changeable.\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn tri.h} = tri.h}\\
   &&&\\
-  &&gu|.na|&gu.na.h\\
-  &&&= {\dn guna.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &&gu|.na|&\guNaH\\
   &&&\\
   &&ma|yair|&mayai.h\\
   &&&= {\dn mayai.h}\\
@@ -1028,10 +1025,7 @@ attain) this magic.\\
   &&.saa&e.saa = {\dn e.saa} = this/she\\
   &&&\note{\pronoun, \female}\\
   &&&\\
-  &{\dn gu.namayii}&gu|.na|&gu.na.h\\
-  &&&= {\dn gu.na.h}\\
-  &&&= \guNaH\\
-  &&&\noteguNaH\\
+  &{\dn gu.namayii}&gu|.na|&\guNaH\\
   &&&\\
   &&ma|yii&{\dn mayii}\\
   &&&= (?) made of\\
