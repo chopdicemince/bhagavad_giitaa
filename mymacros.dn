@@ -1499,6 +1499,13 @@
   &&&\note{\dativecase, \ablativecase}\\
   &&&\note{\nounrootguNa}
 }
+
+\newcommand{\guNeSu}{
+  gu.ne.su = {\dn gu.ne.su}\\
+  &&&= \locativephrase\ \guNapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{\nounrootguNa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\guhyam}{mystery; secret; privacy; genitals; anus}
 \newcommand{\noteguhyam}{\note{\noun, \neuter}\\
