@@ -1451,6 +1451,13 @@
   &&&goodness, ignorance, passion
 }
 
+% Do not start the definition on a second line, to avoid too much
+% space in the pdf output.
+\newcommand{\guNapluraltemp}{strings; modes; attributes; merits;\\
+  &&&the three attributes in Hinduism:\\
+  &&&goodness, ignorance, passion
+}
+
 \newcommand{\guNaH}{
   gu.na.h = {\dn gu.na.h} = \guNatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
@@ -1463,14 +1470,18 @@
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNAH}{the three strings/modes/attributes\\
-  &&&in Hinduism: goodness, ignorance, passion}
-\newcommand{\noteguNAH}{\note{\noun, \male, \plural}}
+\newcommand{\guNAH}{
+  gu.naa.h = {\dn gu.naa.h}\\
+  &&&= (\vocativephrase) \guNapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootguNa}
+}
 
-\newcommand{\guNAn}{\guNAH}
+\newcommand{\guNAn}{\guNapluraltemp}
 \newcommand{\noteguNAn}{\note{\noun, \male, \plural, \accusativecase}}
 
-\newcommand{\guNaiH}{\instrumentalphrase\ \guNAH}
+\newcommand{\guNaiH}{\instrumentalphrase\ \guNapluraltemp}
 \newcommand{\noteguNaiH}{\note{\noun, \male, \plural, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\guhyam}{mystery; secret; privacy; genitals; anus}

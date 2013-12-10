@@ -2029,11 +2029,7 @@ attach to threads.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn gu.naa}&gu|.naa&gu.naa.h\\
-  &&&= {\dn gu.naa.h}\\
-  &&&= \guNAH\\
-  &&&\noteguNAH\\
-  &&&\note{from {\dn gu.na.h} = gu.na.h}\\
+  2a&{\dn gu.naa}&gu|.naa&\guNAH\\
   &&&\\
   &{\dn gu.ne.su}&gu|.ne|.su&at/in/on threads; virtues; qualities\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
