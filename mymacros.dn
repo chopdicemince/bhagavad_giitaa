@@ -1404,8 +1404,15 @@
   &&&\note{\nounrootduHkha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\dveSaH}{dislike; detestation}
-\newcommand{\notedveSaH}{\note{\noun, \male}}
+\newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
+\newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
+
+\newcommand{\dveSaH}{
+  dve.sa.h = {\dn dve.sa.h}\\
+  &&&= \dveSatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdveSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\gacchanti}{\they\ go}
 \newcommand{\notegacchanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}

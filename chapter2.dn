@@ -4888,10 +4888,7 @@ tranquility.\\
   &&&= \rAgaH\\
   &&&\noterAgaH\\
   &&&\\
-  &&dve|.sa|&dve.sa.h\\
-  &&&= {\dn dve.sa.h}\\
-  &&&= \dveSaH\\
-  &&&\notedveSaH\\
+  &&dve|.sa|&\dveSaH\\
   &&&\\
   &&vi|muk|tai|&vimuktai.h\\
   &&&= {\dn vimuktai.h}\\
