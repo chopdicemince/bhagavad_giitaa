@@ -1478,8 +1478,12 @@
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNAn}{\guNapluraltemp}
-\newcommand{\noteguNAn}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\guNAn}{
+  gu.naan = {\dn gu.naan}\\
+  &&&= \guNapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootguNa}
+}
 
 \newcommand{\guNaiH}{\instrumentalphrase\ \guNapluraltemp}
 \newcommand{\noteguNaiH}{\note{\noun, \male, \plural, \instrumentalcase}}
