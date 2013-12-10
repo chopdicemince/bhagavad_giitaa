@@ -1348,6 +1348,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootdharma}
 }
+
+\newcommand{\dharmaan}{
+  dharmaan = {\dn dharmaan}\\
+  &&&= \dharmapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootdharma}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\duHkham}{(act of) distress; in distress}
 \newcommand{\noteduHkham}{\note{\noun, \neuter}\\
