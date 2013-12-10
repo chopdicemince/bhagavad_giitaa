@@ -1389,6 +1389,13 @@
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootduHkha}
 }
+
+\newcommand{\duHkheSu}{
+  du.hkhe.su = {\dn du.hkhe.su}\\
+  &&&= \locativephrase\ \duHkhapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{\nounrootduHkha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\dveSaH}{dislike; detestation}
 \newcommand{\notedveSaH}{\note{\noun, \male}}
