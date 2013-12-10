@@ -1311,6 +1311,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdharma}{\nounroot{\dn dharma}{dharma}}
 \newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
+\newcommand{\dharmapluraltemp}{(acts of) virtue; religions; laws; customs}
 
 \newcommand{\dharmaH}{
   dharma.h = {\dn dharma.h}\\
@@ -1340,9 +1341,13 @@
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmAH}{(\vocativephrase) (acts of) virtue; religion; law}
-\newcommand{\notedharmAH}{\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}}
+\newcommand{\dharmAH}{
+  dharmaa.h = {\dn dharmaa.h}\\
+  &&&(\vocativephrase) \dharmapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootdharma}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\duHkham}{(act of) distress; in distress}
 \newcommand{\noteduHkham}{\note{\noun, \neuter}\\
