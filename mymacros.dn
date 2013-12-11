@@ -1621,8 +1621,12 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyANAm}{\genitivephrase\ \indriyapluraltemp}
-\newcommand{\noteindriyANAm}{\note{\noun, \neuter, \plural, \genitivecase}}
+\newcommand{\indriyANAm}{
+  indriyaa.naam = {\dn indriyaa.naam}\\
+  &&&= \genitivephrase\ \indriyapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootindriya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\jagat}{world; meter with $4 \times 12$ syllables}
 \newcommand{\notejagat}{\note{\noun, \neuter}\\
