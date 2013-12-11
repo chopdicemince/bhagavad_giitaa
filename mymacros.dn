@@ -1519,12 +1519,19 @@
   &&&\note{\nounrootguhya}
 }
 
+\newcommand{\guhyaat}{
+  guhyaat = {\dn guhyaat} = \ablativephrase\ a/the\\
+  &&&\guhyatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{\nounrootguhya}
+}
+
 \newcommand{\guhyaanaam}{
   guhyaanaam = {\dn guhyaanaam}\\
   &&&= \genitivephrase\ \guhyapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootguhya}
-} 
+}
 % ------------------------------------------------------------------------------
 \newcommand{\icchaa}{wish; desire}
 \newcommand{\noteicchaa}{\note{\noun, \female}}
