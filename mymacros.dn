@@ -1507,9 +1507,17 @@
   &&&\note{\nounrootguNa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\guhyam}{mystery; secret; privacy; genitals; anus}
-\newcommand{\noteguhyam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootguhya}{\nounroot{\dn guhya}{guhya}}
+\newcommand{\guhyatemp}{mystery; secret; privacy; genitals; anus}
+
+\newcommand{\guhyam}{
+  guhyam = {\dn guhyam}\\
+  &&&= \guhyatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjective}\\
+  &&&\note{\nounrootguhya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\icchaa}{wish; desire}
 \newcommand{\noteicchaa}{\note{\noun, \female}}
