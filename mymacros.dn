@@ -1613,6 +1613,14 @@
   &&&\note{\nounrootindriya}
 }
 
+\newcommand{\indriyebhyaH}{
+  indriyebhya.h = {\dn indriyebhya.h} = \dativephrase/\ablativephrase\\
+  &&&\indriyapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\nounrootindriya}
+}
+
 \newcommand{\indriyANAm}{\genitivephrase\ \indriyapluraltemp}
 \newcommand{\noteindriyANAm}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
