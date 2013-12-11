@@ -1585,9 +1585,16 @@
   &&&\note{\verbrootiS}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\indriyam}{sense; power; part of the body}
-\newcommand{\noteindriyam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootindriya}{\nounroot{\dn indriya}{indriya}}
+\newcommand{\indriyatemp}{sense; power; part of the body}
+
+\newcommand{\indriyam}{
+  indriyam = {\dn indriyam}\\
+  &&&= \indriyatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootindriya}
+}
 
 \newcommand{\indriyANi}{senses; powers; parts of the body}
 \newcommand{\noteindriyANi}{\note{\noun, \neuter, \plural}\\
