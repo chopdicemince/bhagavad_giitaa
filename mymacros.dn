@@ -1548,6 +1548,13 @@
   &&&\note{\verbrootiS}
 }
 
+\newcommand{\icchasi}{
+  icchasi = {\dn icchasi}\\
+  &&&= \you\ desire; want; wish\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{\verbrootiS}
+}
+
 \newcommand{\icchati}{
   icchati = {\dn icchati}\\
   &&&= \hesheit\ desire; want; wish\\
