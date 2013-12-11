@@ -1587,6 +1587,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootindriya}{\nounroot{\dn indriya}{indriya}}
 \newcommand{\indriyatemp}{sense; power; part of the body}
+\newcommand{\indriyapluraltemp}{senses; powers; parts of the body}
 
 \newcommand{\indriyam}{
   indriyam = {\dn indriyam}\\
@@ -1596,14 +1597,19 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyANi}{senses; powers; parts of the body}
-\newcommand{\noteindriyANi}{\note{\noun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\indriyANi}{
+  indriyaa.ni = {\dn indriyaa.ni}\\
+  &&&= (\vocativephrase) \indriyapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootindriya}
+}
 
-\newcommand{\indriyaiH}{\instrumentalphrase\ \indriyANi}
+\newcommand{\indriyaiH}{\instrumentalphrase\ \indriyapluraltemp}
 \newcommand{\noteindriyaiH}{\note{\noun, \neuter, \plural, \instrumentalcase}}
 
-\newcommand{\indriyANAm}{\genitivephrase\ \indriyANi}
+\newcommand{\indriyANAm}{\genitivephrase\ \indriyapluraltemp}
 \newcommand{\noteindriyANAm}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\jagat}{world; meter with $4 \times 12$ syllables}
