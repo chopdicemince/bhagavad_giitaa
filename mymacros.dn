@@ -1575,6 +1575,14 @@
   &&&\note{\verbb, \participle}\\
   &&&\note{\verbrootiS}
 }
+
+\newcommand{\icchantaH}{
+  icchanta.h = {\dn icchanta.h}\\
+  &&&= (\vocativephrase) wanting; wishing; desiring\\
+  &&&\note{\verbb, \participle, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\verbrootiS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\indriyam}{sense; power; part of the body}
 \newcommand{\noteindriyam}{\note{\noun, \neuter}\\
