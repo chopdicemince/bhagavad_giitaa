@@ -1548,6 +1548,13 @@
   &&&\note{\verbrootiS}
 }
 
+\newcommand{\icchati}{
+  icchati = {\dn icchati}\\
+  &&&= \hesheit\ desire; want; wish\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootiS}
+}
+
 \newcommand{\icchan}{
   icchan = {\dn icchan}\\
   &&&= wanting; wishing; desiring\\
