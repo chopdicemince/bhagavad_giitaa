@@ -1533,8 +1533,11 @@
   &&&\note{\nounrootguhya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\icchaa}{wish; desire}
-\newcommand{\noteicchaa}{\note{\noun, \female}}
+\newcommand{\icchaa}{
+  icchaa = {\dn iccha} = desire; want; wish\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounroot{\dn ichaa}{icchaa}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\icchaami}{(I) desire; want; wish}
 \newcommand{\noteicchaami}{\note{\verbb, \presenttense, \firstperson, \singular}}
