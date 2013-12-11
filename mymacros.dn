@@ -833,6 +833,13 @@
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\anvicchatu}{
+  anvicchatu = {\dn anvicchatu}\\
+  &&&= \hesheit\ desires; wants; wishes; seeks\\
+  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
+  &&&\note{\verbroot{\dn anvi.s}{anvi.s}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootanya}{\adjectiveroot{\dn anya}{anya}}
 \newcommand{\anyatemp}{another; other; different; strange}
 
