@@ -1509,6 +1509,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootguhya}{\nounroot{\dn guhya}{guhya}}
 \newcommand{\guhyatemp}{mystery; secret; privacy; genitals; anus}
+\newcommand{\guhyapluraltemp}{mysteries; secrets; privacy; genitals; anuses}
 
 \newcommand{\guhyam}{
   guhyam = {\dn guhyam}\\
@@ -1518,6 +1519,13 @@
   &&&\note{\adjective}\\
   &&&\note{\nounrootguhya}
 }
+
+\newcommand{\guhyaanaam}{
+  guhyaanaam = {\dn guhyaanaam}\\
+  &&&= \genitivephrase\ \guhyapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootguhya}
+} 
 % ------------------------------------------------------------------------------
 \newcommand{\icchaa}{wish; desire}
 \newcommand{\noteicchaa}{\note{\noun, \female}}
