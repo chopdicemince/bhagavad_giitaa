@@ -1606,8 +1606,12 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyaiH}{\instrumentalphrase\ \indriyapluraltemp}
-\newcommand{\noteindriyaiH}{\note{\noun, \neuter, \plural, \instrumentalcase}}
+\newcommand{\indriyaiH}{
+  indriyai.h = {\dn indriyai.h}\\
+  &&&= \instrumentalphrase\ \indriyapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootindriya}
+}
 
 \newcommand{\indriyANAm}{\genitivephrase\ \indriyapluraltemp}
 \newcommand{\noteindriyANAm}{\note{\noun, \neuter, \plural, \genitivecase}}
