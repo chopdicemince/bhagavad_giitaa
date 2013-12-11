@@ -36,6 +36,7 @@
 \newcommand{\demonstrative}{demonstrative}
 \newcommand{\proper}{proper}
 \newcommand{\allgenders}{all genders}
+\newcommand{\I}{(I)}
 \newcommand{\you}{(you)}
 \newcommand{\hesheit}{(he/she/it)}
 \newcommand{\they}{(they)}
@@ -1541,8 +1542,11 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootiS}{\verbroot{\dn i.s}{i.s}}
 
-\newcommand{\icchaami}{(I) desire; want; wish}
-\newcommand{\noteicchaami}{\note{\verbb, \presenttense, \firstperson, \singular}}
+\newcommand{\icchaami}{
+  icchaami = {\dn icchaami} = \I\ desire; want; wish\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootiS}
+}
 
 \newcommand{\icchan}{
   icchan = {\dn icchan}\\

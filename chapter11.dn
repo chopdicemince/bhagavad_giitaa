@@ -214,11 +214,7 @@ O ultimate-man (O \textkrsna).\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
-  &&chaa|mi&icchaami\\
-  &&&= {\dn icchaami}\\
-  &&&= \icchaami\\
-  &&&\noteicchaami\\
-  &&&\note{root: {\dn i.s} = i.s}\\
+  &&chaa|mi&\icchaami\\
   &&&\\
   &{\dn te}&te&\te\\
   &&&\\
@@ -3002,11 +2998,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn vij~naa} = vij\~{}naa}\\
   &&&\\
-  &&chaa|mi&icchaami\\
-  &&&= {\dn icchaami}\\
-  &&&= \icchaami\\
-  &&&\noteicchaami\\
-  &&&\note{root: {\dn i.s} = i.s}\\
+  &&chaa|mi&\icchaami\\
   &&&\\
   &{\dn bhavantamaadya.m}&bha|van|ta|maa|&bhavantam\\
   &&&= {\dn bhavantam}\\
@@ -4650,8 +4642,6 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1b&{\dn icchaami}&ic|chaa|mi&\icchaami\\
-  &&&\noteicchaami\\
-  &&&\note{root: {\dn i.s} = i.s}\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
   &&&\\
