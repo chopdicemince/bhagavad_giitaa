@@ -2600,10 +2600,9 @@ if from force, commanded?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn anicchannapi}&a|nic|chan|&{\dn anicchan}\\
-  &&&= (?) not + desire\\
-  &&&\note{similar: \prefix, {\dn a} = a = not}\\
-  &&&\note{similar: \noun, \female, {\dn icchaa} = icchaa}\\
+  2a&{\dn anicchannapi}&a|nic|&\an\\
+  &&&\\
+  &&chan|&\icchan\\
   &&&\\
   &&na|pi&\api\\
   &&&\\

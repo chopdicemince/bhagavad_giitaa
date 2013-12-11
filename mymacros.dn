@@ -1539,8 +1539,17 @@
   &&&\note{\nounroot{\dn ichaa}{icchaa}}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootiS}{\verbroot{\dn i.s}{i.s}}
+
 \newcommand{\icchaami}{(I) desire; want; wish}
 \newcommand{\noteicchaami}{\note{\verbb, \presenttense, \firstperson, \singular}}
+
+\newcommand{\icchan}{
+  icchan = {\dn icchan}\\
+  &&&= wanting; wishing; desiring\\
+  &&&\note{\verbb, \participle}\\
+  &&&\note{\verbrootiS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\indriyam}{sense; power; part of the body}
 \newcommand{\noteindriyam}{\note{\noun, \neuter}\\
