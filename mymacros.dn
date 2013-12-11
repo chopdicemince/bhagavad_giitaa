@@ -1571,8 +1571,9 @@
 
 \newcommand{\icchan}{
   icchan = {\dn icchan}\\
-  &&&= wanting; wishing; desiring\\
-  &&&\note{\verbb, \participle}\\
+  &&&= (\vocativephrase) wanting; wishing; desiring\\
+  &&&\note{\verbb, \participle, \male}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\verbrootiS}
 }
 
