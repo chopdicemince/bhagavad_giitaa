@@ -1730,7 +1730,7 @@
   &&&\note{\nounrootkaama}
 }
 
-\newcommand{\kaamaan}{
+\newcommand{\kaamaan}{%
   kaamaan = {\dn kaamaan} = \kaamapluraltemp\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootkaama}
