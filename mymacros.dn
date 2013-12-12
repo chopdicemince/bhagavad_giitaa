@@ -1653,6 +1653,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjJAna}{\nounroot{\dn j~naana}{j\~{}naana}}
 \newcommand{\jJAnatemp}{knowledge}
+\newcommand{\jJAnapluraltemp}{(things of) knowledge}
 
 \newcommand{\jJAnam}{
   j\~{}naanam = {\dn j~naanam} = \jJAnatemp\\
@@ -1676,6 +1677,13 @@
 \newcommand{\jJAne}{
   j\~{}naane = {\dn j~naane} = \locativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootjJAna}
+}
+
+\newcommand{\jJAnAnAm}{
+  j\~{}naanaanaam = {\dn j~naanaanaam}\\
+  &&&= \genitivephrase\ \jJAnapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootjJAna}
 }
 % ------------------------------------------------------------------------------
