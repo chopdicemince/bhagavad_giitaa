@@ -106,102 +106,102 @@
 % ------------------------------------------------------------------------------
 % Indeclinables.
 
-\newcommand{\api}{
+\newcommand{\api}{%
   api = {\dn api} = also\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\ataH}{
+\newcommand{\ataH}{%
   ata.h = {\dn ata.h} = from here; therefore\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\atha}{
+\newcommand{\atha}{%
   atha = {\dn atha} = then\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\atra}{
+\newcommand{\atra}{%
   atra = {\dn atra} = here\\
   &&&\note{\adverb, \noun, \indeclinable}
 }
 
-\newcommand{\ca}{
+\newcommand{\ca}{%
   ca = {\dn ca} = and\\
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\cet}{
+\newcommand{\cet}{%
   cet = {\dn cet} = if\\
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\eva}{
+\newcommand{\eva}{%
   eva = {\dn eva} = really; thus\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\evam}{
+\newcommand{\evam}{%
   evam = {\dn evam} = really; thus\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\hi}{
+\newcommand{\hi}{%
   hi = {\dn hi} = surely\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iha}{
+\newcommand{\iha}{%
   iha = {\dn iha} = in this world; here; now\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iti}{
+\newcommand{\iti}{%
   iti = {\dn iti} = thus; ``end of quote''\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\iva}{
+\newcommand{\iva}{%
   iva = {\dn iva} = seemingly; like; as if\\
   &&&\note{\adverb, \preposition, \conjunction, \indeclinable}
 }
 
-\newcommand{\kiJcit}{
+\newcommand{\kiJcit}{%
   ki\~{}ncit = {\dn ki~ncit} = any; little\\
   &&&\note{\adjective, \neuter, \adverb, \indeclinable}
 }
 
-\newcommand{\na}{
+\newcommand{\na}{%
   na = {\dn na} = not\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\yathaa}{
+\newcommand{\yathaa}{%
   yathaa = {\dn yathaa} = just as; properly\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\tathaa}{
+\newcommand{\tathaa}{%
   tathaa = {\dn tathaa} = thus; likewise\\
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\tatra}{
+\newcommand{\tatra}{%
   tatra = {\dn tatra} = there\\
   &&&\note{\adverb, \pronoun, \noun, \indeclinable}
 }
 
-\newcommand{\tu}{
+\newcommand{\tu}{%
   tu = {\dn tu} = but\\
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\yadi}{
+\newcommand{\yadi}{%
   yadi = {\dn yadi} = if\\
   &&&\note{\conjunction, \indeclinable}
 }
 
-\newcommand{\tataH}{
+\newcommand{\tataH}{%
   tata.h = {\dn tata.h} = from that; therefore\\
   &&&\note{\adverb, \indeclinable}
 }
@@ -215,19 +215,19 @@
 % Note: LaTeX already has a command called ``\aa''.
 
 %\newcommand{\a}{not}
-\newcommand{\aprefix}{
+\newcommand{\aprefix}{%
   a = {\dn a} = not\\
   &&&\note{\prefix, \adverb, \indeclinable}
 }
 
-\newcommand{\an}{
+\newcommand{\an}{%
   an = {\dn an} = not\\
   &&&\note{\prefix, \adverb, \indeclinable}
 }
 % ------------------------------------------------------------------------------
 % Names for K.r.s.na.
 
-\newcommand{\kezava}{
+\newcommand{\kezava}{%
   ke"sava = {\dn ke"sava}\\
   &&&= \vocativephrase\ hair-full (long-haired) man\\
   &&&= \vocativephrase\ \textkrsna\\
@@ -241,19 +241,19 @@
   &&&\note{\suffix}\\
 }
 
-\newcommand{\kRSNa}{
+\newcommand{\kRSNa}{%
   k.r.s.na = {\dn k.r.s.na} = \vocativephrase\ \textkrsna\\
   &&&\note{\noun, \proper, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn k.r.s.na}{k.r.s.na}}
 }
 
-\newcommand{\janaH}{
+\newcommand{\janaH}{%
   jana.h = {\dn jana.h} = born thing; living thing; man\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroot{\dn jana}{jana}}
 }
 
-\newcommand{\ardana}{
+\newcommand{\ardana}{%
   ardana\\
   &&&= {\dn ardana}\\
   &&&= \vocativephrase\ disturbance; distress; excitement\\
@@ -263,19 +263,19 @@
 
 \newcommand{\nounroothRSIkeza}{\nounroot{\dn h.r.siike"sa}{h.r.siike"sa}}
 
-\newcommand{\hRSIkezaH}{
+\newcommand{\hRSIkezaH}{%
   h.r.siike"sa.h = {\dn h.r.siike"sa.h} = \textkrsna\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroothRSIkeza}
 }
 
-\newcommand{\hRSIkezam}{
+\newcommand{\hRSIkezam}{%
   h.r.siike"sam = {\dn h.r.siike"sam} = \textkrsna\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounroothRSIkeza}
 }
 
-\newcommand{\hRSIkeza}{
+\newcommand{\hRSIkeza}{%
   h.r.siike"sa = {\dn h.r.siike"sa} = \vocativephrase\ \textkrsna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroothRSIkeza}
@@ -284,54 +284,54 @@
 % Names for Arjuna.
 \newcommand{\nounrootarjuna}{\nounroot{\dn arjuna}{arjuna}}
 
-\newcommand{\arjunaH}{
+\newcommand{\arjunaH}{%
   arjuna.h = {\dn arjuna.h} = Arjuna\\
   &&&\note{\noun, \proper, \male, \nominativecase}\\
   &&&\note{\nounrootarjuna}
 }
 
-\newcommand{\arjuna}{
+\newcommand{\arjuna}{%
   arjuna = {\dn arjuna} = \vocativephrase\ Arjuna\\
   &&&\note{\noun, \proper, \male, \vocativecase}\\
   &&&\note{\nounrootarjuna}
 }
 
 % Note: ``Bhaarata'' can mean Arjuna or King Dh.rtaraa.s.tra.
-\newcommand{\bhaarata}{
+\newcommand{\bhaarata}{%
   bhaarata = {\dn bhaarata}\\
   &&&= \vocativephrase\ son/descendant of Bharata\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn bhaarata}{bhaarata}}
 }
 
-\newcommand{\kaunteya}{
+\newcommand{\kaunteya}{%
   kaunteya = {\dn kaunteya} = \vocativephrase\ son of Kuntii\\
   &&&= \vocativephrase\ Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn kaunteya}{kaunteya}}
 }
 
-\newcommand{\paartha}{
+\newcommand{\paartha}{%
   paartha = {\dn paartha} = \vocativephrase\ son of P.rthaa\\
   &&&= \vocativephrase\ Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn paartha}{paartha}}
 }
 
-\newcommand{\dhanam}{
+\newcommand{\dhanam}{%
   dhanam = {\dn dhanam} = money\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounroot{\dn dhana}{dhana}}
 }
 
-\newcommand{\jayaH}{
+\newcommand{\jayaH}{%
   jaya.h = {\dn jaya.h} = victory\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroot{\dn jaya}{jaya}}
 }
 
-\newcommand{\jaya}{
+\newcommand{\jaya}{%
   jaya = {\dn jaya} = \vocativephrase\ victory\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn jaya}{jaya}}
@@ -339,34 +339,34 @@
 
 \newcommand{\nounrootpANDava}{\nounroot{\dn paa.n.dava}{paa.n.dava}}
 
-\newcommand{\pANDava}{
+\newcommand{\pANDava}{%
   paa.n.dava = {\dn paa.n.dava} = \vocativephrase\ son of Paa.n.du\\
   &&&= \vocativephrase\ Arjuna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounrootpANDava}
 }
 
-\newcommand{\pANDavaH}{
+\newcommand{\pANDavaH}{%
   paa.n.dava.h = {\dn paa.n.dava.h} = Paa.n.dava\\
   &&&= son of Paa.n.du\\
   &&&\note{\noun, \proper, \male, \nominativecase}\\
   &&&\note{\nounrootpANDava}
 }
 
-\newcommand{\mahaan}{
+\newcommand{\mahaan}{%
   mahaan = {\dn mahaan} = mighty; great; big\\
   &&&\note{\adjective, \male}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiveroot{\dn mahat}{mahat}}
 }
 
-\newcommand{\baaho}{
+\newcommand{\baaho}{%
   baaho = {\dn baaho} = \vocativephrase\ arm; forearm\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn baahu}{baahu}}
 }
 
-\newcommand{\parantapa}{
+\newcommand{\parantapa}{%
   parantapa = {\dn parantapa}\\
   &&&= \vocativephrase\ enemy-fire\\
   &&&= \vocativephrase\ Arjuna\\
@@ -374,7 +374,7 @@
   &&&\note{\nounroot{\dn parantapa}{parantapa}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\saJjayaH}{
+\newcommand{\saJjayaH}{%
   sa\~{}njaya.h = {\dn sa~njaya.h} = \textsanjaya\\
   &&&\note{\noun, \proper, \male, \nominativecase}\\
   &&&\note{\nounroot{\dn sa~njaya}{sa\~{}njaya}}
@@ -383,21 +383,21 @@
 % Third-person male pronouns.
 \newcommand{\nounroottad}{\nounroot{\dn tad}{tad}}
 
-\newcommand{\saH}{
+\newcommand{\saH}{%
   sa.h = {\dn sa.h} = that/he\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \nominativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\eSaH}{
+\newcommand{\eSaH}{%
   e.sa.h = {\dn e.sa.h} = this/he\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \nominativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\tasmaat}{
+\newcommand{\tasmaat}{%
   tasmaat = {\dn tasmaat} = from that/him; therefore\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \ablativecase, \adverb, \indeclinable}\\
@@ -406,7 +406,7 @@
 
 \newcommand{\nounrootyuSmad}{\nounroot{\dn yu.smad}{yu.smad}}
 
-\newcommand{\te}{
+\newcommand{\te}{%
   te = {\dn te} = those/they (two); \dativephrase\ you; \genitivephrase\ you (your)\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \plural, \nominativecase}\\
@@ -418,63 +418,63 @@
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\tasya}{
+\newcommand{\tasya}{%
   tasya = {\dn tasya} = of that/him/it; his; its\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \genitivecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\taan}{
+\newcommand{\taan}{%
   taan = {\dn taan} = those/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \plural, \accusativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\teSAm}{
+\newcommand{\teSAm}{%
   te.saam = {\dn te.saam} = \genitivephrase\ them; their\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaan}{
+\newcommand{\etaan}{%
   etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \plural, \accusativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaiH}{
+\newcommand{\etaiH}{%
   etai.h = {\dn etai.h} = \instrumentalphrase\ these/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounroottad}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\tat}{
+\newcommand{\tat}{%
   tat = {\dn tat} = that/it\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\taani}{
+\newcommand{\taani}{%
   taani = {\dn taani} = those/they/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\neuter, \plural, \nominativecase, \accusativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etat}{
+\newcommand{\etat}{%
   etat = {\dn etat} = this/it\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounroottad}
 }
 
-\newcommand{\etaani}{
+\newcommand{\etaani}{%
   etaani = {\dn etaani} = these/they\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\neuter, \plural, \nominativecase, \accusativecase}\\
@@ -483,14 +483,14 @@
 % ------------------------------------------------------------------------------
 % Second-person pronouns.
 
-\newcommand{\tvam}{
+\newcommand{\tvam}{%
   tvam = {\dn tvam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\nominativecase}\\
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\tvaam}{
+\newcommand{\tvaam}{%
   tvaam = {\dn tvaam} = you\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\accusativecase}\\
@@ -500,14 +500,14 @@
 \newcommand{\tvayaa}{\instrumentalphrase\ you}
 \newcommand{\notetvayaa}{\note{\pronoun, \secondperson, \singular, \instrumentalcase}}
 
-\newcommand{\tava}{
+\newcommand{\tava}{%
   tava = {\dn tava} = of you (your)\\
   &&&\note{\pronoun, \secondperson, \singular}\\
   &&&\note{\genitivecase}\\
   &&&\note{\nounrootyuSmad}
 }
 
-\newcommand{\vaH}{
+\newcommand{\vaH}{%
   va.h = {\dn va.h} = you; \dativephrase\ you; \genitivephrase\ you (your)\\
   &&&\note{\pronoun, \secondperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivecase}\\
@@ -517,81 +517,81 @@
 % First-person pronouns.
 \newcommand{\nounrootasmad}{\nounroot{\dn asmad}{asmad}}
 
-\newcommand{\aham}{
+\newcommand{\aham}{%
   aham = {\dn aham} = I\\
   &&&\note{\pronoun, \firstperson, \nominativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\maam}{
+\newcommand{\maam}{%
   maam = {\dn maam} = me\\
   &&&\note{\pronoun, \firstperson, \accusativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\me}{
+\newcommand{\me}{%
   me = {\dn me} = \dativephrase\ me; \genitivephrase\ me (my)\\
   &&&\note{\pronoun, \firstperson, \dativecase, \genitivecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\mayaa}{
+\newcommand{\mayaa}{%
   mayaa = {\dn mayaa} = \instrumentalphrase\ me\\
   &&&\note{\pronoun, \firstperson, \instrumentalcase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\mat}{
+\newcommand{\mat}{%
   mat = {\dn mat} = \ablativephrase\ me\\
   &&&\note{\pronoun, \firstperson, \ablativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\mama}{
+\newcommand{\mama}{%
   mama = {\dn mama} = \genitivephrase\ me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\mayi}{
+\newcommand{\mayi}{%
   mayi = {\dn mayi} = \locativephrase\ me\\
   &&&\note{\pronoun, \firstperson, \locativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\AvayoH}{
+\newcommand{\AvayoH}{%
   aavayo.h = {\dn aavayo.h} = \genitivephrase/\locativephrase\ us two\\
   &&&\note{\pronoun, \firstperson, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\vayam}{
+\newcommand{\vayam}{%
   vayam = {\dn vayam} = we\\
   &&&\note{\pronoun, \firstperson, \plural, \nominativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\asmaan}{
+\newcommand{\asmaan}{%
   asmaan = {\dn asmaan} = us\\
   &&&\note{\pronoun, \firstperson, \plural, \accusativecase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\naH}{
+\newcommand{\naH}{%
   na.h = {\dn na.h} = us; \dativephrase\ us; \genitivephrase us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
   &&&\note{\accusativecase, \dativecase, \genitivephrase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\asmAbhiH}{
+\newcommand{\asmAbhiH}{%
   asmaabhi.h = {\dn asmaabhi.h} = \instrumentalphrase\ us\\
   &&&\note{\pronoun, \firstperson, \plural, \instrumentalcase}\\
   &&&\note{\nounrootasmad}
 }
 
-\newcommand{\asmaakam}{
+\newcommand{\asmaakam}{%
   asmaakam = {\dn asmaakam} = \genitivephrase\ us (our)\\
   &&&\note{\pronoun, \firstperson, \plural, \genitivecase}\\
   &&&\note{\nounrootasmad}
@@ -601,7 +601,7 @@
 \newcommand{\nounrootkim}{\nounroot{\dn kim}{kim}}
 \newcommand{\nounrootkauna}{\nounroot{\dn kauna}{kauna}}
 
-\newcommand{\kaH}{
+\newcommand{\kaH}{%
   ka.h = {\dn ka.h} = what/who\\
   &&&\note{\pronoun, \interrogative, \male}\\
   &&&\note{\nominativecase}\\
@@ -609,7 +609,7 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kaiH}{
+\newcommand{\kaiH}{%
   kai.h = {\dn kai.h} = \instrumentalphrase\ what/whom\\
   &&&\note{\pronoun, \interrogative, \male, \neuter}\\
   &&&\note{\plural, \instrumentalcase}\\
@@ -617,7 +617,7 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\keSu}{
+\newcommand{\keSu}{%
   ke.su = {\dn ke.su} = \locativephrase\ what/whom\\
   &&&\note{\pronoun, \interrogative, \male, \neuter}\\
   &&&\note{\plural, \locativecase}\\
@@ -625,7 +625,7 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kaa}{
+\newcommand{\kaa}{%
   kaa = {\dn kaa} = what/who\\
   &&&\note{\pronoun, \interrogative, \female}\\
   &&&\note{\nominativecase}\\
@@ -633,7 +633,7 @@
   &&&\note{\nounrootkauna}
 }
 
-\newcommand{\kim}{
+\newcommand{\kim}{%
   kim = {\dn kim} = what\\
   &&&\note{\pronoun, \interrogative, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -641,7 +641,7 @@
   &&&\note{\nounrootkauna}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\kazcit}{
+\newcommand{\kazcit}{%
   ka"scit = {\dn ka"scit} = any; little\\
   &&&\note{\adjective, \male}\\
 }
@@ -649,7 +649,7 @@
 \newcommand{\nounrootyad}{\nounroot{\dn yad}{yad}}
 \newcommand{\nounrootjo}{\nounroot{\dn jo}{jo}}
 
-\newcommand{\yaH}{
+\newcommand{\yaH}{%
   ya.h = {\dn ya.h} = that which; he who;\\
   &&&whichever; whoever; whatever\\
   &&&\note{\pronoun, \interrogative, \male}\\
@@ -658,7 +658,7 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\yena}{
+\newcommand{\yena}{%
   yena = {\dn yena} = \instrumentalphrase\ that which; he who;\\
   &&&whichever; whoever/whomever; whatever\\
   &&&\note{\pronoun, \interrogative, \male, \neuter}\\
@@ -667,7 +667,7 @@
   &&&\note{\nounrootjo}\\
 }
 
-\newcommand{\yaa}{
+\newcommand{\yaa}{%
   yaa = {\dn yaa} = that which; she who;\\
   &&&whichever; whoever; whatever\\
   &&&\note{\pronoun, \interrogative, \female}\\
@@ -676,7 +676,7 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\yat}{
+\newcommand{\yat}{%
   yat = {\dn yat} = that which;\\
   &&&whichever; whoever; whatever\\
   &&&\note{\pronoun, \interrogative, \neuter}\\
@@ -685,7 +685,7 @@
   &&&\note{\nounrootjo}
 }
 
-\newcommand{\ye}{
+\newcommand{\ye}{%
   ye = {\dn ye} = those which/who; they which/who;\\
   &&&whichever; whoever; whatever\\
   &&&\note{\pronoun, \interrogative}\\
@@ -700,42 +700,42 @@
 
 \newcommand{\nounrootidam}{\nounroot{\dn idam}{idam}}
 
-\newcommand{\ayam}{
+\newcommand{\ayam}{%
   ayam = {\dn ayam} = this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson, \male}\\
   &&&\note{\nominativecase}\\
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\imam}{
+\newcommand{\imam}{%
   imam = {\dn imam} = this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \accusativecase}\\
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\anena}{
+\newcommand{\anena}{%
   anena = {\dn anena} = \instrumentalphrase\ this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\asya}{
+\newcommand{\asya}{%
   asya = {\dn asya} = \genitivephrase\ this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \genitivecase}\\
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\asmin}{
+\newcommand{\asmin}{%
   asmin = {\dn asmin} = \locativephrase\ this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \locativecase}\\
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\ime}{
+\newcommand{\ime}{%
   ime = {\dn ime} = these\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \plural, \nominativecase}\\
@@ -744,14 +744,14 @@
   &&&\note{\nounrootidam}
 }
 
-\newcommand{\imaan}{
+\newcommand{\imaan}{%
   imaan = {\dn imaan} = these\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \plural, \accusativecase}\\
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\idam}{
+\newcommand{\idam}{%
   idam = {\dn idam} = this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
@@ -761,25 +761,25 @@
 \newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
 \newcommand{\aatman}{self; soul}
 
-\newcommand{\aatmaa}{
+\newcommand{\aatmaa}{%
   aatmaa = {\dn aatmaa} = \aatman\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmaanam}{
+\newcommand{\aatmaanam}{%
   aatmaanam = {\dn aatmaanam} = \aatman\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmanaa}{
+\newcommand{\aatmanaa}{%
   aatmanaa = {\dn aatmanaa} = \instrumentalphrase\ a/the \aatman\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\AtmanaH}{
+\newcommand{\AtmanaH}{%
   aatmana.h = {\dn aatmana.h} = \ablativephrase/\genitivephrase\ a/the \aatman;\\
   &&&selves; souls\\
   &&&\note{\noun, \male}\\
@@ -788,13 +788,13 @@
   &&&\note{\nounrootaatman}
 }
 
-\newcommand{\aatmani}{
+\newcommand{\aatmani}{%
   aatmani = {\dn aatmani} = \locativephrase\ a/the \aatman\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{\nounrootaatman}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\adhibhuutam}{
+\newcommand{\adhibhuutam}{%
   adhibhuutam = {\dn adhibhuutam}\\
   &&&= above + being; God; creation\\
   &&&\note{\noun, \neuter}\\
@@ -802,7 +802,7 @@
   &&&\note{\nounroot{\dn adhibhuuta}{adhibhuuta}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\adhigacchati}{
+\newcommand{\adhigacchati}{%
   adhigacchati = {\dn adhigacchati}\\
   &&&= \hesheit\ attains; gets; goes near; learns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -812,28 +812,28 @@
 \newcommand{\nounrootagni}{\nounroot{\dn agni}{agni}}
 \newcommand{\agnitemp}{fire; god of fire; digestive fluid; bile}
 
-\newcommand{\agniH}{
+\newcommand{\agniH}{%
   agni.h = {\dn agni.h}\\
   &&&= \agnitemp\\
   &&&\note{\noun, (\proper,) \male, \nominativecase}\\
   &&&\note{\nounrootagni}
 }
 
-\newcommand{\agnau}{
+\newcommand{\agnau}{%
   agnau = {\dn agnau}\\
   &&&= \locativephrase\ a/the \agnitemp\\
   &&&\note{\noun, (\proper,) \male, \locativecase}\\
   &&&\note{\nounrootagni}
 }
 
-\newcommand{\agniSu}{
+\newcommand{\agniSu}{%
   agni.su = {\dn agni.su} = \locativephrase\ fires; gods of fire;\\
   &&&digestive fluids; bile\\
   &&&\note{\noun, (\proper,) \male, \plural, \locativecase}\\
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\anvicchatu}{
+\newcommand{\anvicchatu}{%
   anvicchatu = {\dn anvicchatu}\\
   &&&= \hesheit\ desires; wants; wishes; seeks\\
   &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
@@ -843,7 +843,7 @@
 \newcommand{\adjectiverootanya}{\adjectiveroot{\dn anya}{anya}}
 \newcommand{\anyatemp}{another; other; different; strange}
 
-\newcommand{\anyaH}{
+\newcommand{\anyaH}{%
   anya.h = {\dn anya.h}\\
   &&&= \anyatemp\\
   &&&\note{\adjective, \noun, \male}\\
@@ -851,7 +851,7 @@
   &&&\note{\adjectiverootanya}
 }
 
-\newcommand{\anyena}{
+\newcommand{\anyena}{%
   anyena = {\dn anyena}\\
   &&&= \instrumentalphrase\ \anyatemp\\
   &&&\note{\adjective, \noun, \male, \neuter}\\
@@ -859,7 +859,7 @@
   &&&\note{\adjectiverootanya}
 }
 
-\newcommand{\anye}{
+\newcommand{\anye}{%
   anye = {\dn anye}\\
   &&&= \locativephrase\ \anyatemp\\
   &&&\note{\adjective, \noun, \male, \neuter}\\
@@ -867,7 +867,7 @@
   &&&\note{\adjectiverootanya}
 }
 
-\newcommand{\anyam}{
+\newcommand{\anyam}{%
   anyam = {\dn anyam}\\
   &&&= \anyatemp\\
   &&&\note{\adjective, \noun}\\
@@ -876,7 +876,7 @@
   &&&\note{\adjectiverootanya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\arhasi}{
+\newcommand{\arhasi}{%
   arhasi = {\dn arhasi} = (you) are able; can\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{\verbroot{\dn arh}{arh}}
@@ -885,21 +885,21 @@
 \newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
 \newcommand{\arthatemp}{purpose; profit; benefit}
 
-\newcommand{\artham}{
+\newcommand{\artham}{%
   artham = {\dn artham} = \arthatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\arthe}{
+\newcommand{\arthe}{%
   arthe = {\dn arthe}\\
   &&&= \locativephrase\ a/the \arthatemp\\
   &&&\note{\noun, \male, \neuter, \locativecase}\\
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\arthebhyaH}{
+\newcommand{\arthebhyaH}{%
   arthebhya.h = {\dn arthebhya.h}\\
   &&&= \dativephrase/\ablativephrase\ a/the \arthatemp\\
   &&&\note{\noun, \male, \neuter}\\
@@ -907,7 +907,7 @@
   &&&\note{\nounrootartha}
 }
 
-\newcommand{\artheSu}{
+\newcommand{\artheSu}{%
   arthe.su = {\dn arthe.su}\\
   &&&= \locativephrase\ purposes; profits; benefits\\
   &&&\note{\noun, \male, \neuter, \plural}\\
@@ -918,20 +918,20 @@
 \newcommand{\nounrootbala}{\nounroot{\dn bala}{bala}}
 \newcommand{\balatemp}{force; strength}
 
-\newcommand{\balam}{
+\newcommand{\balam}{%
   balam = {\dn balam} = \balatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootbala}
 }
 
-\newcommand{\balaat}{
+\newcommand{\balaat}{%
   balaat = {\dn balaat} = \ablativephrase\ \balatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootbala}
 }
 
-\newcommand{\balena}{
+\newcommand{\balena}{%
   balena = {\dn balena} = \instrumentalphrase\ \balatemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootbala}
@@ -940,21 +940,21 @@
 \newcommand{\nounrootbhaava}{\nounroot{\dn bhaava}{bhaava}}
 \newcommand{\bhaavatemp}{being (existence; living thing); behavior; birth}
 
-\newcommand{\bhAvaH}{
+\newcommand{\bhAvaH}{%
   bhaava.h = {\dn bhaava.h}\\
   &&&= \bhaavatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhaavam}{
+\newcommand{\bhaavam}{%
   bhaavam = {\dn bhaavam}\\
   &&&= \bhaavatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhaavena}{
+\newcommand{\bhaavena}{%
   bhaavena = {\dn bhaavena}\\
   &&&= \instrumentalphrase\ a/the\\
   &&&\bhaavatemp\\
@@ -962,14 +962,14 @@
   &&&\note{\nounrootbhaava}
 }
 
-\newcommand{\bhAvAH}{
+\newcommand{\bhAvAH}{%
   bhaavaa.h = {\dn bhaavaa.h}\\
   &&&= beings (existences; living things); behaviors; births\\
   &&&\note{\noun, \male, \plural, \nominativecase}\\
   &&&\note{\nounrootbhaava}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhagavaan}{
+\newcommand{\bhagavaan}{%
   bhagavaan = {\dn bhagavaan} = blessed one; God\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroot{\dn bhagavant}{bhagavant}}
@@ -977,19 +977,19 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootbhakta}{\nounroot{\dn bhakta}{bhakta}}
 
-\newcommand{\bhaktaH}{
+\newcommand{\bhaktaH}{%
   bhakta.h = {\dn bhakta.h} = devotee\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootbhakta}
 }
 
-\newcommand{\bhaktAH}{
+\newcommand{\bhaktAH}{%
   bhaktaa.h = {\dn bhaktaa.h} = devotees\\
   &&&\note{\noun, \male, \plural, \nominativecase}\\
   &&&\note{\nounrootbhakta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhavati}{
+\newcommand{\bhavati}{%
   bhavati = {\dn bhavati} = \hesheit\ is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbroot{\dn bhuu}{bhuu}}
@@ -998,33 +998,33 @@
 \newcommand{\nounrootbhoga}{\nounroot{\dn bhoga}{bhoga}}
 \newcommand{\bhogapluraltemp}{(acts of) enjoyment; eating}
 
-\newcommand{\bhogaH}{
+\newcommand{\bhogaH}{%
   bhoga.h = {\dn bhoga.h} = (act of) enjoyment; eating\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogAH}{
+\newcommand{\bhogAH}{%
   bhogaa.h = {\dn bhogaa.h} = (\vocativephrase) \bhogapluraltemp\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogaan}{
+\newcommand{\bhogaan}{%
   bhogaan = {\dn bhogaan} = \bhogapluraltemp\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogaiH}{
+\newcommand{\bhogaiH}{%
   bhogai.h = {\dn bhogai.h}\\
   &&&= \instrumentalphrase\ \bhogapluraltemp\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootbhoga}
 }
 
-\newcommand{\bhogeSu}{
+\newcommand{\bhogeSu}{%
   bhoge.su = {\dn bhoge.su}\\
   &&&= \locativephrase\ \bhogapluraltemp\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -1034,14 +1034,14 @@
 \newcommand{\nounrootbhuuta}{\nounroot{\dn bhuuta}{bhuuta}}
 \newcommand{\bhuutapluraltemp}{beings (living things); spirits; ghosts}
 
-\newcommand{\bhuutam}{
+\newcommand{\bhuutam}{%
   bhuutam = {\dn bhuutam} = being (living thing)\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootbhuuta}
 }
 
-\newcommand{\bhuutaani}{
+\newcommand{\bhuutaani}{%
   bhuutaani = {\dn bhuutaani}\\
   &&&= \bhuutapluraltemp\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1049,14 +1049,14 @@
   &&&\note{\nounrootbhuuta}
 }
 
-\newcommand{\bhuutaanaam}{
+\newcommand{\bhuutaanaam}{%
   bhuutaanaam = {\dn bhuutaanaam}\\
   &&&= \genitivephrase\ \bhuutapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootbhuuta}
 }
 
-\newcommand{\bhUteSu}{
+\newcommand{\bhUteSu}{%
   bhuute.su = {\dn bhuute.su}\\
   &&&= \locativephrase\ \bhuutapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
@@ -1066,26 +1066,26 @@
 \newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
 \newcommand{\buddhitemp}{brainpower; intelligence}
 
-\newcommand{\buddhiH}{
+\newcommand{\buddhiH}{%
   buddhi.h = {\dn buddhi.h} = \buddhitemp\\
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhim}{
+\newcommand{\buddhim}{%
   buddhim = {\dn buddhim} = \buddhitemp\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhyaa}{
+\newcommand{\buddhyaa}{%
   buddhyaa = {\dn buddhyaa}\\
   &&&= \instrumentalphrase\ \buddhitemp\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddheH}{
+\newcommand{\buddheH}{%
   buddhe.h = {\dn buddhe.h}\\
   &&&= \ablativephrase/\genitivephrase\ \buddhitemp\\
   &&&\note{\noun, \female}\\
@@ -1093,14 +1093,14 @@
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhau}{
+\newcommand{\buddhau}{%
   buddhau = {\dn buddhau}\\
   &&&= \locativephrase\ \buddhitemp\\
   &&&\note{\noun, \female, \locativecase}\\
   &&&\note{\nounrootbuddhi}
 }
 
-\newcommand{\buddhayaH}{
+\newcommand{\buddhayaH}{%
   buddhaya.h = {\dn buddhaya.h}\\
   &&&= (\vocativephrase) (acts of) \buddhitemp\\
   &&&\note{\noun, \female}\\
@@ -1111,19 +1111,19 @@
 \newcommand{\nounrootbhakti}{\nounroot{\dn bhakti}{bhakti}}
 \newcommand{\bhaktitemp}{devotion; faith}
 
-\newcommand{\bhaktiH}{
+\newcommand{\bhaktiH}{%
   bhakti.h = {\dn bhakti.h} = \bhaktitemp\\
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootbhakti}
 }
 
-\newcommand{\bhaktim}{
+\newcommand{\bhaktim}{%
   bhaktim = {\dn bhaktim} = \bhaktitemp\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{\nounrootbhakti}
 }
 
-\newcommand{\bhaktyaa}{
+\newcommand{\bhaktyaa}{%
   bhaktyaa = {\dn bhaktyaa} = \instrumentalphrase\ \bhaktitemp\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{\nounrootbhakti}
@@ -1132,26 +1132,26 @@
 \newcommand{\nounrootbhaya}{\nounroot{\dn bhaya}{bhaya}}
 \newcommand{\bhayatemp}{fear}
 
-\newcommand{\bhayam}{
+\newcommand{\bhayam}{%
   bhayam = {\dn bhayam} = \bhayatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootbhaya}
 }
 
-\newcommand{\bhayena}{
+\newcommand{\bhayena}{%
   bhayena = {\dn bhayena} = \instrumentalphrase\ \bhayatemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootbhaya}
 }
 
-\newcommand{\bhayaat}{
+\newcommand{\bhayaat}{%
   bhayaat = {\dn bhayaat} = \ablativephrase\ \bhayatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootbhaya}
 }
 
-\newcommand{\bhaye}{
+\newcommand{\bhaye}{%
   bhaye = {\dn bhaye} = \locativephrase\ \bhayatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootbhaya}
@@ -1179,14 +1179,14 @@
 \newcommand{\cetastemp}{mind; thought}
 \newcommand{\cetaspluraltemp}{minds; thoughts}
 
-\newcommand{\cetasaa}{
+\newcommand{\cetasaa}{%
   cetasaa = {\dn cetasaa}\\
   &&&= \instrumentalphrase\ a/the \cetastemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootcetas}
 }
 
-\newcommand{\cetasaH}{
+\newcommand{\cetasaH}{%
   cetasa.h = {\dn cetasa.h}\\
   &&&= \ablativephrase/\genitivephrase\ a/the \cetastemp;\\
   &&&\vocativephrase\ \cetaspluraltemp\\
@@ -1196,7 +1196,7 @@
   &&&\note{\nounrootcetas}
 }
 
-\newcommand{\cetasaam}{
+\newcommand{\cetasaam}{%
   cetasaam = {\dn cetasaam}\\
   &&&= \genitivephrase\ \cetaspluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
@@ -1212,7 +1212,7 @@
 \newcommand{\daanapluraltemp}{donations; distributions; gifts;\\
   &&&(acts of) giving; charity}
 
-\newcommand{\daanam}{
+\newcommand{\daanam}{%
   daanam = {\dn daanam}\\
   &&&= \daanatemp\\
   &&&\note{\noun, \neuter}\\
@@ -1220,28 +1220,28 @@
   &&&\note{\nounrootdaana}
 }
 
-\newcommand{\daanena}{
+\newcommand{\daanena}{%
   daanena = {\dn daanena} = \instrumentalphrase\ a/the\\
   &&&\daanatemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootdaana}
 }
 
-\newcommand{\daane}{
+\newcommand{\daane}{%
   daane = {\dn daane} = \locativephrase\ a/the\\
   &&&\daanatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootdaana}
 }
 
-\newcommand{\dAnaiH}{
+\newcommand{\dAnaiH}{%
   daanai.h = {\dn daanai.h} = \instrumentalphrase\\
   &&&\daanapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootdaana}
 }
 
-\newcommand{\dAneSu}{
+\newcommand{\dAneSu}{%
   daane.su = {\dn daane.su} = \locativephrase\\
   &&&\daanapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
@@ -1252,31 +1252,31 @@
 \newcommand{\dehatemp}{body}
 \newcommand{\dehapluraltemp}{bodies}
 
-\newcommand{\dehaH}{
+\newcommand{\dehaH}{%
   deha.h = {\dn deha.h} = \dehatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootdeha}
 }
 
-\newcommand{\deham}{
+\newcommand{\deham}{%
   deham = {\dn deham} = \dehatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootdeha}
 }
 
-\newcommand{\dehe}{
+\newcommand{\dehe}{%
   dehe = {\dn dehe} = \locativephrase\ a/the \dehatemp\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{\nounrootdeha}
 }
 
-\newcommand{\dehAH}{
+\newcommand{\dehAH}{%
   dehaa.h = {\dn dehaa.h} = \dehapluraltemp\\
   &&&\note{\noun, \male, \plural, \nominativecase}\\
   &&&\note{\nounrootdeha}
 }
 
-\newcommand{\deheSu}{
+\newcommand{\deheSu}{%
   dehe.su = {\dn dehe.su} = \locativephrase\ \dehapluraltemp\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{\nounrootdeha}
@@ -1286,33 +1286,33 @@
 \newcommand{\devatemp}{deity}
 \newcommand{\devapluraltemp}{deities}
 
-\newcommand{\devaH}{
+\newcommand{\devaH}{%
   deva.h = {\dn deva.h} = deity\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devam}{
+\newcommand{\devam}{%
   devam = {\dn devam} = \devatemp; divine\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devAH}{
+\newcommand{\devAH}{%
   devaa.h = {\dn devaa.h} = (\vocativephrase) \devapluraltemp\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devaan}{
+\newcommand{\devaan}{%
   devaan = {\dn devaan} = \devapluraltemp\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootdeva}
 }
 
-\newcommand{\devaanaam}{
+\newcommand{\devaanaam}{%
   devaanaam = {\dn devaanaam} = \genitivephrase\ \devapluraltemp\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootdeva}
@@ -1322,35 +1322,35 @@
 \newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
 \newcommand{\dharmapluraltemp}{(acts of) virtue; religions; laws; customs}
 
-\newcommand{\dharmaH}{
+\newcommand{\dharmaH}{%
   dharma.h = {\dn dharma.h}\\
   &&&= \dharmatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmam}{
+\newcommand{\dharmam}{%
   dharmam = {\dn dharmam}\\
   &&&= \dharmatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmaat}{
+\newcommand{\dharmaat}{%
   dharmaat = {\dn dharmaat} = \ablativephrase\ an/the\\
   &&&\dharmatemp\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmasya}{
+\newcommand{\dharmasya}{%
   dharmasya = {\dn dharmasya} = \genitivephrase\ an/the\\
   &&&\dharmatemp\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmAH}{
+\newcommand{\dharmAH}{%
   dharmaa.h = {\dn dharmaa.h}\\
   &&&(\vocativephrase) \dharmapluraltemp\\
   &&&\note{\noun, \male, \plural}\\
@@ -1358,14 +1358,14 @@
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmaan}{
+\newcommand{\dharmaan}{%
   dharmaan = {\dn dharmaan}\\
   &&&= \dharmapluraltemp\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootdharma}
 }
 
-\newcommand{\dharmANAm}{
+\newcommand{\dharmANAm}{%
   dharmaa.naam = {\dn dharmaa.naam}\\
   &&&= \genitivephrase\ \dharmapluraltemp\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
@@ -1377,7 +1377,7 @@
 \newcommand{\duHkhatemptemp}{(act of) distress}
 \newcommand{\duHkhapluraltemp}{(acts of) distress}
 
-\newcommand{\duHkham}{
+\newcommand{\duHkham}{%
   du.hkham = {\dn du.hkham}\\
   &&&= \duHkhatemp\\
   &&&\note{\noun, \neuter}\\
@@ -1385,28 +1385,28 @@
   &&&\note{\nounrootduHkha}
 }
 
-\newcommand{\duHkhena}{
+\newcommand{\duHkhena}{%
   du.hkhena = {\dn du.hkhena}\\
   &&&= \instrumentalphrase\ an/the \duHkhatemptemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootduHkha}
 }
 
-\newcommand{\duHkhaiH}{
+\newcommand{\duHkhaiH}{%
   du.hkhai.h = {\dn du.hkhai.h}\\
   &&&= \instrumentalphrase\ \duHkhapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootduHkha}
 }
 
-\newcommand{\duHkheSu}{
+\newcommand{\duHkheSu}{%
   du.hkhe.su = {\dn du.hkhe.su}\\
   &&&= \locativephrase\ \duHkhapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{\nounrootduHkha}
 }
 
-\newcommand{\duHkhAnAm}{
+\newcommand{\duHkhAnAm}{%
   du.hkhaanaam = {\dn du.hkhaanaam}\\
   &&&= \genitivephrase\ \duHkhapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
@@ -1417,14 +1417,14 @@
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
 \newcommand{\dveSadualtemp}{(two acts of) dislike; detestation; hatred}
 
-\newcommand{\dveSaH}{
+\newcommand{\dveSaH}{%
   dve.sa.h = {\dn dve.sa.h}\\
   &&&= \dveSatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootdveSa}
 }
 
-\newcommand{\dveSau}{
+\newcommand{\dveSau}{%
   dve.sau = {\dn dve.sau}\\
   &&&= (\vocativephrase) \dveSadualtemp\\
   &&&\note{\noun, \male, \dual, \nominativecase}\\
@@ -1434,51 +1434,50 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootgam}{\verbroot{\dn gam}{gam}}
 
-\newcommand{\gacchati}{
+\newcommand{\gacchati}{%
   gacchati = {\dn gacchati} = \hesheit\ goes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootgam}
 }
 
-\newcommand{\gaccha}{
+\newcommand{\gaccha}{%
   gaccha = {\dn gaccha} = \you\ go\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{\verbrootgam}
 }
 
-\newcommand{\gacchanti}{
+\newcommand{\gacchanti}{%
   gacchanti = {\dn gacchanti} = \they\ go\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootgam}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
-\newcommand{\guNatemp}{
+\newcommand{\guNatemp}{%
   string; mode; attribute; merit;\\
   &&&one of the three attributes in Hinduism:\\
   &&&goodness, ignorance, passion
 }
 
-% Do not start the definition on a second line, to avoid too much
-% space in the pdf output.
-\newcommand{\guNapluraltemp}{strings; modes; attributes; merits;\\
+\newcommand{\guNapluraltemp}{%
+  strings; modes; attributes; merits;\\
   &&&the three attributes in Hinduism:\\
   &&&goodness, ignorance, passion
 }
 
-\newcommand{\guNaH}{
+\newcommand{\guNaH}{%
   gu.na.h = {\dn gu.na.h} = \guNatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNam}{
+\newcommand{\guNam}{%
   gu.nam = {\dn gu.nam} = \guNatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNAH}{
+\newcommand{\guNAH}{%
   gu.naa.h = {\dn gu.naa.h}\\
   &&&= (\vocativephrase) \guNapluraltemp\\
   &&&\note{\noun, \male, \plural}\\
@@ -1486,21 +1485,21 @@
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNAn}{
+\newcommand{\guNAn}{%
   gu.naan = {\dn gu.naan}\\
   &&&= \guNapluraltemp\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNaiH}{
+\newcommand{\guNaiH}{%
   gu.nai.h = {\dn gu.nai.h}\\
   &&&= \instrumentalphrase\ \guNapluraltemp\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNebhyaH}{
+\newcommand{\guNebhyaH}{%
   gu.nebhya.h = {\dn gu.nebhya.h}\\
   &&&= \dativephrase/\ablativephrase\ \guNapluraltemp\\
   &&&\note{\noun, \male, \plural}\\
@@ -1508,7 +1507,7 @@
   &&&\note{\nounrootguNa}
 }
 
-\newcommand{\guNeSu}{
+\newcommand{\guNeSu}{%
   gu.ne.su = {\dn gu.ne.su}\\
   &&&= \locativephrase\ \guNapluraltemp\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -1519,7 +1518,7 @@
 \newcommand{\guhyatemp}{mystery; secret; privacy; genitals; anus}
 \newcommand{\guhyapluraltemp}{mysteries; secrets; privacy; genitals; anuses}
 
-\newcommand{\guhyam}{
+\newcommand{\guhyam}{%
   guhyam = {\dn guhyam}\\
   &&&= \guhyatemp\\
   &&&\note{\noun, \adjective, \neuter}\\
@@ -1527,21 +1526,21 @@
   &&&\note{\nounrootguhya}
 }
 
-\newcommand{\guhyaat}{
+\newcommand{\guhyaat}{%
   guhyaat = {\dn guhyaat} = \ablativephrase\ a/the\\
   &&&\guhyatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootguhya}
 }
 
-\newcommand{\guhyaanaam}{
+\newcommand{\guhyaanaam}{%
   guhyaanaam = {\dn guhyaanaam}\\
   &&&= \genitivephrase\ \guhyapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootguhya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\icchaa}{
+\newcommand{\icchaa}{%
   icchaa = {\dn iccha} = desire; want; wish\\
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounroot{\dn ichaa}{icchaa}}
@@ -1549,27 +1548,27 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootiS}{\verbroot{\dn i.s}{i.s}}
 
-\newcommand{\icchaami}{
+\newcommand{\icchaami}{%
   icchaami = {\dn icchaami} = \I\ desire; want; wish\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{\verbrootiS}
 }
 
-\newcommand{\icchasi}{
+\newcommand{\icchasi}{%
   icchasi = {\dn icchasi}\\
   &&&= \you\ desire; want; wish\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{\verbrootiS}
 }
 
-\newcommand{\icchati}{
+\newcommand{\icchati}{%
   icchati = {\dn icchati}\\
   &&&= \hesheit\ desire; want; wish\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootiS}
 }
 
-\newcommand{\icchan}{
+\newcommand{\icchan}{%
   icchan = {\dn icchan}\\
   &&&= (\vocativephrase) wanting; wishing; desiring\\
   &&&\note{\verbb, \participle, \male}\\
@@ -1577,7 +1576,7 @@
   &&&\note{\verbrootiS}
 }
 
-\newcommand{\icchantaH}{
+\newcommand{\icchantaH}{%
   icchanta.h = {\dn icchanta.h}\\
   &&&= (\vocativephrase) wanting; wishing; desiring\\
   &&&\note{\verbb, \participle, \male, \plural}\\
@@ -1589,7 +1588,7 @@
 \newcommand{\indriyatemp}{sense; power; part of the body}
 \newcommand{\indriyapluraltemp}{senses; powers; parts of the body}
 
-\newcommand{\indriyam}{
+\newcommand{\indriyam}{%
   indriyam = {\dn indriyam}\\
   &&&= \indriyatemp\\
   &&&\note{\noun, \neuter}\\
@@ -1597,7 +1596,7 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyANi}{
+\newcommand{\indriyANi}{%
   indriyaa.ni = {\dn indriyaa.ni}\\
   &&&= (\vocativephrase) \indriyapluraltemp\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1606,14 +1605,14 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyaiH}{
+\newcommand{\indriyaiH}{%
   indriyai.h = {\dn indriyai.h}\\
   &&&= \instrumentalphrase\ \indriyapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyebhyaH}{
+\newcommand{\indriyebhyaH}{%
   indriyebhya.h = {\dn indriyebhya.h} = \dativephrase/\ablativephrase\\
   &&&\indriyapluraltemp\\
   &&&\note{\noun, \neuter, \plural}\\
@@ -1621,7 +1620,7 @@
   &&&\note{\nounrootindriya}
 }
 
-\newcommand{\indriyANAm}{
+\newcommand{\indriyANAm}{%
   indriyaa.naam = {\dn indriyaa.naam}\\
   &&&= \genitivephrase\ \indriyapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
@@ -1631,7 +1630,7 @@
 \newcommand{\nounrootjagat}{\nounroot{\dn jagat}{jagat}}
 \newcommand{\jagattemp}{world; meter with $4 \times 12$ syllables}
 
-\newcommand{\jagat}{
+\newcommand{\jagat}{%
   jagat = {\dn jagat}\\
   &&&= (\vocativephrase) \jagattemp\\
   &&&\note{\noun, \neuter}\\
@@ -1640,7 +1639,7 @@
   &&&\note{\nounrootjagat}
 }
 
-\newcommand{\jagataH}{
+\newcommand{\jagataH}{%
   jagata.h = {\dn jagata.h} = \ablativephrase/\genitivephrase\ a/the\\
   &&&\jagattemp\\
   &&&\note{\noun, \neuter}\\
@@ -1655,7 +1654,7 @@
 \newcommand{\jJAnatemp}{(thing of) knowledge}
 \newcommand{\jJAnapluraltemp}{(things of) knowledge}
 
-\newcommand{\jJAnam}{
+\newcommand{\jJAnam}{%
   j\~{}naanam = {\dn j~naanam}\\
   &&&= \jJAnatemp\\
   &&&\note{\noun, \neuter}\\
@@ -1663,21 +1662,21 @@
   &&&\note{\nounrootjJAna}
 }
 
-\newcommand{\jJAnena}{
+\newcommand{\jJAnena}{%
   j\~{}naanena = {\dn j~naanena}\\
   &&&= \instrumentalphrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootjJAna}
 }
 
-\newcommand{\jJAnAt}{
+\newcommand{\jJAnAt}{%
   j\~{}naanaat = {\dn j~naanaat}\\
   &&&= \ablativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootjJAna}
 }
 
-\newcommand{\jJAne}{
+\newcommand{\jJAne}{%
   j\~{}naane = {\dn j~naane}\\
   &&&= \locativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1693,7 +1692,7 @@
   &&&\note{\nounrootjJAna}
 }
 
-\newcommand{\jJAnAnAm}{
+\newcommand{\jJAnAnAm}{%
   j\~{}naanaanaam = {\dn j~naanaanaam}\\
   &&&= \genitivephrase\ \jJAnapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
