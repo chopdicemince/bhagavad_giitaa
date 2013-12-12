@@ -1709,8 +1709,11 @@
   &&&\note{\nounrootkaama}
 }
 
-\newcommand{\kaamam}{\kaamatemp}
-\newcommand{\notekaamam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\kaamam}{%
+  kaamam = {\dn kaamam} = \kaamatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootkaama}
+}
 
 \newcommand{\kaamaan}{\kaamapluraltemp}
 \newcommand{\notekaamaan}{\note{\noun, \male, \plural, \accusativecase}}
