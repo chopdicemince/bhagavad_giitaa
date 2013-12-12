@@ -1849,8 +1849,7 @@ performance, may join all actions.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&da|&a = {\dn a} = not\\
-  &&&\note{\prefix}\\
+  1b&&da|&\aprefix\\
   &&&\\
   &&j\~{}naa|naa.m&j\~{}naanaam\\
   &&&= {\dn j~naanaam}\\
