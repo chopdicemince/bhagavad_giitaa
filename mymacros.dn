@@ -1684,6 +1684,15 @@
   &&&\note{\nounrootjJAna}
 }
 
+\newcommand{\jJAnAni}{%
+  j\~{}naanaani = {\dn j~naanaani}\\
+  &&&= (\vocativephrase) \jJAnapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootjJAna}
+}
+
 \newcommand{\jJAnAnAm}{
   j\~{}naanaanaam = {\dn j~naanaanaam}\\
   &&&= \genitivephrase\ \jJAnapluraltemp\\
