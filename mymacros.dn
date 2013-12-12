@@ -1640,13 +1640,13 @@
   &&&\note{\nounrootjagat}
 }
 
-\newcommand{\jagataH}{\ablativephrase/\genitivephrase\ a/the \jagattemp;\\
-  &&&(\vocativephrase) worlds; meters with $4 \times 12$ syllables}
-\newcommand{\notejagataH}{\note{\noun, \neuter}\\
+\newcommand{\jagataH}{
+  jagata.h = {\dn jagata.h} = \ablativephrase/\genitivephrase\ a/the\\
+  &&&\jagattemp\\
+  &&&\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\
-  &&&\note{or}\\
-  &&&\note{\plural, \nominativecase, \accusativecase}\\
-  &&&\note{\vocativecase}}
+  &&&\note{\nounrootjagat}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\jJAnI}{man of knowledge}
 \newcommand{\notejJAnI}{\note{\noun, \male}}
