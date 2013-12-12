@@ -1735,6 +1735,14 @@
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootkaama}
 }
+
+\newcommand{\kAmebhyaH}{%
+  kaamebhya.h = {\dn kaamebhya.h}\\
+  &&&= \dativephrase/\ablativephrase\ \kaamapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\nounrootkaama}
+}
 %-------------------------------------------------------------------------------
 \newcommand{\kalpaH}{period of time; medicine; law; similarity}
 \newcommand{\notekalpaH}{\note{\noun, \male}}
