@@ -1715,6 +1715,14 @@
   &&&\note{\nounrootkaama}
 }
 
+\newcommand{\kAmAH}{%
+  kaamaa.h = {\dn kaamaa.h}\\
+  &&&= (\vocativephrase) \kaamapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootkaama}
+}
+
 \newcommand{\kaamaan}{\kaamapluraltemp}
 \newcommand{\notekaamaan}{\note{\noun, \male, \plural, \accusativecase}}
 %-------------------------------------------------------------------------------
