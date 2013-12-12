@@ -1652,30 +1652,34 @@
 \newcommand{\notejJAnI}{\note{\noun, \male}}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjJAna}{\nounroot{\dn j~naana}{j\~{}naana}}
-\newcommand{\jJAnatemp}{knowledge}
+\newcommand{\jJAnatemp}{(thing of) knowledge}
 \newcommand{\jJAnapluraltemp}{(things of) knowledge}
 
 \newcommand{\jJAnam}{
-  j\~{}naanam = {\dn j~naanam} = \jJAnatemp\\
+  j\~{}naanam = {\dn j~naanam}\\
+  &&&= \jJAnatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootjJAna}
 }
 
 \newcommand{\jJAnena}{
-  j\~{}naanena = {\dn j~naanena} = \instrumentalphrase\ \jJAnatemp\\
+  j\~{}naanena = {\dn j~naanena}\\
+  &&&= \instrumentalphrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootjJAna}
 }
 
 \newcommand{\jJAnAt}{
-  j\~{}naanaat = {\dn j~naanaat} = \ablativephrase\ \jJAnatemp\\
+  j\~{}naanaat = {\dn j~naanaat}\\
+  &&&= \ablativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootjJAna}
 }
 
 \newcommand{\jJAne}{
-  j\~{}naane = {\dn j~naane} = \locativephrase\ \jJAnatemp\\
+  j\~{}naane = {\dn j~naane}\\
+  &&&= \locativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootjJAna}
 }
