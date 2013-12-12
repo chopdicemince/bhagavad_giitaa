@@ -1628,11 +1628,19 @@
   &&&\note{\nounrootindriya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\jagat}{world; meter with $4 \times 12$ syllables}
-\newcommand{\notejagat}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootjagat}{\nounroot{\dn jagat}{jagat}}
+\newcommand{\jagattemp}{world; meter with $4 \times 12$ syllables}
 
-\newcommand{\jagataH}{\ablativephrase/\genitivephrase\ a/the \jagat;\\
+\newcommand{\jagat}{
+  jagat = {\dn jagat}\\
+  &&&= (\vocativephrase) \jagattemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootjagat}
+}
+
+\newcommand{\jagataH}{\ablativephrase/\genitivephrase\ a/the \jagattemp;\\
   &&&(\vocativephrase) worlds; meters with $4 \times 12$ syllables}
 \newcommand{\notejagataH}{\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\

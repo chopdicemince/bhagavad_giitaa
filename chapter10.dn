@@ -1150,9 +1150,7 @@ deity of deities), O world-lord.\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn deva.h} = deva.h}\\
   &&&\\
-  &{\dn jagatpate}&ja|gat|&{\dn jagat}\\
-  &&&= \jagat\\
-  &&&\notejagat\\
+  &{\dn jagatpate}&ja|gat|&\jagat\\
   &&&\\
   &&pa|te&{\dn pate}\\
   &&&= O lord\\
@@ -3260,7 +3258,6 @@ world.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn jagat}&ja|gat&\jagat\\
-  &&&\notejagat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
