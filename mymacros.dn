@@ -1666,6 +1666,12 @@
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootjJAna}
 }
+
+\newcommand{\jJAne}{
+  j\~{}naane = {\dn j~naane} = \locativephrase\ \jJAnatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootjJAna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kAmaH}{love; sexual love; desire; sexual desire}
 \newcommand{\notekAmaH}{\note{\noun, \male}}
