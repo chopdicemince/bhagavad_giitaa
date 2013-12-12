@@ -63,11 +63,7 @@ known, O \textkrsna.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
   &&&= {\dn j~neyam}\\
@@ -230,10 +226,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn j~nam} = j\~{}nam}\\
   &&&\\
-  &&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|na.m&\jJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -241,10 +234,7 @@ has) that (has) knowledge, (in) the opinion of me.\\
   &&&\\
   &&taj|&\tat\\
   &&&\\
-  &&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn mata.m}&ma|ta.m&matam\\
   &&&= {\dn matam}\\
@@ -881,10 +871,7 @@ here in another way.\\
   &&&= self\\
   &&&\note{\adjective}\\
   &&&\\
-  &&j\~{}naa|na|&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&ni|tya|tva.m&nityatvam\\
   &&&= {\dn nityatvam}\\
@@ -900,10 +887,7 @@ here in another way.\\
   &&&= \tattvam\\
   &&&\notetattvam\\
   &&&\\
-  &&j\~{}naa|naar|&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|naar|&\jJAnam\\
   &&&\\
   &&tha|&artha.h\\
   &&&= {\dn artha.h}\\
@@ -919,10 +903,7 @@ here in another way.\\
 \begin{tabular}{llll}
   2a&{\dn etajj~naanamiti}&e|taj|&\etat\\
   &&&\\
-  &&j\~{}naa|na|mi|&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|na|mi|&\jJAnam\\
   &&&\\
   &&ti&\iti\\
   &&&\\
@@ -935,10 +916,7 @@ here in another way.\\
   &&&\\
   2b&&ma|&\aprefix\\
   &&&\\
-  &&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn yadato.anyathaa}&ya|da|&\yat\\
   &&&\\
@@ -1411,20 +1389,14 @@ each (being).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  2a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
   &&&= {\dn j~neyam}\\
   &&&= to be known\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn j~naanagamya.m}&j\~{}naa|na|&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &{\dn j~naanagamya.m}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&ga|mya.m&gamyam\\
   &&&= {\dn gamyam}\\
@@ -1463,10 +1435,7 @@ from-be-behavior.\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\\
-  &{\dn j~naana.m}&j\~{}naa|na.m&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2689,10 +2658,7 @@ paramount (place).\\
   &&&= gap; difference\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn j~naanacak.su.saa}&j\~{}naa|na|&j\~{}naanam\\
-  &&&= {\dn j~naanam}\\
-  &&&= \jJAnam\\
-  &&&\notejJAnam\\
+  &{\dn j~naanacak.su.saa}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&ca|k.su|.saa&{\dn cak.su.saa}\\
   &&&= (?) cak.su.su\\

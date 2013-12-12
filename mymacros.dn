@@ -1651,8 +1651,15 @@
 \newcommand{\jJAnI}{man of knowledge}
 \newcommand{\notejJAnI}{\note{\noun, \male}}
 % ------------------------------------------------------------------------------
-\newcommand{\jJAnam}{knowledge}
-\newcommand{\notejJAnam}{\note{\noun, \neuter}}
+\newcommand{\nounrootjJAna}{\nounroot{\dn j~naana}{j\~{}naana}}
+\newcommand{\jJAnatemp}{knowledge}
+
+\newcommand{\jJAnam}{
+  j\~{}naanam = {\dn j~naanam} = \jJAnatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootjJAna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kAmaH}{love; sexual love; desire; sexual desire}
 \newcommand{\notekAmaH}{\note{\noun, \male}}
