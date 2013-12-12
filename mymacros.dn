@@ -1730,8 +1730,11 @@
   &&&\note{\nounrootkaama}
 }
 
-\newcommand{\kaamaan}{\kaamapluraltemp}
-\newcommand{\notekaamaan}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\kaamaan}{
+  kaamaan = {\dn kaamaan} = \kaamapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootkaama}
+}
 %-------------------------------------------------------------------------------
 \newcommand{\kalpaH}{period of time; medicine; law; similarity}
 \newcommand{\notekalpaH}{\note{\noun, \male}}
