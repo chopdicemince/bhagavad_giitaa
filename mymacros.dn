@@ -1660,6 +1660,12 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootjJAna}
 }
+
+\newcommand{\jJAnena}{
+  j\~{}naanena = {\dn j~naanena} = \instrumentalphrase\ \jJAnatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootjJAna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kAmaH}{love; sexual love; desire; sexual desire}
 \newcommand{\notekAmaH}{\note{\noun, \male}}
