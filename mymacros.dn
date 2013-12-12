@@ -1667,6 +1667,12 @@
   &&&\note{\nounrootjJAna}
 }
 
+\newcommand{\jJAnAt}{
+  j\~{}naanaat = {\dn j~naanaat} = \ablativephrase\ \jJAnatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{\nounrootjJAna}
+}
+
 \newcommand{\jJAne}{
   j\~{}naane = {\dn j~naane} = \locativephrase\ \jJAnatemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
