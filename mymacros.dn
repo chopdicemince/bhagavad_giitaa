@@ -1715,6 +1715,13 @@
   &&&\note{\nounrootkaama}
 }
 
+\newcommand{\kaamaat}{%
+  kaamaat = {\dn kaamaat}\\
+  &&&= \ablativephrase\ \kaamatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootkaama}
+}
+
 \newcommand{\kAmAH}{%
   kaamaa.h = {\dn kaamaa.h}\\
   &&&= (\vocativephrase) \kaamapluraltemp\\
