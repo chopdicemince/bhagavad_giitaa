@@ -1791,6 +1791,13 @@
 \newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
 
+\newcommand{\karmabhiH}{%
+  karmabhi.h = {\dn karmabhi.h} = \instrumentalphrase\\
+  &&&\karmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootkarman}
+}
+
 \newcommand{\karmaNAm}{%
   karma.naam = {\dn karma.naam}\\
   &&&= \genitivephrase\ \karmapluraltemp\\
