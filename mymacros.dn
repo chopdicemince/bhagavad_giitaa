@@ -1826,7 +1826,7 @@
   &&&\note{\verbrootkR}
 }
 
-\newcommand{\kRtvA}{
+\newcommand{\kRtvA}{%
   k.rtvaa = {\dn k.rtvaa}\\
   &&&= having acted; worked; done\\
   &&&\note{\verbb, \perfectparticiple}\\
