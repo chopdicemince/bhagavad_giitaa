@@ -676,11 +676,7 @@ indifferent-full, sitting, not-attached in (to) those actions.\\
   &&&\note{\pronoun, \thirdperson, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn tat} = tat}\\
   &&&\\
-  &{\dn karmasu}&kar|ma|su&(?) karme.su\\
-  &&&= {\dn karme.su}\\
-  &&&= at/in/on actions; works; doings\\
-  &&&\note{\noun, \neuter, \plural, \locativecase}\\
-  &&&\note{from {\dn karman} = karman}\\
+  &{\dn karmasu}&kar|ma|su&\karmasu\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

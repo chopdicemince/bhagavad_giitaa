@@ -1797,6 +1797,13 @@
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{\nounrootkarman}
 }
+
+\newcommand{\karmasu}{%
+  karmasu = {\dn karmasu} = \locativephrase\\
+  &&&\karmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{\nounrootkarman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\karoti}{\hesheit\ acts; works; does}
 \newcommand{\notekaroti}{\note{\verbb, \presenttense, \thirdperson, \singular}}
