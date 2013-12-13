@@ -1817,8 +1817,14 @@
   &&&\note{\nounrootkarman}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\karoti}{\hesheit\ acts; works; does}
-\newcommand{\notekaroti}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\nounrootkR}{\nounroot{\dn k.r}{k.r}}
+
+\newcommand{\karoti}{%
+  karoti = {\dn karoti}\\
+  &&&= \hesheit\ acts; works; does\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\nounrootkR}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\krodhaH}{anger; passion}
 \newcommand{\notekrodhaH}{\note{\noun, \male}}
