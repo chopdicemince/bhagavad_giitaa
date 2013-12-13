@@ -507,10 +507,7 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn kalpak.saye}&kal|pa|&kalpa.h\\
-  &&&= {\dn kalpa.h}\\
-  &&&= \kalpaH\\
-  &&&\notekalpaH\\
+  2a&{\dn kalpak.saye}&kal|pa|&\kalpaH\\
   &&&\\
   &&k.sa|ye&{\dn k.saye}\\
   &&&= at/in/on decay; destruction; end\\
@@ -526,10 +523,7 @@ end of the eon. Again, at the beginning of an eon, I release them.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn kalpaadau}&kal|paa|&kalpa.h\\
-  &&&= {\dn kalpa.h}\\
-  &&&= \kalpaH\\
-  &&&\notekalpaH\\
+  2b&{\dn kalpaadau}&kal|paa|&\kalpaH\\
   &&&\\
   &&dau&aadau = {\dn aadau} = in the beginning\\
   &&&\note{\adverb}\\

@@ -1744,8 +1744,12 @@
   &&&\note{\nounrootkaama}
 }
 %-------------------------------------------------------------------------------
-\newcommand{\kalpaH}{period of time; medicine; law; similarity}
-\newcommand{\notekalpaH}{\note{\noun, \male}}
+\newcommand{\kalpaH}{
+  kalpa.h = {\dn kalpa.h}\\
+  &&&= period of time; medicine; law; similarity\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn kalpa.h}{kalpa.h}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\karman}{act; action; work; doing; deed}
 \newcommand{\notekarman}{\note{\noun, \neuter}\\
