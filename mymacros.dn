@@ -1791,8 +1791,12 @@
 \newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
 
-\newcommand{\karmaNAm}{\genitivephrase\ \karmapluraltemp}
-\newcommand{\notekarmaNAm}{\note{\noun, \neuter, \plural, \genitivecase}}
+\newcommand{\karmaNAm}{
+  karma.naam = {\dn karma.naam}\\
+  &&&= \genitivephrase\ \karmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootkarman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\karoti}{\hesheit\ acts; works; does}
 \newcommand{\notekaroti}{\note{\verbb, \presenttense, \thirdperson, \singular}}
