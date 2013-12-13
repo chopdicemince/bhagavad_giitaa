@@ -1240,11 +1240,7 @@ action in something related to non-action. He has knowledge among
 men. He is occupied with all actions done.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karma.nyakarma}&kar|ma|.nya|&karma.ni\\
-  &&&= {\dn karma.ni}\\
-  &&&= \karmaNi\\
-  &&&\notekarmaNi\\
-  &&&\note{from {\dn karman} = karman}\\
+  1a&{\dn karma.nyakarma}&kar|ma|.nya|&\karmaNi\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -1260,11 +1256,7 @@ men. He is occupied with all actions done.\\
   &&&\\
   1b&da|&\aprefix\\
   &&&\\
-  &&kar|ma|.ni&karma.ni\\
-  &&&= {\dn karma.ni}\\
-  &&&= \karmaNi\\
-  &&&\notekarmaNi\\
-  &&&\note{from {\dn karman} = karman}\\
+  &&kar|ma|.ni&\karmaNi\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -1428,11 +1420,7 @@ not do any (thing).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn karma.nyabhiprav.rtto.api}&kar|ma|.nya|&karma.ni\\
-  &&&= {\dn karma.ni}\\
-  &&&= \karmaNi\\
-  &&&\notekarmaNi\\
-  &&&\note{from {\dn karman} = karman}\\
+  2a&{\dn karma.nyabhiprav.rtto.api}&kar|ma|.nya|&\karmaNi\\
   &&&\\
   &&bhi|pra|v.rt|to|&abhiprav.rtta\\
   &&&= {\dn abhiprav.rtta}\\

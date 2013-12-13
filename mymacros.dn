@@ -1779,8 +1779,13 @@
   &&&\note{\nounrootkarman}
 }
 
-\newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
-\newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
+% Is this definition correct?
+\newcommand{\karmaNi}{%
+  karma.ni = {\dn karma.ni} = \locativephrase\ a/the\\
+  &&&\karmatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootkarman}
+}
 
 \newcommand{\karmANi}{%
   karmaa.ni = {\dn karmaa.ni}\\
