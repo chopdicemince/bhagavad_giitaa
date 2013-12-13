@@ -1764,6 +1764,13 @@
   &&&\note{\nounrootkarman}
 }
 
+\newcommand{\karmaNA}{
+  karma.naa = {\dn karma.naa}\\
+  &&&= \instrumentalphrase\ a/the \karmatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootkarman}
+}
+
 \newcommand{\karmANi}{
   karmaa.ni = {\dn karmaa.ni}\\
   &&&= (\vocativephrase) \karmapluraltemp\\
@@ -1772,9 +1779,6 @@
   &&&\note{\vocativecase}\\
   &&&\note{\nounrootkarman}
 }
-
-\newcommand{\karmaNA}{\instrumentalphrase\ a/the \karmatemp}
-\newcommand{\notekarmaNA}{\note{\noun, \neuter, \instrumentalcase}}
 
 \newcommand{\karmaNaH}{\ablativephrase/\genitivephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNaH}{\note{\noun, \neuter}\\
