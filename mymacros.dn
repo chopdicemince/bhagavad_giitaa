@@ -1771,15 +1771,6 @@
   &&&\note{\nounrootkarman}
 }
 
-\newcommand{\karmANi}{%
-  karmaa.ni = {\dn karmaa.ni}\\
-  &&&= (\vocativephrase) \karmapluraltemp\\
-  &&&\note{\noun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{\vocativecase}\\
-  &&&\note{\nounrootkarman}
-}
-
 \newcommand{\karmaNaH}{%
   karma.na.h = {\dn karma.na.h} = \genitivephrase/\locativephrase\\
   &&&a/the \karmatemp\\
@@ -1790,6 +1781,15 @@
 
 \newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
+
+\newcommand{\karmANi}{%
+  karmaa.ni = {\dn karmaa.ni}\\
+  &&&= (\vocativephrase) \karmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootkarman}
+}
 
 \newcommand{\karmabhiH}{%
   karmabhi.h = {\dn karmabhi.h} = \instrumentalphrase\\
