@@ -1753,6 +1753,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkarman}{\nounroot{\dn karman}{karman}}
 \newcommand{\karmatemp}{act; action; work; doing; deed}
+\newcommand{\karmapluraltemp}{acts; actions; works; doings; deeds}
 
 \newcommand{\karma}{
   karma = {\dn karma}\\
@@ -1763,9 +1764,14 @@
   &&&\note{\nounrootkarman}
 }
 
-\newcommand{\karmANi}{acts; actions; works; doings; deeds}
-\newcommand{\notekarmANi}{\note{\noun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\karmANi}{
+  karmaa.ni = {\dn karmaa.ni}\\
+  &&&= (\vocativephrase) \karmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootkarman}
+}
 
 \newcommand{\karmaNA}{\instrumentalphrase\ a/the \karmatemp}
 \newcommand{\notekarmaNA}{\note{\noun, \neuter, \instrumentalcase}}
@@ -1777,7 +1783,7 @@
 \newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
 
-\newcommand{\karmaNAm}{\genitivephrase\ \karmatemp}
+\newcommand{\karmaNAm}{\genitivephrase\ \karmapluraltemp}
 \newcommand{\notekarmaNAm}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\karoti}{\hesheit\ acts; works; does}
