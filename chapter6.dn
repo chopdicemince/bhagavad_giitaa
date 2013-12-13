@@ -26,8 +26,7 @@ not active.\\
   1a&{\dn anaa"srita.h}&a|naa|"sri|ta\h{a}&not dependent; not engaged; not attached\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn karmaphala.m}&kar|ma|&karman = {\dn karman} = \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphala.m}&kar|ma|&\karma\\
   &&&\\
   &&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
@@ -41,10 +40,7 @@ not active.\\
   &&&= needing action; needing work\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn karoti}&ka|ro|ti&\karoti\\
   &&&\notekaroti\\
@@ -195,10 +191,7 @@ peace is viewed as the cause.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  1b&{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn kaara.namucyate}&kaa|ra|.na|mu|&kaara.nam\\
   &&&= {\dn kaara.nam}\\
@@ -279,8 +272,7 @@ having attained yoking.\\
   &&&= {\dn karmasu}\\
   &&&= (?)\\
   &&&\note{similar:}\\
-  &&&\note{{\dn karman} = karman = \karman}\\
-  &&&\notekarman\\
+  &&&\note{{\dn karman} = karman}\\
   &&&\\
   &&nu|.saj|ja|te&anu.sajjate\\
   &&&= {\dn anu.sajjate}\\
@@ -1268,8 +1260,7 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&(?)\\
   &&&\note{similar:}\\
-  &&&\note{{\dn karman} = karman = \karman}\\
-  &&&\notekarman\\
+  &&&\note{{\dn karman} = karman}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

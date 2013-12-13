@@ -595,10 +595,7 @@ goes toward me, O Arjuna.\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -871,10 +868,7 @@ action-born.\\
   &&&\\
   &&bha|va|ti&\bhavati\\
   &&&\\
-  &{\dn karmajaa}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmajaa}&kar|ma|&\karma\\
   &&&\\
   &&jaa&{\dn jaa}\\
   &&&= produced; born\\
@@ -912,10 +906,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   1b&{\dn gu.nakarmavibhaaga"sa.h}&gu|.na|&\guNaH\\
   &&&\\
-  &&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &&kar|ma|&\karma\\
   &&&\\
   &&\multicolumn{2}{l}{vi|bhaa|ga|"sa\h{a}}\\
   &&&\\
@@ -993,10 +984,7 @@ says one who knows me. He does not suffer in action.\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
-  &{\dn karmaphale}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphale}&kar|ma|&\karma\\
   &&&\\
   &&pha|le&{\dn phale}\\
   &&&= at/in/on fruit\\
@@ -1023,10 +1011,7 @@ says one who knows me. He does not suffer in action.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn karmabhirna}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  2b&{\dn karmabhirna}&kar|ma|&\karma\\
   &&&\\
   &&bhir|&bhi.h\\
   &&&= {\dn bhi.h}\\
@@ -1064,10 +1049,7 @@ ancestors.\\
   &&&= done; gotten; prepared\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1094,10 +1076,7 @@ ancestors.\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
-  &{\dn karmaiva}&kar|mai|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaiva}&kar|mai|&\karma\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -1132,19 +1111,13 @@ will be free from non-grace.\\
 \begin{tabular}{llll}
   1a&{\dn ki.m}&ki.m&\kim\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn kimakarmeti}&ki|ma|&\kim\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&kar|me|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &&kar|me|&\karma\\
   &&&\\
   &&ti&\iti\\
   % ----------------------------------------------------------------------------
@@ -1170,10 +1143,7 @@ will be free from non-grace.\\
   &&&\\
   &&te&\te\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn pravak.syaami}&pra|vak|.syaa|mi&(I) will tell; teach; explain\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
@@ -1295,10 +1265,7 @@ men. He is occupied with all actions done.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &&kar|ma&\karma\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\\
@@ -1318,10 +1285,7 @@ men. He is occupied with all actions done.\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
 \end{tabular}
@@ -1350,10 +1314,7 @@ men. He is occupied with all actions done.\\
   &{\dn k.rtsnakarmak.rt}&k.rts|na|&all\\
   &&&\note{\adjective, \noun, \pronoun, \adverb}\\
   &&&\\
-  &&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &&kar|ma|&\karma\\
   &&&\\
   &&k.rt&doing\\
   &&&\note{\adjective}\\
@@ -1411,8 +1372,7 @@ burned by knowledge-fire. Wise men call him a wise man.\\
   &&&= {\dn karmaa.nam}\\
   &&&= (?)\\
   &&&\note{similar:}\\
-  &&&\note{{\dn karman} = karman = \karman}\\
-  &&&\notekarman\\
+  &&&\note{{\dn karman} = karman}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1454,10 +1414,7 @@ not do any (thing).\\
   &&&\noteperfectparticiple\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
-  &{\dn karmaphalaasa"nga.m}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphalaasa"nga.m}&kar|ma|&\karma\\
   &&&\\
   &&pha|laa|&phalam\\
   &&&= {\dn phalam}\\
@@ -1571,10 +1528,7 @@ life). He does not get injustice.\\
   &&&= only\\
   &&&\note{\adjective, \adverb, \indeclinable}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1727,10 +1681,7 @@ action for devotion.\\
   &&&\note{{\dn aacarati} = aacarati = (he/she/it) does}\\
   &&&\note{root: {\dn aacar} = aacar}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1816,10 +1767,7 @@ him, contemplative God-action is accomplished.\\
   &&&= \brahman\\
   &&&\notebrahman\\
   &&&\\
-  &&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \notekarman\\
-  &&&\notekarman\\
+  &&kar|ma&\karma\\
   &&&\\
   &&sa|maa|dhi|naa&{\dn samaadhinaa}\\
   &&&= (?)\\
@@ -2463,10 +2411,7 @@ the action births. Really, having known all those, you will be free.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn karmajaanviddhi}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  2a&{\dn karmajaanviddhi}&kar|ma|&\karma\\
   &&&\\
   &&jaan&{\dn jaan}\\
   &&&= (?)\\
@@ -2552,10 +2497,7 @@ prince (O Arjuna), in knowledge, completes (knowledge).\\
   &&&\notesarvammale\\
   &&&\note{from {\dn sarva.h} = sarva.h}\\
   &&&\\
-  &{\dn karmaakhila.m}&kar|maa|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaakhila.m}&kar|maa|&\karma\\
   &&&\\
   &&khi|la.m&akhilam\\
   &&&= {\dn akhilam}\\

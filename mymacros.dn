@@ -1751,25 +1751,33 @@
   &&&\note{\nounroot{\dn kalpa.h}{kalpa.h}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\karman}{act; action; work; doing; deed}
-\newcommand{\notekarman}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootkarman}{\nounroot{\dn karman}{karman}}
+\newcommand{\karmatemp}{act; action; work; doing; deed}
+
+\newcommand{\karma}{
+  karma = {\dn karma}\\
+  &&&= (\vocativephrase) \karmatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootkarman}
+}
 
 \newcommand{\karmANi}{acts; actions; works; doings; deeds}
 \newcommand{\notekarmANi}{\note{\noun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}}
 
-\newcommand{\karmaNA}{\instrumentalphrase\ a/the \karman}
+\newcommand{\karmaNA}{\instrumentalphrase\ a/the \karmatemp}
 \newcommand{\notekarmaNA}{\note{\noun, \neuter, \instrumentalcase}}
 
-\newcommand{\karmaNaH}{\ablativephrase/\genitivephrase\ a/the \karman}
+\newcommand{\karmaNaH}{\ablativephrase/\genitivephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNaH}{\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}}
 
-\newcommand{\karmaNi}{\locativephrase\ a/the \karman}
+\newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
 
-\newcommand{\karmaNAm}{\genitivephrase\ \karmANi}
+\newcommand{\karmaNAm}{\genitivephrase\ \karmatemp}
 \newcommand{\notekarmaNAm}{\note{\noun, \neuter, \plural, \genitivecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\karoti}{\hesheit\ acts; works; does}

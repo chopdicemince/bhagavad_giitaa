@@ -107,8 +107,7 @@ better.\\
   1a&{\dn sannyaasa.h}&san|nyaa|sa\h{a}&renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn karmayoga"sca}&kar|ma|&karman = {\dn karman} = \karman\\
-  &&&\notekarman\\
+  &{\dn karmayoga"sca}&kar|ma|&\karma\\
   &&&\\
   &&yo|ga"s|&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -146,10 +145,7 @@ better.\\
   &&&\\
   &&tu&\tu\\
   &&&\\
-  &{\dn karmasannyaasaatkarmayogo}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmasannyaasaatkarmayogo}&kar|ma|&\karma\\
   &&&\\
   &&san|nyaa|saat|&{\dn sannyaasaat}\\
   &&&= from renunciation; abandonment; asceticism\\
@@ -158,10 +154,7 @@ better.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  2b&&kar|ma|&\karma\\
   &&&\\
   &&yo|go&yoga.h\\
   &&&= {\dn yoga.h}\\
@@ -829,10 +822,7 @@ using senses, also, followers do action, having abandoned attachment,
   &&&\note{similar: \noun, \male, {\dn yogin} = yogin}\\
   &&&\note{= follower; magician; devotee}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn kurvanti}&kur|van|ti&(they) do\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -875,10 +865,7 @@ attached to fruit (results), is bound.\\
   1a&{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
   &&&\noteyuktaH\\
   &&&\\
-  &{\dn karmaphala.m}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphala.m}&kar|ma|&\karma\\
   &&&\\
   &&pha|la.m&phalam\\
   &&&= {\dn phalam}\\
@@ -1066,10 +1053,7 @@ action-fruit-combination. But nature starts (these things).\\
 \begin{tabular}{llll}
   2a&{\dn na}&na&\na\\
   &&&\\
-  &{\dn karmaphalasa.myoga.m}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphalasa.myoga.m}&kar|ma|&\karma\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\

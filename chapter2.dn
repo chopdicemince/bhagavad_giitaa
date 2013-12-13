@@ -3160,11 +3160,7 @@ Arjuna), by which you will throw away your action bond.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn karmabandha.m}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
-  &&&\note{from {\dn karman} = karman}\\
+  2b&{\dn karmabandha.m}&kar|ma|&\karma\\
   &&&\\
   &&ban|dha.m&bandham\\
   &&&= {\dn bandham}\\
@@ -3418,10 +3414,7 @@ wealth; to movement.''\\
   &&&= birth\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &&kar|ma|&\karma\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -3714,10 +3707,7 @@ actions. Do not be a joining in your non-action.\\
 \begin{tabular}{llll}
   2a&{\dn maa}&maa&not\\
   &&&\\
-  &{\dn karmaphalaheturbhuurmaa}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karmaphalaheturbhuurmaa}&kar|ma|&\karma\\
   &&&\\
   &&pha|la|&phalam\\
   &&&= {\dn phalam}\\
@@ -3861,10 +3851,7 @@ for fruit (of their actions).\\
   &&&= lowest thing\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn karma}&kar|ma&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  &{\dn karma}&kar|ma&\karma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3966,8 +3953,7 @@ action, and skill.\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&``action'' (?)\\
   &&&\note{similar:}\\
-  &&&\note{{\dn karman} = karman = \karman}\\
-  &&&\notekarman\\
+  &&&\note{{\dn karman} = karman}\\
   &&&\\
   &{\dn kau"salam}&kau|"sa|lam&skill; fortune; cleverness\\
   &&&\note{\noun, \neuter}
@@ -3983,10 +3969,7 @@ action, is like a sage, free from the bondage of birth. They go to a
 position of health.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karmaja.m}&kar|ma|&karman\\
-  &&&= {\dn karman}\\
-  &&&= \karman\\
-  &&&\notekarman\\
+  1a&{\dn karmaja.m}&kar|ma|&\karma\\
   &&&\\
   &&ja.m&jam\\
   &&&= {\dn jam}\\
