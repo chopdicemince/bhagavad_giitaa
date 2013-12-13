@@ -1817,13 +1817,20 @@
   &&&\note{\nounrootkarman}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\nounrootkR}{\nounroot{\dn k.r}{k.r}}
+\newcommand{\verbrootkR}{\nounroot{\dn k.r}{k.r}}
 
 \newcommand{\karoti}{%
   karoti = {\dn karoti}\\
   &&&= \hesheit\ acts; works; does\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{\nounrootkR}
+  &&&\note{\verbrootkR}
+}
+
+\newcommand{\kRtvA}{
+  k.rtvaa = {\dn k.rtvaa}\\
+  &&&= having acted; worked; done\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootkR}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\krodhaH}{anger; passion}
@@ -2320,5 +2327,4 @@
 \newcommand{\bhuutvaa}{having been}
 \newcommand{\dRSTvA}{having seen}
 \newcommand{\gatvaa}{having gone}
-\newcommand{\kRtvA}{having acted; worked; done}
 \newcommand{\tyaktvaa}{having abandoned; renounced; left}
