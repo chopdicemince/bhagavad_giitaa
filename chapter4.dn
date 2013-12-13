@@ -1180,11 +1180,7 @@ related to non-action is understandable. Progress related to action is
 hard to understand.\\
 
 \begin{tabular}{llll}
-  1a&{\dn karma.no}&kar|ma|.no&karma.na.h\\
-  &&&= {\dn karma.na.h}\\
-  &&&= \karmaNaH\\
-  &&&\notekarmaNaH\\
-  &&&\note{from {\dn karman} = karman}\\
+  1a&{\dn karma.no}&kar|ma|.no&\karmaNaH\\
   &&&\\
   &{\dn hyapi}&hya|&\hi\\
   &&&\\
@@ -1217,11 +1213,7 @@ hard to understand.\\
 \begin{tabular}{llll}
   2a&{\dn akarma.na"sca}&a|&\aprefix\\
   &&&\\
-  &&kar|ma|.na"s|&karma.na.h\\
-  &&&= {\dn karma.na.h}\\
-  &&&= \karmaNaH\\
-  &&&\notekarmaNaH\\
-  &&&\note{from {\dn karman} = karman}\\
+  &&kar|ma|.na"s|&\karmaNaH\\
   &&&\\
   &&ca&\ca\\
   &&&\\

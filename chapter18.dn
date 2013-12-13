@@ -495,11 +495,7 @@ proclaimed.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn karma.no}&kar|ma|.no&karma.na.h\\
-  &&&= {\dn karma.na.h}\\
-  &&&= \karmaNaH\\
-  &&&\notekarmaNaH\\
-  &&&\note{from {\dn karman} = karman}\\
+  1b&{\dn karma.no}&kar|ma|.no&\karmaNaH\\
   &&&\\
   &{\dn nopapadyate}&no|&\na\\
   &&&\\
@@ -893,8 +889,6 @@ not of abandoners, somewhere.\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
   &{\dn karma.na.h}&kar|ma|.na\h{a}&\karmaNaH\\
-  &&&\notekarmaNaH\\
-  &&&\note{from {\dn karman} = karman}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
   &&&\notephalam\\

@@ -1780,9 +1780,13 @@
   &&&\note{\nounrootkarman}
 }
 
-\newcommand{\karmaNaH}{\ablativephrase/\genitivephrase\ a/the \karmatemp}
-\newcommand{\notekarmaNaH}{\note{\noun, \neuter}\\
-  &&&\note{\ablativecase, \genitivecase}}
+\newcommand{\karmaNaH}{
+  karma.na.h = {\dn karma.na.h} = \genitivephrase/\locativephrase\\
+  &&&a/the \karmatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\nounrootkarman}
+}
 
 \newcommand{\karmaNi}{\locativephrase\ a/the \karmatemp}
 \newcommand{\notekarmaNi}{\note{\noun, \neuter, \locativecase}}
