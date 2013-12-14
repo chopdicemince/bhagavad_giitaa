@@ -1544,11 +1544,7 @@ a verse, each line has eight main syllables.)\\
   &&&= Indra, god of thunder\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&lo|kam&lokam\\
-  &&&= {\dn lokam}\\
-  &&&= \lokam\\
-  &&&\notelokam\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|kam&\lokam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1601,11 +1597,7 @@ usual eight.)\\
   &&&= \svargaH\\
   &&&\notesvargaH\\
   &&&\\
-  &&lo|ka.m&lokam\\
-  &&&= {\dn lokam}\\
-  &&&= \lokam\\
-  &&&\notelokam\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|ka.m&\lokam\\
   &&&\\
   &{\dn vi"saala.m}&vi|"saa|la.m&vast\\
   &&&\note{\adjective, \male, \accusativecase}\\
@@ -1627,11 +1619,7 @@ usual eight.)\\
   &&&= mortal\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&lo|ka.m&lokam\\
-  &&&= {\dn lokam}\\
-  &&&= \lokam\\
-  &&&\notelokam\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|ka.m&\lokam\\
   &&&\\
   &{\dn vi"santi}&vi|"san|ti&(they) enter\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -2564,11 +2552,7 @@ non-eternal, non-happiness world (is) procurable. (Worship) me.\\
   &&&= \sukham\\
   &&&\notesukham\\
   &&&\\
-  &{\dn lokamima.m}&lo|ka|&lokam\\
-  &&&= {\dn lokam}\\
-  &&&= \lokam\\
-  &&&\notelokam\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &{\dn lokamima.m}&lo|ka|&\lokam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

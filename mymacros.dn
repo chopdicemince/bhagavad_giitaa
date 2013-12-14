@@ -1922,8 +1922,11 @@
   &&&\note{\nounrootloka}
 }
 
-\newcommand{\lokam}{\lokatemp}
-\newcommand{\notelokam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\lokam}{%
+  lokam = {\dn lokam} = \lokatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootloka}
+}
 
 \newcommand{\lokAH}{worlds; mankind; places}
 \newcommand{\notelokAH}{\note{\noun, \male, \plural}}
