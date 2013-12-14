@@ -2010,7 +2010,7 @@
 \newcommand{\nounrootmokSa}{\nounroot{\dn mok.sa}{mok.sa}}
 \newcommand{\mokSatemp}{freedom; liberation}
 
-\newcommand{\mokSaH}{
+\newcommand{\mokSaH}{%
   mok.sa.h = {\dn mok.sa.h}\\
   &&&= \mokSatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
