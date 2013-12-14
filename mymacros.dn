@@ -1836,13 +1836,13 @@
 \newcommand{\nounrootkrodha}{\nounroot{\dn krodha}{krodha}}
 \newcommand{\krodhatemp}{(act of) anger; passion}
 
-\newcommand{\krodhaH}{
+\newcommand{\krodhaH}{%
   krodha.h = {\dn krodha.h} = \krodhatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootkrodha}
 }
 
-\newcommand{\krodham}{
+\newcommand{\krodham}{%
   krodham = {\dn krodham} = \krodhatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootkrodha}
