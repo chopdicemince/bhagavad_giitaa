@@ -2113,6 +2113,15 @@
   &&&\note{\nounrootnara}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootnaraka}{\nounroot{\dn naraka}{naraka}}
+\newcommand{\narakatemp}{hell}
+
+\newcommand{\narakasya}{%
+  narakasya = {\dn narakasya} = \genitivephrase\ \narakatemp\\
+  &&&\note{\noun, \male, \neuter, \genitivecase}\\
+  &&&\note{\nounrootnaraka}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nityam}{eternal; eternally; always}
 \newcommand{\notenityam}{\note{\adjective, \neuter, \adverb}\\
   &&&\note{\male, \accusativecase}}
