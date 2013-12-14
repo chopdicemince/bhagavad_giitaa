@@ -2069,10 +2069,7 @@ free, also, from action.\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
-  &{\dn matamida.m}&ma|ta|mi|&matam\\
-  &&&= {\dn matam}\\
-  &&&= \matam\\
-  &&&\notematam\\
+  &{\dn matamida.m}&ma|ta|mi|&\matam\\
   &&&\\
   &&da.m&\idam\\
   &&&\\
@@ -2162,7 +2159,6 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn matam}&ma|tam&\matam\\
-  &&&\notematam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
