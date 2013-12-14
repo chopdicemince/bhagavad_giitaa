@@ -1967,6 +1967,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootmata}
 }
+
+\newcommand{\mate}{%
+  mate = {\dn mate} = \locativephrase\\
+  &&&a/the \matatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootmata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mokSaH}{freedom; liberation}
 \newcommand{\notemokSaH}{\note{\noun, \male}}
