@@ -2822,10 +2822,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn lokaansamagraanvadanairjvaladbhi.h}\\
   &&&\\
-  &&lo|kaan&{\dn lokaan}\\
-  &&&= \lokaan\\
-  &&&\notelokaan\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|kaan&\lokaan\\
   &&&\\
   &&sa|ma|graan|&{\dn samagraan}\\
   &&&= all; complete\\
@@ -3061,10 +3058,7 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn lokaansamaahartumiha}&lo|kaan|&{\dn lokaan}\\
-  &&&= \lokaan\\
-  &&&\notelokaan\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  1b&{\dn lokaansamaahartumiha}&lo|kaan|&\lokaan\\
   &&&\\
   &&sa|maa|har|tu|mi|&samaahartum\\
   &&&= {\dn samaahartum}\\

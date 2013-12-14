@@ -1944,8 +1944,11 @@
   &&&\note{\nounrootloka}
 }
 
-\newcommand{\lokaan}{\lokapluraltemp}
-\newcommand{\notelokaan}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\lokaan}{%
+  lokaan = {\dn lokaan} = \lokapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootloka}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\matam}{vote; opinion; approval}
 \newcommand{\notematam}{\note{\noun, \neuter}\\
