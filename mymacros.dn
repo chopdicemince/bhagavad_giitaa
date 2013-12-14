@@ -1847,6 +1847,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootkrodha}
 }
+
+\newcommand{\krodhaat}{%
+  krodhaat = {\dn krodhaat}\\
+  &&&= \ablativephrase\ an/the \krodhatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootkrodha}
+} 
 % ------------------------------------------------------------------------------
 \newcommand{\kSetram}{place}
 \newcommand{\notekSetram}{\note{\noun, \neuter}\\
