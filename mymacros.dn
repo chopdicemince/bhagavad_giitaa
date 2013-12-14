@@ -1833,8 +1833,14 @@
   &&&\note{\verbrootkR}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\krodhaH}{anger; passion}
-\newcommand{\notekrodhaH}{\note{\noun, \male}}
+\newcommand{\nounrootkrodha}{\nounroot{\dn krodha}{krodha}}
+\newcommand{\krodhatemp}{(act of) anger; passion}
+
+\newcommand{\krodhaH}{
+  krodha.h = {\dn krodha.h} = \krodhatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootkrodha}
+}
 
 \newcommand{\krodham}{\krodhaH}
 \newcommand{\notekrodham}{\note{\noun, \male, \accusativecase}}
