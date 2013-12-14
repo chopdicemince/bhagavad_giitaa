@@ -1874,8 +1874,11 @@
   &&&\note{\nounrootkSetra}
 }
 
-\newcommand{\kSetre}{\locativephrase\ a/the \kSetratemp}
-\newcommand{\notekSetre}{\note{\noun, \neuter, \locativecase}}
+\newcommand{\kSetre}{%
+  k.setre = {\dn k.setre} = \locativephrase\ a/the \kSetratemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootkSetra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kulam}{clan; community}
 \newcommand{\notekulam}{\note{\noun, \neuter}\\
