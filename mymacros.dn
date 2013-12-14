@@ -1992,6 +1992,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootmata}
 }
+
+\newcommand{\mataa}{%
+  mataa = {\dn mataa}\\
+  &&&= \matatemptemp\\
+  &&&\note{\adjective, \female, \nominativecase}\\
+  &&&\note{\adjectiverootmata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mokSaH}{freedom; liberation}
 \newcommand{\notemokSaH}{\note{\noun, \male}}
