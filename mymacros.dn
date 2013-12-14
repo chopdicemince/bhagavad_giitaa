@@ -2051,6 +2051,14 @@
   &&&\note{\nounrootmuni}
 }
 
+\newcommand{\muneH}{%
+  mune.h = {\dn mune.h} = \ablativephrase/\genitivephrase\ a/the\\
+  &&&= \munipluraltemp\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootmuni}
+}
+
 \newcommand{\muniinaam}{%
   muniinaam = {\dn muniinaam}\\
   &&&= \genitivephrase\ \munipluraltemp\\
