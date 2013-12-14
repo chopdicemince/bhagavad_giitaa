@@ -1864,11 +1864,17 @@
   &&&\note{\nounrootkrodha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\kSetram}{place}
-\newcommand{\notekSetram}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootkSetra}{\nounroot{\dn k.setra}{k.setra}}
+\newcommand{\kSetratemp}{place}
 
-\newcommand{\kSetre}{\locativephrase\ a/the \kSetram}
+\newcommand{\kSetram}{%
+  k.setram = {\dn k.setram} = \kSetratemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootkSetra}
+}
+
+\newcommand{\kSetre}{\locativephrase\ a/the \kSetratemp}
 \newcommand{\notekSetre}{\note{\noun, \neuter, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\kulam}{clan; community}
