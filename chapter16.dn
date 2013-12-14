@@ -1459,10 +1459,7 @@ life.\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn sa.msaara.h} = sa.msaara.h}\\
   &&&\\
-  &{\dn naraadhamaan}&na|raa|&nara.h\\
-  &&&= {\dn nara.h}\\
-  &&&= \naraH\\
-  &&&\notenaraH\\
+  &{\dn naraadhamaan}&na|raa|&\naraH\\
   &&&\\
   &&dha|maan&adhamaan\\
   &&&= {\dn adhamaan}\\
@@ -1706,9 +1703,7 @@ path.\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{(?) from {\dn trii.ni} = trii.ni}\\
   &&&\\
-  &&na|ra\h{a}&{\dn nara.h}\\
-  &&&= \naraH\\
-  &&&\notenaraH\\
+  &&na|ra\h{a}&\naraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
