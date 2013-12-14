@@ -1835,6 +1835,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkrodha}{\nounroot{\dn krodha}{krodha}}
 \newcommand{\krodhatemp}{(act of) anger; passion}
+\newcommand{\krodhapluraltemp}{(acts of) anger; passion}
 
 \newcommand{\krodhaH}{%
   krodha.h = {\dn krodha.h} = \krodhatemp\\
@@ -1853,7 +1854,15 @@
   &&&= \ablativephrase\ an/the \krodhatemp\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{\nounrootkrodha}
-} 
+}
+
+\newcommand{\krodhAH}{%
+  krodhaa.h = {\dn krodhaa.h}\\
+  &&&= (\vocativephrase) \krodhapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootkrodha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kSetram}{place}
 \newcommand{\notekSetram}{\note{\noun, \neuter}\\
