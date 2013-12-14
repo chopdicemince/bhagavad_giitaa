@@ -1999,6 +1999,13 @@
   &&&\note{\adjective, \female, \nominativecase}\\
   &&&\note{\adjectiverootmata}
 }
+
+\newcommand{\mataam}{%
+  mataam = {\dn mataam}\\
+  &&&= \matatemptemp\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{\adjectiverootmata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mokSaH}{freedom; liberation}
 \newcommand{\notemokSaH}{\note{\noun, \male}}
