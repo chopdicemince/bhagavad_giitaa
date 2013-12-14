@@ -1983,7 +1983,15 @@
   &&&= \matatemptemp\\
   &&&\note{\adjective, \male}\\
   &&&\note{\adjectiverootmata}
-}   
+}
+
+\newcommand{\matAH}{%
+  mataa.h = {\dn mataa.h}\\
+  &&&= (\vocativephrase) \matatemptemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootmata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mokSaH}{freedom; liberation}
 \newcommand{\notemokSaH}{\note{\noun, \male}}
