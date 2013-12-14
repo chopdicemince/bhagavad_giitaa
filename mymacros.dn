@@ -2023,6 +2023,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootmokSa}
 }
+
+\newcommand{\mokSyAya}{%
+  mok.syaaya = {\dn mok.syaaya}\\
+  &&&= \dativephrase\ \mokSatemp\\
+  &&&\note{\noun, \male, \dativecase}\\
+  &&&\note{\nounrootmokSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mUDha}{mistaken; stupid; stupefied}
 \newcommand{\notemUDha}{\note{\adjective}}
