@@ -1949,6 +1949,13 @@
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootloka}
 }
+
+\newcommand{\lokeSu}{%
+  loke.su = {\dn loke.su} = \locativephrase\\
+  &&&\lokapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{\nounrootloka}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\matam}{vote; opinion; approval}
 \newcommand{\notematam}{\note{\noun, \neuter}\\
