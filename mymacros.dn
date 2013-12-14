@@ -1904,8 +1904,14 @@
   &&&\note{\nounrootkula}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\labhate}{\hesheit\ learns; gets}
-\newcommand{\notelabhate}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\verbrootlabh}{\verbroot{\dn labh}{labh}}
+
+\newcommand{\labhate}{%
+  labhate = {\dn labhate}\\
+  &&&= \hesheit\ gets; learns; knows; sees\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootlabh}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\lokaH}{world; mankind; place}
 \newcommand{\notelokaH}{\note{\noun, \male}}
