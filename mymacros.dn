@@ -1915,6 +1915,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootloka}{\nounroot{\dn loka}{loka}}
 \newcommand{\lokatemp}{world; mankind; place}
+\newcommand{\lokapluraltemp}{worlds; mankind; places}
 
 \newcommand{\lokaH}{%
   loka.h = {\dn loka.h} = \lokatemp\\
@@ -1935,10 +1936,15 @@
   &&&\note{\nounrootloka}
 }
 
-\newcommand{\lokAH}{worlds; mankind; places}
-\newcommand{\notelokAH}{\note{\noun, \male, \plural}}
+\newcommand{\lokAH}{%
+  lokaa.h = {\dn lokaa.h}\\
+  &&&= (\vocativephrase) \lokapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootloka}
+}
 
-\newcommand{\lokaan}{\lokAH}
+\newcommand{\lokaan}{\lokapluraltemp}
 \newcommand{\notelokaan}{\note{\noun, \male, \plural, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\matam}{vote; opinion; approval}

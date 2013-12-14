@@ -2149,8 +2149,6 @@ of the usual eight.)\\
   &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn lokaa.h}&lo|kaa\h{aa}&\lokAH\\
-  &&&\notelokAH\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
   &&&\\
   &{\dn pravyathitaastathaaham}&pra|vya|thi|taa|sta|&pravyathitaa.h\\
   &&&= {\dn pravyathitaa.h}\\
@@ -2765,11 +2763,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn vi"s} = vi"s}\\
   &&&\\
-  &{\dn lokaas}&lo|kaas&lokaa.h\\
-  &&&= {\dn lokaa.h}\\
-  &&&= \lokAH\\
-  &&&\notelokAH\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &{\dn lokaas}&lo|kaas&\lokAH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

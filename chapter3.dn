@@ -1673,11 +1673,7 @@ worlds).\\
   &&&\\
   &&me&\ime\\
   &&&\\
-  &{\dn lokaa}&lo|kaa&lokaa.h\\
-  &&&= {\dn lokaa.h}\\
-  &&&= \lokAH\\
-  &&&\notelokAH\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &{\dn lokaa}&lo|kaa&\lokAH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
