@@ -1866,6 +1866,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkSetra}{\nounroot{\dn k.setra}{k.setra}}
 \newcommand{\kSetratemp}{place}
+\newcommand{\kSetrapluraltemp}{places}
 
 \newcommand{\kSetram}{%
   k.setram = {\dn k.setram} = \kSetratemp\\
@@ -1877,6 +1878,12 @@
 \newcommand{\kSetre}{%
   k.setre = {\dn k.setre} = \locativephrase\ a/the \kSetratemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootkSetra}
+}
+
+\newcommand{\kSetreSu}{%
+  k.setre.su = {\dn k.setre.su} = \locativephrase\ \kSetrapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{\nounrootkSetra}
 }
 % ------------------------------------------------------------------------------
