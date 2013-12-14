@@ -2040,6 +2040,16 @@
   &&&\note{\verbrootmokS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootmuni}{\nounroot{\dn muni}{muni}}
+\newcommand{\munitemp}{monk; holy man; sage; ascetic}
+
+\newcommand{\muniH}{%
+  muni.h = {\dn muni.h}\\
+  &&&= \munitemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootmuni}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\mUDha}{mistaken; stupid; stupefied}
 \newcommand{\notemUDha}{\note{\adjective}}
 
