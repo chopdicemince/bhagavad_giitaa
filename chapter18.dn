@@ -2265,11 +2265,7 @@ person.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bandha.h} = bandha.h}\\
   &&&\\
-  &{\dn mok.sa.m}&mo|k.sa.m&mok.sam\\
-  &&&= {\dn mok.sam}\\
-  &&&= \mokSam\\
-  &&&\notemokSam\\
-  &&&\note{from {\dn mok.sa.h} = mok.sa.h}\\
+  &{\dn mok.sa.m}&mo|k.sa.m&\mokSam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\

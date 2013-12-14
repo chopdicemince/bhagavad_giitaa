@@ -2017,8 +2017,12 @@
   &&&\note{\nounrootmokSa}
 }
 
-\newcommand{\mokSam}{\mokSaH}
-\newcommand{\notemokSam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\mokSam}{%
+  mok.sam = {\dn mok.sam}\\
+  &&&= \mokSatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootmokSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\mUDha}{mistaken; stupid; stupefied}
 \newcommand{\notemUDha}{\note{\adjective}}

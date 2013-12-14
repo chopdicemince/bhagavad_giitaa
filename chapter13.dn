@@ -2618,11 +2618,7 @@ paramount (place).\\
   &&&= \prakRtiH\\
   &&&\noteprakRtiH\\
   &&&\\
-  &&mo|k.sa.m&mok.sam\\
-  &&&= {\dn mok.sam}\\
-  &&&= \mokSam\\
-  &&&\notemokSam\\
-  &&&\note{from {\dn mok.sa.h} = mok.sa.h}\\
+  &&mo|k.sa.m&\mokSam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
