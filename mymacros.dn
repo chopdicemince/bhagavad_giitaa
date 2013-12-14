@@ -1896,6 +1896,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootkula}
 }
+
+\newcommand{\kulasya}{%
+  kulasya = {\dn kulasya}\\
+  &&&= \genitivephrase\ a/the \kulatemp\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{\nounrootkula}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\labhate}{\hesheit\ learns; gets}
 \newcommand{\notelabhate}{\note{\verbb, \presenttense, \thirdperson, \singular}}
