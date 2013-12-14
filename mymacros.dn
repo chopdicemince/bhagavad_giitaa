@@ -2101,6 +2101,12 @@
   &&&\note{\nounrootnara}
 }
 
+\newcommand{\naraiH}{%
+  narai.h = {\dn narai.h} = \instrumentalphrase\ \narapluraltemp\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootnara}
+}
+
 \newcommand{\narANAm}{%
   naraa.naam = {\dn naraa.naam} = \genitivephrase\ \narapluraltemp\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
