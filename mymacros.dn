@@ -1981,7 +1981,7 @@
 \newcommand{\mataH}{%
   mata.h = {\dn mata.h}\\
   &&&= \matatemptemp\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootmata}
 }
 
