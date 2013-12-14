@@ -2010,6 +2010,8 @@
 \newcommand{\nounrootmokSa}{\nounroot{\dn mok.sa}{mok.sa}}
 \newcommand{\mokSatemp}{freedom; liberation}
 
+\newcommand{\verbrootmokS}{\verbroot{\dn mok.s}{mok.s}}
+
 \newcommand{\mokSaH}{%
   mok.sa.h = {\dn mok.sa.h}\\
   &&&= \mokSatemp\\
@@ -2029,6 +2031,13 @@
   &&&= \dativephrase\ \mokSatemp\\
   &&&\note{\noun, \male, \dativecase}\\
   &&&\note{\nounrootmokSa}
+}
+
+\newcommand{\mokSayiSyAmi}{%
+  mok.sayi.syaami = {\dn mok.sayi.syaami}\\
+  &&&= (?) \I\ will free; liberate\\
+  &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
+  &&&\note{\verbrootmokS}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\mUDha}{mistaken; stupid; stupefied}

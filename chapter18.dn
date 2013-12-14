@@ -5006,9 +5006,7 @@ Abandoning all good works, go (to) one shelter: me. I will free you
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn mok.sayi.syaami}&mo|k.sa|yi|.syaa|mi&(I) will free\\
-  &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
-  &&&\note{root: {\dn mok.s} = mok.s}\\
+  2b&{\dn mok.sayi.syaami}&mo|k.sa|yi|.syaa|mi&\mokSayiSyAmi\\
   &&&\\
   &{\dn maa}&maa&not\\
   &&&\note{\adverb, \indeclinable}\\
