@@ -2121,6 +2121,12 @@
   &&&\note{\noun, \male, \neuter, \genitivecase}\\
   &&&\note{\nounrootnaraka}
 }
+
+\newcommand{\narake}{%
+  narake = {\dn narake} = \locativephrase\ \narakatemp\\
+  &&&\note{\noun, \male, \neuter, \locativecase}\\
+  &&&\note{\nounrootnaraka}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nityam}{eternal; eternally; always}
 \newcommand{\notenityam}{\note{\adjective, \neuter, \adverb}\\
