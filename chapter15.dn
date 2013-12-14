@@ -495,10 +495,7 @@ instead of the usual eight.)\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&muu|.dhaa\h{aa}&{\dn muu.dhaa.h}\\
-  &&&= \mUDhAH\\
-  &&&\notemUDhAH\\
-  &&&\note{from {\dn muu.dha.h} = muu.dha.h}\\
+  &&muu|.dhaa\h{aa}&\mUDhAH\\
   &&&\\
   &{\dn padamavyaya.m}&pa|da|ma|&padam\\
   &&&= {\dn padam}\\

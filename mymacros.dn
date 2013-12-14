@@ -2083,8 +2083,13 @@
   &&&\note{\adjectiverootmUDha}
 }
 
-\newcommand{\mUDhAH}{\mUDhatemp}
-\newcommand{\notemUDhAH}{\note{\adjective, \male, \plural}}
+\newcommand{\mUDhAH}{%
+  muu.dhaa.h = {\dn muu.dhaa.h}\\
+  &&&= (\vocativephrase) \mUDhatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootmUDha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\naraH}{man}
 \newcommand{\notenaraH}{\note{\noun, \male}}
