@@ -1960,6 +1960,9 @@
 \newcommand{\nounrootmata}{\nounroot{\dn mata}{mata}}
 \newcommand{\matatemp}{vote; opinion; approval}
 
+\newcommand{\adjectiverootmata}{\adjectiveroot{\dn mata}{mata}}
+\newcommand{\matatemptemp}{thought; considered; viewed; respected}
+
 \newcommand{\matam}{%
   matam = {\dn matam}\\
   &&&= \matatemp\\
@@ -1974,6 +1977,13 @@
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootmata}
 }
+
+\newcommand{\mataH}{%
+  mata.h = {\dn mata.h}\\
+  &&&= \matatemptemp\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{\adjectiverootmata}
+}   
 % ------------------------------------------------------------------------------
 \newcommand{\mokSaH}{freedom; liberation}
 \newcommand{\notemokSaH}{\note{\noun, \male}}

@@ -2859,12 +2859,11 @@ small importance.\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
   &&&\\
-  &{\dn bahumato}&ba|hu|ma|to&bahumata.h\\
-  &&&= {\dn bahumata.h}\\
-  &&&= much-respected\\
+  &{\dn bahumato}&ba|hu|&{\dn bahu}\\
+  &&&= much\\
   &&&\note{\adjective, \male}\\
-  &&&\note{from: \adjective, {\dn bahu} = bahu = much}\\
-  &&&\note{from: \adjective, \male, {\dn mata.h} = mata.h = respected}\\
+  &&&\\
+  &&ma|to&\mataH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
