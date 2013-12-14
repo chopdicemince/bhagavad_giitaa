@@ -2093,10 +2093,17 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootnara}{\nounroot{\dn nara}{nara}}
 \newcommand{\naratemp}{man}
+\newcommand{\narapluraltemp}{men}
 
 \newcommand{\naraH}{%
   nara.h = {\dn nara.h} = \naratemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootnara}
+}
+
+\newcommand{\narANAm}{%
+  naraa.naam = {\dn naraa.naam} = \genitivephrase\ \narapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootnara}
 }
 % ------------------------------------------------------------------------------
