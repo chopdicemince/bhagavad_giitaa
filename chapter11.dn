@@ -1805,10 +1805,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn lokatraya.m}&lo|ka|&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  2b&{\dn lokatraya.m}&lo|ka|&\lokaH\\
   &&&\\
   &&tra|ya.m&trayam\\
   &&&= {\dn trayam}\\
@@ -2674,10 +2671,7 @@ instead of the usual eight.)\\
   &&&= \naraH\\
   &&&\notenaraH\\
   &&&\\
-  &&lo|ka|&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  &&lo|ka|&\lokaH\\
   &&&\\
   &&vii|raa&viiraa.h\\
   &&&= {\dn viiraa.h}\\
@@ -3055,10 +3049,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn lokak.sayak.rtprav.rddho}&lo|ka|&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  &{\dn lokak.sayak.rtprav.rddho}&lo|ka|&\lokaH\\
   &&&\\
   &&k.sa|ya|&k.saya.h\\
   &&&= {\dn k.saya.h}\\
@@ -4343,10 +4334,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn lokatraye.apyapratimaprabhaava}\\
   &&&\\
-  &&lo|ka|&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  &&lo|ka|&\lokaH\\
   &&&\\
   &&tra|ye|&trayam\\
   &&&= {\dn trayam}\\

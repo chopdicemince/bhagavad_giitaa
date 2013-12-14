@@ -1913,10 +1913,16 @@
   &&&\note{\verbrootlabh}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\lokaH}{world; mankind; place}
-\newcommand{\notelokaH}{\note{\noun, \male}}
+\newcommand{\nounrootloka}{\nounroot{\dn loka}{loka}}
+\newcommand{\lokatemp}{world; mankind; place}
 
-\newcommand{\lokam}{\lokaH}
+\newcommand{\lokaH}{%
+  loka.h = {\dn loka.h} = \lokatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootloka}
+}
+
+\newcommand{\lokam}{\lokatemp}
 \newcommand{\notelokam}{\note{\noun, \male, \accusativecase}}
 
 \newcommand{\lokAH}{worlds; mankind; places}

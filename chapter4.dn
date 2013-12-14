@@ -2280,8 +2280,7 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&&\\
   &&ya.m&\ayam\\
   &&&\\
-  &{\dn loko.astyayaj~nasya}&lo|ko|&loka.h = {\dn loka.h} = \lokaH\\
-  &&&\notelokaH\\
+  &{\dn loko.astyayaj~nasya}&lo|ko|&\lokaH\\
   &&&\\
   &&'stya|&asti\\
   &&&= {\dn asti}\\
@@ -2920,10 +2919,7 @@ next (world).\\
   &&&\\
   &&ya.m&\ayam\\
   &&&\\
-  &{\dn loko.astinaparo}&lo|ko|&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  &{\dn loko.astinaparo}&lo|ko|&\lokaH\\
   &&&\\
   &&'sti|&asti\\
   &&&= {\dn asti}\\

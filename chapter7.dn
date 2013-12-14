@@ -1887,10 +1887,7 @@ not-changeable.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn loko}&lo|ko&loka.h\\
-  &&&= {\dn loka.h}\\
-  &&&= \lokaH\\
-  &&&\notelokaH\\
+  2b&{\dn loko}&lo|ko&\lokaH\\
   &&&\\
   &{\dn maamajamavyayam}&maa|ma|&\maam\\
   &&&\\
