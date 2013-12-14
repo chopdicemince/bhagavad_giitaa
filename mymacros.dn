@@ -1928,6 +1928,13 @@
   &&&\note{\nounrootloka}
 }
 
+\newcommand{\loke}{%
+  loke = {\dn loke} = \locativephrase\\
+  &&&a/the \lokatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootloka}
+}
+
 \newcommand{\lokAH}{worlds; mankind; places}
 \newcommand{\notelokAH}{\note{\noun, \male, \plural}}
 

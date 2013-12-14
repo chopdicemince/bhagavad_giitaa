@@ -186,10 +186,7 @@ instead of the usual eight.)\\
   &&&= man\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&lo|ke&{\dn loke}\\
-  &&&= at/in/on a/the world; human race; place\\
-  &&&\note{\noun, \male, \locativecase}\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|ke&\loke\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -616,10 +613,7 @@ masters the mind-six-senses, (while being) primal-form-standing.\\
   &&&= life\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&lo|ke&{\dn loke}\\
-  &&&= at/in/on a/the world; human race; place\\
-  &&&\note{\noun, \male, \locativecase}\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &&lo|ke&\loke\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1355,9 +1349,7 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &&&\note{\noun, \male, \dual}\\
   &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
   &&&\\
-  &{\dn loke}&lo|ke&at/in/on a/the world; human race; place\\
-  &&&\note{\noun, \male, \locativecase}\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &{\dn loke}&lo|ke&\loke\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1550,9 +1542,7 @@ knowledge---known (as) the ultimate man.\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn loke}&lo|ke&at/in/on a/the world\\
-  &&&\note{\noun, \male, \locativecase}\\
-  &&&\note{from {\dn loka.h} = loka.h}\\
+  &{\dn loke}&lo|ke&\loke\\
   &&&\\
   &{\dn vede}&ve|de&at/in/on (sacred) knowledge\\
   &&&\note{\noun, \male, \locativecase}\\
