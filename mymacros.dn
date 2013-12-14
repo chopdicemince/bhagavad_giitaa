@@ -2042,11 +2042,19 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootmuni}{\nounroot{\dn muni}{muni}}
 \newcommand{\munitemp}{monk; holy man; sage; ascetic}
+\newcommand{\munipluraltemp}{monks; holy men; sages; ascetics}
 
 \newcommand{\muniH}{%
   muni.h = {\dn muni.h}\\
   &&&= \munitemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootmuni}
+}
+
+\newcommand{\muniinaam}{%
+  muniinaam = {\dn muniinaam}\\
+  &&&= \genitivephrase\ \munipluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootmuni}
 }
 % ------------------------------------------------------------------------------
