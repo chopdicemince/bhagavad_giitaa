@@ -1887,9 +1887,15 @@
   &&&\note{\nounrootkSetra}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\kulam}{clan; community}
-\newcommand{\notekulam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootkula}{\nounroot{\dn kula}{kula}}
+\newcommand{\kulatemp}{clan; community}
+
+\newcommand{\kulam}{%
+  kulam = {\dn kulam} = \kulatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootkula}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\labhate}{\hesheit\ learns; gets}
 \newcommand{\notelabhate}{\note{\verbb, \presenttense, \thirdperson, \singular}}
