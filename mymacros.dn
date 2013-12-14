@@ -2007,8 +2007,15 @@
   &&&\note{\adjectiverootmata}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\mokSaH}{freedom; liberation}
-\newcommand{\notemokSaH}{\note{\noun, \male}}
+\newcommand{\nounrootmokSa}{\nounroot{\dn mok.sa}{mok.sa}}
+\newcommand{\mokSatemp}{freedom; liberation}
+
+\newcommand{\mokSaH}{
+  mok.sa.h = {\dn mok.sa.h}\\
+  &&&= \mokSatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootmokSa}
+}
 
 \newcommand{\mokSam}{\mokSaH}
 \newcommand{\notemokSam}{\note{\noun, \male, \accusativecase}}
