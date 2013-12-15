@@ -2430,6 +2430,13 @@
   &&&\note{\vocativecase}\\
   &&&\note{\nounrootphala}
 }
+
+\newcommand{\phalaiH}{%
+  phalai.h = {\dn phalai.h}\\
+  &&&= \instrumentalphrase\ \phalapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootphala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pitaa}{father}
 \newcommand{\notepitaa}{\note{\noun, \male}}

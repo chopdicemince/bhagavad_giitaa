@@ -2116,11 +2116,7 @@ yoked-self, (you) will approach me.\\
   &&&= auspicious\\
   &&&\note{\adjective}\\
   &&&\\
-  &&pha|lai|re|&phalai.h\\
-  &&&= {\dn phalai.h}\\
-  &&&= by using fruits\\
-  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
-  &&&\note{from {\dn phalam} = phalam}\\
+  &&pha|lai|re|&\phalaiH\\
   &&&\\
   &&va.m&\evam\\
   % ----------------------------------------------------------------------------
