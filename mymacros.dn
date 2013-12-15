@@ -2180,6 +2180,13 @@
 \newcommand{\adjectiverootniyata}{\adjectiveroot{\dn niyata}{niyata}}
 \newcommand{\niyatatemp}{restrained; limited; usual; definite}
 
+\newcommand{\niyataH}{%
+  niyata.h = {\dn niyata.h}\\
+  &&&= \niyatatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootniyata}
+}
+
 \newcommand{\niyatam}{%
   niyatam = {\dn niyatam}\\
   &&&= \niyatatemp;\\
