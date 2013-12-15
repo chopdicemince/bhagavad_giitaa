@@ -2456,11 +2456,21 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpitaamaha}{\nounroot{\dn pitaamaha}{pitaamaha}}
 \newcommand{\pitaamahatemp}{father of father; paternal grandfather}
+\newcommand{\pitaamahapluraltemp}{fathers of fathers; paternal grandfathers}
 
 \newcommand{\pitAmahaH}{%
   pitaamaha.h = {\dn pitaamaha.h}\\
   &&&= \pitaamahatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootpitaamaha}
+}
+
+\newcommand{\pitAmahAH}{%
+  pitaamahaa.h = {\dn pitaamahaa.h}\\
+  &&&= (\vocativephrase) \pitaamahapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{\nounrootpitaamaha}
 }
 % ------------------------------------------------------------------------------
