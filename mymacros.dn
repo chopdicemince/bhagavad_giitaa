@@ -2466,6 +2466,14 @@
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{\nounrootsiddhi}
 }
+
+\newcommand{\siddhyoH}{%
+  siddhyo.h = {\dn siddhyo.h} = \genitivephrase/\locativephrase\\
+  &&&(two acts of) \siddhitemp\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\nounrootsiddhi}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sthaanam}{standing; staying; site}
 \newcommand{\notesthaanam}{\note{\noun, \neuter}\\

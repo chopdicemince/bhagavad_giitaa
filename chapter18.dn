@@ -1932,12 +1932,7 @@ good.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&sid|dhyor|&siddhyo.h\\
-  &&&= {\dn siddhyo.h}\\
-  &&&= of/at/in/on two successes\\
-  &&&\note{\noun, \female, \dual}\\
-  &&&\note{\genitivecase, \locativecase}\\
-  &&&\note{from {\dn siddhi.h} = siddhi.h}\\
+  &&sid|dhyor|&\siddhyoH\\
   &&&\\
   &&nir|&ni.h = {\dn ni.h} = not\\
   &&&\note{\prefix}\\
