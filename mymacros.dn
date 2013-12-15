@@ -2214,9 +2214,16 @@
   &&&\note{\adjectiverootniyata}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\padam}{part; place; foot; step; word}
-\newcommand{\notepadam}{\note{\noun, \male}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
+\newcommand{\padatemp}{part; place; pace; step; foot; word}
+
+\newcommand{\padam}{%
+  padam = {\dn padam}\\
+  &&&= \padatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootpada}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\paJca}{five}
 \newcommand{\notepaJca}{\note{\noun, \allgenders, \plural, \nominativecase}\\
