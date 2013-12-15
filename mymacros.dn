@@ -2445,8 +2445,14 @@
   &&&\note{\nounrootphala}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\pitaa}{father}
-\newcommand{\notepitaa}{\note{\noun, \male}}
+\newcommand{\nounrootpitR}{\nounroot{\dn pit.r}{pit.r}}
+\newcommand{\pitRtemp}{father}
+
+\newcommand{\pitaa}{%
+  pitaa = {\dn pitaa} = \pitRtemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootpitR}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pitAmahaH}{paternal grandfather}
 \newcommand{\notepitAmahaH}{\note{\noun, \male}}
