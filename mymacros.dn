@@ -2138,6 +2138,13 @@
   &&&\note{\adjectiverootnitya}
 }
 
+\newcommand{\nityAH}{%
+  nityaa.h = {\dn nityaa.h}\\
+  &&&= \nityatemp\\
+  &&&\note{\adjective, \male, \plural, \nominativecase}\\
+  &&&\note{\adjectiverootnitya}
+}
+
 \newcommand{\nityam}{%
   nityam = {\dn nityam} = \nityatemp;\\
   &&&eternally; usually; constantly; always\\
