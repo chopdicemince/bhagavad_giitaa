@@ -2308,9 +2308,6 @@
 \newcommand{\adjectiverootparama}{\adjectiveroot{\dn parama}{parama}}
 \newcommand{\paramatemp}{paramount; better/best; worse/worst}
 
-\newcommand{\parama}{paramount; better/best; worse/worst}
-\newcommand{\noteparama}{\note{\adjective}}
-
 \newcommand{\paramaH}{%
   parama.h = {\dn parama.h}\\
   &&&= \paramatemp\\
