@@ -2327,8 +2327,13 @@
   &&&\note{\adjectiverootparama}
 }
 
-\newcommand{\paramAH}{\paramatemp}
-\newcommand{\noteparamAH}{\note{\adjective, \male, \plural}}
+\newcommand{\paramAH}{%
+  paramaa.h = {\dn paramaa.h}\\
+  &&&= (\vocativephrase) \paramatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootparama}
+}
 
 \newcommand{\paramaam}{\paramatemp}
 \newcommand{\noteparamaam}{\note{\adjective, \female, \accusativecase}}
