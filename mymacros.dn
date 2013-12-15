@@ -2216,12 +2216,20 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
+\newcommand{\padapluraltemp}{parts; places; paces; steps; foots; words}
 
 \newcommand{\padam}{%
   padam = {\dn padam}\\
   &&&= \padatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootpada}
+}
+
+\newcommand{\padaiH}{%
+  padai.h = {\dn padai.h} = \instrumentalphrase\\
+  &&&\padapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootpada}
 }
 % ------------------------------------------------------------------------------
