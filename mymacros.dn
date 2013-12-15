@@ -78,7 +78,7 @@
 \newcommand{\pastimperfecttense}{past imperpefect}
 \newcommand{\presenttense}{present tense}
 \newcommand{\presentcontinuoustense}{present continuous tense}
-\newcommand{\participle}{participle}
+\newcommand{\presentparticiple}{present participle}
 \newcommand{\futuretense}{future tense}
 \newcommand{\futuretensepossible}{future tense (possible)}
 \newcommand{\futuretensecertain}{future tense (certain)}
@@ -1571,7 +1571,7 @@
 \newcommand{\icchan}{%
   icchan = {\dn icchan}\\
   &&&= (\vocativephrase) wanting; wishing; desiring\\
-  &&&\note{\verbb, \participle, \male}\\
+  &&&\note{\verbb, \presentparticiple, \male}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\verbrootiS}
 }
@@ -1579,7 +1579,7 @@
 \newcommand{\icchantaH}{%
   icchanta.h = {\dn icchanta.h}\\
   &&&= (\vocativephrase) wanting; wishing; desiring\\
-  &&&\note{\verbb, \participle, \male, \plural}\\
+  &&&\note{\verbb, \presentparticiple, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\verbrootiS}
 }
@@ -2361,7 +2361,7 @@
 
 \newcommand{\pazyan}{%
   pa"syan = {\dn pa"syan} = seeing\\
-  &&&\note{\verbb, \participle}\\
+  &&&\note{\verbb, \presentparticiple}\\
   &&&\note{\verbrootdRS}
 }
 % ------------------------------------------------------------------------------

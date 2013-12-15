@@ -930,7 +930,7 @@ looking in all directions.\\
   1b&{\dn dhaarayannacala.m}&dhaa|ra|yan|&dhaarayan\\
   &&&= {\dn dhaarayan}\\
   &&&= bearing; holding\\
-  &&&\note{\participle}\\
+  &&&\note{\presentparticiple}\\
   &&&\note{root: {\dn dh.r} = dh.r}\\
   &&&\\
   &&na|&\aprefix\\
@@ -976,7 +976,7 @@ looking in all directions.\\
   &&na|va|lo|ka|yan&anavalokayan\\
   &&&= {\dn anavalokayan}\\
   &&&= not looking\\
-  &&&\note{\participle}\\
+  &&&\note{\presentparticiple}\\
   &&&\note{root: (?)}\\
 \end{tabular}
 \newpage
@@ -1067,7 +1067,7 @@ union.\\
   1a&{\dn yu~njanneva.m}&yu\~{}n|jan|&yu\~{}njan\\
   &&&= {\dn yu~njan}\\
   &&&= yoking; doing; being suitable\\
-  &&&\note{\participle}\\
+  &&&\note{\presentparticiple}\\
   &&&\note{root: (?)}\\
   &&&\\
   &&ne|va.m&\evam\\
@@ -2025,7 +2025,7 @@ completely.\\
 
 \begin{tabular}{llll}
   1a&{\dn yu~njanneva.m}&yu\~{}n|jan|&(?) doing\\
-  &&&\note{\verbb, \participle}\\
+  &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: (?)}\\
   &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
   &&&\note{= doing}\\
