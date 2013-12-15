@@ -2405,8 +2405,15 @@
   &&&\note{\verbrootdRS}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\phalam}{fruit (food, result)}
-\newcommand{\notephalam}{\note{\noun, \neuter}}
+\newcommand{\nounrootphala}{\nounroot{\dn phala}{phala}}
+\newcommand{\phalatemp}{fruit; result}
+
+\newcommand{\phalam}{%
+  phalam = {\dn phalam} = \phalatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootphala}
+}
 
 \newcommand{\phalaani}{fruits (food, result)}
 \newcommand{\notephalaani}{\note{\noun, \neuter, \plural}}

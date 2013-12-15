@@ -307,7 +307,6 @@ fruit.\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
-  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -843,10 +842,7 @@ attached to fruit (results), is bound.\\
   &&&\\
   &{\dn karmaphala.m}&kar|ma|&\karma\\
   &&&\\
-  &&pha|la.m&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &&pha|la.m&\phalam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
   &&&\noteperfectparticiple\\
@@ -1022,10 +1018,7 @@ action-fruit-combination. But nature starts (these things).\\
   &&&\\
   &{\dn karmaphalasa.myoga.m}&kar|ma|&\karma\\
   &&&\\
-  &&pha|la|&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &&pha|la|&\phalam\\
   &&&\\
   &&sa.m|yo|ga.m&sa.myogam\\
   &&&= {\dn sa.myogam}\\

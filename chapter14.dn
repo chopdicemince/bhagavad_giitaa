@@ -1149,7 +1149,6 @@ ignorance.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
-  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1162,10 +1161,7 @@ ignorance.\\
   &&&\\
   &&stu&\tu\\
   &&&\\
-  &{\dn phala.m}&pha|la.m&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &{\dn phala.m}&pha|la.m&\phalam\\
   &&&\\
   &{\dn du.hkhamaj~naana.m}&du.h|kha|&\duHkham\\
   % ----------------------------------------------------------------------------
@@ -1180,7 +1176,6 @@ ignorance.\\
   &&&\note{from {\dn tamas} = tamas}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
-  &&&\notephalam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

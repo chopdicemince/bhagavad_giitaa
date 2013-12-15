@@ -3374,10 +3374,7 @@ wealth; to movement.''\\
   &&&\\
   &&kar|ma|&\karma\\
   &&&\\
-  &&pha|la|&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &&pha|la|&\phalam\\
   &&&\\
   &&pra|daam&gift\\
   &&&\note{\noun, \female, \accusativecase}\\
@@ -3662,10 +3659,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\\
   &{\dn karmaphalaheturbhuurmaa}&kar|ma|&\karma\\
   &&&\\
-  &&pha|la|&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &&pha|la|&\phalam\\
   &&&\\
   &&he|tur|&hetu.h\\
   &&&= {\dn hetu.h}\\
@@ -3825,10 +3819,7 @@ for fruit (of their actions).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn k.rpa.na.h} = k.rpa.na.h}\\
   &&&\\
-  &{\dn phalahetava.h}&pha|la|&phalam\\
-  &&&= {\dn phalam}\\
-  &&&= \phalam\\
-  &&&\notephalam\\
+  &{\dn phalahetava.h}&pha|la|&\phalam\\
   &&&\\
   &&he|ta|va\h{a}&``urged; incited''(?)\\
   &&&\note{from: \adjective, {\dn hetva} = hetva}\\
@@ -3930,7 +3921,6 @@ position of health.\\
   \hline
   &&&\\
   1b&{\dn phala.m}&pha|la.m&\phalam\\
-  &&&\notephalam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
   &&&\noteperfectparticiple\\
