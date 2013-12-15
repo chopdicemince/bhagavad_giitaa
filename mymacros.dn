@@ -2260,6 +2260,14 @@
   &&&\note{\adjectiverootpara}
 }
 
+\newcommand{\parANi}{%
+  paraa.ni = {\dn paraa.ni}\\
+  &&&= \paratemp\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\paraa}{\paratemp}
 \newcommand{\noteparaa}{\note{\adjective, \female}}
 

@@ -1838,11 +1838,7 @@ other, new bodies.\\
   &&&\\
   &&'|&\aprefix\\
   &&&\\
-  &&pa|raa|.ni&{\dn paraa.ni}\\
-  &&&= others\\
-  &&&\note{\adjective, \neuter, \plural}\\
-  &&&\note{from {\dn param} = param}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&pa|raa|.ni&\parANi\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
