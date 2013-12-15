@@ -2256,6 +2256,14 @@
   &&&\note{\adjectiverootpara}
 }
 
+\newcommand{\paraan}{%
+  paraan = {\dn paraan}\\
+  &&&= \paratemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\para}{\paratemp}
 \newcommand{\notepara}{\note{\adjective}}
 
