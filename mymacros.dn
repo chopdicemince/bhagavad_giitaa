@@ -2318,9 +2318,14 @@
   &&&\note{\adjectiverootparama}
 }
 
-\newcommand{\paramam}{\paramatemp}
-\newcommand{\noteparamammale}{\note{\adjective, \male}}
-\newcommand{\noteparamamneuter}{\note{\adjective, \neuter}}
+\newcommand{\paramam}{%
+  paramam = {\dn paramam}\\
+  &&&= \paramatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootparama}
+}
 
 \newcommand{\paramAH}{\paramatemp}
 \newcommand{\noteparamAH}{\note{\adjective, \male, \plural}}

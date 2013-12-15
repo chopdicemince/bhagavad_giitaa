@@ -37,9 +37,7 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
-  &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
-  &&&= \paramam\\
-  &&&\noteparamammale\\
+  &{\dn parama.m}&pa|ra|ma.m&\paramam\\
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&speech\\
   &&&\note{\noun, \male}\\
@@ -857,10 +855,7 @@ powerful.\\
   &&&= pure; holy\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn parama.m}&pa|ra|ma.m&paramam\\
-  &&&= {\dn paramam}\\
-  &&&= \paramam\\
-  &&&\noteparamamneuter\\
+  &{\dn parama.m}&pa|ra|ma.m&\paramam\\
   &&&\\
   &{\dn bhavaan}&bha|vaan&you\\
   &&&\note{\pronoun, \secondperson, \singular, \male}\\

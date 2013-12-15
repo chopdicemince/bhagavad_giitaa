@@ -4759,10 +4759,7 @@ you.\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
-  &{\dn parama.m}&pa|ra|ma.m&paramam\\
-  &&&= {\dn paramam}\\
-  &&&= \paramam\\
-  &&&\noteparamamneuter\\
+  &{\dn parama.m}&pa|ra|ma.m&\paramam\\
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&voice; speech; word; phrase\\
   &&&\note{\noun, \neuter}\\
@@ -5035,10 +5032,7 @@ no-doubt.\\
   &&&\\
   &{\dn ida.m}&i|da.m&\idam\\
   &&&\\
-  &{\dn parama.m}&pa|ra|ma.m&paramam\\
-  &&&= {\dn paramam}\\
-  &&&= \paramam\\
-  &&&\noteparamamneuter\\
+  &{\dn parama.m}&pa|ra|ma.m&\paramam\\
   &&&\\
   &{\dn guhya.m}&gu|hya.m&\guhyam\\
   % ----------------------------------------------------------------------------
