@@ -2740,6 +2740,12 @@
 \newcommand{\yuktasya}{\genitivephrase\ something yoked}
 \newcommand{\noteyuktasya}{\note{\adjective, \male, \genitivecase}}
 % ------------------------------------------------------------------------------
+\newcommand{\yuJjan}{%
+  yu\~{}njan = {\dn yu~njan} = yoking\\
+  &&&\note{\verbb, \presentparticiple}\\
+  &&&\note{\verbroot{?}{?}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\zAntiH}{peace}
 \newcommand{\notezAntiH}{\note{\noun, \female}}
 
