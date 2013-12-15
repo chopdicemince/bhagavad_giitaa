@@ -2281,6 +2281,13 @@
   &&&\note{\adjectiverootpara}
 }
 
+\newcommand{\parayaa}{%
+  parayaa = {\dn parayaa}\\
+  &&&= \instrumentalphrase\ \paratemp\\
+  &&&\note{\adjective, \noun, \female, \instrumentalcase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\param}{%
   param = {\dn param}\\
   &&&= \paratemp; past/after\\
