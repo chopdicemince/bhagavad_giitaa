@@ -635,12 +635,7 @@ abandonment is true. (This statement is) an opinion (of me).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn niyata.m}&ni|ya|ta.m&niyatam\\
-  &&&= {\dn niyatam}\\
-  &&&= \niyatam\\
-  &&&\noteniyatam\\
-  &&&\note{from {\dn niyatam} = niyatam}\\
-  &&&\note{from {\dn niyata.h} = niyata.h}\\
+  1b&{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
   &&&\\
   &{\dn kriyate.arjuna}&kri|ya|te'r|&kriyate\\
   &&&= {\dn kriyate}\\
@@ -1666,12 +1661,7 @@ action---non-fruit-desiring action---what (action)---that (is called)
 good.\\
 
 \begin{tabular}{llll}
-  1a&{\dn niyata.m}&ni|ya|ta.m&niyatam\\
-  &&&= {\dn niyatam}\\
-  &&&= \niyatam\\
-  &&&\noteniyatam\\
-  &&&\note{from {\dn niyatam} = niyatam}\\
-  &&&\note{from {\dn niyata.h} = niyata.h}\\
+  1a&{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
   &&&\\
   &\multicolumn{3}{l}{\dn sa"ngarahitamaraagadve.sata.h}\\
   &&&\\
@@ -3593,12 +3583,7 @@ self-behavior-action.\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
-  &&ni|ya|ta.m&niyatam\\
-  &&&= {\dn niyatam}\\
-  &&&= \niyatam\\
-  &&&\noteniyatam\\
-  &&&\note{from {\dn niyatam} = niyatam}\\
-  &&&\note{from {\dn niyata.h} = niyata.h}\\
+  &&ni|ya|ta.m&\niyatam\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
   % ----------------------------------------------------------------------------
