@@ -3645,9 +3645,7 @@ actions. Do not be a joining in your non-action.\\
   &&&\\
   1b&{\dn maa}&maa&not\\
   &&&\\
-  &{\dn phale.su}&pha|le|.su&in/on fruits\\
-  &&&\note{\noun, \neuter, \plural, \locativecase}\\
-  &&&\note{from {\dn phalam} = phalam}\\
+  &{\dn phale.su}&pha|le|.su&\phaleSu\\
   &&&\\
   &{\dn kadaacana}&ka|daa|ca|na&anytime\\
   &&&\note{similar: \adverb, {\dn kadaa} = kadaa = when}\\

@@ -2437,6 +2437,13 @@
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootphala}
 }
+
+\newcommand{\phaleSu}{%
+  phale.su = {\dn phale.su}\\
+  &&&= \locativephrase\ \phalapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{\nounrootphala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pitaa}{father}
 \newcommand{\notepitaa}{\note{\noun, \male}}
