@@ -845,6 +845,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootanudRS}
 }
+
+\newcommand{\anupazyAmi}{%
+  anupa"syaami = {\dn anupa"syaami} = \I\ see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootanudRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootanusmR}{\verbroot{\dn anusm.r}{anusm.r}}
 
