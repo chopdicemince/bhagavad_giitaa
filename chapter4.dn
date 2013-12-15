@@ -244,9 +244,7 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\\
   1a&{\dn apara.m}&a|&\aprefix\\
   &&&\\
-  &&pa|ra.m&param = {\dn param} = \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &&pa|ra.m&\param\\
   &&&\\
   &{\dn bhavato}&bha|va|to&bhavata.h = {\dn bhavata.h} = your\\
   &&&\note{\pronoun, \secondperson, \singular, \male}\\
@@ -260,11 +258,7 @@ is higher (older). How may I know this: you, at the beginning, said
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  1b&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn janma}&jan|ma&janma.h\\
   &&&= {\dn janma.h}\\

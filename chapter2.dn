@@ -1066,8 +1066,7 @@ from later (will be).\\
   &&&\\
   &&ta\h{a}&\ataH\\
   &&&\\
-  &{\dn param}&pa|ram&later\\
-  &&&\note{\adverb, \indeclinable}\\
+  &{\dn param}&pa|ram&\param\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1837,11 +1836,12 @@ other, new bodies.\\
   &&&\\
   &{\dn naro.aparaa.ni}&na|ro|&\naraH\\
   &&&\\
-  &&'pa|raa|.ni&aparaa.ni\\
-  &&&= {\dn aparaa.ni}\\
+  &&'|&\aprefix\\
+  &&&\\
+  &&pa|raa|.ni&{\dn paraa.ni}\\
   &&&= others\\
   &&&\note{\adjective, \neuter, \plural}\\
-  &&&\note{from {\dn aparam} = aparam}\\
+  &&&\note{from {\dn param} = param}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage

@@ -21,11 +21,7 @@ gone (to) paramount success.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1a&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
@@ -1393,11 +1389,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\\
   &&ca&\ca\\
   &&&\\
-  &{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

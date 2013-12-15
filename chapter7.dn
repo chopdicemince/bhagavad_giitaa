@@ -973,11 +973,7 @@ changeable.\\
   &&&= {\dn ebhya.h}\\
   &&&= (?)\\
   &&&\\
-  &{\dn paramavyayam}&pa|ra|ma|&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &{\dn paramavyayam}&pa|ra|ma|&\param\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -1779,11 +1775,7 @@ not-changeable, and ultimate.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  2a&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn bhaavamajaananto}&bhaa|va|ma|&\bhaavam\\
   &&&\\

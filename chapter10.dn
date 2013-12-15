@@ -39,8 +39,7 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&paramam = {\dn paramam}\\
   &&&= \paramam\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &&&\noteparamammale\\
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&speech\\
   &&&\note{\noun, \male}\\
@@ -839,19 +838,13 @@ powerful.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  1a&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn brahma}&brah|ma&O God\\
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn brahman} = brahman}\\
   &&&\\
-  &{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn dhaama}&dhaa|ma&O residence\\
   &&&\note{\noun, \neuter, \vocativecase}\\

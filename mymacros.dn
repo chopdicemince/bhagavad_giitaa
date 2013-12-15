@@ -2238,10 +2238,8 @@
   &&&\note{\accusativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpara}{\adjectiveroot{\dn para}{para}}
-\newcommand{\paratemp}{%
-  paramount; better/best; worse/worst;\\
-  &&&another; other; different; strange
-}
+\newcommand{\paratemp}{paramount; better/best; worse/worst;\\
+  &&&another; other; different; strange}
 
 \newcommand{\paraH}{%
   para.h = {\dn para.h}\\
@@ -2253,9 +2251,14 @@
 \newcommand{\para}{\paratemp}
 \newcommand{\notepara}{\note{\adjective}}
 
-\newcommand{\param}{\paratemp}
-\newcommand{\noteparammale}{\note{\adjective, \male, \accusativecase}}
-\newcommand{\noteparamneuter}{\note{\adjective, \neuter}}
+\newcommand{\param}{%
+  param = {\dn param}\\
+  &&&= \paratemp; past/after\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpara}
+}
 
 \newcommand{\paraa}{\paratemp}
 \newcommand{\noteparaa}{\note{\adjective, \female}}

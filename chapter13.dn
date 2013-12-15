@@ -947,10 +947,7 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &{\dn matpara.m}&mat|&\mat\\
   &&&\\
-  &&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  &&pa|ra.m&\param\\
   &&&\\
   &{\dn brahma}&brah|ma&brahman\\
   &&&= {\dn brahman}\\
@@ -1336,10 +1333,7 @@ each (being).\\
   &&&= darkness\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn paramucyate}&pa|ra|mu|&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  &{\dn paramucyate}&pa|ra|mu|&\param\\
   &&&\\
   &&cya|te&ucyate\\
   &&&= {\dn ucyate}\\
@@ -2629,7 +2623,6 @@ paramount (place).\\
   &{\dn te}&te&\te\\
   &&&\\
   &{\dn param}&pa|ram&\param\\
-  &&&\noteparamneuter\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

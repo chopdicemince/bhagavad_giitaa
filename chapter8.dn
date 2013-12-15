@@ -573,7 +573,7 @@ going, thinking, a man goes (to) the paramount, divine, man
   2a&{\dn parama.m}&pa|ra|ma.m&paramam\\
   &&&= {\dn paramam}\\
   &&&= \paramam\\
-  &&&\noteparammale\\
+  &&&\noteparamammale\\
   &&&\note{from {\dn parama.h} = parama.h}\\
   &&&\\
   &{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
@@ -806,11 +806,7 @@ syllables is eight.)\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
   &&&\\
-  &{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn puru.samupaiti}&pu|ru|.sa|mu|&puru.sa.h\\
   &&&= {\dn puru.sa.h}\\
@@ -2274,10 +2270,7 @@ syllables is eight.)\\
   2b&{\dn yogii}&yo|gii&\yogii\\
   &&&\noteyogii\\
   &&&\\
-  &{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn sthaanamupaiti}&sthaa|na|mu|&sthaanam\\
   &&&= {\dn sthaanam}\\

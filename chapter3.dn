@@ -759,11 +759,7 @@ yourselves, one another. You will gain the greatest cherished trust.\\
   2b&{\dn "sreya.h}&"sre|ya\h{a}&\zreyaHcredit\\
   &&&\notezreyaHcredit\\
   &&&\\
-  &{\dn paramavaapsyatha}&pa|ra|ma|&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparammale\\
-  &&&\note{from {\dn para.h} = para.h}\\
+  &{\dn paramavaapsyatha}&pa|ra|ma|&\param\\
   &&&\\
   &&vaap|sya|tha&avaapsyatha\\
   &&&= {\dn avaapsyatha}\\
@@ -1355,11 +1351,7 @@ action, a man gets the highest (achievement).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn paramaapnoti}&pa|ra|maap|&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn paramaapnoti}&pa|ra|maap|&\param\\
   &&&\\
   &&no|ti&aapnoti\\
   &&&= {\dn aapnoti}\\
@@ -2884,10 +2876,7 @@ dangerous desire-form.\\
   &&&\\
   &{\dn buddhe.h}&bud|dhe\h{e}&\buddheH\\
   &&&\\
-  &{\dn para.m}&pa|ra.m&param\\
-  &&&= {\dn param}\\
-  &&&= \param\\
-  &&&\noteparamneuter\\
+  &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn buddhvaa}&bud|dhvaa&(?) having understood; awakened; learned\\
   &&&\note{\perfectparticiple}\\
