@@ -2745,6 +2745,15 @@
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{\verbroot{?}{?}}
 }
+
+\newcommand{\yuJjataH}{%
+  yu\~{}njata.h = {\dn yu~njata.h}\\
+  &&&= \ablativephrase/\genitivephrase\ yoking; yokings\\
+  &&&\note{\verbb, \presentparticiple, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \accusativecase}\\
+  &&&\note{\verbroot{?}{?}}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zAntiH}{peace}
 \newcommand{\notezAntiH}{\note{\noun, \female}}
