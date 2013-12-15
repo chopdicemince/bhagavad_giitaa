@@ -2128,9 +2128,18 @@
   &&&\note{\nounrootnaraka}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\nityam}{eternal; eternally; always}
-\newcommand{\notenityam}{\note{\adjective, \neuter, \adverb}\\
-  &&&\note{\male, \accusativecase}}
+\newcommand{\adjectiverootnitya}{\adjectiveroot{\dn nitya}{nitya}}
+\newcommand{\nityatemp}{eternal; usual; constant}
+
+\newcommand{\nityam}{%
+  nityam = {\dn nityam} = \nityatemp;\\
+  &&&eternally; usually; constantly; always\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adverb}\\
+  &&&\note{\adjectiverootnitya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nivaasa}{\vocativephrase\ residence}
 \newcommand{\notenivaasa}{\note{\noun, \male, \vocativecase}}
