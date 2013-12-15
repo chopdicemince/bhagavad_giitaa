@@ -2251,6 +2251,13 @@
 \newcommand{\para}{\paratemp}
 \newcommand{\notepara}{\note{\adjective}}
 
+\newcommand{\paraa}{%
+  paraa = {\dn paraa}\\
+  &&&= \paratemp\\
+  &&&\note{\adjective, \noun, \female, \nominativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\param}{%
   param = {\dn param}\\
   &&&= \paratemp; past/after\\
@@ -2267,9 +2274,6 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootpara}
 }
-
-\newcommand{\paraa}{\paratemp}
-\newcommand{\noteparaa}{\note{\adjective, \female}}
 
 \newcommand{\paraam}{\paratemp}
 \newcommand{\noteparaam}{\note{\adjective, \female, \accusativecase}}
