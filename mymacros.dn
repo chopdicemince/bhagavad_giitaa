@@ -2439,6 +2439,14 @@
 \newcommand{\noteprakRteH}{\note{\noun, \female}\\
   &&&\note{\ablativecase, \genitivecase}}
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootpradRS}{\verbroot{\dn prad.r.s}{prad.r.s}}
+
+\newcommand{\prapazyAmi}{%
+  prapa"syaami = {\dn prapa"syaami} = \I\ see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootpradRS}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\priya}{(something) pleasing; pleasant; favorite; loved; dear}
 \newcommand{\notepriya}{\note{\adjective, \noun}}
 
