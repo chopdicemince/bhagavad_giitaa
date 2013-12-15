@@ -2441,6 +2441,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootpradRS}{\verbroot{\dn prad.r.s}{prad.r.s}}
 
+\newcommand{\prapazya}{%
+  prapa"sya = {\dn prapa"sya} = \you\ see\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootpradRS}
+}
+
 \newcommand{\prapazyAmi}{%
   prapa"syaami = {\dn prapa"syaami} = \I\ see\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
