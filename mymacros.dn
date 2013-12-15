@@ -2171,7 +2171,7 @@
   &&&\note{\nounrootnivaasa}
 }
 
-\newcommand{\nivaasa}{
+\newcommand{\nivaasa}{%
   nivaasa = {\dn nivaasa} = \vocativephrase\ \nivaasatemp\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounrootnivaasa}
