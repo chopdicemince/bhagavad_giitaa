@@ -2358,6 +2358,12 @@
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{\verbrootdRS}
 }
+
+\newcommand{\pazyan}{%
+  pa"syan = {\dn pa"syan} = seeing\\
+  &&&\note{\verbb, \participle}\\
+  &&&\note{\verbrootdRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\phalam}{fruit (food, result)}
 \newcommand{\notephalam}{\note{\noun, \neuter}}
