@@ -2491,8 +2491,12 @@
   &&&\note{\nounrootprANa}
 } 
 
-\newcommand{\prANam}{\prANaH}
-\newcommand{\noteprANam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\prANam}{%
+  praa.nam = {\dn praa.nam}\\
+  &&&= \prANatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootprANa}
+}
 
 \newcommand{\prANAH}{breaths; lives; powers}
 \newcommand{\noteprANAH}{\note{\noun, \male, \plural}}

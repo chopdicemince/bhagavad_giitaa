@@ -2047,11 +2047,7 @@ breaths.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn hve} = hve}\\
   &&&\\
-  &{\dn praa.na.m}&praa|.na.m&praa.nam\\
-  &&&= {\dn praa.nam}\\
-  &&&= \prANam\\
-  &&&\noteprANam\\
-  &&&\note{from {\dn praa.na.h} = praa.na.h}\\
+  &{\dn praa.na.m}&praa|.na.m&\prANam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
