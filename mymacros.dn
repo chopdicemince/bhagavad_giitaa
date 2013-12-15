@@ -2385,6 +2385,16 @@
 \newcommand{\sammUDhaH}{stupid; stupefied}
 \newcommand{\notesammUDhaH}{\note{\adjective, \male}}
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsampada}{\nounroot{\dn sampada}{sampada}}
+\newcommand{\sampadatemp}{wealth}
+
+\newcommand{\sampadam}{%
+  sampadam = {\dn sampadam} = \sampadatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootsampada}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\saMsiddhim}{success}
 \newcommand{\notesaMsiddhim}{\note{\noun, \female, \accusativecase}}
 % ------------------------------------------------------------------------------
