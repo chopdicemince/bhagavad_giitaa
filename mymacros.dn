@@ -2147,8 +2147,9 @@
 
 \newcommand{\nityAH}{%
   nityaa.h = {\dn nityaa.h}\\
-  &&&= \nityatemp\\
-  &&&\note{\adjective, \male, \plural, \nominativecase}\\
+  &&&= (\vocativephrase) \nityatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootnitya}
 }
 
