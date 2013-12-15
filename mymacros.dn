@@ -2454,8 +2454,15 @@
   &&&\note{\nounrootpitR}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\pitAmahaH}{paternal grandfather}
-\newcommand{\notepitAmahaH}{\note{\noun, \male}}
+\newcommand{\nounrootpitaamaha}{\nounroot{\dn pitaamaha}{pitaamaha}}
+\newcommand{\pitaamahatemp}{father of father; paternal grandfather}
+
+\newcommand{\pitAmahaH}{%
+  pitaamaha.h = {\dn pitaamaha.h}\\
+  &&&= \pitaamahatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootpitaamaha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\prANaH}{breath; life; power}
 \newcommand{\noteprANaH}{\note{\noun, \male}}
