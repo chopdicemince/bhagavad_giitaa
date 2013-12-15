@@ -832,6 +832,14 @@
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootanusmR}{\verbroot{\dn anusm.r}{anusm.r}}
+
+\newcommand{\anusmaran}{%
+  anusmaran = {\dn anusmaran} = remembering\\
+  &&&\note{\verbb, \presentparticiple}\\
+  &&&\note{\verbrootanusmR}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\anvicchatu}{%
   anvicchatu = {\dn anvicchatu}\\
   &&&= \hesheit\ desires; wants; wishes; seeks\\
