@@ -2165,6 +2165,12 @@
 \newcommand{\nounrootnivaasa}{\nounroot{\dn nivaasa}{nivaasa}}
 \newcommand{\nivaasatemp}{residence}
 
+\newcommand{\nivAsaH}{%
+  nivaasa.h = {\dn nivaasa.h} = \nivaasatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootnivaasa}
+}
+
 \newcommand{\nivaasa}{
   nivaasa = {\dn nivaasa} = \vocativephrase\ \nivaasatemp\\
   &&&\note{\noun, \male, \vocativecase}\\

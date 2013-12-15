@@ -1299,8 +1299,7 @@ seed.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn nivaasa.h}&ni|vaa|sa\h{a}&residence\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn nivaasa.h}&ni|vaa|sa\h{a}&\nivAsaH\\
   &&&\\
   &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
   &&&= {\dn "sara.nam}\\
