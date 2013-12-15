@@ -839,6 +839,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootanudRS}
 }
+
+\newcommand{\anupazyanti}{%
+  anupa"syanti = {\dn anupa"syanti} = \they\ see\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootanudRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootanusmR}{\verbroot{\dn anusm.r}{anusm.r}}
 
