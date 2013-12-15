@@ -2415,6 +2415,12 @@
   &&&\note{\nounrootphala}
 }
 
+\newcommand{\phale}{%
+  phale = {\dn phale} = \locativephrase\ a/the \phalatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootphala}
+}
+
 \newcommand{\phalaani}{fruits (food, result)}
 \newcommand{\notephalaani}{\note{\noun, \neuter, \plural}}
 % ------------------------------------------------------------------------------
