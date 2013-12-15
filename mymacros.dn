@@ -832,6 +832,14 @@
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootanudRS}{\verbroot{\dn anud.r.s}{anud.r.s}}
+
+\newcommand{\anupazyati}{%
+  anupa"syati = {\dn anupa"syati} = \hesheit\ sees\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootanudRS}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootanusmR}{\verbroot{\dn anusm.r}{anusm.r}}
 
 \newcommand{\anusmaran}{%
