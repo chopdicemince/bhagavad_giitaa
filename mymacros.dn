@@ -2335,8 +2335,12 @@
   &&&\note{\adjectiverootparama}
 }
 
-\newcommand{\paramaam}{\paramatemp}
-\newcommand{\noteparamaam}{\note{\adjective, \female, \accusativecase}}
+\newcommand{\paramaam}{%
+  paramaam = {\dn paramaam}\\
+  &&&= \paramatemp\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{\adjectiverootparama}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pazyati}{\hesheit\ sees}
 \newcommand{\notepazyati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
