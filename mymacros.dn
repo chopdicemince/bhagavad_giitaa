@@ -2138,6 +2138,13 @@
   &&&\note{\adjectiverootnitya}
 }
 
+\newcommand{\nityasya}{%
+  nityasya = {\dn nityasya}\\
+  &&&= \genitivephrase\ \nityatemp\\
+  &&&\note{\adjective, \male, \neuter, \genitivecase}\\
+  &&&\note{\adjectiverootnitya}
+}
+
 \newcommand{\nityAH}{%
   nityaa.h = {\dn nityaa.h}\\
   &&&= \nityatemp\\
