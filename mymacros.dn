@@ -2305,20 +2305,27 @@
   &&&\note{\adjectiverootpara}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootparama}{\adjectiveroot{\dn parama}{parama}}
+\newcommand{\paramatemp}{paramount; better/best; worse/worst}
+
 \newcommand{\parama}{paramount; better/best; worse/worst}
 \newcommand{\noteparama}{\note{\adjective}}
 
-\newcommand{\paramaH}{\parama}
-\newcommand{\noteparamaH}{\note{\adjective, \male}}
+\newcommand{\paramaH}{%
+  parama.h = {\dn parama.h}\\
+  &&&= \paramatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootparama}
+}
 
-\newcommand{\paramam}{\parama}
+\newcommand{\paramam}{\paramatemp}
 \newcommand{\noteparamammale}{\note{\adjective, \male}}
 \newcommand{\noteparamamneuter}{\note{\adjective, \neuter}}
 
-\newcommand{\paramAH}{\parama}
+\newcommand{\paramAH}{\paramatemp}
 \newcommand{\noteparamAH}{\note{\adjective, \male, \plural}}
 
-\newcommand{\paramaam}{\parama}
+\newcommand{\paramaam}{\paramatemp}
 \newcommand{\noteparamaam}{\note{\adjective, \female, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\pazyati}{\hesheit\ sees}
