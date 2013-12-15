@@ -2481,8 +2481,15 @@
   &&&\note{\nounrootpitaamaha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\prANaH}{breath; life; power}
-\newcommand{\noteprANaH}{\note{\noun, \male}}
+\newcommand{\nounrootprANa}{\nounroot{\dn praa.na}{praa.na}}
+\newcommand{\prANatemp}{breath; life; power}
+
+\newcommand{\prANaH}{%
+  praa.na.h = {\dn praa.na.h}\\
+  &&&= \prANatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootprANa}
+} 
 
 \newcommand{\prANam}{\prANaH}
 \newcommand{\noteprANam}{\note{\noun, \male, \accusativecase}}
