@@ -2393,6 +2393,12 @@
   &&&\note{\verbrootdRS}
 }
 
+\newcommand{\pazyAmi}{%
+  pa"syaami = {\dn pa"syaami} = \I\ see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootdRS}
+}
+
 \newcommand{\pazyan}{%
   pa"syan = {\dn pa"syan} = seeing\\
   &&&\note{\verbb, \presentparticiple}\\

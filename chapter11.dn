@@ -1112,9 +1112,7 @@ syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
-  &&&\note{\verbb, \pasttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  1a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn devaa.mstava}&de|vaa.m|&\devaan\\
   &&&\\
@@ -1248,9 +1246,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  1b&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
   &&&\\
@@ -1309,9 +1305,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  2b&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn vi"sve"svara}&vi|"sve|&vi"svam\\\
   &&&= {\dn vi"svam}\\
@@ -1398,9 +1392,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  2a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
   &&&\\
@@ -1621,9 +1613,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn pa"syaami}&pa|"syaa|mi&(I) see\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root {\dn pa"s} = pa"s, {\dn d.r.s} = d.r.s}\\
+  2a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
   &&&\\
