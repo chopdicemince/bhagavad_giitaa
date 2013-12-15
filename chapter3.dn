@@ -268,11 +268,7 @@ reach fulfillment.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn siddhi.m}&sid|dhi.m&siddhim\\
-  &&&= {\dn siddhim}\\
-  &&&= \siddhim\\
-  &&&\notesiddhim\\
-  &&&\note{from {\dn siddhi.h} = siddhi.h}\\
+  2b&{\dn siddhi.m}&sid|dhi.m&\siddhim\\
   &&&\\
   &{\dn samadhigacchati}&sa|ma|dhi|gac|cha|ti&(he/she/it) surpasses; reads; reaches\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

@@ -813,11 +813,7 @@ action-born.\\
   &&&\\
   &{\dn karma.naa.m}&kar|ma|.naa.m&\karmaNAm\\
   &&&\\
-  &{\dn siddhi.m}&sid|dhi.m&siddhim\\
-  &&&= {\dn siddhim}\\
-  &&&= \siddhim\\
-  &&&\notesiddhim\\
-  &&&\note{from {\dn siddhi.h} = siddhi.h}\\
+  &{\dn siddhi.m}&sid|dhi.m&\siddhim\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
