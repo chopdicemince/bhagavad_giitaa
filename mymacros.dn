@@ -2453,6 +2453,13 @@
 \newcommand{\nounrootsiddhi}{\nounroot{\dn siddhi}{siddhi}}
 \newcommand{\siddhitemp}{success; perfection; fulfillment}
 
+\newcommand{\siddhiH}{%
+  siddhi.h = {\dn siddhi.h}\\
+  &&&= \siddhitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootsiddhi}
+}
+
 \newcommand{\siddhim}{%
   siddhim = {\dn siddhim}\\
   &&&= \siddhitemp\\
