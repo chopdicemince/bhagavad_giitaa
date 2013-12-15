@@ -2187,6 +2187,13 @@
   &&&\note{\adjectiverootniyata}
 }
 
+\newcommand{\niyatasya}{%
+  niyatasya = {\dn niyatasya}\\
+  &&&= \genitivephrase\ \niyatatemp\\
+  &&&\note{\adjective, \male, \neuter, \genitivecase}\\
+  &&&\note{\adjectiverootniyata}
+}
+
 \newcommand{\niyatam}{%
   niyatam = {\dn niyatam}\\
   &&&= \niyatatemp;\\
