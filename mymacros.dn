@@ -2347,6 +2347,12 @@
   &&&\note{\verbrootdRS}
 }
 
+\newcommand{\pazyanti}{%
+  pa"syanti = {\dn pa"syanti} = \they\ see\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootdRS}
+}
+
 \newcommand{\pazya}{%
   pa"sya = {\dn pa"sya} = \you\ see\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
