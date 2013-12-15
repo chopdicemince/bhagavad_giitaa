@@ -4598,8 +4598,9 @@ complete.\\
   &&&\\
   &{\dn aasiita}&aa|sii|ta&``(they) were'' (?)\\
   &&&\\
-  &{\dn matpara.h}&mat|pa|ra\h{a}&devoted to me\\
-  &&&\note{\adjective, \male}\\
+  &{\dn matpara.h}&mat|&\mat\\
+  &&&\\
+  &&pa|ra\h{a}&\paraH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

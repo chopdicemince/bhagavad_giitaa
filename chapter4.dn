@@ -2818,8 +2818,9 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tatpara.h}&tat|pa|ra\h{a}&devoted to; addicted to\\
-  &&&\note{\adjective, \male}\\
+  1b&{\dn tatpara.h}&tat|&\tat\\
+  &&&\\
+  &&pa|ra\h{a}&\paraH\\
   &&&\\
   &{\dn sa.myatendriya.h}&sa.m|ya|ten|&sa.myata\\
   &&&= {\dn samyata}\\
@@ -2917,10 +2918,7 @@ next (world).\\
   &&&\\
   &&na|&\na\\
   &&&\\
-  &&pa|ro&para.h\\
-  &&&= {\dn para.h}\\
-  &&&= \paraH\\
-  &&&\noteparaH\\
+  &&pa|ro&\paraH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

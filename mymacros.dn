@@ -2237,21 +2237,30 @@
 \newcommand{\notepaJca}{\note{\noun, \allgenders, \plural, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
-\newcommand{\paraH}{paramount; better/best; worse/worst;\\
-  &&&another; other; different; strange}
-\newcommand{\noteparaH}{\note{\adjective, \male}}
+\newcommand{\adjectiverootpara}{\adjectiveroot{\dn para}{para}}
+\newcommand{\paratemp}{%
+  paramount; better/best; worse/worst;\\
+  &&&another; other; different; strange
+}
 
-\newcommand{\para}{\paraH}
+\newcommand{\paraH}{%
+  para.h = {\dn para.h}\\
+  &&&= \paratemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
+\newcommand{\para}{\paratemp}
 \newcommand{\notepara}{\note{\adjective}}
 
-\newcommand{\param}{\paraH}
+\newcommand{\param}{\paratemp}
 \newcommand{\noteparammale}{\note{\adjective, \male, \accusativecase}}
 \newcommand{\noteparamneuter}{\note{\adjective, \neuter}}
 
-\newcommand{\paraa}{\paraH}
+\newcommand{\paraa}{\paratemp}
 \newcommand{\noteparaa}{\note{\adjective, \female}}
 
-\newcommand{\paraam}{\paraH}
+\newcommand{\paraam}{\paratemp}
 \newcommand{\noteparaam}{\note{\adjective, \female, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\parama}{paramount; better/best; worse/worst}
