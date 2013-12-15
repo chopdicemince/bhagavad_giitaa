@@ -2194,6 +2194,14 @@
   &&&\note{\adjectiverootniyata}
 }
 
+\newcommand{\niyatAH}{%
+  niyataa.h = {\dn niyataa.h}\\
+  &&&= \niyatatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootniyata}
+}
+
 \newcommand{\niyatam}{%
   niyatam = {\dn niyatam}\\
   &&&= \niyatatemp;\\
