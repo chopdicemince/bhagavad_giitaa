@@ -2258,6 +2258,13 @@
   &&&\note{\adjectiverootpara}
 }
 
+\newcommand{\paraam}{%
+  paraam = {\dn paraam}\\
+  &&&= \paratemp\\
+  &&&\note{\adjective, \noun, \female, \accusativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\param}{%
   param = {\dn param}\\
   &&&= \paratemp; past/after\\
@@ -2274,9 +2281,6 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootpara}
 }
-
-\newcommand{\paraam}{\paratemp}
-\newcommand{\noteparaam}{\note{\adjective, \female, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\parama}{paramount; better/best; worse/worst}
 \newcommand{\noteparama}{\note{\adjective}}
