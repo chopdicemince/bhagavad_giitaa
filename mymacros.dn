@@ -2573,6 +2573,14 @@
   &&&\note{\nounrootsiddhi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootsmR}{\verbroot{\dn sm.r}{sm.r}}
+
+\newcommand{\smaran}{%
+  smaran = {\dn smaran} = remembering\\
+  &&&\note{\verbb, \presentparticiple}\\
+  &&&\note{\verbrootsmR}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\sthaanam}{standing; staying; site}
 \newcommand{\notesthaanam}{\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}}
