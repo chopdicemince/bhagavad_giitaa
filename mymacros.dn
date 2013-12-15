@@ -2197,7 +2197,7 @@
 
 \newcommand{\niyatAH}{%
   niyataa.h = {\dn niyataa.h}\\
-  &&&= \niyatatemp\\
+  &&&= (\vocativephrase) \niyatatemp\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootniyata}
