@@ -1692,8 +1692,7 @@ has eleven main syllables per line.)\\
   &&&= born\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn nitya.h}&ni|tya\h{a}&eternal\\
-  &&&\note{\adjective, \male}\\
+  &{\dn nitya.h}&ni|tya\h{a}&\nityaH\\
   &&&\\
   &{\dn "saa"svato.aya.m}&"saa|"sva|to|&"saa"svata.h\\
   &&&= {\dn "saa"svata.h}\\
@@ -2027,8 +2026,7 @@ not moving. This is eternal.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nitya.h}&ni|tya\h{a}&eternal\\
-  &&&\note{\adjective, \male}\\
+  2a&{\dn nitya.h}&ni|tya\h{a}&\nityaH\\
   &&&\\
   &{\dn sarvagata.h}&sar|va|ga|ta\h{a}&everywhere\\
   &&&\note{\adverb, \male}\\

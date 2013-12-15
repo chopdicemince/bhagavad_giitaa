@@ -2131,6 +2131,13 @@
 \newcommand{\adjectiverootnitya}{\adjectiveroot{\dn nitya}{nitya}}
 \newcommand{\nityatemp}{eternal; usual; constant}
 
+\newcommand{\nityaH}{%
+  nitya.h = {\dn nitya.h}\\
+  &&&= \nityatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootnitya}
+}
+
 \newcommand{\nityam}{%
   nityam = {\dn nityam} = \nityatemp;\\
   &&&eternally; usually; constantly; always\\
