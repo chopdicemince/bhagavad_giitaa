@@ -2248,6 +2248,14 @@
   &&&\note{\adjectiverootpara}
 }
 
+\newcommand{\parAH}{%
+  paraa.h = {\dn paraa.h}\\
+  &&&= (\vocativephrase) \paratemp\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootpara}
+}
+
 \newcommand{\para}{\paratemp}
 \newcommand{\notepara}{\note{\adjective}}
 
