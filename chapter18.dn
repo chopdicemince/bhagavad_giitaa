@@ -3415,11 +3415,7 @@ success.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sa.msiddhi.m}&sa.m|sid|dhi.m&sa.msiddhim\\
-  &&&= {\dn sa.msiddhim}\\
-  &&&= \saMsiddhim\\
-  &&&\notesaMsiddhim\\
-  &&&\note{from {\dn sa.msiddhi.h} = sa.msiddhi.h}\\
+  1b&{\dn sa.msiddhi.m}&sa.m|sid|dhi.m&\saMsiddhim\\
   &&&\\
   &{\dn labhate}&la|bha|te&\labhate\\
   &&&\\

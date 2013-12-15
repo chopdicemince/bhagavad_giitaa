@@ -2395,8 +2395,15 @@
   &&&\note{\nounrootsampada}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\saMsiddhim}{success}
-\newcommand{\notesaMsiddhim}{\note{\noun, \female, \accusativecase}}
+\newcommand{\nounrootsaMsiddhi}{\nounroot{\dn sa.msiddhi}{sa.msiddhi}}
+\newcommand{\saMsiddhitemp}{success; perfection; fulfillment}
+
+\newcommand{\saMsiddhim}{%
+  sa.msiddhim = {\dn sa.msiddhim}\\
+  &&&= \saMsiddhitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootsaMsiddhi}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sarva}{each; all}
 \newcommand{\notesarva}{\note{\adjective, \pronoun, \adverb}}

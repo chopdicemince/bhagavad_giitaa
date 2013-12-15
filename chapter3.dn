@@ -1391,11 +1391,7 @@ mankind, you deserve to act.\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
-  &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&sa.msiddhim\\
-  &&&= {\dn sa.msiddhim}\\
-  &&&= \saMsiddhim\\
-  &&&\notesaMsiddhim\\
-  &&&\note{from {\dn samsiddhi.h} = samsiddhi.h}\\
+  &{\dn sa.msiddhimaasthitaa}&sa.m|sid|dhi|&\saMsiddhim\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
