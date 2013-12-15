@@ -77,7 +77,6 @@
 \newcommand{\pastparticiple}{past participle}
 \newcommand{\pastimperfecttense}{past imperpefect}
 \newcommand{\presenttense}{present tense}
-\newcommand{\presentcontinuoustense}{present continuous tense}
 \newcommand{\presentparticiple}{present participle}
 \newcommand{\futuretense}{future tense}
 \newcommand{\futuretensepossible}{future tense (possible)}
@@ -1830,6 +1829,13 @@
   k.rtvaa = {\dn k.rtvaa}\\
   &&&= having acted; worked; done\\
   &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootkR}
+}
+
+\newcommand{\kurvan}{%
+  kurvan = {\dn kurvan}\\
+  &&&= acting; working; doing\\
+  &&&\note{\verbb, \presentparticiple}\\
   &&&\note{\verbrootkR}
 }
 % ------------------------------------------------------------------------------
