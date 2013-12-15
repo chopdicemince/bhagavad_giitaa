@@ -2346,6 +2346,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootdRS}
 }
+
+\newcommand{\pazya}{%
+  pa"sya = {\dn pa"sya} = \you\ see\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootdRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\phalam}{fruit (food, result)}
 \newcommand{\notephalam}{\note{\noun, \neuter}}
