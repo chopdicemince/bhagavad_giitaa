@@ -2339,8 +2339,13 @@
   &&&\note{\adjectiverootparama}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\pazyati}{\hesheit\ sees}
-\newcommand{\notepazyati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\verbrootdRS}{\verbroot{\dn d.r.s}{d.r.s}}
+
+\newcommand{\pazyati}{%
+  pa"syati = {\dn pa"syati} = \hesheit\ sees\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootdRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\phalam}{fruit (food, result)}
 \newcommand{\notephalam}{\note{\noun, \neuter}}
