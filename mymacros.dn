@@ -2609,8 +2609,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\punaH}{again}
-\newcommand{\notepunaH}{\note{\adverb}}
+\newcommand{\punaH}{%
+  puna.h = {\dn puna.h} = again\\
+  &&&\note{\adverb}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\puruSaH}{man; soul; spirit; God}
 \newcommand{\notepuruSaH}{\note{\noun, \male}}

@@ -1289,10 +1289,7 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn punastavaadi.m}&pu|na|sta|&puna.h\\
-  &&&= {\dn puna.h}\\
-  &&&= \punaH\\
-  &&&\notepunaH\\
+  &{\dn punastavaadi.m}&pu|na|sta|&\punaH\\
   &&&\\
   &&vaa|&\tava\\
   &&&\\
@@ -3792,10 +3789,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn puna"sca}&pu|na"s|&puna.h\\
-  &&&= {\dn puna.h}\\
-  &&&= \punaH\\
-  &&&\notepunaH\\
+  2b&{\dn puna"sca}&pu|na"s|&\punaH\\
   &&&\\
   &&ca&\ca\\
   &&&\\
@@ -4872,8 +4866,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn mana.h} = mana.h}\\
   &&&\\
-  &{\dn punastva.m}&pu|na|&puna.h = {\dn puna.h} = \punaH\\
-  &&&\notepunaH\\
+  &{\dn punastva.m}&pu|na|&\punaH\\
   &&&\\
   &&stva.m&\tvam\\
 \end{tabular}
@@ -5003,7 +4996,6 @@ main syllables, instead of the usual eight.)\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn puna.h}&pu|na\h{a}&\punaH\\
-  &&&\notepunaH\\
   &&&\\
   &{\dn saumyavapurmahaatmaa}&sau|mya|&{\dn saumya}\\
   &&&= mild; pleasant\\

@@ -1134,10 +1134,7 @@ great-self, (and are) gone (to) a paramount success.\\
   &&pe|tya&upetya = {\dn upetya} = approaching\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn punarjanma}&pu|nar|&puna.h\\
-  &&&= {\dn puna.h}\\
-  &&&= \punaH\\
-  &&&\notepunaH\\
+  &{\dn punarjanma}&pu|nar|&\punaH\\
   &&&\\
   &&jan|ma&janmam\\
   &&&= {\dn janmam}\\
@@ -1220,10 +1217,7 @@ not again-born.\\
   &&&\\
   1b&\multicolumn{3}{l}{\dn punaraavartino.arjuna}\\
   &&&\\
-  &&pu|na|raa|&puna.h\\
-  &&&= {\dn puna.h}\\
-  &&&= \punaH\\
-  &&&\notepunaH\\
+  &&pu|na|raa|&\punaH\\
   &&&\\
   &&var|ti|no'r|&aavartina.h\\
   &&&= {\dn aavartina.h}\\
@@ -1249,10 +1243,7 @@ not again-born.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn punarjanma}&pu|nar|&puna.h\\
-  &&&= {\dn puna.h}\\
-  &&&= \punaH\\
-  &&&\notepunaH\\
+  2b&{\dn punarjanma}&pu|nar|&\punaH\\
   &&&\\
   &&jan|ma&janmam\\
   &&&= {\dn janmam}\\
@@ -2075,7 +2066,6 @@ path of whiteness), a man goes (to) final freedom. By the other
   &&&\note{root: {\dn aav.rt} = aav.rt}\\
   &&&\\
   &{\dn puna.h}&pu|na\h{a}&\punaH\\
-  &&&\notepunaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
