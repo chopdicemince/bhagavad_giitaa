@@ -856,11 +856,7 @@ powerful.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn puru.sa.m}&pu|ru|.sa.m&puru.sam\\
-  &&&= {\dn puru.sam}\\
-  &&&= man; spirit\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
+  2a&{\dn puru.sa.m}&pu|ru|.sa.m&\puruSam\\
   &&&\\
   &{\dn "saa"svata.m}&"saa|"sva|ta.m&"saa"svatam\\
   &&&= {\dn "saa"svatam}\\

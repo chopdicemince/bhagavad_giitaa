@@ -2623,6 +2623,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootpuruSa}
 }
+
+\newcommand{\puruSam}{%
+  puru.sam = {\dn puru.sam}\\
+  &&&= \puruSatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootpuruSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rAgaH}{redness; desire; passion}
 \newcommand{\noterAgaH}{\note{\noun, \male}}
