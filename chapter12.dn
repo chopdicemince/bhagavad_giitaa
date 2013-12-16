@@ -1050,7 +1050,6 @@ me---(whoever) (fits this description) (is) a from-me-devotee. He (is)
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1139,7 +1138,6 @@ of me.\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1218,7 +1216,6 @@ from-me-devotee. He (is) (a) favorite of me.\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1294,7 +1291,6 @@ desire, (is) a good-(and)-not-good-abandoner---(is) a devotee who---he
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1448,10 +1444,7 @@ opinion, devot(ed)---(such a person is) a favorite man of me.\\
   &&&\\
   &&me&{\dn me} = \me\\
   &&&\\
-  &{\dn priyo}&pri|yo&priya.h\\
-  &&&= {\dn priya.h}\\
-  &&&= \priyaH\\
-  &&&\notepriyaH\\
+  &{\dn priyo}&pri|yo&\priyaH\\
   &&&\\
   &{\dn nara.h}&na|ra\h{a}&\naraH\\
 \end{tabular}

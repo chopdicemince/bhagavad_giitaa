@@ -2561,11 +2561,18 @@
   &&&\note{\verbrootpradRS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootpriya}{\adjectiveroot{\dn priya}{priya}}
+\newcommand{\priyatemp}{pleasing; pleasant; favorite; loved; dear}
+
 \newcommand{\priya}{(something) pleasing; pleasant; favorite; loved; dear}
 \newcommand{\notepriya}{\note{\adjective, \noun}}
 
-\newcommand{\priyaH}{\priya}
-\newcommand{\notepriyaH}{\note{\adjective, \noun, \male}}
+\newcommand{\priyaH}{%
+  priya.h = {\dn priya.h}\\
+  &&&= \priyatemp\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\adjectiverootpriya}
+}
 
 \newcommand{\priyAH}{(things) pleasing; pleasant; favorite; loved; dear}
 \newcommand{\notepriyAH}{\note{\adjective, \noun, \male, \plural}}

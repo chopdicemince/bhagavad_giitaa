@@ -1235,10 +1235,7 @@ knowledge, and he (is) a friend of me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn priyo}&pri|yo&priya.h\\
-  &&&= {\dn priya.h}\\
-  &&&= \priyaH\\
-  &&&\notepriyaH\\
+  2a&{\dn priyo}&pri|yo&\priyaH\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
@@ -1265,7 +1262,6 @@ knowledge, and he (is) a friend of me.\\
   &{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-  &&&\notepriyaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
