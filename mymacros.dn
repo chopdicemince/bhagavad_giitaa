@@ -2630,6 +2630,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootpuruSa}
 }
+
+\newcommand{\puruSasya}{%
+  puru.sasya = {\dn puru.sasya}\\
+  &&&= \genitivephrase\ a/the \puruSatemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootpuruSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rAgaH}{redness; desire; passion}
 \newcommand{\noterAgaH}{\note{\noun, \male}}
