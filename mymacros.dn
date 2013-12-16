@@ -2637,6 +2637,15 @@
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{\nounrootpuruSa}
 }
+
+\newcommand{\puruSau}{%
+  puru.sau = {\dn puru.sau}\\
+  &&&= (\vocativephrase) two men; souls; spirits; Gods\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootpuruSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rAgaH}{redness; desire; passion}
 \newcommand{\noterAgaH}{\note{\noun, \male}}
