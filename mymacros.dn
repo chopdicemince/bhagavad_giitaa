@@ -2532,9 +2532,13 @@
   &&&\note{\nounrootprakRti}
 }
 
-\newcommand{\prakRteH}{\ablativephrase/\genitivephrase\ a/the \prakRtiH}
-\newcommand{\noteprakRteH}{\note{\noun, \female}\\
-  &&&\note{\ablativecase, \genitivecase}}
+\newcommand{\prakRteH}{%
+  prak.rte.h = {\dn prak.rte.h} = \ablativephrase/\genitivephrase\\
+  &&&a/the \prakRtitemp\\
+  &&&\note{\noun, \female}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootprakRti}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootpradRS}{\verbroot{\dn prad.r.s}{prad.r.s}}
 
