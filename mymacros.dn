@@ -2583,8 +2583,13 @@
   &&&\note{\adjectiverootpriya}
 }
 
-\newcommand{\priyAH}{(things) pleasing; pleasant; favorite; loved; dear}
-\newcommand{\notepriyAH}{\note{\adjective, \noun, \male, \plural}}
+\newcommand{\priyAH}{%
+  priyaa.h = {\dn priyaa.h}\\
+  &&&= (\vocativephrase) \priyatemp\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootpriya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pRthak}{separately}
 \newcommand{\notepRthak}{\note{\adverb, \indeclinable}}
