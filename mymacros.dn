@@ -2483,6 +2483,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprANa}{\nounroot{\dn praa.na}{praa.na}}
 \newcommand{\prANatemp}{breath; life; power}
+\newcommand{\prANapluraltemp}{breaths; life; powers}
 
 \newcommand{\prANaH}{%
   praa.na.h = {\dn praa.na.h}\\
@@ -2498,10 +2499,16 @@
   &&&\note{\nounrootprANa}
 }
 
-\newcommand{\prANAH}{breaths; lives; powers}
-\newcommand{\noteprANAH}{\note{\noun, \male, \plural}}
+\newcommand{\prANAH}{%
+  praa.naa.h = {\dn praa.naa.h}\\
+  &&&= (\vocativephrase) \prANapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounrootprANa}
+}
 
-\newcommand{\prANAn}{\prANAH}
+\newcommand{\prANAn}{\prANapluraltemp}
 \newcommand{\noteprANAn}{\note{\noun, \male, \plural, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\prakRtiH}{primal form}

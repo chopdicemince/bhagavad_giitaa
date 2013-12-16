@@ -1991,11 +1991,7 @@ inside nose, \dots\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn praa.naapaanau}&praa|.naa|&praa.naa.h\\
-  &&&= {\dn praa.naa.h}\\
-  &&&= \prANAH\\
-  &&&\noteprANAH\\
-  &&&\note{from {\dn praa.na.h} = praa.na.h}\\
+  2a&{\dn praa.naapaanau}&praa|.naa|&\prANAH\\
   &&&\\
   &&paa|nau&apaanau\\
   &&&= {\dn apaanau}\\
