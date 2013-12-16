@@ -2532,6 +2532,13 @@
   &&&\note{\nounrootprakRti}
 }
 
+\newcommand{\prakRtyA}{%
+  prak.rtyaa = {\dn prak.rtyaa} = \instrumentalphrase\\
+  &&&a/the \prakRtitemp\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{\nounrootprakRti}
+}
+
 \newcommand{\prakRteH}{%
   prak.rte.h = {\dn prak.rte.h} = \ablativephrase/\genitivephrase\\
   &&&a/the \prakRtitemp\\
