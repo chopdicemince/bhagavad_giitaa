@@ -2590,6 +2590,14 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootpriya}
 }
+
+\newcommand{\priyAyAH}{%
+  priyaayaa.h = {\dn priyaayaa.h} = \ablativephrase/\genitivephrase\\
+  &&&\priyatemp\\
+  &&&\note{\adjective, \noun, \female}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\adjectiverootpriya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\pRthak}{separately}
 \newcommand{\notepRthak}{\note{\adverb, \indeclinable}}
