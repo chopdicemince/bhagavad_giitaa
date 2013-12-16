@@ -2599,10 +2599,12 @@
   &&&\note{\adjectiverootpriya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\pRthak}{separately}
-\newcommand{\notepRthak}{\note{\adverb, \indeclinable}}
+\newcommand{\pRthak}{%
+  p.rthak = {\dn p.rthak} = separately\\
+  &&&\note{\adverb, \indeclinable}
+}
 
-\newcommand{\pRthaktvena}{\pRthak}
+\newcommand{\pRthaktvena}{separately}
 \newcommand{\notepRthaktvena}{\note{\adverb, \indeclinable}}
 % ------------------------------------------------------------------------------
 \newcommand{\punaH}{again}

@@ -340,7 +340,6 @@ God-saying-words, and really, reason \dots (?) \dots, using sure
   &&&\note{from {\dn vividha.h} = vividha.h}\\
   &&&\\
   &{\dn p.rthak}&p.r|thak&\pRthak\\
-  &&&\notepRthak\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2238,10 +2237,7 @@ person) attains God.\\
   &&&\\
   &&bhuu|ta|&\bhuutam\\
   &&&\\
-  &&p.r|thag|&p.rthak\\
-  &&&= {\dn p.rthak}\\
-  &&&= \pRthak\\
-  &&&\notepRthak\\
+  &&p.r|thag|&\pRthak\\
   &&&\\
   &&bhaa|va|&\bhaavam\\
   % ----------------------------------------------------------------------------
