@@ -2574,6 +2574,15 @@
   &&&\note{\adjectiverootpriya}
 }
 
+\newcommand{\priyam}{%
+  priyam = {\dn priyam}\\
+  &&&= \priyatemp\\
+  &&&\note{\adjective, \noun}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpriya}
+}
+
 \newcommand{\priyAH}{(things) pleasing; pleasant; favorite; loved; dear}
 \newcommand{\notepriyAH}{\note{\adjective, \noun, \male, \plural}}
 % ------------------------------------------------------------------------------

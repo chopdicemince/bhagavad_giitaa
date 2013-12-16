@@ -1411,9 +1411,7 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{from: {\dn prah.r.s} = prah.r.s}\\
   &&&\\
-  &&pri|ya.m&priyam = {\dn priyam} = pleasure; kindness; love\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&pri|ya.m&\priyam\\
   &&&\\
   &{\dn praapya}&praa|pya&attainable; accessible; available\\
   &&&\note{\adjective}\\
@@ -1435,10 +1433,7 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&pri|yam&{\dn priyam}\\
-  &&&= pleasure; kindness; love\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&pri|yam&\priyam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
