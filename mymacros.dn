@@ -2515,8 +2515,15 @@
   &&&\note{\nounrootprANa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\prakRtiH}{primal form}
-\newcommand{\noteprakRtiH}{\note{\noun, \female}}
+\newcommand{\nounrootprakRti}{\nounroot{\dn prak.rti}{prak.rti}}
+\newcommand{\prakRtitemp}{primal/original/uninflected form}
+
+\newcommand{\prakRtiH}{%
+  prak.rti.h = {\dn prak.rti.h}\\
+  &&&= \prakRtitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootprakRti}
+}
 
 \newcommand{\prakRtim}{\prakRtiH}
 \newcommand{\noteprakRtim}{\note{\noun, \female, \accusativecase}}
