@@ -2604,8 +2604,10 @@
   &&&\note{\adverb, \indeclinable}
 }
 
-\newcommand{\pRthaktvena}{separately}
-\newcommand{\notepRthaktvena}{\note{\adverb, \indeclinable}}
+\newcommand{\pRthaktvena}{%
+  p.rthaktvena = {\dn p.rthaktvena} = separately\\
+  &&&\note{\adverb, \indeclinable}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\punaH}{again}
 \newcommand{\notepunaH}{\note{\adverb}}
