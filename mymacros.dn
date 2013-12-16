@@ -2508,8 +2508,12 @@
   &&&\note{\nounrootprANa}
 }
 
-\newcommand{\prANAn}{\prANapluraltemp}
-\newcommand{\noteprANAn}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\prANAn}{%
+  praa.naan = {\dn praa.naan}\\
+  &&&= \prANapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootprANa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\prakRtiH}{primal form}
 \newcommand{\noteprakRtiH}{\note{\noun, \female}}
