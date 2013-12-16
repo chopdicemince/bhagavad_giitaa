@@ -5100,11 +5100,7 @@ gone.\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn ceta.h} = ceta.h}\\
   &&&\\
-  &{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
-  &&&= {\dn prak.rtim}\\
-  &&&= \prakRtim\\
-  &&&\noteprakRtim\\
-  &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
+  &{\dn prak.rti.m}&pra|k.r|ti.m&\prakRtim\\
   &&&\\
   &{\dn gata.h}&ga|ta\h{a}&gone\\
   &&&\note{\adjective, \male}\\

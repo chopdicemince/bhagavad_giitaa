@@ -2205,11 +2205,7 @@ do?\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn prak.rti.m}&pra|k.r|ti.m&prak.rtim\\
-  &&&= {\dn prak.rtim}\\
-  &&&= \prakRtim\\
-  &&&\noteprakRtim\\
-  &&&\note{from {\dn prak.rti.h} = prak.rti.h}\\
+  2a&{\dn prak.rti.m}&pra|k.r|ti.m&\prakRtim\\
   &&&\\
   &{\dn yaanti}&yaan|ti&\yaanti\\
   &&&\noteyaanti\\

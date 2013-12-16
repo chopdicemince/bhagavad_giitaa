@@ -2525,8 +2525,12 @@
   &&&\note{\nounrootprakRti}
 }
 
-\newcommand{\prakRtim}{\prakRtiH}
-\newcommand{\noteprakRtim}{\note{\noun, \female, \accusativecase}}
+\newcommand{\prakRtim}{%
+  prak.rtim = {\dn prak.rtim}\\
+  &&&= \prakRtitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootprakRti}
+}
 
 \newcommand{\prakRteH}{\ablativephrase/\genitivephrase\ a/the \prakRtiH}
 \newcommand{\noteprakRteH}{\note{\noun, \female}\\
