@@ -2614,8 +2614,15 @@
   &&&\note{\adverb}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\puruSaH}{man; soul; spirit; God}
-\newcommand{\notepuruSaH}{\note{\noun, \male}}
+\newcommand{\nounrootpuruSa}{\nounroot{\dn puru.sa}{puru.sa}}
+\newcommand{\puruSatemp}{man; soul; spirit; God}
+
+\newcommand{\puruSaH}{%
+  puru.sa.h = {\dn puru.sa.h}\\
+  &&&= \puruSatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootpuruSa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rAgaH}{redness; desire; passion}
 \newcommand{\noterAgaH}{\note{\noun, \male}}

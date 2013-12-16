@@ -1257,10 +1257,7 @@ is suitable for ``not-dead'' (immortality).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn puru.sa.h} = puru.sa.h}\\
   &&&\\
-  &{\dn puru.sar.sabha}&pu|ru|.sar|&puru.sa.h\\
-  &&&= {\dn puru.sa.h}\\
-  &&&= \puruSaH\\
-  &&&\notepuruSaH\\
+  &{\dn puru.sar.sabha}&pu|ru|.sar|&\puruSaH\\
   &&&\\
   &&.sa|bha&.r.sabha\\
   &&&= {\dn .r.sabha}\\
@@ -1772,7 +1769,6 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
-  &&&\notepuruSaH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   % ----------------------------------------------------------------------------

@@ -224,10 +224,7 @@ O ultimate-man (O \textkrsna).\\
   &&&= majestic; mighty\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn puru.sottama}&pu|ru|.sot|&puru.sa.h\\
-  &&&= {\dn puru.sa.h}\\
-  &&&= \puruSaH\\
-  &&&\notepuruSaH\\
+  &{\dn puru.sottama}&pu|ru|.sot|&\puruSaH\\
   &&&\\
   &&ta|ma&uttama\\
   &&&= {\dn uttama}\\
@@ -1519,10 +1516,7 @@ instead of the usual eight.)\\
   &&&\\
   &&stva.m&\tvam\\
   &&&\\
-  &{\dn puru.so}&pu|ru|.so&puru.sa.h\\
-  &&&= {\dn puru.sa.h}\\
-  &&&= \puruSaH\\
-  &&&\notepuruSaH\\
+  &{\dn puru.so}&pu|ru|.so&\puruSaH\\
   &&&\\
   &{\dn mato}&ma|to&\mataH\\
   &&&\\
@@ -3621,7 +3615,6 @@ instead of the usual eight.)\\
   &&de|va\h{a}&\devaH\\
   &&&\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
-  &&&\notepuruSaH\\
   &&&\\
   &{\dn puraa.nas}&pu|raa|.nas&puraa.na.h\\
   &&&= {\dn puraa.na.h}\\
