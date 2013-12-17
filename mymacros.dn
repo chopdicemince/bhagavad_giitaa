@@ -2791,8 +2791,12 @@
   &&&\note{\nounrootsaGga}
 }
 
-\newcommand{\saGgena}{\instrumentalphrase\ \saGgatemp}
-\newcommand{\notesaGgena}{\note{\noun, \male, \instrumentalcase}}
+\newcommand{\saGgena}{%
+  sa"ngena = {\dn sa"ngena} = \instrumentalphrase\\
+  &&&\saGgatemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootsaGga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\saGkalpaH}{will (determination)}
 \newcommand{\notesaGkalpaH}{\note{\noun, \male}}
