@@ -2774,13 +2774,20 @@
   &&&\note{\nounrootruupa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\saGgaH}{sticking; attachment; yoking; desire}
-\newcommand{\notesaGgaH}{\note{\noun, \male}}
+\newcommand{\nounrootsaGga}{\nounroot{\dn sa"nga}{sa"nga}}
+\newcommand{\saGgatemp}{sticking; attachment; yoking; desire}
 
-\newcommand{\saGgam}{\saGgaH}
+\newcommand{\saGgaH}{%
+  sa"nga.h = {\dn sa"nga.h}\\
+  &&&= \saGgatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsaGga}
+}
+
+\newcommand{\saGgam}{\saGgatemp}
 \newcommand{\notesaGgam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\saGgena}{\instrumentalphrase\ \saGgaH}
+\newcommand{\saGgena}{\instrumentalphrase\ \saGgatemp}
 \newcommand{\notesaGgena}{\note{\noun, \male, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\saGkalpaH}{will (determination)}
