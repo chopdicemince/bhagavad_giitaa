@@ -2675,8 +2675,14 @@
   &&&\note{\nounrootraaga}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\raajaa}{king}
-\newcommand{\noteraajaa}{\note{\noun, \male}}
+\newcommand{\nounrootraajan}{\nounroot{\dn raajan}{raajan}}
+\newcommand{\raajantemp}{king}
+
+\newcommand{\raajaa}{%
+  raajaa = {\dn raajaa} = \raajantemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootraajan}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rajas}{one of the three gu.nas;\\
   &&&passion; emotion; darkness; dirtiness; menses;\\
