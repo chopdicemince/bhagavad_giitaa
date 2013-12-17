@@ -2846,6 +2846,13 @@
   &&&\note{\adjectiverootsama}
 }
 
+\newcommand{\same}{%
+  same = {\dn same} = \locativephrase\\
+  &&&\samatemp\\
+  &&&\note{\adjective, \male, \neuter, \locativecase}\\
+  &&&\note{\adjectiverootsama}
+}
+
 \newcommand{\samAH}{\samatemp}
 \newcommand{\notesamAH}{\note{\adjective, \male, \plural}}
 % ------------------------------------------------------------------------------
