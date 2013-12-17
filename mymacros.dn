@@ -2703,8 +2703,12 @@
   &&&\note{\nounrootrajas}
 }
 
-\newcommand{\rajasi}{\locativephrase\ \rajastemp}
-\newcommand{\noterajasi}{\note{\noun, \neuter, \locativecase}}
+\newcommand{\rajasi}{%
+  rajasi = {\dn rajasi}\\
+  &&&= \locativephrase\ \rajastemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootrajas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rathaH}{chariot; cart; warrior; (act of) joy}
 \newcommand{\noterathaH}{\note{\noun, \male}}
