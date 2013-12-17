@@ -2870,6 +2870,14 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootsammUDha}
 }
+
+\newcommand{\sammUDhAH}{%
+  sammuu.dhaa.h = {\dn sammuu.dhaa.h}\\
+  &&&= (\vocativephrase) \sammUDhatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootsammUDha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsampada}{\nounroot{\dn sampada}{sampada}}
 \newcommand{\sampadatemp}{wealth}
