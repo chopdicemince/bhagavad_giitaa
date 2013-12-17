@@ -2744,9 +2744,15 @@
   &&&\note{\nounrootratha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\ruupam}{form}
-\newcommand{\noteruupam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootruupa}{\nounroot{\dn ruupa}{ruupa}}
+\newcommand{\ruupatemp}{form}
+
+\newcommand{\ruupam}{%
+  ruupam = {\dn ruupam} = \ruupatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootruupa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\saGgaH}{sticking; attachment; yoking; desire}
 \newcommand{\notesaGgaH}{\note{\noun, \male}}
