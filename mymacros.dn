@@ -2683,6 +2683,12 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootraajan}
 }
+
+\newcommand{\raajan}{%
+  raajan = {\dn raajan} = \vocativephrase\ \raajantemp\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounrootraajan}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\rajas}{one of the three gu.nas;\\
   &&&passion; emotion; darkness; dirtiness; menses;\\
