@@ -2899,31 +2899,37 @@
   &&&\note{\nounrootsaMsiddhi}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sarva}{each; all}
+\newcommand{\adjectiverootsarva}{\adjectiveroot{\dn sarva}{sarva}}
+\newcommand{\sarvatemp}{each; all}
+
+\newcommand{\sarva}{\sarvatemp}
 \newcommand{\notesarva}{\note{\adjective, \pronoun, \adverb}}
 
-\newcommand{\sarvaH}{\sarva}
-\newcommand{\notesarvaH}{\note{\adjective, \pronoun, \male, \adverb}}
+\newcommand{\sarvaH}{%
+  sarva.h = {\dn sarva.h} = \sarvatemp\\
+  &&&\note{\adjective, \pronoun, \male}\\
+  &&&\note{\adjectiverootsarva}
+}
 
-\newcommand{\sarvasya}{\genitivephrase\ \sarva}
+\newcommand{\sarvasya}{\genitivephrase\ \sarvatemp}
 \newcommand{\notesarvasya}[1]{\note{\adjective, \pronoun, #1, \genitivecase}}
 
-\newcommand{\sarvemale}{\sarva}
+\newcommand{\sarvemale}{\sarvatemp}
 \newcommand{\notesarvemale}{\note{\adjective, \pronoun, \male, \plural, \adverb}}
 
-\newcommand{\sarvaan}{\sarva}
+\newcommand{\sarvaan}{\sarvatemp}
 \newcommand{\notesarvaan}{\note{\adjective, \pronoun, \male, \plural, \accusativecase}}
 
-\newcommand{\sarvam}{\sarva}
+\newcommand{\sarvam}{\sarvatemp}
 \newcommand{\notesarvammale}{\note{\adjective, \pronoun, \male, \accusativecase, \adverb}}
 \newcommand{\notesarvamneuter}{\note{\adjective, \pronoun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase, \adverb}}
 
-\newcommand{\sarvANi}{\sarva}
+\newcommand{\sarvANi}{\sarvatemp}
 \newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase, \adverb}}
 
-\newcommand{\sarveSu}{\locativephrase\ \sarva}
+\newcommand{\sarveSu}{\locativephrase\ \sarvatemp}
 \newcommand{\notesarveSu}{\note{\adjective, \pronoun, \male}\\
   &&&\note{\neuter, \plural, \locativecase}}
 % ------------------------------------------------------------------------------
