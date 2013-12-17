@@ -2797,6 +2797,13 @@
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{\nounrootsaGga}
 }
+
+\newcommand{\saGgasya}{%
+  sa"ngasya = {\dn sa"ngasya}\\
+  &&&= \genitivephrase\ \saGgatemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootsaGga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\saGkalpaH}{will (determination)}
 \newcommand{\notesaGkalpaH}{\note{\noun, \male}}
