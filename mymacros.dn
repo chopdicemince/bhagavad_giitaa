@@ -3176,6 +3176,12 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootzama}
 }
+
+\newcommand{\zamam}{%
+  "samam = {\dn "samam} = \zamatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootzama}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zaraNam}{shelter; protection; refuge}
 \newcommand{\notezaraNam}{\note{\noun, \neuter}\\
