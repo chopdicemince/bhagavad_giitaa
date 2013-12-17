@@ -2720,6 +2720,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootratha}{\nounroot{\dn ratha}{ratha}}
 \newcommand{\rathatemp}{chariot; cart; warrior; (act of) joy}
+\newcommand{\rathapluraltemp}{chariots; carts; warriors; (acts of) joy}
 
 \newcommand{\rathaH}{%
   ratha.h = {\dn ratha.h}\\
@@ -2735,9 +2736,13 @@
   &&&\note{\nounrootratha}
 }
 
-\newcommand{\rathAH}{(\vocativephrase) chariots; carts; warriors; (acts of) joy}
-\newcommand{\noterathAH}{\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}}
+\newcommand{\rathAH}{%
+  rathaa.h = {\dn rathaa.h}\\
+  &&&= (\vocativephrase) chariots; carts; warriors; (acts of) joy\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootratha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\ruupam}{form}
 \newcommand{\noteruupam}{\note{\noun, \neuter}\\
