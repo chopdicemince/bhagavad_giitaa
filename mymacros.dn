@@ -2853,8 +2853,13 @@
   &&&\note{\adjectiverootsama}
 }
 
-\newcommand{\samAH}{\samatemp}
-\newcommand{\notesamAH}{\note{\adjective, \male, \plural}}
+\newcommand{\samAH}{%
+  samaa.h = {\dn samaa.h}\\
+  &&&= \samatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootsama}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sammUDhaH}{stupid; stupefied}
 \newcommand{\notesammUDhaH}{\note{\adjective, \male}}
