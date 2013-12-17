@@ -2776,6 +2776,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsaGga}{\nounroot{\dn sa"nga}{sa"nga}}
 \newcommand{\saGgatemp}{sticking; attachment; yoking; desire}
+\newcommand{\saGgapluraltemp}{sticking; attachments; yokings; desires}
 
 \newcommand{\saGgaH}{%
   sa"nga.h = {\dn sa"nga.h}\\
@@ -2802,6 +2803,13 @@
   sa"ngasya = {\dn sa"ngasya}\\
   &&&= \genitivephrase\ \saGgatemp\\
   &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootsaGga}
+}
+
+\newcommand{\saGgeSu}{%
+  sa"nge.su = {\dn sa"nge.su} = \locativephrase\\
+  &&&\saGgapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{\nounrootsaGga}
 }
 % ------------------------------------------------------------------------------
