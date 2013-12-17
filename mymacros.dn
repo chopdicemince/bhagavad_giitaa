@@ -2861,8 +2861,15 @@
   &&&\note{\adjectiverootsama}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sammUDhaH}{stupid; stupefied}
-\newcommand{\notesammUDhaH}{\note{\adjective, \male}}
+\newcommand{\adjectiverootsammUDha}{\adjectiveroot{\dn sammuu.dha}{sammuu.dha}}
+\newcommand{\sammUDhatemp}{\mUDhatemp}
+
+\newcommand{\sammUDhaH}{%
+  sammuu.dha.h = {\dn sammuu.dha.h}\\
+  &&&= \sammUDhatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsammUDha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsampada}{\nounroot{\dn sampada}{sampada}}
 \newcommand{\sampadatemp}{wealth}
