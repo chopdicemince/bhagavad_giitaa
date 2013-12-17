@@ -2703,6 +2703,14 @@
   &&&\note{\nounrootrajas}
 }
 
+\newcommand{\rajasaH}{%
+  rajasa.h = {\dn rajasa.h}\\
+  &&&= \ablativephrase/\genitivephrase\ \rajastemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootrajas}
+}
+
 \newcommand{\rajasi}{%
   rajasi = {\dn rajasi}\\
   &&&= \locativephrase\ \rajastemp\\
