@@ -2658,11 +2658,20 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootraaga}{\nounroot{\dn raaga}{raaga}}
 \newcommand{\raagatemp}{redness; desire; passion}
+\newcommand{\raagapluraltemp}{redness; desires; passions}
 
 \newcommand{\rAgaH}{%
   raaga.h = {\dn raaga.h}\\
   &&&= \raagatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootraaga}
+}
+
+\newcommand{\rAgAH}{%
+  raagaa.h = {\dn raagaa.h}\\
+  &&&= (\vocativephrase) \raagapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootraaga}
 }
 % ------------------------------------------------------------------------------
