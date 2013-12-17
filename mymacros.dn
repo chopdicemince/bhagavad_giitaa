@@ -2728,8 +2728,12 @@
   &&&\note{\nounrootratha}
 }
 
-\newcommand{\ratham}{\rathatemp}
-\newcommand{\noteratham}{\note{\noun, \male, \accusativecase}}
+\newcommand{\ratham}{%
+  ratham = {\dn ratham}\\
+  &&&= \rathatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootratha}
+}
 
 \newcommand{\rathAH}{(\vocativephrase) chariots; carts; warriors; (acts of) joy}
 \newcommand{\noterathAH}{\note{\noun, \male, \plural}\\
