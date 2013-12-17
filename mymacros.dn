@@ -2784,8 +2784,12 @@
   &&&\note{\nounrootsaGga}
 }
 
-\newcommand{\saGgam}{\saGgatemp}
-\newcommand{\notesaGgam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\saGgam}{%
+  sa"ngam = {\dn sa"ngam}\\
+  &&&= \saGgatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootsaGga}
+}
 
 \newcommand{\saGgena}{\instrumentalphrase\ \saGgatemp}
 \newcommand{\notesaGgena}{\note{\noun, \male, \instrumentalcase}}
