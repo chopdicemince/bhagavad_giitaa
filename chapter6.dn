@@ -140,10 +140,7 @@ not active.\\
   &&&= abandoned\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&sa"n|kal|po&sa"nkalpa.h\\
-  &&&= {\dn sa"nkalpa.h}\\
-  &&&= \saGkalpaH\\
-  &&&\notesaGkalpaH\\
+  &&sa"n|kal|po&\saGkalpaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -275,10 +272,7 @@ having attained yoking.\\
   &&&= \sarvaH\\
   &&&\notesarvaH\\
   &&&\\
-  &&sa"n|kal|pa|&sa"nkalpa.h\\
-  &&&= {\dn sa"nkalpa.h}\\
-  &&&= \saGkalpaH\\
-  &&&\notesaGkalpaH\\
+  &&sa"n|kal|pa|&\saGkalpaH\\
   &&&\\
   &&san|nyaa|sii&(?)\\
   &&&\note{similar: \noun, \male, {\dn sa.mnyaasa.h} = sa.mnyaasa.h}\\
@@ -1718,10 +1712,7 @@ everywhere.\\
 \begin{tabular}{llll}
   2a&\multicolumn{3}{l}{\dn sa"nkalpaprabhavaankaamaa.mstyaktvaa}\\
   &&&\\
-  &&sa"n|kal|pa|&sa"nkalpa.h\\
-  &&&= {\dn sa"nkalpa.h}\\
-  &&&= \saGkalpaH\\
-  &&&\notesaGkalpaH\\
+  &&sa"n|kal|pa|&\saGkalpaH\\
   &&&\\
   &&pra|bha|vaan|&{\dn prabhavaan}\\
   &&&= births\\

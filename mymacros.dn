@@ -2813,8 +2813,15 @@
   &&&\note{\nounrootsaGga}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\saGkalpaH}{will (determination)}
-\newcommand{\notesaGkalpaH}{\note{\noun, \male}}
+\newcommand{\nounrootsaGkalpa}{\nounroot{\dn sa"nkalpa}{sa"nkalpa}}
+\newcommand{\saGkalpatemp}{will; determination; conviction}
+
+\newcommand{\saGkalpaH}{%
+  sa"nkalpa.h = {\dn sa"nkalpa.h}\\
+  &&&= \saGkalpatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsaGkalpa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sama}{same; equal; similar; straight; complete}
 \newcommand{\notesama}{\note{\adjective}}
