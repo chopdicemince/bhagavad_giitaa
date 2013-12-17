@@ -2836,9 +2836,15 @@
   &&&\note{\adjectiverootsama}
 }
 
-\newcommand{\samam}{\samatemp}
-\newcommand{\notesamammale}{\note{\adjective, \male, \accusativecase}}
-\newcommand{\notesamamneuter}{\note{\adjective, \neuter}}
+\newcommand{\samam}{%
+  samam = {\dn samam}\\
+  &&&= \samatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adverb}\\
+  &&&\note{\adjectiverootsama}
+}
 
 \newcommand{\samAH}{\samatemp}
 \newcommand{\notesamAH}{\note{\adjective, \male, \plural}}
