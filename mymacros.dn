@@ -2823,17 +2823,24 @@
   &&&\note{\nounrootsaGkalpa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sama}{same; equal; similar; straight; complete}
+\newcommand{\adjectiverootsama}{\adjectiveroot{\dn sama}{sama}}
+\newcommand{\samatemp}{same; equal; similar; straight; complete}
+
+\newcommand{\sama}{\samatemp}
 \newcommand{\notesama}{\note{\adjective}}
 
-\newcommand{\samaH}{\sama}
-\newcommand{\notesamaH}{\note{\adjective, \male}}
+\newcommand{\samaH}{%
+  sama.h = {\dn sama.h}\\
+  &&&= \samatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsama}
+}
 
-\newcommand{\samam}{\sama}
+\newcommand{\samam}{\samatemp}
 \newcommand{\notesamammale}{\note{\adjective, \male, \accusativecase}}
 \newcommand{\notesamamneuter}{\note{\adjective, \neuter}}
 
-\newcommand{\samAH}{\sama}
+\newcommand{\samAH}{\samatemp}
 \newcommand{\notesamAH}{\note{\adjective, \male, \plural}}
 % ------------------------------------------------------------------------------
 \newcommand{\sammUDhaH}{stupid; stupefied}
