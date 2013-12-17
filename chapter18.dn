@@ -1638,10 +1638,7 @@ good.\\
   &&&\\
   1b&&ma|&\aprefix\\
   &&&\\
-  &&raa|ga|&raaga.h\\
-  &&&= {\dn raaga.h}\\
-  &&&= \rAgaH\\
-  &&&\noterAgaH\\
+  &&raa|ga|&\rAgaH\\
   &&&\\
   &&dve|.sa|ta\h{a}&{\dn dve.sata.h}\\
   &&&= (?)\\
@@ -1923,10 +1920,10 @@ non-clean, happiness(-and)-sorrow-having---(such an) actor is said (to
 be) of passion.\\
 
 \begin{tabular}{llll}
-  1a&{\dn raagii}&raa|gii&(?) desiring person\\
-  &&&\note{\noun, \male}\\
-  &&&\note{similar: \noun, \male, {\dn raaga.h} = raaga.h}\\
-  &&&\note{= redness; desire}\\
+  1a&{\dn raagii}&raa|gii&man of redness; desire; passion\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{similar:}\\
+  &&&\note{\noun, \male, {\dn raaga.h} = raaga.h}\\
   &&&\\
   &\multicolumn{3}{l}{\dn karmaphalaprepsurlubdho}\\
   &&&\\
@@ -3806,10 +3803,7 @@ desire(-and)-dislike-dry(ness) (indifference), \dots\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn raagadve.sau}&raa|ga|&raaga.h\\
-  &&&= {\dn raaga.h}\\
-  &&&= \rAgaH\\
-  &&&\noterAgaH\\
+  2b&{\dn raagadve.sau}&raa|ga|&\rAgaH\\
   &&&\\
   &&dve|.sau&\dveSau\\
   &&&\\

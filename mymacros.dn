@@ -2656,8 +2656,15 @@
   &&&\note{\nounrootpuruSa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\rAgaH}{redness; desire; passion}
-\newcommand{\noterAgaH}{\note{\noun, \male}}
+\newcommand{\nounrootraaga}{\nounroot{\dn raaga}{raaga}}
+\newcommand{\raagatemp}{redness; desire; passion}
+
+\newcommand{\rAgaH}{%
+  raaga.h = {\dn raaga.h}\\
+  &&&= \raagatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootraaga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\raajaa}{king}
 \newcommand{\noteraajaa}{\note{\noun, \male}}

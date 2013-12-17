@@ -449,10 +449,7 @@ action-sticking.\\
   &&&= \rajas\\
   &&&\noterajas\\
   &&&\\
-  &{\dn raagaatmaka.m}&raa|gaat|&raaga.h\\
-  &&&= {\dn raaga.h}\\
-  &&&= \rAgaH\\
-  &&&\noterAgaH\\
+  &{\dn raagaatmaka.m}&raa|gaat|&\rAgaH\\
   &&&\\
   &&ma|ka.m&aatmaakam\\
   &&&= {\dn aatmaakam}\\
