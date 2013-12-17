@@ -3168,6 +3168,15 @@
 \newcommand{\zaGkham}{conch shell}
 \newcommand{\notezaGkham}{\note{\noun, \male, \accusativecase}}
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootzama}{\nounroot{\dn "sama}{"sama}}
+\newcommand{\zamatemp}{peace}
+
+\newcommand{\zamaH}{%
+  "sama.h = {\dn "sama.h} = \zamatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootzama}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\zaraNam}{shelter; protection; refuge}
 \newcommand{\notezaraNam}{\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}}
