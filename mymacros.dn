@@ -2746,6 +2746,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootruupa}{\nounroot{\dn ruupa}{ruupa}}
 \newcommand{\ruupatemp}{form}
+\newcommand{\ruupapluraltemp}{forms}
 
 \newcommand{\ruupam}{%
   ruupam = {\dn ruupam} = \ruupatemp\\
@@ -2763,6 +2764,13 @@
 \newcommand{\ruupasya}{%
   ruupasya = {\dn ruupasya} = \genitivephrase\ a/the \ruupatemp\\
   &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{\nounrootruupa}
+}
+
+\newcommand{\rUpANi}{%
+  ruupaa.ni = {\dn ruupaa.ni} = (\vocativephrase) \ruupapluraltemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootruupa}
 }
 % ------------------------------------------------------------------------------
