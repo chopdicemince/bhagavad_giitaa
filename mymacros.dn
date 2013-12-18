@@ -3061,9 +3061,16 @@
   &&&\note{\verbrootsmR}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sthaanam}{standing; staying; site}
-\newcommand{\notesthaanam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootsthaana}{\nounroot{\dn sthaana}{sthaana}}
+\newcommand{\sthaanatemp}{site; standing; staying; steadfastness}
+
+\newcommand{\sthaanam}{%
+  sthaanam = {\dn sthaanam}\\
+  &&&= \sthaanatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootsthaana}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sthaH}{standing; staying; steadfast; situated}
 \newcommand{\notesthaH}{\note{\adjective, \male}}
