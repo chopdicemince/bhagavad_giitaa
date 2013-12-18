@@ -2994,13 +2994,19 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsattva}{\nounroot{\dn sattva}{sattva}}
-\newcommand{\sattvatemp}{essence; living thing;\\
-  &&&life; strength; goodness}
+\newcommand{\sattvatemp}{essence;\\
+  &&&= living thing; life; strength; goodness}
 
 \newcommand{\sattvam}{%
   sattvam = {\dn sattvam} = \sattvatemp\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootsattva}
+}
+
+\newcommand{\sattvaat}{%
+  sattvaat = {\dn sattvaat} = \ablativephrase\ a/the \sattvatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{\nounrootsattva}
 }
 
