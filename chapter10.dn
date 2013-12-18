@@ -550,11 +550,7 @@ I (am) the birth of all. From me, each proceeds. Thus, having known
   1b&{\dn matta.h}&mat|ta\h{a}&from me\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &{\dn sarva.m}&sar|va.m&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvammale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &{\dn sarva.m}&sar|va.m&\sarvam\\
   &&&\\
   &{\dn pravartate}&pra|var|ta|te&(he/she/it) proceeds\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -972,10 +968,7 @@ I think (about) all this truth (which) you say (to) me, O long-haired
 visible form of you.\\
 
 \begin{tabular}{llll}
-  1a&{\dn sarvametad.rta.m}&sar|va|me|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  1a&{\dn sarvametad.rta.m}&sar|va|me|&\sarvam\\
   &&&\\
   &&ta|d.r|&\etat\\
   &&&\\
@@ -1448,10 +1441,7 @@ beings, really.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sarvabhuutaa"sayasthita.h}&sar|va|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  1b&{\dn sarvabhuutaa"sayasthita.h}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|taa|&\bhuutam\\
   &&&\\

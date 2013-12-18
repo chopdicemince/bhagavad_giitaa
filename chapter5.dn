@@ -1832,9 +1832,7 @@ benefit of each being.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarvabhuutahite}&sar|va|&{\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  2b&{\dn sarvabhuutahite}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|ta|&\bhuutam\\
   &&&\\
@@ -2112,10 +2110,7 @@ person gets peace.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn suh.rda.h} = suh.rda.h}\\
   &&&\\
-  &{\dn sarvabhuutaanaa.m}&sar|va|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarvabhuutaanaa.m}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|taa|naa.m&\bhuutaanaam\\
   % ----------------------------------------------------------------------------

@@ -3827,10 +3827,7 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
   &&&\\
-  &{\dn sarva}&sar|va&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarva}&sar|va&\sarvam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3866,10 +3863,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn sarva.m}&sar|va.m&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  2b&{\dn sarva.m}&sar|va.m&\sarvam\\
   &&&\\
   &{\dn samaapno.si}&sa|maap|no|.si&(?) samaapnosi\\
   &&&= {\dn samaapnosi}\\

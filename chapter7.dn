@@ -487,10 +487,7 @@ string.\\
 \begin{tabular}{llll}
   2a&{\dn mayi}&ma|yi&\mayi\\
   &&&\\
-  &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarvamida.m}&sar|va|mi|&\sarvam\\
   &&&\\
   &&da.m&\idam\\
   &&&\\
@@ -928,10 +925,7 @@ changeable.\\
   &&&= {\dn ebhi.h}\\
   &&&= (?)\\
   &&&\\
-  &{\dn sarvamida.m}&sar|va|mi|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarvamida.m}&sar|va|mi|&\sarvam\\
   &&&\\
   &&da.m&\idam\\
   &&&\\
@@ -1384,10 +1378,7 @@ all---thus. He is a great-self---very rare.\\
   &&&\\
   &&de|va\h{a}&\devaH\\
   &&&\\
-  &{\dn sarvamiti}&sar|va|mi|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarvamiti}&sar|va|mi|&\sarvam\\
   &&&\\
   &&ti&\iti\\
   % ----------------------------------------------------------------------------
@@ -1959,9 +1950,7 @@ stupidity, O destroying of enemies (O Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sarvabhuutaani}&sar|va|&{\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  2a&{\dn sarvabhuutaani}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|taa|ni&\bhuutaani\\
   &&&\\

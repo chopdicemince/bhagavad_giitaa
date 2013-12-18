@@ -2911,6 +2911,14 @@
   &&&\note{\adjectiverootsarva}
 }
 
+\newcommand{\sarvam}{%
+  sarvam = {\dn sarvam} = \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsarva}
+}
+
 \newcommand{\sarvasya}{\genitivephrase\ \sarvatemp}
 \newcommand{\notesarvasya}[1]{\note{\adjective, \pronoun, #1, \genitivecase}}
 
@@ -2919,11 +2927,6 @@
 
 \newcommand{\sarvaan}{\sarvatemp}
 \newcommand{\notesarvaan}{\note{\adjective, \pronoun, \male, \plural, \accusativecase}}
-
-\newcommand{\sarvam}{\sarvatemp}
-\newcommand{\notesarvammale}{\note{\adjective, \pronoun, \male, \accusativecase, \adverb}}
-\newcommand{\notesarvamneuter}{\note{\adjective, \pronoun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase, \adverb}}
 
 \newcommand{\sarvANi}{\sarvatemp}
 \newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\

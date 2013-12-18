@@ -2384,11 +2384,7 @@ prince (O Arjuna), in knowledge, completes (knowledge).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sarva.m}&sar|va.m&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvammale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  2a&{\dn sarva.m}&sar|va.m&\sarvam\\
   &&&\\
   &{\dn karmaakhila.m}&kar|maa|&\karma\\
   &&&\\
@@ -2589,10 +2585,7 @@ sin.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sarva.m}&sar|va.m&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  2a&{\dn sarva.m}&sar|va.m&\sarvam\\
   &&&\\
   &{\dn j~naanaplavenaiva}&j\~{}naa|na|&\jJAnam\\
   &&&\\
@@ -2661,10 +2654,7 @@ knowledge-fire does all actions (to) ash.\\
   &&&\\
   &&ni\h{i}&\agniH\\
   &&&\\
-  &{\dn sarvakarmaa.ni}&sar|va|&sarvam\\
-  &&&= {\dn sarvam}\\
-  &&&= \sarvam\\
-  &&&\notesarvamneuter\\
+  &{\dn sarvakarmaa.ni}&sar|va|&\sarvam\\
   &&&\\
   &&kar|maa|.ni&\karmANi\\
   % ----------------------------------------------------------------------------
