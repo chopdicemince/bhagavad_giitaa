@@ -3098,8 +3098,13 @@
   &&&\note{\adjectiverootstha}
 }
 
-\newcommand{\sthAH}{\sthaH}
-\newcommand{\notesthAH}{\note{\adjective, \male, \plural}}
+\newcommand{\sthAH}{%
+  sthaa.h = {\dn sthaa.h}\\
+  &&&= \sthatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootstha}
+}
 
 \newcommand{\sthaani}{\sthaH}
 \newcommand{\notesthaani}{\note{\adjective, \neuter, \plural}}
