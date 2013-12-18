@@ -1767,13 +1767,7 @@ Kurus.''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&sarves.saam\\
-  &&&= {\dn sarve.saam}\\
-  &&&= of each; all\\
-  &&&\note{\pronoun, \adjective, \male, \neuter}\\
-  &&&\note{\plural, \genitivecase}\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
-  &&&\note{from {\dn sarvam} = sarvam}\\
+  1b&{\dn sarve.saa.m}&sar|ve|.saa.m&\sarveSAm\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\

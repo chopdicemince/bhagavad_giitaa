@@ -2949,6 +2949,13 @@
   &&&\note{\adjectiverootsarva}
 }
 
+\newcommand{\sarveSAm}{%
+  sarve.saam = {\dn sarve.saam} = \genitivephrase\ \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \neuter, \plural, \genitivecase}\\
+  &&&\note{\adjectiverootsarva}
+}
+
 \newcommand{\sarvANi}{\sarvatemp}
 \newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase, \adverb}}

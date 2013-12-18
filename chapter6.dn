@@ -3365,11 +3365,7 @@ me.\\
   &&&\\
   &&pi&\api\\
   &&&\\
-  &{\dn sarve.saa.m}&sar|ve|.saa.m&sarve.saam\\
-  &&&= {\dn sarve.saam}\\
-  &&&= of each/all\\
-  &&&\note{\pronoun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &{\dn sarve.saa.m}&sar|ve|.saa.m&\sarveSAm\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
