@@ -3100,7 +3100,7 @@
 
 \newcommand{\sthAH}{%
   sthaa.h = {\dn sthaa.h}\\
-  &&&= \sthatemp\\
+  &&&= (\vocativephrase) \sthatemp\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootstha}
