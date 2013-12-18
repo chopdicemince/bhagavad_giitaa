@@ -3016,9 +3016,17 @@
   &&&\note{\nounrootsattva}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\satyam}{truth; sincerity; goodness}
-\newcommand{\notesatyam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\adjectiverootsatya}{\adjectiveroot{\dn satya}{satya}}
+\newcommand{\satyatemp}{true; good; pure; sincere}
+
+\newcommand{\satyam}{%
+  satyam = {\dn satyam}\\
+  &&&= \satyatemp;\\
+  &&&truth; goodness; purity; sincerity\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsatya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsiddhi}{\nounroot{\dn siddhi}{siddhi}}
 \newcommand{\siddhitemp}{success; perfection; fulfillment}
