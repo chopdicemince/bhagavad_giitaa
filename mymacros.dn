@@ -2951,17 +2951,17 @@
   &&&\note{\adjectiverootsarva}
 }
 
-\newcommand{\sarveSu}{%
-  sarve.su = {\dn sarve.su} = \locativephrase\ \sarvatemp\\
-  &&&\note{\adjective, \pronoun}\\
-  &&&\note{\male, \neuter, \plural, \locativecase}\\
-  &&&\note{\adjectiverootsarva}
-}
-
 \newcommand{\sarveSAm}{%
   sarve.saam = {\dn sarve.saam} = \genitivephrase\ \sarvatemp\\
   &&&\note{\adjective, \pronoun}\\
   &&&\note{\male, \neuter, \plural, \genitivecase}\\
+  &&&\note{\adjectiverootsarva}
+}
+
+\newcommand{\sarveSu}{%
+  sarve.su = {\dn sarve.su} = \locativephrase\ \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \neuter, \plural, \locativecase}\\
   &&&\note{\adjectiverootsarva}
 }
 
