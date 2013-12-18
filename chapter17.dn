@@ -431,11 +431,7 @@ demon(-occurrences-of)-steadfastness.\\
   &&&= \zarIram\\
   &&&\notezarIram\\
   &&&\\
-  &&stha.m&stham\\
-  &&&= {\dn stham}\\
-  &&&= \stham\\
-  &&&\notestham\\
-  &&&\note{from {\dn stha.h} = stha.h}\\
+  &&stha.m&\stham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -470,11 +466,7 @@ demon(-occurrences-of)-steadfastness.\\
   &&&= \zarIram\\
   &&&\notezarIram\\
   &&&\\
-  &&stha.m&stham\\
-  &&&= {\dn stham}\\
-  &&&= \stham\\
-  &&&\notestham\\
-  &&&\note{from {\dn stha.h} = stha.h}\\
+  &&stha.m&\stham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

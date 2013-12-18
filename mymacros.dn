@@ -3089,11 +3089,14 @@
   &&&\note{\adjectiverootstha}
 }
 
-\newcommand{\stham}{\sthaH}
-\newcommand{\notestham}{\note{\adjective, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{or}\\
-  &&&\note{\adjective, \male, \accusativecase}}
+\newcommand{\stham}{%
+  stham = {\dn stham}\\
+  &&&= \sthatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootstha}
+}
 
 \newcommand{\sthAH}{\sthaH}
 \newcommand{\notesthAH}{\note{\adjective, \male, \plural}}
