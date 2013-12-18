@@ -1107,11 +1107,7 @@ syllables, instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn sarvaa.mstathaa}&sar|vaa.m|&sarvaan\\
-  &&&= {\dn sarvaan}\\
-  &&&= \sarvaan\\
-  &&&\notesarvaan\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  1b&{\dn sarvaa.mstathaa}&sar|vaa.m|&\sarvaan\\
   &&&\\
   &&sta|thaa&\tathaa\\
   &&&\\
@@ -1164,11 +1160,7 @@ syllables, instead of the usual eight.)\\
   &&&\\
   &&ca&\ca\\
   &&&\\
-  &{\dn sarvaanuragaa.m"sca}&sar|vaa|nu|&sarvaan\\
-  &&&= {\dn sarvaan}\\
-  &&&= \sarvaan\\
-  &&&\notesarvaan\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &{\dn sarvaanuragaa.m"sca}&sar|vaa|nu|&\sarvaan\\
   &&&\\
   &&ra|gaa.m"s|&uragaan\\
   &&&= {\dn uragaan}\\

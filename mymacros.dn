@@ -2935,8 +2935,12 @@
   &&&\note{\adjectiverootsarva}
 }
 
-\newcommand{\sarvaan}{\sarvatemp}
-\newcommand{\notesarvaan}{\note{\adjective, \pronoun, \male, \plural, \accusativecase}}
+\newcommand{\sarvaan}{%
+  sarvaan = {\dn sarvaan} = \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \plural, \accusativecase}\\
+  &&&\note{\adjectiverootsarva}
+}
 
 \newcommand{\sarvANi}{\sarvatemp}
 \newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\
