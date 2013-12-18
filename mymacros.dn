@@ -3079,8 +3079,15 @@
   &&&\note{\nounrootsthaana}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sthaH}{standing; staying; steadfast; situated}
-\newcommand{\notesthaH}{\note{\adjective, \male}}
+\newcommand{\adjectiverootstha}{\adjectiveroot{\dn stha}{stha}}
+\newcommand{\sthatemp}{situated; standing; staying; steadfast}
+
+\newcommand{\sthaH}{
+  stha.h = {\dn stha.h}\\
+  &&&= \sthatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootstha}
+}
 
 \newcommand{\stham}{\sthaH}
 \newcommand{\notestham}{\note{\adjective, \neuter}\\
