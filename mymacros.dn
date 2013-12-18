@@ -3003,6 +3003,12 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootsattva}
 }
+
+\newcommand{\sattve}{%
+  sattve = {\dn sattve} = \locativephrase\ a/the \sattvatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootsattva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\satyam}{truth; sincerity; goodness}
 \newcommand{\notesatyam}{\note{\noun, \neuter}\\

@@ -903,9 +903,7 @@ non-dirtiness worlds.\\
   1a&{\dn yadaa}&ya|daa&when\\
   &&&\note{\adverb, \conjunction, \pronoun, \indeclinable}\\
   &&&\\
-  &{\dn sattve}&sat|tve&at/in/on essence; goodness; living thing\\
-  &&&\note{\noun, \neuter, \locativecase}\\
-  &&&\note{from {\dn sattvam} = sattvam}\\
+  &{\dn sattve}&sat|tve&\sattve\\
   &&&\\
   &{\dn prav.rddhe}&pra|v.rd|dhe&at/in/on a/the person/thing powerful; many; old\\
   &&&\note{\adjective, \neuter, \locativecase}\\
