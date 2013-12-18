@@ -2942,6 +2942,15 @@
   &&&\note{\adjectiverootsarva}
 }
 
+\newcommand{\sarvebhyaH}{%
+  sarvebhya.h = {\dn sarvebhya.h}\\
+  &&&= \dativephrase/\ablativephrase\ \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \neuter, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\adjectiverootsarva}
+}
+
 \newcommand{\sarveSu}{%
   sarve.su = {\dn sarve.su} = \locativephrase\ \sarvatemp\\
   &&&\note{\adjective, \pronoun}\\
