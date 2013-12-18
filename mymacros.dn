@@ -2993,10 +2993,16 @@
   &&&\note{\adjectiverootsatata}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sattvam}{essence; being (living thing); life; strength;\\
-  &&&goodness}
-\newcommand{\notesattvam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootsattva}{\nounroot{\dn sattva}{sattva}}
+\newcommand{\sattvatemp}{essence; living thing;\\
+  &&&life; strength; goodness}
+
+\newcommand{\sattvam}{%
+  sattvam = {\dn sattvam} = \sattvatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootsattva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\satyam}{truth; sincerity; goodness}
 \newcommand{\notesatyam}{\note{\noun, \neuter}\\
