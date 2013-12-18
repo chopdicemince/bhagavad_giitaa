@@ -2919,8 +2919,12 @@
   &&&\note{\adjectiverootsarva}
 }
 
-\newcommand{\sarvasya}{\genitivephrase\ \sarvatemp}
-\newcommand{\notesarvasya}[1]{\note{\adjective, \pronoun, #1, \genitivecase}}
+\newcommand{\sarvasya}{%
+  sarvasya = {\dn sarvasya} = \genitivephrase\ \sarvatemp\\
+  &&&\note{\adjective, \pronoun, \male, \neuter}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\adjectiverootsarva}
+}
 
 \newcommand{\sarvemale}{\sarvatemp}
 \newcommand{\notesarvemale}{\note{\adjective, \pronoun, \male, \plural, \adverb}}
