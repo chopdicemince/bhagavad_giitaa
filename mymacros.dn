@@ -3106,8 +3106,14 @@
   &&&\note{\adjectiverootstha}
 }
 
-\newcommand{\sthaani}{\sthaH}
-\newcommand{\notesthaani}{\note{\adjective, \neuter, \plural}}
+\newcommand{\sthaani}{%
+  sthaani = {\dn sthaani}\\
+  &&&= (\vocativephrase) \sthatemp\\
+  &&&\note{\adjective, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\adjectiverootstha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sukham}{(act of) happiness; happily}
 \newcommand{\notesukham}{\note{\noun, \neuter}\\
