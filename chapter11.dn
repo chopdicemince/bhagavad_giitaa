@@ -1966,9 +1966,7 @@ the last half-line, which has ten. The usual number is eight.)\\
   &&&\\
   &&va&\eva\\
   &&&\\
-  &{\dn sarve}&sar|ve&\sarvemale\\
-  &&&\notesarvemale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &{\dn sarve}&sar|ve&\sarve\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2331,9 +2329,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn sarve}&sar|ve&\sarvemale\\
-  &&&\notesarvemale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  1b&{\dn sarve}&sar|ve&\sarve\\
   &&&\\
   &\multicolumn{3}{l}{\dn sahaivaavanipaalasa"nghai.h}\\
   &&&\\
@@ -2987,9 +2983,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\thirdperson, \plural}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sarve}&sar|ve&\sarvemale\\
-  &&&\notesarvemale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  &{\dn sarve}&sar|ve&\sarve\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3433,9 +3427,7 @@ main syllables, instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sarve}&sar|ve&\sarvemale\\
-  &&&\notesarvemale\\
-  &&&\note{from {\dn sarva.h} = sarva.h}\\
+  2b&{\dn sarve}&sar|ve&\sarve\\
   &&&\\
   &{\dn namasyanti}&na|ma|syan|ti&(they) pay homage\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\

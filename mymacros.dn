@@ -2926,8 +2926,14 @@
   &&&\note{\adjectiverootsarva}
 }
 
-\newcommand{\sarvemale}{\sarvatemp}
-\newcommand{\notesarvemale}{\note{\adjective, \pronoun, \male, \plural, \adverb}}
+\newcommand{\sarve}{%
+  sarve = {\dn sarve} = \sarvatemp\\
+  &&&\note{\adjective, \pronoun}\\
+  &&&\note{\male, \plural}\\
+  &&&\note{\female, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\neuter, \dual, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsarva}
+}
 
 \newcommand{\sarvaan}{\sarvatemp}
 \newcommand{\notesarvaan}{\note{\adjective, \pronoun, \male, \plural, \accusativecase}}
