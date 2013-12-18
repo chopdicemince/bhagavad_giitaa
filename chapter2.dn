@@ -2463,9 +2463,7 @@ deserve to lament each being.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaatsarvaa.ni}&tas|maat|&\tasmaat\\
   &&&\\
-  &&sar|vaa|.ni&{\dn sarvaa.ni} = \sarvANi\\
-  &&&\notesarvANi\\
-  &&&\note{from {\dn sarvam} = sarvam}\\
+  &&sar|vaa|.ni&\sarvANi\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
   % ----------------------------------------------------------------------------
@@ -4519,8 +4517,6 @@ complete.\\
   1a&{\dn taani}&taa|ni&\taani\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&\sarvANi\\
-  &&&\notesarvANi\\
-  &&&\note{from {\dn sarvam} = sarvam}\\
   &&&\\
   &{\dn sa.myamya}&sa.m|yam|ya&restrained; subdued; controlled\\
   &&&\note{\adjective}\\

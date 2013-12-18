@@ -2965,9 +2965,12 @@
   &&&\note{\adjectiverootsarva}
 }
 
-\newcommand{\sarvANi}{\sarvatemp}
-\newcommand{\notesarvANi}{\note{\adjective, \pronoun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase, \adverb}}
+\newcommand{\sarvANi}{%
+  sarvaa.ni = {\dn sarvaa.ni} = \sarvatemp\\
+  &&&\note{\adjective, \pronoun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsarva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\SaT}{six}
 \newcommand{\noteSaT}{\note{\noun, \allgenders, \plural, \nominativecase}\\
