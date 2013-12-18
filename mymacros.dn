@@ -2979,6 +2979,12 @@
 \newcommand{\adjectiverootsatata}{\adjectiveroot{\dn satata}{satata}}
 \newcommand{\satatatemp}{eternal; continuous; constant}
 
+\newcommand{\satataH}{%
+  satata.h = {\dn satata.h} = \satatatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsatata}
+}
+
 \newcommand{\satatam}{%
   satatam = {\dn satatam} = \satatatemp;\\
   &&&eternally; continously; constantly\\
