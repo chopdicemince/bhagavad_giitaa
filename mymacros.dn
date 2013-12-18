@@ -2976,9 +2976,16 @@
 \newcommand{\noteSaT}{\note{\noun, \allgenders, \plural, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}}
 % ------------------------------------------------------------------------------
-\newcommand{\satatam}{eternal; eternally; always}
-\newcommand{\notesatatam}{\note{\adjective, \neuter, \adverb}\\
-  &&&\note{\male, \accusativecase}}
+\newcommand{\adjectiverootsatata}{\adjectiveroot{\dn satata}{satata}}
+\newcommand{\satatatemp}{eternal; continuous; constant}
+
+\newcommand{\satatam}{%
+  satatam = {\dn satatam} = \satatatemp;\\
+  &&&eternally; continously; constantly\\
+  &&&\note{\adjective, \neuter, \male, \accusativecase}\\
+  &&&\note{\adverb}\\
+  &&&\note{\adjectiverootsatata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sattvam}{essence; being (living thing); life; strength;\\
   &&&goodness}
