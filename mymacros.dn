@@ -3071,6 +3071,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootsthaana}
 }
+
+\newcommand{\sthaane}{%
+  sthaane = {\dn sthaane} = \locativephrase\ a/the\\
+  &&&\sthaanatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootsthaana}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\sthaH}{standing; staying; steadfast; situated}
 \newcommand{\notesthaH}{\note{\adjective, \male}}
