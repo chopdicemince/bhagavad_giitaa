@@ -1626,6 +1626,12 @@
   &&&\note{\nounrootIzvara}
 }
 
+\newcommand{\IzvarAt}{%
+  ii"svaraat = {\dn ii"svaraat} = \Izvaratemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootIzvara}
+}
+
 \newcommand{\Izvara}{%
   ii"svara = {\dn ii"svara} = (\vocativephrase) \Izvaratemp\\
   &&&\note{\noun, \male, \vocativecase}\\
