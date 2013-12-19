@@ -1611,6 +1611,15 @@
   &&&\note{\verbrootiS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootIzvara}{\nounroot{\dn ii"svara}{ii"svara}}
+\newcommand{\Izvaratemp}{god; God; lord}
+
+\newcommand{\IzvaraH}{%
+  ii"svara.h = {\dn ii"svara.h} = \Izvaratemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootIzvara}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootindriya}{\nounroot{\dn indriya}{indriya}}
 \newcommand{\indriyatemp}{sense; power; part of the body}
 \newcommand{\indriyapluraltemp}{senses; powers; parts of the body}
