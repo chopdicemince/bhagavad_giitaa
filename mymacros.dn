@@ -3201,6 +3201,12 @@
   &&&\note{\adjectiverootsva}
 }
 
+\newcommand{\svaa}{%
+  svaa = {\dn svaa} = \svatemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\adjectiverootsva}
+}
+
 \newcommand{\svaam}{%
   svaam = {\dn svaam} = \svatemp\\
   &&&\note{\noun, \female, \accusativecase}\\
