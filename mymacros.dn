@@ -3117,6 +3117,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsukha}{\adjectiveroot{\dn sukha}{sukha}}
 \newcommand{\sukhatemp}{happy; (act of) happiness}
+\newcommand{\sukhapluraltemp}{happy; (acts of) happiness}
 
 \newcommand{\sukhaH}{%
   sukha.h = {\dn sukha.h} = happy\\
@@ -3158,9 +3159,14 @@
   &&&\note{\adjectiverootsukha}
 }
 
-\newcommand{\sukhaani}{(\vocativephrase) (acts of) happiness}
-\newcommand{\notesukhaani}{\note{\noun, \neuter, \plural}\\
-  &&&\note{\nominativecase, \accusativecase, \vocativecase}}
+\newcommand{\sukhaani}{%
+  sukhaani = {\dn sukhaani}\\
+  &&&= (\vocativephrase) \sukhapluraltemp\\
+  &&&\note{\adjective, \noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\adjectiverootsukha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\svaH}{self}
 \newcommand{\notesvaH}{\note{\noun, \male}}
