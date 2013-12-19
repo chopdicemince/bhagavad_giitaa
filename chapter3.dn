@@ -2280,8 +2280,7 @@ devotion is fear-producing.\\
   &&&\notezreyAncredit\\
   &&&\note{from {\dn "sreya.h} = "sreya.h}\\
   &&&\\
-  &&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &&sva|&\svaH\\
   &&&\\
   &&dhar|mo&\dharmaH\\
   &&&\\
@@ -2306,8 +2305,7 @@ devotion is fear-producing.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svadharme}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  2a&{\dn svadharme}&sva|&\svaH\\
   &&&\\
   &&dhar|me&{\dn dharme}\\
   &&&= at/in/on manner; religion; devotion; virtue\\

@@ -1423,10 +1423,9 @@ a verse, each line has eight main syllables.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: (?)}\\
   &&&\\
-  &{\dn svargati.m}&svar|&sva.h\\
-  &&&= {\dn sva.h}\\
-  &&&= \svaH\\
-  &&&\notesvaH\\
+  &{\dn svargati.m}&svar|&svaa\\
+  &&&= {\dn svaa}\\
+  &&&= self\\
   &&&\\
   &&ga|ti.m&gatim\\
   &&&= {\dn gatim}\\

@@ -3183,8 +3183,15 @@
   &&&\note{\adjectiverootsukha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\svaH}{self}
-\newcommand{\notesvaH}{\note{\noun, \male}}
+\newcommand{\adjectiverootsva}{\adjectiveroot{\dn sva}{sva}}
+\newcommand{\svatemp}{self; relative; friend; group member}
+
+\newcommand{\svaH}{%
+  sva.h = {\dn sva.h}\\
+  &&&= \svatemp\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsva}
+}
 
 \newcommand{\svaam}{\svaH}
 \newcommand{\notesvaam}{\note{\noun, \male, \accusativecase}}

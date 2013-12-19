@@ -3032,8 +3032,7 @@ self-behavior-births-strings.\\
   &&&\\
   2b&{\dn svabhaavaprabhavairgu.nai.h}\\
   &&&\\
-  &&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -3117,8 +3116,7 @@ self-behavior-born.\\
   &&&\\
   &&kar|ma&\karma\\
   &&&\\
-  &{\dn svabhaavajam}&sva&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &{\dn svabhaavajam}&sva&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -3199,8 +3197,7 @@ action (is) self-behavior-born.\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &{\dn svabhaavajam}&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -3245,8 +3242,7 @@ fourth caste---also, self-behavior-born.\\
   &&&\\
   &&kar|ma&\karma\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &{\dn svabhaavajam}&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -3280,8 +3276,7 @@ fourth caste---also, self-behavior-born.\\
   &&&\\
   &&pi&\api\\
   &&&\\
-  &{\dn svabhaavajam}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &{\dn svabhaavajam}&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -3326,8 +3321,7 @@ success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarmanirata.h}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  2a&{\dn svakarmanirata.h}&sva|&svam = {\dn svam} = self\\
   &&&\\
   &&kar|ma|&\karma\\
   &&&\\
@@ -3390,8 +3384,7 @@ attains success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarma.naa}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  2a&{\dn svakarma.naa}&sva|&svam = {\dn svam} = self\\
   &&&\\
   &&kar|ma|.naa&\karmaNA\\
   &&&\\
@@ -3431,8 +3424,7 @@ self-behavior-action.\\
   &&&\note{similar: \adjective, {\dn "sreyas} = "sreyas}\\
   &&&\note{= better}\\
   &&&\\
-  &&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  &&sva|&\svaH\\
   &&&\\
   &&dhar|mo&\dharmaH\\
   &&&\\
@@ -3462,8 +3454,7 @@ self-behavior-action.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svabhaavaniyata.m}&sva|&sva.h = {\dn sva.h} = \svaH\\
-  &&&\notesvaH\\
+  2a&{\dn svabhaavaniyata.m}&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
@@ -4340,10 +4331,7 @@ bound self, using acts---(you) do not wish to act. What, from a
 mistake, (you) will act---non-submissive---also, that.\\
 
 \begin{tabular}{llll}
-  1a&{\dn svabhaavajena}&sva|&sva.h\\
-  &&&= {\dn sva.h}\\
-  &&&= \svaH\\
-  &&&\notesvaH\\
+  1a&{\dn svabhaavajena}&sva|&\svaH\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
