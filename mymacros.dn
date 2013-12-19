@@ -3118,6 +3118,12 @@
 \newcommand{\adjectiverootsukha}{\adjectiveroot{\dn sukha}{sukha}}
 \newcommand{\sukhatemp}{happy; (act of) happiness}
 
+\newcommand{\sukhaH}{%
+  sukha.h = {\dn sukha.h} = happy\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsukha}
+}
+
 \newcommand{\sukham}{%
   sukham = {\dn sukham}\\
   &&&= \sukhatemp; happily\\
