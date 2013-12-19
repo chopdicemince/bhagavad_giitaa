@@ -3321,7 +3321,7 @@ success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarmanirata.h}&sva|&svam = {\dn svam} = self\\
+  2a&{\dn svakarmanirata.h}&sva|&\svam\\
   &&&\\
   &&kar|ma|&\karma\\
   &&&\\
@@ -3384,7 +3384,7 @@ attains success.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn svakarma.naa}&sva|&svam = {\dn svam} = self\\
+  2a&{\dn svakarma.naa}&sva|&\svam\\
   &&&\\
   &&kar|ma|.naa&\karmaNA\\
   &&&\\

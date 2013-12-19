@@ -3193,6 +3193,15 @@
   &&&\note{\adjectiverootsva}
 }
 
+\newcommand{\svam}{%
+  svam = {\dn svam}\\
+  &&&= \svatemp\\
+  &&&\note{\adjective, \noun}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsva}
+}
+
 \newcommand{\svaam}{\svaH}
 \newcommand{\notesvaam}{\note{\noun, \male, \accusativecase}}
 % ------------------------------------------------------------------------------
