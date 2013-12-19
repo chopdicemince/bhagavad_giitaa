@@ -1625,6 +1625,12 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootIzvara}
 }
+
+\newcommand{\Izvara}{%
+  ii"svara = {\dn ii"svara} = (\vocativephrase) \Izvaratemp\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounrootIzvara}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootindriya}{\nounroot{\dn indriya}{indriya}}
 \newcommand{\indriyatemp}{sense; power; part of the body}
