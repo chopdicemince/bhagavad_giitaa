@@ -3159,6 +3159,15 @@
   &&&\note{\adjectiverootsukha}
 }
 
+\newcommand{\sukheSu}{%
+  sukhe.su = {\dn sukhe.su} = \locativephrase\\
+  &&&\sukhapluraltemp\\
+  &&&\note{\adjective, \male, \plural, \locativecase}\\
+  &&&\note{\adjective, \noun, \neuter, \plural}\\
+  &&&\note{\locativecase}\\
+  &&&\note{\adjectiverootsukha}
+}
+
 \newcommand{\sukhaani}{%
   sukhaani = {\dn sukhaani}\\
   &&&= (\vocativephrase) \sukhapluraltemp\\
