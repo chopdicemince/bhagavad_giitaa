@@ -3134,6 +3134,14 @@
   &&&\note{\adjectiverootsukha}
 }
 
+\newcommand{\sukhe}{%
+  sukhe = {\dn sukhe} = \locativephrase\ a/the\\
+  &&&\sukhatemp\\
+  &&&\note{\adjective, \male, \locativecase}\\
+  &&&\note{\adjective, \noun, \neuter, \locativecase}\\
+  &&&\note{\adjectiverootsukha}
+}
+
 \newcommand{\sukhaani}{(\vocativephrase) (acts of) happiness}
 \newcommand{\notesukhaani}{\note{\noun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase, \vocativecase}}
