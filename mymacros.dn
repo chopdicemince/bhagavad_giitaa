@@ -3134,6 +3134,14 @@
   &&&\note{\adjectiverootsukha}
 }
 
+\newcommand{\sukhena}{%
+  sukhena = {\dn sukhena} = \instrumentalphrase\ a/the\\
+  &&&\sukhatemp\\
+  &&&\note{\adjective, \male, \instrumentalcase}\\
+  &&&\note{\adjective, \noun, \neuter, \instrumentalcase}\\
+  &&&\note{\adjectiverootsukha}
+}
+
 \newcommand{\sukhe}{%
   sukhe = {\dn sukhe} = \locativephrase\ a/the\\
   &&&\sukhatemp\\
