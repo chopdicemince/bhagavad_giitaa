@@ -3177,6 +3177,12 @@
   &&&\note{\adjectiverootsukha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\sukhii}{%
+  sukhii = {\dn sukhii} = man of happiness\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsukha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\svaH}{self}
 \newcommand{\notesvaH}{\note{\noun, \male}}
 
