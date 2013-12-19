@@ -3184,26 +3184,28 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsva}{\adjectiveroot{\dn sva}{sva}}
-\newcommand{\svatemp}{self; relative; friend; group member}
+\newcommand{\svatemp}{self}
 
 \newcommand{\svaH}{%
   sva.h = {\dn sva.h}\\
-  &&&= \svatemp\\
+  &&&= \svatemp; relative; friend; group member\\
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootsva}
 }
 
 \newcommand{\svam}{%
-  svam = {\dn svam}\\
-  &&&= \svatemp\\
+  svam = {\dn svam} = \svatemp\\
   &&&\note{\adjective, \noun}\\
   &&&\note{\male, \accusativecase}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootsva}
 }
 
-\newcommand{\svaam}{\svaH}
-\newcommand{\notesvaam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\svaam}{%
+  svaam = {\dn svaam} = \svatemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\adjectiverootsva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\svapnaH}{sleep; sleepiness; dream}
 \newcommand{\notesvapnaH}{\note{\noun, \male}}
