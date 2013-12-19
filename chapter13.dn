@@ -466,10 +466,7 @@ said.\\
   &&&\\
   &{\dn dve.sa.h}&dve|.sa\h{a}&\dveSaH\\
   &&&\\
-  &{\dn sukha.m}&su|kha.m&sukham\\
-  &&&= {\dn sukham}\\
-  &&&= \sukham\\
-  &&&\notesukham\\
+  &{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn du.hkha.m}&du.h|kha.m&\duHkham\\
   % ----------------------------------------------------------------------------
@@ -1544,10 +1541,7 @@ happiness (and) distress, in enjoyment, (it is) said.\\
 \begin{tabular}{llll}
   2a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
   &&&\\
-  &{\dn sukhadu.hkhaanaa.m}&su|kha|&sukham\\
-  &&&= {\dn sukham}\\
-  &&&= \sukham\\
-  &&&\notesukham\\
+  &{\dn sukhadu.hkhaanaa.m}&su|kha|&\sukham\\
   &&&\\
   &&du.h|khaa|naa.m&\duHkhAnAm\\
   % ----------------------------------------------------------------------------

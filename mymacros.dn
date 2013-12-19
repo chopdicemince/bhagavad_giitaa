@@ -3115,9 +3115,18 @@
   &&&\note{\adjectiverootstha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\sukham}{(act of) happiness; happily}
-\newcommand{\notesukham}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase, \adverb}}
+\newcommand{\adjectiverootsukha}{\adjectiveroot{\dn sukha}{sukha}}
+\newcommand{\sukhatemp}{happy; (act of) happiness}
+
+\newcommand{\sukham}{%
+  sukham = {\dn sukham}\\
+  &&&= \sukhatemp; happily\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adverb}\\
+  &&&\note{\adjectiverootsukha}
+}
 
 \newcommand{\sukhaani}{(\vocativephrase) (acts of) happiness}
 \newcommand{\notesukhaani}{\note{\noun, \neuter, \plural}\\

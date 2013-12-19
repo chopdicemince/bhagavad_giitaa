@@ -215,10 +215,7 @@ Arjuna). Happily---from bondage, he is free.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sukha.m}&su|kha.m&sukham\\
-  &&&= {\dn sukham}\\
-  &&&= \sukham\\
-  &&&\notesukham\\
+  2b&{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn bandhaatpramucyate}&ban|dhaat&{\dn bandhaat}\\
   &&&= from a/the bond; bondage\\
@@ -919,9 +916,7 @@ one anus, and one penis opening.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn aas} = aas}\\
   &&&\\
-  &{\dn sukha.m}&su|kha.m&happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn va"sii}&va|"sii&control\\
   &&&\note{\noun, gender(?), part of speech(?)}\\
@@ -1489,9 +1484,7 @@ non-decaying happiness.\\
   &&&\\
   &{\dn yatsukham}&yat|&\yat\\
   &&&\\
-  &&su|kham&{\dn sukham} = happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&su|kham&\sukham\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1517,11 +1510,7 @@ non-decaying happiness.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sukhamak.sayama"snute}&su|kha|mak|&sukham\\
-  &&&= {\dn sukham}\\
-  &&&= happiness\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  2b&{\dn sukhamak.sayama"snute}&su|kha|mak|&\sukham\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
