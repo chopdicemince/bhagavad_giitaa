@@ -3240,8 +3240,15 @@
   &&&\note{\adjectiverootsva}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\svapnaH}{sleep; sleepiness; dream}
-\newcommand{\notesvapnaH}{\note{\noun, \male}}
+\newcommand{\nounrootsvapna}{\nounroot{\dn svapna}{svapna}}
+\newcommand{\svapnatemp}{sleep; sleepiness; dream}
+
+\newcommand{\svapnaH}{%
+  svapna.h = {\dn svapna.h}\\
+  &&&= \svapnatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsvapna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\svargaH}{heaven}
 \newcommand{\notesvargaH}{\note{\noun, \male}}
