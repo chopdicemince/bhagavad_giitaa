@@ -1821,10 +1821,7 @@ thread-action-differences, ``Threads are in threads,'' he does not
 attach to threads.\\
 
 \begin{tabular}{llll}
-  1a&{\dn tattvavittu}&tat|tva|&tattvam\\
-  &&&= {\dn tattvam}\\
-  &&&= \tattvam\\
-  &&&\notetattvam\\
+  1a&{\dn tattvavittu}&tat|tva|&\tattvam\\
   &&&\\
   &&vit|&vid = {\dn vid} = root for ``to be''\\
   &&&or ``to know''\\

@@ -3391,9 +3391,16 @@
   &&&\note{\adjectiveroottara}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\tattvam}{truth; reality; essence; axiom}
-\newcommand{\notetattvam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounroottattva}{\nounroot{\dn tattva}{tattva}}
+\newcommand{\tattvatemp}{truth; reality; essence; axiom}
+
+\newcommand{\tattvam}{%
+  tattvam = {\dn tattvam}\\
+  &&&= \tattvatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroottattva}
+}
 
 \newcommand{\tattvena}{\instrumentalphrase\ \tattvam}
 \newcommand{\notetattvena}{\note{\noun, \neuter, \instrumentalcase}}
