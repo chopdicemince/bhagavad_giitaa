@@ -3351,8 +3351,12 @@
   &&&\note{\nounroottapas}
 }
 
-\newcommand{\tapasaa}{\instrumentalphrase\ \tapas}
-\newcommand{\notetapasaa}{\note{\noun, \neuter, \instrumentalcase}}
+\newcommand{\tapasaa}{%
+  tapasaa = {\dn tapasaa} = \instrumentalphrase\\
+  &&&\tapastemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounroottapas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\taraH}{more}
 \newcommand{\notetaraH}{\note{\suffix, \male}}
