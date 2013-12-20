@@ -3265,6 +3265,13 @@
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootsvarga}
 }
+
+\newcommand{\svargam}{%
+  svargam = {\dn svargam} = \svargatemp\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsvarga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tamaH}{most}
 \newcommand{\notetamaH}{\note{\suffix, \adjective, \noun, \male, \adverb}}
