@@ -3419,10 +3419,14 @@
   &&&\note{\adjectiverootuttama}
 }
 
-\newcommand{\uttamam}{\uttamatemp}
-\newcommand{\noteuttamammale}{\note{\adjective, \male, \accusativecase}}
-\newcommand{\noteuttamamneuter}{\note{\adjective, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\uttamam}{%
+  uttamam = {\dn uttamam}\\
+  &&&= \uttamatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootuttama}
+}
 
 \newcommand{\uttama}{\vocativephrase\ \uttamatemp}
 \newcommand{\noteuttama}[1]{\note{\adjective, #1, \vocativecase}}
