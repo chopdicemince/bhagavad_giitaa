@@ -3435,8 +3435,13 @@
   &&&\note{\adjectiverootuttama}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\uvaaca}{\hesheit\ uttered; said}
-\newcommand{\noteuvaaca}{\note{\verbb, \pasttense, \thirdperson, \singular}}
+\newcommand{\verbrootvac}{\verbroot{\dn vac}{vac}}
+
+\newcommand{\uvaaca}{%
+  uvaaca = {\dn uvaaca} = \hesheit\ uttered; said\\
+  &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootvac}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vat}{full of}
 \newcommand{\notevat}{\note{\suffix}}

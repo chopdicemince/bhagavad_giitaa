@@ -15,9 +15,7 @@ gone (to) paramount success.\\
   &&&\\
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
-  &&vaa|ca&uvaaca = {\dn uvaaca} = \uvaaca\\
-  &&&\noteuvaaca\\
-  &&&\note{root: {\dn vac} = vac}\\
+  &&vaa|ca&\uvaaca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1330,9 +1328,7 @@ three strings?\\
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
-  &{\dn uvaaca}&u|vaa|ca&uvaaca\\
-  &&&\noteuvaaca\\
-  &&&\note{root: {\dn vac} = vac}\\
+  &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1416,11 +1412,7 @@ vanished, \dots\\
   &&&\\
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
-  &&vaa|ca&uvaaca\\
-  &&&= {\dn uvaaca}\\
-  &&&= \uvaaca\\
-  &&&\noteuvaaca\\
-  &&&\note{root: {\dn vac} = vac}\\
+  &&vaa|ca&\uvaaca\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
