@@ -3487,6 +3487,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootvimUDha}
 }
+
+\newcommand{\vimUDhAn}{%
+  vimuu.dhaan = {\dn vimuu.dhaan}\\
+  &&&= \vimUDhatemp\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\adjectiverootvimUDha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vimuktaH}{freed}
 \newcommand{\notevimuktaH}{\note{\adjective, \male}}
