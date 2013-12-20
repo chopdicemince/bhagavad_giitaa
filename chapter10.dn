@@ -316,12 +316,7 @@ really---separate kinds.\\
   % ---------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&sta|po&tapa.h\\
-  &&&= {\dn tapa.h}\\
-  &&&= tapas\\
-  &&&= {\dn tapas}\\
-  &&&= \tapas\\
-  &&&\notetapas\\
+  1b&&sta|po&\tapas\\
   &&&\\
   &{\dn daana.m}&daa|na.m&\daanam\\
   &&&\\

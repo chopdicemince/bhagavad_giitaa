@@ -3339,9 +3339,17 @@
 \newcommand{\tAmasAH}{(things of) \tamastemp}
 \newcommand{\notetAmasAH}{\note{\adjective, \noun, \male, \plural}}
 % ------------------------------------------------------------------------------
-\newcommand{\tapas}{fire; heat; suffering; austerity; asceticism}
-\newcommand{\notetapas}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounroottapas}{\nounroot{\dn tapas}{tapas}}
+\newcommand{\tapastemp}{fire; heat; suffering; austerity;\\
+  &&&asceticism}
+
+\newcommand{\tapas}{%
+  tapa.h = {\dn tapa.h} = tapas = {\dn tapas}\\
+  &&&= \tapastemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroottapas}
+}
 
 \newcommand{\tapasaa}{\instrumentalphrase\ \tapas}
 \newcommand{\notetapasaa}{\note{\noun, \neuter, \instrumentalcase}}
