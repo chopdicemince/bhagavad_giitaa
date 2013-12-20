@@ -3288,8 +3288,13 @@
   &&&\note{\adjectiveroottama}
 }
 
-\newcommand{\tamam}{most}
-\newcommand{\notetamam}{\note{\suffix, \adjective, \noun, \neuter, \adverb}}
+\newcommand{\tamam}{%
+  tamam = {\dn tamam} = \tamatemp\\
+  &&&\note{\suffix, \adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiveroottama}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tamas}{one of the three gu.nas;\\
   &&&darkness; ignorance; hell; inertia}
