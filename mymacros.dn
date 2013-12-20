@@ -3308,6 +3308,14 @@
   &&&\note{\nounroottamas}
 }
 
+\newcommand{\tamasaH}{%
+  tamasa.h = {\dn tamasa.h} = \ablativephrase/\genitivephrase\\
+  &&&\tamastemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounroottamas}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\taamasam}{\tamastemp}
 \newcommand{\notetaamasam}{\note{\noun, \neuter, \accusativecase}}
 
