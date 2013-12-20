@@ -3357,6 +3357,13 @@
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounroottapas}
 }
+
+\newcommand{\tapasi}{%
+  tapasi = {\dn tapasi} = \locativephrase\\
+  &&&\tapastemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounroottapas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\taraH}{more}
 \newcommand{\notetaraH}{\note{\suffix, \male}}
