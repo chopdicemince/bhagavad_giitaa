@@ -3383,8 +3383,12 @@
   &&&\note{\adjectiveroottara}
 }
 
-\newcommand{\taram}{more}
-\newcommand{\notetaram}{\note{\suffix, \neuter}}
+\newcommand{\taram}{%
+  taram = {\dn taram} = \taratemp\\
+  &&&\note{\suffix, \adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiveroottara}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tattvam}{truth; reality; essence; axiom}
 \newcommand{\notetattvam}{\note{\noun, \neuter}\\
