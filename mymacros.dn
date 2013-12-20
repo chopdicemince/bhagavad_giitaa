@@ -757,6 +757,18 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
+\newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
+
+\newcommand{\Azcaryam}{%
+  aa"scaryam = {\dn aa"scaryam}\\
+  &&&= \Azcaryatemp;\\
+  &&&miracle; marvel; wonder; surprise\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \noun, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootAzcarya}\\
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
 \newcommand{\aatman}{self; soul}
 
