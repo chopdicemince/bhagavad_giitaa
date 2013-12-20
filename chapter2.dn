@@ -2288,15 +2288,12 @@ of miracles. And also, having heard (these things)---there is not
 really any knowledge.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aa"scaryavatpa"syati}&aa"s|car|ya|vat|&full of miracles;\\
-  &&&by a miracle;\\
-  &&&miraculously\\
-  &&&\note{\adverb}\\
-  &&&\note{from: \noun, \neuter,}\\
-  &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from:}\\
-  &&&\note{{\dn vat} = vat = \vat}\\
-  &&&\notevat\\
+  1a&{\dn aa"scaryavatpa"syati}&aa"s|car|ya|&aa"scaryam\\
+  &&&= {\dn aa"scaryam}\\
+  &&&= miracle\\
+  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &&&\\
+  &&vat|&\vat\\
   &&&\\
   &&pa"s|ya|ti&\pazyati\\
   &&&\\
@@ -2309,17 +2306,12 @@ really any knowledge.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn aa"scaryavadvadati}&aa"s|car|ya|vad|&aa"scaryavat\\
-  &&&= {\dn aa"scaryavat}\\
-  &&&= full of miracles;\\
-  &&&by a miracle;\\
-  &&&miraculously\\
-  &&&\note{\adverb}\\
-  &&&\note{from: \noun, \neuter,}\\
-  &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from:}\\
-  &&&\note{{\dn vat} = vat = \vat}\\
-  &&&\notevat\\
+  1b&{\dn aa"scaryavadvadati}&aa"s|car|ya|&aa"scaryam\\
+  &&&= {\dn aa"scaryam}\\
+  &&&= miracle\\
+  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &&&\\
+  &&vad|&\vat\\
   &&&\\
   &&va|da|ti&(he/she/it) says\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -2335,17 +2327,12 @@ really any knowledge.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2a&{\dn aa"scaryavaccainamanya.h}&aa"s|car|ya|vac|&aa"scaryavat\\
-  &&&= {\dn aa"scaryavat}\\
-  &&&= full of miracles;\\
-  &&&by a miracle;\\
-  &&&miraculously\\
-  &&&\note{\adverb}\\
-  &&&\note{from: \noun, \neuter,}\\
-  &&&\note{{\dn aa"scaryam} = aa"scaryam = miracle}\\
-  &&&\note{from:}\\
-  &&&\note{{\dn vat} = vat = \vat}\\
-  &&&\notevat\\
+  2a&{\dn aa"scaryavaccainamanya.h}&aa"s|car|ya|&aa"scaryam\\
+  &&&= {\dn aa"scaryam}\\
+  &&&= miracle\\
+  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &&&\\
+  &&vac|&\vat\\
   &&&\\
   &&cai|&\ca\\
   &&&\\
