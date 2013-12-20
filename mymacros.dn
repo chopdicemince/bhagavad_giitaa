@@ -768,6 +768,15 @@
   &&&\note{\adjective, \noun, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootAzcarya}\\
 }
+
+\newcommand{\AzcaryANi}{%
+  aa"scaryaa.ni = {\dn aa"scaryaa.ni}\\
+  &&&= \Azcaryatemp;\\
+  &&&miracles; marvels; wonders; surprises\\
+  &&&\note{\adjective, \noun, \plural}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootAzcarya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
 \newcommand{\aatman}{self; soul}
