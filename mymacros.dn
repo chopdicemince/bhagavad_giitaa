@@ -3428,8 +3428,12 @@
   &&&\note{\adjectiverootuttama}
 }
 
-\newcommand{\uttama}{\vocativephrase\ \uttamatemp}
-\newcommand{\noteuttama}[1]{\note{\adjective, #1, \vocativecase}}
+\newcommand{\uttama}{%
+  uttama = {\dn uttama}\\
+  &&&= \vocativephrase\ \uttamatemp\\
+  &&&\note{\adjective, \male, \neuter, \vocativecase}\\
+  &&&\note{\adjectiverootuttama}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\uvaaca}{\hesheit\ uttered; said}
 \newcommand{\noteuvaaca}{\note{\verbb, \pasttense, \thirdperson, \singular}}
