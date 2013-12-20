@@ -3296,18 +3296,25 @@
   &&&\note{\adjectiveroottama}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\tamas}{one of the three gu.nas;\\
-  &&&darkness; ignorance; hell; inertia}
-\newcommand{\notetamas}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounroottamas}{\nounroot{\dn tamas}{tamas}}
+\newcommand{\tamastemp}{one of the three gu.nas;\\
+  &&&ignorance; darkness; hell; inertia}
 
-\newcommand{\taamasam}{\tamas}
+\newcommand{\tamas}{%
+  tama.h = {\dn tama.h} = tamas = {\dn tamas}\\
+  &&&= \tamastemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroottamas}
+}
+
+\newcommand{\taamasam}{\tamastemp}
 \newcommand{\notetaamasam}{\note{\noun, \neuter, \accusativecase}}
 
-\newcommand{\taamasii}{\locativephrase\ \tamas}
+\newcommand{\taamasii}{\locativephrase\ \tamastemp}
 \newcommand{\notetaamasii}{\note{\noun, \neuter, \locativecase}}
 
-\newcommand{\tAmasAH}{(things of) \tamas}
+\newcommand{\tAmasAH}{(things of) \tamastemp}
 \newcommand{\notetAmasAH}{\note{\adjective, \noun, \male, \plural}}
 % ------------------------------------------------------------------------------
 \newcommand{\tapas}{fire; heat; suffering; austerity; asceticism}
