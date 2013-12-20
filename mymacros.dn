@@ -3273,8 +3273,14 @@
   &&&\note{\adjectiverootsvarga}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\tamaH}{most}
-\newcommand{\notetamaH}{\note{\suffix, \adjective, \noun, \male, \adverb}}
+\newcommand{\adjectiveroottama}{\adjectiveroot{\dn tama}{tama}}
+\newcommand{\tamatemp}{most}
+
+\newcommand{\tamaH}{%
+  tama.h = {\dn tama.h} = \tamatemp\\
+  &&&\note{\suffix, \adjective, \male}\\
+  &&&\note{\adjectiveroottama}
+}
 
 \newcommand{\tamAH}{most}
 \newcommand{\notetamAH}{\note{\suffix, \adjective, \noun, \male, \plural}\\
