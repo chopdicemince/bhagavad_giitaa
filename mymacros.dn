@@ -3402,8 +3402,12 @@
   &&&\note{\nounroottattva}
 }
 
-\newcommand{\tattvena}{\instrumentalphrase\ \tattvam}
-\newcommand{\notetattvena}{\note{\noun, \neuter, \instrumentalcase}}
+\newcommand{\tattvena}{%
+  tattvena = {\dn tattvena} = \instrumentalphrase\\
+  &&&\tattvatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounroottattva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\uttamaH}{ultimate; uppermost; best}
 \newcommand{\noteuttamaH}{\note{\adjective, \male}}
