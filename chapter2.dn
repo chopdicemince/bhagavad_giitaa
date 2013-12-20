@@ -2563,10 +2563,7 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn svargadvaaramapaav.rtam}&svar|ga|&svarga.h\\
-  &&&= {\dn svarga.h}\\
-  &&&= svargaH\\
-  &&&\notesvargaH\\
+  1b&{\dn svargadvaaramapaav.rtam}&svar|ga|&\svargaH\\
   &&&\\
   &&dvaa|ra|ma|&dvaaram\\
   &&&= {\dn dvaaram}\\
@@ -3316,10 +3313,7 @@ wealth; to movement.''\\
   &&&= self\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn svargaparaa}&svar|ga|&svarga.h\\
-  &&&= {\dn svarga.h}\\
-  &&&= \svargaH\\
-  &&&\notesvargaH\\
+  &{\dn svargaparaa}&svar|ga|&\svargaH\\
   &&&\\
   &&pa|raa&\paraa\\
   % ----------------------------------------------------------------------------

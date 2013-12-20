@@ -3257,8 +3257,14 @@
   &&&\note{\nounrootsvapna}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\svargaH}{heaven}
-\newcommand{\notesvargaH}{\note{\noun, \male}}
+\newcommand{\adjectiverootsvarga}{\adjectiveroot{\dn svarga}{svarga}}
+\newcommand{\svargatemp}{heavenly; heaven}
+
+\newcommand{\svargaH}{%
+  svarga.h = {\dn svarga.h} = \svargatemp\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsvarga}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tamaH}{most}
 \newcommand{\notetamaH}{\note{\suffix, \adjective, \noun, \male, \adverb}}
