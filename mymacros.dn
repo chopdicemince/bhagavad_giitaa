@@ -3342,6 +3342,8 @@
 \newcommand{\nounroottapas}{\nounroot{\dn tapas}{tapas}}
 \newcommand{\tapastemp}{fire; heat; suffering; austerity;\\
   &&&asceticism}
+\newcommand{\tapaspluraltemp}{fires; heat; suffering; austerities\\
+  &&&asceticism}
 
 \newcommand{\tapas}{%
   tapa.h = {\dn tapa.h} = tapas = {\dn tapas}\\
@@ -3362,6 +3364,13 @@
   tapasi = {\dn tapasi} = \locativephrase\\
   &&&\tapastemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounroottapas}
+}
+
+\newcommand{\tapobhiH}{%
+  tapobhi.h = {\dn tapobhi.h} = \instrumentalphrase\\
+  &&&\tapaspluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounroottapas}
 }
 % ------------------------------------------------------------------------------
