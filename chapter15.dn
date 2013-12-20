@@ -1352,7 +1352,6 @@ non-changeable God.\\
 
 \begin{tabular}{llll}
   1a&{\dn uttama.h}&ut|ta|ma\h{a}&\uttamaH\\
-  &&&\noteuttamaH\\
   &&&\\
   &{\dn puru.sastvanya.h}&pu|ru|.sa|&\puruSaH\\
   &&&\\
@@ -1455,10 +1454,7 @@ knowledge---known (as) the ultimate man.\\
   &&&\\
   &{\dn cottama.h}&cot|&\ca\\
   &&&\\
-  &&ta|ma\h{a}&uttama.h\\
-  &&&= {\dn uttama.h}\\
-  &&&= \uttamaH\\
-  &&&\noteuttamaH\\
+  &&ta|ma\h{a}&\uttamaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1484,10 +1480,7 @@ knowledge---known (as) the ultimate man.\\
   &&&\\
   &{\dn puru.sottama.h}&pu|ru|.sot|&\puruSaH\\
   &&&\\
-  &&ta|ma\h{a}&uttama.h\\
-  &&&= {\dn uttama.h}\\
-  &&&= \uttamaH\\
-  &&&\noteuttamaH\\
+  &&ta|ma\h{a}&\uttamaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

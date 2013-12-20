@@ -3409,15 +3409,22 @@
   &&&\note{\nounroottattva}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\uttamaH}{ultimate; uppermost; best}
-\newcommand{\noteuttamaH}{\note{\adjective, \male}}
+\newcommand{\adjectiverootuttama}{\adjectiveroot{\dn uttama}{uttama}}
+\newcommand{\uttamatemp}{ultimate; uppermost; best}
 
-\newcommand{\uttamam}{\uttamaH}
+\newcommand{\uttamaH}{%
+  uttama.h = {\dn uttama.h}\\
+  &&&= \uttamatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootuttama}
+}
+
+\newcommand{\uttamam}{\uttamatemp}
 \newcommand{\noteuttamammale}{\note{\adjective, \male, \accusativecase}}
 \newcommand{\noteuttamamneuter}{\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}}
 
-\newcommand{\uttama}{\vocativephrase\ \uttamaH}
+\newcommand{\uttama}{\vocativephrase\ \uttamatemp}
 \newcommand{\noteuttama}[1]{\note{\adjective, #1, \vocativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\uvaaca}{\hesheit\ uttered; said}
