@@ -3308,6 +3308,13 @@
   &&&\note{\nounroottamas}
 }
 
+\newcommand{\tamasaa}{%
+  tamasaa = {\dn tamasaa} = \instrumentalphrase\\
+  &&&\tamastemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounroottamas}
+}
+
 \newcommand{\tamasaH}{%
   tamasa.h = {\dn tamasa.h} = \ablativephrase/\genitivephrase\\
   &&&\tamastemp\\
