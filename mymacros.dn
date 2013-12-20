@@ -3249,6 +3249,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootsvapna}
 }
+
+\newcommand{\svapnam}{%
+  svapnam = {\dn svapnam}\\
+  &&&= \svapnatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootsvapna}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\svargaH}{heaven}
 \newcommand{\notesvargaH}{\note{\noun, \male}}
