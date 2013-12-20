@@ -3374,8 +3374,14 @@
   &&&\note{\nounroottapas}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\taraH}{more}
-\newcommand{\notetaraH}{\note{\suffix, \male}}
+\newcommand{\adjectiveroottara}{\adjectiveroot{\dn tara}{tara}}
+\newcommand{\taratemp}{more}
+
+\newcommand{\taraH}{%
+  tara.h = {\dn tara.h} = \taratemp\\
+  &&&\note{\suffix, \adjective, \male}\\
+  &&&\note{\adjectiveroottara}
+}
 
 \newcommand{\taram}{more}
 \newcommand{\notetaram}{\note{\suffix, \neuter}}
