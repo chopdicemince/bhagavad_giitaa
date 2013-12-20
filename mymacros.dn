@@ -3322,6 +3322,13 @@
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{\nounroottamas}
 }
+
+\newcommand{\tamasi}{%
+  tamasi = {\dn tamasi} = \locativephrase\\
+  &&&\tamastemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounroottamas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\taamasam}{\tamastemp}
 \newcommand{\notetaamasam}{\note{\noun, \neuter, \accusativecase}}
