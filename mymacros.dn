@@ -3479,6 +3479,14 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootvimUDha}
 }
+
+\newcommand{\vimUDhAH}{%
+  vimuu.dhaa.h = {\dn vimuu.dhaa.h}\\
+  &&&= (\vocativephrase) \vimUDhatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootvimUDha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vimuktaH}{freed}
 \newcommand{\notevimuktaH}{\note{\adjective, \male}}
