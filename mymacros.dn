@@ -3282,9 +3282,11 @@
   &&&\note{\adjectiveroottama}
 }
 
-\newcommand{\tamAH}{most}
-\newcommand{\notetamAH}{\note{\suffix, \adjective, \noun, \male, \plural}\\
-  &&&\note{\adverb}}
+\newcommand{\tamAH}{%
+  tamaa.h = {\dn tamaa.h} = \tamatemp\\
+  &&&\note{\suffix, \adjective, \male, \plural}\\
+  &&&\note{\adjectiveroottama}
+}
 
 \newcommand{\tamam}{most}
 \newcommand{\notetamam}{\note{\suffix, \adjective, \noun, \neuter, \adverb}}
