@@ -3278,13 +3278,14 @@
 
 \newcommand{\tamaH}{%
   tama.h = {\dn tama.h} = \tamatemp\\
-  &&&\note{\suffix, \adjective, \male}\\
+  &&&\note{\suffix, \adjective, \male, \nominativecase}\\
   &&&\note{\adjectiveroottama}
 }
 
 \newcommand{\tamAH}{%
-  tamaa.h = {\dn tamaa.h} = \tamatemp\\
+  tamaa.h = {\dn tamaa.h} = (\vocativephrase) \tamatemp\\
   &&&\note{\suffix, \adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiveroottama}
 }
 
@@ -3379,7 +3380,7 @@
 
 \newcommand{\taraH}{%
   tara.h = {\dn tara.h} = \taratemp\\
-  &&&\note{\suffix, \adjective, \male}\\
+  &&&\note{\suffix, \adjective, \male, \nominativecase}\\
   &&&\note{\adjectiveroottara}
 }
 
