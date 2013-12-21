@@ -3761,6 +3761,12 @@
   &&&\note{\nounrootyoga}
 }
 
+\newcommand{\yoge}{%
+  yoge = {\dn yoge} = \locativephrase\ \yogatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootyoga}
+}
+
 \newcommand{\yogii}{yoked man}
 \newcommand{\noteyogii}{\note{\noun, \male}}
 % ------------------------------------------------------------------------------
