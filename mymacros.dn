@@ -3707,6 +3707,13 @@
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootyajJa}
 }
+
+\newcommand{\yajJAnAm}{%
+  yaj\~{}naanaam = {\dn yaj~naanaam} = \genitivephrase\\
+  &&&\yajJapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootyajJa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yataH}{from what/which/whom; because; since}
 \newcommand{\noteyataH}{\note{\conjunction, \indeclinable}}
