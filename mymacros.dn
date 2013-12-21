@@ -2309,6 +2309,7 @@
 
 \newcommand{\paapena}{%
   paapena = {\dn paapena} = \instrumentalphrase\ \paapatemp\\
+  &&&\note{\adjective, \male, \instrumentalcase}\\
   &&&\note{\adjective, \noun, \neuter}\\
   &&&\note{\instrumentalcase}\\
   &&&\note{\adjectiverootpaapa}
@@ -2316,6 +2317,7 @@
 
 \newcommand{\paapaat}{%
   paapaat = {\dn paapaat} = \ablativephrase\ \paapatemp\\
+  &&&\note{\adjective, \male, \ablativecase}\\
   &&&\note{\adjective, \noun, \neuter}\\
   &&&\note{\ablativecase}\\
   &&&\note{\adjectiverootpaapa}
