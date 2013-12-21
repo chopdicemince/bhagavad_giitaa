@@ -2320,6 +2320,13 @@
   &&&\note{\ablativecase}\\
   &&&\note{\adjectiverootpaapa}
 }
+
+\newcommand{\pApAH}{%
+  paapaa.h = {\dn paapaa.h} = (\vocativephrase) evil\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
