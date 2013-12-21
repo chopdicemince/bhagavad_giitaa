@@ -3526,8 +3526,14 @@
   &&&\note{\adjectiverootvimukta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\vindati}{\hesheit\ gets}
-\newcommand{\notevindati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
+\newcommand{\verbrootvid}{\verbroot{\dn vid}{vid}}
+
+\newcommand{\vindati}{
+  vindati = {\dn vindati}\\
+  &&&= \hesheit\ gets; finds\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootvid}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vyayam}{subject to change; death; spending; expenditure}
 \newcommand{\notevyayam}{\note{\adjective, \male, \accusativecase}\\
