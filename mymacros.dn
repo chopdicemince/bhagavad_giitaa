@@ -2306,6 +2306,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootpaapa}
 }
+
+\newcommand{\paapena}{%
+  paapena = {\dn paapena} = \instrumentalphrase\ \paapatemp\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\adjectiverootpaapa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
