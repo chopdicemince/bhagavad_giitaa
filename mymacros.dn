@@ -2348,6 +2348,15 @@
   &&&\note{\dativecase, \ablativecase}\\
   &&&\note{\adjectiverootpaapa}
 }
+
+\newcommand{\pApeSu}{%
+  paape.su = {\dn paape.su}\\
+  &&&\locativephrase\ \paapapluraltemp\\
+  &&&\note{\adjective, \male, \plural, \locativecase}\\
+  &&&\note{\adjective, \noun, \neuter, \plural}\\
+  &&&\note{\locativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
