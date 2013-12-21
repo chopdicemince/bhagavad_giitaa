@@ -2338,6 +2338,16 @@
   &&&\note{\instrumentalcase}\\
   &&&\note{\adjectiverootpaapa}
 }
+
+\newcommand{\pApebhyaH}{%
+  paapebhya.h = {\dn paapebhya.h}\\
+  &&&= \dativephrase/\ablativephrase\ \paapapluraltemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\adjective, \noun, \neuter, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
