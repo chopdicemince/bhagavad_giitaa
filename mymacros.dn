@@ -3535,9 +3535,18 @@
   &&&\note{\verbrootvid}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\vyayam}{subject to change; death; spending; expenditure}
-\newcommand{\notevyayam}{\note{\adjective, \male, \accusativecase}\\
-  &&&\note{\neuter, \nominativecase, \accusativecase}}
+\newcommand{\adjectiverootvyaya}{\adjectiveroot{\dn vyaya}{vyaya}}
+\newcommand{\vyayatemp}{able to change/decay/die}
+
+\newcommand{\vyayam}{%
+  vyayam = {\dn vyayam}\\
+  &&&= \vyayatemp; change;\\
+  &&&decay; loss; cost; expense; expenditure\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootvyaya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yaanti}{\they\ go}
 \newcommand{\noteyaanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}

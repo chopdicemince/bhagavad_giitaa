@@ -1704,12 +1704,7 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|yam&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|yam&\vyayam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

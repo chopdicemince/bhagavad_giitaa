@@ -947,12 +947,7 @@ changeable.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|yam&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|yam&\vyayam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1751,12 +1746,7 @@ not-changeable, and ultimate.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|ya|ma|&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|ya|ma|&\vyayam\\
   &&&\\
   &&nut|ta|mam&anuttamam\\
   &&&= {\dn anuttamam}\\
@@ -1832,12 +1822,7 @@ not-changeable.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|yam&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|yam&\vyayam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

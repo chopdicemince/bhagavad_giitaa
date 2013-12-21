@@ -45,12 +45,7 @@ Ik.svaaku.\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|yam&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|yam&\vyayam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -895,12 +890,7 @@ according to thread-action. Its doer is also me (I) \dots knowing (?)
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&vya|yam&vyayam\\
-  &&&= {\dn vyayam}\\
-  &&&= \vyayam\\
-  &&&\notevyayam\\
-  &&&\note{from {\dn vyaya.h} = vyaya.h}\\
-  &&&\note{from {\dn vyayam} = vyayam}\\
+  &&vya|yam&\vyayam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
