@@ -3664,8 +3664,12 @@
   &&&\note{\nounrootyajJa}
 }
 
-\newcommand{\yajJAt}{\ablativephrase\ \yajJaH}
-\newcommand{\noteyajJAt}{\note{\noun, \male, \ablativecase}}
+\newcommand{\yajJAt}{%
+  yaj\~{}naat = {\dn yaj~naat} = \ablativephrase\\
+  &&&\yajJatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 
 \newcommand{\yajJe}{\locativephrase\ \yajJaH}
 \newcommand{\noteyajJe}{\note{\noun, \male, \locativecase}}
