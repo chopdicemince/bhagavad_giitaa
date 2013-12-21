@@ -2341,10 +2341,7 @@ if from force, commanded?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn paapa.m}&paa|pa.m&paapam\\
-  &&&= {\dn paapam}\\
-  &&&= evil; vice; crime\\
-  &&&\note{\noun, \neuter}\\
+  1b&{\dn paapa.m}&paa|pa.m&\paapam\\
   &&&\\
   &{\dn carati}&ca|ra|ti&(he/she/it) moves; behaves; consumes\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

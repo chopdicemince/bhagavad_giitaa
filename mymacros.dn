@@ -2297,6 +2297,16 @@
   &&&\note{\adjectiverootniyata}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootpaapa}{\adjectiveroot{\dn paapa}{paapa}}
+\newcommand{\paapatemp}{evil}
+
+\newcommand{\paapam}{%
+  paapam = {\dn paapam} = \paapatemp\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
 \newcommand{\padapluraltemp}{parts; places; paces; steps; foots; words}
