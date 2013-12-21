@@ -3640,8 +3640,15 @@
   &&&\note{\verbrootyaa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\yajJaH}{sacrifice; offering; worship}
-\newcommand{\noteyajJaH}{\note{\noun, \male}}
+\newcommand{\nounrootyajJa}{\nounroot{\dn yaj~na}{yaj\~{}na}}
+\newcommand{\yajJatemp}{sacrifice; offering; worship; devotion}
+
+\newcommand{\yajJaH}{%
+  yaj\~{}na.h = {\dn yaj~na.h}\\
+  &&&= \yajJatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 
 \newcommand{\yajJam}{\yajJaH}
 \newcommand{\noteyajJam}{\note{\noun, \male, \accusativecase}}
