@@ -4469,10 +4469,7 @@ main syllables, instead of the usual eight.)\\
   &&&= self\\
   &&&\note{\prefix}\\
   &&&\\
-  &&yo|gaat&{\dn yogaat}\\
-  &&&= \yogaat\\
-  &&&\noteyogaat\\
-  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  &&yo|gaat&\yogaat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

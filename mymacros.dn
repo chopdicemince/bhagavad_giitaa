@@ -3755,8 +3755,11 @@
   &&&\note{\nounrootyoga}
 }
 
-\newcommand{\yogaat}{\ablativephrase\ \yogatemp}
-\newcommand{\noteyogaat}{\note{\noun, \male, \ablativecase}}
+\newcommand{\yogaat}{%
+  yogaat = {\dn yogaat} = \ablativephrase\ \yogatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootyoga}
+}
 
 \newcommand{\yogii}{yoked man}
 \newcommand{\noteyogii}{\note{\noun, \male}}
