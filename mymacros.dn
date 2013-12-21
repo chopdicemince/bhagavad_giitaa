@@ -3728,16 +3728,22 @@
   &&&\note{\conjunction, \indeclinable}\\
 }
 % ------------------------------------------------------------------------------
-\newcommand{\yogaH}{yoking}
-\newcommand{\noteyogaH}{\note{\noun, \male}}
+\newcommand{\nounrootyoga}{\nounroot{\dn yoga}{yoga}}
+\newcommand{\yogatemp}{yoking}
 
-\newcommand{\yogam}{\yogaH}
+\newcommand{\yogaH}{%
+  yoga.h = {\dn yoga.h} = \yogatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootyoga}
+}
+
+\newcommand{\yogam}{\yogatemp}
 \newcommand{\noteyogam}{\note{\noun, \male, \accusativecase}}
 
-\newcommand{\yogena}{\instrumentalphrase\ \yogaH}
+\newcommand{\yogena}{\instrumentalphrase\ \yogatemp}
 \newcommand{\noteyogena}{\note{\noun, \male, \instrumentalcase}}
 
-\newcommand{\yogaat}{\ablativephrase\ \yogaH}
+\newcommand{\yogaat}{\ablativephrase\ \yogatemp}
 \newcommand{\noteyogaat}{\note{\noun, \male, \ablativecase}}
 
 \newcommand{\yogii}{yoked man}

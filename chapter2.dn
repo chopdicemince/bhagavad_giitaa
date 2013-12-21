@@ -3430,13 +3430,16 @@ duality), be eternal, and be without worldy care, be yourself (?).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn niryogak.sema}&nir|yo|ga|k.se|ma&without worldly care\\
-  &&&\note{\adjective}\\
-  &&&\note{from: \prefix, {\dn nir} = nir = without}\\
-  &&&\note{from: \noun, \male, {\dn yoga.h} = yoga.h}\\
-  &&&\note{= union; endeavor; job}\\
-  &&&\note{from: \noun, \male, {\dn k.sema.h} = k.sema.h}\\
-  &&&\note{= security; peace; comfort}\\
+  2b&{\dn niryogak.sema}&nir|&ni.h = {\dn ni.h} = without\\
+  &&&\note{\preposition}\\
+  &&&\\
+  &&yo|ga|&\yogaH\\
+  &&&\\
+  &&k.se|ma&k.sema.h = {\dn k.sema.h}\\
+  &&&= secure; peaceful; comfortable;\\
+  &&&security; peace; comfort\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiveroot{\dn k.sema}{k.sema}}\\
   &&&\\
   &{\dn aatmavaan}&aat|ma|vaan&``self'' (?)\\
   &&&\note{from: \prefix, {\dn aatma} = aatma = self}\\
@@ -3579,10 +3582,7 @@ association with, and having been equal in, success and
 non-success. This equanimity is called ``yoga.''\\
 
 \begin{tabular}{llll}
-  1a&{\dn yogastha.h}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  1a&{\dn yogastha.h}&yo|ga|&\yogaH\\
   &&&\\
   &&sta\h{a}&devoted to;\\
   &&&engaged in;\\
@@ -3625,10 +3625,7 @@ non-success. This equanimity is called ``yoga.''\\
   2b&{\dn samatva.m}&sa|ma|tva.m&equanimity\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn yoga}&yo|ga&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yoga}&yo|ga&\yogaH\\
   &&&\\
   &{\dn ucyate}&u|cya|te&is said; is called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -3751,7 +3748,6 @@ action, and skill.\\
   \hline
   &&&\\
   2b&{\dn yoga.h}&yo|ga\h{a}&\yogaH\\
-  &&&\noteyogaH\\
   &&&\\
   &{\dn karmasu}&kar|ma|su&\karmasu\\
   &&&\\

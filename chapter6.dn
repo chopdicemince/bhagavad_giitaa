@@ -1101,8 +1101,7 @@ Arjuna.\\
   &&&\\
   &&stu&\tu\\
   &&&\\
-  &{\dn yogo.asti}&yo|go|&yoga.h = {\dn yoga.h} = \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogo.asti}&yo|go|&\yogaH\\
   &&&\\
   &&'sti&asti = {\dn asti} = (he/she/it) is\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1213,10 +1212,7 @@ sleep of wakefulness, yoking is hurtful to distress.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yogo}&yo|go&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  2b&{\dn yogo}&yo|go&\yogaH\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
@@ -1398,10 +1394,7 @@ person is satisfied.\\
   &&&= restrained\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn yogasevayaa}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogasevayaa}&yo|ga|&\yogaH\\
   &&&\\
   &&se|va|yaa&{\dn sevayaa}\\
   &&&= by using service; reverence; addiction; indulgence\\
@@ -1605,8 +1598,9 @@ contacting material objects) is called yoking.\\
   &&&\\
   &&sa.m|yo|ga|&sa.myoga.h\\
   &&&= {\dn sa.myoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &&&= yoking; combination; compound\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn sa.myoga}{sa.myoga}}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1616,10 +1610,7 @@ contacting material objects) is called yoking.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn viyoga.h} = viyoga.h}\\
   &&&\\
-  &{\dn yogasa.mj~nitam}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogasa.mj~nitam}&yo|ga|&\yogaH\\
   &&&\\
   &&sa.m|j\~{}ni|tam&{\dn sa.mj~nitam}\\
   &&&= sa\~{}nj\~{}nitam\\
@@ -1656,10 +1647,7 @@ everywhere.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn yogo.anirvi.n.nacetasaa}&yo|go|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  1b&{\dn yogo.anirvi.n.nacetasaa}&yo|go|&\yogaH\\
   &&&\\
   &&'|&\aprefix\\
   &&&\\
@@ -2043,10 +2031,7 @@ all-seeing.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn iik.s} = iik.s}\\
   &&&\\
-  &{\dn yogayuktaatmaa}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogayuktaatmaa}&yo|ga|&\yogaH\\
   &&&\\
   &&yuk|taat|&yukta.h\\
   &&&= {\dn yukta.h}\\
@@ -2271,10 +2256,7 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&&\\
   &&'ya.m&\ayam\\
   &&&\\
-  &{\dn yogastvayaa}&yo|ga|stva|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogastvayaa}&yo|ga|stva|&\yogaH\\
   &&&\\
   &&yaa&tvayaa = {\dn tvayaa} = \tvayaa\\
   &&&\notetvayaa\\
@@ -2495,10 +2477,7 @@ advantage.\\
   &&&\\
   &&ma|naa&\aatmanaa\\
   &&&\\
-  &{\dn yogo}&yo|go&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogo}&yo|go&\yogaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2604,10 +2583,7 @@ he go (on), O \textkrsna?\\
   &&&= procurable\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn yogasa.msiddhi.m}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  &{\dn yogasa.msiddhi.m}&yo|ga|&\yogaH\\
   &&&\\
   &&sa.m|sid|dhi.m&\saMsiddhim\\
   % ----------------------------------------------------------------------------
@@ -2904,10 +2880,7 @@ things pure, of things eminent.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yogabhra.s.to.abhijaayate}&yo|ga|&yoga.h\\
-  &&&= {\dn yoga.h}\\
-  &&&= \yogaH\\
-  &&&\noteyogaH\\
+  2b&{\dn yogabhra.s.to.abhijaayate}&yo|ga|&\yogaH\\
   &&&\\
   &&bhra.s|.to|&bhra.s.ta.h\\
   &&&= {\dn bhra.s.ta.h}\\
