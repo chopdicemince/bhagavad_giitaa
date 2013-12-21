@@ -3685,8 +3685,12 @@
   &&&\note{\nounrootyajJa}
 }
 
-\newcommand{\yajJe}{\locativephrase\ \yajJaH}
-\newcommand{\noteyajJe}{\note{\noun, \male, \locativecase}}
+\newcommand{\yajJe}{%
+  yaj\~{}ne = {\dn yaj~ne} = \locativephrase\ a/the\\
+  &&&\yajJatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 
 \newcommand{\yajJAH}{sacrifices; offerings; worship}
 \newcommand{\noteyajJAH}{\note{\noun, \male, \plural}}
