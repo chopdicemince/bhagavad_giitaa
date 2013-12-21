@@ -3678,6 +3678,13 @@
   &&&\note{\nounrootyajJa}
 }
 
+\newcommand{\yajJasya}{%
+  yaj\~{}nasya = {\dn yaj~nasya} = \genitivephrase\ a/the\\
+  &&&\yajJatemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootyajJa}
+}
+
 \newcommand{\yajJe}{\locativephrase\ \yajJaH}
 \newcommand{\noteyajJe}{\note{\noun, \male, \locativecase}}
 
