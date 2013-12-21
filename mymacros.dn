@@ -3768,11 +3768,22 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootyogin}{\adjectiveroot{\dn yogin}{yogin}}
-\newcommand{\yogintemp}{yoked}
+\newcommand{\yogintemp}{yoked; man of yoking}
+\newcommand{\yoginpluraltemp}{yoked; men of yoking}
 
 \newcommand{\yogii}{%
-  yogii = {\dn yogii} = \yogintemp; man of yoking\\
+  yogii = {\dn yogii} = \yogintemp\\
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootyogin}
+}
+
+\newcommand{\yoginaH}{%
+  yogina.h = {\dn yogina.h}\\
+  &&&\ablativephrase/\genitivephrase\ \yogintemp;\\
+  &&&(\vocativephrase) \yoginpluraltemp\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootyogin}
 }
 % ------------------------------------------------------------------------------
