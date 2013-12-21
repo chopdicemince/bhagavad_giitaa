@@ -3737,8 +3737,11 @@
   &&&\note{\nounrootyoga}
 }
 
-\newcommand{\yogam}{\yogatemp}
-\newcommand{\noteyogam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\yogam}{%
+  yogam = {\dn yogam} = \yogatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootyoga}
+}
 
 \newcommand{\yogena}{\instrumentalphrase\ \yogatemp}
 \newcommand{\noteyogena}{\note{\noun, \male, \instrumentalcase}}

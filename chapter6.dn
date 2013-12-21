@@ -105,11 +105,7 @@ not active.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&yo|ga.m&yogam\\
-  &&&= {\dn yogam}\\
-  &&&= \yogam\\
-  &&&\noteyogam\\
-  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  1b&&yo|ga.m&\yogam\\
   &&&\\
   &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
@@ -167,11 +163,7 @@ peace is viewed as the cause.\\
   &&&\\
   &&mu|ner|&\muneH\\
   &&&\\
-  &&yo|ga.m&yogam\\
-  &&&= {\dn yogam}\\
-  &&&= \yogam\\
-  &&&\noteyogam\\
-  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  &&yo|ga.m&\yogam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -848,11 +840,7 @@ is virtuous.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&dyo|ga|maat|&yogam\\
-  &&&= {\dn yogam}\\
-  &&&= \yogam\\
-  &&&\noteyogam\\
-  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  2b&&dyo|ga|maat|&\yogam\\
   &&&\\
   &&ma|&aatma = {\dn aatma} = self; soul\\
   &&&\note{\prefix}\\
@@ -1352,11 +1340,7 @@ doing yoking of the self.\\
   &&&\\
   2b&{\dn yu~njato}&yu\~{}n|ja|to&\yuJjataH\\
   &&&\\
-  &{\dn yogamaatmana.h}&yo|ga|maat|&yogam\\
-  &&&= {\dn yogam}\\
-  &&&= \yogam\\
-  &&&\noteyogam\\
-  &&&\note{from {\dn yoga.h} = yoga.h}\\
+  &{\dn yogamaatmana.h}&yo|ga|maat|&\yogam\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
 \end{tabular}
