@@ -3626,11 +3626,16 @@
   &&&\note{\adjectiverootvyaya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootyaa}{\verbroot{\dn yaa}{yaa}}
+
+\newcommand{\yaati}{%
+  yaati = {\dn yaati} = \hesheit\ goes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootyaa}
+}
+
 \newcommand{\yaanti}{\they\ go}
 \newcommand{\noteyaanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}
-% ------------------------------------------------------------------------------
-\newcommand{\yaati}{\hesheit\ goes}
-\newcommand{\noteyaati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
 % ------------------------------------------------------------------------------
 \newcommand{\yajJaH}{sacrifice; offering; worship}
 \newcommand{\noteyajJaH}{\note{\noun, \male}}
