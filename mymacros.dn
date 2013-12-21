@@ -3650,8 +3650,12 @@
   &&&\note{\nounrootyajJa}
 }
 
-\newcommand{\yajJam}{\yajJaH}
-\newcommand{\noteyajJam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\yajJam}{%
+  yaj\~{}nam = {\dn yaj~nam}\\
+  &&&= \yajJatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 
 \newcommand{\yajJena}{\instrumentalphrase\ \yajJaH}
 \newcommand{\noteyajJena}{\note{\noun, \male, \instrumentalcase}}
