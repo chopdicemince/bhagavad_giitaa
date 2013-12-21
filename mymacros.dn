@@ -3503,6 +3503,13 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootvimukta}
 }
+
+\newcommand{\vimuktAH}{%
+  vimuktaa.h = {\dn vimuktaa.h} = \vimuktatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootvimukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vindati}{\hesheit\ gets}
 \newcommand{\notevindati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
