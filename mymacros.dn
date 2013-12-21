@@ -3664,6 +3664,13 @@
   &&&\note{\nounrootyajJa}
 }
 
+\newcommand{\yajJAya}{%
+  yaj\~{}naaya = {\dn yaj~naaya} = \dativephrase\\
+  &&&\yajJatemp\\
+  &&&\note{\noun, \male, \dativecase}\\
+  &&&\note{\nounrootyajJa}
+}
+
 \newcommand{\yajJAt}{%
   yaj\~{}naat = {\dn yaj~naat} = \ablativephrase\\
   &&&\yajJatemp\\
