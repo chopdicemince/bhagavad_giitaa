@@ -3714,6 +3714,13 @@
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootyajJa}
 }
+
+\newcommand{\yajJeSu}{%
+  yaj\~{}ne.su = {\dn yaj~ne.su} = \locativephrase\\
+  &&&\yajJapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yataH}{from what/which/whom; because; since}
 \newcommand{\noteyataH}{\note{\conjunction, \indeclinable}}
