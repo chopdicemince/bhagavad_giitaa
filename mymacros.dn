@@ -3743,8 +3743,11 @@
   &&&\note{\nounrootyoga}
 }
 
-\newcommand{\yogena}{\instrumentalphrase\ \yogatemp}
-\newcommand{\noteyogena}{\note{\noun, \male, \instrumentalcase}}
+\newcommand{\yogena}{%
+  yogena = {\dn yogena} = \instrumentalphrase\ \yogatemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootyoga}
+}
 
 \newcommand{\yogaat}{\ablativephrase\ \yogatemp}
 \newcommand{\noteyogaat}{\note{\noun, \male, \ablativecase}}
