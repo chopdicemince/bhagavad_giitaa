@@ -3634,8 +3634,11 @@
   &&&\note{\verbrootyaa}
 }
 
-\newcommand{\yaanti}{\they\ go}
-\newcommand{\noteyaanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}
+\newcommand{\yaanti}{%
+  yaanti = {\dn yaanti} = \they\ go\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootyaa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yajJaH}{sacrifice; offering; worship}
 \newcommand{\noteyajJaH}{\note{\noun, \male}}
