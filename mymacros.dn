@@ -3538,6 +3538,14 @@
 \newcommand{\adjectiverootvyaya}{\adjectiveroot{\dn vyaya}{vyaya}}
 \newcommand{\vyayatemp}{able to change/decay/die}
 
+\newcommand{\vyayaH}{%
+  vyaya.h = {\dn vyaya.h}\\
+  &&&= \vyayatemp; change;\\
+  &&&decay; loss; cost; expense; expenditure\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootvyaya}
+}
+
 \newcommand{\vyayam}{%
   vyayam = {\dn vyayam}\\
   &&&= \vyayatemp; change;\\
