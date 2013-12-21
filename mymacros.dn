@@ -2299,6 +2299,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpaapa}{\adjectiveroot{\dn paapa}{paapa}}
 \newcommand{\paapatemp}{evil}
+\newcommand{\paapapluraltemp}{evil; evils}
 
 \newcommand{\paapam}{%
   paapam = {\dn paapam} = \paapatemp\\
@@ -2327,6 +2328,14 @@
   paapaa.h = {\dn paapaa.h} = (\vocativephrase) evil\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
+
+\newcommand{\pApaiH}{%
+  paapai.h = {\dn paapai.h} = \instrumentalphrase\ \paapapluraltemp\\
+  &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
+  &&&\note{\adjective, \noun, \neuter, \plural}\\
+  &&&\note{\instrumentalcase}\\
   &&&\note{\adjectiverootpaapa}
 }
 % ------------------------------------------------------------------------------
