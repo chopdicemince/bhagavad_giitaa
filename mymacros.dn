@@ -3700,6 +3700,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootyajJa}
 }
+
+\newcommand{\yajJaiH}{%
+  yaj\~{}nai.h = {\dn yaj~nai.h} = \instrumentalphrase\\
+  &&&\yajJapluraltemp\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootyajJa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yataH}{from what/which/whom; because; since}
 \newcommand{\noteyataH}{\note{\conjunction, \indeclinable}}
