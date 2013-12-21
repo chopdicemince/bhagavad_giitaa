@@ -3518,6 +3518,13 @@
   &&&\note{\adjective, \male, \instrumentalcase}\\
   &&&\note{\adjectiverootvimukta}
 }
+
+\newcommand{\vimuktaanaam}{%
+  vimuktaanaam = {\dn vimuktaanaam}\\
+  &&&= \genitivephrase\ \vimuktatemp\\
+  &&&\note{\adjective, \male, \plural, \genitivecase}\\
+  &&&\note{\adjectiverootvimukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vindati}{\hesheit\ gets}
 \newcommand{\notevindati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
