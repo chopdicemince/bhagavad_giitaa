@@ -1623,10 +1623,7 @@ path.\\
 \begin{tabular}{llll}
   1a&{\dn etairvimukta.h}&e|tair|&\etaiH\\
   &&&\\
-  &&vi|muk|ta\h{a}&vimukta.h\\
-  &&&= {\dn vimukta.h}\\
-  &&&= \vimuktaH\\
-  &&&\notevimuktaH\\
+  &&vi|muk|ta\h{a}&\vimuktaH\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   % ----------------------------------------------------------------------------

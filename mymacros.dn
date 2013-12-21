@@ -3495,8 +3495,14 @@
   &&&\note{\adjectiverootvimUDha}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\vimuktaH}{freed}
-\newcommand{\notevimuktaH}{\note{\adjective, \male}}
+\newcommand{\adjectiverootvimukta}{\adjectiveroot{\dn vimukta}{vimukta}}
+\newcommand{\vimuktatemp}{freed; liberated}
+
+\newcommand{\vimuktaH}{%
+  vimukta.h = {\dn vimukta.h} = \vimuktatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootvimukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vindati}{\hesheit\ gets}
 \newcommand{\notevindati}{\note{\verbb, \presenttense, \thirdperson, \singular}}
