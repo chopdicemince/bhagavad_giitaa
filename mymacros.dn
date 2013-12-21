@@ -3555,6 +3555,15 @@
   &&&\note{\accusativecase}\\
   &&&\note{\adjectiverootvyaya}
 }
+
+\newcommand{\vyayasya}{%
+  vyayasya = {\dn vyayasya}\\
+  &&&= \genitivephrase\ \vyayatemp; change;\\
+  &&&decay; loss; cost; expense; expenditure\\
+  &&&\note{\adjective, \noun, \male, \genitivecase}\\
+  &&&\note{\adjective, \neuter, \genitivecase}\\
+  &&&\note{\adjectiverootvyaya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yaanti}{\they\ go}
 \newcommand{\noteyaanti}{\note{\verbb, \presenttense, \thirdperson, \plural}}
