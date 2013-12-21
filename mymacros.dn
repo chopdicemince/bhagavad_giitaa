@@ -3642,6 +3642,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootyajJa}{\nounroot{\dn yaj~na}{yaj\~{}na}}
 \newcommand{\yajJatemp}{sacrifice; offering; worship; devotion}
+\newcommand{\yajJapluraltemp}{sacrifices; offerings; worship; devotion}
 
 \newcommand{\yajJaH}{%
   yaj\~{}na.h = {\dn yaj~na.h}\\
@@ -3692,8 +3693,13 @@
   &&&\note{\nounrootyajJa}
 }
 
-\newcommand{\yajJAH}{sacrifices; offerings; worship}
-\newcommand{\noteyajJAH}{\note{\noun, \male, \plural}}
+\newcommand{\yajJAH}{%
+  yaj\~{}naa.h = {\dn yaj~naa.h}\\
+  &&&= (\vocativephrase) \yajJapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootyajJa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yataH}{from what/which/whom; because; since}
 \newcommand{\noteyataH}{\note{\conjunction, \indeclinable}}
