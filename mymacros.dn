@@ -3722,8 +3722,11 @@
   &&&\note{\nounrootyajJa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\yataH}{from what/which/whom; because; since}
-\newcommand{\noteyataH}{\note{\conjunction, \indeclinable}}
+\newcommand{\yataH}{%
+  yata.h = {\dn yata.h}\\
+  &&&= from what/which/whom; because; since\\
+  &&&\note{\conjunction, \indeclinable}\\
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yogaH}{yoking}
 \newcommand{\noteyogaH}{\note{\noun, \male}}
