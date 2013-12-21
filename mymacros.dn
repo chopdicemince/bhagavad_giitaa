@@ -3505,7 +3505,8 @@
 }
 
 \newcommand{\vimuktAH}{%
-  vimuktaa.h = {\dn vimuktaa.h} = \vimuktatemp\\
+  vimuktaa.h = {\dn vimuktaa.h}\\
+  &&&= (\vocativephrase) \vimuktatemp\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootvimukta}
