@@ -2313,6 +2313,13 @@
   &&&\note{\instrumentalcase}\\
   &&&\note{\adjectiverootpaapa}
 }
+
+\newcommand{\paapaat}{%
+  paapaat = {\dn paapaat} = \ablativephrase\ \paapatemp\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\ablativecase}\\
+  &&&\note{\adjectiverootpaapa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
