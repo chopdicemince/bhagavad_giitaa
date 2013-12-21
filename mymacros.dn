@@ -3766,9 +3766,15 @@
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{\nounrootyoga}
 }
+% ------------------------------------------------------------------------------
+\newcommand{\adjectiverootyogin}{\adjectiveroot{\dn yogin}{yogin}}
+\newcommand{\yogintemp}{yoked}
 
-\newcommand{\yogii}{yoked man}
-\newcommand{\noteyogii}{\note{\noun, \male}}
+\newcommand{\yogii}{%
+  yogii = {\dn yogii} = \yogintemp; man of yoking\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootyogin}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yukta}{yoked}
 \newcommand{\noteyukta}{\note{\adjective}}

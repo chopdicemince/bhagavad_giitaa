@@ -51,7 +51,6 @@ not active.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
@@ -137,7 +136,6 @@ not active.\\
   \hline
   &&&\\
   2b&{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
@@ -532,7 +530,6 @@ pile of stones, and gold, are the same (to the devotee).\\
   &&&\note{root: {\dn vac} = vac}\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -645,7 +642,6 @@ and without possessions.\\
 
 \begin{tabular}{llll}
   1a&{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn yu~njiita}&yu\~{}n|jii|ta&(?)\\
   &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
@@ -1032,7 +1028,6 @@ union.\\
   \hline
   &&&\\
   1b&{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn niyatamaanasa.h}&ni|ya|ta|&\niyataH\\
   &&&\\
@@ -1938,7 +1933,6 @@ completely.\\
   \hline
   &&&\\
   1b&{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn vigatakalma.sa.h}&vi|ga|ta|&{\dn vigata}\\
   &&&= gone; dead; dark\\
@@ -2151,7 +2145,6 @@ seated. Atogether, present, also, that devotee lives in me.\\
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
   &&&\\
@@ -2213,7 +2206,6 @@ paramount.\\
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn paramo}&pa|ra|mo&\paramaH\\
   &&&\\
@@ -3110,7 +3102,6 @@ he goes (on) a paramount going (or path).\\
   \hline
   &&&\\
   1b&{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   &&&\\
   &{\dn sa.m"suddhakilbi.sa.h}&sa.m|"sud|dha|&{\dn sa.m"suddha}\\
   &&&= purified\\
@@ -3175,7 +3166,6 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &&&\note{\adjective, \adverb, \male}\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -3213,16 +3203,12 @@ for/from (than) workers. Therefore, be a devotee, O Arjuna.\\
   &&&\note{\adjective}\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
-  &&&\noteyogii\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   2b&{\dn tasmaadyogii}&tas|maa|dyo|&\tasmaat\\
   &&&\\
-  &&gii&yogii\\
-  &&&= {\dn yogii}\\
-  &&&= \yogii\\
-  &&&\noteyogii\\
+  &&gii&\yogii\\
   &&&\\
   &{\dn bhavaarjuna}&bha|vaar|&bhava\\
   &&&= {\dn bhava}\\
