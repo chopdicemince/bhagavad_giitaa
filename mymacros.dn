@@ -3657,8 +3657,12 @@
   &&&\note{\nounrootyajJa}
 }
 
-\newcommand{\yajJena}{\instrumentalphrase\ \yajJaH}
-\newcommand{\noteyajJena}{\note{\noun, \male, \instrumentalcase}}
+\newcommand{\yajJena}{%
+  yaj\~{}nena = {\dn yaj~nena} = \instrumentalphrase\\
+  &&&\yajJatemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootyajJa}
+}
 
 \newcommand{\yajJAt}{\ablativephrase\ \yajJaH}
 \newcommand{\noteyajJAt}{\note{\noun, \male, \ablativecase}}
