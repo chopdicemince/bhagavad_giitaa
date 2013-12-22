@@ -4050,8 +4050,12 @@
   &&&\note{\nounrootzraddhA}
 }
 
-\newcommand{\zraddhayA}{\instrumentalphrase\ \zraddhAtemp}
-\newcommand{\notezraddhayA}{\note{\noun, \female, \instrumentalcase}}
+\newcommand{\zraddhayA}{%
+  "sraddhayaa = {\dn "sraddhayaa}\\
+  &&&= \instrumentalphrase\ \zraddhAtemp\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{\nounrootzraddhA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zreyaHcredit}{(act of) credit; confidence; trust}
 \newcommand{\notezreyaHcredit}{\note{\noun, \male}}

@@ -36,11 +36,7 @@ Goodness? Passion? Ignorance?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
   &&&\\
-  &{\dn "sraddhayaanvitaa.h}&"srad|dha|yaan|&"sraddhayaa\\
-  &&&= {\dn "sraddhayaa}\\
-  &&&= \zraddhayA\\
-  &&&\notezraddhayA\\
-  &&&\note{from {\dn "sraddhaa} = "sraddhaa}\\
+  &{\dn "sraddhayaanvitaa.h}&"srad|dha|yaan|&\zraddhayA\\
   &&&\\
   &&vi|taa\h{aa}&anvitaa.h\\
   &&&= {\dn anvitaa.h}\\
@@ -1231,8 +1227,6 @@ austerity is acknowledged as) good.\\
 
 \begin{tabular}{llll}
   1a&{\dn "sraddhayaa}&"srad|dha|yaa&\zraddhayA\\
-  &&&\notezraddhayA\\
-  &&&\note{from {\dn "sraddhaa} = "sraddhaa}\\
   &&&\\
   &{\dn parayaa}&pa|ra|yaa&\parayaa\\
   &&&\\
@@ -2042,10 +2036,7 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
 \begin{tabular}{llll}
   1a&{\dn a"sraddhayaa}&a|&\aprefix\\
   &&&\\
-  &&"srad|dha|yaa&{\dn "sraddhayaa}\\
-  &&&= \zraddhayA\\
-  &&&\notezraddhayA\\
-  &&&\note{from {\dn "sraddhaa} = "sraddhaa}\\
+  &&"srad|dha|yaa&\zraddhayA\\
   &&&\\
   &{\dn huta.m}&hu|ta.m&hutam\\
   &&&= {\dn hutam}\\
