@@ -3867,6 +3867,13 @@
   &&&\note{\accusativecase}\\
   &&&\note{\adjectiverootzAnta}
 }
+
+\newcommand{\zAntasya}{%
+  "saantasya = {\dn "saantasya} = \genitivephrase\ \zAntatemp\\
+  &&&\note{\adjective, \noun, \male, \genitivecase}\\
+  &&&\note{\adjective, \neuter, \genitivecase}\\
+  &&&\note{\adjectiverootzAnta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzAnti}{\nounroot{\dn "saanti}{"saanti}}
 \newcommand{\zAntitemp}{peace}
