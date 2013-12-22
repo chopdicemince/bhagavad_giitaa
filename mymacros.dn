@@ -1112,6 +1112,14 @@
   &&&\note{\nounrootbhuuta}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootbhuu}{\verbroot{\dn bhuu}{bhuu}}
+
+\newcommand{\bhuutvaa}{%
+  bhuutvaa = {\dn bhuutvaa} = having been\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootbhuu}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
 \newcommand{\buddhitemp}{brainpower; intelligence}
 
@@ -4086,7 +4094,6 @@
 % Perfect participles.
 \newcommand{\noteperfectparticiple}{\note{\verbb, \perfectparticiple}}
 
-\newcommand{\bhuutvaa}{having been}
 \newcommand{\dRSTvA}{having seen}
 \newcommand{\gatvaa}{having gone}
 \newcommand{\tyaktvaa}{having abandoned; renounced; left}
