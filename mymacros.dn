@@ -4008,7 +4008,7 @@
   &&&\note{\verbrootzuc}
 }
 
-\newcommand{\zocitum}{
+\newcommand{\zocitum}{%
   "socitum = {\dn "socitum} = to feel sorrow; lament\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{\verbrootzuc}
