@@ -1185,10 +1185,7 @@ knowledge, and he (is) a friend of me.\\
   &&&\\
   &{\dn nityayukta}&ni|tya|&\nityaH\\
   &&&\\
-  &&yuk|ta|&yukta.h\\
-  &&&= {\dn yukta.h}\\
-  &&&= \yuktaH\\
-  &&&\noteyuktaH\\
+  &&yuk|ta|&\yuktaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1282,10 +1279,7 @@ is yoked (to) the self (of) me---really, the ultimate path.\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
-  &{\dn yuktaatmaa}&yuk|taat|&yukta\\
-  &&&= {\dn yukta}\\
-  &&&= yoked; acting; working; doing; suitable\\
-  &&&\note{\adjective}\\
+  &{\dn yuktaatmaa}&yuk|taat|&\yuktaH\\
   &&&\\
   &&maa&\aatmaa\\
   % ----------------------------------------------------------------------------
@@ -1563,10 +1557,7 @@ there, he gets those desires done, using me, really, surely.\\
   &&&\\
   &\multicolumn{3}{l}{\dn yuktastasyaaraadhanamiihate}\\
   &&&\\
-  &&yuk|ta|&yukta.h\\
-  &&&= {\dn yukta.h}\\
-  &&&= \yuktaH\\
-  &&&\noteyuktaH\\
+  &&yuk|ta|&\yuktaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2150,9 +2141,10 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &{\dn vidur}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &{\dn yuktacetasa.h}&yuk|ta|&{\dn yukta}\\
-  &&&= \yukta\\
-  &&&\noteyukta\\
+  &{\dn yuktacetasa.h}&yuk|ta|&yuktam = {\dn yuktam} = yoked\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootyukta}\\
   &&&\\
   &&ce|ta|sa\h{a}&\cetasaH\\
 \end{tabular}

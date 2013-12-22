@@ -3787,13 +3787,16 @@
   &&&\note{\adjectiverootyogin}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\yukta}{yoked}
-\newcommand{\noteyukta}{\note{\adjective}}
+\newcommand{\adjectiverootyukta}{\adjectiveroot{\dn yukta}{yukta}}
+\newcommand{\yuktatemp}{yoked}
 
-\newcommand{\yuktaH}{\yukta}
-\newcommand{\noteyuktaH}{\note{\adjective, \male}}
+\newcommand{\yuktaH}{%
+  yukta.h = {\dn yukta.h} = \yuktatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootyukta}
+}
 
-\newcommand{\yuktAH}{\yukta}
+\newcommand{\yuktAH}{\yuktatemp}
 \newcommand{\noteyuktAH}{\note{\adjective, \male, \plural}}
 % ------------------------------------------------------------------------------
 \newcommand{\yuktasya}{\genitivephrase\ something yoked}
