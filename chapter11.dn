@@ -1624,10 +1624,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn d.r.stvaadbhuta.m}&d.r.s.t|vaa|&{\dn d.r.s.tvaa}\\
-  &&&= \dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  2a&{\dn d.r.stvaadbhuta.m}&d.r.s.t|vaa|&\dRSTvA\\
   &&&\\
   &&bhuu|ta.m&\bhuutam\\
   &&&\\
@@ -1980,8 +1977,6 @@ of the usual eight.)\\
   \hline
   &&&\\
   2b&{\dn d.r.s.tvaa}&d.r.s.t|vaa&\dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn lokaa.h}&lo|kaa\h{aa}&\lokAH\\
   &&&\\
@@ -2069,8 +2064,6 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2a&{\dn d.r.s.tvaa}&d.r.s.t|vaa&\dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
@@ -2147,11 +2140,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn d.r.s.tvaiva}&d.r.s.t|vai&d.r.s.tvaa\\
-  &&&= {\dn d.r.s.tvaa}\\
-  &&&= \dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  1b&{\dn d.r.s.tvaiva}&d.r.s.t|vai&\dRSTvA\\
   &&&\\
   &&va&\eva\\
   &&&\\
@@ -4245,8 +4234,6 @@ instead of the usual eight.)\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
   &{\dn d.r.s.tvaa}&dr|.s.tvaa&\dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4649,8 +4636,6 @@ instead of the usual eight.)\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1b&{\dn d.r.s.tvaa}&d.r|.s.tvaa&\dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
   &&&\\
   &{\dn ruupa.m}&ruu|pa.m&\ruupam\\
   &&&\\
@@ -4837,11 +4822,7 @@ gone.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1a&{\dn d.r.s.tveda.m}&d.r|.s.tve|&d.r.s.tvaa\\
-  &&&= {\dn d.r.s.tvaa}\\
-  &&&= \dRSTvA\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn d.r.s} = d.r.s}\\
+  1a&{\dn d.r.s.tveda.m}&d.r|.s.tve|&\dRSTvA\\
   &&&\\
   &&da.m&\idam\\
   &&&\\

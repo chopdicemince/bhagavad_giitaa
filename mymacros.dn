@@ -1429,6 +1429,12 @@
   &&&\note{\nounrootdharma}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\dRSTvA}{%
+  d.r.s.tvaa = {\dn d.r.s.tvaa} = having seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootdRS}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootduHkha}{\nounroot{\dn du.hkha}{du.hkha}}
 \newcommand{\duHkhatemp}{(act of) distress; in distress}
 \newcommand{\duHkhatemptemp}{(act of) distress}
@@ -4094,6 +4100,5 @@
 % Perfect participles.
 \newcommand{\noteperfectparticiple}{\note{\verbb, \perfectparticiple}}
 
-\newcommand{\dRSTvA}{having seen}
 \newcommand{\gatvaa}{having gone}
 \newcommand{\tyaktvaa}{having abandoned; renounced; left}
