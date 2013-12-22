@@ -3890,8 +3890,14 @@
   &&&\note{\nounrootzAnti}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zaGkham}{conch shell}
-\newcommand{\notezaGkham}{\note{\noun, \male, \accusativecase}}
+\newcommand{\nounrootzaGkha}{\nounroot{\dn "sa"nkha}{"sa"nkha}}
+\newcommand{\zaGkhatemp}{conch shell}
+
+\newcommand{\zaGkham}{%
+  "sa"nkham = {\dn "sa"nkham} = \zaGkhatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootzaGkha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzama}{\nounroot{\dn "sama}{"sama}}
 \newcommand{\zamatemp}{peace}
