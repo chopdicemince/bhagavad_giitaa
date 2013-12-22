@@ -4002,6 +4002,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootzuc}{\verbroot{\dn "suc}{"suc}}
 
+\newcommand{\zocati}{%
+  "socati = {\dn "socati} = \hesheit\ feels sorrow; laments\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootzuc}
+}
+
 \newcommand{\zocitum}{
   "socitum = {\dn "socitum} = to feel sorrow; lament\\
   &&&\note{\verbb, \infinitive}\\
