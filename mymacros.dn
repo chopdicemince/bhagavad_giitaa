@@ -3851,6 +3851,15 @@
   &&&\note{\verbroot{?}{?}}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootzAnta}{\nounroot{\dn "saanta}{"saanta}}
+\newcommand{\zAntatemp}{peaceful; peace}
+
+\newcommand{\zAntaH}{%
+  "saanta.h = {\dn "saanta.h} = \zAntatemp\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootzAnta}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootzAnti}{\nounroot{\dn "saanti}{"saanti}}
 \newcommand{\zAntitemp}{peace}
 
