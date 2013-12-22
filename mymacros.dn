@@ -3951,6 +3951,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzarIra}{\nounroot{\dn "sariira}{"sariira}}
 \newcommand{\zarIratemp}{body}
+\newcommand{\zarIrapluraltemp}{bodies}
 
 \newcommand{\zarIram}{%
   "sariiram = {\dn "sariiram} = \zarIratemp\\
@@ -3962,6 +3963,14 @@
 \newcommand{\zarIre}{%
   "sariire = {\dn "sariire} = \locativephrase\ a/the \zarIratemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootzarIra}
+}
+
+\newcommand{\zarIrANi}{%
+  "sariiraa.ni = {\dn "sariiraa.ni} = (\vocativephrase) \zarIrapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{\nounrootzarIra}
 }
 % ------------------------------------------------------------------------------
