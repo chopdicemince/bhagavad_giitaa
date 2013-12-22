@@ -4058,12 +4058,11 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzreya}{\nounroot{\dn "sreya}{"sreya}}
-\newcommand{\zreyatemp}{(act of) credit; confidence; trust}
+\newcommand{\zreyatemp}{better; more}
 \newcommand{\zreyapluraltemp}{better; more}
 
 \newcommand{\zreyaH}{%
-  "sreya.h = {\dn "sreya.h}\\
-  &&&= \zreyatemp\\
+  "sreya.h = {\dn "sreya.h} = \zreyatemp\\
   &&&\note{\noun, \adjective, \male, \nominativecase}\\
   &&&\note{\nounrootzreya}
 }
@@ -4073,9 +4072,6 @@
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootzreya}
 }
-
-\newcommand{\zreyaHbetter}{better; more}
-\newcommand{\notezreyaHbetter}{\note{\adjective, \noun}}
 % ------------------------------------------------------------------------------
 \newcommand{\zrI}{``title of respect''}
 \newcommand{\notezrI}{\note{\noun, \female}}
