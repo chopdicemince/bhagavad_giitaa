@@ -3806,7 +3806,7 @@
 
 \newcommand{\yuktasya}{%
   yuktasya = {\dn yuktasya} = \genitivephrase\ \yuktatemp\\
-  &&&\note{\adjective, \male, \genitivecase}\\
+  &&&\note{\adjective, \male, \neuter, \genitivecase}\\
   &&&\note{\adjectiverootyukta}
 }
 
@@ -3825,7 +3825,8 @@
 
 \newcommand{\yuktaanaam}{%
   yuktaanaam = {\dn yuktaanaam} = \genitivephrase\ \yuktatemp\\
-  &&&\note{\adjective, \male, \plural, \genitivecase}\\
+  &&&\note{\adjective, \male, \neuter, \plural}\\
+  &&&\note{\genitivecase}\\
   &&&\note{\adjectiverootyukta}
 }
 % ------------------------------------------------------------------------------
