@@ -4000,8 +4000,13 @@
   &&&\note{\nounrootzastra}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zocitum}{to feel sorrow; to lament}
-\newcommand{\notezocitum}{\note{\verbb, \infinitive}}
+\newcommand{\verbrootzuc}{\verbroot{\dn "suc}{"suc}}
+
+\newcommand{\zocitum}{
+  "socitum = {\dn "socitum} = to feel sorrow; lament\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbrootzuc}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zokaH}{fire; heat; sorrow; suffering}
 \newcommand{\notezokaH}{\note{\noun, \male}}
