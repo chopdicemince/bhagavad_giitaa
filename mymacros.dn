@@ -3893,6 +3893,7 @@
 \newcommand{\nounrootzaGkha}{\nounroot{\dn "sa"nkha}{"sa"nkha}}
 \newcommand{\zaGkhatemp}{conch shell}
 \newcommand{\zaGkhadualtemp}{two conch shells}
+\newcommand{\zaGkhapluraltemp}{conch shells}
 
 \newcommand{\zaGkham}{%
   "sa"nkham = {\dn "sa"nkham} = \zaGkhatemp\\
@@ -3905,6 +3906,13 @@
   &&&\note{\noun, \male, \dual}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\vocativecase}\\
+  &&&\note{\nounrootzaGkha}
+}
+
+\newcommand{\zaGkhAH}{%
+  "sa"nkhaa.h = {\dn "sa"nkhaa.h} = (\vocativephrase) \zaGkhapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootzaGkha}
 }
 % ------------------------------------------------------------------------------
