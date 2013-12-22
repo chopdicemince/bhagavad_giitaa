@@ -363,10 +363,7 @@ has eleven main syllables per line.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn "sreyo}&"sre|yo&"sreya.h\\
-  &&&= {\dn "sreya.h}\\
-  &&&= \zreyaHcredit\\
-  &&&\notezreyaHcredit\\
+  1b&{\dn "sreyo}&"sre|yo&\zreyaH\\
   &&&\\
   &{\dn bhoktu.m}&bhok|tu.m&bhoktum\\
   &&&= {\dn bhoktum}\\
@@ -592,10 +589,7 @@ has eleven main syllables per line.)\\
 \begin{tabular}{llll}
   2a&{\dn yacchreya.h}&yac|&\yat\\
   &&&\\
-  &&chre|ya\h{a}&"sreya.h\\
-  &&&= {\dn "sreya.h}\\
-  &&&= \zreyaHcredit\\
-  &&&\notezreyaHcredit\\
+  &&chre|ya\h{a}&\zreyaH\\
   &&&\\
   &{\dn syaanni"scita.m}&syaan|&(?)\\
   &&&\\
@@ -2442,10 +2436,7 @@ in the warrior caste, and the confidence is yours).\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{from {\dn yuddham} = yuddham}\\
   &&&\\
-  &&chre|yo|&"sreya.h\\
-  &&&= {\dn "sreya.h}\\
-  &&&= \zreyaHcredit\\
-  &&&\notezreyaHcredit\\
+  &&chre|yo|&\zreyaH\\
   &&&\\
   &&'nyat|&anyat = {\dn anyat} = another/other\\
   &&&\note{\adjective}\\

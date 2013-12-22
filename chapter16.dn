@@ -1641,10 +1641,7 @@ path.\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
   &&&\\
-  &{\dn "sreyastato}&"sre|ya|&"sreya.h\\
-  &&&= {\dn "sreya.h}\\
-  &&&= \zreyaHcredit\\
-  &&&\notezreyaHcredit\\
+  &{\dn "sreyastato}&"sre|ya|&\zreyaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

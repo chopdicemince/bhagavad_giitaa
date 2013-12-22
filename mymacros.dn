@@ -4057,8 +4057,15 @@
   &&&\note{\nounrootzraddhA}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zreyaHcredit}{(act of) credit; confidence; trust}
-\newcommand{\notezreyaHcredit}{\note{\noun, \male}}
+\newcommand{\nounrootzreya}{\nounroot{\dn "sreya}{"sreya}}
+\newcommand{\zreyatemp}{(act of) credit; confidence; trust}
+
+\newcommand{\zreyaH}{%
+  "sreya.h = {\dn "sreya.h}\\
+  &&&= \zreyatemp\\
+  &&&\note{\noun, \adjective, \male, \nominativecase}\\
+  &&&\note{\nounrootzreya}
+}
 
 \newcommand{\zreyAncredit}{(acts of) credit; confidence; trust}
 \newcommand{\notezreyAncredit}{\note{\noun, \male, \plural, \accusativecase}}
