@@ -3915,6 +3915,12 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootzaGkha}
 }
+
+\newcommand{\zaGkhAn}{%
+  "sa"nkhaan = {\dn "sa"nkhaan} = \zaGkhapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootzaGkha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzama}{\nounroot{\dn "sama}{"sama}}
 \newcommand{\zamatemp}{peace}
