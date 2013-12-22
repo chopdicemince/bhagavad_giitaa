@@ -4710,11 +4710,7 @@ or non-peace---from where does happiness come?\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&yuk|ta|sya&yuktasya\\
-  &&&= {\dn yuktasya}\\
-  &&&= \yuktasya\\
-  &&&\noteyuktasya\\
-  &&&\note{from {\dn yukta.h} = yukta.h}\\
+  &&yuk|ta|sya&\yuktasya\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4724,11 +4720,7 @@ or non-peace---from where does happiness come?\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&yuk|ta|sya&yuktasya\\
-  &&&= {\dn yuktasya}\\
-  &&&= \yuktasya\\
-  &&&\noteyuktasya\\
-  &&&\note{from {\dn yukta.h} = yukta.h}\\
+  &&yuk|ta|sya&\yuktasya\\
   &&&\\
   &{\dn bhaavanaa}&bhaa|va|naa&feeling; devotion; faith\\
   &&&\note{\noun, \female}\\
