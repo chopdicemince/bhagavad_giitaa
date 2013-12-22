@@ -3851,10 +3851,16 @@
   &&&\note{\verbroot{?}{?}}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zAntiH}{peace}
-\newcommand{\notezAntiH}{\note{\noun, \female}}
+\newcommand{\nounrootzAnti}{\nounroot{\dn "saanti}{"saanti}}
+\newcommand{\zAntitemp}{peace}
 
-\newcommand{\zAntim}{\zAntiH}
+\newcommand{\zAntiH}{%
+  "saanti.h = {\dn "saanti.h} = \zAntitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootzAnti}
+}
+
+\newcommand{\zAntim}{\zAntitemp}
 \newcommand{\notezAntim}{\note{\noun, \female, \accusativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\zaGkham}{conch shell}
