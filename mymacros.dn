@@ -3974,9 +3974,15 @@
   &&&\note{\nounrootzarIra}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zastram}{missle; sword; weapon}
-\newcommand{\notezastram}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootzastra}{\nounroot{\dn "sastra}{"sastra}}
+\newcommand{\zastratemp}{weapon}
+
+\newcommand{\zastram}{%
+  "sastram = {\dn "sastram} = \zastratemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootzastra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zocitum}{to feel sorrow; to lament}
 \newcommand{\notezocitum}{\note{\verbb, \infinitive}}
