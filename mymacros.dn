@@ -3512,6 +3512,15 @@
   &&&\note{\nounroottattva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbroottyaj}{\verbroot{\dn tyaj}{tyaj}}
+
+\newcommand{\tyaktvaa}{
+  tyaktvaa = {\dn tyaktvaa}\\
+  &&&= having abandoned; renounced; left\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbroottyaj}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootuttama}{\adjectiveroot{\dn uttama}{uttama}}
 \newcommand{\uttamatemp}{ultimate; uppermost; best}
 
@@ -4103,7 +4112,3 @@
   &&&\note{\nounrootzrI}
 }
 % ------------------------------------------------------------------------------
-% Perfect participles.
-\newcommand{\noteperfectparticiple}{\note{\verbb, \perfectparticiple}}
-
-\newcommand{\tyaktvaa}{having abandoned; renounced; left}

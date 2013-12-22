@@ -381,8 +381,6 @@ Arjuna)---sure, ultimate opinion.\\
   1b&{\dn sa"nga.m}&sa"n|ga.m&\saGgam\\
   &&&\\
   &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn phalaani}&pha|laa|ni&\phalaani\\
   &&&\\
@@ -593,8 +591,6 @@ abandonment is true. (This statement is) an opinion (of me).\\
   2a&{\dn sa"nga.m}&sa"n|ga.m&\saGgam\\
   &&&\\
   &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn tyaj} = tyaj}\\
   &&&\\
   &{\dn phala.m}&pha|la.m&\phalam\\
   &&&\\
@@ -3661,11 +3657,7 @@ desire(-and)-dislike-dry(ness) (indifference), \dots\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn vi.saya.h} = vi.saya.h}\\
   &&&\\
-  &&styak|tvaa&tyaktvaa\\
-  &&&= {\dn tyaktvaa}\\
-  &&&= \tyaktvaa\\
-  &&&\noteperfectparticiple\\
-  &&&\note{root: {\dn tyaj} = tyaj}\\
+  &&styak|tvaa&\tyaktvaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
