@@ -4073,8 +4073,15 @@
   &&&\note{\nounrootzreya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zrI}{``title of respect''}
-\newcommand{\notezrI}{\note{\noun, \female}}
+\newcommand{\nounrootzrI}{\nounroot{\dn "srii}{"srii}}
+\newcommand{\zrItemp}{splendor; power; Lak.smi; ``title of respect''}
+
+\newcommand{\zrI}{
+  "srii = {\dn "srii}\\
+  &&&= \zrItemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootzrI}
+}
 % ------------------------------------------------------------------------------
 % Perfect participles.
 \newcommand{\noteperfectparticiple}{\note{\verbb, \perfectparticiple}}
