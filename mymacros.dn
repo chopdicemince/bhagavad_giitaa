@@ -4014,8 +4014,15 @@
   &&&\note{\verbrootzuc}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zokaH}{fire; heat; sorrow; suffering}
-\newcommand{\notezokaH}{\note{\noun, \male}}
+\newcommand{\adjectiverootzoka}{\adjectiveroot{\dn "soka}{"soka}}
+\newcommand{\zokatemp}{burning; hot}
+
+\newcommand{\zokaH}{%
+  "soka.h = {\dn "soka.h} = \zokatemp;\\
+  &&&fire; heat; sorrow; suffering\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootzoka}
+}
 
 \newcommand{\zokam}{\zokaH}
 \newcommand{\notezokam}{\note{\noun, \male, \accusativecase}}
