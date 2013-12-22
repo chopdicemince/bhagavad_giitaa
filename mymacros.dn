@@ -3804,6 +3804,12 @@
   &&&\note{\adjectiverootyukta}
 }
 
+\newcommand{\yuktena}{%
+  yuktena = {\dn yuktena} = \instrumentalphrase\ \yuktatemp\\
+  &&&\note{\adjective, \male, \neuter, \instrumentalcase}\\
+  &&&\note{\adjectiverootyukta}
+}
+
 \newcommand{\yuktasya}{%
   yuktasya = {\dn yuktasya} = \genitivephrase\ \yuktatemp\\
   &&&\note{\adjective, \male, \neuter, \genitivecase}\\
