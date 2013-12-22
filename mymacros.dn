@@ -3796,8 +3796,12 @@
   &&&\note{\adjectiverootyukta}
 }
 
-\newcommand{\yuktAH}{\yuktatemp}
-\newcommand{\noteyuktAH}{\note{\adjective, \male, \plural}}
+\newcommand{\yuktAH}{%
+  yuktaa.h = {\dn yuktaa.h} = \yuktatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootyukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yuktasya}{\genitivephrase\ something yoked}
 \newcommand{\noteyuktasya}{\note{\adjective, \male, \genitivecase}}
