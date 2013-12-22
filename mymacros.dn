@@ -4059,6 +4059,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzreya}{\nounroot{\dn "sreya}{"sreya}}
 \newcommand{\zreyatemp}{(act of) credit; confidence; trust}
+\newcommand{\zreyapluraltemp}{better; more}
 
 \newcommand{\zreyaH}{%
   "sreya.h = {\dn "sreya.h}\\
@@ -4067,8 +4068,11 @@
   &&&\note{\nounrootzreya}
 }
 
-\newcommand{\zreyAncredit}{(acts of) credit; confidence; trust}
-\newcommand{\notezreyAncredit}{\note{\noun, \male, \plural, \accusativecase}}
+\newcommand{\zreyAn}{%
+  "sreyaan = {\dn "sreyaan} = \zreyapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootzreya}
+}
 
 \newcommand{\zreyaHbetter}{better; more}
 \newcommand{\notezreyaHbetter}{\note{\adjective, \noun}}
