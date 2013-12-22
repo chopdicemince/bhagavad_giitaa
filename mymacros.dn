@@ -3860,8 +3860,11 @@
   &&&\note{\nounrootzAnti}
 }
 
-\newcommand{\zAntim}{\zAntitemp}
-\newcommand{\notezAntim}{\note{\noun, \female, \accusativecase}}
+\newcommand{\zAntim}{%
+  "saantim = {\dn "saantim} = \zAntitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootzAnti}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zaGkham}{conch shell}
 \newcommand{\notezaGkham}{\note{\noun, \male, \accusativecase}}

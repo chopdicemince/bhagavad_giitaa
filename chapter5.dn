@@ -797,11 +797,7 @@ attached to fruit (results), is bound.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn "saantimaapnoti}&"saan|ti|maap|&"saantim\\
-  &&&= {\dn "saantim}\\
-  &&&= \zAntim\\
-  &&&\notezAntim\\
-  &&&\note{from {\dn "saanti.h} = "saanti.h}\\
+  1b&{\dn "saantimaapnoti}&"saan|ti|maap|&\zAntim\\
   &&&\\
   &&no|ti&aapnoti\\
   &&&= {\dn aapnoti}\\
@@ -2041,11 +2037,7 @@ person gets peace.\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
-  &{\dn "saantim.rcchati}&"saan|ti|m.rc|&"saantim\\
-  &&&= {\dn "saantim}\\
-  &&&= \zAntim\\
-  &&&\notezAntim\\
-  &&&\note{from {\dn "saanti.h} = "saanti.h}\\
+  &{\dn "saantim.rcchati}&"saan|ti|m.rc|&\zAntim\\
   &&&\\
   &&cha|ti&.rcchati\\
   &&&= {\dn .rcchati}\\
