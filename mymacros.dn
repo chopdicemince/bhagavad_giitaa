@@ -3983,6 +3983,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootzastra}
 }
+
+\newcommand{\zastreNa}{%
+  "sastre.na = {\dn "sastre.na}\\
+  &&&\instrumentalphrase\ a/the \zastratemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootzastra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zocitum}{to feel sorrow; to lament}
 \newcommand{\notezocitum}{\note{\verbb, \infinitive}}
