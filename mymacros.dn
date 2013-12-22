@@ -3949,11 +3949,17 @@
   &&&\note{\adjectiverootzaraNa}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zarIram}{body}
-\newcommand{\notezarIram}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootzarIra}{\nounroot{\dn "sariira}{"sariira}}
+\newcommand{\zarIratemp}{body}
 
-\newcommand{\zarIre}{\locativephrase\ a/the \zarIram}
+\newcommand{\zarIram}{%
+  "sariiram = {\dn "sariiram} = \zarIratemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootzarIra}
+}
+
+\newcommand{\zarIre}{\locativephrase\ a/the \zarIratemp}
 \newcommand{\notezarIre}{\note{\noun, \neuter, \locativecase}}
 % ------------------------------------------------------------------------------
 \newcommand{\zastram}{missle; sword; weapon}
