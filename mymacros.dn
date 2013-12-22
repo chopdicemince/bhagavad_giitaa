@@ -4024,8 +4024,14 @@
   &&&\note{\adjectiverootzoka}
 }
 
-\newcommand{\zokam}{\zokaH}
-\newcommand{\notezokam}{\note{\noun, \male, \accusativecase}}
+\newcommand{\zokam}{%
+  "sokam = {\dn "sokam} = \zokatemp;\\
+  &&&fire; heat; sorrow; suffering\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootzoka}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zraddhA}{faith; trust; confidence}
 \newcommand{\notezraddhA}{\note{\noun, \female}}
