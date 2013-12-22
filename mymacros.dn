@@ -3976,6 +3976,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzastra}{\nounroot{\dn "sastra}{"sastra}}
 \newcommand{\zastratemp}{weapon}
+\newcommand{\zastrapluraltemp}{weapons}
 
 \newcommand{\zastram}{%
   "sastram = {\dn "sastram} = \zastratemp\\
@@ -3988,6 +3989,14 @@
   "sastre.na = {\dn "sastre.na}\\
   &&&\instrumentalphrase\ a/the \zastratemp\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootzastra}
+}
+
+\newcommand{\zastrANi}{%
+  "sastraa.ni = {\dn "sastraa.ni} = (\vocativephrase) \zastrapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{\nounrootzastra}
 }
 % ------------------------------------------------------------------------------
