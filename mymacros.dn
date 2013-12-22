@@ -3802,6 +3802,12 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootyukta}
 }
+
+\newcommand{\yuktaanaam}{%
+  yuktaanaam = {\dn yuktaanaam} = \genitivephrase\ \yuktatemp\\
+  &&&\note{\adjective, \male, \plural, \genitivecase}\\
+  &&&\note{\adjectiverootyukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\yuktasya}{\genitivephrase\ something yoked}
 \newcommand{\noteyuktasya}{\note{\adjective, \male, \genitivecase}}
