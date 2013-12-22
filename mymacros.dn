@@ -3859,6 +3859,14 @@
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootzAnta}
 }
+
+\newcommand{\zAntam}{%
+  "saantam = {\dn "saantam} = \zAntatemp\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjective, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootzAnta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootzAnti}{\nounroot{\dn "saanti}{"saanti}}
 \newcommand{\zAntitemp}{peace}
