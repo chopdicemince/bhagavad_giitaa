@@ -3796,6 +3796,14 @@
   &&&\note{\adjectiverootyukta}
 }
 
+\newcommand{\yuktam}{%
+  yuktam = {\dn yuktam} = \yuktatemp\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootyukta}
+}
+
 \newcommand{\yuktAH}{%
   yuktaa.h = {\dn yuktaa.h} = \yuktatemp\\
   &&&\note{\adjective, \male, \plural}\\
