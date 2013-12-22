@@ -1515,6 +1515,12 @@
   &&&\note{\verbrootgam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\gatvaa}{%
+  gatvaa = {\dn gatvaa} = having gone\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootgam}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
 \newcommand{\guNatemp}{%
   string; mode; attribute; merit;\\
@@ -4100,5 +4106,4 @@
 % Perfect participles.
 \newcommand{\noteperfectparticiple}{\note{\verbb, \perfectparticiple}}
 
-\newcommand{\gatvaa}{having gone}
 \newcommand{\tyaktvaa}{having abandoned; renounced; left}
