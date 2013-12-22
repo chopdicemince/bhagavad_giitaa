@@ -3937,9 +3937,17 @@
   &&&\note{\nounrootzama}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zaraNam}{shelter; protection; refuge}
-\newcommand{\notezaraNam}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\adjectiverootzaraNa}{\adjectiveroot{\dn "sara.na}{"sara.na}}
+\newcommand{\zaraNatemp}{sheltering; protecting;\\
+  &&&shelter; protection; refuge}
+
+\newcommand{\zaraNam}{%
+  "sara.nam = {\dn "sara.nam} = \zaraNatemp\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootzaraNa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\zarIram}{body}
 \newcommand{\notezarIram}{\note{\noun, \neuter}\\

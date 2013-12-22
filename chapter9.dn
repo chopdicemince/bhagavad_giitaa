@@ -1199,10 +1199,7 @@ seed.\\
   &&&\\
   1b&{\dn nivaasa.h}&ni|vaa|sa\h{a}&\nivAsaH\\
   &&&\\
-  &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
-  &&&= {\dn "sara.nam}\\
-  &&&= \zaraNam\\
-  &&&\notezaraNam\\
+  &{\dn "sara.na.m}&"sa|ra|.na.m&\zaraNam\\
   &&&\\
   &{\dn suh.rt}&su|h.rt&friend\\
   &&&\note{\noun, \male}\\

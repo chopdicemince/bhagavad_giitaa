@@ -4392,10 +4392,7 @@ peace---the eternal place.\\
   &&&\\
   &&va&\eva\\
   &&&\\
-  &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
-  &&&= {\dn "sara.nam}\\
-  &&&= \zaraNam\\
-  &&&\notezaraNam\\
+  &{\dn "sara.na.m}&"sa|ra|.na.m&\zaraNam\\
   &&&\\
   &{\dn gaccha}&gac|cha&\gaccha\\
   % ----------------------------------------------------------------------------
@@ -4672,10 +4669,7 @@ Abandoning all good works, go (to) one shelter: me. I will free you
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
-  &{\dn "sara.na.m}&"sa|ra|.na.m&"sara.nam\\
-  &&&= {\dn "sara.nam}\\
-  &&&= \zaraNam\\
-  &&&\notezaraNam\\
+  &{\dn "sara.na.m}&"sa|ra|.na.m&\zaraNam\\
   &&&\\
   &{\dn vraja}&vra|ja&(you) go\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\

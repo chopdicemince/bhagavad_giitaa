@@ -3665,10 +3665,7 @@ for fruit (of their actions).\\
 \begin{tabular}{llll}
   2a&{\dn buddhau}&bud|dhau&\buddhau\\
   &&&\\
-  &{\dn "sara.namanviccha}&"sa|ra|.na|man|&"sara.nam\\
-  &&&= {\dn "sara.nam}\\
-  &&&= \zaraNam\\
-  &&&\notezaraNam\\
+  &{\dn "sara.namanviccha}&"sa|ra|.na|man|&\zaraNam\\
   &&&\\
   &&vic|cha&\anvicchatu\\
   % ----------------------------------------------------------------------------
