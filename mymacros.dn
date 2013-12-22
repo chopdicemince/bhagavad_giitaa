@@ -4043,6 +4043,13 @@
   &&&\note{\nounrootzraddhA}
 }
 
+\newcommand{\zraddhAm}{%
+  "sraddhaam = {\dn "sraddhaam}\\
+  &&&= \zraddhAtemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootzraddhA}
+}
+
 \newcommand{\zraddhayA}{\instrumentalphrase\ \zraddhAtemp}
 \newcommand{\notezraddhayA}{\note{\noun, \female, \instrumentalcase}}
 % ------------------------------------------------------------------------------
