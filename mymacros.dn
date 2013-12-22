@@ -4033,10 +4033,17 @@
   &&&\note{\adjectiverootzoka}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\zraddhA}{faith; trust; confidence}
-\newcommand{\notezraddhA}{\note{\noun, \female}}
+\newcommand{\nounrootzraddhA}{\nounroot{\dn "sraddhaa}{"sraddhaa}}
+\newcommand{\zraddhAtemp}{faith; trust; confidence}
 
-\newcommand{\zraddhayA}{\instrumentalphrase\ \zraddhA}
+\newcommand{\zraddhA}{%
+  "sraddhaa = {\dn "sraddhaa}\\
+  &&&= \zraddhAtemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootzraddhA}
+}
+
+\newcommand{\zraddhayA}{\instrumentalphrase\ \zraddhAtemp}
 \newcommand{\notezraddhayA}{\note{\noun, \female, \instrumentalcase}}
 % ------------------------------------------------------------------------------
 \newcommand{\zreyaHcredit}{(act of) credit; confidence; trust}

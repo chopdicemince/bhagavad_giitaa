@@ -108,7 +108,6 @@ that (faith).\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
-  &&&\notezraddhA\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -193,7 +192,6 @@ is faithful with, really.\\
   \hline
   &&&\\
   1b&{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
-  &&&\notezraddhA\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
@@ -202,9 +200,7 @@ is faithful with, really.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn "sraddhaamayo.aya.m}&"srad|dhaa|&{\dn "sraddhaa}\\
-  &&&= \zraddhA\\
-  &&&\notezraddhA\\
+  2a&{\dn "sraddhaamayo.aya.m}&"srad|dhaa|&\zraddhA\\
   &&&\\
   &&ma|yo|&maya.h\\
   &&&= {\dn maya.h}\\
@@ -966,9 +962,7 @@ sacrifice (is acknowledged as) ignorance.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn "sraddhaavirahita.m}&"srad|dhaa|&{\dn "sraddhaa}\\
-  &&&= \zraddhA\\
-  &&&\notezraddhA\\
+  2a&{\dn "sraddhaavirahita.m}&"srad|dhaa|&\zraddhA\\
   &&&\\
   &&vi|ra|hi|ta.m&virahitam\\
   &&&= {\dn virahitam}\\
