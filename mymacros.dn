@@ -1403,6 +1403,16 @@
   &&&\note{\nounrootdeha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootdehin}{\nounroot{\dn dehin}{dehin}}
+\newcommand{\dehintemp}{man; spirit; soul; living thing}
+
+\newcommand{\dehii}{%
+  dehii = {\dn dehii}\\
+  &&&= \dehintemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootdehin}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootdeva}{\nounroot{\dn deva}{deva}}
 \newcommand{\devatemp}{deity}
 \newcommand{\devapluraltemp}{deities}
