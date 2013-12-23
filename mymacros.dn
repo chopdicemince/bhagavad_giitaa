@@ -494,6 +494,13 @@
   &&&\note{\nounroottad}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\taam}{%
+  taam = {\dn taam} = that/her\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
+% ------------------------------------------------------------------------------
 % Second-person pronouns.
 
 \newcommand{\tvam}{%
