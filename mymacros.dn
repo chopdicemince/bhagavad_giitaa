@@ -1941,6 +1941,13 @@
   &&&\note{\nounrootkarman}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\kRpayA}{%
+  k.rpayaa = {\dn k.rpayaa} = \instrumentalphrase\\
+  &&&kindness; compassion; grace; favor\\
+  &&&\note{\noun, \female, \instrumentalcase}\\
+  &&&\note{\nounroot{\dn k.rpaa}{k.rpaa}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootkR}{\nounroot{\dn k.r}{k.r}}
 
 \newcommand{\karoti}{%
