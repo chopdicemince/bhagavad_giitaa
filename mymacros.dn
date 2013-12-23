@@ -1606,6 +1606,12 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootgovinda}
 }
+
+\newcommand{\govinda}{%
+  govinda = {\dn govinda} = \vocativephrase\ \textkrsna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounrootgovinda}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
 \newcommand{\guNatemp}{%
