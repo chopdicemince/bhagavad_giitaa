@@ -785,11 +785,9 @@ Arjuna): \dots\\
 
 God (\textkrsna) said (to Arjuna):\\
 
-You (Arjuna) \dots (?) \dots not woeful, and you say wise
-sayings. Gone lives, and not-gone lives---scholars do not lament
-(them).\\
-\newpage
-% ------------------------------------------------------------------------------
+You \dots (?) \dots not woeful, and (you) say wise sayings. Gone lives
+and not-gone lives---scholars do not lament (them).\\
+
 \begin{tabular}{llll}
   0&{\dn "sribhagavaanuvaaca}&"sri|&\zrI\\
   &&&\\
@@ -812,9 +810,10 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&&= (?)\\
   &&&\\
   &&stva.m&\tvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn praj~naavaadaa.m"sca}&pra|j\~{}naa|&praj\~{}naan\\
   &&&= {\dn praj~naan}\\
   &&&= wise\\
@@ -832,10 +831,9 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &{\dn bhaa.sase}&bhaa|.sa|se&(you) say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn bhaa.s} = bhaa.s}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gataasuunagataasuu.m"sca}&ga|taa|&\gataan\\
   &&&\\
   &&suu|na&\asuun\\
@@ -847,9 +845,10 @@ sayings. Gone lives, and not-gone lives---scholars do not lament
   &&suu.m"s|&\asuun\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naanu"socanti}&naa|&\na\\
   &&&\\
   &&nu|"so|can|ti&anu"socanti\\
