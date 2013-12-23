@@ -870,9 +870,9 @@ and not-gone lives---scholars do not lament (them).\\
 
 \kRSNasaidtoarjuna\\
 
-But really, I not-possibly (never) not was, nor you (not were), nor
-these kings (not were). And really, we will not, not [sic] be. We all
-from later (will be).\\
+But really, I possibly not/never not was, (or) you not (were), (or)
+these kings not (were). And really, (we) not/never will not be. We all
+from here (will be) paramount.\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -891,9 +891,10 @@ from later (will be).\\
   &&sa.m&aasam = {\dn aasam} = (I) was\\
   &&&\note{\verbb, \pasttense, \firstperson, \singular}\\
   &&&\note{root: {\dn as} = as, or {\dn bhuu} = bhuu}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
@@ -902,13 +903,14 @@ from later (will be).\\
   &&&\\
   &&me&\ime\\
   &&&\\
-  &{\dn janaadhipaa.h}&ja|naa|dhi|paa\h{aa}&kings\\
+  &{\dn janaadhipaa.h}&\multicolumn{2}{l}{ja|naa|dhi|paa\h{aa}}\\
+  &&&\\
+  &&&kings\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn janaadhipa.h} = janaadhipa.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn caiva}&cai|&\ca\\
@@ -917,12 +919,15 @@ from later (will be).\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn bhavi.syaama.h}&bha|vi|.syaa|ma\h{a}&(we) will be\\
+  &{\dn bhavi.syaama.h}&\multicolumn{2}{l}{bha|vi|.syaa|ma\h{a}}\\
+  &&&\\
+  &&&(we) will be\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \plural}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sarve}&sar|ve&\sarve\\
   &&&\\
   &{\dn vayamata.h}&va|ya|ma|&\vayam\\
@@ -931,6 +936,9 @@ from later (will be).\\
   &&&\\
   &{\dn param}&pa|ram&\param\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 13}
