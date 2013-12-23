@@ -1412,6 +1412,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootdehin}
 }
+
+\newcommand{\dehinam}{%
+  dehinam = {\dn dehinam}\\
+  &&&= \dehintemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootdehin}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdeva}{\nounroot{\dn deva}{deva}}
 \newcommand{\devatemp}{deity}
