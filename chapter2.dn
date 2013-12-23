@@ -2537,9 +2537,7 @@ self nature and fame, you will get evil.\\
   &&&\\
   &&dhar|ma.m&\dharmam\\
   &&&\\
-  &{\dn kiirti.m}&kiir|ti.m&fame\\
-  &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from {\dn kiirti.h} = kiirti.h}\\
+  &{\dn kiirti.m}&kiir|ti.m&\kIrtim\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
@@ -2572,11 +2570,7 @@ death.\\
 \begin{tabular}{llll}
   1a&{\dn akiirti.m}&a|&\aprefix\\
   &&&\\
-  &&kiir|ti.m&kiirtim\\
-  &&&= {\dn kiirtim}\\
-  &&&= reputation; fame; glory\\
-  &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from {\dn kiirti.h} = kiirti.h}\\
+  &&kiir|ti.m&\kIrtim\\
   &&&\\
   &{\dn caapi}&caa|&\ca\\
   &&&\\

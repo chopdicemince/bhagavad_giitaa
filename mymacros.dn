@@ -1949,6 +1949,12 @@
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootkiirti}
 }
+
+\newcommand{\kIrtim}{%
+  kiirtim = {\dn kiirtim} = \kiirtitemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootkiirti}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kRpayA}{%
   k.rpayaa = {\dn k.rpayaa} = \instrumentalphrase\\
