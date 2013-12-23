@@ -3384,6 +3384,17 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootsukha}
 }
+
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootsuudana}{\nounroot{\dn suudana}{suudana}}
+\newcommand{\suudanatemp}{killing; destruction}
+
+\newcommand{\suudana}{%
+  suudana = {\dn suudana}\\
+  &&&= \vocativephrase\ \suudanatemp\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{\nounrootsuudana}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsva}{\adjectiveroot{\dn sva}{sva}}
 \newcommand{\svatemp}{self}
