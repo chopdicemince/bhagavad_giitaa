@@ -1521,10 +1521,7 @@ teacher, also, the person does not swerve.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn guru.naapi}&gu|ru|.naa|&{\dn guru.naa}\\
-  &&&= by using a/the teacher\\
-  &&&\note{\noun, \male, \instrumentalcase}\\
-  &&&\note{from {\dn guru.h} = guru.h}\\
+  2b&{\dn guru.naapi}&gu|ru|.naa|&\guruNA\\
   &&&\\
   &&pi&\api\\
   &&&\\

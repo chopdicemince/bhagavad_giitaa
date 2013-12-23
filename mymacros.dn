@@ -1652,6 +1652,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootguru}
 }
+
+\newcommand{\guruNA}{%
+  guru.naa = {\dn guru.naa}\\
+  &&&= \instrumentalphrase\ a/the \gurutemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootguru}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbroothan}{\verbroot{\dn han}{han}}
 
