@@ -1598,6 +1598,15 @@
   &&&\note{\verbrootgam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootgovinda}{\nounroot{\dn govinda}{govinda}}
+\newcommand{\govindatemp}{\textkrsna}
+
+\newcommand{\govindam}{%
+  govindam = {\dn govindam} = \textkrsna\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootgovinda}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
 \newcommand{\guNatemp}{%
   string; mode; attribute; merit;\\
