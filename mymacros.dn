@@ -1420,7 +1420,15 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdhArtarASTra}{\nounroot{\dn dhaartaraa.s.tra}{dhaartaraa.s.tra}}
+\newcommand{\dhArtarASTratemp}{son of \textdhrtaraastra}
 \newcommand{\dhArtarASTrapluraltemp}{sons of \textdhrtaraastra}
+
+\newcommand{\dhArtarASTrasya}{%
+  dhaartaraa.s.trasya = {\dn dhaartaraa.s.trasya}\\
+  &&&= \genitivephrase\ a/the \dhArtarASTratemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootdhArtarASTra}
+}
 
 \newcommand{\dhArtarASTrAH}{%
   dhaartaraa.s.traa.h = {\dn dhaartaraa.s.traa.h}\\
