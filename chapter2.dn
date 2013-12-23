@@ -1456,11 +1456,11 @@ killed.\\
 
 \kRSNasaidtoarjuna\\
 
-(About the soul:) (It is) not born sometimes (and) does not die
-sometimes---yes or no? This is not having been, (and not) will
-possibly be, and not \dots (?) \dots, yes or no? This is not born, is
-eternal, (and) is old. (It) is not killed (and) is not being killed in
-the body.\\
+(About the soul:) (The soul is) not born (and) does (not) die, yes/no,
+sometimes? This (soul is) not having been, (not) will possibly be,
+yes/no, (and) not \dots (?) \dots? This (soul is) not-born, eternal,
+eternal [sic], (and) old. (This soul) is not killed (and is) not in
+being killed in the body.\\
 
 (Note: Many verses have eight main syllables per line, but this verse
 has eleven main syllables per line.)\\
@@ -1490,7 +1490,7 @@ has eleven main syllables per line.)\\
   &&&\\
   &&ya.m&\ayam\\
   &&&\\
-  &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
   &&&\\
   &{\dn bhavitaa}&bha|vi|taa&(he/she/it) will possibly be\\
   &&&\note{\verbb, \futuretensepossible, \thirdperson, \singular}\\
@@ -1525,10 +1525,9 @@ has eleven main syllables per line.)\\
   &&&= {\dn puraa.na.h}\\
   &&&= old; ancient\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
@@ -1541,6 +1540,9 @@ has eleven main syllables per line.)\\
   &&&\\
   &{\dn "sariire}&"sa|rii|re&\zarIre\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 21}
