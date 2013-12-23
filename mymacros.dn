@@ -3512,6 +3512,13 @@
   &&&\note{\nounroottattva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\tyaktum}{%
+  tyaktum = {\dn tyaktum}\\
+  &&&= to abandon; renounce; leave\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbroottyaj}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbroottyaj}{\verbroot{\dn tyaj}{tyaj}}
 
 \newcommand{\tyaktvaa}{
