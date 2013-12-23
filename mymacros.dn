@@ -1405,6 +1405,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdehin}{\nounroot{\dn dehin}{dehin}}
 \newcommand{\dehintemp}{man; spirit; soul; living thing}
+\newcommand{\dehinpluraltemp}{men; spirits; souls; living things}
 
 \newcommand{\dehii}{%
   dehii = {\dn dehii}\\
@@ -1425,6 +1426,13 @@
   &&&\dehintemp\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootdehin}
+}
+
+\newcommand{\dehinaam}{%
+  dehinaam = {\dn dehinaam}\\
+  &&&= \genitivephrase\ \dehinpluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootdehin}
 }
 % ------------------------------------------------------------------------------
