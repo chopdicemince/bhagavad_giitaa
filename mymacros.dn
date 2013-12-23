@@ -1584,6 +1584,16 @@
   &&&\note{\verbrootgam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootgata}{\adjectiveroot{\dn gata}{gata}}
+\newcommand{\gatatemp}{gone; dead; known; understood}
+
+\newcommand{\gataH}{%
+  gata.h = {\dn gata.h}\\
+  &&&= \gatatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootgata}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\gatvaa}{%
   gatvaa = {\dn gatvaa} = having gone\\
   &&&\note{\verbb, \perfectparticiple}\\
