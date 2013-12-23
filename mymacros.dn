@@ -3952,6 +3952,12 @@
   &&&\note{\suffix}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\vidyate}{%
+  vidyate = {\dn vidayte} = \hesheit\ is; exists\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootvid}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvimUDha}{\adjectiveroot{\dn vimuu.dha}{vimuu.dha}}
 \newcommand{\vimUDhatemp}{\mUDhatemp}
 

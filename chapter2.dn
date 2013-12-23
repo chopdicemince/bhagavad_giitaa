@@ -1183,9 +1183,7 @@ by people who know or see.\\
   &&&= {\dn sata.h}\\
   &&&= (?) \satataH\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vidyate}&vi|dya|te&\vidyate\\
   &&&\\
   &{\dn bhaavo}&bhaa|vo&\bhAvaH\\
   % ----------------------------------------------------------------------------
@@ -1197,9 +1195,7 @@ by people who know or see.\\
   &&&\\
   &&bhaa|vo&\bhAvaH\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is; exists\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vidyate}&vi|dya|te&\vidyate\\
   &&&\\
   &{\dn sata.h}&sa|ta\h{a}&(?) \satataH\\
 \end{tabular}
@@ -2349,9 +2345,7 @@ in the warrior caste, and the confidence is yours).\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vidyate}&vi|dya|te&\vidyate\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2917,9 +2911,7 @@ amount of this devotion saves (a person) from great fear.\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn vidyate}&vi|dya|te&(he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vidyate}&vi|dya|te&\vidyate\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
