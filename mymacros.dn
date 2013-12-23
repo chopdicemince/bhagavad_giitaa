@@ -1644,6 +1644,15 @@
   &&&\note{\nounrootguhya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootguru}{\nounroot{\dn guru}{guru}}
+\newcommand{\gurutemp}{teacher}
+
+\newcommand{\guruH}{%
+  guru.h = {\dn guru.h} = \gurutemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootguru}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbroothan}{\verbroot{\dn han}{han}}
 
 \newcommand{\hatvaa}{%
