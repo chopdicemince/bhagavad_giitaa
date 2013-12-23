@@ -279,6 +279,13 @@
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroothRSIkeza}
 }
+
+\newcommand{\madhu}{%
+  madhu = {\dn madhu} = (\vocativephrase) honey\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounroot{\dn madhu}{madhu}}
+}
 % ------------------------------------------------------------------------------
 % Names for Arjuna.
 \newcommand{\nounrootarjuna}{\nounroot{\dn arjuna}{arjuna}}
