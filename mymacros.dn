@@ -1419,6 +1419,17 @@
   &&&\note{\nounrootdeva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootdhArtarASTra}{\nounroot{\dn dhaartaraa.s.tra}{dhaartaraa.s.tra}}
+\newcommand{\dhArtarASTrapluraltemp}{sons of \textdhrtaraastra}
+
+\newcommand{\dhArtarASTrAH}{%
+  dhaartaraa.s.traa.h = {\dn dhaartaraa.s.traa.h}\\
+  &&&= (\vocativephrase) \dhArtarASTrapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootdhArtarASTra}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootdharma}{\nounroot{\dn dharma}{dharma}}
 \newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
 \newcommand{\dharmapluraltemp}{(acts of) virtue; religions; laws; customs}
