@@ -698,7 +698,7 @@
   &&&\note{\pronoun, \interrogative, \male, \neuter}\\
   &&&\note{\instrumentalcase}\\
   &&&\note{\nounrootyad}\\
-  &&&\note{\nounrootjo}\\
+  &&&\note{\nounrootjo}
 }
 
 \newcommand{\yaan}{%
