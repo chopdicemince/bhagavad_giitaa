@@ -1644,6 +1644,15 @@
   &&&\note{\nounrootguhya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbroothan}{\verbroot{\dn han}{han}}
+
+\newcommand{\hatvaa}{%
+  hatvaa = {\dn hatvaa}\\
+  &&&= having hit; hurt; killed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbroothan}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\icchaa}{%
   icchaa = {\dn iccha} = desire; want; wish\\
   &&&\note{\noun, \female, \nominativecase}\\
