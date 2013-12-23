@@ -355,13 +355,9 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
 (is) born.\\
 
 \begin{tabular}{llll}
-  1a&{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/whom/what\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h}\\
+  1a&{\dn ya.m}&ya.m&\yam\\
   &&&\\
-  &{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/who/what\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h}\\
+  &{\dn ya.m}&ya.m&\yam\\
   &&&\\
   &{\dn vaapi}&vaa|&vaa = {\dn vaa} = \vaa\\
   &&&\\
@@ -1555,9 +1551,7 @@ my paraount home.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ya.m}&ya.m&yam = {\dn yam} = (?) one/whom/what\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ya.h} = ya.h}\\
+  2a&{\dn ya.m}&ya.m&\yam\\
   &&&\\
   &{\dn praapya}&praa|pya&attainable\\
   &&&\note{\adjective}\\

@@ -684,6 +684,15 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yam}{%
+  yam = {\dn yam} = that which; he who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \male}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yena}{%
   yena = {\dn yena} = \instrumentalphrase\ that which; he who;\\
   &&&whichever; whoever/whomever; whatever\\
