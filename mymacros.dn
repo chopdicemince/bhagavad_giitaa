@@ -3762,6 +3762,14 @@
   &&&\note{\verbroottyaj}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootvad}{\verbroot{\dn vad}{vad}}
+
+\newcommand{\uktvaa}{%
+  uktvaa = {\dn uktvaa} = having uttered; said\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootvad}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootuttama}{\adjectiveroot{\dn uttama}{uttama}}
 \newcommand{\uttamatemp}{ultimate; uppermost; best}
 
