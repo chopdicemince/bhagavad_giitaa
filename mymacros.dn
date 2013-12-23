@@ -2042,6 +2042,11 @@
   &&&\note{\nounrootkula}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\kutaH}{%
+  kuta.h = {\dn kuta.h} = from where\\
+  &&&\note{part of speech (?)}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootlabh}{\verbroot{\dn labh}{labh}}
 
 \newcommand{\labhate}{%
