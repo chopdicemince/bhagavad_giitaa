@@ -3376,6 +3376,17 @@
   &&&\note{\adjectiverootsatya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsenaa}{\nounroot{\dn senaa}{senaa}}
+\newcommand{\senaadualtemp}{two armies}
+
+\newcommand{\senayoH}{%
+  senayo.h = {\dn senayo.h}\\
+  &&&= \genitivephrase/\locativephrase\ \senaadualtemp\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\nounrootsenaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsiddhi}{\nounroot{\dn siddhi}{siddhi}}
 \newcommand{\siddhitemp}{success; perfection; fulfillment}
 
