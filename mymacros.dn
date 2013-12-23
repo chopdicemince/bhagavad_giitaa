@@ -720,6 +720,15 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yaam}{%
+  yaam = {\dn yaam} = that which; she who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \female}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yat}{%
   yat = {\dn yat} = that which;\\
   &&&whichever; whoever; whatever\\
