@@ -1621,6 +1621,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootguDAkeza}
 }
+
+\newcommand{\guDAkezena}{%
+  gu.daake"sena = {\dn gu.daake"sena}\\
+  &&&= \instrumentalphrase\ Arjuna\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootguDAkeza}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
 \newcommand{\guNatemp}{%
