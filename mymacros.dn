@@ -1033,10 +1033,18 @@
   &&&\note{\nounrootapamaana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootarh}{\verbroot{\dn arh}{arh}}
+
+\newcommand{\arhati}{%
+  arhati = {\dn arhati} = \hesheit\ is able; can\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootarh}
+}
+
 \newcommand{\arhasi}{%
   arhasi = {\dn arhasi} = (you) are able; can\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
-  &&&\note{\verbroot{\dn arh}{arh}}
+  &&&\note{\verbrootarh}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
