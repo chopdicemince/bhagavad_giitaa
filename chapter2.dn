@@ -584,9 +584,9 @@ has eleven main syllables per line.)\\
 
 \arjunasaidtokRSNa\\
 
-Surely, I do not see my driving away one(?) sorrow-drying of (my)
-senses, (or) getting---on the ground, (with) no enemy---a wealthy
-kingdom of the gods, and also power.\\
+Surely, I do not see the driving away of me (of) the sorrow which (is)
+drying the senses (of me), (or) getting---on the ground, (with) no
+enemy---a wealthy kingdom of the gods, and also power.\\
 
 (Note: Many verses have eight main syllables per line, but this verse
 has eleven main syllables per line.)\\
@@ -634,6 +634,8 @@ has eleven main syllables per line.)\\
   &&&= in/on the ground\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
+  &&|&\aprefix\\
+  &&&\\
   &&sa|pat|na|m.rd|&sapatnam\\
   &&&= {\dn sapatnam}\\
   &&&= enemy\\
@@ -644,10 +646,9 @@ has eleven main syllables per line.)\\
   &&&= {\dn .rddham}\\
   &&&= abundant; wealthy\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn raajya.m}&raa|jya.m&raajyam\\
   &&&= {\dn raajyam}\\
   &&&= kingdom; country; government\\
@@ -668,6 +669,9 @@ has eleven main syllables per line.)\\
   &&&= power; rule\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 9}
