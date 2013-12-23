@@ -301,9 +301,7 @@ enjoyments (are) blood-stained.\\
 has eleven main syllables per line.)\\
 
 \begin{tabular}{llll}
-  1a&{\dn guruunahatvaa}&gu|ruu|na|&guruun = {\dn guruun} = teachers\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn guru.h} = guru.h}\\
+  1a&{\dn guruunahatvaa}&gu|ruu|na|&\guruun\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -362,11 +360,7 @@ has eleven main syllables per line.)\\
   &&&\\
   &&stu&\tu\\
   &&&\\
-  &{\dn guruunihaiva}&gu|ruu|ni|&guruun\\
-  &&&= {\dn guruun}\\
-  &&&= teachers\\
-  &&&\note{\noun, \male, \plural, \accusativecase}\\
-  &&&\note{from {\dn guru.h} = guru.h}\\
+  &{\dn guruunihaiva}&gu|ruu|ni|&\guruun\\
   &&&\\
   &&hai|&\iha\\
   &&&\\

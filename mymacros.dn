@@ -1646,6 +1646,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootguru}{\nounroot{\dn guru}{guru}}
 \newcommand{\gurutemp}{teacher}
+\newcommand{\gurupluraltemp}{teachers}
 
 \newcommand{\guruH}{%
   guru.h = {\dn guru.h} = \gurutemp\\
@@ -1657,6 +1658,12 @@
   guru.naa = {\dn guru.naa}\\
   &&&= \instrumentalphrase\ a/the \gurutemp\\
   &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootguru}
+}
+
+\newcommand{\guruun}{%
+  guruun = {\dn guruun} = \gurupluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootguru}
 }
 % ------------------------------------------------------------------------------
