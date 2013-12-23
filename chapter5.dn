@@ -1108,12 +1108,7 @@ stains.\\
   &&&\\
   &&sta|daat|&\tat\\
   &&&\\
-  &&maa|na|&aatmaana.h\\
-  &&&= {\dn aatmaana.h}\\
-  &&&= (O) selves; souls\\
-  &&&\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na|&\AtmAnaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -1728,12 +1723,7 @@ benefit of each being.\\
   &&&= controlled; subdued; governed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&maa|na\h{a}&aatmaana.h\\
-  &&&= {\dn aatmaana.h}\\
-  &&&= (O) selves; souls\\
-  &&&\note{\noun, \male, \plural}\\
-  &&&\note{\nominativecase, \vocativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&maa|na\h{a}&\AtmAnaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

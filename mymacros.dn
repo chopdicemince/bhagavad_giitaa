@@ -853,6 +853,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
 \newcommand{\aatman}{self; soul}
+\newcommand{\aatmanpluraltemp}{selves; souls}
 
 \newcommand{\aatmaa}{%
   aatmaa = {\dn aatmaa} = \aatman\\
@@ -884,6 +885,15 @@
 \newcommand{\aatmani}{%
   aatmani = {\dn aatmani} = \locativephrase\ a/the \aatman\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootaatman}
+}
+
+\newcommand{\AtmAnaH}{%
+  aatmaana.h = {\dn aatmaana.h}\\
+  &&&= (\vocativephrase) \aatmanpluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
   &&&\note{\nounrootaatman}
 }
 % ------------------------------------------------------------------------------
