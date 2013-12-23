@@ -793,6 +793,17 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
+\newcommand{\aagatatemp}{arrived; come}
+
+\newcommand{\aagatam}{%
+  aagatam = {\dn aagatam} = \aagatatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootaagata}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
 \newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
 
