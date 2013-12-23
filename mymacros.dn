@@ -2965,6 +2965,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootraajya}
 }
+
+\newcommand{\raajyena}{%
+  raajyena = {\dn raajyena}\\
+  &&&= \instrumentalphrase\ a/the \raajyatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootraajya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootrajas}{\nounroot{\dn rajas}{rajas}}
 \newcommand{\rajastemp}{one of the three gu.nas;\\
