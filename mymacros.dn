@@ -4006,6 +4006,16 @@
   &&&\note{\suffix}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootviddhi}{\nounroot{\dn viddhi}{viddhi}}
+\newcommand{\viddhitemp}{piercing; knowing; (``know'' (?))}
+
+\newcommand{\viddhiH}{%
+  viddhi.h = {\dn viddhi.h}\\
+  &&&= \viddhitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootviddhi}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\vidyate}{%
   vidyate = {\dn vidayte} = \hesheit\ is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\

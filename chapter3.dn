@@ -971,8 +971,7 @@ an offering.\\
   &&&= growing; produced; appearing\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn viddhi}&vid|dhi&piercing\\
-  &&&\note{\noun, \female}\\
+  &{\dn viddhi}&vid|dhi&\viddhiH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2048,9 +2047,7 @@ all-knowledge-foolish, knowing-damaged, and not wise.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&&vid|dhi&{\dn viddhi.h}\\
-  &&&= perforating; piercing; knowing\\
-  &&&\note{\noun, \female}\\
+  2b&&vid|dhi&\viddhiH\\
   &&&\\
   &{\dn na.s.taanacetasa.h}&na.s|.taa|na&na.s.taan\\
   &&&= {\dn na.s.taan}\\
@@ -2374,10 +2371,7 @@ and great-evil. This knowledge is enmity in this world.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn viddhyenamiha}&vid|dhye|&viddhi.h\\
-  &&&= {\dn viddhi.h}\\
-  &&&= perforating; piercing; knowing\\
-  &&&\note{\noun, \female}\\
+  2b&{\dn viddhyenamiha}&vid|dhye|&\viddhiH\\
   &&&\\
   &&na|mi&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \female?, \accusativecase}\\
