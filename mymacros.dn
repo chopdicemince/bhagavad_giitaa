@@ -1429,6 +1429,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootdhArtarASTra}
 }
+
+\newcommand{\dhArtarASTrAn}{%
+  dhaartaraa.s.traan = {\dn dhaartaraa.s.traan}\\
+  &&&= \dhArtarASTrapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootdhArtarASTra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdharma}{\nounroot{\dn dharma}{dharma}}
 \newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
