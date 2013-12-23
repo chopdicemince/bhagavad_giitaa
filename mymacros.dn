@@ -404,7 +404,7 @@
 }
 
 \newcommand{\tasmaat}{%
-  tasmaat = {\dn tasmaat} = from that/him; therefore\\
+  tasmaat = {\dn tasmaat} = \ablativephrase\ that/him; therefore\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \ablativecase, \adverb, \indeclinable}\\
   &&&\note{\nounroottad}
@@ -432,7 +432,7 @@
 }
 
 \newcommand{\tasya}{%
-  tasya = {\dn tasya} = of that/him/it; his; its\\
+  tasya = {\dn tasya} = \genitivephrase\ that/him/it; his; its\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\male, \neuter, \genitivecase}\\
   &&&\note{\nounroottad}
