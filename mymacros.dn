@@ -1593,6 +1593,15 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootgata}
 }
+
+\newcommand{\gatam}{%
+  gatam = {\dn gatam}\\
+  &&&= \gatatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootgata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\gatvaa}{%
   gatvaa = {\dn gatvaa} = having gone\\
