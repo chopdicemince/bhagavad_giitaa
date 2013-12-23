@@ -410,6 +410,13 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\tasmin}{%
+  tasmin = {\dn tasmin} = \locativephrase\ that/him/it\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \locativecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\nounrootyuSmad}{\nounroot{\dn yu.smad}{yu.smad}}
 
 \newcommand{\te}{%
