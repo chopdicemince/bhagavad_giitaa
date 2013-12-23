@@ -701,6 +701,15 @@
   &&&\note{\nounrootjo}\\
 }
 
+\newcommand{\yaan}{%
+  yaan = {\dn yaan} = those/they which; those/they who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yaa}{%
   yaa = {\dn yaa} = that which; she who;\\
   &&&whichever; whoever; whatever\\
