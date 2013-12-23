@@ -3773,6 +3773,16 @@
   &&&\note{\verbroottyaj}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootubhaya}{\adjectiveroot{\dn ubhaya}{ubhaya}}
+\newcommand{\ubhayatemp}{both}
+
+\newcommand{\ubhayoH}{%
+  ubhayo.h = {\dn ubhayo.h} = \genitivephrase/\locativephrase\ \ubhayatemp\\
+  &&&\note{\adjective, \allgenders, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\adjectiverootubhaya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootvad}{\verbroot{\dn vad}{vad}}
 
 \newcommand{\uktvaa}{%
