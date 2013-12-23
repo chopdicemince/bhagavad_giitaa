@@ -1610,6 +1610,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootgata}
 }
+
+\newcommand{\gataan}{%
+  gataan = {\dn gataan}\\
+  &&&= \gatatemp\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\adjectiverootgata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\gatvaa}{%
   gatvaa = {\dn gatvaa} = having gone\\
