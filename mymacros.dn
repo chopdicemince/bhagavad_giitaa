@@ -3389,6 +3389,12 @@
 \newcommand{\nounrootsuudana}{\nounroot{\dn suudana}{suudana}}
 \newcommand{\suudanatemp}{killing; destruction}
 
+\newcommand{\sUdanaH}{%
+  suudana.h = {\dn suudana.h} = \suudanatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsuudana}
+}
+
 \newcommand{\suudana}{%
   suudana = {\dn suudana}\\
   &&&= \vocativephrase\ \suudanatemp\\
