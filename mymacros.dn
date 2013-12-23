@@ -1941,6 +1941,15 @@
   &&&\note{\nounrootkarman}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootkiirti}{\nounroot{\dn kiirti}{kiirti}}
+\newcommand{\kiirtitemp}{fame; reputation}
+
+\newcommand{\kIrtiH}{%
+  kiirti.h = {\dn kiirti.h} = \kiirtitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootkiirti}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\kRpayA}{%
   k.rpayaa = {\dn k.rpayaa} = \instrumentalphrase\\
   &&&kindness; compassion; grace; favor\\
