@@ -397,13 +397,9 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  2a&{\dn ta.m}&ta.m&\tam\\
   &&&\\
-  &{\dn tamevaiti}&ta|me|&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &{\dn tamevaiti}&ta|me|&\tam\\
   &&&\\
   &&vai|&\eva\\
   &&&\\
@@ -737,8 +733,7 @@ syllables is eight.)\\
 \begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
-  &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
+  &{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
@@ -1555,9 +1550,7 @@ my paraount home.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&sta|maa|&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  1b&&sta|maa|&\tam\\
   &&&\\
   &&hu\h{u}&aahu.h\\
   &&&= {\dn aahu.h}\\
@@ -1718,9 +1711,7 @@ person go (to)---I will say that time, O Bharata-bull (O Arjuna).\\
   &&&\\
   &{\dn yaanti}&yaan|ti&\yaanti\\
   &&&\\
-  &{\dn ta.m}&ta.m&tam = {\dn tam} = that/him\\
-  &&&\note{\pronoun, \thirdperson, \male, \accusativecase}\\
-  &&&\note{from {\dn sa.h} = sa.h}\\
+  &{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn kaala.m}&kaa|la.m&kaalam\\
   &&&= {\dn kaalam}\\
