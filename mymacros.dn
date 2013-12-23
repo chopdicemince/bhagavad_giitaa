@@ -360,7 +360,7 @@
 }
 
 \newcommand{\mahaan}{%
-  mahaan = {\dn mahaan} = mighty; great; big\\
+  mahaan = {\dn mahaan} = (\vocativephrase) mighty; great; big\\
   &&&\note{\adjective, \male}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiveroot{\dn mahat}{mahat}}
