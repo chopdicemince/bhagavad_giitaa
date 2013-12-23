@@ -675,9 +675,10 @@ has eleven main syllables per line.)\\
 
 \textsanjaya\ said (to King \textdhrtaraastra):\\
 
-Really, having said (things) to \textkrsna, Arjuna, (associated with)
-the killing of enemies, \dots did not fight (?) \dots, thus. (To)
-\textkrsna, having said (things), (Arjuna) became quiet, surely.\\
+Really, having said (these things) to \textkrsna, Arjuna, the
+enemy-fire (the killer of enemies), (did) not (want to fight),
+thus. (To) \textkrsna, having said (these things), (Arjuna) (became)
+quiet, surely.\\
 
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
@@ -699,10 +700,10 @@ the killing of enemies, \dots did not fight (?) \dots, thus. (To)
   \hline
   &&&\\
   1b&{\dn gu.daake"sa.h}&gu|.daa|ke|"sa\h{a}&Arjuna\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \male, \nominativecase}\\
   &&&\\
-  &{\dn parantapa.h}&pa|ran|ta|pa\h{a}&harassing or killing of enemies\\
-  &&&\note{\noun, \male}\\
+  &{\dn parantapa.h}&pa|ran|ta|pa\h{a}&enemy-fire\\
+  &&&\note{\noun, \male, \nominativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
