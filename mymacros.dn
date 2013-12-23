@@ -1602,6 +1602,14 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootgata}
 }
+
+\newcommand{\gatAH}{%
+  gataa.h = {\dn gataa.h}\\
+  &&&= (\vocativephrase) \gatatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootgata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\gatvaa}{%
   gatvaa = {\dn gatvaa} = having gone\\
