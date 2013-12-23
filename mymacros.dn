@@ -811,6 +811,13 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\iyam}{%
+  iyam = {\dn iyam} = this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \nominativecase}\\
+  &&&\note{\nounrootidam}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
 
