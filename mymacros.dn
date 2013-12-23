@@ -1436,6 +1436,13 @@
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootdhArtarASTra}
 }
+
+\newcommand{\dhArtarASTrANAm}{%
+  dhaartaraa.s.traa.naam = {\dn dhaartaraa.s.traa.naam}\\
+  &&&= \genitivephrase\ \dhArtarASTrapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootdhArtarASTra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdharma}{\nounroot{\dn dharma}{dharma}}
 \newcommand{\dharmatemp}{(act of) virtue; religion; law; custom}
