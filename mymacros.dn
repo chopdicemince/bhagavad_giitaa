@@ -997,6 +997,17 @@
   &&&\note{\adjectiverootanya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootapamaana}{\nounroot{\dn apamaana}{apamaana}}
+\newcommand{\apamaanadualtemp}{(two acts of) contempt; insult; disrepect}
+
+\newcommand{\apamAnayoH}{%
+  apamaanayo.h = {\dn apamaanayo.h} = \genitivephrase/\locativephrase\\
+  &&&\apamaanadualtemp\\
+  &&&\note{\noun, \male, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
+  &&&\note{\nounrootapamaana}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\arhasi}{%
   arhasi = {\dn arhasi} = (you) are able; can\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
