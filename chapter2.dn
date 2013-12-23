@@ -135,7 +135,7 @@ non-heaven. Non-repuation (is) the tax, O Arjuna.\\
   \hline
   &&&\\
   2b&&ma|&\aprefix\\
-  &&&\\ 
+  &&&\\
   &&kiir|ti|&\kIrtiH\\
   &&&\\
   &&ka|ra|mar|&karam\\
@@ -1018,9 +1018,9 @@ steadfast (person) there (is) not muddled (by these statements).\\
 \kRSNasaidtoarjuna\\
 
 But material contacts, O son of Kunti (O Arjuna)---coldness, hotness,
-happiness, distress---are gifts(?), (with an) appearance (and)
-disappearance, (and are) not eternal. The self (is) something above
-them, O descendant of Bharata (O Arjuna).\\
+happiness, distress---(are) gifts(?)---(they have) an appearance (and)
+disappearance, (and are) not-eternal. The self (is) something above
+those, O descendant of Bharata (O Arjuna).\\
 
 \begin{tabular}{llll}
   1a&{\dn maatraaspar"saastu}&maa|traa|&{\dn maatraa} = material\\
@@ -1033,9 +1033,10 @@ them, O descendant of Bharata (O Arjuna).\\
   &&stu&\tu\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "siito.s.nasukhadu.hkhadaa.h}&"sii|to|&"siitam\\
   &&&= {\dn "siitam}\\
   &&&= (occurrence of) coldness\\
@@ -1053,10 +1054,9 @@ them, O descendant of Bharata (O Arjuna).\\
   &&daa\h{aa}&{\dn daa.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn dam} = dam = gift}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn aagamaapaayino.anityaastaa.mstitik.sasva}\\
   &&&\\
   &&aa|ga|maa|&aagama.h\\
@@ -1073,9 +1073,10 @@ them, O descendant of Bharata (O Arjuna).\\
   &&|&\aprefix\\
   &&&\\
   &&'ni|tyaa|&\nityAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&staa.m|&\taan\\
   &&&\\
   &&sti|ti|k.sa|&titik.sa.h\\
@@ -1087,6 +1088,9 @@ them, O descendant of Bharata (O Arjuna).\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 15}
