@@ -1613,6 +1613,15 @@
   &&&\note{\nounrootgovinda}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootguDAkeza}{\nounroot{\dn gu.daake"sa}{gu.daake"sa}}
+\newcommand{\guDAkezatemp}{Arjuna}
+
+\newcommand{\guDAkezaH}{%
+  gu.daake"sa.h = {\dn gu.daake"sa.h} = Arjuna\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootguDAkeza}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootguNa}{\nounroot{\dn gu.na}{gu.na}}
 \newcommand{\guNatemp}{%
   string; mode; attribute; merit;\\
