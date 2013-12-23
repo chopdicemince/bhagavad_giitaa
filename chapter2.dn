@@ -5,9 +5,9 @@
 
 \textsanjaya\ said (to King \textdhrtaraastra):\\
 
-(To) him (Arjuna), thus, filled with kindess, (with) a
-tear-plentiful-confused-eye, (with) grief---this statement (was) said
-by Madhu-killer (\textkrsna): \dots\\
+(To) him (Arjuna), thus, by using kindess, (with) a
+filled-tear-full-confused-eye, (with) grief---this statement (was)
+said (by) Madhu-killer (\textkrsna): \dots\\
 
 (\textkrsna\ killed a demon named ``Madhu,'' whose name means ``honey.'')\\
 
@@ -28,9 +28,10 @@ by Madhu-killer (\textkrsna): \dots\\
   &&&\\
   &&vi|.s.ta|&aavi.s.tam = {\dn aavi.s.tam} = entered by; filled with\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|"sru|&(?) a"srum = {\dn a"srum} = tear (eye)\\
   &&&\note{\noun, \neuter}\\
   &&&\\
@@ -40,14 +41,11 @@ by Madhu-killer (\textkrsna): \dots\\
   &&ku|le|&aakula = {\dn aakula} = confused; anxious\\
   &&&\note{\adjective}\\
   &&&\\
-  &&k.sa|.nam&iik.sa.nam\\
-  &&&= {\dn iik.sa.nam}\\
-  &&&= seeing; eye\\
+  &&k.sa|.nam&iik.sa.nam = {\dn iik.sa.nam} = seeing; eye\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vi.siidantamida.m}&vi|.sii|dan|ta|mi|&vi.siidantam\\
   &&&= {\dn vi.siidantam}\\
   &&&= (?)\\
