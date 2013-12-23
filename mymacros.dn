@@ -1018,6 +1018,16 @@
   &&&\note{\nounrootartha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootasu}{\nounroot{\dn asu}{asu}}
+\newcommand{\asupluraltemp}{breaths; lives; life; spirits}
+
+\newcommand{\asuun}{%
+  asuun = {\dn asuun}\\
+  &&&= \asupluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootasu}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbala}{\nounroot{\dn bala}{bala}}
 \newcommand{\balatemp}{force; strength}
 
