@@ -613,9 +613,9 @@
 }
 
 \newcommand{\naH}{%
-  na.h = {\dn na.h} = us; \dativephrase\ us; \genitivephrase us (our)\\
+  na.h = {\dn na.h} = us; \dativephrase\ us; \genitivephrase\ us (our)\\
   &&&\note{\pronoun, \firstperson, \plural}\\
-  &&&\note{\accusativecase, \dativecase, \genitivephrase}\\
+  &&&\note{\accusativecase, \dativecase, \genitivecase}\\
   &&&\note{\nounrootasmad}
 }
 
