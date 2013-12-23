@@ -425,10 +425,7 @@ born (from them).\\
   &&&\\
   &{\dn loka}&lo|ka&\lokaH\\
   &&&\\
-  &{\dn imaa.h}&i|maa\h{aa}&these\\
-  &&&\note{\pronoun, \female, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn iyam} = iyam = this}\\
+  &{\dn imaa.h}&i|maa\h{aa}&\imAH\\
   &&&\\
   &{\dn prajaa.h}&pra|jaa\h{aa}&people/things bearing\\
   &&&\note{\adjective, \female, \plural}\\

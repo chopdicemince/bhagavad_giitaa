@@ -817,6 +817,14 @@
   &&&\note{\female, \nominativecase}\\
   &&&\note{\nounrootidam}
 }
+
+\newcommand{\imAH}{%
+  imaa.h = {\dn imaa.h} = these\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
