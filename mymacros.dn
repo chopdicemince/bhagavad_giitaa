@@ -371,14 +371,6 @@
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounroot{\dn baahu}{baahu}}
 }
-
-\newcommand{\parantapa}{%
-  parantapa = {\dn parantapa}\\
-  &&&= \vocativephrase\ enemy-fire\\
-  &&&= \vocativephrase\ Arjuna\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{\nounroot{\dn parantapa}{parantapa}}
-}
 % ------------------------------------------------------------------------------
 \newcommand{\saJjayaH}{%
   sa\~{}njaya.h = {\dn sa~njaya.h} = \textsanjaya\\
@@ -2674,6 +2666,25 @@
   &&&= \paramatemp\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{\adjectiverootparama}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootparantapa}{\nounroot{\dn parantapa}{parantapa}}
+\newcommand{\parantapatemp}{enemy-fire}
+
+\newcommand{\parantapaH}{%
+  parantapa.h = {\dn parantapa.h}\\
+  &&&= \parantapatemp\\
+  &&&= Arjuna\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootparantapa}
+}
+
+\newcommand{\parantapa}{%
+  parantapa = {\dn parantapa}\\
+  &&&= \vocativephrase\ \parantapatemp\\
+  &&&= \vocativephrase\ Arjuna\\
+  &&&\note{\noun, \male, \vocativecase}\\
+  &&&\note{\nounrootparantapa}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootdRS}{\verbroot{\dn d.r.s}{d.r.s}}
