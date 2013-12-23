@@ -3084,6 +3084,16 @@
   &&&\note{\nounrootsaMsiddhi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsaGkhya}{\nounroot{\dn sa"nkhya}{sa"nkhya}}
+\newcommand{\saGkhyatemp}{war; battle}
+
+\newcommand{\saGkhye}{%
+  sa"nkhye = {\dn sa"nkhye}\\
+  &&&= \locativephrase\ a/the \saGkhyatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootsaGkhya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsarva}{\adjectiveroot{\dn sarva}{sarva}}
 \newcommand{\sarvatemp}{each; all}
 
