@@ -2972,6 +2972,13 @@
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{\nounrootraajya}
 }
+
+\newcommand{\raajyasya}{%
+  raajyasya = {\dn raajyasya}\\
+  &&&= \genitivephrase\ a/the \raajyatemp\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{\nounrootraajya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootrajas}{\nounroot{\dn rajas}{rajas}}
 \newcommand{\rajastemp}{one of the three gu.nas;\\
