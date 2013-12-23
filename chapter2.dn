@@ -247,9 +247,10 @@ are) respectable---O enemy-killing (O \textkrsna)?\\
   &&ha.m&\aham\\
   &&&\\
   &{\dn sa"nkhye}&sa"n|khye&\saGkhye\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn dro.na.m}&dro|.na.m&dro.nam = {\dn dro.nam} = Dro.na\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dro.na.h} = dro.na.h}\\
@@ -258,14 +259,10 @@ are) respectable---O enemy-killing (O \textkrsna)?\\
   &&&\\
   &{\dn madhusuudhana}&ma|dhu|&\madhu\\
   &&&\\
-  &&suu|dha|na&{\dn suudhana}\\
-  &&&= O killing\\
-  &&&\note{\noun, \neuter, \vocativecase}\\
-  &&&\note{from {\dn suudhanam} = suudhanam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  &&suu|da|na&\suudana\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn i.subhi.h}&i|.su|bhi\h{i}&by using arrows\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn i.su.h} = i.su.h}\\
