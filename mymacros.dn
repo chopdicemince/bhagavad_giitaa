@@ -803,6 +803,13 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootaagata}
 }
+
+\newcommand{\AgatAH}{%
+  aagataa.h = {\dn aagataa.h} = (\vocativephrase) \aagatatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootaagata}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
 \newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
