@@ -2682,7 +2682,7 @@
   &&&= \prANatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootprANa}
-} 
+}
 
 \newcommand{\prANam}{%
   praa.nam = {\dn praa.nam}\\
@@ -3384,7 +3384,6 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootsukha}
 }
-
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsuudana}{\nounroot{\dn suudana}{suudana}}
 \newcommand{\suudanatemp}{killing; destruction}
