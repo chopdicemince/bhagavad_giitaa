@@ -945,9 +945,9 @@ from here (will be) paramount.\\
 
 \kRSNasaidtoarjuna\\
 
-Just as the soul in this body (goes through) childhood, youth
-(adolescence), and old age---likewise, (the soul gets) another body
-(at death). (A) steadfast (person) there is not muddled.\\
+Just as childhoold, adolescence, (and) old age (are) of the soul of this
+body---likewise, a body-another-getting (occurs at death). (A)
+steadfast (person) there (is) not muddled (by these statements).\\
 
 \begin{tabular}{llll}
   1a&{\dn dehino.asminyathaa}&de|hi|no|&dehina.h\\
@@ -969,14 +969,16 @@ Just as the soul in this body (goes through) childhood, youth
   &&&= {\dn kaumaaram}\\
   &&&= childhood\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn yauvana.m}&yau|va|na.m&yauvanam\\
   &&&= {\dn yauvanam}\\
   &&&= youth; adolescence\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn jaraa}&ja|raa&old age\\
-  &&&\note{\noun, \female}\\
+  &&&\note{\noun, \female, \nominativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -987,7 +989,7 @@ Just as the soul in this body (goes through) childhood, youth
   &&&\\
   &&de|haan|&\dehaH\\
   &&&\\
-  &&ta|ram&antaram\\
+  &&ta|ra|&antaram\\
   &&&= {\dn antaram}\\
   &&&= another; other; different\\
   &&&\note{\adjective, \male, \accusativecase}\\
