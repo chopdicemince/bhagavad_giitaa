@@ -3650,8 +3650,9 @@ fruit(s)/result(s), (are) birth-bondage-free. (They) go (to) a place
 
 \kRSNasaidtoarjuna\\
 
-When your mind will surpass the confusion thicket, then you are going
-to be indifference to something to be heard and something heard.\\
+When the intelligence of you will surpass the confusion thicket, then
+(you) are (going to be) (indifferent) of/to something to be heard and
+of/to something heard.\\
 
 \begin{tabular}{llll}
   1a&{\dn yadaa}&ya|daa&when\\
@@ -3660,20 +3661,19 @@ to be indifference to something to be heard and something heard.\\
   &&&\\
   &{\dn mohakalila.m}&mo|ha|&moha.h\\
   &&&= {\dn moha.h}\\
-  &&&= hallucination;\\
-  &&&\quad bewilderment;\\
-  &&&\quad confusion\\
-  &&&\note{\noun, \male}\\
+  &&&= hallucination; bewilderment;\\
+  &&&confusion\\
+  &&&\note{\noun, \male, \nominativecase}\\
   &&&\\
-  &&ka|li|la.m&thicket\\
-  &&&\note{\noun, \neuter, \accusativecase}\\
-  &&&\note{The nominative case is the same}\\
+  &&ka|li|la.m&kalilam = {\dn kalilam} = thicket\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   1b&{\dn buddhirvyatitari.syati}&bud|dhir|&\buddhiH\\
   &&&\\
-  &&vya|ti|ta|ri.s|ya|ti&(he/she/it) will surpass\\
+  &&vya|ti|ta|ri|.sya|ti&(he/she/it) will surpass\\
   &&&\note{\verbb, \futuretense, \thirdperson}\\
   &&&\note{\singular}\\
   &&&\note{root: {\dn vyatit.R} = vyatit.rr}\\
