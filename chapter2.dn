@@ -2543,8 +2543,8 @@ from (after) death.\\
 
 \kRSNasaidtoarjuna\\
 
-From fear, from the battlefield---great warriors will \dots (?) \dots
-you stopped, for whom? And you, having been much respected, strive for
+From fear, from the battlefield---of which great-warriors will (think
+of?) you (as) stopped. And you, having been much-respected, strive for
 small importance.\\
 
 \begin{tabular}{llll}
@@ -2576,7 +2576,7 @@ small importance.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ye.saa.m}&ye|.saa.m&for whom (?)\\
+  2a&{\dn ye.saa.m}&ye|.saa.m&of which\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
@@ -2590,7 +2590,7 @@ small importance.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  2b&{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
   &&&\\
   &{\dn yaasyasi}&yaa|sya|si&(you) create froth;\\
   &&&strive for;\\
@@ -2599,7 +2599,8 @@ small importance.\\
   &&&\note{root: {\dn yas} = yas}\\
   &&&\\
   &{\dn laaghavam}&laa|gha|vam&small importance\\
-  &&&\note{\noun, \neuter, \accusativecase}\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn laaghavam} = laaghavam}\\
 \end{tabular}
 \newpage
