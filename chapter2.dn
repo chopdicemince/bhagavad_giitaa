@@ -2349,8 +2349,9 @@ person in the warrior caste does not exist.\\
 
 \kRSNasaidtoarjuna\\
 
-And by chance, having a heavenly door open, people in the warrior
-caste are happy, O prince (O Arjuna)---they get such a fight.\\
+And, by using chance, an adequate heavenly door (is) open---people in
+the warrior caste (are) happy, O son of P.rthaa (O Arjuna)---(they)
+get such a fight.\\
 
 \begin{tabular}{llll}
   1a&{\dn yad.rcchayaa}&ya|d.rc|cha|yaa&by using chance\\
@@ -2362,6 +2363,7 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   &&&= {\dn upapanna.m}\\
   &&&= adequate; having; existing\\
   &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2371,17 +2373,22 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   &&&= {\dn dvaaram}\\
   &&&= door\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&paa|v.r|tam&apaav.rtam\\
   &&&= {\dn apaav.rtam}\\
   &&&= open; not covered; not restrained\\
   &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sukhina.h}&su|khi|na\h{a}&happy\\
+  2a&{\dn sukhina.h}&su|khi|na\h{a}&\ablativephrase/\genitivephrase\ happy; (\vocativephrase) happy\\
   &&&\note{\adjective, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \nominativecase, \vocativecase}\\
+  &&&\note{\adjectiveroot{\dn sukhin}{sukhin}}\\
   &&&\\
   &{\dn k.satriyaa.h}&k.sa|tri|yaa\h{aa}&people in the warrior caste\\
   &&&\note{\noun, \male, \plural}\\
@@ -2399,11 +2406,13 @@ caste are happy, O prince (O Arjuna)---they get such a fight.\\
   &&&= {\dn yuddham}\\
   &&&= fight; battle; war\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&d.r|"sam&iid.r"sam\\
   &&&= {\dn iid.r"sam}\\
   &&&= like; such\\
   &&&\note{\adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
