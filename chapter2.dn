@@ -1781,59 +1781,46 @@ and water does not wet this. Wind does not dry (this).\\
 
 \kRSNasaidtoarjuna\\
 
-(About the soul:) This is not cuttable, this is not burnable, not
-wettable, not dryable, really, and eternal, everywhere, stationary,
-not moving. This is eternal.\\
+(About the soul:) This (is) not-cuttable, this (is) not-burnable,
+not-wettable, not-dryable, really, and eternal, everywhere,
+stationary, not-moving. This (is) eternal.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn acchedyo.ayamadaahyo.ayamakledyo.a"so.sya}\\
   &&&\\
   &&ac|&\aprefix\\
   &&&\\
-  &&che|dyo|&chedya.h\\
-  &&&= {\dn chedya.h}\\
-  &&&= (?) cuttable; tearable\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn chedyam} = chedyam = cut; tear}\\
-  &&&\note{\noun, \neuter}\\
+  &&che|dyo|&chedya.h = {\dn chedya.h} = (?) cuttable\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya|ma|&\ayam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&daa|hyo|&daahya.h\\
-  &&&= {\dn daahya.h}\\
-  &&&= burning; redness; heat\\
-  &&&\note{\noun, \male}\\
+  &&daa|hyo|&daahya.h = {\dn daahya.h} = (?) dryable\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya|&\ayam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
-  1b&&ma|&\aprefix\\
-  &&&\\
-  &&kle|dyo|&kledya.h = {\dn kledya.h} = (?) wettable\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn kleda.h} = kleda.h = wetness; rotting}\\
-  &&&\note{\noun, \male}\\
-  &&&\\
-  &&'|&\aprefix\\
-  &&&\\
-  &&"so|.sya&"so.sya.h = {\dn "so.sya.h} = (?) dryable\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn "so.sa.h} = "so.sa.h = drying; breath}\\
-  &&&\note{\noun, \male}\\
-  &&&\\
-  &{\dn eva}&e|va&\eva\\
-  &&&\\
-  &{\dn ca}&ca&\ca\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
+  1b&&ma|&\aprefix\\
+  &&&\\
+  &&kle|dyo|&kledya.h = {\dn kledya.h} = (?) wettable\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\\
+  &&'|&\aprefix\\
+  &&&\\
+  &&"so|.sya&"so.sya.h = {\dn "so.sya.h} = (?) dryable\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\\
+  &{\dn eva}&e|va&\eva\\
+  &&&\\
+  &{\dn ca}&ca&\ca\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nitya.h}&ni|tya\h{a}&\nityaH\\
   &&&\\
   &{\dn sarvagata.h}&sar|va|ga|ta\h{a}&everywhere\\
@@ -1845,24 +1832,28 @@ not moving. This is eternal.\\
   &{\dn sthaa.nuracalo.aya.m}&sthaa|.nu|&sthaa.nu.h\\
   &&&= {\dn sthaa.nu.h}\\
   &&&= stationary; standing\\
-  &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ra|&\aprefix\\
   &&&\\
   &&ca|lo|&cala.h\\
   &&&= {\dn cala.h}\\
   &&&= confused; shaking; moving\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya.m&\ayam\\
   &&&\\
   &{\dn sanaatana.h}&sa|naa|ta|na\h{a}&eternal; ancient\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{from: \adjective, \male, {\dn sana.h} = sana.h = ancient}\\
   &&&\note{from: \noun, \neuter, {\dn tanam} = tanam = offspring}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 25}
