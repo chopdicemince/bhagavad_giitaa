@@ -1549,9 +1549,9 @@ has eleven main syllables per line.)\\
 
 \kRSNasaidtoarjuna\\
 
-(About the soul:) Whoever (has) knowledge (that) this (has) no death,
-is eternal, is not born, and is not changeable---how (can) that man, O
-prince (O Arjuna), have (something) killed, (or) kill (something)?\\
+(About the soul:) He who (knows) (that) this (soul is) not-dead,
+eternal, not-born, (and) not-changeable---how (can) that man, O son of
+P.rthaa (O Arjuna), have (something) killed, (or) kill (something)?\\
 
 \begin{tabular}{llll}
   1a&{\dn vedaavinaa"sina.m}&ve|daa&veda.h\\
@@ -1570,9 +1570,10 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn nitya.m}&ni|tya.m&\nityam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ya}&ya&\yaH\\
   &&&\\
   &{\dn enamajamavyayam}&e|na|ma|&enam = {\dn enam} = this\\
@@ -1588,10 +1589,9 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&|&\aprefix\\
   &&&\\
   &&vya|yam&\vyayam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -1600,9 +1600,10 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ka.m}&ka.m&kam = {\dn kam} = what/whom\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ka.h} = ka.h}\\
@@ -1619,6 +1620,9 @@ prince (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ka.h} = ka.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 22}
