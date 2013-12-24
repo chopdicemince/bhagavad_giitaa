@@ -3587,20 +3587,18 @@ things---in goodness-badness. From that (knowledge), for yoking,
 
 \kRSNasaidtoarjuna\\
 
-The mind of officers, certainly, having abandoned fruit resulting from
-action, is like a sage, free from the bondage of birth. They go to a
-position of health.\\
+Surley, action-born, intelligence-yoked sages, having abandoned
+fruit(s)/result(s), (are) birth-bondage-free. (They) go (to) a place
+(of) health.\\
 
 \begin{tabular}{llll}
   1a&{\dn karmaja.m}&kar|ma|&\karma\\
   &&&\\
-  &&ja.m&jam\\
-  &&&= {\dn jam}\\
-  &&&= born\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{\adjective, \neuter}\\
-  &&&\note{from {\dn ja.h} = ja.h}\\
-  &&&\note{from {\dn jam} = jam}\\
+  &&ja.m&jam = {\dn jam} = born\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiveroot{\dn ja}{ja}}\\
   &&&\\
   &{\dn buddhiyuktaa}&bud|dhi|&\buddhiH\\
   &&&\\
@@ -3614,8 +3612,8 @@ position of health.\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
   &&&\\
-  &{\dn manii.si.na.h}&ma|nii|.si|.na\h{a}&sage; teacher (?)\\
-  &&&\note{\noun, \male}\\
+  &{\dn manii.si.na.h}&ma|nii|.si|.na\h{a}&sages; teachers\\
+  &&&\note{\noun, \male, \plural, \nominativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3644,6 +3642,7 @@ position of health.\\
   &&&= {\dn anaamayam}\\
   &&&= health\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
