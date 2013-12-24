@@ -3418,17 +3418,15 @@ sticking in the not-action of you.\\
 
 \kRSNasaidtoarjuna\\
 
-Devoted to an endeavor, do actions, O Arjuna, having abandoned
-association with, and having been equal in, success and
-non-success. This equanimity is called ``yoga.''\\
+Yoking-steadfast, do actions, having abandoned sticking, O
+money-victory (O Arjuna). Having been the same in success-not-success
+is called equanamity-yoking.\\
 
 \begin{tabular}{llll}
   1a&{\dn yogastha.h}&yo|ga|&\yogaH\\
   &&&\\
-  &&sta\h{a}&devoted to;\\
-  &&&engaged in;\\
-  &&&existing in\\
-  &&&\note{\adjective, \male}\\
+  &&stha\h{a}&standing; staying; situated; steadfast\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &{\dn kuru}&ku|ru&(you) do (?)\\
   &&&\\
@@ -3451,16 +3449,17 @@ non-success. This equanimity is called ``yoga.''\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&sid|dhyo.h&\siddhyoH\\
+  &&sid|dhyo\h{o}&\siddhyoH\\
   &&&\\
   &{\dn samo}&sa|mo&\samaH\\
   &&&\\
-  &{\dn bhuutvaa}&bhuut|vaa&\bhuutvaa\\
+  &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn samatva.m}&sa|ma|tva.m&equanimity\\
+  2b&{\dn samatva.m}&sa|ma|tva.m&samatvam = {\dn samatvam} = equanimity\\
   &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn yoga}&yo|ga&\yogaH\\
   &&&\\
