@@ -3775,9 +3775,9 @@ complete concentration, not-moving---then (you) will get yoking.\\
 
 Arjuna said (to \textkrsna):\\
 
-What language is of someone wise and resolute, or of someone engaged
-in concentration, O \textkrsna? What resolute wisdom does he or she say?
-What does he or she sit near? (In) what (manner) does he or she
+What language is of a steadfast-wise (man), (or) of a
+concentration-steadfast (man), O \textkrsna? What steadfast-wisdom
+does (he) say? What does (he) sit near? (In) what (manner) does (he)
 walk?\\
 
 \begin{tabular}{llll}
@@ -3790,17 +3790,18 @@ walk?\\
   1a&{\dn sthitapraj~nasya}&sthi|ta|&resolute; firm; present\\
   &&&\note{\adjective}\\
   &&&\\
-  &&praj|\~{}na|sya&of something wise\\
+  &&pra|j\~{}na|sya&of something wise\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn praj~na.h} = praj\~{}na.h}\\
   &&&\\
   &{\dn kaa}&kaa&\kaa\\
   &&&\\
   &{\dn bhaa.saa}&bhaa|.saa&language; complaint; accusation\\
-  &&&\note{\noun, \female}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+  &&&\note{\noun, \female, \nominativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn samaadhisthasya}&sa|maa|dhi|&completion; joinining; concentration\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -3809,10 +3810,9 @@ walk?\\
   &&&\note{from {\dn stha.h} = stha.h}\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&\kezava\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sthitadhii.h}&sthi|ta|&resolute; firm; present\\
   &&&\note{\adjective}\\
   &&&\\
@@ -3825,9 +3825,10 @@ walk?\\
   &{\dn prabhaa.seta}&pra|bhaa|.se|ta&(he/she/it) say; talk to; call (?)\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn prabhaa.s} = prabhaa.s}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kimaasiita}&ki|maa|&\kim\\
   &&&\\
   &&sii|ta&aasiita\\
@@ -3842,6 +3843,9 @@ walk?\\
   &&&\\
   &{\dn kim}&kim&\kim\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 55}
