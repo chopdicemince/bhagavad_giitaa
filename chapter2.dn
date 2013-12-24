@@ -2815,9 +2815,10 @@ evil.\\
 
 \kRSNasaidtoarjuna\\
 
-This, for you, is said, in the Sankhya philosophy, a reason, in
-union. But hear this, using reasoning, O suitable prince (O suitable
-Arjuna), by which you will throw away your action bond.\\
+This, for you, (is) said, in the Sankhya philosophy---intelligence in
+yoking. But hear this by using intelligence, yoked, O son of P.rthaa
+(O Arjuna)---by using which (you) will throw away the action-bond (of
+you).\\
 
 \begin{tabular}{llll}
   1a&{\dn e.saa}&e|.saa&this\\
@@ -2833,9 +2834,10 @@ Arjuna), by which you will throw away your action bond.\\
   &{\dn saa"nkhye}&saa"n|khye&in the Sankhya philosophy\\
   &&&\note{\noun, \female, \locativecase}\\
   &&&\note{from {\dn saa"nkhyam} = saa"nkhyam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn buddhiryoge}&bud|dhir|&\buddhiH\\
   &&&\\
   &&yo|ge&\yoge\\
@@ -2844,15 +2846,14 @@ Arjuna), by which you will throw away your action bond.\\
   &&&\\
   &&maa.m&imaa.m = {\dn imaa.m} = this\\
   &&&\\
-  &{\dn "s.r.nu}&"s.r.nu&(?) "s.r.notu\\
+  &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
   &&&= {\dn "s.r.notu}\\
   &&&= (you) hear\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn "sru} = "sru}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn buddhyaa}&bud|dhyaa&\buddhyaa\\
   &&&\\
   &{\dn yukto}&yuk|to&\yuktaH\\
@@ -2862,9 +2863,10 @@ Arjuna), by which you will throw away your action bond.\\
   &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn karmabandha.m}&kar|ma|&\karma\\
   &&&\\
   &&ban|dha.m&bandham\\
@@ -2873,12 +2875,13 @@ Arjuna), by which you will throw away your action bond.\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn bandha.h} = bandha.h}\\
   &&&\\
-  &{\dn prahaasyasi}&pra|haa|sya|si&(?) (you) will throw away;\\
-  &&&attack;\\
-  &&&hurt;\\
-  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &{\dn prahaasyasi}&pra|haa|sya|si&(?) (you) will throw away; attack; hurt;\\
+  &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn prah.r} = prah.r}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 40}
