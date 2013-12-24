@@ -2228,16 +2228,13 @@ are eleven, twelve, eleven, and eleven, instead of the usual eight.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\quad
-\newpage
-% ------------------------------------------------------------------------------
 \section*{Chaper 2, Verse 30}
 
 \kRSNasaidtoarjuna\\
 
-This soul is always not to be killed---this soul in the body and of
-each body---O descendant of Bharata (O Arjuna). Therefore you do not
-deserve to lament each being.\\
+This soul (is) eternally not-to-be-killed. This (soul is) in the body
+of all (beings), O descendant of Bharata (O Arjuna). From that
+(knowledge), you are not able to lament all beings.\\
 
 \begin{tabular}{llll}
   1a&{\dn dehii}&de|hii&\dehii\\
@@ -2249,7 +2246,7 @@ deserve to lament each being.\\
   &&va|dhyo|&vadhya.h\\
   &&&= {\dn vadhya.h}\\
   &&&= to be killed\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya.m&\ayam\\
   % ----------------------------------------------------------------------------
@@ -2264,7 +2261,7 @@ deserve to lament each being.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tasmaatsarvaa.ni}&tas|maat|&\tasmaat\\
+  2a&{\dn tasmaatsarvaa.ni}&ta|smaat|&\tasmaat\\
   &&&\\
   &&sar|vaa|.ni&\sarvANi\\
   &&&\\
