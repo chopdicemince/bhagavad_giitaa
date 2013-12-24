@@ -1860,9 +1860,9 @@ stationary, not-moving. This (is) eternal.\\
 
 \kRSNasaidtoarjuna\\
 
-(About the soul:) This is not visible, this is not thinkable, this is
-not changeable---(it) is said. Therefore, really, having known this,
-you do not deserve to lament.\\
+(About the soul:) This (is) not-visible, this (is) not-thinkable, this
+(is) not-changeable---(it) is said. From that (situation)---really,
+having known this, (you) are not able to lament.\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyakto.ayamacintyo.ayamavikaaryo.ayamucyate}\\
@@ -1872,7 +1872,7 @@ you do not deserve to lament.\\
   &&vyak|to|&vyakta.h\\
   &&&= {\dn vyakta.h}\\
   &&&= visible\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya|ma|&\ayam\\
   &&&\\
@@ -1881,18 +1881,19 @@ you do not deserve to lament.\\
   &&cin|tyo|&cintya.h\\
   &&&= {\dn cintya.h}\\
   &&&= thinkable\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya|&\ayam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&vi|kaar|yo|&vikaarya.h\\
   &&&= {\dn vikaarya.h}\\
   &&&= changeable\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male, \nominativecase}\\
   &&&\\
   &&'ya|mu|&\ayam\\
   &&&\\
@@ -1901,10 +1902,9 @@ you do not deserve to lament.\\
   &&&= (he/she/it) is said; regarded as; called\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tasmaadeva.m}&tas|maa|de|&\tasmaat\\
   &&&\\
   &&va.m&\evam\\
@@ -1918,9 +1918,10 @@ you do not deserve to lament.\\
   &&na.m&enam = {\dn enam} = this\\
   &&&\note{\pronoun, \male, \accusativecase}\\
   &&&\note{from {\dn ena.h} = ena.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naanu"socitumarhasi}&naa|&\na\\
   &&&\\
   &&nu|"so|ci|tu|mar|&anu"socitum\\
@@ -1931,6 +1932,9 @@ you do not deserve to lament.\\
   &&&\\
   &&ha|si&\arhasi\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 26}
