@@ -5,7 +5,7 @@
 
 \include{mymacros}
 % ------------------------------------------------------------------------------
-\addtolength{\oddsidemargin}{0mm}
+\addtolength{\oddsidemargin}{-20mm}
 \addtolength{\evensidemargin}{-38mm}
 \addtolength{\textwidth}{40mm}
 % ------------------------------------------------------------------------------

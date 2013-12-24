@@ -2480,11 +2480,9 @@ having abandoned self-virtue and fame, (you) will get evil.\\
 
 \kRSNasaidtoarjuna\\
 
-And also, people will talk about non-reputation. They are not
-changeable (?). And non-reputation of a respectable man prevails from
-death.\\
-
-(Paraphrase: People will talk about your infamy after your death.)\\
+And also, beings will talk (about) not-reputation. They (are)
+not-changeable (?). And not-reputation of a respectable man prevails
+from (after) death.\\
 
 \begin{tabular}{llll}
   1a&{\dn akiirti.m}&a|&\aprefix\\
@@ -2496,9 +2494,10 @@ death.\\
   &&pi&\api\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kathayi.syanti}&ka|tha|yi|.syan|ti&(they) will tell; talk\\
   &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
   &&&\note{root: {\dn kath} = kath}\\
@@ -2511,10 +2510,9 @@ death.\\
   &&&= {\dn vyayaam}\\
   &&&= changeable (?)\\
   &&&\note{similar: {\dn vyaya} = vyaya = changeable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sambhaavitasya}&sam|bhaa|vi|ta|sya&(?) of a/the respectable man\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sambhaavita.h} = sambhaavita.h}\\
