@@ -2956,27 +2956,27 @@ small amount of this virtue saves from great fear.\\
 
 \kRSNasaidtoarjuna\\
 
-Resoluteness is based on one mind, in this (world), O son of Kuru (O
-Arjuna). Certainly, the mind of amateurs is many-branched and
-infinite.\\
+Resoluteness (is) (based on?) one intelligence, in this world, O son
+of Kuru (O Arjuna). Surely, the (acts of) intelligence (of amateurs?)
+(are) many-branches (and are) infinite/eternal.\\
 
 \begin{tabular}{llll}
   1a&{\dn vyavasaayaatmikaa}&vya|va|saa|yaat|&vyavasaaya.h\\
   &&&= {\dn vyavasaaya.h}\\
   &&&= resoluteness\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \male, \nominativecase}\\
   &&&\\
   &&mi|kaa&aatmikaa\\
   &&&= {\dn aatmikaa}\\
   &&&= based on (?)\\
-  &&&\note{\adjective, \female}\\
+  &&&\note{\adjective, \female, \nominativecase}\\
   &&&\\
   &{\dn buddhirekeha}&bud|dhi|&\buddhiH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   1b&&re|ke|&ekaa = {\dn ekaa} = one\\
-  &&&\note{\noun, \female}\\
+  &&&\note{\noun, \female, \nominativecase}\\
   &&&\\
   &&ha&\iha\\
   &&&\\
@@ -2990,18 +2990,24 @@ infinite.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bahu"saakhaa}&ba|hu|"saa|khaa&many-branched\\
-  &&&\note{\adjective, \female}\\
-  &&&\note{from: \adjective, {\dn bahu} = bahu = many/much}\\
-  &&&\note{from: \noun, \female, {\dn "saakhaa} = "saakhaa = branch}\\
+  2a&{\dn bahu"saakhaa}&ba|hu|&bahu = {\dn bahu} = many/much\\
+  &&&\note{\adjective}\\
+  &&&\\
+  &&"saa|khaa&"saakaa.h = {\dn "saakaa.h} = (\vocativephrase) branches\\
+  &&&\note{\noun, \female, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\nounroot{\dn "saakaa}{"saakaa}}\\
   &&&\\
   &{\dn hyanantaa"sca}&hya|&\hi\\
   &&&\\
   &&nan|taa"s|&anantaa.h\\
   &&&= {\dn anantaa.h}\\
-  &&&= infinite; eternal\\
-  &&&\note{\adjective, \male, \plural}\\
-  &&&\note{from {\dn ananta.h} = ananta.h}\\
+  &&&= (\vocativephrase) infinite; eternal\\
+  &&&\note{\adjective, \female, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\adjectiveroot{\dn ananta}{ananta}}\\
   &&&\\
   &&ca&\ca\\
   % ----------------------------------------------------------------------------
