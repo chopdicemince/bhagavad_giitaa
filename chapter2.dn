@@ -3852,10 +3852,9 @@ walk?\\
 
 God (\textkrsna) said (to Arjuna):\\
 
-When a person abandons all desires, O son of P.rthaa (O Arjuna), when
-the imaginary things are gone---in the self, really, using the self,
-the person is pleased---then the person is said to be resolute and
-wise.\\
+When a (man) abandons all desires---O son of P.rthaa (O
+Arjuna)---(and) mind-(goings)---thus, in the self, by using the self,
+(he is) satisfied---then, (he) is called steadfast-wise.\\
 
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -3873,9 +3872,10 @@ wise.\\
   &{\dn yadaa}&ya|daa&when\\
   &&&\\
   &{\dn kaamaansarvaanpaartha}&kaa|maan|&\kaamaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&sar|vaan|&\sarvaan\\
   &&&\\
   &&paar|tha&\paartha\\
@@ -3888,25 +3888,25 @@ wise.\\
   &&ga|taan&gone\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn gata.h} = gata.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aatmanyevaatmanaa}&aat|ma|nye|&\aatmani\\
   &&&\\
   &&vaat|&\eva\\
   &&&\\
   &&ma|naa&\aatmanaa\\
   &&&\\
-  &{\dn tu.s.ta.h}&tu.s|.ta\h{a}&satisfied; pleased\\
+  &{\dn tu.s.ta.h}&tu|.s.ta\h{a}&satisfied; pleased\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sthitapraj~nastadocyate}&sthi|ta|&resolute; engaged in; present\\
   &&&\note{\adjective}\\
   &&&\\
-  &&praj|\~{}na|&wise\\
+  &&pra|j\~{}na|&wise\\
   &&&\note{\adjective}\\
   &&&\\
   &&sta|do|&tadaa = {\dn tadaa} = then\\
@@ -3917,6 +3917,9 @@ wise.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 56}
