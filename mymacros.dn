@@ -965,6 +965,15 @@
   &&&\note{\adjectiverootaagata}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootaap}{\verbroot{\dn aap}{aap}}
+
+\newcommand{\aapnoti}{%
+  aapnoti = {\dn aapnoti}\\
+  &&&= \hesheit\ attains; gets\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootaap}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaasura}{\adjectiveroot{\dn aasura}{aasura}}
 \newcommand{\aasuratemp}{demoniacal}
 

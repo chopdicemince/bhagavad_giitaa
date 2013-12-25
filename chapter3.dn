@@ -1274,11 +1274,7 @@ action, a man gets the highest (achievement).\\
   &&&\\
   2b&{\dn paramaapnoti}&pa|ra|maap|&\param\\
   &&&\\
-  &&no|ti&aapnoti\\
-  &&&= {\dn aapnoti}\\
-  &&&= (he/she/it) gets; reaches; completes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn aap} = aap}\\
+  &&no|ti&\aapnoti\\
   &&&\\
   &{\dn puuru.sa.h}&puu|ru|.sa\h{a}&man; human; soul\\
   &&&\note{\noun, \male}\\

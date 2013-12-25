@@ -3340,11 +3340,7 @@ self-behavior-action.\\
   &&&\\
   &&naap|&\na\\
   &&&\\
-  &&no|ti&aapnoti\\
-  &&&= {\dn aapnoti}\\
-  &&&= (he/she/it) attains\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn aap} = aap}\\
+  &&no|ti&\aapnoti\\
   &&&\\
   &{\dn kilbi.sam}&kil|bi|.sam&sin; offence; guilt\\
   &&&\note{\noun, \neuter}\\
@@ -3525,11 +3521,7 @@ Arjuna)---the end of knowledge, which (is) paramount.\\
   &&&\\
   1b&{\dn tathaapnoti}&ta|thaap|&\tathaa\\
   &&&\\
-  &&no|ti&aapnoti\\
-  &&&= {\dn aapnoti}\\
-  &&&= (he/she/it) attains\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn aap} = aap}\\
+  &&no|ti&\aapnoti\\
   &&&\\
   &{\dn nibodha}&ni|bo|dha&(you) know\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
