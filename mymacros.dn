@@ -1250,6 +1250,13 @@
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{\verbrootavaap}
 }
+
+\newcommand{\avaapsyatha}{%
+  avaapsyatha = {\dn avaapsyatha}\\
+  &&&= \you\ will attain; get\\
+  &&&\note{\verbb, \futuretensecertain, \secondperson, \plural}\\
+  &&&\note{\verbrootavaap}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
