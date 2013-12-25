@@ -4384,6 +4384,19 @@
   &&&\note{\verbrootvac}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootvaadin}{\adjectiveroot{\dn vaadin}{vaadin}}
+\newcommand{\vaadintemp}{speaking}
+
+\newcommand{\vAdinaH}{%
+  vaadina.h = {\dn vaadina.h}\\
+  &&&= \ablativephrase/\genitivephrase\ \vaadintemp; speaker;\\
+  &&&(\vocativephrase) \vaadintemp; speakers\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootvaadin}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvacana}{\adjectiveroot{\dn vacana}{vacana}}
 \newcommand{\vacanatemp}{speaking}
 
