@@ -1239,6 +1239,12 @@
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
 
+\newcommand{\bahuH}{%
+  bahu.h = {\dn bahu.h} = \bahutemp\\
+  &&&\note{\adjective, \male, \female, \nominativecase}\\
+  &&&\note{\adjectiverootbahu}
+}
+
 \newcommand{\bahunaa}{%
   bahunaa = {\dn bahunaa} = \instrumentalphrase\ \bahutemp\\
   &&&\note{\adjective, \male, \neuter, \instrumentalcase}\\

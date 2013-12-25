@@ -2553,9 +2553,7 @@ small importance.\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
   &&&\\
-  &{\dn bahumato}&ba|hu|&{\dn bahu}\\
-  &&&= much\\
-  &&&\note{\adjective, \male}\\
+  &{\dn bahumato}&ba|hu|&\bahuH\\
   &&&\\
   &&ma|to&\mataH\\
   % ----------------------------------------------------------------------------
@@ -2952,8 +2950,7 @@ of Kuru (O Arjuna). Surely, the (acts of) intelligence (of amateurs?)
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bahu"saakhaa}&ba|hu|&bahu = {\dn bahu} = many/much\\
-  &&&\note{\adjective}\\
+  2a&{\dn bahu"saakhaa}&ba|hu|&\bahuH\\
   &&&\\
   &&"saa|khaa&"saakaa.h = {\dn "saakaa.h} = (\vocativephrase) branches\\
   &&&\note{\noun, \female, \plural}\\
