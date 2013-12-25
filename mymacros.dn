@@ -4454,6 +4454,13 @@
   &&&\note{\nounrootveda}
 }
 
+\newcommand{\vedaanaam}{%
+  vedaanaam = {\dn vedaanaam}\\
+  &&&= \genitivephrase\ \vedapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootveda}
+}
+
 \newcommand{\vedeSu}{%
   vede.su = {\dn vede.su} = \locativephrase\\
   &&&\vedapluraltemp\\
