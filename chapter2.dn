@@ -3987,9 +3987,9 @@ steadast-wisdom-monk.\\
 
 \kRSNasaidtoarjuna\\
 
-One who, everywhere, is without feeling, who does not praise and does
-not hate attainable goodness and non-goodness---his knowledge is
-complete.\\
+He who, everywhere, (is) not-(desiring), (that that?),
+gettable-goodness-not-goodness---(he) does not rejoice, (he) does not
+hate---the wisdom of him (is) complete.\\
 
 \begin{tabular}{llll}
   1a&{\dn ya.h}&ya\h{a}&\yaH\\
@@ -3999,18 +3999,19 @@ complete.\\
   &&&= everywhere\\
   &&&\note{\adverb}\\
   &&&\\
-  &&na|bhis|ne|ha|&anabhisneha.h\\
-  &&&= {\dn anabhisneha.h}\\
-  &&&= cold; without feeling\\
-  &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
+  &&na|&\an\\
   &&&\\
-  1b&&stat|&tat = {\dn tat} = that\\
-  &&&\note{\pronoun, \neuter}\\
+  &&bhi|sne|ha|&abhisneha.h\\
+  &&&= {\dn abhisneha.h}\\
+  &&&= desire; affection\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&&stat|&\tat\\
   &&&\\
-  &&tat|&{\dn tat} = that\\
-  &&&\note{\pronoun, \neuter}\\
+  &&tat|&\tat\\
   &&&\\
   &&praa|pya&suitable; attainable; available\\
   &&&\note{\adjective}\\
@@ -4026,35 +4027,37 @@ complete.\\
   &&&= {\dn "subham}\\
   &&&= goodness; happiness; beauty\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn naabhinandati}&naa|&\na\\
   &&&\\
   &&bhi|nan|da|ti&abhinandati\\
   &&&= {\dn abhinandati}\\
-  &&&= (he/she/it) greets;\\
-  &&&\quad rejoices in; praises\\
+  &&&= (he/she/it) greets; rejoices in; praises\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn abhinand} = abhinand}\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn dve.s.ti}&dve.s|.ti&(he/she/it) hates\\
+  &{\dn dve.s.ti}&dve|.s.ti&(he/she/it) hates\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn dvi.s} = dvi.s}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tasya}&ta|sya&\tasya\\
   &&&\\
-  &{\dn praj~naa}&praj|\~{}naa&wisdom; knowledge\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn praj~naa}&pra|j\~{}naa&wisdom; knowledge\\
+  &&&\note{\noun, \female, \nominativecase}\\
   &&&\\
-  &{\dn prati.s.thitaa}&pra|ti.s|.thi|taa&complete; fixed; accomplished\\
-  &&&\note{\adjective, \female}\\
+  &{\dn prati.s.thitaa}&pra|ti|.s.thi|taa&complete; fixed; accomplished\\
+  &&&\note{\adjective, \female, \nominativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 58}
