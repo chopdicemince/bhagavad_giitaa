@@ -3846,6 +3846,15 @@
   &&&\note{\adjectiverootsukha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsura}{\nounroot{\dn sura}{sura}}
+\newcommand{\suratemp}{sun; sage; god}
+
+\newcommand{\suraH}{%
+  sura.h = {\dn sura.h} = \suratemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsura}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsuudana}{\nounroot{\dn suudana}{suudana}}
 \newcommand{\suudanatemp}{killing; destruction}
 
