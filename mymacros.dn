@@ -824,6 +824,16 @@
   &&&\note{\nounrootyad}\\
   &&&\note{\nounrootjo}
 }
+
+\newcommand{\yeSAm}{%
+  ye.saam = {\dn ye.saam} = \genitivephrase\ those which/who;\\
+  &&&they which/who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative}\\
+  &&&\note{\male, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
 % ------------------------------------------------------------------------------
 % Female.
 
