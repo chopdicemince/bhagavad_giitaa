@@ -473,6 +473,13 @@
   &&&\note{\male, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounroottad}
 }
+
+\newcommand{\eteSAm}{%
+  ete.saam = {\dn ete.saam} = \genitivephrase\ these/them; their\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \plural, \genitivecase}\\
+  &&&\note{\nounroottad}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tat}{%
   tat = {\dn tat} = that/it\\

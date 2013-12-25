@@ -699,9 +699,7 @@ Bhiima-protected.\\
   &&&\\
   &&da|me|&\idam\\
   &&&\\
-  &&te|.saa.m&ete.saam = {\dn ete.saam} = of these/them\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h}\\
+  &&te|.saa.m&\eteSAm\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2888,11 +2886,7 @@ water to their ancestors).\\
   &&&\\
   &&.saa.m&e.saam\\
   &&&= {\dn e.saam}\\
-  &&&= (?) ete.saam\\
-  &&&= {\dn ete.saam}\\
-  &&&= of these/them (their)\\
-  &&&\note{\pronoun, \thirdperson, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn e.sa.h} = e.sa.h}\\
+  &&&= (?) \eteSAm\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
