@@ -1830,6 +1830,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootdvaara}
 }
+
+\newcommand{\dvaare}{%
+  dvaare = {\dn dvaare}\\
+  &&&= \locativephrase\ a/the \dvaaratemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootdvaara}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
