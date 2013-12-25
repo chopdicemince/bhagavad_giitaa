@@ -4396,6 +4396,14 @@
   &&&\note{\plural, \nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootvaadin}
 }
+
+\newcommand{\vaadinaam}{%
+  vaadinaam = {\dn vaadinaam}\\
+  &&&= \genitivephrase\ \vaadintemp; speakers\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\adjectiverootvaadin}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvacana}{\adjectiveroot{\dn vacana}{vacana}}
 \newcommand{\vacanatemp}{speaking}
