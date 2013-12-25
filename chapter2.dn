@@ -2415,7 +2415,7 @@ having abandoned self-virtue and fame, (you) will get evil.\\
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn kari.syasi}&ka|ri|.sya|si&(?) (you) will do\\
-  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{\verbrootkR}\\
 \end{tabular}
 \newpage
@@ -2442,7 +2442,7 @@ having abandoned self-virtue and fame, (you) will get evil.\\
   &&vaap|sya|si&avaapsyasi\\
   &&&= {\dn avaapsyasi}\\
   &&&= (?) (you) will get; reach\\
-  &&&\note{\verbb, \futuretense, \secondperson, \singular}\\
+  &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn avaap} = avaap}\\
 \end{tabular}
 \newpage
@@ -2470,7 +2470,7 @@ from (after) death.\\
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1b&{\dn kathayi.syanti}&ka|tha|yi|.syan|ti&(they) will tell; talk\\
-  &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
+  &&&\note{\verbb, \futuretensecertain, \thirdperson, \plural}\\
   &&&\note{root: {\dn kath} = kath}\\
   &&&\\
   &{\dn te.avyayaam}&te|&\te\\
@@ -2536,7 +2536,7 @@ small importance.\\
   \hline
   &&&\\
   1b&{\dn ma.msyante}&ma.m|syan|te&(they) will \dots (?)\\
-  &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
+  &&&\note{\verbb, \futuretensecertain, \thirdperson, \plural}\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
   &&&\\
@@ -2602,7 +2602,7 @@ the ability of you. From that (situation), what distress-more
   \hline
   &&&\\
   1b&&va|di|.syan|ti&(they) will say\\
-  &&&\note{\verbb, \futuretense, \thirdperson, \plural}\\
+  &&&\note{\verbb, \futuretensecertain, \thirdperson, \plural}\\
   &&&\note{root: {\dn vad} = vad}\\
   &&&\\
   &{\dn tavaahitaa.h}&ta|vaa|&\tava\\
@@ -3631,7 +3631,7 @@ of/to something heard.\\
   1b&{\dn buddhirvyatitari.syati}&bud|dhir|&\buddhiH\\
   &&&\\
   &&vya|ti|ta|ri|.sya|ti&(he/she/it) will surpass\\
-  &&&\note{\verbb, \futuretense, \thirdperson}\\
+  &&&\note{\verbb, \futuretensecertain, \thirdperson}\\
   &&&\note{\singular}\\
   &&&\note{root: {\dn vyatit.R} = vyatit.rr}\\
 \end{tabular}

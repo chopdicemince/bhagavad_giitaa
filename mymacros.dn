@@ -78,7 +78,6 @@
 \newcommand{\pastimperfecttense}{past imperpefect}
 \newcommand{\presenttense}{present tense}
 \newcommand{\presentparticiple}{present participle}
-\newcommand{\futuretense}{future tense}
 \newcommand{\futuretensepossible}{future tense (possible)}
 \newcommand{\futuretensecertain}{future tense (certain)}
 \newcommand{\firstperson}{first person}
