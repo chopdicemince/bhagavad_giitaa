@@ -511,6 +511,13 @@
 % ------------------------------------------------------------------------------
 % Female third-person demonstrative pronouns.
 
+\newcommand{\saa}{%
+  saa = {\dn saa} = that/she\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\nominativecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\taam}{%
   taam = {\dn taam} = that/her\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\

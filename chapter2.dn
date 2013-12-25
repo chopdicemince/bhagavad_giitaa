@@ -4757,8 +4757,7 @@ monk.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn saa}&saa&she/it\\
-  &&&\note{\pronoun, \female}\\
+  2b&{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn ni"saa}&ni|"saa&vision; night; dream\\
   &&&\note{\noun, \female}\\

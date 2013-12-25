@@ -2116,8 +2116,7 @@ person.\\
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \female}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
@@ -2186,8 +2185,7 @@ of passion.\\
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \female}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
@@ -2259,8 +2257,7 @@ of ignorance.\\
   &&&\\
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \singular}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
@@ -2331,8 +2328,7 @@ person who is true.\\
   2b&{\dn dh.rti.h}&dh.r|ti\h{i}&steadfastness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \female}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
@@ -2404,8 +2400,7 @@ Arjuna) (is) a person of passion.\\
   2b&{\dn dh.rti.h}&dh.r|ti\h{i}&steadfastness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \female}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
@@ -2470,8 +2465,7 @@ Arjuna), (is) a person of ignorance.\\
   2b&{\dn dh.rti.h}&dh.r|ti\h{i}&steadfastness\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn saa}&saa&that/she\\
-  &&&\note{\pronoun, \thirdperson, \female}\\
+  &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
