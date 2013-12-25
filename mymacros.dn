@@ -3873,6 +3873,11 @@
   &&&\note{\adjectiverootsvarga}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\tadaa}{%
+  tadaa = {\dn tadaa} = then\\
+  &&&\note{\adverb, \indeclinable}\\
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiveroottama}{\adjectiveroot{\dn tama}{tama}}
 \newcommand{\tamatemp}{most}
 
