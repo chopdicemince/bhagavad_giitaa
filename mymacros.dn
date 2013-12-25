@@ -1257,6 +1257,12 @@
   &&&\note{\verbb, \futuretensecertain, \secondperson, \plural}\\
   &&&\note{\verbrootavaap}
 }
+
+\newcommand{\avaaptum}{%
+  avaaptum = {\dn avaaptum} = to attain; get\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbrootavaap}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
