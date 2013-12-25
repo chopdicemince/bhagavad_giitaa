@@ -362,7 +362,7 @@
   mahaan = {\dn mahaan} = (\vocativephrase) mighty; great; big\\
   &&&\note{\adjective, \male}\\
   &&&\note{\nominativecase, \vocativecase}\\
-  &&&\note{\adjectiveroot{\dn mahat}{mahat}}
+  &&&\note{\adjectiverootmahat}
 }
 
 \newcommand{\baaho}{%
@@ -2706,6 +2706,18 @@
   &&&= \maanatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootmaana}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\adjectiverootmahat}{\adjectiveroot{\dn mahat}{mahat}}
+\newcommand{\mahattemp}{mighty; great}
+
+\newcommand{\mahat}{%
+  mahat = {\dn mahat} = (\vocativephrase) \mahattemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\female, \nominativecase, \vocativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\vocativecase}\\
+  &&&\note{\adjectiverootmahat}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootmata}{\nounroot{\dn mata}{mata}}

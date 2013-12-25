@@ -3039,9 +3039,7 @@ family.\\
   &{\dn bata}&ba|ta&alas\\
   &&&\note{\interjection, \indeclinable}\\
   &&&\\
-  &{\dn mahatpaapa.m}&ma|hat|&{\dn mahat}\\
-  &&&= big\\
-  &&&\note{\adjective}\\
+  &{\dn mahatpaapa.m}&ma|hat|&\mahat\\
   &&&\\
   &&paa|pa.m&\paapam\\
   % ----------------------------------------------------------------------------
