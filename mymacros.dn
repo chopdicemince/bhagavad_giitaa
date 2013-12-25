@@ -532,6 +532,13 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\taasaam}{%
+  taasaam = {\dn taasaam} = \genitivephrase\ these/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \plural, \genitivecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\eSA}{%
   e.saa = {\dn e.saa} = this/she\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
