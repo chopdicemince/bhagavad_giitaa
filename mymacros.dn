@@ -1820,6 +1820,17 @@
   &&&\note{\nounrootduHkha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootdvaara}{\nounroot{\dn dvaara}{dvaara}}
+\newcommand{\dvaaratemp}{door; gate; entrance}
+
+\newcommand{\dvaaram}{%
+  dvaaram = {\dn dvaaram}\\
+  &&&= \dvaaratemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootdvaara}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
 \newcommand{\dveSadualtemp}{(two acts of) dislike; detestation; hatred}
