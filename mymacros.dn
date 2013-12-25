@@ -515,6 +515,13 @@
   &&&\note{\female, \nominativecase}\\
   &&&\note{\nounroottad}
 }
+
+\newcommand{\etaam}{%
+  etaam = {\dn etaam} = this/her\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
 % ------------------------------------------------------------------------------
 % Second-person pronouns.
 
