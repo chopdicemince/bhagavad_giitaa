@@ -1243,6 +1243,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootavaap}
 }
+
+\newcommand{\avaapsyasi}{%
+  avaapsyasi = {\dn avaapsyasyi}\\
+  &&&= \you\ will attain; get\\
+  &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
+  &&&\note{\verbrootavaap}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
