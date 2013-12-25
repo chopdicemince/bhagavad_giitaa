@@ -1822,6 +1822,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdvaara}{\nounroot{\dn dvaara}{dvaara}}
 \newcommand{\dvaaratemp}{door; gate; entrance}
+\newcommand{\dvaarapluraltemp}{doors; gates; entrances}
 
 \newcommand{\dvaaram}{%
   dvaaram = {\dn dvaaram}\\
@@ -1835,6 +1836,14 @@
   dvaare = {\dn dvaare}\\
   &&&= \locativephrase\ a/the \dvaaratemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootdvaara}
+}
+
+\newcommand{\dvArANi}{%
+  dvaaraa.ni = {\dn dvaaraa.ni}\\
+  &&&= (\vocativephrase) \dvaarapluraltemp\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootdvaara}
 }
 % ------------------------------------------------------------------------------
