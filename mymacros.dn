@@ -929,6 +929,15 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootaacar}{\verbroot{\dn aacar}{aacar}}
+
+\newcommand{\aacarati}{%
+  aacarati = {\dn aacarati}\\
+  &&&= \hesheit\ acts; works; does\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootaacar}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
 
