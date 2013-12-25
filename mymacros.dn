@@ -1239,6 +1239,12 @@
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
 
+\newcommand{\bahuun}{%
+  bahuun = {\dn bahuun} = \bahutemp\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\adjectiverootbahu}
+}
+
 \newcommand{\bahuuni}{%
   bahuuni = {\dn bahuuni} = (\vocativephrase) \bahutemp\\
   &&&\note{\adjective, \neuter, \plural, \nominativecase}\\
