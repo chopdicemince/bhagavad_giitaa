@@ -4446,6 +4446,14 @@
   &&&\note{\nounrootveda}
 }
 
+\newcommand{\vedAH}{%
+  vedaa.h = {\dn vedaa.h}\\
+  &&&= (\vocativephrase) \vedapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootveda}
+}
+
 \newcommand{\vedeSu}{%
   vede.su = {\dn vede.su} = \locativephrase\\
   &&&\vedapluraltemp\\
