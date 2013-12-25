@@ -4539,6 +4539,16 @@
   &&&\note{\adjectiverootyogin}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootyuddha}{\nounroot{\dn yuddha}{yuddha}}
+\newcommand{\yuddhatemp}{war; battle; fight}
+
+\newcommand{\yuddham}{%
+  yuddham = {\dn yuddham} = \yuddhatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootyuddha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootyukta}{\adjectiveroot{\dn yukta}{yukta}}
 \newcommand{\yuktatemp}{yoked}
 
