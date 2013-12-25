@@ -1846,6 +1846,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootdvaara}
 }
+
+\newcommand{\dvAraiH}{%
+  dvaarai.h = {\dn dvaarai.h}\\
+  &&&= \instrumentalphrase\ \dvaarapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootdvaara}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
