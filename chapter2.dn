@@ -4863,16 +4863,16 @@ instead of the usual eight.)\\
 
 \kRSNasaidtoarjuna\\
 
-Despite desires, one of all men who behaves without desire, not
-desiring possessions, humble---he learns peace.\\
+Despite desires, he who (of all men?) moves without-desiring,
+without-(?), (is) humble---that (man) gets peace.\\
 
 \begin{tabular}{llll}
   1a&{\dn vihaaya}&vi|haa|ya&disregarding; overlooking; despite\\
   &&&\note{\adjective}\\
   &&&\\
-  &{\dn kaamaanya.h}&kaa|maa|nya|&\kaamaan\\
+  &{\dn kaamaanya.h}&kaa|maa|&\kaamaan\\
   &&&\\
-  &&.h(a)&\yaH\\
+  &&nya\h{a}&\yaH\\
   &&&\\
   &{\dn sarvaanpumaa.m"scarati}&sar|vaan|&\sarvaan\\
   % ----------------------------------------------------------------------------
@@ -4884,22 +4884,23 @@ desiring possessions, humble---he learns peace.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn puman} = puman}\\
   &&&\\
-  &&ca|ra|ti&(he/she/it) walks; wanders; behaves\\
+  &&ca|ra|ti&(he/she/it) moves\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn car} = car}\\
   &&&\\
-  &{\dn ni.hsp.rha.h}&ni.h|sp.r|ha\h{a}&without desire\\
+  &{\dn ni.hsp.rha.h}&ni.h|&ni.h = {\dn ni.h} = without\\
+  &&&\note{\preposition}\\
+  &&&\\
+  &&sp.r|ha\h{a}&(?) desiring\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nirmamo}&nir|ma|mo&nirmama.h\\
-  &&&= {\dn nirmama.h}\\
-  &&&= disinterested;\\
-  &&&\quad indifferent;\\
-  &&&\quad not desiring possessions\\
-  &&&\note{\adjective, \male}\\
+  2a&{\dn nirmamo}&nir|&ni.h = {\dn ni.h} = without\\
+  &&&\note{\preposition}\\
+  &&&\\
+  &&ma|mo&mama.h = {\dn mama.h} = (?)\\
   &&&\\
   &{\dn niraha"nkaara.h}&ni|ra|ha"n|kaa|ra\h{a}&humble\\
   &&&\note{\adjective, \male}\\
