@@ -1853,6 +1853,13 @@
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{\nounrootdvaara}
 }
+
+\newcommand{\dvAreSu}{%
+  dvaare.su = {\dn dvaare.su}\\
+  &&&= \locativephrase\ \dvaarapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
+  &&&\note{\nounrootdvaara}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdveSa}{\nounroot{\dn dve.sa}{dve.sa}}
 \newcommand{\dveSatemp}{(act of) dislike; detestation; hatred}
