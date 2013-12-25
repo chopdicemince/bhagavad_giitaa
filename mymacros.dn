@@ -4548,6 +4548,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootyuddha}
 }
+
+\newcommand{\yuddhe}{%
+  yuddhe = {\dn yuddhe}\\
+  &&&= \locativephrase\ \yuddhatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootyuddha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootyukta}{\adjectiveroot{\dn yukta}{yukta}}
 \newcommand{\yuktatemp}{yoked}

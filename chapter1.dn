@@ -1581,10 +1581,7 @@ war (with) a pleasing wish.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &&yud|dhe|&{\dn yuddhe}\\
-  &&&= at/in/on a/the war; battle; fight\\
-  &&&\note{\noun, \neuter, \locativecase}\\
-  &&&\note{from {\dn yuddham} = yuddham}\\
+  &&yud|dhe|&\yuddhe\\
   &&&\\
   2b&{\dn priyacikiir.sava.h}&pri|ya|&priya\\
   &&&= {\dn priya}\\
@@ -2238,9 +2235,7 @@ really, and paternal grandfathers.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn avasthita.h} = avasthita.h}\\
   &&&\\
-  &{\dn yuddhe}&yud|dhe&at/in/on a/the battle; fight; war\\
-  &&&\note{\noun, \neuter, \locativecase}\\
-  &&&\note{from {\dn yuddham} = yuddham}\\
+  &{\dn yuddhe}&yud|dhe&\yuddhe\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
