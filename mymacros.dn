@@ -1245,6 +1245,12 @@
   &&&\note{\adjectiverootbahu}
 }
 
+\newcommand{\bahuunaam}{%
+  bahuunaam = {\dn bahuunaam} = \genitivephrase\ \bahutemp\\
+  &&&\note{\adjective, \allgenders, \plural, \genitivecase}\\
+  &&&\note{\adjectiverootbahu}
+}
+
 \newcommand{\bahuuni}{%
   bahuuni = {\dn bahuuni} = (\vocativephrase) \bahutemp\\
   &&&\note{\adjective, \neuter, \plural, \nominativecase}\\
