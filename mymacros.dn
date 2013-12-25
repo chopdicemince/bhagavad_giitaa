@@ -956,6 +956,15 @@
   &&&\note{\adjectiverootaagata}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootaasura}{\adjectiveroot{\dn aasura}{aasura}}
+\newcommand{\aasuratemp}{demoniacal}
+
+\newcommand{\AsuraH}{%
+  aasura.h = {\dn aasura.h} = \aasuratemp; demon\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootaasura}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
 \newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
 
