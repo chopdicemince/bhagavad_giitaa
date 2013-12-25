@@ -4437,6 +4437,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootveda}
 }
+
+\newcommand{\vede}{%
+  vede = {\dn vede} = \locativephrase\ a/the\\
+  &&&\vedatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootveda}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootviddhi}{\nounroot{\dn viddhi}{viddhi}}
 \newcommand{\viddhitemp}{piercing; knowing; (``know'' (?))}
