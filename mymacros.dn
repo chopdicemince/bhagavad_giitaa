@@ -4556,6 +4556,13 @@
   &&&\note{\nounrootyuddha}
 }
 
+\newcommand{\yuddhaat}{%
+  yuddhaat = {\dn yuddhaat}\\
+  &&&= \ablativephrase\ a/the \yuddhatemp\\
+  &&&\note{\noun, \neuter, \ablativecase}\\
+  &&&\note{\nounrootyuddha}
+}
+
 \newcommand{\yuddhe}{%
   yuddhe = {\dn yuddhe}\\
   &&&= \locativephrase\ \yuddhatemp\\
