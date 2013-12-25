@@ -901,6 +901,13 @@
   &&&\note{\female, \accusativecase}\\
   &&&\note{\nounrootidam}
 }
+
+\newcommand{\asyaam}{%
+  asyaam = {\dn asyaam} = \locativephrase\ this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \locativecase}\\
+  &&&\note{\nounrootidam}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
