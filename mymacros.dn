@@ -2612,6 +2612,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootlaabha}{\nounroot{\dn laabha}{laabha}}
 \newcommand{\laabhatemp}{profit; gain; benefit}
+\newcommand{\laabhadualtemp}{two profits; gains; benefits}
 
 \newcommand{\lAbhaH}{%
   laabha.h = {\dn laabha.h}\\
@@ -2624,6 +2625,14 @@
   laabham = {\dn laabham}\\
   &&&= \laabhatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootlaabha}
+}
+
+\newcommand{\laabhau}{%
+  laabhau = {\dn laabhau}\\
+  &&&= (\vocativephrase) \laabhadualtemp\\
+  &&&\note{\noun, \male, \dual, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
   &&&\note{\nounrootlaabha}
 }
 % ------------------------------------------------------------------------------
