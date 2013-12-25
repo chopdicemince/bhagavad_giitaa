@@ -4805,8 +4805,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pravi"s} = pravi"s}\\
   &&&\\
-  &{\dn yadvat}&ya|dvat&just as\\
-  &&&\note{\adverb}\\
+  &{\dn yadvat}&ya|dvat&\yadvat\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -4233,6 +4233,11 @@
   &&&\note{\adverb, \conjunction, \indeclinable}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\yadvat}{%
+  yadvat = {\dn yadvat} = just as\\
+  &&&\note{\adverb, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootyajJa}{\nounroot{\dn yaj~na}{yaj\~{}na}}
 \newcommand{\yajJatemp}{sacrifice; offering; worship; devotion}
 \newcommand{\yajJapluraltemp}{sacrifices; offerings; worship; devotion}
