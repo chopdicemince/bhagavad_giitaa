@@ -825,6 +825,17 @@
   &&&\note{\nounrootjo}
 }
 % ------------------------------------------------------------------------------
+% Female.
+
+\newcommand{\yasyaam}{%
+  yasyaam = {\dn yasyaam} = \locativephrase\ that which; she who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative}\\
+  &&&\note{\female, \locativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+% ------------------------------------------------------------------------------
 % Other third-person demonstrative pronouns.
 
 \newcommand{\nounrootidam}{\nounroot{\dn idam}{idam}}
