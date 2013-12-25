@@ -2610,6 +2610,16 @@
   &&&\note{part of speech (?)}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootlaabha}{\nounroot{\dn laabha}{laabha}}
+\newcommand{\laabhatemp}{profit; gain; benefit}
+
+\newcommand{\lAbhaH}{%
+  laabha.h = {\dn laabha.h}\\
+  &&&= \laabhatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootlaabha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootlabh}{\verbroot{\dn labh}{labh}}
 
 \newcommand{\labhate}{%
