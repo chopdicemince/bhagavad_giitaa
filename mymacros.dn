@@ -1510,7 +1510,7 @@
 \newcommand{\buddhayaH}{%
   buddhaya.h = {\dn buddhaya.h}\\
   &&&= (\vocativephrase) (acts of) \buddhitemp\\
-  &&&\note{\noun, \female}\\
+  &&&\note{\noun, \female, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootbuddhi}
 }
