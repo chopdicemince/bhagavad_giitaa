@@ -2279,9 +2279,7 @@ if from force, commanded?\\
   &&&\\
   1b&{\dn paapa.m}&paa|pa.m&\paapam\\
   &&&\\
-  &{\dn carati}&ca|ra|ti&(he/she/it) moves; behaves; consumes\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn car} = car}\\
+  &{\dn carati}&ca|ra|ti&\carati\\
   &&&\\
   &{\dn puuru.sa.h}&puu|ru|.sa\h{a}&man; person; soul\\
   &&&\note{\noun, \male}\\
