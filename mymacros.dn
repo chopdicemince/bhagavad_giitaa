@@ -769,6 +769,15 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yasya}{%
+  yasya = {\dn yasya} = \genitivephrase\ he who; it which;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \male, \neuter}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yaan}{%
   yaan = {\dn yaan} = those/they which; those/they who;\\
   &&&whichever; whoever/whomever; whatever\\
