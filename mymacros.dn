@@ -1257,6 +1257,13 @@
   &&&\note{\adjectiverootbahu}
 }
 
+\newcommand{\bahu}{%
+  bahu = {\dn bahu} = (\vocativephrase) \bahutemp\\
+  &&&\note{\adjective, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\adjectiverootbahu}
+}
+
 \newcommand{\bahuuni}{%
   bahuuni = {\dn bahuuni} = (\vocativephrase) \bahutemp\\
   &&&\note{\adjective, \neuter, \plural, \nominativecase}\\

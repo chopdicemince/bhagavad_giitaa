@@ -1126,10 +1126,7 @@ instead of the usual eight.)\\
   &&&= many/much; various\\
   &&&\note{\adjective}\\
   &&&\\
-  &&baa|huu|&bahu\\
-  &&&= {\dn bahu}\\
-  &&&= many/much\\
-  &&&\note{\adjective, \noun, \indeclinable}\\
+  &&baa|huu|&\bahu\\
   &&&\\
   &&da|ra|&udaram\\
   &&&= {\dn udaram}\\
@@ -1893,8 +1890,7 @@ of the usual eight.)\\
   &&&\\
   &&te&\te\\
   &&&\\
-  &{\dn bahuvaktranetra.m}&ba|hu|&{\dn bahu} = many/much\\
-  &&&\note{\adjective, \noun, \indeclinable}\\
+  &{\dn bahuvaktranetra.m}&ba|hu|&\bahu\\
   &&&\\
   &&vak|tra|&vaktram\\
   &&&= {\dn vaktram}\\
@@ -1934,16 +1930,14 @@ of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bahuudara.m}&ba|huu|&bahu = {\dn bahu} = many/much\\
-  &&&\note{\adjective, \noun, \indeclinable}\\
+  2a&{\dn bahuudara.m}&ba|huu|&\bahu\\
   &&&\\
   &&da|ra.m&udaram\\
   &&&= {\dn udaram}\\
   &&&= abdomen; stomach\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn bahuda.m.s.traakaraala.m}&ba|hu|&{\dn bahu} = many/much\\
-  &&&\note{\adjective, \noun, \indeclinable}\\
+  &{\dn bahuda.m.s.traakaraala.m}&ba|hu|&\bahu\\
   &&&\\
   &&da.m|.s.traa|&{\dn da.m.s.traa}\\
   &&&= tooth\\
