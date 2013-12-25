@@ -452,7 +452,7 @@
 }
 
 \newcommand{\ete}{%
-  ete = {\dn ete} = those/they (two)\\
+  ete = {\dn ete} = these/they; these/they/them (two)\\
   &&&\note{\pronoun, \demonstrative}\\
   &&&\note{\male, \plural, \nominativecase}\\
   &&&\note{\female, \neuter, \dual}\\
