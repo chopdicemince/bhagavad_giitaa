@@ -4207,6 +4207,11 @@
   &&&\note{\verbrootyaa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\yadaa}{%
+  yadaa = {\dn yadaa} = when\\
+  &&&\note{\adverb, \conjunction, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootyajJa}{\nounroot{\dn yaj~na}{yaj\~{}na}}
 \newcommand{\yajJatemp}{sacrifice; offering; worship; devotion}
 \newcommand{\yajJapluraltemp}{sacrifices; offerings; worship; devotion}
