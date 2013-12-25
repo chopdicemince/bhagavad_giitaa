@@ -4187,6 +4187,17 @@
   &&&\note{\verbrootvac}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootvacana}{\adjectiveroot{\dn vacana}{vacana}}
+\newcommand{\vacanatemp}{speaking}
+
+\newcommand{\vacanam}{%
+  vacanam = {\dn vacanam} = \vacanatemp; word; phrase;\\
+  &&&pronunciation; speech\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\noun, \neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootvacana}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\vat}{%
   vat = {\dn vat} = full of\\
   &&&\note{\suffix}

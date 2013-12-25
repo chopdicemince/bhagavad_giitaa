@@ -3146,11 +3146,7 @@ main syllables, instead of the usual eight.)\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn "sru} = "sru}\\
   &&&\\
-  &{\dn vacana.m}&va|ca|na.m&vacanam\\
-  &&&= {\dn vacanam}\\
-  &&&= word; group of words; speech\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &{\dn vacana.m}&va|ca|na.m&\vacanam\\
   &&&\\
   &{\dn ke"savasya}&ke|"sa|va|sya&of \textkrsna\\
   &&&\note{\noun, \male, \genitivecase}\\
