@@ -451,6 +451,13 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\etasya}{%
+  etasya = {\dn etasya} = \genitivephrase\ this/him/it\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \genitivecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\ete}{%
   ete = {\dn ete} = these/they; these/they/them (two)\\
   &&&\note{\pronoun, \demonstrative}\\
