@@ -878,6 +878,8 @@
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
+% Female.
+
 \newcommand{\iyam}{%
   iyam = {\dn iyam} = this\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
@@ -890,6 +892,13 @@
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootidam}
+}
+
+\newcommand{\imaam}{%
+  imaam = {\dn imaam} = this\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \accusativecase}\\
   &&&\note{\nounrootidam}
 }
 % ------------------------------------------------------------------------------
