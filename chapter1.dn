@@ -2519,9 +2519,7 @@ happy may (we) be, O \textkrsna?\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  3b&{\dn sukhina.h}&su|khi|na\h{a}&happy\\
-  &&&\note{\adjective, \male, \plural}\\
-  &&&\note{from {\dn sukhin} = sukhin}\\
+  3b&{\dn sukhina.h}&su|khi|na\h{a}&\sukhinaH\\
   &&&\\
   &{\dn syaama}&syaa|ma&(we) be\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \plural}\\

@@ -2367,11 +2367,7 @@ get such a fight.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sukhina.h}&su|khi|na\h{a}&\ablativephrase/\genitivephrase\ happy; (\vocativephrase) happy\\
-  &&&\note{\adjective, \male}\\
-  &&&\note{\ablativecase, \genitivecase}\\
-  &&&\note{\plural, \nominativecase, \vocativecase}\\
-  &&&\note{\adjectiveroot{\dn sukhin}{sukhin}}\\
+  2a&{\dn sukhina.h}&su|khi|na\h{a}&\sukhinaH\\
   &&&\\
   &{\dn k.satriyaa.h}&k.sa|tri|yaa\h{aa}&people in the warrior caste\\
   &&&\note{\noun, \male, \plural}\\

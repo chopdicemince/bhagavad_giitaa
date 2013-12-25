@@ -3905,10 +3905,23 @@
   &&&\note{\adjectiverootsukha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootsukhin}{\adjectiveroot{\dn sukhin}{sukhin}}
+\newcommand{\sukhintemp}{happy (man)}
+\newcommand{\sukhinpluraltemp}{happy (men)}
+
 \newcommand{\sukhii}{%
-  sukhii = {\dn sukhii} = man of happiness\\
-  &&&\note{\noun, \male, \nominativecase}\\
-  &&&\note{\adjectiverootsukha}
+  sukhii = {\dn sukhii} = \sukhintemp\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsukhin}
+}
+
+\newcommand{\sukhinaH}{%
+  sukhina.h = {\dn sukhina.h} = \ablativephrase/\genitivephrase\ a/the \sukhintemp;\\
+  &&&(\vocativephrase) \sukhinpluraltemp\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootsukhin}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsura}{\nounroot{\dn sura}{sura}}
