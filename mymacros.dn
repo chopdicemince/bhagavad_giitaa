@@ -451,6 +451,15 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\ete}{%
+  ete = {\dn ete} = those/they (two)\\
+  &&&\note{\pronoun, \demonstrative}\\
+  &&&\note{\male, \plural, \nominativecase}\\
+  &&&\note{\female, \neuter, \dual}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\etaan}{%
   etaan = {\dn etaan} = these/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
