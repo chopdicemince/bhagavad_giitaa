@@ -971,6 +971,14 @@
   &&&\note{\adjective, \neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootaasura}
 }
+
+\newcommand{\AsurAH}{%
+  aasuraa.h = {\dn aasuraa.h}\\
+  &&&= (\vocativephrase) \aasuratemp; demons\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootaasura}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
 \newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
