@@ -4430,6 +4430,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootveda}
 }
+
+\newcommand{\vedam}{%
+  vedam = {\dn vedam}\\
+  &&&= \vedatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootveda}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootviddhi}{\nounroot{\dn viddhi}{viddhi}}
 \newcommand{\viddhitemp}{piercing; knowing; (``know'' (?))}
