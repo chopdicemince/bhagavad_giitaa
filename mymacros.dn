@@ -964,6 +964,13 @@
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootaasura}
 }
+
+\newcommand{\aasuram}{%
+  aasuram = {\dn aasuram} = \aasuratemp; demon\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootaasura}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootAzcarya}{\adjectiveroot{\dn aa"scarya}{aa"scarya}}
 \newcommand{\Azcaryatemp}{miraculous; marvelous; wonderful; surprising}
