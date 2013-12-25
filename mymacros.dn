@@ -1750,6 +1750,13 @@
   &&&\note{\nounrootduHkha}
 }
 
+\newcommand{\duHkhe}{%
+  du.hkhe = {\dn du.hkhe}\\
+  &&&= \locativephrase\ a/the \duHkhatemptemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootduHkha}
+}
+
 \newcommand{\duHkhaiH}{%
   du.hkhai.h = {\dn du.hkhai.h}\\
   &&&= \instrumentalphrase\ \duHkhapluraltemp\\

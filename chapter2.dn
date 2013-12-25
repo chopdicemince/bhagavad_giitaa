@@ -2750,9 +2750,7 @@ evil.\\
 \begin{tabular}{llll}
   1a&{\dn sukhadu.hkhe}&su|kha|&\sukham\\
   &&&\\
-  &&du.h|khe&in sadness\\
-  &&&\note{\noun, \neuter, \locativecase}\\
-  &&&\note{from {\dn du.hkham} = du.hkham}\\
+  &&du.h|khe&\duHkhe\\
   &&&\\
   &{\dn same}&sa|me&\same\\
   &&&\\
