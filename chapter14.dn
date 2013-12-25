@@ -1651,9 +1651,7 @@ string-passed-through (``successful'').\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\
-  &{\dn ucyate}&u|cya|te&(he/she/it) is uttered; said; called\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vac} = vac}\\
+  &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

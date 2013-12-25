@@ -4079,6 +4079,13 @@
   &&&\note{\adjectiverootubhaya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\ucyate}{%
+  ucyate = {\dn ucyate}\\
+  &&&= \hesheit\ is uttered; said; called\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootvac}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootvad}{\verbroot{\dn vad}{vad}}
 
 \newcommand{\uktvaa}{%
