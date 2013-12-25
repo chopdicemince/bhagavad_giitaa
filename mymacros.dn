@@ -4421,6 +4421,16 @@
   &&&\note{\suffix}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootveda}{\nounroot{\dn veda}{veda}}
+\newcommand{\vedatemp}{(piece of) (sacred) knowledge}
+
+\newcommand{\vedaH}{%
+  veda.h = {\dn veda.h}\\
+  &&&= \vedatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootveda}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootviddhi}{\nounroot{\dn viddhi}{viddhi}}
 \newcommand{\viddhitemp}{piercing; knowing; (``know'' (?))}
 

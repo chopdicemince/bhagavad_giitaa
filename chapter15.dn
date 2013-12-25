@@ -66,17 +66,11 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&&\\
   &&ta.m&\tam\\
   &&&\\
-  &{\dn veda}&ve|da&veda.h\\
-  &&&= {\dn veda.h}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \male}\\
+  &{\dn veda}&ve|da&\vedaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
   &&&\\
-  &{\dn vedavit}&ve|da|&veda.h\\
-  &&&= {\dn veda.h}\\
-  &&&= knowledge\\
-  &&&\note{\noun, \male}\\
+  &{\dn vedavit}&ve|da|&\vedaH\\
   &&&\\
   &&vit&{\dn vit}\\
   &&&= (?)\\
@@ -1191,10 +1185,7 @@ instead of the usual eight.)\\
   &&&= actor; worker; doer\\
   &&&\note{\suffix}\\
   &&&\\
-  &&da|&veda.h\\
-  &&&= {\dn veda.h}\\
-  &&&= (sacred) knowledge\\
-  &&&\note{\noun, \male}\\
+  &&da|&\vedaH\\
   &&&\\
   &&vi|de&vit\\
   &&&= {\dn vit}\\
