@@ -3848,10 +3848,18 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsura}{\nounroot{\dn sura}{sura}}
 \newcommand{\suratemp}{sun; sage; god}
+\newcommand{\surapluraltemp}{suns; sages; gods}
 
 \newcommand{\suraH}{%
   sura.h = {\dn sura.h} = \suratemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsura}
+}
+
+\newcommand{\surANAm}{%
+  suraa.naam = {\dn suraa.naam}\\
+  &&&= \genitivephrase\ \surapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootsura}
 }
 % ------------------------------------------------------------------------------
