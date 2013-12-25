@@ -4423,6 +4423,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootveda}{\nounroot{\dn veda}{veda}}
 \newcommand{\vedatemp}{(piece of) (sacred) knowledge}
+\newcommand{\vedapluraltemp}{(pieces of) (sacred) knowledge}
 
 \newcommand{\vedaH}{%
   veda.h = {\dn veda.h}\\
@@ -4442,6 +4443,13 @@
   vede = {\dn vede} = \locativephrase\ a/the\\
   &&&\vedatemp\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootveda}
+}
+
+\newcommand{\vedeSu}{%
+  vede.su = {\dn vede.su} = \locativephrase\\
+  &&&\vedapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{\nounrootveda}
 }
 % ------------------------------------------------------------------------------

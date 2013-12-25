@@ -560,10 +560,7 @@ the sound in vacuum, and prowess in men.\\
   &&&= \sarva\\
   &&&\notesarva\\
   &&&\\
-  &&ve|de|.su&{\dn vede.su}\\
-  &&&= at/in/on holy texts\\
-  &&&\note{\noun, \male, \plural, \locativecase}\\
-  &&&\note{from {\dn veda.h} = veda.h}\\
+  &&ve|de|.su&\vedeSu\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
