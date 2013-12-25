@@ -4777,24 +4777,32 @@ monk.\\
 
 \kRSNasaidtoarjuna\\
 
-Just as they (streams, rivers, tributaries) enter a steady and great
-body of ocean water being filled, so desires enter in each one. He
-gets no peace.\\
+Just as (rivers) enter a being-filled, not-moving, steadfast
+sea---likewise, all desires enter whomever---that desire-man-of-desire
+does not get peace.\\
+
+(Note: In this verse, each half-line has eleven main syllables,
+instead of the usual eight.)\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aapuuryamaa.namacalaprati.s.tha.m}\\
   &&aa|puur|ya|maa|.na|ma|&aapuuryamaa.nam\\
   &&&= {\dn aapuuryamaa.nam}\\
   &&&= being filled\\
-  &&& \note{\adjective, \male, \accusativecase}\\
+  &&& \note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\\
-  &&ca|la|&acala\\
-  &&&= {\dn acala}\\
-  &&&= steady; fixed; not moving\\
+  &&|&\aprefix\\
+  &&&\\
+  &&ca|la|&cala = {\dn cala} = moving\\
   &&& \note{\adjective}\\
   &&&\\
-  &&pra|ti.s|.tha.m&firm; steadfast; great\\
-  &&&\note{\adjective, \male, \accusativecase}\\
+  &&pra|ti|.s.tha.m&prati.s.tham = {\dn prati.s.tham}\\
+  &&&= firm; steadfast; great\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4807,18 +4815,20 @@ gets no peace.\\
   &&pa\h{a}&aapa.h\\
   &&&= {\dn aapa.h}\\
   &&&= water\\
-  &&&\note{\noun, \male}\\
+  &&&\note{\noun, \male, \nominativecase}\\
   &&&\\
   &{\dn pravi"santi}&pra|vi|"san|ti&(they) enter; reach; undertake\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pravi"s} = pravi"s}\\
   &&&\\
-  &{\dn yadvat}&yad|vat&just as\\
+  &{\dn yadvat}&ya|dvat&just as\\
+  &&&\note{\adverb}\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn tadvatkaamaa}&tad|vat|&so\\
+  2a&{\dn tadvatkaamaa}&ta|dvat|&likewise\\
+  &&&\note{\adverb}\\
   &&&\\
   &&kaa|maa&\kAmAH\\
   &&&\\
@@ -4831,8 +4841,7 @@ gets no peace.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sa}&sa&sa.h = {\dn sa.h} = he/it\\
-  &&&\note{\pronoun, \thirdperson, \male}\\
+  2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn "saantimaapnoti}&"saan|ti|maap|&\zAntim\\
   &&&\\
@@ -4846,7 +4855,7 @@ gets no peace.\\
   &&&\\
   &{\dn kaamakaamii}&kaa|ma|&\kAmaH\\
   &&&\\
-  &&kaa|mii&(?)\\
+  &&kaa|mii&man of desire (?)\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
