@@ -493,6 +493,8 @@
   &&&\note{\nounroottad}
 }
 % ------------------------------------------------------------------------------
+% Female third-person demonstrative pronouns.
+
 \newcommand{\taam}{%
   taam = {\dn taam} = that/her\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
@@ -504,6 +506,13 @@
   tayaa = {\dn tayaa} = \instrumentalphrase\ that/her\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
   &&&\note{\female, \instrumentalcase}\\
+  &&&\note{\nounroottad}
+}
+
+\newcommand{\eSA}{%
+  e.saa = {\dn e.saa} = this/she\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \nominativecase}\\
   &&&\note{\nounroottad}
 }
 % ------------------------------------------------------------------------------
