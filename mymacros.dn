@@ -1235,6 +1235,15 @@
   &&&\note{\nounrootasu}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootavaap}{\verbroot{\dn avaap}{avaap}}
+
+\newcommand{\avaapnoti}{%
+  avaapnoti = {\dn avaapnoti}\\
+  &&&= \hesheit\ attains; gets\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootavaap}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
 
