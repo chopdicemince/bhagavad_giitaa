@@ -532,6 +532,13 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\tasyaam}{%
+  tasyaam = {\dn tasyaam} = \locativephrase\ that/her\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\female, \locativecase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\taasaam}{%
   taasaam = {\dn taasaam} = \genitivephrase\ these/them\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\

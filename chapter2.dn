@@ -4729,9 +4729,7 @@ monk.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn tasyaa.m}&ta|syaam&at/in/on her/it\\
-  &&&\note{\pronoun, \female, \locativecase}\\
-  &&&\note{from {\dn saa} = saa = she/it}\\
+  1b&{\dn tasyaa.m}&ta|syaam&\tasyaam\\
   &&&\\
   &{\dn jaagarti}&jaa|gar|ti&(he/she/it) wakes up;\\
   &&&\quad is vigilant;\\
