@@ -3208,6 +3208,12 @@
   &&&\note{\nounrootnaraka}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nizA}{%
+  ni"saa = {\dn ni"saa} = night; dream\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounroot{\dn ni"saa}{ni"saa}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootnitya}{\adjectiveroot{\dn nitya}{nitya}}
 \newcommand{\nityatemp}{eternal; usual; constant}
 
