@@ -1560,9 +1560,7 @@ P.rthaa (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&ja|ma|&jam = {\dn jam} = born\\
-  &&&\note{\adjective, \male, \accusativecase}\\
-  &&&\note{from {\dn ja.h} = ja.h = born}\\
+  &&ja|ma|&\jam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -3494,11 +3492,7 @@ fruit(s)/result(s), (are) birth-bondage-free. (They) go (to) a place
 \begin{tabular}{llll}
   1a&{\dn karmaja.m}&kar|ma|&\karma\\
   &&&\\
-  &&ja.m&jam = {\dn jam} = born\\
-  &&&\note{\adjective}\\
-  &&&\note{\male, \accusativecase}\\
-  &&&\note{\neuter, \nominativecase, \accusativecase}\\
-  &&&\note{\adjectiveroot{\dn ja}{ja}}\\
+  &&ja.m&\jam\\
   &&&\\
   &{\dn buddhiyuktaa}&bud|dhi|&\buddhiH\\
   &&&\\

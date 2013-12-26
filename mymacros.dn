@@ -2393,6 +2393,14 @@
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootja}
 }
+
+\newcommand{\jam}{%
+  jam = {\dn jam} = \jatemp; born thing; birth\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjective, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootja}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
