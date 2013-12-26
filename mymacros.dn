@@ -4913,6 +4913,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootvaayu}
 }
+
+\newcommand{\vAyoH}{%
+  vaayo.h = {\dn vaayo.h} = \genitivephrase\ \vaayutemp\\
+  &&&\note{\noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootvaayu}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvacana}{\adjectiveroot{\dn vacana}{vacana}}
 \newcommand{\vacanatemp}{speaking}
