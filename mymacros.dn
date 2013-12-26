@@ -4176,6 +4176,16 @@
   &&&\note{\adjectiverootstha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootsthita}{\adjectiveroot{\dn sthita}{sthita}}
+\newcommand{\sthitatemp}{standing; staying; situated; steadfast}
+
+\newcommand{\sthitaH}{%
+  sthita.h = {\dn sthita.h}\\
+  &&&= \sthitatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootsthita}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsukha}{\adjectiveroot{\dn sukha}{sukha}}
 \newcommand{\sukhatemp}{happy; (act of) happiness}
 \newcommand{\sukhapluraltemp}{happy; (acts of) happiness}

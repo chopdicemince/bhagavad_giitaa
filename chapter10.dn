@@ -1363,9 +1363,7 @@ beings, really.\\
   &&&= mind; soul; heart; stomach\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&sthi|ta\h{a}&{\dn sthita.h}\\
-  &&&= standing; staying; steadfast; stopping\\
-  &&&\note{\adjective, \male}\\
+  &&sthi|ta\h{a}&\sthitaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3037,10 +3035,7 @@ world.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn a.m"sa.h} = a.m"sa.h}\\
   &&&\\
-  &{\dn sthito}&sthi|to&sthita.h\\
-  &&&= {\dn sthita.h}\\
-  &&&= standing; staying; steadfast; stopping\\
-  &&&\note{\adjective, \male}\\
+  &{\dn sthito}&sthi|to&\sthitaH\\
   &&&\\
   &{\dn jagat}&ja|gat&\jagat\\
 \end{tabular}

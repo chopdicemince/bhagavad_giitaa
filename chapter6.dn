@@ -619,8 +619,7 @@ and without possessions.\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn rah} = rah}\\
   &&&\\
-  &{\dn sthita.h}&sthi|ta\h{a}&standing; staying; steadfast\\
-  &&&\note{\adjective, \male}\\
+  &{\dn sthita.h}&sthi|ta\h{a}&\sthitaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -933,9 +932,7 @@ mind, a mind from me, yoked, seated, best from me.\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn vratam} = vratam}\\
   &&&\\
-  &&sthi|ta\h{a}&{\dn sthita.h}\\
-  &&&= standing; staying; stopping; still\\
-  &&&\note{\adjective}\\
+  &&sthi|ta\h{a}&\sthitaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1400,10 +1397,7 @@ he is still and does not move intrinsically.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn sthita"scalati}&sthi|ta"s|&sthita.h\\
-  &&&= {\dn sthita.h}\\
-  &&&= standing; staying; stopping; still\\
-  &&&\note{\adjective, \male}\\
+  2b&{\dn sthita"scalati}&sthi|ta"s|&\sthitaH\\
   &&&\\
   &&ca|la|ti&{\dn calati}\\
   &&&= (he/she/it) moves; plays\\
@@ -1463,10 +1457,7 @@ teacher, also, the person does not swerve.\\
   &&&\note{\pronoun, \male, \locativecase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
   &&&\\
-  &&sthi|to&sthita.h\\
-  &&&= {\dn sthita.h}\\
-  &&&= standing; staying; stopping; still\\
-  &&&\note{\adjective, \male}\\
+  &&sthi|to&\sthitaH\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
