@@ -1320,6 +1320,17 @@
   &&&\note{\verbrootavaap}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootavasthita}{\adjectiveroot{\dn avasthita}{avasthita}}
+\newcommand{\avasthitatemp}{\sthitatemp}
+
+\newcommand{\avasthitAH}{%
+  avasthitaa.h = {\dn avasthitaa.h}\\
+  &&&= (\vocativephrase) \avasthitatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootavasthita}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
 
