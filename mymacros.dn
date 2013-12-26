@@ -4384,6 +4384,16 @@
   &&&\note{\verbrootvac}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootvaada}{\adjectiveroot{\dn vaada}{vaada}}
+\newcommand{\vaadatemp}{sounding; speaking}
+
+\newcommand{\vAdaH}{%
+  vaada.h = {\dn vaada.h} = \vaadatemp;\\
+  &&&sound; speaking; theory; idea\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootvaada}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvaadin}{\adjectiveroot{\dn vaadin}{vaadin}}
 \newcommand{\vaadintemp}{speaking}
 
