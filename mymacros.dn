@@ -3608,6 +3608,15 @@
   &&&\note{\nounrootprANa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootprajJA}{\nounroot{\dn praj~naa}{praj\~{}naa}}
+\newcommand{\prajJAtemp}{wisdom}
+
+\newcommand{\prajJA}{%
+  praj\~{}naa = {\dn praj~naa} = \prajJAtemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootprajJA}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootprakRti}{\nounroot{\dn prak.rti}{prak.rti}}
 \newcommand{\prakRtitemp}{primal/original/uninflected form}
 
