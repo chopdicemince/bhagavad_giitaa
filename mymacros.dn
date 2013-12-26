@@ -3623,6 +3623,12 @@
   &&&\note{\nounrootprajJA}
 }
 
+\newcommand{\prajJasya}{%
+  praj\~{}nasya = {\dn praj~nasya} = \genitivephrase\ wise\\
+  &&&\note{\adjective, \male, \neuter, \genitivecase}\\
+  &&&\note{\nounrootprajJA}
+}
+
 \newcommand{\prajJAn}{%
   praj\~{}naan = {\dn praj~naan} = wise\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
