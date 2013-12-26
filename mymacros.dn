@@ -1215,6 +1215,13 @@
 \newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
 \newcommand{\arthatemp}{purpose; profit; benefit}
 
+\newcommand{\arthaH}{%
+  artha.h = {\dn artha.h} = \arthatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{can be neuter: artham = {\dn artham}}\\
+  &&&\note{\nounrootartha}
+}
+
 \newcommand{\artham}{%
   artham = {\dn artham} = \arthatemp\\
   &&&\note{\noun, \male, \accusativecase}\\
