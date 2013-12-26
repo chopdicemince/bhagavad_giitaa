@@ -4178,10 +4178,7 @@ dies.\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn sammoha.h} = sammoha.h}\\
   &&&\\
-  &&sm.r|ti|&sm.rti.h\\
-  &&&= {\dn sm.rti.h}\\
-  &&&= remembering; memory; desire\\
-  &&&\note{\noun, \female, \nominativecase}\\
+  &&sm.r|ti|&\smRtiH\\
   &&&\\
   &&vi|bhra|ma\h{a}&disturbance; mistake; illusion\\
   &&&\note{\noun, \male, \nominativecase}\\
@@ -4189,10 +4186,7 @@ dies.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sm.rtibhra.m"saadbuddhinaa"so}&sm.r|ti|&sm.rti.h\\
-  &&&= {\dn sm.rti.h}\\
-  &&&= remembering; memory; desire\\
-  &&&\note{\noun, \female, \nominativecase}\\
+  2a&{\dn sm.rtibhra.m"saadbuddhinaa"so}&sm.r|ti|&\smRtiH\\
   &&&\\
   &&bhra.m|"saad|&bhra.m"saat\\
   &&&= {\dn bhra.m"saat}\\

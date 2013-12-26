@@ -4368,6 +4368,16 @@
   &&&\note{\verbrootsmR}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsmRti}{\nounroot{\dn sm.rti}{sm.rti}}
+\newcommand{\smRtitemp}{remembering;\\
+  &&&tradition or literature based on memory}
+
+\newcommand{\smRtiH}{%
+  sm.rti.h = {\dn sm.rti.h} = \smRtitemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootsmRti}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsthaana}{\nounroot{\dn sthaana}{sthaana}}
 \newcommand{\sthaanatemp}{site; standing; staying; steadfastness}
 
