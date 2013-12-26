@@ -2105,6 +2105,14 @@
   &&&\note{\nounrootdveSa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\dhyAyataH}{%
+  dhyaayata.h = {\dn dhyaayata.h}\\
+  &&&= \ablativephrase/\genitivephrase\ thinking\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\adjectiveroot{\dn dhyaayata}{dhyaayata}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootgam}{\verbroot{\dn gam}{gam}}
 
 \newcommand{\gacchati}{%
