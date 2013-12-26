@@ -1239,7 +1239,7 @@
 \newcommand{\arthebhyaH}{%
   arthebhya.h = {\dn arthebhya.h}\\
   &&&= \dativephrase/\ablativephrase\ a/the \arthatemp\\
-  &&&\note{\noun, \male, \neuter}\\
+  &&&\note{\noun, \male, \neuter, \plural}\\
   &&&\note{\dativecase, \ablativecase}\\
   &&&\note{\nounrootartha}
 }
