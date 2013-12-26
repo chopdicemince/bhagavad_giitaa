@@ -2319,6 +2319,16 @@
   &&&\note{\nounrootjagat}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
+\newcommand{\janmatemp}{birth}
+
+\newcommand{\janma}{%
+  janma = {\dn janma} = (\vocativephrase) \janmatemp\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounrootjanma}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\jJAnI}{man of knowledge}
 \newcommand{\notejJAnI}{\note{\noun, \male}}
 % ------------------------------------------------------------------------------

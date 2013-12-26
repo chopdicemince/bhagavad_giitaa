@@ -230,19 +230,13 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\note{\genitivecase}\\
   &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
-  &{\dn janma}&jan|ma&janma.h\\
-  &&&= {\dn janma.h}\\
-  &&&= birth\\
-  &&&\note{\noun, \male}\\
+  &{\dn janma}&jan|ma&\janma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
   1b&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
-  &{\dn janma}&jan|ma&janma.h\\
-  &&&= {\dn janma.h}\\
-  &&&= birth\\
-  &&&\note{\noun, \male}\\
+  &{\dn janma}&jan|ma&\janma\\
   &&&\\
   &{\dn vivasvata.h}&vi|va|sva|ta\h{a}&of Vivasvaan (the sun god)\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -350,9 +344,6 @@ self-magic.\\
   &&&\\
   &&jo|&ja.h = {\dn ja.h} = born\\
   &&&\note{\adjective, \male}\\
-  &&&\note{similar:}\\
-  &&&\note{{\dn janma.h} = janma.h = birth}\\
-  &&&\note{\noun, \male}\\
   &&&\\
   &&'pi&\api\\
   &&&\\
@@ -537,9 +528,7 @@ having abandoned (his) body, does not go toward birth again, (but)
 goes toward me, O Arjuna.\\
 
 \begin{tabular}{llll}
-  1a&{\dn janma}&jan|ma&janmam = {\dn janmam} = birth\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  1a&{\dn janma}&jan|ma&\janma\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
@@ -575,10 +564,7 @@ goes toward me, O Arjuna.\\
   &&&\\
   &{\dn punarjanma}&pu|nar|&\punaH\\
   &&&\\
-  &&jan|ma&janmam\\
-  &&&= {\dn janmam}\\
-  &&&= birth\\
-  &&&\note{\noun, \neuter}\\
+  &&jan|ma&\janma\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2151,9 +2137,7 @@ the action births. Really, having known all those, you will be free.\\
   2a&{\dn karmajaanviddhi}&kar|ma|&\karma\\
   &&&\\
   &&jaan&{\dn jaan}\\
-  &&&= (?)\\
-  &&&\note{similar: \noun, \male, {\dn janma.h} = janma.h}\\
-  &&&\note{= birth}\\
+  &&&= (?) born\\
   &&&\\
   &&vid|dhi&\viddhiH\\
   &&&\\

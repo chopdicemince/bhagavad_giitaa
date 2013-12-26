@@ -2014,10 +2014,7 @@ fact). And the birth of a dead person (is) a North star. From that
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn dhruva.h} = dhruva.h}\\
   &&&\\
-  &{\dn janma}&jan|ma&janma.h\\
-  &&&= {\dn janma.h}\\
-  &&&= birth\\
-  &&&\note{\noun, \male, \nominativecase}\\
+  &{\dn janma}&jan|ma&\janma\\
   &&&\\
   &{\dn m.rtasya}&m.r|ta|sya&of a dead person (?)\\
   &&&\note{\noun, \male, \genitivecase}\\
@@ -3037,8 +3034,7 @@ special action; to much enjoyment-wealth-movement.''\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn janmakarmaphalapradaam}&jan|ma|&janma.h = {\dn janma.h} = birth\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn janmakarmaphalapradaam}&jan|ma|&\janma\\
   &&&\\
   &&kar|ma|&\karma\\
   &&&\\
@@ -3540,10 +3536,7 @@ fruit(s)/result(s), (are) birth-bondage-free. (They) go (to) a place
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn janmabandhavinirmuktaa.h}&jan|ma|&janma.h\\
-  &&&= {\dn janma.h}\\
-  &&&= birth\\
-  &&&\note{\noun, \male}\\
+  2a&{\dn janmabandhavinirmuktaa.h}&jan|ma|&\janma\\
   &&&\\
   &&ban|dha|&bandha.h\\
   &&&= {\dn bandha.h}\\
