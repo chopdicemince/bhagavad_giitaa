@@ -4905,6 +4905,15 @@
   &&&\note{\adjectiverootvaadin}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvaayu}{\nounroot{\dn vaayu}{vaayu}}
+\newcommand{\vaayutemp}{(god of) wind; air}
+
+\newcommand{\vAyuH}{%
+  vaayu.h = {\dn vaayu.h} = \vaayutemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootvaayu}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvacana}{\adjectiveroot{\dn vacana}{vacana}}
 \newcommand{\vacanatemp}{speaking}
 
