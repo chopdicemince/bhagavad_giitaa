@@ -4181,6 +4181,11 @@
   &&&\note{\adjectiverootsarva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\sarvatra}{%
+  sarvatra = {\dn sarvatra} = everywhere\\
+  &&&\note{\adverb, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\SaT}{six}
 \newcommand{\noteSaT}{\note{\noun, \allgenders, \plural, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}}

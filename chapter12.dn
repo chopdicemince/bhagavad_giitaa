@@ -198,9 +198,7 @@ best-standing, the non-moving, the fixed, \dots\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn sarvatragamacintya.m}&sar|va|tra|&{\dn sarvatra}\\
-  &&&= everywhere\\
-  &&&\note{\adverb, \indeclinable}\\
+  2a&{\dn sarvatragamacintya.m}&sar|va|tra|&\sarvatra\\
   &&&\\
   &&ga|ma|&gam = {\dn gam} = ``to go''\\
   &&&\note{\verbb, root}\\
@@ -265,8 +263,7 @@ each-being-good.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn sarvatra}&sar|va|tra&everywhere\\
-  &&&\note{\adverb, \indeclinable}\\
+  1b&{\dn sarvatra}&sar|va|tra&\sarvatra\\
   &&&\\
   &{\dn samabuddhaya.h}&sa|ma|&{\dn sama}\\
   &&&= \sama\\
