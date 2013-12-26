@@ -3616,6 +3616,12 @@
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootprajJA}
 }
+
+\newcommand{\prajJAm}{%
+  praj\~{}naam = {\dn praj~naam} = \prajJAtemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootprajJA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprakRti}{\nounroot{\dn prak.rti}{prak.rti}}
 \newcommand{\prakRtitemp}{primal/original/uninflected form}
