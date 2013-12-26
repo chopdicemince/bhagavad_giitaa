@@ -2415,6 +2415,15 @@
   &&&\note{\accusativecase}\\
   &&&\note{\adjectiverootja}
 }
+
+\newcommand{\jaiH}{%
+  jai.h = {\dn jai.h} = \instrumentalphrase\\
+  &&&\jatemp; born things; births\\
+  &&&\note{\plural, \instrumentalcase}\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\adjectiverootja}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
