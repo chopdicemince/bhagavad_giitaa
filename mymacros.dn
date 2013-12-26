@@ -1273,6 +1273,13 @@
   &&&\note{\locativecase}\\
   &&&\note{\nounrootartha}
 }
+
+\newcommand{\arthii}{%
+  arthii = {\dn arthii} = person of\\
+  &&&\arthatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootartha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootasu}{\nounroot{\dn asu}{asu}}
 \newcommand{\asupluraltemp}{breaths; lives; life; spirits}
