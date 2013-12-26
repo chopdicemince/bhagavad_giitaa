@@ -1105,6 +1105,17 @@
   &&&\note{\nounrootagni}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootaizvarya}{\nounroot{\dn ai"svarya}{ai"svarya}}
+\newcommand{\aizvaryatemp}{supremacy; power; wealth}
+
+\newcommand{\aizvaryam}{%
+  ai"svaryam = {\dn ai"svaryam}\\
+  &&&= \aizvaryatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootaizvarya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootanudRS}{\verbroot{\dn anud.r.s}{anud.r.s}}
 
 \newcommand{\anupazyati}{%
