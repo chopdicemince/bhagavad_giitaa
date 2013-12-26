@@ -1214,6 +1214,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootartha}{\nounroot{\dn artha}{artha}}
 \newcommand{\arthatemp}{purpose; profit; benefit}
+\newcommand{\arthapluraltemp}{purposes; profits; benefits}
 
 \newcommand{\arthaH}{%
   artha.h = {\dn artha.h} = \arthatemp\\
@@ -1236,6 +1237,13 @@
   &&&\note{\nounrootartha}
 }
 
+\newcommand{\arthaan}{%
+  arthaan = {\dn arthaan}\\
+  &&&= \arthapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootartha}
+}
+
 \newcommand{\arthebhyaH}{%
   arthebhya.h = {\dn arthebhya.h}\\
   &&&= \dativephrase/\ablativephrase\ a/the \arthatemp\\
@@ -1246,7 +1254,7 @@
 
 \newcommand{\artheSu}{%
   arthe.su = {\dn arthe.su}\\
-  &&&= \locativephrase\ purposes; profits; benefits\\
+  &&&= \locativephrase\ \arthapluraltemp\\
   &&&\note{\noun, \male, \neuter, \plural}\\
   &&&\note{\locativecase}\\
   &&&\note{\nounrootartha}
