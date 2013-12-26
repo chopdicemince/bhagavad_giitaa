@@ -974,6 +974,16 @@
   &&&\note{\verbrootaap}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootaasthita}{\adjectiveroot{\dn aasthita}{aasthita}}
+\newcommand{\aasthitatemp}{sitting; seated; staying}
+
+\newcommand{\AsthitaH}{%
+  aasthita.h = {\dn aasthita.h}\\
+  &&&= \aasthitatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootaasthita}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaasura}{\adjectiveroot{\dn aasura}{aasura}}
 \newcommand{\aasuratemp}{demoniacal}
 
