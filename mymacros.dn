@@ -1330,6 +1330,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootavasthita}
 }
+
+\newcommand{\avasthitaan}{%
+  avasthitaan = {\dn avasthitaan}\\
+  &&&= \avasthitatemp\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\adjectiverootavasthita}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootbahu}{\adjectiveroot{\dn bahu}{bahu}}
 \newcommand{\bahutemp}{many/much}
