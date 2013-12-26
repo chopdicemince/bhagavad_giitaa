@@ -4889,6 +4889,12 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootvaza}
 }
+
+\newcommand{\vazam}{%
+  va"sam = {\dn va"sam} = \vazatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootvaza}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootveda}{\nounroot{\dn veda}{veda}}
 \newcommand{\vedatemp}{(piece of) (sacred) knowledge}
