@@ -1965,6 +1965,14 @@
   &&&\note{\accusativecase}\\
   &&&\note{\adjectiverootduura}
 }
+
+\newcommand{\dUreNa}{%
+  duure.na = {\dn duure.na} = \instrumentalphrase\\
+  &&&\duuratemp; distance\\
+  &&&\note{\adjective, \male, \neuter, \instrumentalcase}\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\adjectiverootduura}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootdvaara}{\nounroot{\dn dvaara}{dvaara}}
 \newcommand{\dvaaratemp}{door; gate; entrance}
