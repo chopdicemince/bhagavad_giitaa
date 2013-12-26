@@ -1323,6 +1323,15 @@
 \newcommand{\adjectiverootavasthita}{\adjectiveroot{\dn avasthita}{avasthita}}
 \newcommand{\avasthitatemp}{\sthitatemp}
 
+\newcommand{\avasthitam}{%
+  avasthitam = {\dn avasthitam}\\
+  &&&= \avasthitatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootavasthita}
+}
+
 \newcommand{\avasthitAH}{%
   avasthitaa.h = {\dn avasthitaa.h}\\
   &&&= (\vocativephrase) \avasthitatemp\\
