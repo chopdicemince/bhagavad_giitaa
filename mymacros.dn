@@ -4393,6 +4393,14 @@
   &&&\note{\adjective, \noun, \male, \nominativecase}\\
   &&&\note{\adjectiverootvaada}
 }
+
+\newcommand{\vaadaan}{%
+  vaadaan = {\dn vaadaan} = \vaadatemp;\\
+  &&&sounds; speaking; theories; ideas\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootvaada}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvaadin}{\adjectiveroot{\dn vaadin}{vaadin}}
 \newcommand{\vaadintemp}{speaking}
