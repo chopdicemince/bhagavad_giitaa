@@ -3608,6 +3608,14 @@
   &&&\note{\nounrootprANa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootprajJA}{\verbroot{\dn praj~naa}{praj\~{}naa}}
+
+\newcommand{\prajaanaati}{%
+  prajaanaati = {\dn prajaanaati} = \hesheit\ knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootprajJA}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootprajJA}{\nounroot{\dn praj~naa}{praj\~{}naa}}
 \newcommand{\prajJAtemp}{wisdom}
 
