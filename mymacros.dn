@@ -2408,6 +2408,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootja}
 }
+
+\newcommand{\jaan}{%
+  jaan = {\dn jaan} = \jatemp; born things; births\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootja}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
