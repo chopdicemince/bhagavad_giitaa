@@ -3615,6 +3615,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootprajJA}
 }
+
+\newcommand{\prajaanaami}{%
+  prajaanaami = {\dn prajaanaami} = \I\ know\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootprajJA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprajJA}{\nounroot{\dn praj~naa}{praj\~{}naa}}
 \newcommand{\prajJAtemp}{wisdom}
