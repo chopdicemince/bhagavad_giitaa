@@ -1953,6 +1953,16 @@
   &&&\note{\nounrootdharma}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootdhii}{\nounroot{\dn dhii}{dhii}}
+\newcommand{\dhiipluraltemp}{(pieces of) knowledge; wisdom; thoughts}
+
+\newcommand{\dhIH}{%
+  dhii.h = {\dn dhii.h}\\
+  &&&= \dhiipluraltemp\\
+  &&&\note{\noun, \female, \plural, \accusativecase}\\
+  &&&\note{\nounrootdhii}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\dRSTvA}{%
   d.r.s.tvaa = {\dn d.r.s.tvaa} = having seen\\
   &&&\note{\verbb, \perfectparticiple}\\
