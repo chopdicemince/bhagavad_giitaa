@@ -3759,6 +3759,16 @@
   &&&\note{\nounrootsaGkhya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsaMvAda}{\nounroot{\dn sa.mvaada}{sa.mvaada}}
+\newcommand{\saMvAdatemp}{``same + speaking''\\
+  &&&= speaking; communication; agreement}
+
+\newcommand{\saMvAdam}{%
+  sa.mvaadam = {\dn sa.mvaadam} = \saMvAdatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootsaMvAda}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsarva}{\adjectiveroot{\dn sarva}{sarva}}
 \newcommand{\sarvatemp}{each; all}
 
