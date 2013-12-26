@@ -4547,6 +4547,16 @@
   &&&\note{\nounrootsuudana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsvaadhyaaya}{\nounroot{\dn svaadhyaaya}{svaadhyaaya}}
+\newcommand{\svaadhyaayatemp}{studying; reciting; repeating}
+
+\newcommand{\svAdhyAyaH}{%
+  svaadhyaaya.h = {\dn svaadhyaaya.h}\\
+  &&&= \svaadhyaayatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsvaadhyaaya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsva}{\adjectiveroot{\dn sva}{sva}}
 \newcommand{\svatemp}{self}
 
