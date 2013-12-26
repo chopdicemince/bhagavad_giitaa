@@ -2385,6 +2385,15 @@
   &&&\note{\nounrootjagat}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootja}{\adjectiveroot{\dn ja}{ja}}
+\newcommand{\jatemp}{born}
+
+\newcommand{\jaH}{%
+  ja.h = {\dn ja.h} = \jatemp; born thing; birth\\
+  &&&\note{\adjective, \noun, \male, \nominativecase}\\
+  &&&\note{\adjectiverootja}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
 \newcommand{\janmapluraltemp}{births}
