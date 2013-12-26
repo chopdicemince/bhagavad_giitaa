@@ -505,10 +505,7 @@ sexual-desire-(motive)?\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
-  &&pra|ti|.s.tha.m&prati.s.tham\\
-  &&&= {\dn prati.s.tham}\\
-  &&&= steadfast\\
-  &&&\note{\adjective, \neuter}\\
+  &&pra|ti|.s.tha.m&\pratiSTham\\
   &&&\\
   &{\dn te}&te&\te\\
   % ----------------------------------------------------------------------------

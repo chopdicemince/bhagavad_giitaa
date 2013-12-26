@@ -4610,11 +4610,7 @@ instead of the usual eight.)\\
   &&ca|la|&cala = {\dn cala} = moving\\
   &&& \note{\adjective}\\
   &&&\\
-  &&pra|ti|.s.tha.m&prati.s.tham = {\dn prati.s.tham}\\
-  &&&= firm; steadfast; great\\
-  &&&\note{\adjective}\\
-  &&&\note{\male, \accusativecase}\\
-  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&pra|ti|.s.tha.m&\pratiSTham\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

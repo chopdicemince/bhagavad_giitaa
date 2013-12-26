@@ -3714,6 +3714,18 @@
   &&&\note{\verbrootpradRS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootpratiSTha}{\adjectiveroot{\dn prati.s.tha}{prati.s.tha}}
+\newcommand{\pratiSThatemp}{steadfast}
+
+\newcommand{\pratiSTham}{%
+  prati.s.tham = {\dn prati.s.tham} = \pratiSThatemp;\\
+  &&&center; base; point of support\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\adjective, \noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpratiSTha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpratiSThita}{\adjectiveroot{\dn prati.s.thita}{prati.s.thita}}
 \newcommand{\pratiSThitatemp}{complete; established; steadfast}
 
