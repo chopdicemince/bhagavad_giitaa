@@ -3127,7 +3127,7 @@
 
 \newcommand{\muneH}{%
   mune.h = {\dn mune.h} = \ablativephrase/\genitivephrase\ a/the\\
-  &&&= \munipluraltemp\\
+  &&&\munitemp\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{\nounrootmuni}
