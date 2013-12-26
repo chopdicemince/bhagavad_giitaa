@@ -4881,6 +4881,15 @@
   &&&\note{\suffix}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvaza}{\nounroot{\dn va"sa}{va"sa}}
+\newcommand{\vazatemp}{control; power}
+
+\newcommand{\vazaH}{%
+  va"sa.h = {\dn va"sa.h} = \vazatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootvaza}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootveda}{\nounroot{\dn veda}{veda}}
 \newcommand{\vedatemp}{(piece of) (sacred) knowledge}
 \newcommand{\vedapluraltemp}{(pieces of) (sacred) knowledge}
