@@ -2943,6 +2943,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootmanas}{\nounroot{\dn manas}{manas}}
 \newcommand{\manatemp}{mind}
+\newcommand{\manaspluraltemp}{minds}
 
 \newcommand{\manaH}{%
   mana.h = {\dn mana.h} = manas = {\dn manas}\\
@@ -2957,6 +2958,13 @@
   manaa.h = {\dn manaa.h} = (\vocativephrase) mental\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootmanas}
+}
+
+\newcommand{\manobhiH}{%
+  manobhi.h = {\dn manobhi.h}\\
+  &&&= \instrumentalphrase\ \manaspluraltemp\\
+  &&&\note{\noun, \plural, \instrumentalcase}\\
   &&&\note{\nounrootmanas}
 }
 % ------------------------------------------------------------------------------
