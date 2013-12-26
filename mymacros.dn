@@ -2402,6 +2402,15 @@
   &&&\note{\adjectiverootja}
 }
 
+\newcommand{\jena}{%
+  jena = {\dn jena} = \instrumentalphrase\ a/the\\
+  &&&\jatemp; born thing; birth\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\adjective, \neuter}\\
+  &&&\note{\adjectiverootja}
+}
+
 \newcommand{\jAH}{%
   jaa.h = {\dn jaa.h} = (\vocativephrase) \jatemp; born things; births\\
   &&&\note{\adjective, \noun, \male, \plural}\\
