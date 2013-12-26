@@ -3994,6 +3994,18 @@
   &&&\note{\nounrootsaMvAda}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
+\newcommand{\samupasthitatemp}{steadfast}
+
+\newcommand{\samupasthitam}{%
+  samupasthitam = {\dn samupasthitam}\\
+  &&&= \samupasthitatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsamupasthita}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsarva}{\adjectiveroot{\dn sarva}{sarva}}
 \newcommand{\sarvatemp}{each; all}
 
