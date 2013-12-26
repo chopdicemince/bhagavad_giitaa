@@ -2840,6 +2840,19 @@
   &&&\note{\adjectiverootmahat}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootmanISin}{\adjectiveroot{\dn manii.sin}{manii.sin}}
+\newcommand{\manISintemp}{wise (man)}
+\newcommand{\manISinpluraltemp}{wise (men)}
+
+\newcommand{\manISinaH}{%
+  manii.sina.h = {\dn manii.sina.h}\\
+  &&&= \ablativephrase/\genitivephrase\ \manISintemp; (\vocativephrase) \manISinpluraltemp\\
+  &&&\note{\adjective, \noun, \male}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\plural, \nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootmanISin}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootmata}{\nounroot{\dn mata}{mata}}
 \newcommand{\matatemp}{vote; opinion; approval}
 
