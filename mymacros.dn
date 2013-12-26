@@ -983,6 +983,14 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootaasthita}
 }
+
+\newcommand{\AsthitAH}{%
+  aasthitaa.h = {\dn aasthitaa.h}\\
+  &&&= (\vocativephrase) \aasthitatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootaasthita}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaasura}{\adjectiveroot{\dn aasura}{aasura}}
 \newcommand{\aasuratemp}{demoniacal}
