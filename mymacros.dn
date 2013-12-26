@@ -1230,6 +1230,13 @@
   &&&\note{\nounrootartha}
 }
 
+\newcommand{\arthaaya}{%
+  arthaaya = {\dn arthaaya} = \dativephrase\ a/the\\
+  &&&\arthatemp\\
+  &&&\note{\noun, \male, \neuter, \dativecase}\\
+  &&&\note{\nounrootartha}
+}
+
 \newcommand{\arthaat}{%
   arthaat = {\dn arthaat} = \ablativephrase\ a/the\\
   &&&\arthatemp\\
