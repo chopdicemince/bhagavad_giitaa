@@ -1354,9 +1354,7 @@ killed.\\
 \begin{tabular}{llll}
   1a&{\dn ya}&ya&\yaH\\
   &&&\\
-  &{\dn ena.m}&e|na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &{\dn ena.m}&e|na.m&\enam\\
   &&&\\
   &{\dn vetti}&vet|ti&(he/she/it) feels; knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1374,9 +1372,7 @@ killed.\\
   &&&\\
   &&cai|&\ca\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn manyate}&ma|nya|te&(he/she/it) thinks\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1545,9 +1541,7 @@ P.rthaa (O Arjuna), have (something) killed, (or) kill (something)?\\
 \begin{tabular}{llll}
   1b&{\dn ya}&ya&\yaH\\
   &&&\\
-  &{\dn enamajamavyayam}&e|na|ma|&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &{\dn enamajamavyayam}&e|na|ma|&\enam\\
   &&&\\
   &&|&\aprefix\\
   &&&\\
@@ -1684,9 +1678,7 @@ and water does not wet this. Wind does not dry (this).\\
 \begin{tabular}{llll}
   1a&{\dn naina.m}&nai|&\na\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn chindanti}&chin|dan|ti&(?) (they) cut\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
@@ -1698,9 +1690,7 @@ and water does not wet this. Wind does not dry (this).\\
   &&&\\
   1b&{\dn naina.m}&nai|&\na\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn dahati}&da|ha|ti&(he/she/it) distresses; burns\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -1716,9 +1706,7 @@ and water does not wet this. Wind does not dry (this).\\
   &&&\\
   &{\dn caina.m}&cai|&\ca\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn kledayantyaapo}&kle|da|yan|tyaa|&kledayanti\\
   &&&= {\dn kledayanti}\\
@@ -1878,9 +1866,7 @@ having known this, (you) are not able to lament.\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn vid} = vid}\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1913,9 +1899,7 @@ Arjuna), are not able to lament this.\\
   &&&\\
   &{\dn caina.m}&cai|&\ca\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn nityajaata.m}&ni|tya|&\nityaH\\
   &&&\\
@@ -1956,9 +1940,7 @@ Arjuna), are not able to lament this.\\
   &&&\\
   2b&{\dn naina.m}&nai|&\na\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn "socitumarhasi}&"so|ci|tu|mar|&\zocitum\\
   &&&\\
@@ -2118,9 +2100,7 @@ are eleven, twelve, eleven, and eleven, instead of the usual eight.\\
   &&&\\
   &{\dn ka"scidenam}&ka"s|ci|de&\kazcit\\
   &&&\\
-  &&nam&enam = {\dn enam} = this (?)\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&nam&\enam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2150,9 +2130,7 @@ are eleven, twelve, eleven, and eleven, instead of the usual eight.\\
   &&&\\
   &&cai|&\ca\\
   &&&\\
-  &&na|ma|&enam = {\dn enam} = this (?)\\
-  &&&\note{\pronoun, \male, \accusativecase}\\
-  &&&\note{from {\dn ena.h} = ena.h}\\
+  &&na|ma|&\enam\\
   &&&\\
   &&nya\h{a}&\anyaH\\
   &&&\\
@@ -4705,8 +4683,7 @@ God-complete-happiness.\\
   &&&\\
   1b&{\dn nainaa.m}&nai|&\na\\
   &&&\\
-  &&naa.m&enam = {\dn enam} = he/she/it/this/that\\
-  &&&\note{\pronoun}\\
+  &&naa.m&\enam\\
   &&&\\
   &{\dn praapya}&praa|pya&accessible; attainable; suitable\\
   &&&\note{\adjective}\\

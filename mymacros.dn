@@ -2113,6 +2113,12 @@
   &&&\note{\adjectiveroot{\dn dhyaayata}{dhyaayata}}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\enam}{%
+  enam = {\dn enam} = (?) this\\
+  &&&\note{\pronoun, \demonstrative, \male, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootgam}{\verbroot{\dn gam}{gam}}
 
 \newcommand{\gacchati}{%

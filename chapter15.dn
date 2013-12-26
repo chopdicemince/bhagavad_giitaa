@@ -244,8 +244,7 @@ syllables.)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn a"svattha.h} = a"svattha.h}\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this/that/he/she/it\\
-  &&&\note{\pronoun, \thirdperson}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn suviruu.dhamuulam}&su|&{\dn su} = good; very\\
   &&&\note{\prefix}\\
@@ -805,8 +804,7 @@ not see this (situation).\\
   &&&\\
   &&cai|&\ca\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this/that/he/she/it\\
-  &&&\note{\pronoun, \thirdperson}\\
+  &&na.m&\enam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -842,8 +840,7 @@ not see this (situation).\\
   &&&\\
   2b&{\dn naina.m}&nai|&\na\\
   &&&\\
-  &&na.m&enam = {\dn enam} = this/that/he/she/it\\
-  &&&\note{\pronoun, \thirdperson}\\
+  &&na.m&\enam\\
   &&&\\
   &{\dn pa"syantyacetasa.h}&pa|"syan|tya|&\pazyanti\\
   &&&\\
