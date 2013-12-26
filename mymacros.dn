@@ -5490,6 +5490,16 @@
   &&&\note{\nounrootzubha}
 }
 
+\newcommand{\zubhAt}{%
+  "subhaat = {\dn "subhaat} = \ablativephrase\\
+  &&&\zubhatemp;\\
+  &&&auspicious; good; beautiful\\
+  &&&\note{\ablativecase}\\
+  &&&\note{\noun, \adjective, \neuter}\\
+  &&&\note{\adjective, \male}\\
+  &&&\note{\nounrootzubha}
+}
+
 \newcommand{\zubhaan}{%
   "subhaan = {\dn "subhaan}\\
   &&&= auspicious; good; beautiful\\
