@@ -3984,19 +3984,13 @@ this (new, better) taste, having seen more, (the man) stops.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn rasavarja.m}&ra|sa|&rasa.h\\
-  &&&= {\dn rasa.h}\\
-  &&&= taste; seasoning; mixture\\
-  &&&\note{\noun, \male}\\
+  2a&{\dn rasavarja.m}&ra|sa|&\rasaH\\
   &&&\\
   &&var|ja.m&leaving out\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn varja.h} = varja.h}\\
   &&&\\
-  &{\dn raso.apyasya}&ra|so|&rasa.h\\
-  &&&= {\dn rasa.h}\\
-  &&&= taste; seasoning; mixture\\
-  &&&\note{\noun, \male}\\
+  &{\dn raso.apyasya}&ra|so|&\rasaH\\
   &&&\\
   &&'pya|&\api\\
   &&&\\
