@@ -1248,8 +1248,7 @@ are standing (with) God.\\
   &&&\\
   &{\dn sthita.m}&sthi|ta.m&\sthitam\\
   &&&\\
-  &{\dn mana.h}&ma|na\h{a}&mind\\
-  &&&\note{\noun, \male}\\
+  &{\dn mana.h}&ma|na\h{a}&\manaH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1882,10 +1881,7 @@ freed, really---he.\\
   &&&\\
   &&dri|va|ma|&\indriyam\\
   &&&\\
-  &&no|&mana.h\\
-  &&&= {\dn mana.h}\\
-  &&&= mind\\
-  &&&\note{\noun, \male}\\
+  &&no|&\manaH\\
   &&&\\
   &&bud|dhir|&\buddhiH\\
   % ----------------------------------------------------------------------------

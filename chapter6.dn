@@ -752,8 +752,7 @@ is virtuous.\\
   &&&= apex; origin\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &{\dn mana.h}&ma|na\h{a}&mind\\
-  &&&\note{\noun, \male}\\
+  &{\dn mana.h}&ma|na\h{a}&\manaH\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&\kRtvA\\
   % ----------------------------------------------------------------------------
@@ -937,8 +936,7 @@ mind, a mind from me, yoked, seated, best from me.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn mana.h}&ma|na\h{a}&mind\\
-  &&&\note{\noun, \male}\\
+  2a&{\dn mana.h}&ma|na\h{a}&\manaH\\
   &&&\\
   &{\dn sa.myamya}&sa.m|ya|mya&subdued\\
   &&&\note{\adjective}\\
@@ -1666,8 +1664,7 @@ may think of not any (thing), also.\\
   &&&\note{from: \adjective, {\dn sama} = sama}\\
   &&&\note{from: \adjective, \male, {\dn stha.h} = stha.h}\\
   &&&\\
-  &{\dn mana.h}&ma|na\h{a}&mind\\
-  &&&\note{\noun, \male}\\
+  &{\dn mana.h}&ma|na\h{a}&\manaH\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&\kRtvA\\
   % ----------------------------------------------------------------------------
@@ -1704,10 +1701,7 @@ mind) to be restrained may lead in (into) the self, really.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mana"sca~ncalamasthiram}&ma|na"s|&mana.h\\
-  &&&= {\dn mana.h}\\
-  &&&= mind\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn mana"sca~ncalamasthiram}&ma|na"s|&\manaH\\
   &&&\\
   &&ca\~{}n|ca|la|ma|&ca\~{}ncalam\\
   &&&= {\dn ca~ncalam}\\
@@ -2200,8 +2194,7 @@ iron. I think the confinement of it is as if greatly (more) difficult
   &&&\\
   &{\dn hi}&hi&\hi\\
   &&&\\
-  &{\dn mana.h}&ma|na\h{a}&mind\\
-  &&&\note{\noun, \male}\\
+  &{\dn mana.h}&ma|na\h{a}&\manaH\\
   &&&\\
   &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
   % ----------------------------------------------------------------------------
@@ -2289,10 +2282,7 @@ aversion, (it can be) domesticated.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mano}&ma|no&mana.h\\
-  &&&= {\dn mana.h}\\
-  &&&= mind\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn mano}&ma|no&\manaH\\
   &&&\\
   &{\dn durnigraha.m}&dur|ni|gra|ha.m&durnigraham\\
   &&&= {\dn durnigraham}\\

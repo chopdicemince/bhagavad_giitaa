@@ -453,10 +453,7 @@ Therefore, at all times, remembering me, fight, and, (with your) mind
   &&&= placed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|no|&mana.h\\
-  &&&= {\dn mana.h}\\
-  &&&= mind\\
-  &&&\note{\noun, \male}\\
+  &&ma|no|&\manaH\\
   &&&\\
   &&bud|dhir|&\buddhiH\\
   % ----------------------------------------------------------------------------
@@ -848,10 +845,7 @@ situations) are of people remembering yoking.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn mano}&ma|no&mana.h\\
-  &&&= {\dn mana.h}\\
-  &&&= mind\\
-  &&&\note{\noun, \male}\\
+  1b&{\dn mano}&ma|no&\manaH\\
   &&&\\
   &{\dn h.rdi}&h.r|di&(?) at/in/on a/the heart\\
   &&&\note{\noun, \neuter, \locativecase}\\
