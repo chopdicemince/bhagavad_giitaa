@@ -1144,11 +1144,20 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootanta}{\nounroot{\dn anta}{anta}}
-\newcommand{\antatemp}{end; boundary; in}
+\newcommand{\antatemp}{end; boundary; near}
 
 \newcommand{\antaH}{%
-  anta.h = {\dn anta.h} = \antatemp\\
-  &&&\note{\noun, \male, \nominativecase, \preposition}\\
+  anta.h = {\dn anta.h} = \antatemp; in\\
+  &&&\note{\noun, \adjective, \male}\\
+  &&&\note{\nominativecase, \preposition}\\
+  &&&\note{\nounrootanta}
+}
+
+\newcommand{\antam}{%
+  antam = {\dn antam} = \antatemp\\
+  &&&\note{\noun, \adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounrootanta}
 }
 % ------------------------------------------------------------------------------

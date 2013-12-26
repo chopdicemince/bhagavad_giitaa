@@ -787,10 +787,7 @@ all-directions-fac(ing).\\
   &&&\\
   2b&&ma|nan|&\an\\
   &&&\\
-  &&ta.m&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta.m&\antam\\
   &&&\\
   &{\dn vi"svatomukham}&vi|"sva|to|&vi"svata.h\\
   &&&= {\dn vi"svata.h}\\
@@ -1162,10 +1159,7 @@ instead of the usual eight.)\\
   &&&\\
   &&'nan|&\an\\
   &&&\\
-  &&ta|&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta|&\antam\\
   &&&\\
   &&ruu|pam&\ruupam\\
 \end{tabular}
@@ -1174,11 +1168,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn naanta.m}&naan|&\na\\
   &&&\\
-  &&ta.m&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn anta.h} = anta.h}\\
+  &&ta.m&\antam\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
@@ -1452,18 +1442,12 @@ instead of the usual eight.)\\
   &&&= middle\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&ta|ma|&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta|ma|&\antam\\
   &&&\\
   &&nan|&an = {\dn ab} = not\\
   &&&\note{\prefix}\\
   &&&\\
-  &&ta|&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta|&\antam\\
   &&&\\
   &&viir|yam&{\dn viiryam}\\
   &&&= virility\\
@@ -1474,10 +1458,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1b&{\dn anantabaahu.m}&a|nan|&\an\\
   &&&\\
-  &&ta|&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta|&\antam\\
   &&&\\
   &&baa|hu.m&baahum\\
   &&&= {\dn baahum}\\
@@ -4405,10 +4386,7 @@ main syllables, instead of the usual eight.)\\
   &&&\\
   &&nan|&\an\\
   &&&\\
-  &&ta|maa|&antam\\
-  &&&= {\dn antam}\\
-  &&&= end\\
-  &&&\note{\noun, \neuter}\\
+  &&ta|maa|&\antam\\
   &&&\\
   &&dya.m&aadyam\\
   &&&= {\dn aadyam}\\
