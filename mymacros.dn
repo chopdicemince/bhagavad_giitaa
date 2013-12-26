@@ -3905,23 +3905,6 @@
   &&&\note{\nounrootraajya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\nounrootrasa}{\nounroot{\dn rasa}{rasa}}
-\newcommand{\rasatemp}{liquid; taste; seasoning}
-
-\newcommand{\rasaH}{%
-  rasa.h = {\dn rasa.h}\\
-  &&&= \rasatemp\\
-  &&&\note{\noun, \male, \nominativecase}\\
-  &&&\note{\nounrootrasa}
-}
-
-\newcommand{\rasam}{%
-  rasam = {\dn rasam}\\
-  &&&= \rasatemp\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{\nounrootrasa}
-}
-% ------------------------------------------------------------------------------
 \newcommand{\nounrootrajas}{\nounroot{\dn rajas}{rajas}}
 \newcommand{\rajastemp}{one of the three gu.nas;\\
   &&&passion; emotion; darkness; dirtiness; menses;\\
@@ -3948,6 +3931,23 @@
   &&&= \locativephrase\ \rajastemp\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{\nounrootrajas}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootrasa}{\nounroot{\dn rasa}{rasa}}
+\newcommand{\rasatemp}{liquid; taste; seasoning}
+
+\newcommand{\rasaH}{%
+  rasa.h = {\dn rasa.h}\\
+  &&&= \rasatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootrasa}
+}
+
+\newcommand{\rasam}{%
+  rasam = {\dn rasam}\\
+  &&&= \rasatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootrasa}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\rasanam}{%
