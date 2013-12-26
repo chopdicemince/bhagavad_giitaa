@@ -3717,6 +3717,13 @@
 \newcommand{\adjectiverootpratiSThita}{\adjectiveroot{\dn prati.s.thita}{prati.s.thita}}
 \newcommand{\pratiSThitatemp}{complete; established; steadfast}
 
+\newcommand{\pratiSThitaH}{%
+  prati.s.thita.h = {\dn prati.s.thita.h}\\
+  &&&= \pratiSThitatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootpratiSThita}
+}
+
 \newcommand{\pratiSThitA}{%
   prati.s.thitaa = {\dn prati.s.thitaa}\\
   &&&= \pratiSThitatemp\\
