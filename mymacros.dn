@@ -2852,6 +2852,14 @@
   &&&\note{\plural, \nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootmanISin}
 }
+
+\newcommand{\manISiNAm}{%
+  manii.si.naam = {\dn manii.si.naam}\\
+  &&&= \genitivephrase\ \manISinpluraltemp\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\adjectiverootmanISin}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootmata}{\nounroot{\dn mata}{mata}}
 \newcommand{\matatemp}{vote; opinion; approval}
