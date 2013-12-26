@@ -1955,6 +1955,17 @@
   &&&\note{\nounrootduHkha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootduura}{\adjectiveroot{\dn duura}{duura}}
+\newcommand{\duuratemp}{distant}
+
+\newcommand{\duuram}{%
+  duuram = {\dn duuram} = \duuratemp; distance\\
+  &&&\note{\adjective, \male, \neuter, \accusativecase}\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\adjectiverootduura}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootdvaara}{\nounroot{\dn dvaara}{dvaara}}
 \newcommand{\dvaaratemp}{door; gate; entrance}
 \newcommand{\dvaarapluraltemp}{doors; gates; entrances}
