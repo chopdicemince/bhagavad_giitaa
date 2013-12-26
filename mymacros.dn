@@ -4046,6 +4046,13 @@
   &&&\note{\nounrootsaGga}
 }
 
+\newcommand{\saGgAt}{%
+  sa"ngaat = {\dn sa"ngaat} = \ablativephrase\\
+  &&&\saGgatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootsaGga}
+}
+
 \newcommand{\saGgasya}{%
   sa"ngasya = {\dn sa"ngasya}\\
   &&&= \genitivephrase\ \saGgatemp\\
