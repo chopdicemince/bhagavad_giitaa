@@ -3950,6 +3950,13 @@
   &&&\note{\nounrootrajas}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\rasanam}{%
+  rasanam = {\dn rasanam} = tongue; taste\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroot{\dn rasana}{rasana}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootratha}{\nounroot{\dn ratha}{ratha}}
 \newcommand{\rathatemp}{chariot; cart; warrior; (act of) joy}
 \newcommand{\rathapluraltemp}{chariots; carts; warriors; (acts of) joy}
