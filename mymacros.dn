@@ -4896,6 +4896,13 @@
   &&&\note{\nounrootvaza}
 }
 
+\newcommand{\vazAt}{%
+  va"saat = {\dn va"saat}\\
+  &&&= \ablativephrase\ \vazatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootvaza}
+}
+
 \newcommand{\vaze}{%
   va"se = {\dn va"se}\\
   &&&= \locativephrase\ \vazatemp\\
