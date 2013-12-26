@@ -4185,6 +4185,15 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootsthita}
 }
+
+\newcommand{\sthitam}{%
+  sthitam = {\dn sthitam}\\
+  &&&= \sthitatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsthita}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsukha}{\adjectiveroot{\dn sukha}{sukha}}
 \newcommand{\sukhatemp}{happy; (act of) happiness}
