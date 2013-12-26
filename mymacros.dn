@@ -3714,6 +3714,16 @@
   &&&\note{\verbrootpradRS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootpratiSThita}{\adjectiveroot{\dn prati.s.thita}{prati.s.thita}}
+\newcommand{\pratiSThitatemp}{complete; established; steadfast}
+
+\newcommand{\pratiSThitA}{%
+  prati.s.thitaa = {\dn prati.s.thitaa}\\
+  &&&= \pratiSThitatemp\\
+  &&&\note{\adjective, \female, \nominativecase}\\
+  &&&\note{\adjectiverootpratiSThita}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpriya}{\adjectiveroot{\dn priya}{priya}}
 \newcommand{\priyatemp}{pleasing; pleasant; favorite; loved; dear}
 
