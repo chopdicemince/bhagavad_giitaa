@@ -2968,6 +2968,14 @@
   &&&\note{\nounrootmanas}
 }
 
+\newcommand{\manasaH}{%
+  manasa.h = {\dn manasa.h}\\
+  &&&= \ablativephrase/\genitivephrase\ a/the \manastemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\ablativecase, \genitivecase}\\
+  &&&\note{\nounrootmanas}
+}
+
 \newcommand{\manobhiH}{%
   manobhi.h = {\dn manobhi.h}\\
   &&&= \instrumentalphrase\ \manaspluraltemp\\
