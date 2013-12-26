@@ -4063,6 +4063,13 @@
   &&&\note{\adjectiverootstha}
 }
 
+\newcommand{\sthasya}{%
+  sthasya = {\dn sthasya}\\
+  &&&= \genitivephrase\ \sthatemp\\
+  &&&\note{\adjective, \male, \neuter, \genitivecase}\\
+  &&&\note{\adjectiverootstha}
+}
+
 \newcommand{\sthAH}{%
   sthaa.h = {\dn sthaa.h}\\
   &&&= (\vocativephrase) \sthatemp\\
