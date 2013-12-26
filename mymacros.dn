@@ -3622,6 +3622,12 @@
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{\nounrootprajJA}
 }
+
+\newcommand{\prajJAn}{%
+  praj\~{}naan = {\dn praj~naan} = wise\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootprajJA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprakRti}{\nounroot{\dn prak.rti}{prak.rti}}
 \newcommand{\prakRtitemp}{primal/original/uninflected form}
