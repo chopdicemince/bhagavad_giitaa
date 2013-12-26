@@ -1144,10 +1144,10 @@
   &&&\note{\verbrootanusmR}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\anvicchatu}{%
-  anvicchatu = {\dn anvicchatu}\\
-  &&&= \hesheit\ desires; wants; wishes; seeks\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
+\newcommand{\anviccha}{%
+  anviccha = {\dn anviccha}\\
+  &&&= \you\ desire; want; wish; seek\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{\verbroot{\dn anvi.s}{anvi.s}}
 }
 % ------------------------------------------------------------------------------
