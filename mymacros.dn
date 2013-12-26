@@ -3736,6 +3736,15 @@
   &&&\note{\adjectiverootpratiSThita}
 }
 
+\newcommand{\pratiSThitam}{%
+  prati.s.thitam = {\dn prati.s.thitam}\\
+  &&&= \pratiSThitatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpratiSThita}
+}
+
 \newcommand{\pratiSThitA}{%
   prati.s.thitaa = {\dn prati.s.thitaa}\\
   &&&= \pratiSThitatemp\\
