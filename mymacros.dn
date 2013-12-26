@@ -3165,6 +3165,12 @@
   &&&\note{\adjectiverootmUDha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\naavam}{%
+  naavam = {\dn naavam} = boat; ship\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounroot{\dn naava}{naava}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootnara}{\nounroot{\dn nara}{nara}}
 \newcommand{\naratemp}{man}
 \newcommand{\narapluraltemp}{men}
