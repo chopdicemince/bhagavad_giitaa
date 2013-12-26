@@ -2321,11 +2321,18 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
+\newcommand{\janmapluraltemp}{births}
 
 \newcommand{\janma}{%
   janma = {\dn janma} = (\vocativephrase) \janmatemp\\
   &&&\note{\noun, \neuter, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounrootjanma}
+}
+
+\newcommand{\janmasu}{%
+  janmasu = {\dn janmasu} = \locativephrase\ \janmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{\nounrootjanma}
 }
 % ------------------------------------------------------------------------------

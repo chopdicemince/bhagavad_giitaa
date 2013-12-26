@@ -1582,12 +1582,7 @@ births (in the different kinds of living things).\\
   &&&= place of birth; female genitals\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&jan|ma|su&{\dn janmasu}\\
-  &&&= (?) janme.su\\
-  &&&= {\dn janme.su}\\
-  &&&= at/in/on births\\
-  &&&\note{\noun, \neuter, \plural, \locativecase}\\
-  &&&\note{from {\dn janmam} = janmam}\\
+  &&jan|ma|su&\janmasu\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
