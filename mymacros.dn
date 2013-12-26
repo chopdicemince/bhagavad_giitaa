@@ -2401,6 +2401,13 @@
   &&&\note{\accusativecase}\\
   &&&\note{\adjectiverootja}
 }
+
+\newcommand{\jAH}{%
+  jaa.h = {\dn jaa.h} = (\vocativephrase) \jatemp; born things; births\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootja}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
