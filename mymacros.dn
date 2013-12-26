@@ -2961,6 +2961,13 @@
   &&&\note{\nounrootmanas}
 }
 
+\newcommand{\manasaa}{%
+  manasaa = {\dn manasaa}\\
+  &&&= \instrumentalphrase\ a/the \manastemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootmanas}
+}
+
 \newcommand{\manobhiH}{%
   manobhi.h = {\dn manobhi.h}\\
   &&&= \instrumentalphrase\ \manaspluraltemp\\
