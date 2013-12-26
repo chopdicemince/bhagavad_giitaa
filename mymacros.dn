@@ -1084,6 +1084,15 @@
   &&&\note{\nounrootaatman}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootabhidhii}{\verbroot{\dn abhidhii}{abhidhii}}
+
+\newcommand{\abhidhiiyate}{%
+  abhidhiiyate = {\dn abhidhiiyate}\\
+  &&&= (?) \hesheit\ thinks about; shines\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootabhidhii}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{%
   adhibhuutam = {\dn adhibhuutam}\\
   &&&= above + being; God; creation\\
