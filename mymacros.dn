@@ -1143,6 +1143,15 @@
   &&&\note{\nounrootaizvarya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootanta}{\nounroot{\dn anta}{anta}}
+\newcommand{\antatemp}{end; boundary; in}
+
+\newcommand{\antaH}{%
+  anta.h = {\dn anta.h} = \antatemp\\
+  &&&\note{\noun, \male, \nominativecase, \preposition}\\
+  &&&\note{\nounrootanta}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootanudRS}{\verbroot{\dn anud.r.s}{anud.r.s}}
 
 \newcommand{\anupazyati}{%

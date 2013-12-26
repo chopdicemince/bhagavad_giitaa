@@ -2045,9 +2045,7 @@ instead of the usual eight.)\\
   &&&= pained; perturbed\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ta|raat|&anta.h = {\dn anta.h} = inside\\
-  &&&\note{\noun, \adjective, \adverb, \preposition}\\
-  &&&\note{\indeclinable}\\
+  &&ta|raat|&\antaH\\
   &&&\\
   &&maa&\aatmaa\\
 \end{tabular}
@@ -3363,10 +3361,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2a&{\dn ananta}&a|nan|&\an\\
   &&&\\
-  &&ta&anta.h\\
-  &&&= {\dn anta.h}\\
-  &&&= end\\
-  &&&\note{\noun, \male}\\
+  &&ta&\antaH\\
   &&&\\
   &{\dn deve"sa}&de|ve|"sa&deve"sa.h\\
   &&&= {\dn deve"sa.h}\\
@@ -3502,10 +3497,7 @@ instead of the usual eight.)\\
   &&&\\
   &&nan|&\an\\
   &&&\\
-  &&ta|&anta.h\\
-  &&&= {\dn anta.h}\\
-  &&&= end\\
-  &&&\note{\noun, \male}\\
+  &&ta|&\antaH\\
   &&&\\
   &&ruu|pa&ruupa\\
   &&&= {\dn ruupa}\\
@@ -3679,10 +3671,7 @@ instead of the usual eight.)\\
   &&&\\
   &&a|nan|&\an\\
   &&&\\
-  &&ta|&anta.h\\
-  &&&= {\dn anta.h}\\
-  &&&= end\\
-  &&&\note{\noun, \male}\\
+  &&ta|&\antaH\\
   &&&\\
   &&viir|yaa|&viirya\\
   &&&= {\dn viirya}\\
