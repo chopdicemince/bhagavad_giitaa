@@ -5477,3 +5477,16 @@
   &&&\note{\nounrootzrI}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootzubha}{\nounroot{\dn "subha}{"subha}}
+\newcommand{\zubhatemp}{auspiciousness; goodness; beauty}
+
+\newcommand{\zubham}{%
+  "subham = {\dn "subham}\\
+  &&&= \zubhatemp;\\
+  &&&auspicious; good; beautiful\\
+  &&&\note{\noun, \adjective, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\nounrootzubha}
+}
+
