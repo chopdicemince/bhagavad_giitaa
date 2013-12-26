@@ -4916,6 +4916,15 @@
   &&&\note{\nounrootvaza}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvazya}{\nounroot{\dn va"sya}{va"sya}}
+\newcommand{\vazyatemp}{(like a) vassal}
+
+\newcommand{\vazyaH}{%
+  va"sya.h = {\dn va"sya.h} = \vazyatemp\\
+  &&&\note{\noun, \adjective, \male, \nominativecase}\\
+  &&&\note{\nounrootvazya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootveda}{\nounroot{\dn veda}{veda}}
 \newcommand{\vedatemp}{(piece of) (sacred) knowledge}
 \newcommand{\vedapluraltemp}{(pieces of) (sacred) knowledge}
