@@ -2941,7 +2941,7 @@
   &&&\note{\adjectiverootmahat}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\nounrootmana}{\nounroot{\dn manas}{manas}}
+\newcommand{\nounrootmanas}{\nounroot{\dn manas}{manas}}
 \newcommand{\manatemp}{mind}
 
 \newcommand{\manaH}{%
@@ -2950,7 +2950,14 @@
   &&&\note{\adjective, \male}\\
   &&&\note{\noun, \neuter, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}\\
-  &&&\note{\nounrootmana}
+  &&&\note{\nounrootmanas}
+}
+
+\newcommand{\manAH}{%
+  manaa.h = {\dn manaa.h} = (\vocativephrase) mental\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootmanas}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootmanISin}{\adjectiveroot{\dn manii.sin}{manii.sin}}
