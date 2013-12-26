@@ -5490,3 +5490,9 @@
   &&&\note{\nounrootzubha}
 }
 
+\newcommand{\zubhaan}{%
+  "subhaan = {\dn "subhaan}\\
+  &&&= auspicious; good; beautiful\\
+  &&&\note{\adjective, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootzubha}
+}
