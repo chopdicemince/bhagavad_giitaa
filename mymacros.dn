@@ -2337,6 +2337,13 @@
   &&&\note{\nounrootjanma}
 }
 
+\newcommand{\janmaani}{%
+  janmaani = {\dn janmaani} = (\vocativephrase) \janmapluraltemp\\
+  &&&\note{\noun, \neuter, \plural, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounrootjanma}
+}
+
 \newcommand{\janmasu}{%
   janmasu = {\dn janmasu} = \locativephrase\ \janmapluraltemp\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
