@@ -4243,6 +4243,11 @@
   &&&\note{\adjectiverootsarva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\sarvazaH}{%
+  sarva"sa.h = {\dn sarva"sa.h} = altogether\\
+  &&&\note{\adverb, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\sarvatra}{%
   sarvatra = {\dn sarvatra} = everywhere\\
   &&&\note{\adverb, \indeclinable}
