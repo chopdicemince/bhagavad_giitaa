@@ -2942,12 +2942,12 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootmanas}{\nounroot{\dn manas}{manas}}
-\newcommand{\manatemp}{mind}
+\newcommand{\manastemp}{mind}
 \newcommand{\manaspluraltemp}{minds}
 
 \newcommand{\manaH}{%
   mana.h = {\dn mana.h} = manas = {\dn manas}\\
-  &&&= mental; (\vocativephrase) \manatemp\\
+  &&&= mental; (\vocativephrase) \manastemp\\
   &&&\note{\adjective, \male}\\
   &&&\note{\noun, \neuter, \nominativecase}\\
   &&&\note{\accusativecase, \vocativecase}\\
