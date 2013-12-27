@@ -5179,6 +5179,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootvidha}
 }
+
+\newcommand{\vidhaan}{%
+  vidhaan = {\dn vidhaan}\\
+  &&&= \vidhapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
+  &&&\note{\nounrootvidha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\vidyate}{%
   vidyate = {\dn vidayte} = \hesheit\ is; exists\\
