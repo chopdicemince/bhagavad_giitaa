@@ -2658,6 +2658,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootkaala}
 }
+
+\newcommand{\kaalena}{%
+  kaalena = {\dn kaalena} = \instrumentalphrase\ a/the\\
+  &&&\kaalatemp\\
+  &&&\note{\noun, \male, \instrumentalcase}\\
+  &&&\note{\nounrootkaala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkaama}{\nounroot{\dn kaama}{kaama}}
 \newcommand{\kaamatemp}{desire; love; lust}
