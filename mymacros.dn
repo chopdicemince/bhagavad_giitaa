@@ -2644,6 +2644,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkaala}{\nounroot{\dn kaala}{kaala}}
 \newcommand{\kaalatemp}{time; verb tense; death}
+\newcommand{\kaalapluraltemp}{times; verb tenses; deaths}
 
 \newcommand{\kAlaH}{%
   kaala.h = {\dn kaala.h}\\
@@ -2670,6 +2671,13 @@
   kaale = {\dn kaale} = \locativephrase\ a/the\\
   &&&\kaalatemp\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootkaala}
+}
+
+\newcommand{\kAleSu}{%
+  kaale.su = {\dn kaale.su} = \locativephrase\\
+  &&&\kaalapluraltemp\\
+  &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{\nounrootkaala}
 }
 % ------------------------------------------------------------------------------
