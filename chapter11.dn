@@ -2335,9 +2335,7 @@ instead of the usual eight.)\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn abhimukha.h} = abhimukha.h}\\
   &&&\\
-  &{\dn dravanti}&dra|van|ti&(they) flow; run; melt\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn dru} = dru}\\
+  &{\dn dravanti}&dra|van|ti&\dravanti\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -3149,9 +3147,7 @@ main syllables, instead of the usual eight.)\\
   &&&= direction\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &{\dn dravanti}&dra|van|ti&(they) flow; run; melt\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn dru} = dru}\\
+  &{\dn dravanti}&dra|van|ti&\dravanti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

@@ -2112,6 +2112,15 @@
   &&&\note{\verbrootdRS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootdru}{\verbroot{\dn dru}{dru}}
+
+\newcommand{\dravanti}{%
+  dravanti = {\dn dravanti}\\
+  &&&= \they\ flow; run; melt; attack\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootdru}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootduHkha}{\nounroot{\dn du.hkha}{du.hkha}}
 \newcommand{\duHkhatemp}{(act of) distress; in distress}
 \newcommand{\duHkhatemptemp}{(act of) distress}
