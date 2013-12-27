@@ -2468,6 +2468,13 @@
   &&&\note{\nounrootindriya}
 }
 
+\newcommand{\indriyasya}{%
+  indriyasya = {\dn indriyasya} = \genitivephrase\ a/the\\
+  &&&\indriyatemp\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{\nounrootindriya}
+}
+
 \newcommand{\indriyANi}{%
   indriyaa.ni = {\dn indriyaa.ni}\\
   &&&= (\vocativephrase) \indriyapluraltemp\\
