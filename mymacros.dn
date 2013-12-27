@@ -949,6 +949,12 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootaadi}
 }
+
+\newcommand{\aadim}{%
+  aadim = {\dn aadim} = \aaditemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootaadi}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
