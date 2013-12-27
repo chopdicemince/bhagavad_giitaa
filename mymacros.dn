@@ -3099,6 +3099,13 @@
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{\verbrootlabh}
 }
+
+\newcommand{\labhante}{%
+  labhante = {\dn labhante}\\
+  &&&= \they\ get; learn; know; see\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootlabh}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootloka}{\nounroot{\dn loka}{loka}}
 \newcommand{\lokatemp}{world; mankind; place}
