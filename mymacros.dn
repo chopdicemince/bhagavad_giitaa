@@ -2651,6 +2651,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootkaala}
 }
+
+\newcommand{\kaalam}{%
+  kaalam = {\dn kaalam}\\
+  &&&= \kaalatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootkaala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkaama}{\nounroot{\dn kaama}{kaama}}
 \newcommand{\kaamatemp}{desire; love; lust}
