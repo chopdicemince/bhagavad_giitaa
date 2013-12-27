@@ -2040,8 +2040,7 @@ I (am) Yama (the god of death).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn yama.h}&ya|ma\h{a}&Yama (god of death)\\
-  &&&\note{\noun, \male}\\
+  2b&{\dn yama.h}&ya|ma\h{a}&\yamaH\\
   &&&\\
   &{\dn sa.myamataamaham}&sa.m|ya|ma|taa|ma|&sa.myamataam\\
   &&&= {\dn sa.myamataam}\\

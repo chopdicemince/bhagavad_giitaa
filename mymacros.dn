@@ -5569,6 +5569,13 @@
   &&&\note{\nounrootyajJa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\yamaH}{%
+  yama.h = {\dn yama.h} = Yama, the god of death;\\
+  &&&bridle; restraint\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn yama}{yama}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\yataH}{%
   yata.h = {\dn yata.h}\\
   &&&= from what/which/whom; because; since\\
