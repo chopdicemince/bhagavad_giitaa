@@ -4946,6 +4946,15 @@
   &&&\note{\nounrootsuudana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsuurya}{\nounroot{\dn suurya}{suurya}}
+\newcommand{\suuryatemp}{(god of the) sun}
+
+\newcommand{\sUryaH}{%
+  suurya.h = {\dn suurya.h} = \suuryatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsuurya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsvaadhyaaya}{\nounroot{\dn svaadhyaaya}{svaadhyaaya}}
 \newcommand{\svaadhyaayatemp}{studying; reciting; repeating}
 
