@@ -3546,6 +3546,14 @@
   &&&\note{\adjectiverootpaapa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\pAtrebhyaH}{%
+  paatrebhya.h = {\dn paatrebhya.h} = \dativephrase/\ablativephrase\\
+  &&&leaves; cups; bowls; competent people\\
+  &&&\note{\noun, \neuter, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\nounroot{\dn paatra}{paatra}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootpada}{\nounroot{\dn pada}{pada}}
 \newcommand{\padatemp}{part; place; pace; step; foot; word}
 \newcommand{\padapluraltemp}{parts; places; paces; steps; foots; words}
