@@ -1269,6 +1269,14 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootanya}
 }
+
+\newcommand{\anyebhyaH}{%
+  anyebhya.h = {\dn anyebhya.h} = \dativephrase/\ablativephrase\\
+  &&&\anyatemp\\
+  &&&\note{\adjective, \male, \neuter, \plural}\\
+  &&&\note{\dativecase, \ablativecase}\\
+  &&&\note{\adjectiverootanya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootapamaana}{\nounroot{\dn apamaana}{apamaana}}
 \newcommand{\apamaanadualtemp}{(two acts of) contempt; insult; disrepect}
