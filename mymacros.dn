@@ -3782,6 +3782,12 @@
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{\verbrootdRS}
 }
+
+\newcommand{\draSTum}{%
+  dra.s.tum = {\dn dra.s.tum} = to see\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbrootdRS}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootphala}{\nounroot{\dn phala}{phala}}
 \newcommand{\phalatemp}{fruit; result}
