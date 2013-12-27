@@ -1691,6 +1691,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootbhuu}{\verbroot{\dn bhuu}{bhuu}}
 
+\newcommand{\bhava}{%
+  bhava = {\dn bhava} = \you\ be\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootbhuu}
+}
+
 \newcommand{\bhuutvaa}{%
   bhuutvaa = {\dn bhuutvaa} = having been\\
   &&&\note{\verbb, \perfectparticiple}\\
