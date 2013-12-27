@@ -3855,6 +3855,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprasaada}{\nounroot{\dn prasaada}{prasaada}}
 \newcommand{\prasaadatemp}{(occurrence of) peace}
+\newcommand{\prasaadapluraltemp}{(occurrences of) peace}
 
 \newcommand{\prasAdaH}{%
   prasaada.h = {\dn prasaada.h}\\
@@ -3881,6 +3882,13 @@
   prasaade = {\dn prasaade} = \locativephrase\ an/the\\
   &&&\prasaadatemp\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootprasaada}
+}
+
+\newcommand{\prasaadaan}{%
+  prasaadaan = {\dn prasaadaan}\\
+  &&&= \prasaadapluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootprasaada}
 }
 % ------------------------------------------------------------------------------
