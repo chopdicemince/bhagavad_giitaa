@@ -4946,6 +4946,14 @@
   &&&\note{\nounrootsuudana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\zUrAH}{%
+  "suuraa.h = {\dn "suuraa.h}\\
+  &&&= (\vocativephrase) warriors; brave men; heros\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounroot{\dn "suura}{"suura}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsuurya}{\nounroot{\dn suurya}{suurya}}
 \newcommand{\suuryatemp}{(god of the) sun}
 \newcommand{\suuryadualtemp}{two suns; gods of the sun}
