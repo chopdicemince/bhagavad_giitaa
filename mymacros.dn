@@ -4942,6 +4942,13 @@
   &&&\note{\accusativecase, \vocativecase}\\
   &&&\note{\nounroottejas}
 }
+
+\newcommand{\tejasaa}{%
+  tejasaa = {\dn tejasaa} = \instrumentalphrase\ a/the\\
+  &&&\tejastemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounroottejas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\tyaktum}{%
   tyaktum = {\dn tyaktum}\\
