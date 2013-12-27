@@ -245,12 +245,6 @@
   &&&\note{\nounroot{\dn k.r.s.na}{k.r.s.na}}
 }
 
-\newcommand{\janaH}{%
-  jana.h = {\dn jana.h} = born thing; living thing; man\\
-  &&&\note{\noun, \male, \nominativecase}\\
-  &&&\note{\nounroot{\dn jana}{jana}}
-}
-
 \newcommand{\ardana}{%
   ardana\\
   &&&= {\dn ardana}\\
@@ -2565,6 +2559,24 @@
   &&&\note{\adjective, \noun, \male}\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\adjectiverootja}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootjana}{\nounroot{\dn jana}{jana}}
+\newcommand{\janatemp}{born thing; living thing; man}
+\newcommand{\janapluraltemp}{born things; living things; men}
+
+\newcommand{\janaH}{%
+  jana.h = {\dn jana.h} = \janatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootjana}
+}
+
+\newcommand{\janAH}{%
+  janaa.h = {\dn janaa.h}\\
+  &&&= (\vocativephrase) \janapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\nounrootjana}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
