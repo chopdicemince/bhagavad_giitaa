@@ -5659,6 +5659,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootvizva}
 }
+
+\newcommand{\vizvasya}{%
+  vi"svasya = {\dn vi"svasya} = \genitivephrase\ a/the\\
+  &&&\vizvatemp\\
+  &&&\note{\noun, \neuter, \genitivecase}\\
+  &&&\note{\nounrootvizva}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvyaya}{\adjectiveroot{\dn vyaya}{vyaya}}
 \newcommand{\vyayatemp}{able to change/decay/die}
