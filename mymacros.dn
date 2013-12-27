@@ -4932,6 +4932,17 @@
   &&&\note{\nounroottattva}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounroottejas}{\nounroot{\dn tejas}{tejas}}
+\newcommand{\tejastemp}{fire; light; splendor; great person}
+
+\newcommand{\tejas}{%
+  teja.h = {\dn teja.h} = tejas = {\dn tejas}\\
+  &&&= (\vocativephrase) \tejastemp\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounroottejas}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\tyaktum}{%
   tyaktum = {\dn tyaktum}\\
   &&&= to abandon; renounce; leave\\
