@@ -5159,6 +5159,17 @@
   &&&\note{\nounrootviddhi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvidha}{\nounroot{\dn vidha}{vidha}}
+\newcommand{\vidhatemp}{kind; type; form; piercing;\\
+  &&&food for an elepant}
+
+\newcommand{\vidhaH}{%
+  vidha.h = {\dn vidha.h}\\
+  &&&= \vidhatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootvidha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\vidyate}{%
   vidyate = {\dn vidayte} = \hesheit\ is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
