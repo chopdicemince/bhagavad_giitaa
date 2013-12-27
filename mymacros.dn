@@ -2726,11 +2726,20 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjyoti}{\nounroot{\dn jyoti}{jyoti}}
-\newcommand{\jyotitemp}{brightness}
+\newcommand{\jyotitemp}{(occurrence of) brightness}
+\newcommand{\jyotipluraltemp}{(occurrences of) brightness}
 
 \newcommand{\jyotiH}{%
-  jyoti.h = {\dn jyoti.h} = \jyotitemp\\
+  jyoti.h = {\dn jyoti.h}\\
+  &&&= \jyotitemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootjyoti}
+}
+
+\newcommand{\jyotiinaam}{%
+  jyotiinaam = {\dn jyotiinaam}\\
+  &&&= \genitivephrase\ \jyotipluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{\nounrootjyoti}
 }
 % ------------------------------------------------------------------------------
