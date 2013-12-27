@@ -1880,6 +1880,14 @@
   &&&\note{\nounrootdaana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootdaa}{\verbroot{\dn daa}{daa}}
+
+\newcommand{\dadaami}{%
+  dadaami = {\dn dadaami} = \I\ give\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootdaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootdeha}{\nounroot{\dn deha}{deha}}
 \newcommand{\dehatemp}{body}
 \newcommand{\dehapluraltemp}{bodies}
