@@ -4402,6 +4402,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootsahasra}
 }
+
+\newcommand{\sahasrasya}{%
+  sahasrasya = {\dn sahasrasya}\\
+  &&&= \genitivephrase\ a/the \sahasratemp\\
+  &&&\note{\noun, \male, \genitivecase}\\
+  &&&\note{\nounrootsahasra}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsama}{\adjectiveroot{\dn sama}{sama}}
 \newcommand{\samatemp}{same; equal; similar; straight; complete}
