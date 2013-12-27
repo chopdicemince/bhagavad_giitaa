@@ -1069,9 +1069,7 @@ the person of knowledge---O Bharata-bull (O Arjuna).\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
-  &{\dn bhajante}&bha|jan|te&(they) cherish\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn bhaj} = bhaj}\\
+  &{\dn bhajante}&bha|jan|te&\bhajante\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   % ----------------------------------------------------------------------------
@@ -1892,9 +1890,7 @@ cherish me (with) a firm vow.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn bhajante}&bha|jan|te&(they) cherish\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn bhaj} = bhaj}\\
+  2b&{\dn bhajante}&bha|jan|te&\bhajante\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\

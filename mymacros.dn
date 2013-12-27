@@ -1516,6 +1516,14 @@
   &&&\note{\nounroot{\dn bhagavant}{bhagavant}}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootbhaj}{\verbroot{\dn bhaj}{bhaj}}
+
+\newcommand{\bhajante}{%
+  bhajante = {\dn bhajante} = \they\ cherish\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootbhaj}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbhakta}{\nounroot{\dn bhakta}{bhakta}}
 
 \newcommand{\bhaktaH}{%
