@@ -4404,6 +4404,13 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootsammoha}
 }
+
+\newcommand{\sammohaat}{%
+  sammohaat = {\dn sammohaat}\\
+  &&&= \ablativephrase\ \sammohatemp\\
+  &&&\note{\noun, \male, \ablativecase}\\
+  &&&\note{\nounrootsammoha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
 \newcommand{\samupasthitatemp}{steadfast}
