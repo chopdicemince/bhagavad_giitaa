@@ -4390,6 +4390,15 @@
   &&&\note{\nounrootsamaadhi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsammoha}{\nounroot{\dn sammoha}{sammoha}}
+\newcommand{\sammohatemp}{confusion}
+
+\newcommand{\sammohaH}{%
+  sammoha.h = {\dn sammoha.h} = \sammohatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsammoha}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
 \newcommand{\samupasthitatemp}{steadfast}
 
