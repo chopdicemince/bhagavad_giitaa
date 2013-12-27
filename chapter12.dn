@@ -650,9 +650,7 @@ doing actions.\\
   &&sa|mar|tho|&samartha.h = {\dn samartha.h} = sufficient; suitable; able\\
   &&&\note{\adjective}\\
   &&&\\
-  &&'si&asi = {\dn asi} = (you) are\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'si&\asi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -713,9 +711,7 @@ each-action-fruit-abandonment. From there, do a yoked-self.\\
   &&"sak|to|&"sakta.h = {\dn "sakta.h} = able\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'si&asi = {\dn asi} = (you) are\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'si&\asi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

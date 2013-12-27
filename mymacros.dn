@@ -1389,6 +1389,12 @@
   &&&\note{\verbrootas}
 }
 
+\newcommand{\asi}{%
+  asi = {\dn asi} = \you\ are\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+
 \newcommand{\asmi}{%
   asmi = {\dn asmi} = \I\ am\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\

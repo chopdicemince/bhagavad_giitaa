@@ -4366,9 +4366,7 @@ you.\\
   &&&= worshipped; desired\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'si&asi = {\dn asi} = (you) are\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'si&\asi\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
@@ -4459,9 +4457,7 @@ promise(d) and a loved (one) of me.\\
   &&&\\
   &{\dn priyo.asi}&pri|yo|&\priyaH\\
   &&&\\
-  &&'si&asi = {\dn asi} = (you) are\\
-  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'si&\asi\\
   &&&\\
   &{\dn me}&me&\me\\
 \end{tabular}
