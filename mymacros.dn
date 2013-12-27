@@ -5949,6 +5949,13 @@
   &&&\note{\nounrootzAnti}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\zabdaH}{%
+  "sabda.h = {\dn "sabda.h}\\
+  &&&= sound; spoken sound; word\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn "sabda}{"sabda}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootzaGkha}{\nounroot{\dn "sa"nkha}{"sa"nkha}}
 \newcommand{\zaGkhatemp}{conch shell}
 \newcommand{\zaGkhadualtemp}{two conch shells}
