@@ -4297,6 +4297,16 @@
   &&&\note{\nounrootsaMvAda}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootsamaadhi}{\nounroot{\dn samaadhi}{samaadhi}}
+\newcommand{\samaadhitemp}{intense yoking; concentration}
+
+\newcommand{\samAdhiH}{%
+  samaadhi.h = {\dn samaadhi.h}\\
+  &&&= \samaadhitemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootsamaadhi}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
 \newcommand{\samupasthitatemp}{steadfast}
 
