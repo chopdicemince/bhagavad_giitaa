@@ -6011,6 +6011,14 @@
   &&&\note{\nounrootzrI}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootzru}{\verbroot{\dn "sru}{"sru}}
+
+\newcommand{\zrutvA}{%
+  "srutvaa = {\dn "srutvaa} = having heard\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootzru}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootzubha}{\nounroot{\dn "subha}{"subha}}
 \newcommand{\zubhatemp}{auspiciousness; goodness; beauty}
 
