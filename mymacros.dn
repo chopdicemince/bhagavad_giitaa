@@ -2725,6 +2725,15 @@
   &&&\note{\nounrootjJAna}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootjyoti}{\nounroot{\dn jyoti}{jyoti}}
+\newcommand{\jyotitemp}{brightness}
+
+\newcommand{\jyotiH}{%
+  jyoti.h = {\dn jyoti.h} = \jyotitemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootjyoti}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootkaala}{\nounroot{\dn kaala}{kaala}}
 \newcommand{\kaalatemp}{time; verb tense; death}
 \newcommand{\kaalapluraltemp}{times; verb tenses; deaths}
