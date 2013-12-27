@@ -57,10 +57,7 @@ not active.\\
   &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
-  &{\dn niragnirna}&ni|rag|&ni.h\\
-  &&&= {\dn ni.h}\\
-  &&&= (?) without\\
-  &&&\note{\adverb}\\
+  &{\dn niragnirna}&ni|rag|&\niH\\
   &&&\\
   &&nir|&\agniH\\
   &&&\\
@@ -1185,9 +1182,11 @@ indifferent to each desire---then the person is viewed as ``yoked.''\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn nisp.rha.h}&ni|sp.r|ha\h{a}&ni.hsp.rha.h\\
-  &&&= {\dn ni.hsp.rha.h}\\
-  &&&= without desire; indifferent\\
+  2a&{\dn nisp.rha.h}&ni|&\niH\\
+  &&&\\
+  &&sp.r|ha\h{a}&sp.rha.h\\
+  &&&= {\dn sp.rha.h}\\
+  &&&= desirous\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvakaamebhyo}&sar|va|&{\dn sarva}\\

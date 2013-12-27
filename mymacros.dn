@@ -3441,6 +3441,11 @@
   &&&\note{\nounrootnaraka}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\niH}{%
+  ni.h = {\dn ni.h} = without\\
+  &&&\note{\preposition}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nizA}{%
   ni"saa = {\dn ni"saa} = night; dream\\
   &&&\note{\noun, \female, \nominativecase}\\
