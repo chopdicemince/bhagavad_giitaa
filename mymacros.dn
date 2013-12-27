@@ -3092,6 +3092,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootlabh}
 }
+
+\newcommand{\labhe}{%
+  labhe = {\dn labhe}\\
+  &&&= \I\ get; learn; know; see\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootlabh}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootloka}{\nounroot{\dn loka}{loka}}
 \newcommand{\lokatemp}{world; mankind; place}
