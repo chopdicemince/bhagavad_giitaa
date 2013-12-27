@@ -1202,11 +1202,7 @@ night.\\
   &&&= thousand\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&taam&antaam\\
-  &&&= {\dn antaam}\\
-  &&&= near\\
-  &&&\note{\adverb, \adjective, \female, \accusativecase}\\
-  &&&\note{from {\dn antaa} = antaa}\\
+  &&taam&\antaam\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

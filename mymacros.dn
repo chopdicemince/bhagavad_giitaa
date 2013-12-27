@@ -1160,6 +1160,12 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounrootanta}
 }
+
+\newcommand{\antaam}{%
+  antaam = {\dn antaam} = near\\
+  &&&\note{\adjective, \female, \accusativecase}\\
+  &&&\note{\nounrootanta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootanudRS}{\verbroot{\dn anud.r.s}{anud.r.s}}
 
