@@ -5346,6 +5346,17 @@
   &&&\note{\adjectiverootuttama}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootudsthaa}{\verbroot{{\dn ud} + {\dn sthaa}}{ud + sthaa}}
+\newcommand{\verbrootutthaa}{\verbroot{\dn utthaa}{utthaa}}
+
+\newcommand{\uttiSTha}{%
+  utti.s.tha = {\dn utti.s.tha}\\
+  &&&= \you\ stand up; get up; rise\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootudsthaa}\\
+  &&&\note{\verbrootutthaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootvac}{\verbroot{\dn vac}{vac}}
 
 \newcommand{\uvaaca}{%

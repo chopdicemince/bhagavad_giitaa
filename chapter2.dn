@@ -215,11 +215,7 @@ O enemy-fire (O Arjuna).\\
   &&&\\
   2b&{\dn tyaktvotti.s.tha}&tyakt|vot|&\tyaktvaa\\
   &&&\\
-  &&ti|.s.tha&utti.s.thatu\\
-  &&&= {\dn utti.s.thatu}\\
-  &&&= (you) get up\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn udsthaa} = udsthaa}\\
+  &&ti|.s.tha&\uttiSTha\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
 \end{tabular}
@@ -2622,11 +2618,7 @@ certain.\\
 \begin{tabular}{llll}
   2a&{\dn tasmaadutti.s.tha}&ta|smaa|dut&\tasmaat\\
   &&&\\
-  &&ti|.s.tha&utti.s.thatu\\
-  &&&= {\dn utti.s.thatu}\\
-  &&&= (you) get up; stand\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn utthaa} = utthaa}\\
+  &&ti|.s.tha&\uttiSTha\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
   % ----------------------------------------------------------------------------
