@@ -4375,6 +4375,11 @@
   &&&\note{\nounrootsaGkalpa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\saha}{%
+  saha = {\dn saha} = with\\
+  &&&\note{\preposition, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsama}{\adjectiveroot{\dn sama}{sama}}
 \newcommand{\samatemp}{same; equal; similar; straight; complete}
 
