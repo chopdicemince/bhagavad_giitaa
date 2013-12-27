@@ -5653,6 +5653,14 @@
   &&&\note{\plural, \nominativecase, \vocativecase}\\
   &&&\note{\adjectiverootyogin}
 }
+
+\newcommand{\yoginaam}{%
+  yoginaam = {\dn yoginaam}\\
+  &&&= \genitivephrase\ \yoginpluraltemp\\
+  &&&\note{\adjective, \noun, \male, \plural}\\
+  &&&\note{\genitivecase}\\
+  &&&\note{\adjectiverootyogin}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootyuddha}{\nounroot{\dn yuddha}{yuddha}}
 \newcommand{\yuddhatemp}{war; battle; fight}
