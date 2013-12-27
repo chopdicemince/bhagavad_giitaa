@@ -2221,9 +2221,10 @@ really, and paternal grandfathers.\\
   &&'va|sthi|taa&\avasthitAH\\
   &&&\\
   &{\dn yuddhe}&yud|dhe&\yuddhe\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn praa.naa.mstyaktvaa}&praa|.naa.m|&\prANAn\\
   &&&\\
   &&styakt|vaa&\tyaktvaa\\
@@ -2234,10 +2235,9 @@ really, and paternal grandfathers.\\
   &&&\note{from {\dn dhanam} = dhanam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aacaaryaa.h}&aa|caar|yaa\h{aa}&teachers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
@@ -2253,9 +2253,10 @@ really, and paternal grandfathers.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn putra.h} = putra.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&sta|thai|&\tathaa\\
   &&&\\
   &&va&\eva\\
@@ -2264,6 +2265,9 @@ really, and paternal grandfathers.\\
   &&&\\
   &{\dn pitaamahaa.h}&pi|taa|ma|haa\h{aa}&\pitAmahAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 34}
@@ -3108,9 +3112,10 @@ battlefield---that, for me, (is) more comfortable.\\
   &&&= remedy\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn apratiikaara.h} = apratiikaara.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&"sa|stra.m&\zastram\\
@@ -3121,10 +3126,9 @@ battlefield---that, for me, (is) more comfortable.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn dhaartaraa.s.traa}&dhaar|ta|raa|.s.traa&\dhArtarASTrAH\\
   &&&\\
   &{\dn ra.ne}&ra|.ne&at/in/on a/the fight; battlefield; war\\
@@ -3135,9 +3139,10 @@ battlefield---that, for me, (is) more comfortable.\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn hanyate} = hanyate = (he/she/it) is hit; killed}\\
   &&&\note{root: {\dn han} = han}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&stan|&\tat\\
   &&&\\
   &&me&\me\\
@@ -3153,6 +3158,9 @@ battlefield---that, for me, (is) more comfortable.\\
   &&&\note{{\dn bhavati} = bhavati = (he/she/it) is}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 46}
