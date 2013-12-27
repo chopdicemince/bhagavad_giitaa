@@ -5637,6 +5637,13 @@
   &&&\note{\adjectiverootyogin}
 }
 
+\newcommand{\yoginam}{%
+  yoginam = {\dn yoginam}\\
+  &&&= \yogintemp\\
+  &&&\note{\adjective, \noun, \male, \accusativecase}\\
+  &&&\note{\adjectiverootyogin}
+}
+
 \newcommand{\yoginaH}{%
   yogina.h = {\dn yogina.h}\\
   &&&\ablativephrase/\genitivephrase\ \yogintemp;\\
