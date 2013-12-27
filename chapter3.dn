@@ -1399,9 +1399,7 @@ to action.\\
   &&&\\
   &{\dn paarthaasti}&par|thaas|&paartha\\
   &&&\\
-  &&sti&asti = {\dn asti} = (he/she/it) is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&sti&\asti\\
   &&&\\
   &{\dn kartavya.m}&kar|ta|vya.m&duty; obligation; work\\
   &&&\note{\noun, \neuter}\\

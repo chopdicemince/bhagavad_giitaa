@@ -1374,6 +1374,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootas}{\verbroot{\dn as}{as}}
 
+\newcommand{\asti}{%
+  asti = {\dn asti} = \hesheit\ is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+
 \newcommand{\asmi}{%
   asmi = {\dn asmi} = \I\ am\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
