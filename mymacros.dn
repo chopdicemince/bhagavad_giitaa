@@ -3876,6 +3876,13 @@
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{\nounrootprasaada}
 }
+
+\newcommand{\prasaade}{%
+  prasaade = {\dn prasaade} = \locativephrase\ an/the\\
+  &&&\prasaadatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootprasaada}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpratiSTha}{\adjectiveroot{\dn prati.s.tha}{prati.s.tha}}
 \newcommand{\pratiSThatemp}{steadfast}
