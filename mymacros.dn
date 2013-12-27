@@ -4182,6 +4182,15 @@
   &&&\note{\nounrootraajya}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootraatri}{\nounroot{\dn raatri}{raatri}}
+\newcommand{\raatritemp}{night}
+
+\newcommand{\rAtriH}{%
+  raatri.h = {\dn raatri.h} = \raatritemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootraatri}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootrajas}{\nounroot{\dn rajas}{rajas}}
 \newcommand{\rajastemp}{one of the three gu.nas;\\
   &&&passion; emotion; darkness; dirtiness; menses;\\
