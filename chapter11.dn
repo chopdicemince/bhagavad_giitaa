@@ -2752,9 +2752,7 @@ main syllables, instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&{\dn kaalo.asmi}&kaa|lo|&\kAlaH\\
   &&&\\
-  &&'smi&asmi = {\dn asmi} = (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'smi&\asmi\\
   &&&\\
   &{\dn lokak.sayak.rtprav.rddho}&lo|ka|&\lokaH\\
   &&&\\
@@ -4105,9 +4103,7 @@ instead of the usual eight.)\\
   &&&= happy\\
   &&&\note{\adjective, \male}\\
   &&&\\
-  &&'smi&asmi = {\dn asmi} = (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'smi&\asmi\\
   &&&\\
   &{\dn d.r.s.tvaa}&dr|.s.tvaa&\dRSTvA\\
 \end{tabular}
@@ -4711,9 +4707,7 @@ gone.\\
   2a&{\dn idaaniimasmi}&idaa|nii|ma|&idaanim = {\dn idaaniim} = now\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
-  &&smi&asmi = {\dn asmi} = (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&smi&\asmi\\
   &&&\\
   &{\dn sa.mv.rtta.h}&sa.m|v.rt|ta\h{a}&happened\\
   &&&\note{\adjective, \male}\\

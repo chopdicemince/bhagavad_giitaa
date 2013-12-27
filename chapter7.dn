@@ -519,11 +519,7 @@ the sound in vacuum, and prowess in men.\\
   &&&= light\\
   &&&\note{\noun, \female}\\
   &&&\\
-  &&smi&asmi\\
-  &&&= {\dn asmi}\\
-  &&&= (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&smi&\asmi\\
   &&&\\
   &{\dn "sa"sisuuryayo.h}&"sa|"si|&"sa"sin\\
   &&&= {\dn "sa"sin}\\
@@ -600,11 +596,7 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&\\
   &&caa|&\ca\\
   &&&\\
-  &&smi&asmi\\
-  &&&= {\dn asmi}\\
-  &&&= (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&smi&\asmi\\
   &&&\\
   &{\dn vibhaavasau}&vi|bhaa|va|sau&at/in/on a/the fire; sun; moon\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -630,11 +622,7 @@ the life in all beings, and I am the torment in ascetics.\\
   &&&\\
   &&caa|&\ca\\
   &&&\\
-  &&smi&asmi\\
-  &&&= {\dn asmi}\\
-  &&&= (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&smi&\asmi\\
   &&&\\
   &{\dn tapasvi.su}&ta|pa|svi|.su&at/in/on ascetics\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -679,11 +667,7 @@ sharpness of sharp people.\\
   &&&\\
   &&ma|taa|ma|&\mataam\\
   &&&\\
-  &&smi&asmi\\
-  &&&= {\dn asmi}\\
-  &&&= (I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&smi&\asmi\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -748,11 +732,7 @@ to goodness, O Bharata-bull (O Arjuna).\\
   &&&\\
   2b&{\dn kaamo.asmi}&kaa|mo|&\kAmaH\\
   &&&\\
-  &&'smi&asmi\\
-  &&&= {\dn asmi}\\
-  &&&= (I) am\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'smi&\asmi\\
   &&&\\
   &{\dn bharatar.sabha}&bha|ra|tar|&bharata.h\\
   &&&= {\dn bharata.h}\\

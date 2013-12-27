@@ -1372,6 +1372,14 @@
   &&&\note{\nounrootartha}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootas}{\verbroot{\dn as}{as}}
+
+\newcommand{\asmi}{%
+  asmi = {\dn asmi} = \I\ am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootasu}{\nounroot{\dn asu}{asu}}
 \newcommand{\asupluraltemp}{breaths; lives; life; spirits}
 
