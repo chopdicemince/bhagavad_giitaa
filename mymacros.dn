@@ -4091,6 +4091,15 @@
   &&&\note{\adjectiverootpratiSThita}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootpraviz}{\verbroot{\dn pravi"s}{pravi"s}}
+
+\newcommand{\pravizanti}{%
+  pravi"santi = {\dn pravi"santi} = \they\ enter;\\
+  &&&devote themselves to; have sex with\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootpraviz}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpriya}{\adjectiveroot{\dn priya}{priya}}
 \newcommand{\priyatemp}{pleasing; pleasant; favorite; loved; dear}
 

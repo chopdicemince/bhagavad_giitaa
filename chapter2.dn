@@ -4535,9 +4535,7 @@ instead of the usual eight.)\\
   &&&\\
   &&pa\h{a}&\ApaH\\
   &&&\\
-  &{\dn pravi"santi}&pra|vi|"san|ti&(they) enter; reach; undertake\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn pravi"s} = pravi"s}\\
+  &{\dn pravi"santi}&pra|vi|"san|ti&\pravizanti\\
   &&&\\
   &{\dn yadvat}&ya|dvat&\yadvat\\
 \end{tabular}
@@ -4550,8 +4548,7 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn ya.m}&ya.m&\yam\\
   &&&\\
-  &{\dn pravi"santi}&pra|vi|"san|ti&(they) enter; reach; undertake\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &{\dn pravi"santi}&pra|vi|"san|ti&\pravizanti\\
   &&&\\
   &{\dn sarve}&sar|ve&\sarve\\
   % ----------------------------------------------------------------------------
