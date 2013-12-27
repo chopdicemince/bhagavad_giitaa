@@ -5162,11 +5162,21 @@
 \newcommand{\nounrootvidha}{\nounroot{\dn vidha}{vidha}}
 \newcommand{\vidhatemp}{kind; type; form; piercing;\\
   &&&food for an elepant}
+\newcommand{\vidhapluraltemp}{kinds; types; forms; piercings;\\
+  &&&foods for an elephant}
 
 \newcommand{\vidhaH}{%
   vidha.h = {\dn vidha.h}\\
   &&&= \vidhatemp\\
   &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootvidha}
+}
+
+\newcommand{\vidhAH}{%
+  vidhaa.h = {\dn vidhaa.h}\\
+  &&&= (\vocativephrase) \vidhapluraltemp\\
+  &&&\note{\noun, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootvidha}
 }
 % ------------------------------------------------------------------------------
