@@ -1161,6 +1161,16 @@
   &&&\note{\nounrootanta}
 }
 
+\newcommand{\ante}{%
+  ante = {\dn ante} = \locativephrase\ a/the\\
+  &&&\antatemp\\
+  &&&\note{\noun, \adjective, \male, \locativecase}\\
+  &&&\note{\adjective, \neuter, \locativecase}\\
+  &&&\note{\neuter, \female, \dual}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootanta}
+}
+
 \newcommand{\antaam}{%
   antaam = {\dn antaam} = near\\
   &&&\note{\adjective, \female, \accusativecase}\\
