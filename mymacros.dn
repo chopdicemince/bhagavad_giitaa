@@ -4398,6 +4398,12 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootsammoha}
 }
+
+\newcommand{\sammoham}{%
+  sammoham = {\dn sammoham} = \sammohatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootsammoha}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
 \newcommand{\samupasthitatemp}{steadfast}
