@@ -771,6 +771,15 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yasmin}{%
+  yasmin = {\dn yasmin} = \locativephrase\ that which; he who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \male, \neuter}\\
+  &&&\note{\locativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yaan}{%
   yaan = {\dn yaan} = those/they which; those/they who;\\
   &&&whichever; whoever/whomever; whatever\\
