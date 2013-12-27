@@ -1442,8 +1442,7 @@ person---that donation (is) remembered (as) good.\\
   &&&= true; good; pure; energetic\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn sm.rtam}&sm.r|tam&remembered\\
-  &&&\note{\adjective, \neuter}\\
+  &{\dn sm.rtam}&sm.r|tam&\smRtam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1509,8 +1508,7 @@ results), yes/no, again, and reluctant---that donation (is) remembered
   &&&\note{\noun, \neuter, \accusativecase}\\
   &&&\note{(?) from {\dn rajas} = rajas}\\
   &&&\\
-  &{\dn sm.rtam}&sm.r|tam&remembered\\
-  &&&\note{\adjective, \neuter}\\
+  &{\dn sm.rtam}&sm.r|tam&\smRtam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

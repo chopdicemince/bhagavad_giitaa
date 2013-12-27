@@ -4570,6 +4570,14 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootsmRta}
 }
+
+\newcommand{\smRtam}{%
+  sm.rtam = {\dn sm.rtam} = \smRtatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootsmRta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootsmRti}{\nounroot{\dn sm.rti}{sm.rti}}
 \newcommand{\smRtitemp}{remembering;\\
