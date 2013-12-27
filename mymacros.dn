@@ -959,6 +959,12 @@
   &&&\note{\adjectiverootaagata}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\ApaH}{%
+  aapa.h = {\dn aapa.h} = water\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounroot{\dn aapa}{aapa}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootaap}{\verbroot{\dn aap}{aap}}
 
 \newcommand{\aapnoti}{%

@@ -1711,10 +1711,7 @@ and water does not wet this. Wind does not dry (this).\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn klid} = klid}\\
   &&&\\
-  &&po&aapa.h\\
-  &&&= {\dn aapa.h}\\
-  &&&= water\\
-  &&&\note{\noun, \male}\\
+  &&po&\ApaH\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -4535,10 +4532,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn samudra.h} = samudra.h}\\
   &&&\\
-  &&pa\h{a}&aapa.h\\
-  &&&= {\dn aapa.h}\\
-  &&&= water\\
-  &&&\note{\noun, \male, \nominativecase}\\
+  &&pa\h{a}&\ApaH\\
   &&&\\
   &{\dn pravi"santi}&pra|vi|"san|ti&(they) enter; reach; undertake\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
