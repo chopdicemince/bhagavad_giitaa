@@ -1171,11 +1171,7 @@ night.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn raatri.m}&raa|tri.m&raatrim\\
-  &&&= {\dn raatrim}\\
-  &&&= night\\
-  &&&\note{\noun, \female, \accusativecase}\\
-  &&&\note{from {\dn raatri.h} = raatri.h}\\
+  2a&{\dn raatri.m}&raa|tri.m&\raatrim\\
   &&&\\
   &{\dn yugasahasraantaa.m}&yu|ga|&yugam\\
   &&&= {\dn yugam}\\

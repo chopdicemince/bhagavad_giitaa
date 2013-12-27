@@ -4190,6 +4190,12 @@
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootraatri}
 }
+
+\newcommand{\raatrim}{%
+  raatrim = {\dn raatrim} = \raatritemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootraatri}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootrajas}{\nounroot{\dn rajas}{rajas}}
 \newcommand{\rajastemp}{one of the three gu.nas;\\
