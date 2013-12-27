@@ -3862,6 +3862,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootprasaada}
 }
+
+\newcommand{\prasaadam}{%
+  prasaadam = {\dn prasaadam}\\
+  &&&= \prasaadatemp\\
+  &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootprasaada}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpratiSTha}{\adjectiveroot{\dn prati.s.tha}{prati.s.tha}}
 \newcommand{\pratiSThatemp}{steadfast}
