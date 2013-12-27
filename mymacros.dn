@@ -943,6 +943,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootaadi}{\nounroot{\dn aadi}{aadi}}
 \newcommand{\aaditemp}{beginning}
+\newcommand{\aadipluraltemp}{beginnings}
 
 \newcommand{\AdiH}{%
   aadi.h = {\dn aadi.h} = \aaditemp\\
@@ -953,6 +954,12 @@
 \newcommand{\aadim}{%
   aadim = {\dn aadim} = \aaditemp\\
   &&&\note{\noun, \male, \accusativecase}\\
+  &&&\note{\nounrootaadi}
+}
+
+\newcommand{\aadiin}{%
+  aadiin = {\dn aadiin} = \aadipluraltemp\\
+  &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{\nounrootaadi}
 }
 % ------------------------------------------------------------------------------
