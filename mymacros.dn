@@ -2578,6 +2578,13 @@
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{\nounrootjana}
 }
+
+\newcommand{\janaanaam}{%
+  janaanaam = {\dn janaanaam}\\
+  &&&= \genitivephrase\ \janapluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootjana}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootjanma}{\nounroot{\dn janma}{janma}}
 \newcommand{\janmatemp}{birth}
