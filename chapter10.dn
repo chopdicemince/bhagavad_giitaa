@@ -1354,11 +1354,7 @@ beings, really.\\
   &&&\\
   &&ca&\ca\\
   &&&\\
-  &{\dn madhya.m}&ma|dhya.m&madhyam\\
-  &&&= {\dn madhyam}\\
-  &&&= middle\\
-  &&&\note{\noun, \male, \accusativecase}\\
-  &&&\note{from {\dn madhya.h} = madhya.h}\\
+  &{\dn madhya.m}&ma|dhya.m&\madhyam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
@@ -2215,10 +2211,7 @@ Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn madhya.m}&ma|dhya.m&madhyam\\
-  &&&= {\dn madhyam}\\
-  &&&= middle\\
-  &&&\note{\noun, \neuter}\\
+  1b&{\dn madhya.m}&ma|dhya.m&\madhyam\\
   &&&\\
   &{\dn caivaahamarjuna}&cai|&\ca\\
   &&&\\

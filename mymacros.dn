@@ -3103,6 +3103,13 @@
 \newcommand{\adjectiverootmadhya}{\adjectiveroot{\dn madhya}{madhya}}
 \newcommand{\madhyatemp}{middle}
 
+\newcommand{\madhyam}{%
+  madhyam = {\dn madhyam} = \madhyatemp\\
+  &&&\note{\adjective, \male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootmadhya}
+}
+
 \newcommand{\madhye}{%
   madhye = {\dn madhye} = \locativephrase\ a/the \madhyatemp\\
   &&&\note{\adjective, \allgenders, \locativecase}\\
