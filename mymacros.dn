@@ -1615,12 +1615,6 @@
   &&&\note{\nounrootbhakta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\bhavati}{%
-  bhavati = {\dn bhavati} = \hesheit\ is\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{\verbroot{\dn bhuu}{bhuu}}
-}
-% ------------------------------------------------------------------------------
 \newcommand{\nounrootbhoga}{\nounroot{\dn bhoga}{bhoga}}
 \newcommand{\bhogapluraltemp}{(acts of) enjoyment; eating}
 
@@ -1690,6 +1684,12 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootbhuu}{\verbroot{\dn bhuu}{bhuu}}
+
+\newcommand{\bhavati}{%
+  bhavati = {\dn bhavati} = \hesheit\ is\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootbhuu}
+}
 
 \newcommand{\bhava}{%
   bhava = {\dn bhava} = \you\ be\\
