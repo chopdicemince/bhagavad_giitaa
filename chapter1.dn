@@ -462,9 +462,10 @@ name-purpose (of the leaders)---I say those for you: \dots\\
   &&&\note{from {\dn vi"si.s.ta.h} = vi"si.s.ta.h}\\
   &&&\\
   &{\dn ye}&ye&\ye\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn taannibodha}&taan|&\taan\\
   &&&\\
   &&ni|bo|dha&nibodha\\
@@ -478,10 +479,9 @@ name-purpose (of the leaders)---I say those for you: \dots\\
   &&&\note{from {\dn dvija.h} = dvija.h}\\
   &&&\\
   &&ta|ma&\uttama\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn naayakaa}&naa|ya|kaa&naayakaa.h\\
   &&&= {\dn naayakaa.h}\\
   &&&= captains; leaders; chiefs\\
@@ -493,9 +493,10 @@ name-purpose (of the leaders)---I say those for you: \dots\\
   &{\dn sainyasya}&sai|nya|sya&of a/the solider\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn sainya.h} = sainya.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa.mj~naartha.m}&sa.m|j\~{}naar|&sa.mj\~{}naa\\
   &&&= {\dn sa.mj~naa}\\
   &&&= noun; name; title\\
@@ -512,6 +513,9 @@ name-purpose (of the leaders)---I say those for you: \dots\\
   &&&\\
   &&te&\te\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 8}
@@ -1539,9 +1543,10 @@ war (with) a pleasing wish.\\
   &&&\note{root: {\dn avek.s} = avek.s}\\
   &&&\\
   &&'ha.m&\aham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ya}&ya&\ye\\
   &&&\\
   &{\dn ete.atra}&e|te|&\ete\\
@@ -1553,10 +1558,9 @@ war (with) a pleasing wish.\\
   &&&joined; together\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn samaagata.h} = samaagata.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn dhaartaraa.s.trasya}&\multicolumn{2}{l}{dhaar|ta|raa.s|.tra|sya}\\
   &&&\\
   &&&\dhArtarASTrasya\\
@@ -1566,12 +1570,13 @@ war (with) a pleasing wish.\\
   &&&\note{\adjective}\\
   &&&\\
   &&bud|dher|&\buddheH\\
-  % ----------------------------------------------------------------------------
-  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&&yud|dhe|&\yuddhe\\
   &&&\\
-  &&yud|dhe|&\yuddhe\\
-  &&&\\
-  2b&{\dn priyacikiir.sava.h}&pri|ya|&priya\\
+  &{\dn priyacikiir.sava.h}&pri|ya|&priya\\
   &&&= {\dn priya}\\
   &&&= \priya\\
   &&&\notepriya\\
@@ -1582,6 +1587,9 @@ war (with) a pleasing wish.\\
   &&&\note{similar: \noun, \female, {\dn cikiir.saa} = cikiir.saa}\\
   &&&\note{= desire; wish; intention}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 24}
@@ -2029,9 +2037,10 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&= (?) to stand; stay; stop; be steadfast\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn avasthaa} = avasthaa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhramatiiva}&bhra|ma|tii|&bhramati\\
   &&&= {\dn bhramati}\\
   &&&= (he/she/it) moves unsteadily; wanders\\
@@ -2045,10 +2054,9 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&\manaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nimittaani}&ni|mit|taa|ni&(\vocativephrase) reasons; causes; marks\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -2058,9 +2066,10 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn pa"syaami}&pa"|syaa|mi&\pazyAmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vipariitaani}&vi|pa|rii|taa|ni&(\vocativephrase) inverse; opposite; contrary\\
   &&&\note{\noun, \adjective, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -2069,6 +2078,9 @@ wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&\kezava\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 1, Verse 31}
