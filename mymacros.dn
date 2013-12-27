@@ -1615,6 +1615,16 @@
   &&&\note{\nounrootbhakta}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootbhava}{\nounroot{\dn bhava}{bhava}}
+\newcommand{\bhavatemp}{being (living thing); birth; existence; goodness}
+
+\newcommand{\bhavaH}{%
+  bhava.h = {\dn bhava.h}\\
+  &&&= \bhavatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootbhava}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbhoga}{\nounroot{\dn bhoga}{bhoga}}
 \newcommand{\bhogapluraltemp}{(acts of) enjoyment; eating}
 
