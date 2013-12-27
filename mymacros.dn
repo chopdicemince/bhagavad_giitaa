@@ -2665,6 +2665,13 @@
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{\nounrootkaala}
 }
+
+\newcommand{\kaale}{%
+  kaale = {\dn kaale} = \locativephrase\ a/the\\
+  &&&\kaalatemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootkaala}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkaama}{\nounroot{\dn kaama}{kaama}}
 \newcommand{\kaamatemp}{desire; love; lust}
