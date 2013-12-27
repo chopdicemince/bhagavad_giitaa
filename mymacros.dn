@@ -2642,6 +2642,16 @@
   &&&\note{\nounrootjJAna}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootkaala}{\nounroot{\dn kaala}{kaala}}
+\newcommand{\kaalatemp}{time; verb tense; death}
+
+\newcommand{\kAlaH}{%
+  kaala.h = {\dn kaala.h}\\
+  &&&= \kaalatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootkaala}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootkaama}{\nounroot{\dn kaama}{kaama}}
 \newcommand{\kaamatemp}{desire; love; lust}
 \newcommand{\kaamapluraltemp}{desires; love; lust}

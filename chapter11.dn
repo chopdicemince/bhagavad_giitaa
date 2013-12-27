@@ -2093,10 +2093,7 @@ instead of the usual eight.)\\
   &&&\\
   &&va&\eva\\
   &&&\\
-  &{\dn kaalaanalasannibhaani}&kaa|laa|&kaala.h\\
-  &&&= {\dn kaala.h}\\
-  &&&= time; verb tense; death\\
-  &&&\note{\noun, \male}\\
+  &{\dn kaalaanalasannibhaani}&kaa|laa|&\kAlaH\\
   &&&\\
   &&na|la|&anala.h\\
   &&&= {\dn anala.h}\\
@@ -2778,10 +2775,7 @@ main syllables, instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1a&{\dn kaalo.asmi}&kaa|lo|&kaala.h\\
-  &&&= {\dn kaala.h}\\
-  &&&= time; verb tense; death\\
-  &&&\note{\noun, \male}\\
+  1a&{\dn kaalo.asmi}&kaa|lo|&\kAlaH\\
   &&&\\
   &&'smi&asmi = {\dn asmi} = (I) am\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
