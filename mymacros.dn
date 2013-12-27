@@ -1394,6 +1394,12 @@
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{\verbrootas}
 }
+
+\newcommand{\syaat}{%
+  syaat = {\dn syaat} = \hesheit\ may be\\
+  &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
+  &&&\note{\verbrootas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootasu}{\nounroot{\dn asu}{asu}}
 \newcommand{\asupluraltemp}{breaths; lives; life; spirits}
