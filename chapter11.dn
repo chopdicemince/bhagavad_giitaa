@@ -1156,17 +1156,11 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   2b&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
-  &{\dn vi"sve"svara}&vi|"sve|&vi"svam\\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"sve"svara}&vi|"sve|&\vizvam\\
   &&&\\
   &&"sva|ra&\Izvara\\
   &&&\\
-  &{\dn vi"svaruupa}&vi|"sva|&vi"svam\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"svaruupa}&vi|"sva|&\vizvam\\
   &&&\\
   &&ruu|pa&{\dn ruupa}\\
   &&&= O form; mark; sign\\
@@ -1456,10 +1450,7 @@ instead of the usual eight.)\\
   &&&\\
   &&te|ja|saa&\tejasaa\\
   &&&\\
-  &{\dn vi"svamida.m}&vi|"sva|mi|&vi"svam\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"svamida.m}&vi|"sva|mi|&\vizvam\\
   &&&\\
   &&da.m&\idam\\
   &&&\\
@@ -3384,10 +3375,7 @@ instead of the usual eight.)\\
   &&&= spread\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
-  &{\dn vi"svamanantaruupa}&vi|"sva|ma|&vi"svam\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"svamanantaruupa}&vi|"sva|ma|&\vizvam\\
   &&&\\
   &&nan|&\an\\
   &&&\\
@@ -4199,10 +4187,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn vi"svamuurte}&vi|"sva|&vi"svam\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"svamuurte}&vi|"sva|&\vizvam\\
   &&&\\
   &&muur|te&{\dn muurte}\\
   &&&= (?) O material\\
@@ -4272,10 +4257,7 @@ main syllables, instead of the usual eight.)\\
   &&&= {\dn mayam}\\
   &&&= (?)\\
   &&&\\
-  &{\dn vi"svamanantamaadya.m}&vi|"sva|ma|&vi"svam\\
-  &&&= {\dn vi"svam}\\
-  &&&= universe\\
-  &&&\note{\noun, \neuter}\\
+  &{\dn vi"svamanantamaadya.m}&vi|"sva|ma|&\vizvam\\
   &&&\\
   &&nan|&\an\\
   &&&\\

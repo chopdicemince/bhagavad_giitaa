@@ -5650,6 +5650,16 @@
   &&&\note{\verbrootviz}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvizva}{\nounroot{\dn vi"sva}{vi"sva}}
+\newcommand{\vizvatemp}{world; universe}
+
+\newcommand{\vizvam}{%
+  vi"svam = {\dn vi"svam} = \vizvatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootvizva}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvyaya}{\adjectiveroot{\dn vyaya}{vyaya}}
 \newcommand{\vyayatemp}{able to change/decay/die}
 
