@@ -3853,6 +3853,16 @@
   &&&\note{\verbrootpradRS}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootprasaada}{\nounroot{\dn prasaada}{prasaada}}
+\newcommand{\prasaadatemp}{(occurrence of) peace}
+
+\newcommand{\prasAdaH}{%
+  prasaada.h = {\dn prasaada.h}\\
+  &&&= \prasaadatemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootprasaada}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpratiSTha}{\adjectiveroot{\dn prati.s.tha}{prati.s.tha}}
 \newcommand{\pratiSThatemp}{steadfast}
 
