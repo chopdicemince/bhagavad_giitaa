@@ -1395,6 +1395,12 @@
   &&&\note{\verbrootas}
 }
 
+\newcommand{\astu}{%
+  astu = {\dn astu} = ``\hesheit\ is''\\
+  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+
 \newcommand{\syaat}{%
   syaat = {\dn syaat} = \hesheit\ may be\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\

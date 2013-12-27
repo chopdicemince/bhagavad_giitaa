@@ -2613,9 +2613,7 @@ instead of the usual eight.)\\
   &&&= homage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'stu&astu = {\dn astu} = (you) be\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as}\\
+  &&'stu&\astu\\
   &&&\\
   &{\dn te}&te&\te\\
   &&&\\
@@ -3445,9 +3443,7 @@ instead of the usual eight.)\\
   &&&\\
   &&ste|&\te\\
   &&&\\
-  &&'stu&astu = {\dn astu} = (you) be\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'stu&\astu\\
   &&&\\
   &{\dn sahasrak.rtva.h}&sa|ha|sra|&\sahasraH\\
   &&&\\
@@ -3521,9 +3517,7 @@ instead of the usual eight.)\\
   &&&= homage\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &&'stu&astu = {\dn astu} = (you) be\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
+  &&'stu&\astu\\
   &&&\\
   &{\dn te}&te&\te\\
   &&&\\
