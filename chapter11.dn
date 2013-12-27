@@ -1427,10 +1427,7 @@ instead of the usual eight.)\\
   &&&\\
   &&a|naa|&\an\\
   &&&\\
-  &&di|&aadi.h\\
-  &&&= {\dn aadi.h}\\
-  &&&= beginning\\
-  &&&\note{\noun, \male}\\
+  &&di|&\AdiH\\
   &&&\\
   &&ma|dhyaan|&madhya.h\\
   &&&= {\dn madhya.h}\\
@@ -3381,10 +3378,7 @@ instead of the usual eight.)\\
 \begin{tabular}{llll}
   1a&{\dn tvamaadideva.h}&tva|maa|&\tvam\\
   &&&\\
-  &&di|&aadi.h\\
-  &&&= {\dn aadi.h}\\
-  &&&= beginning\\
-  &&&\note{\noun, \male}\\
+  &&di|&\AdiH\\
   &&&\\
   &&de|va\h{a}&\devaH\\
   &&&\\

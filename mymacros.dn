@@ -941,6 +941,15 @@
   &&&\note{\verbrootaacar}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootaadi}{\nounroot{\dn aadi}{aadi}}
+\newcommand{\aaditemp}{beginning}
+
+\newcommand{\AdiH}{%
+  aadi.h = {\dn aadi.h} = \aaditemp\\
+  &&&\note{\noun, \male, \nominativecase}\\
+  &&&\note{\nounrootaadi}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootaagata}{\adjectiveroot{\dn aagata}{aagata}}
 \newcommand{\aagatatemp}{arrived; come}
 
