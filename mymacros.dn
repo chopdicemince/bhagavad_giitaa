@@ -1620,6 +1620,13 @@
   &&&\note{\verbrootbhuu}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\biijam}{%
+  biijam = {\dn biijam} = seed\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounroot{\dn biija}{biija}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbuddhi}{\nounroot{\dn buddhi}{buddhi}}
 \newcommand{\buddhitemp}{brainpower; intelligence}
 
