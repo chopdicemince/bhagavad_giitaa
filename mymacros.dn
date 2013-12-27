@@ -4306,6 +4306,13 @@
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootsamaadhi}
 }
+
+\newcommand{\samaadhau}{%
+  samaadhau = {\dn samaadhau}\\
+  &&&= \locativephrase\ \samaadhitemp\\
+  &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootsamaadhi}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsamupasthita}{\adjectiveroot{\dn samupasthita}{samupasthita}}
 \newcommand{\samupasthitatemp}{steadfast}
