@@ -748,9 +748,7 @@ syllables is eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vi"s} = vi"s}\\
+  1b&{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn yadyatayo}&ya|dya&\yat\\
   &&&\\

@@ -1604,9 +1604,7 @@ instead of the usual eight.)\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
   &&&\\
-  &{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vi"s} = vi"s}\\
+  &{\dn vi"santi}&vi|"san|ti&\vizanti\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2232,9 +2230,7 @@ instead of the usual eight.)\\
   &&&= {\dn maa.naa.h}\\
   &&&= (?)\\
   &&&\\
-  &{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vi"s} = vi"s}\\
+  &{\dn vi"santi}&vi|"san|ti&\vizanti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2378,9 +2374,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vi"s} = vi"s}\\
+  2b&{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn vaktraa.nyabhivijvalanti}&vak|traa|.nya|&vaktraa.ni\\
   &&&= {\dn vaktraa.ni}\\
@@ -2429,9 +2423,7 @@ instead of the usual eight.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn va"s} = va"s}\\
+  1b&{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn naa"saaya}&naa|"saa|ya&\nAzAya\\
   &&&\\
@@ -2453,9 +2445,7 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn naa"saaya}&naa|"saa|ya&\nAzAya\\
   &&&\\
-  &{\dn vi"santi}&vi|"san|ti&(they) enter\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vi"s} = vi"s}\\
+  &{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn lokaas}&lo|kaas&\lokAH\\
   % ----------------------------------------------------------------------------

@@ -5632,6 +5632,15 @@
   &&&\note{\verbrootvid}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootviz}{\verbroot{\dn vi"s}{vi"s}}
+
+\newcommand{\vizanti}{%
+  vi"santi = {\dn vi"santi}\\
+  &&&= \they\ act (as in a theater); enter\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootviz}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootvyaya}{\adjectiveroot{\dn vyaya}{vyaya}}
 \newcommand{\vyayatemp}{able to change/decay/die}
 
