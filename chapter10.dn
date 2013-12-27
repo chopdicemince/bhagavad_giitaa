@@ -165,9 +165,7 @@ using (of) all sins.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn vetti}&vet|ti|&(he/she/it) knows\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  1b&{\dn vetti}&vet|ti|&\vetti\\
   &&&\\
   &{\dn lokamahe"svaram}&lo|ka|&\lokaH\\
   &&&\\
@@ -437,9 +435,7 @@ no-choice, using yoking, is yoked here, no doubt.\\
   &&&\\
   &{\dn yo}&yo&\yaH\\
   &&&\\
-  &{\dn vetti}&vet|ti&(he/she/it) knows\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vetti}&vet|ti&\vetti\\
   &&&\\
   &{\dn tattvata.h}&tat|tva|ta\h{a}&truthfully\\
   &&&\note{\adverb, \indeclinable}\\

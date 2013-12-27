@@ -1396,9 +1396,7 @@ passion.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn vetti}&vet|ti&(he/she/it) knows\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  2a&{\dn vetti}&vet|ti&\vetti\\
   &&&\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
   &&&\\
@@ -2068,9 +2066,7 @@ person.\\
   &&&\\
   &{\dn yaa}&yaa&\yaa\\
   &&&\\
-  &{\dn vetti}&vet|ti&(he/she/it) knows\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vetti}&vet|ti&\vetti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\

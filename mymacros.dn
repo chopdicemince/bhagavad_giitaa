@@ -5483,6 +5483,14 @@
   &&&\note{\nounrootveda}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootvid}{\verbroot{\dn vid}{vid}}
+
+\newcommand{\vetti}{%
+  vetti = {\dn vetti} = \hesheit\ knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootvid}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootviddhi}{\nounroot{\dn viddhi}{viddhi}}
 \newcommand{\viddhitemp}{piercing; knowing; (``know'' (?))}
 
@@ -5583,8 +5591,6 @@
   &&&\note{\adjectiverootvimukta}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\verbrootvid}{\verbroot{\dn vid}{vid}}
-
 \newcommand{\vindati}{
   vindati = {\dn vindati}\\
   &&&= \hesheit\ gets; finds\\

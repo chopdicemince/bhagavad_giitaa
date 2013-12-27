@@ -1164,9 +1164,7 @@ knows the paramount (string)---he gets from-me-behavior.\\
   &&&\\
   &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
-  &{\dn vetti}&vet|ti&(he/she/it) knows\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn vid} = vid}\\
+  &{\dn vetti}&vet|ti&\vetti\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
