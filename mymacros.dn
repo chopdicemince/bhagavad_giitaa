@@ -5466,7 +5466,7 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\vidyate}{%
-  vidyate = {\dn vidayte} = \hesheit\ is; exists\\
+  vidyate = {\dn vidyate} = \hesheit\ is; exists\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootvid}
 }
