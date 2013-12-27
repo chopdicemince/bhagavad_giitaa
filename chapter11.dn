@@ -3502,10 +3502,7 @@ instead of the usual eight.)\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
   &&&\\
-  &{\dn sahasrak.rtva.h}&sa|ha|sra|&sahasra.h\\
-  &&&= {\dn sahasra.h}\\
-  &&&= thousand\\
-  &&&\note{\noun, \male}\\
+  &{\dn sahasrak.rtva.h}&sa|ha|sra|&\sahasraH\\
   &&&\\
   &&k.r|tva\h{a}&{\dn k.rtva.h}\\
   &&&= (?)\\
@@ -4233,10 +4230,7 @@ instead of the usual eight.)\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2b&{\dn sahasrabaaho}&sa|has|ra|&sahasra.h\\
-  &&&= {\dn sahasra.h}\\
-  &&&= thousand\\
-  &&&\note{\noun, \male}\\
+  2b&{\dn sahasrabaaho}&sa|has|ra|&\sahasraH\\
   &&&\\
   &&baa|ho&\baaho\\
   &&&\\

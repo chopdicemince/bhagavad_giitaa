@@ -1133,10 +1133,7 @@ night.\\
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn sahasrayugaparyantamaharyadbrahma.novidu.h}\\
   &&&\\
-  &&sa|has|ra|&sahasra.h\\
-  &&&= {\dn sahasra.h}\\
-  &&&= thousand\\
-  &&&\note{\noun, \male}\\
+  &&sa|has|ra|&\sahasraH\\
   &&&\\
   &&yu|ga|&yugam\\
   &&&= {\dn yugam}\\
@@ -1176,10 +1173,7 @@ night.\\
   &&&= eon\\
   &&&\note{\noun, \neuter}\\
   &&&\\
-  &&sa|ha|sraan|&sahasra.h\\
-  &&&= {\dn sahasra.h}\\
-  &&&= thousand\\
-  &&&\note{\noun, \male}\\
+  &&sa|ha|sraan|&\sahasraH\\
   &&&\\
   &&taam&\antaam\\
   % ----------------------------------------------------------------------------
