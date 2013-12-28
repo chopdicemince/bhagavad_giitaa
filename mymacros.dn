@@ -6256,6 +6256,11 @@
   &&&\note{\verbrootyaa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\yaavat}{%
+  yaavat = {\dn yaavat} = while; until\\
+  &&&\note{\conjunction, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\yadaa}{%
   yadaa = {\dn yadaa} = when\\
   &&&\note{\adverb, \conjunction, \indeclinable}
