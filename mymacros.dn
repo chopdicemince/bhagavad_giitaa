@@ -1680,6 +1680,12 @@
   &&&\note{\verbrootbhaj}
 }
 
+\newcommand{\bhajati}{%
+  bhajati = {\dn bhajati} = \hesheit\ cherishes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootbhaj}
+}
+
 \newcommand{\bhajante}{%
   bhajante = {\dn bhajante} = \they\ cherish\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
