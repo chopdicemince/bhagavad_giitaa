@@ -1278,6 +1278,14 @@
   &&&\note{\verbrootanusmR}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootanuzuc}{\verbroot{\dn anu"suc}{anu"suc}}
+
+\newcommand{\anuzocitum}{%
+  anu"socitum = {\dn anu"socitum} = to mourn\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbrootanuzuc}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\anviccha}{%
   anviccha = {\dn anviccha}\\
   &&&= \you\ desire; want; wish; seek\\
