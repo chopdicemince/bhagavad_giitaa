@@ -1733,6 +1733,14 @@
   &&&\note{\nounrootbhoga}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootbhuj}{\verbroot{\dn bhuj}{bhuj}}
+
+\newcommand{\bhuGkte}{%
+  bhu"nkte = {\dn bhu"nkte} = \hesheit\ enjoys; eats\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootbhuj}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootbhuuta}{\nounroot{\dn bhuuta}{bhuuta}}
 \newcommand{\bhuutapluraltemp}{beings (living things); spirits; ghosts}
 
