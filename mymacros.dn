@@ -2725,7 +2725,7 @@
 }
 
 \newcommand{\jaayante}{%
-  jaayante = {\dn jaayante} = \hesheit\ is born\\
+  jaayante = {\dn jaayante} = \they\ are born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootjan}
 }
