@@ -816,6 +816,16 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yAbhiH}{%
+  yaabhi.h = {\dn yaabhi.h} = \instrumentalphrase\\
+  &&&those which/who; they which/who;\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \female, \plural}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yat}{%
   yat = {\dn yat} = that which;\\
   &&&whichever; whoever; whatever\\
