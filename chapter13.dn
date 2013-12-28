@@ -270,11 +270,7 @@ me.\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
-  &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
-  &&&= {\dn "s.r.notu}\\
-  &&&= (you) hear\\
-  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  &{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

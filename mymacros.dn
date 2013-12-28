@@ -6381,6 +6381,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootzru}{\verbroot{\dn "sru}{"sru}}
 
+\newcommand{\zRNu}{%
+  "s.r.nu = {\dn "s.r.nu} = \you\ hear\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootzru}
+}
+
 \newcommand{\zrutvA}{%
   "srutvaa = {\dn "srutvaa} = having heard\\
   &&&\note{\verbb, \perfectparticiple}\\

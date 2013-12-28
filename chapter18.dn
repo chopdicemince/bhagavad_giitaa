@@ -235,11 +235,7 @@ Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
   &&&\note{\noun, \male. \accusativecase}\\
   &&&\note{from {\dn ni"scaya.h} = ni"scaya.h}\\
   &&&\\
-  &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
-  &&&= {\dn "s.r.notu}\\
-  &&&= (he/she/it) hear\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
-  &&&\note{from {\dn "sru} = "sru}\\
+  &{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
@@ -1282,13 +1278,7 @@ Just as (full?), hear these, also.\\
   &&&\\
   &&vac|&\vat\\
   &&&\\
-  &&ch.r|.nu&.s.r.nu\\
-  &&&= {\dn .s.r.nu}\\
-  &&&= (?) .s.r.notu\\
-  &&&= {\dn .s.r.notu}\\
-  &&&= (he/she/it) hears\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  &&ch.r|.nu&\zRNu\\
   &&&\\
   &{\dn taanyapi}&taa|nya|&\taani\\
   &&&\\
@@ -1980,11 +1970,7 @@ money-victory (O Arjuna).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
-  &{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
-  &&&= {\dn "s.r.notu}\\
-  &&&= (he/she/it) hears\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  &{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2445,11 +2431,7 @@ wherever, and attains a distress-end.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
-  &&&= {\dn "s.r.notu}\\
-  &&&= (he/she/it) hears\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  1b&{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
@@ -3149,13 +3131,7 @@ success.\\
   &&&\\
   &{\dn tacch.r.nu}&tac|&\tat\\
   &&&\\
-  &&ch.r|.nu&.s.r.nu\\
-  &&&= {\dn .s.r.nu}\\
-  &&&= (?) .s.r.notu\\
-  &&&= {\dn .s.r.notu}\\
-  &&&= (he/she/it) hears\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  &&ch.r|.nu&\zRNu\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -4334,11 +4310,7 @@ you.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn "s.r.nu}&"s.r|.nu&(?) "s.r.notu\\
-  &&&= {\dn "s.r.notu}\\
-  &&&= (he/she/it) hears\\
-  &&&\note{\verbb, \imperativemood, \thirdperson, \singular}\\
-  &&&\note{root: {\dn "sru} = "sru}\\
+  1b&{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   &&&\\
   &{\dn me}&me&\me\\
   &&&\\
