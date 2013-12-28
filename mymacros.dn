@@ -2614,6 +2614,14 @@
   &&&\note{\verbroothan}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbroothi}{\verbroot{\dn hi}{hi}}
+
+\newcommand{\hitvaa}{
+  hitvaa = {\dn hitvaa} = having abandoned\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbroothi}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\icchaa}{%
   icchaa = {\dn iccha} = desire; want; wish\\
   &&&\note{\noun, \female, \nominativecase}\\
