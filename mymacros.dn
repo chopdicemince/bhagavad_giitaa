@@ -3050,6 +3050,17 @@
   &&&\note{\verbrootkR}
 }
 
+\newcommand{\nounrootkuru}{\nounroot{\dn kuru}{kuru}}
+
+\newcommand{\kuru}{%
+  kuru = {\dn kuru}\\
+  &&&= (\vocativephrase) Kuru; \you\ act; work; do\\
+  &&&\note{\noun, \proper, \male, \vocativecase}\\
+  &&&\note{\nounrootkuru}\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootkR}
+}
+
 \newcommand{\kRtvA}{%
   k.rtvaa = {\dn k.rtvaa}\\
   &&&= having acted; worked; done\\
