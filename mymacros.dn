@@ -4534,6 +4534,15 @@
   &&&\note{\adjectiverootsama}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootsambhuu}{\verbroot{\dn sambhuu}{sambhuu}}
+
+\newcommand{\sambhavaami}{%
+  sambhavaami = {\dn sambhavaami}\\
+  &&&= \I\ am (together with); meet\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootsambhuu}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsammUDha}{\adjectiveroot{\dn sammuu.dha}{sammuu.dha}}
 \newcommand{\sammUDhatemp}{\mUDhatemp}
 
