@@ -5755,6 +5755,16 @@
   &&&\note{\verbrootvac}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootukta}{\adjectiveroot{\dn ukta}{ukta}}
+
+\newcommand{\uktam}{%
+  uktam = {\dn uktam} = uttered; said\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootukta}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootvad}{\verbroot{\dn vad}{vad}}
 
 \newcommand{\uktvaa}{%
