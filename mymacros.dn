@@ -5771,6 +5771,13 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootukta}
 }
+
+\newcommand{\uktAH}{%
+  uktaa.h = {\dn uktaa.h} = (\vocativephrase) \uktatemp\\
+  &&&\note{\adjective, \male, \plural}\\
+  &&&\note{\nominativecase, \vocativecase}\\
+  &&&\note{\adjectiverootukta}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootvad}{\verbroot{\dn vad}{vad}}
 
