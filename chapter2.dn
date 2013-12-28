@@ -1365,9 +1365,7 @@ killed.\\
   &&&\\
   &&na.m&\enam\\
   &&&\\
-  &{\dn manyate}&ma|nya|te&(he/she/it) thinks\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn man} = man}\\
+  &{\dn manyate}&ma|nya|te&\manyate\\
   &&&\\
   &{\dn hatam}&ha|tam&hit; hurt; killed\\
   &&&\note{\adjective, \male, \accusativecase}\\

@@ -1423,9 +1423,7 @@ teacher, also, the person does not swerve.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn manyate}&man|ya|te&(he/she/it) thinks\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn man} = man}\\
+  1b&{\dn manyate}&man|ya|te&\manyate\\
   &&&\\
   &{\dn naadhika.m}&naa|&\na\\
   &&&\\

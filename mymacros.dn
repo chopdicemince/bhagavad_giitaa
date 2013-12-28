@@ -3445,6 +3445,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootman}{\verbroot{\dn man}{man}}
 
+\newcommand{\manyate}{%
+  manyate = {\dn manyate} = \hesheit\ thinks\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootman}
+}
+
 \newcommand{\manyase}{%
   manyase = {\dn manyase} = \you\ think\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
