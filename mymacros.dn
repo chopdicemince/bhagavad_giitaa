@@ -4132,6 +4132,15 @@
   &&&\note{\nounrootparantapa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootparyupaas}{\verbroot{\dn paryupaas}{paryupaas}}
+
+\newcommand{\paryupaaste}{%
+  paryupaaste = {\dn paryupaaste}\\
+  &&&= \hesheit\ sits in a circle; does devotion\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootparyupaas}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootdRS}{\verbroot{\dn d.r.s}{d.r.s}}
 
 \newcommand{\pazyati}{%
