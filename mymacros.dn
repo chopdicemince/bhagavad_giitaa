@@ -3153,6 +3153,12 @@
   &&&\note{\nounrootkula}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\kuruH}{%
+  kuru.h = {\dn kuru.h} = Kuru\\
+  &&&\note{\noun, \proper, \male, \nominativecase}\\
+  &&&\note{\nounrootkuru}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\kutaH}{%
   kuta.h = {\dn kuta.h} = from where\\
   &&&\note{part of speech (?)}
