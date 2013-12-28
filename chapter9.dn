@@ -822,11 +822,7 @@ mind, (at) the start, and not-changeable.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhajantyananyamanaso}&bha|jan|tya|&bhajanti\\
-  &&&= {\dn bhajanti}\\
-  &&&= (they) cherish; worship\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn bhaj} = bhaj}\\
+  2a&{\dn bhajantyananyamanaso}&bha|jan|tya|&\bhajanti\\
   &&&\\
   &&na|&\an\\
   &&&\\
@@ -1980,9 +1976,7 @@ also, I (am) in them.\\
 \begin{tabular}{llll}
   2a&{\dn ye}&ye&\ye\\
   &&&\\
-  &{\dn bhajanti}&bha|jan|ti&(they) cherish; worship\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{from {\dn bhaj} = bhaj}\\
+  &{\dn bhajanti}&bha|jan|ti&\bhajanti\\
   &&&\\
   &{\dn tu}&tu&\tu\\
   &&&\\

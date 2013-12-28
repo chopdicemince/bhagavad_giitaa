@@ -1691,6 +1691,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootbhaj}
 }
+
+\newcommand{\bhajanti}{%
+  bhajanti = {\dn bhajanti} = \they\ cherish\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootbhaj}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootbhakta}{\nounroot{\dn bhakta}{bhakta}}
 
