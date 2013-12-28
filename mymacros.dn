@@ -730,7 +730,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\kazcit}{%
   ka"scit = {\dn ka"scit} = any; little\\
-  &&&\note{\adjective, \male}\\
+  &&&\note{\adjective, \male}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootyad}{\nounroot{\dn yad}{yad}}
