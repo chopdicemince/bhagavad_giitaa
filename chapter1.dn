@@ -1957,9 +1957,7 @@ me). And the skin (of me) really burns.\\
   &&&\\
   &&ca&\ca\\
   &&&\\
-  &{\dn jaayate}&jaa|ya|te&(he/she/it) is being born\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn jan} = jan}\\
+  &{\dn jaayate}&jaa|ya|te&\jaayate\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -2764,9 +2762,7 @@ of parents of mixed castes, and is viewed as a bad person.)\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn jaayate}&jaa|ya|te&(he/she/it) is born\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn jan} = jan}\\
+  2b&{\dn jaayate}&jaa|ya|te&\jaayate\\
   &&&\\
   &{\dn var.nasa"nkara.h}&var|.na|&var.na.h\\
   &&&= {\dn var.na.h}\\

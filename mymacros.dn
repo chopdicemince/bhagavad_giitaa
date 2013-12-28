@@ -2718,6 +2718,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootjan}{\verbroot{\dn jan}{jan}}
 
+\newcommand{\jaayate}{%
+  jaayate = {\dn jaayate} = \hesheit\ is born\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootjan}
+}
+
 \newcommand{\jaayante}{%
   jaayante = {\dn jaayante} = \hesheit\ is born\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
