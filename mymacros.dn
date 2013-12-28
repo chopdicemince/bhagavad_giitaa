@@ -807,6 +807,15 @@
   &&&\note{\nounrootjo}
 }
 
+\newcommand{\yAH}{%
+  yaa.h = {\dn yaa.h} = those which/who; they which/who\\
+  &&&whichever; whoever/whomever; whatever\\
+  &&&\note{\pronoun, \interrogative, \female, \plural}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootyad}\\
+  &&&\note{\nounrootjo}
+}
+
 \newcommand{\yat}{%
   yat = {\dn yat} = that which;\\
   &&&whichever; whoever; whatever\\
