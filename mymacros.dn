@@ -4620,6 +4620,13 @@
   &&&\note{\nounrootsahasra}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\saJjayati}{%
+  sa"njayati = {\dn sa"njayati}\\
+  &&&= \hesheit\ conquers; sticks; is yoked\\
+  &&&\note{\verbroot{\dn sa.mji}{sa.mji}}\\
+  &&&\note{\verbroot{\dn sa"nj}{sa"nj}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootsama}{\adjectiveroot{\dn sama}{sama}}
 \newcommand{\samatemp}{same; equal; similar; straight; complete}
 
