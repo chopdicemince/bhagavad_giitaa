@@ -5518,6 +5518,15 @@
   &&&\note{\verbrootvad}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootupajan}{\verbroot{\dn upajan}{upajan}}
+
+\newcommand{\upajaayate}{%
+  upajaayate = {\dn upajaayate}\\
+  &&&= \hesheit\ is born (again)\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootupajan}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootuttama}{\adjectiveroot{\dn uttama}{uttama}}
 \newcommand{\uttamatemp}{ultimate; uppermost; best}
 
