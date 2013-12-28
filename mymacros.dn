@@ -2587,6 +2587,12 @@
   &&&\note{\verbroothan}
 }
 
+\newcommand{\hanyate}{%
+  hanyate = {\dn hanyate} = \hesheit\ is hit; killed\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbroothan}
+}
+
 \newcommand{\hatvaa}{%
   hatvaa = {\dn hatvaa}\\
   &&&= having hit; hurt; killed\\

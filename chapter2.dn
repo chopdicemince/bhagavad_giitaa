@@ -1403,9 +1403,7 @@ killed.\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
-  &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn han} = han}\\
+  &{\dn hanyate}&ha|nya|te&\hanyate\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -1485,9 +1483,7 @@ has eleven main syllables per line.)\\
   &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
-  &{\dn hanyate}&ha|nya|te&(he/she/it) is hit; killed\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn han} = han}\\
+  &{\dn hanyate}&ha|nya|te&\hanyate\\
   &&&\\
   &{\dn hanyamaane}&ha|nya|maa|ne&at/in/on being hit; killed\\
   &&&\note{\adjective, \male, \locativecase}\\
