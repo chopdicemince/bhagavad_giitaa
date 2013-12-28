@@ -3131,6 +3131,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootkaarya}
 }
+
+\newcommand{\kaarye}{%
+  kaarye = {\dn kaarye} = \locativephrase\ a/the\\
+  &&&\kaaryatemp\\
+  &&&\note{\noun, \neuter, \locativecase}\\
+  &&&\note{\nounrootkaarya}
+}
 %-------------------------------------------------------------------------------
 \newcommand{\kalpaH}{%
   kalpa.h = {\dn kalpa.h}\\
