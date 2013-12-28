@@ -1494,6 +1494,15 @@
   &&&\note{\verbrootavaap}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootavasthaa}{\verbroot{{\dn ava} + {\dn sthaa}}{ava + sthaa}}
+
+\newcommand{\avatiSThati}{%
+  avati.s.thati = {\dn avati.s.thati}\\
+  &&&= \hesheit\ stays; stands\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootavasthaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adjectiverootavasthita}{\adjectiveroot{\dn avasthita}{avasthita}}
 \newcommand{\avasthitatemp}{\sthitatemp}
 
