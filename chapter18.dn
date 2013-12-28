@@ -2210,11 +2210,7 @@ person who is true.\\
   &&&\note{\pronoun, \female, \instrumentalcase}\\
   &&&\note{from {\dn yaa} = yaa}\\
   &&&\\
-  &{\dn dhaarayate}&dhaa|ra|ya|te&(?) dhaarayati\\
-  &&&= {\dn dhaarayati}\\
-  &&&= (he/she/it) bears; carries; wears\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn dh.r} = dh.r}\\
+  &{\dn dhaarayate}&dhaa|ra|ya|te&\dhaarayati\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
@@ -2290,13 +2286,8 @@ Arjuna) (is) a person of passion.\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn dh.rti.h} = dh.rti.h}\\
   &&&\\
-  &{\dn dhaarayate.arjuna}&dhaa|ra|ya|te'r|&dhaarayate\\
-  &&&= {\dn dhaarayate}\\
-  &&&= dhaarayati\\
-  &&&= {\dn dhaarayati}\\
-  &&&= (he/she/it) bears; carries; wears\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn dh.r} = dh.r}\\
+  &{\dn dhaarayate.arjuna}&dhaa|ra|ya|te'r|&dhaarayate = {\dn dhaarayate}\\
+  &&&= \dhaarayati\\
   &&&\\
   &&ju|na&\arjuna\\
 \end{tabular}

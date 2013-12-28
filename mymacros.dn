@@ -2192,6 +2192,15 @@
   &&&\note{\nounrootdhii}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootdhR}{\verbroot{\dn dh.r}{dh.r}}
+
+\newcommand{\dhaarayati}{%
+  dhaarayati = {\dn dhaarayati}\\
+  &&&= \hesheit\ bears; carries; wears\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootdhR}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\dRSTvA}{%
   d.r.s.tvaa = {\dn d.r.s.tvaa} = having seen\\
   &&&\note{\verbb, \perfectparticiple}\\
