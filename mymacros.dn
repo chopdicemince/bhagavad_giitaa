@@ -3443,6 +3443,14 @@
   &&&\note{\adjectiverootmahat}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootman}{\verbroot{\dn man}{man}}
+
+\newcommand{\manyase}{%
+  manyase = {\dn manyase} = \you\ think\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{\verbrootman}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootmanas}{\nounroot{\dn manas}{manas}}
 \newcommand{\manastemp}{mind}
 \newcommand{\manaspluraltemp}{minds}
