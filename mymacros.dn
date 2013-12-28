@@ -5754,6 +5754,15 @@
   &&&\note{\verbrootvad}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootupaas}{\verbroot{\dn upaas}{upaas}}
+
+\newcommand{\upaaste}{%
+  upaaste = {\dn upaaste}\\
+  &&&= \hesheit\ sits; does devotion\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootupaas}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootupajan}{\verbroot{\dn upajan}{upajan}}
 
 \newcommand{\upajaayate}{%
