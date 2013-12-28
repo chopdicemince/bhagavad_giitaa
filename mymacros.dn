@@ -3396,6 +3396,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootlabh}
 }
+
+\newcommand{\labdhvaa}{%
+  labdhvaa = {\dn labdhvaa}\\
+  &&&= having gotten; learned; known; seen\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootlabh}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootlip}{\verbroot{\dn lip}{lip}}
 
