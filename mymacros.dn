@@ -2785,6 +2785,12 @@
   &&&\note{\verbb, \infinitive}\\
   &&&\note{\verbrootjJA}
 }
+
+\newcommand{\jJAtvA}{%
+  j\~{}naatvaa = {\dn j~naatvaa} = having known\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootjJA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\jJAnI}{man of knowledge}
 \newcommand{\notejJAnI}{\note{\noun, \male}}
