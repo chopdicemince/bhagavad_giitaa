@@ -3052,6 +3052,13 @@
 
 \newcommand{\nounrootkuru}{\nounroot{\dn kuru}{kuru}}
 
+\newcommand{\kurute}{%
+  kurute = {\dn kurute}\\
+  &&&= \hesheit\ acts; works; does\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootkR}
+}
+
 \newcommand{\kuru}{%
   kuru = {\dn kuru}\\
   &&&= (\vocativephrase) Kuru; \you\ act; work; do\\
