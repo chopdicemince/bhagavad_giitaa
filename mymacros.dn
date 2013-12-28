@@ -3158,6 +3158,13 @@
   &&&\note{\noun, \proper, \male, \nominativecase}\\
   &&&\note{\nounrootkuru}
 }
+
+\newcommand{\kuruun}{%
+  kuruun = {\dn kuruun} = Kurus\\
+  &&&\note{\noun, \proper, \male, \plural}\\
+  &&&\note{\accusativecase}\\
+  &&&\note{\nounrootkuru}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\kutaH}{%
   kuta.h = {\dn kuta.h} = from where\\
