@@ -37,6 +37,7 @@
 \newcommand{\proper}{proper}
 \newcommand{\allgenders}{all genders}
 \newcommand{\I}{(I)}
+\newcommand{\we}{(we)}
 \newcommand{\you}{(you)}
 \newcommand{\hesheit}{(he/she/it)}
 \newcommand{\they}{(they)}
@@ -1472,6 +1473,12 @@
 \newcommand{\syaam}{%
   syaam = {\dn syaam} = \I\ may be\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+
+\newcommand{\syaama}{%
+  syaama = {\dn syaama} = \we\ may be\\
+  &&&\note{\verbb, \subjunctivemood, \firstperson, \plural}\\
   &&&\note{\verbrootas}
 }
 % ------------------------------------------------------------------------------
