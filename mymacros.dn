@@ -5756,9 +5756,16 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootukta}{\adjectiveroot{\dn ukta}{ukta}}
+\newcommand{\uktatemp}{uttered; said}
+
+\newcommand{\uktaH}{%
+  ukta.h = {\dn ukta.h} = \uktatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootukta}
+}
 
 \newcommand{\uktam}{%
-  uktam = {\dn uktam} = uttered; said\\
+  uktam = {\dn uktam} = \uktatemp\\
   &&&\note{\adjective}\\
   &&&\note{\male, \accusativecase}\\
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
