@@ -2716,6 +2716,14 @@
   &&&\note{\adjectiverootja}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootjan}{\verbroot{\dn jan}{jan}}
+
+\newcommand{\jaayante}{%
+  jaayante = {\dn jaayante} = \hesheit\ is born\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootjan}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootjana}{\nounroot{\dn jana}{jana}}
 \newcommand{\janatemp}{born thing; living thing; man}
 \newcommand{\janapluraltemp}{born things; living things; men}
