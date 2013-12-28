@@ -5526,6 +5526,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootupajan}
 }
+
+\newcommand{\upajaayante}{%
+  upajaayante = {\dn upajaayante}\\
+  &&&= \they\ are born (again)\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootjan}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootuttama}{\adjectiveroot{\dn uttama}{uttama}}
 \newcommand{\uttamatemp}{ultimate; uppermost; best}
