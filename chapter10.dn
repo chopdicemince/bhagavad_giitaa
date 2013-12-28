@@ -309,9 +309,7 @@ really---separate kinds.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhavanti}&bha|van|ti&(they) are\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn bhuu} = bhuu}\\
+  2a&{\dn bhavanti}&bha|van|ti&\bhavanti\\
   &&&\\
   &{\dn bhaavaa}&bhaa|vaa&\bhAvAH\\
   &&&\\
