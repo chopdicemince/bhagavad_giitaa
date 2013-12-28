@@ -3226,6 +3226,14 @@
   &&&\note{\verbrootlabh}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootlip}{\verbroot{\dn lip}{lip}}
+
+\newcommand{\lipyate}{%
+  lipyate = {\dn lipyate} = \hesheit\ sticks\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootlip}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootloka}{\nounroot{\dn loka}{loka}}
 \newcommand{\lokatemp}{world; mankind; place}
 \newcommand{\lokapluraltemp}{worlds; mankind; places}
