@@ -2649,6 +2649,14 @@
   &&&\note{\verbroothi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbroothu}{\verbroot{\dn hu}{hu}}
+
+\newcommand{\juhvati}{%
+  juhvati = {\dn juhvati} = \hesheit\ makes an offering\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbroothu}\\
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrooti}{\verbroot{\dn i}{i}}
 
 \newcommand{\eti}{%
