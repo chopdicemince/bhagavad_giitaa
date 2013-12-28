@@ -1143,6 +1143,15 @@
   &&&\note{\verbrootabhidhii}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootabhijan}{\verbroot{\dn abhijan}{abhijan}}
+
+\newcommand{\abhijaayate}{%
+  abhijaayate = {\dn abhijaayate}\\
+  &&&= \hesheit\ is born (again)\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootabhijan}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{%
   adhibhuutam = {\dn adhibhuutam}\\
   &&&= above + being; God; creation\\
