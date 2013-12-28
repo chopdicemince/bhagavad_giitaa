@@ -1449,6 +1449,12 @@
   &&&\note{\verbrootas}
 }
 
+\newcommand{\aasam}{%
+  aasam = {\dn aasam} = \I\ was; was being; used to be\\
+  &&&\note{\verbb, \pastimperfecttense, \firstperson, \singular}\\
+  &&&\note{\verbrootas}
+}
+
 \newcommand{\syaat}{%
   syaat = {\dn syaat} = \hesheit\ may be\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
