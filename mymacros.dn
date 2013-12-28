@@ -1740,6 +1740,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootbhuj}
 }
+
+\newcommand{\bhuktvaa}{%
+  bhuktvaa = {\dn bhuktvaa} = having enjoyed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootbhuj}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootbhuuta}{\nounroot{\dn bhuuta}{bhuuta}}
 \newcommand{\bhuutapluraltemp}{beings (living things); spirits; ghosts}
