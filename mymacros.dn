@@ -6387,6 +6387,12 @@
   &&&\note{\verbrootzru}
 }
 
+\newcommand{\zRNoti}{%
+  "s.r.noti = {\dn "s.r.noti} = \hesheit\ hears\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootzru}
+}
+
 \newcommand{\zrutvA}{%
   "srutvaa = {\dn "srutvaa} = having heard\\
   &&&\note{\verbb, \perfectparticiple}\\
