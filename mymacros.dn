@@ -3976,6 +3976,15 @@
   &&&\note{\nounrootprANa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootprabhuu}{\verbroot{\dn prabhuu}{prabhuu}}
+
+\newcommand{\prabhavanti}{%
+  prabhavanti = {\dn prabhavanti}\\
+  &&&= \they\ prevail; are powerful\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootprabhuu}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootprajJA}{\verbroot{\dn praj~naa}{praj\~{}naa}}
 
 \newcommand{\prajaanaati}{%
