@@ -1502,6 +1502,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootavasthaa}
 }
+
+\newcommand{\avatiSThate}{%
+  avati.s.thate = {\dn avati.s.thate}\\
+  &&&= \hesheit\ stays; stands\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootavasthaa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootavasthita}{\adjectiveroot{\dn avasthita}{avasthita}}
 \newcommand{\avasthitatemp}{\sthitatemp}
