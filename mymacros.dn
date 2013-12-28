@@ -4542,6 +4542,13 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootsambhuu}{\verbroot{\dn sambhuu}{sambhuu}}
 
+\newcommand{\sambhavanti}{%
+  sambhavanti = {\dn sambhavanti}\\
+  &&&= \they\ are (together with); meet\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootsambhuu}
+}
+
 \newcommand{\sambhavaami}{%
   sambhavaami = {\dn sambhavaami}\\
   &&&= \I\ am (together with); meet\\
