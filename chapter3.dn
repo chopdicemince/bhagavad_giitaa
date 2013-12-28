@@ -512,15 +512,18 @@ succeed (with) not-action.\\
 
 \kRSNasaidtoarjuna\\
 
-(Do) action from the purpose of Yaj\~{}na (which means ``sacrifice''
-or ``Vi.s.nu''). Otherwise, this world is action-binding. That action
-is the purpose, O son of Kunti (O Arjuna). (Be) free from assocation,
-and (be) practicing.\\
+From the Yaj\~{}na-purpose, (be) in action. Otherwise, this world (is)
+action-binding. (Being) abandoned-sticking (free from yoking), act
+that-purpose-action (act action for the purpose of Yaj\~{}na), O son
+of Kuntii (O Arjuna).\\
+
+Note: Yaj\~{}na means ``sacrifice'' and is another name for
+``Vi.s.nu.''\\
 
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yaj~naarthaatkarma.no.anyatra}\\
   &&&\\
-  &&yaj|\~{}naar|&\yajJaH\\
+  &&ya|j\~{}naar|&\yajJaH\\
   &&&\\
   &&thaat|&\arthaat\\
   &&&\\
@@ -530,9 +533,10 @@ and (be) practicing.\\
   &&&= {\dn anyatra}\\
   &&&= elsewhere; otherwise; sometime else\\
   &&&\note{\adverb, \indeclinable}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn loko.aya.m}&lo|ko|&\lokaH\\
   &&&\\
   &&'ya.m&\ayam\\
@@ -543,10 +547,9 @@ and (be) practicing.\\
   &&&= tying; binding; imprisonment\\
   &&&\note{\adjective, \male}\\
   &&&\note{from: \noun, \neuter, {\dn bandhanam} = bandhanam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tadartha.m}&ta|dar|&\tat\\
   &&&\\
   &&tha.m&\artham\\
@@ -554,18 +557,23 @@ and (be) practicing.\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn muktasa"nga.h}&muk|ta|&{\dn mukta}\\
   &&&= immune; free; abandoned\\
   &&&\note{\adjective}\\
   &&&\\
   &&sa"n|ga\h{a}&\saGgaH\\
   &&&\\
-  &{\dn samaacara}&sa|maa|ca|ra&practicing; observing\\
-  &&&\note{\adjective (?)}\\
+  &{\dn samaacara}&sa|maa|ca|ra&\you\ act; work; do\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbroot{\dn samaacar}{samaacar}}
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 10}
