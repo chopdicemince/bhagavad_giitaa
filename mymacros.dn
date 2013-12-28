@@ -5067,6 +5067,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootsthaa}{\verbroot{\dn sthaa}{sthaa}}
 
+\newcommand{\tiSThati}{%
+  ti.s.thati = {\dn ti.s.thati} = \hesheit\ stays\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootsthaa}
+}
+
 \newcommand{\tiSThanti}{%
   ti.s.thanti = {\dn ti.s.thanti} = \they\ stay\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
