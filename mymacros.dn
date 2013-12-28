@@ -2550,6 +2550,12 @@
 % ------------------------------------------------------------------------------
 \newcommand{\verbroothan}{\verbroot{\dn han}{han}}
 
+\newcommand{\hanti}{%
+  hanti = {\dn hanti} = \hesheit\ hits; hurts; kills\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbroothan}
+}
+
 \newcommand{\hatvaa}{%
   hatvaa = {\dn hatvaa}\\
   &&&= having hit; hurt; killed\\

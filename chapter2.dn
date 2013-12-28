@@ -1403,9 +1403,7 @@ killed.\\
   &&&\\
   &&ya.m&\ayam\\
   &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn han} = han}\\
+  &{\dn hanti}&han|ti&\hanti\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
@@ -1566,9 +1564,7 @@ P.rthaa (O Arjuna), have (something) killed, (or) kill (something)?\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn han} = han}\\
   &&&\\
-  &{\dn hanti}&han|ti&(he/she/it) hits; hurts; kills\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn han} = han}\\
+  &{\dn hanti}&han|ti&\hanti\\
   &&&\\
   &{\dn kam}&kam&what/whom\\
   &&&\note{\pronoun, \male, \accusativecase}\\
