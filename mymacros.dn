@@ -1152,6 +1152,14 @@
   &&&\note{\verbrootabhijan}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootabhijJA}{\verbroot{\dn abhij~naa}{abhij\~{}naa}}
+
+\newcommand{\abhijaanaati}{%
+  abhijaanaati = {\dn abhijaanaati} = \hesheit\ knows\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootabhijJA}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{%
   adhibhuutam = {\dn adhibhuutam}\\
   &&&= above + being; God; creation\\
