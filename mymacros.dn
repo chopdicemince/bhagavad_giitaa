@@ -1159,6 +1159,12 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootabhijJA}
 }
+
+\newcommand{\abhijaananti}{%
+  abhijaananti = {\dn abhijaananti} = \they\ know\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootabhijJA}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adhibhuutam}{%
   adhibhuutam = {\dn adhibhuutam}\\
