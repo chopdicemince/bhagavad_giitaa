@@ -3120,6 +3120,17 @@
   &&&\note{\dativecase, \ablativecase}\\
   &&&\note{\nounrootkaama}
 }
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootkaarya}{\nounroot{\dn kaarya}{kaarya}}
+\newcommand{\kaaryatemp}{act; action; work; doing; deed}
+
+\newcommand{\kaaryam}{%
+  kaaryam = {\dn kaaryam}\\
+  &&&= \kaaryatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootkaarya}
+}
 %-------------------------------------------------------------------------------
 \newcommand{\kalpaH}{%
   kalpa.h = {\dn kalpa.h}\\
