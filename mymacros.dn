@@ -3116,6 +3116,14 @@
   &&&\note{\nounrootkiirti}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootklRp}{\verbroot{\dn kl.rp}{kl.rp}}
+
+\newcommand{\kalpate}{%
+  kalpate = {\dn kalpate} = \hesheit\ is suitable\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootklRp}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\kRpayA}{%
   k.rpayaa = {\dn k.rpayaa} = \instrumentalphrase\\
   &&&kindness; compassion; grace; favor\\
