@@ -3081,6 +3081,12 @@
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{\verbrootkR}
 }
+
+\newcommand{\kartum}{%
+  kartum = {\dn kartum} = to act; work; do\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbrootkR}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootkrodha}{\nounroot{\dn krodha}{krodha}}
 \newcommand{\krodhatemp}{(act of) anger; passion}
