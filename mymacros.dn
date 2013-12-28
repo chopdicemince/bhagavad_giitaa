@@ -2649,6 +2649,15 @@
   &&&\note{\verbroothi}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrooti}{\verbroot{\dn i}{i}}
+
+\newcommand{\eti}{%
+  eti = {\dn eti}\\
+  &&&= \hesheit\ goes towards; goes near; approaches\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrooti}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\icchaa}{%
   icchaa = {\dn iccha} = desire; want; wish\\
   &&&\note{\noun, \female, \nominativecase}\\
