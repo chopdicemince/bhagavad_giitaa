@@ -3610,6 +3610,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootnibandh}
 }
+
+\newcommand{\nibadhnanti}{%
+  nibadhnanti = {\dn nibadhnanti}\\
+  &&&= \they\ bind; restrain\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootnibandh}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\niH}{%
   ni.h = {\dn ni.h} = without\\
