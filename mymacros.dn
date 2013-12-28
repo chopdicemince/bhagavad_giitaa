@@ -1468,6 +1468,12 @@
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{\verbrootas}
 }
+
+\newcommand{\syaam}{%
+  syaam = {\dn syaam} = \I\ may be\\
+  &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
+  &&&\note{\verbrootas}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootasu}{\nounroot{\dn asu}{asu}}
 \newcommand{\asupluraltemp}{breaths; lives; life; spirits}
