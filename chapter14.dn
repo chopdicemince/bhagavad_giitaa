@@ -1042,9 +1042,7 @@ go down.\\
   &&&\\
   1b&{\dn madhye}&ma|dhye&\madhye\\
   &&&\\
-  &{\dn ti.s.thanti}&ti|.s.than|ti&(they) stay\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn sthaa} = sthaa}\\
+  &{\dn ti.s.thanti}&ti|.s.than|ti&\tiSThanti\\
   &&&\\
   &{\dn raajasaa.h}&raa|ja|saa\h{aa}&people in dust-like particles;\\
   &&&passion; menstrual waste\\

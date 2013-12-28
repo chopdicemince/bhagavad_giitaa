@@ -5065,6 +5065,14 @@
   &&&\note{\nounrootsmRti}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootsthaa}{\verbroot{\dn sthaa}{sthaa}}
+
+\newcommand{\tiSThanti}{%
+  ti.s.thanti = {\dn ti.s.thanti} = \they\ stay\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootsthaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootsthaana}{\nounroot{\dn sthaana}{sthaana}}
 \newcommand{\sthaanatemp}{site; standing; staying; steadfastness}
 
