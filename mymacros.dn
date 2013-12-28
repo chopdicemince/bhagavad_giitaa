@@ -5785,6 +5785,12 @@
   &&&\note{\adjectiverootvacana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\vadanti}{%
+  vadanti = {\dn vadanti} = \they\ vocalize; say\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootvad}
+}
+
 \newcommand{\vadasi}{%
   vadasi = {\dn vadasi} = \you\ vocalize; say\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\

@@ -739,9 +739,7 @@ syllables is eight.)\\
   &&&= knowledge; discovery\\
   &&&\note{\noun, \male}\\
   &&&\\
-  &{\dn vadanti}&va|dan|ti&(they) say\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
-  &&&\note{root: {\dn vad} = vad}\\
+  &{\dn vadanti}&va|dan|ti&\vadanti\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
