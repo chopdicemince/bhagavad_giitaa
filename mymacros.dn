@@ -2318,6 +2318,14 @@
   &&&\note{\nounrootdveSa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootdviS}{\verbroot{\dn dvi.s}{dvi.s}}
+
+\newcommand{\dveSTi}{%
+  dve.s.ti = {\dn dve.s.ti} = \hesheit\ detests; dislikes\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootdviS}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\dhyAyataH}{%
   dhyaayata.h = {\dn dhyaayata.h}\\
   &&&= \ablativephrase/\genitivephrase\ thinking\\
