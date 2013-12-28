@@ -5785,6 +5785,12 @@
   &&&\note{\adjectiverootvacana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\vadasi}{%
+  vadasi = {\dn vadasi} = \you\ vocalize; say\\
+  &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
+  &&&\note{\verbrootvad}
+}
+
 \newcommand{\vada}{%
   vada = {\dn vada} = \you\ vocalize; say\\
   &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
