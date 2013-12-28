@@ -4371,6 +4371,15 @@
   &&&\note{\nounrootprakRti}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootprapad}{\verbroot{\dn prapad}{prapad}}
+
+\newcommand{\prapadyate}{%
+  prapadyate = {\dn prapadyate}\\
+  &&&= \hesheit\ acts; works; does; goes; attains\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootprapad}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootpradRS}{\verbroot{\dn prad.r.s}{prad.r.s}}
 
 \newcommand{\prapazya}{%
