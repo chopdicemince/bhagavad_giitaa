@@ -4379,6 +4379,13 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{\verbrootprapad}
 }
+
+\newcommand{\prapadyante}{%
+  prapadyante = {\dn prapadyante}\\
+  &&&= \they\ act; work; do; go; attain\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
+  &&&\note{\verbrootprapad}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootpradRS}{\verbroot{\dn prad.r.s}{prad.r.s}}
 
