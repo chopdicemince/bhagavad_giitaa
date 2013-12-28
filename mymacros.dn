@@ -4634,6 +4634,14 @@
   &&&\note{\nounrootsahasra}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootsaMjan}{\verbroot{\dn sa.mjan}{sa.mjan}}
+
+\newcommand{\saJjAyate}{%
+  sa\~{}njaayate = {\dn sa~njaayate} = \hesheit\ is born\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootsaMjan}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\saJjayati}{%
   sa"njayati = {\dn sa"njayati}\\
   &&&= \hesheit\ conquers; sticks; is yoked\\
