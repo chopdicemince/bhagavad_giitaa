@@ -2578,6 +2578,12 @@
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{\verbroothan}
 }
+
+\newcommand{\hantum}{%
+  hantum = {\dn hantum} = to hit; hurt; kill\\
+  &&&\note{\verbb, \infinitive}\\
+  &&&\note{\verbroothan}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\icchaa}{%
   icchaa = {\dn iccha} = desire; want; wish\\
