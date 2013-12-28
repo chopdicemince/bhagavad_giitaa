@@ -3596,6 +3596,15 @@
   &&&\note{\nounrootnaraka}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootnibandh}{\verbroot{\dn nibandh}{nibandh}}
+
+\newcommand{\nibadhnaati}{%
+  nibadhnaati = {\dn nibadhnaati}\\
+  &&&= \hesheit\ binds; restrains\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootnibandh}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\niH}{%
   ni.h = {\dn ni.h} = without\\
   &&&\note{\preposition}
