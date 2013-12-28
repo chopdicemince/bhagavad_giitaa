@@ -4104,6 +4104,15 @@
   &&&\note{\nounrootprajJA}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootprakAz}{\verbroot{{\dn pra} + {\dn kaa"s}}{pra + kaa"s}}
+
+\newcommand{\prakAzayati}{%
+  prakaa"sayati = {\dn prakaa"sayati}\\
+  &&&= \hesheit\ shines (on)\\
+  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
+  &&&\note{\verbrootprakAz}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootprakRti}{\nounroot{\dn prak.rti}{prak.rti}}
 \newcommand{\prakRtitemp}{primal/original/uninflected form}
 

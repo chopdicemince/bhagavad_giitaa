@@ -2244,11 +2244,7 @@ Arjuna).\\
 \begin{tabular}{llll}
   1a&{\dn yathaa}&ya|thaa&\yathaa\\
   &&&\\
-  &{\dn prakaa"sayatyeka.h}&pra|kaa|"sa|ya|tye|&prakaa"sayati\\
-  &&&= {\dn prakaa"sayati}\\
-  &&&= (he/she/it) shows; shines on\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn prakaa"s} = prakaa"s}\\
+  &{\dn prakaa"sayatyeka.h}&pra|kaa|"sa|ya|tye|&\prakAzayati\\
   &&&\\
   &&ka\h{a}&eka.h = {\dn eka.h} = one\\
   &&&\note{\noun, \male}\\
@@ -2288,9 +2284,7 @@ Arjuna).\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn prakaa"sayati}&pra|kaa|"sa|ya|ti&(he/she/it) shows; shines on\\
-  &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
-  &&&\note{root: {\dn prakaa"s} = prakaa"s}\\
+  2b&{\dn prakaa"sayati}&pra|kaa|"sa|ya|ti&\prakAzayati\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
 \end{tabular}
