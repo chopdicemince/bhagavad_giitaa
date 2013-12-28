@@ -445,9 +445,9 @@ not-attached---that (man) is best.\\
 
 \kRSNasaidtoarjuna\\
 
-You, do steady action. Surely, action is greater than non-action. And
-also, your body journey (through life) may not succeed in
-non-action.\\
+You, act action restrainedly. Surely, action is greater of (than)
+not-action. And also, the body journey of you (through life) may not
+succeed (with) not-action.\\
 
 \begin{tabular}{llll}
   1a&{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
@@ -457,9 +457,10 @@ non-action.\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn jyaayo}&jyaa|yo&jyaaya.h\\
@@ -472,10 +473,9 @@ non-action.\\
   &&|&\aprefix\\
   &&&\\
   &&kar|ma|.na\h{a}&\karmaNaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sariirayaatraapi}&"sa|rii|ra|&\zarIram\\
   &&&\\
   &&yaa|traa|&{\dn yaatraa}\\
@@ -487,9 +487,10 @@ non-action.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn te}&te&\te\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn prasidhyedakarma.na.h}&pra|si|dhye|da|&prasidhyet\\
@@ -502,6 +503,9 @@ non-action.\\
   &&&\\
   &&kar|ma|.na\h{a}&\karmaNaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 9}
