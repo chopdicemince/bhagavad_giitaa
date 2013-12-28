@@ -4478,6 +4478,14 @@
   &&&\note{\adjectiverootpratiSThita}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootpravac}{\verbroot{\dn pravac}{pravac}}
+
+\newcommand{\pravakSyAmi}{%
+  pravak.syaami = {\dn pravak.syaami} = \I\ will proclaim; say\\
+  &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
+  &&&\note{\verbrootpravac}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootpraviz}{\verbroot{\dn pravi"s}{pravi"s}}
 
 \newcommand{\pravizanti}{%
