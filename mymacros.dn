@@ -5785,6 +5785,12 @@
   &&&\note{\adjectiverootvacana}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\vada}{%
+  vada = {\dn vada} = \you\ vocalize; say\\
+  &&&\note{\verbb, \imperativemood, \secondperson, \singular}\\
+  &&&\note{\verbrootvad}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\vat}{%
   vat = {\dn vat} = full of\\
   &&&\note{\suffix}
