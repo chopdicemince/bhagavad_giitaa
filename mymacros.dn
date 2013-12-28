@@ -1707,6 +1707,12 @@
   &&&\note{\verbrootbhuu}
 }
 
+\newcommand{\bhavaami}{%
+  bhavaami = {\dn bhavaami} = \I\ am\\
+  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
+  &&&\note{\verbrootbhuu}
+}
+
 \newcommand{\bhuutvaa}{%
   bhuutvaa = {\dn bhuutvaa} = having been\\
   &&&\note{\verbb, \perfectparticiple}\\

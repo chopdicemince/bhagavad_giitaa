@@ -476,9 +476,7 @@ Arjuna).\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn bhavaami}&bha|vaa|mi&(I) am\\
-  &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
-  &&&\note{root: {\dn bhuu} = bhuu}\\
+  2a&{\dn bhavaami}&bha|vaa|mi&\bhavaami\\
   &&&\\
   &{\dn na}&na&\na\\
   &&&\\
