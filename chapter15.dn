@@ -264,9 +264,7 @@ syllables.)\\
   &&&\note{\adjective, \male, \instrumentalcase}\\
   &&&\note{from {\dn d.r.dha.h} = d.r.dha.h}\\
   &&&\\
-  &{\dn chittvaa}&chit|tvaa&having cut\\
-  &&&\note{\verbb, \perfectparticiple}\\
-  &&&\note{root: {\dn chid} = chid}\\
+  &{\dn chittvaa}&chit|tvaa&\chittvaa\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

@@ -1980,6 +1980,15 @@
   &&&\note{\nounrootcetas}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\verbrootchid}{\verbroot{\dn chid}{chid}}
+
+\newcommand{\chittvaa}{%
+  chittvaa = {\dn chittvaa}\\
+  &&&= having chopped; cut; destroyed\\
+  &&&\note{\verbb, \perfectparticiple}\\
+  &&&\note{\verbrootchid}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\cittaH}{mind}
 \newcommand{\notecittaH}{\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}}
