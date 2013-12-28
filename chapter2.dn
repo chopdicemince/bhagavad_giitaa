@@ -3240,9 +3240,10 @@ is called equanamity-yoking.\\
   &{\dn kuru}&ku|ru&\kuru\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ----------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sa"nga.m}&sa"n|ga.m&\saGgam\\
   &&&\\
   &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
@@ -3250,10 +3251,9 @@ is called equanamity-yoking.\\
   &{\dn dhana~njaya}&dha|na\~{}n|&\dhanam\\
   &&&\\
   &&ja|ya&\jaya\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn siddhyasiddhyo.h}&sid|dhya|&\siddhiH\\
   &&&\\
   &&|&\aprefix\\
@@ -3263,9 +3263,10 @@ is called equanamity-yoking.\\
   &{\dn samo}&sa|mo&\samaH\\
   &&&\\
   &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn samatva.m}&sa|ma|tva.m&samatvam = {\dn samatvam} = equanimity\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
@@ -3274,6 +3275,9 @@ is called equanamity-yoking.\\
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 49}
@@ -4451,9 +4455,10 @@ instead of the usual eight.)\\
   &&& \note{\adjective}\\
   &&&\\
   &&pra|ti|.s.tha.m&\pratiSTham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn samudramaapa.h}&sa|mu|dra|maa|&samudram\\
   &&&= {\dn samudram}\\
   &&&= sea; ocean\\
@@ -4465,10 +4470,9 @@ instead of the usual eight.)\\
   &{\dn pravi"santi}&pra|vi|"san|ti&\pravizanti\\
   &&&\\
   &{\dn yadvat}&ya|dvat&\yadvat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tadvatkaamaa}&ta|dvat|&\tadvat\\
   &&&\\
   &&kaa|maa&\kAmAH\\
@@ -4478,9 +4482,10 @@ instead of the usual eight.)\\
   &{\dn pravi"santi}&pra|vi|"san|ti&\pravizanti\\
   &&&\\
   &{\dn sarve}&sar|ve&\sarve\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn "saantimaapnoti}&"saan|ti|maap|&\zAntim\\
@@ -4493,6 +4498,9 @@ instead of the usual eight.)\\
   &&&\\
   &&kaa|mii&man of desire (?)\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 71}
