@@ -5913,6 +5913,17 @@
   &&&\note{\adjectiverootvaadin}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootvaakya}{\nounroot{\dn vaakya}{vaakya}}
+\newcommand{\vaakyatemp}{vocalization; speech; phrase}
+
+\newcommand{\vaakyam}{%
+  vaakyam = {\dn vaakyam}\\
+  &&&= \vaakyatemp\\
+  &&&\note{\noun, \neuter}\\
+  &&&\note{\nominativecase, \accusativecase}\\
+  &&&\note{\nounrootvaakya}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootvaayu}{\nounroot{\dn vaayu}{vaayu}}
 \newcommand{\vaayutemp}{(god of) wind; air}
 
