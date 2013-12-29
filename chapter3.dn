@@ -1632,9 +1632,9 @@ eager(ly) (for) the world-gathering.\\
 
 \kRSNasaidtoarjuna\\
 
-(About a wise person:) He may not cause a mind-disturbance of wordly
-action of people not of knowledge. A wise person, experienced in
-performance, may join all actions.\\
+(A wise man) may not create an intelligence-breaking of
+not-(knowledgeable-men) of action-yokings. A wise man may join all
+actions, yoked, practicing.\\
 
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -1651,9 +1651,10 @@ performance, may join all actions.\\
   &&&= (he/she/it) may create; cause; produce\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn jan} = jan}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&da|&\aprefix\\
   &&&\\
   &&j\~{}naa|naa.m&j\~{}naanaam\\
@@ -1666,10 +1667,9 @@ performance, may join all actions.\\
   &&&= of things wordly; contacting; attached\\
   &&&\note{\adjective, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn sa"nginam} = sa"nginam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn jo.sayetsarvakarmaa.ni}&jo|.sa|yet|&{\dn jo.sayet}\\
   &&&= (?) (he/she/it) may join\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
@@ -1679,10 +1679,11 @@ performance, may join all actions.\\
   &&&\notesarva\\
   &&&\\
   &&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
-  2b&{\dn vidvaanyukta.h}&vid|vaa|nyuk|&vidvaan\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&{\dn vidvaanyukta.h}&vi|dvaa|nyuk|&vidvaan\\
   &&&= {\dn vidvaan}\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn vidvas} = vidvas}\\
@@ -1690,10 +1691,13 @@ performance, may join all actions.\\
   &&&\\
   &&ta\h{a}&\yuktaH\\
   &&&\\
-  &{\dn samaacaran}&sa|maa|ca|ran&(?)\\
-  &&&\note{similar: \noun, \neuter, {\dn samaacara.nam}}\\
-  &&&\note{= samaacara.nam = observation; practice; performance}\\
+  &{\dn samaacaran}&sa|maa|ca|ran&practicing\\
+  &&&\note{\verbb, \presentparticiple}\\
+  &&&\note{\verbroot{?}{?}}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 27}
