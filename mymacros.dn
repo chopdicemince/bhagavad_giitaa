@@ -5923,6 +5923,13 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{\nounrootvaakya}
 }
+
+\newcommand{\vaakyena}{%
+  vaakyena = {\dn vaakyena} = \instrumentalphrase\ a/the\\
+  &&&\vaakyatemp\\
+  &&&\note{\noun, \neuter, \instrumentalcase}\\
+  &&&\note{\nounrootvaakya}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootvaayu}{\nounroot{\dn vaayu}{vaayu}}
 \newcommand{\vaayutemp}{(god of) wind; air}
