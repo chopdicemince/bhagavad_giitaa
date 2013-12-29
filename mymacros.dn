@@ -4202,6 +4202,16 @@
   &&&\note{\verbrootparyupaas}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootpati}{\nounroot{\dn pati}{pati}}
+\newcommand{\patitemp}{master/mistress; husband/wife; lord}
+
+\newcommand{\patiH}{%
+  pati.h = {\dn pati.h}\\
+  &&&= \patitemp\\
+  &&&\note{\noun, \male, \female, \nominativecase}\\
+  &&&\note{\nounrootpati}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootdRS}{\verbroot{\dn d.r.s}{d.r.s}}
 
 \newcommand{\pazyati}{%
@@ -4360,7 +4370,15 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootprajaa}{\nounroot{\dn prajaa}{prajaa}}
+\newcommand{\prajaatemp}{seed; descendant; person}
 \newcommand{\prajaapluraltemp}{seeds; descendants; people}
+
+\newcommand{\prajaa}{%
+  prajaa = {\dn prajaa}\\
+  &&&= \prajaatemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootprajaa}
+}
 
 \newcommand{\prajAH}{%
   prajaa.h = {\dn prajaa.h}\\
