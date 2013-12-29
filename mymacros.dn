@@ -3197,9 +3197,8 @@
 \newcommand{\karma}{%
   karma = {\dn karma}\\
   &&&= (\vocativephrase) \karmatemp\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{\vocativecase}\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
   &&&\note{\nounrootkarman}
 }
 
