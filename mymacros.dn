@@ -246,14 +246,6 @@
   &&&\note{\nounroot{\dn k.r.s.na}{k.r.s.na}}
 }
 
-\newcommand{\ardana}{%
-  ardana\\
-  &&&= {\dn ardana}\\
-  &&&= \vocativephrase\ disturbance; distress; excitement\\
-  &&&\note{\noun, \neuter, \vocativecase}\\
-  &&&\note{\nounroot{\dn ardana}{ardana}}
-}
-
 \newcommand{\nounroothRSIkeza}{\nounroot{\dn h.r.siike"sa}{h.r.siike"sa}}
 
 \newcommand{\hRSIkezaH}{%
@@ -1347,6 +1339,13 @@
   &&&\note{\noun, \male, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{\nounrootapamaana}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\ardana}{%
+  ardana = {\dn ardana}\\
+  &&&= \vocativephrase\ disturbance; distress; excitement\\
+  &&&\note{\noun, \neuter, \vocativecase}\\
+  &&&\note{\nounroot{\dn ardana}{ardana}}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootarh}{\verbroot{\dn arh}{arh}}
