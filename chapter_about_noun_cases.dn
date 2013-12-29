@@ -1,0 +1,62 @@
+\chapter*{Noun cases (declensions)}
+
+The following pages have tables of noun cases/declensions. Each noun
+appears in the Bhagavad Gita (specifically, at least one of its cases
+appears).
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Male noun root ending with ``a''}
+
+{\dn ratha akaaranta puli"ngam} = ratha ``a''-end male-gender.\\
+
+ratha = {\dn ratha} = chariot, warrior, enjoyment.\\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn ratha.h}&{\dn rathau}&{\dn rathaa.h}\\
+  &prathamaa&ratha.h&rathau&rathaa.h\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn ratham}&{\dn rathau}&{\dn rathaan}\\
+  &dvitiiyaa&ratham&rathau&rathaan\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn rathena}&{\dn rathaabhyaam}&{\dn rathai.h}\\
+  &t.rtiiyaa&rathena&rathaabhyaam&rathai.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn rathaaya}&{\dn rathaabhyaam}&{\dn rathebhya.h}\\
+  &caturthii&rathaaya&rathaabhyaam&rathebhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn rathaat}&{\dn rathaabhyaam}&{\dn rathebhya.h}\\
+  &pa\~{}ncamii&rathaat&rathaabhyaam&rathebhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn rathasya}&{\dn rathabhyo.h}&{\dn rathaanaam}\\
+  &.si.s.thii&rathasya&rathabhyo.h&rathaanaam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn rathe}&{\dn rathabhyo.h}&{\dn rathe.su}\\
+  &saptamii&rathe&rathabhyo.h&rathe.su\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&{\dn ratha}&{\dn rathau}&{\dn rathaa.h}\\
+  &sambodhana&ratha&rathau&rathaa.h\\
+  \hline
+\end{tabular}

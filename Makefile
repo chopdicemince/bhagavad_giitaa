@@ -3,7 +3,7 @@ all: gita.pdf
 # ------------------------------------------------------------------------------
 gita.pdf: gita.tex
 	pdflatex gita.tex # Run 1.
-	pdflatex gita.tex # Run 2. For any references.
+#	pdflatex gita.tex # Run 2. For any references.
 
 gita.tex: gita.dn \
   mymacros.tex \
@@ -13,6 +13,7 @@ gita.tex: gita.dn \
   chapter_about_sanskrit_history.tex \
   chapter_about_sanskrit_transliteration.tex \
   chapter_about_sanskrit_grammar.tex \
+  chapter_about_noun_cases.tex \
   chapter1.tex \
   chapter2.tex \
   chapter3.tex \
@@ -54,6 +55,9 @@ chapter_about_sanskrit_transliteration.tex: chapter_about_sanskrit_transliterati
 
 chapter_about_sanskrit_grammar.tex: chapter_about_sanskrit_grammar.dn
 	devnag chapter_about_sanskrit_grammar.dn
+
+chapter_about_noun_cases.tex: chapter_about_noun_cases.dn
+	devnag chapter_about_noun_cases.dn
 
 chapter1.tex: chapter1.dn
 	devnag chapter1.dn
