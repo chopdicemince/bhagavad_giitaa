@@ -2319,8 +2319,8 @@ force, as if commanded?\\
 
 God (\textkrsna) said (to Arjuna):\\
 
-This desire, this passion, the emotion-thread-origin, is great-eating
-and great-evil. This knowledge is enmity in this world.\\
+Desire---this anger, this passion-string-birth---(is) mighty-eating
+(and) mighty-evil. (Know) this (desire) in this world (as) enmity.\\
 
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -2338,9 +2338,10 @@ and great-evil. This knowledge is enmity in this world.\\
   &{\dn krodha}&kro|dha&\krodhaH\\
   &&&\\
   &{\dn e.sa}&e|.sa&\eSaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn rajogu.nasamudbhava.h}&ra|jo|&\rajas\\
   &&&\\
   &&gu|.na|&\guNaH\\
@@ -2350,10 +2351,9 @@ and great-evil. This knowledge is enmity in this world.\\
   &&&{\dn samudbhava.h}\\
   &&&= production; existence; origin\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mahaa"sano}&ma|haa|&\mahaan\\
   &&&\\
   &&"sa|no&a"sana.h\\
@@ -2368,9 +2368,10 @@ and great-evil. This knowledge is enmity in this world.\\
   &&&= (?) evil\\
   &&&\note{similar: \noun, \male, {\dn paapman} = paapman}\\
   &&&\note{= evil; sin; calamity}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn viddhyenamiha}&vid|dhye|&\viddhiH\\
   &&&\\
   &&na|mi&\enam\\
@@ -2380,6 +2381,9 @@ and great-evil. This knowledge is enmity in this world.\\
   &{\dn vairi.nam}&vai|ri|.nam&(?) enmity\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 38}
