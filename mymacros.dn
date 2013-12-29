@@ -2453,6 +2453,12 @@
   &&&\note{\nounrooteka}
 }
 
+\newcommand{\ekaa}{%
+  ekaa = {\dn ekaa} = \ekatemp\\
+  &&&\note{\noun, \adjective, \female, \nominativecase}\\
+  &&&\note{\nounrooteka}
+}
+
 \newcommand{\eke}{%
   eke = {\dn eke} = (\vocativephrase) one\\
   &&&\note{\noun, \adjective, \female, \vocativecase}\\
