@@ -1948,8 +1948,8 @@ the mind, without-blessing, without-desiring-possesions---fight. Gone
 
 \kRSNasaidtoarjuna\\
 
-Men who always to this wish of me, with faith, without envy---they are
-free, also, from action.\\
+Men who do this vote of me eternally, (with) faith, not-envious---they
+are free of, also, (actions).\\
 
 \begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
@@ -1961,10 +1961,11 @@ free, also, from action.\\
   &&da.m&\idam\\
   &&&\\
   &{\dn nityamanuti.s.thantimaanavaa.h}&ni|tya|&\nityam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
-  1b&&nu|ti.s|.than|ti|&anuti.s.thanti\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  1b&&ma|nu|ti|.s.than|ti|&anuti.s.thanti\\
   &&&= {\dn anuti.s.thanti}\\
   &&&= (?) (they) do\\
   &&&\note{\verbb, \presenttense,}\\
@@ -1975,23 +1976,25 @@ free, also, from action.\\
   &&&= men; humans\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn maanava.h} = maanava.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sraddhaavanto.anasuuyanto}&"srad|dhaa|&\zraddhA\\
   &&&\\
   &&van|to|&vanta.h\\
   &&&= {\dn vanta.h}\\
   &&&= (?)\\
   &&&\\
-  &&'na|suu|yan|to&anasuuyanta.h\\
-  &&&= {\dn anasuuyanta.h}\\
-  &&&= without envy\\
-  &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
+  &&'na|&\an\\
   &&&\\
+  &&suu|yan|to&asuuyanta.h\\
+  &&&= {\dn asuuyanta.h}\\
+  &&&= envious; jealous; displeased\\
+  &&&\note{\adjective, \male}\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn mucyante}&mu|cyan|te&(they) are free of;\\
   &&&abstain from;\\
   &&&released from\\
@@ -2004,6 +2007,9 @@ free, also, from action.\\
   &&&\\
   &{\dn karmabhi.h}&kar|ma|bhi\h{i}&\karmabhiH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 32}
