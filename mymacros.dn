@@ -2423,6 +2423,12 @@
 \newcommand{\nounrooteka}{\nounroot{\dn eka}{eka}}
 \newcommand{\ekatemp}{one; alone; same}
 
+\newcommand{\ekaH}{%
+  eka.h = {\dn eka.h} = \ekatemp\\
+  &&&\note{\noun, \adjective, \male, \nominativecase}\\
+  &&&\note{\nounrooteka}
+}
+
 \newcommand{\ekam}{%
   ekam = {\dn ekam} = \ekatemp\\
   &&&\note{\noun, \adjective}\\
