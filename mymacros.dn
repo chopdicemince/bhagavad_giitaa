@@ -2420,6 +2420,17 @@
   &&&\note{\adjectiveroot{\dn dhyaayata}{dhyaayata}}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrooteka}{\nounroot{\dn eka}{eka}}
+\newcommand{\ekatemp}{one; alone; same}
+
+\newcommand{\ekam}{%
+  ekam = {\dn ekam} = \ekatemp\\
+  &&&\note{\noun, \adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\nounrooteka}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\enam}{%
   enam = {\dn enam} = (?) this\\
   &&&\note{\pronoun, \demonstrative, \male, \neuter}\\

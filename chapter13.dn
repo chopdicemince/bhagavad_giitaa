@@ -402,8 +402,7 @@ moving \dots\\
   &{\dn da"saika.m}&da|"sai|&da"sa = {\dn da"sa} = ten\\
   &&&\note{\noun}\\
   &&&\\
-  &&ka.m&ekam = {\dn ekam} = one\\
-  &&&\note{\noun, \neuter}\\
+  &&ka.m&\ekam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   % ----------------------------------------------------------------------------
@@ -2046,8 +2045,7 @@ person) attains God.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&&me|ka|&ekam = {\dn ekam} = one\\
-  &&&\note{\noun, \neuter}\\
+  1b&&me|ka|&\ekam\\
   &&&\\
   &&stha|ma|&\stham\\
   &&&\\

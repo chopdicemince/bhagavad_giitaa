@@ -422,8 +422,7 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
 \begin{tabular}{llll}
   1a&{\dn ihaikastha.m}&i|hai|&\iha\\
   &&&\\
-  &&ka|&ekam = {\dn ekam} = one\\
-  &&&\note{\noun, \neuter}\\
+  &&ka|&\ekam\\
   &&&\\
   &&stha.m&\stham\\
   &&&\\
@@ -849,9 +848,7 @@ all, partitioned in many ways.\\
 \begin{tabular}{llll}
   1a&{\dn tatraikastha.m}&ta|trai|&\tatra\\
   &&&\\
-  &&ka|&ekam = {\dn ekam} = one\\
-  &&&\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}\\
+  &&ka|&\ekam\\
   &&&\\
   &&stha.m&\stham\\
   &&&\\
