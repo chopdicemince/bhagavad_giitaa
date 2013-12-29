@@ -1061,8 +1061,8 @@ son of P.rthaa (O Arjuna).\\
 
 \kRSNasaidtoarjuna\\
 
-But one man (who has) self-love, really, is perhaps self-satisfied,
-and is ``self'' (?), really, and satisfied---his act does not exist.\\
+But he who (has) self-love, really, may be self-satisfied and a man in
+the self, really, and satisfied. The action of him does not exist.\\
 
 \begin{tabular}{llll}
   1a&{\dn yastvaatmaratireva}&ya|&\yaH\\
@@ -1081,9 +1081,10 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&va&\eva\\
   &&&\\
   &{\dn syaadaatmat.rpta"sca}&syaa|&\syaat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&daat|ma|&aatman\\
   &&&= {\dn aatman}\\
   &&&= O self; soul\\
@@ -1099,23 +1100,23 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&&\\
   &{\dn maanava.h}&maa|na|va\h{a}&man; human; mankind\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aatmanyeva}&aat|ma|nye|&\aatmani\\
   &&&\\
   &&va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
   &&&\\
-  &{\dn santu.s.tastasya}&san|tu.s|.ta|&santu.s.ta.h\\
+  &{\dn santu.s.tastasya}&san|tu|.s.ta|&santu.s.ta.h\\
   &&&= {\dn santu.s.ta.h}\\
   &&&= content; pleased; satisfied\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&sta|sya&\tasya\\
   &&&\\
   &{\dn kaarya.m}&kaar|ya.m&\kaaryam\\
@@ -1124,6 +1125,9 @@ and is ``self'' (?), really, and satisfied---his act does not exist.\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&\vidyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 18}
