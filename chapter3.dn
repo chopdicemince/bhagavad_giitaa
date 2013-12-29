@@ -1752,9 +1752,9 @@ altogether. The ego from the stupid self thinks, ``I am an actor.''\\
 
 \kRSNasaidtoarjuna\\
 
-A truth-knower, O great-arm (O Arjuna), having thought about the two
-thread-action-differences, ``Threads are in threads,'' he does not
-attach to threads.\\
+But a truth-(knower), O mighty-arm (O Arjuna), having thought of the
+thread-action-two-differences---threads are in threads, thus---does
+not stick.\\
 
 \begin{tabular}{llll}
   1a&{\dn tattvavittu}&tat|tva|&\tattvam\\
@@ -1767,9 +1767,10 @@ attach to threads.\\
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn gu.nakarmavibhaagayo.h}&gu|.na|&\guNaH\\
   &&&\\
   &&kar|ma|&\karma\\
@@ -1780,10 +1781,9 @@ attach to threads.\\
   &&&\note{\noun, \male, \dual, \genitivecase,}\\
   &&&\note{\locativecase}\\
   &&&\note{from {\dn vibhaaga.h} = vibhaaga.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gu.naa}&gu|.naa&\guNAH\\
   &&&\\
   &{\dn gu.ne.su}&gu|.ne|.su&\guNeSu\\
@@ -1793,12 +1793,13 @@ attach to threads.\\
   &&&= (they) are\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn v.rt} = v.rt}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn iti}&i|ti&\iti\\
   &&&\\
-  &{\dn matvaa}&mat|vaa&(?) having thought\\
+  &{\dn matvaa}&ma|tvaa&(?) having thought\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn man} = man}\\
   &&&\\
@@ -1807,6 +1808,9 @@ attach to threads.\\
   &{\dn sajjate}&saj|ja|te&(?) (he/she/it) attaches\\
   &&&\note{root: {\dn sajj} = sajj}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 3, Verse 29}
