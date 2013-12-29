@@ -395,10 +395,7 @@ born (from them).\\
   &&&\\
   &{\dn imaa.h}&i|maa\h{aa}&\imAH\\
   &&&\\
-  &{\dn prajaa.h}&pra|jaa\h{aa}&people/things bearing\\
-  &&&\note{\adjective, \female, \plural}\\
-  &&&\note{\nominativecase, \accusativecase}\\
-  &&&\note{from {\dn prajaa} = prajaa}\\
+  &{\dn prajaa.h}&pra|jaa\h{aa}&\prajAH\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

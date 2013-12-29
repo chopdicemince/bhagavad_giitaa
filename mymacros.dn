@@ -4359,6 +4359,17 @@
   &&&\note{\verbrootprabhuu}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\nounrootprajaa}{\nounroot{\dn prajaa}{prajaa}}
+\newcommand{\prajaapluraltemp}{seeds; descendants; people}
+
+\newcommand{\prajAH}{%
+  prajaa.h = {\dn prajaa.h}\\
+  &&&= (\vocativephrase) \prajaapluraltemp\\
+  &&&\note{\noun, \female, \plural, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounrootprajaa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\verbrootprajJA}{\verbroot{\dn praj~naa}{praj\~{}naa}}
 
 \newcommand{\prajaanaati}{%
