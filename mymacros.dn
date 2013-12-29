@@ -2430,6 +2430,12 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\nounrooteka}
 }
+
+\newcommand{\eke}{%
+  eke = {\dn eke} = (\vocativephrase) one\\
+  &&&\note{\noun, \adjective, \female, \vocativecase}\\
+  &&&\note{\nounrooteka}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\enam}{%
   enam = {\dn enam} = (?) this\\
