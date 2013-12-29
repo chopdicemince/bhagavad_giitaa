@@ -2431,6 +2431,14 @@
   &&&\note{\nounrooteka}
 }
 
+\newcommand{\ekena}{%
+  ekena = {\dn ekena} = \instrumentalphrase\\
+  &&&\ekatemp\\
+  &&&\note{\noun, \adjective, \male, \neuter}\\
+  &&&\note{\instrumentalcase}\\
+  &&&\note{\nounrooteka}
+}
+
 \newcommand{\eke}{%
   eke = {\dn eke} = (\vocativephrase) one\\
   &&&\note{\noun, \adjective, \female, \vocativecase}\\
