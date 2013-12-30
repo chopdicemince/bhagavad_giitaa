@@ -1987,11 +1987,17 @@
   &&&\note{\nounrootbhaya}
 }
 % ------------------------------------------------------------------------------
-\newcommand{\brahman}{God}
-\newcommand{\notebrahman}{\note{\noun, \neuter}\\
-  &&&\note{\nominativecase, \accusativecase}}
+\newcommand{\nounrootbrahman}{\nounroot{\dn brahman}{brahman}}
+\newcommand{\brahmantemp}{God; devotion}
 
-\newcommand{\brahmaNaH}{\ablativephrase/\genitivephrase\ \brahman; Gods}
+\newcommand{\brahma}{%
+  brahma = {\dn brahma} = (\vocativephrase) \brahmantemp\\
+  &&&\note{\noun, \neuter, \nominativecase}\\
+  &&&\note{\accusativecase, \vocativecase}\\
+  &&&\note{\nounrootbrahman}
+}
+
+\newcommand{\brahmaNaH}{\ablativephrase/\genitivephrase\ \brahmantemp; Gods}
 \newcommand{\notebrahmaNaH}{\note{\noun, \neuter}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{or}\\

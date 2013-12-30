@@ -1764,10 +1764,7 @@ wicked.\\
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn brahmabhuutamakalma.sam}&brah|ma|&brahman\\
-  &&&= {\dn brahman}\\
-  &&&= \brahman\\
-  &&&\notebrahman\\
+  2b&{\dn brahmabhuutamakalma.sam}&brah|ma|&\brahma\\
   &&&\\
   &&bhuu|ta|ma|&\bhuutam\\
   &&&\\
@@ -1817,10 +1814,7 @@ completely.\\
 \begin{tabular}{llll}
   2a&{\dn sukhena}&su|khe|na&\sukhena\\
   &&&\\
-  &{\dn brahmasa.mspar"samatyanta.m}&brah|ma|&brahman\\
-  &&&= {\dn brahman}\\
-  &&&= \brahman\\
-  &&&\notebrahman\\
+  &{\dn brahmasa.mspar"samatyanta.m}&brah|ma|&\brahma\\
   &&&\\
   &&sa.m|spar|"sa|&sa.mspar"sam\\
   &&&= {\dn sa.mspar"sam}\\
