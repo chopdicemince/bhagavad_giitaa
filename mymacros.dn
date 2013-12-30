@@ -4691,6 +4691,15 @@
   &&&\note{\adverb, \indeclinable}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\adjectiverootpurANa}{\adjectiveroot{\dn puraa.na}{puraa.na}}
+\newcommand{\purANatemp}{old; ancient}
+
+\newcommand{\purANaH}{%
+  puraa.na.h = {\dn puraa.na.h} = \purANatemp\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiverootpurANa}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootpuruSa}{\nounroot{\dn puru.sa}{puru.sa}}
 \newcommand{\puruSatemp}{man; soul; spirit; God}
 \newcommand{\puruSapluraltemp}{men; souls; spirits; Gods}
