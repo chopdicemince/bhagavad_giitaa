@@ -4699,6 +4699,14 @@
   &&&\note{\adjective, \male, \nominativecase}\\
   &&&\note{\adjectiverootpurANa}
 }
+
+\newcommand{\purANam}{%
+  puraa.nam = {\dn puraa.nam} = \purANatemp\\
+  &&&\note{\adjective}\\
+  &&&\note{\male, \accusativecase}\\
+  &&&\note{\neuter, \nominativecase, \accusativecase}\\
+  &&&\note{\adjectiverootpurANa}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpuruSa}{\nounroot{\dn puru.sa}{puru.sa}}
 \newcommand{\puruSatemp}{man; soul; spirit; God}
