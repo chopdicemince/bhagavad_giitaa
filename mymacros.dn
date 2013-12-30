@@ -4617,6 +4617,13 @@
   &&&\note{\nounrootpRthivI}
 }
 
+\newcommand{\pRthivyAm}{%
+  p.rthivyaam = {\dn p.rthivyaam}\\
+  &&&= \locativephrase\ a/the \pRthivItemp\\
+  &&&\note{\noun, \female, \locativecase}\\
+  &&&\note{\nounrootpRthivI}
+}
+
 \newcommand{\pRthivyoH}{%
   p.rthivyo.h = {\dn p.rthivyo.h}\\
   &&&= \genitivephrase/\locativephrase\ \pRthivIdualtemp\\
