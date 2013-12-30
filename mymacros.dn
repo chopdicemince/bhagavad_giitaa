@@ -4708,6 +4708,12 @@
   &&&\note{\adjectiverootpurANa}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\purAtanaH}{%
+  puraatana.h = {\dn puraatana.h} = old; ancient\\
+  &&&\note{\adjective, \male, \nominativecase}\\
+  &&&\note{\adjectiveroot{\dn puraatana}{puraatana}}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootpuruSa}{\nounroot{\dn puru.sa}{puru.sa}}
 \newcommand{\puruSatemp}{man; soul; spirit; God}
 \newcommand{\puruSapluraltemp}{men; souls; spirits; Gods}
