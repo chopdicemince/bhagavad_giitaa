@@ -4685,6 +4685,12 @@
   &&&\note{\adverb}
 }
 % ------------------------------------------------------------------------------
+\newcommand{\puraa}{%
+  puraa = {\dn puraa}\\
+  &&&= previously; in the past; long ago\\
+  &&&\note{\adverb, \indeclinable}
+}
+% ------------------------------------------------------------------------------
 \newcommand{\nounrootpuruSa}{\nounroot{\dn puru.sa}{puru.sa}}
 \newcommand{\puruSatemp}{man; soul; spirit; God}
 \newcommand{\puruSapluraltemp}{men; souls; spirits; Gods}
