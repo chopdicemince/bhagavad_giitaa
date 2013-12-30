@@ -1139,6 +1139,12 @@
   &&&\note{\vocativecase}\\
   &&&\note{\nounrootaatman}
 }
+
+\newcommand{\AtmabhiH}{%
+  aatmabhi.h = {\dn aatmabhi.h} = \instrumentalphrase\ \aatmanpluraltemp\\
+  &&&\note{\noun, \male, \plural, \instrumentalcase}\\
+  &&&\note{\nounrootaatman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootabhidhii}{\verbroot{\dn abhidhii}{abhidhii}}
 
