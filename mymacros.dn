@@ -1217,6 +1217,13 @@
   &&&\note{\neuter, \nominativecase, \accusativecase}\\
   &&&\note{\adjectiverootadhyaatma}
 }
+
+\newcommand{\adhyaatmaa}{%
+  adhyaatmaa = {\dn adhyaatmaa}\\
+  &&&= \adhyaatmatemp\\
+  &&&\note{\adjective, \female, \nominativecase}\\
+  &&&\note{\adjectiverootadhyaatma}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootagni}{\nounroot{\dn agni}{agni}}
 \newcommand{\agnitemp}{fire; god of fire; digestive fluid; bile}
