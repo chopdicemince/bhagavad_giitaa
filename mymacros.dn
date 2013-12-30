@@ -4211,6 +4211,13 @@
   &&&\note{\noun, \male, \female, \nominativecase}\\
   &&&\note{\nounrootpati}
 }
+
+\newcommand{\pate}{%
+  pate = {\dn pate}\\
+  &&&= (\vocativephrase) \patitemp\\
+  &&&\note{\noun, \male, \female, \vocativecase}\\
+  &&&\note{\nounrootpati}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootdRS}{\verbroot{\dn d.r.s}{d.r.s}}
 
@@ -4592,6 +4599,15 @@
   &&&devote themselves to; have sex with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{\verbrootpraviz}
+}
+% ------------------------------------------------------------------------------
+\newcommand{\nounrootpRthivI}{\nounroot{\dn p.rthivii}{p.rthivii}}
+\newcommand{\pRthivItemp}{earth; land}
+
+\newcommand{\pRthivI}{%
+  p.rthivii = {\dn p.rthivii} = \pRthivItemp\\
+  &&&\note{\noun, \female, \nominativecase}\\
+  &&&\note{\nounrootpRthivI}
 }
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpriya}{\adjectiveroot{\dn priya}{priya}}
