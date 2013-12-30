@@ -1997,11 +1997,11 @@
   &&&\note{\nounrootbrahman}
 }
 
-\newcommand{\brahmaNaH}{\ablativephrase/\genitivephrase\ \brahmantemp; Gods}
-\newcommand{\notebrahmaNaH}{\note{\noun, \neuter}\\
-  &&&\note{\ablativecase, \genitivecase}\\
-  &&&\note{or}\\
-  &&&\note{\plural, \accusativecase}}
+\newcommand{\brahmaNaH}{%
+  brahma.na.h = {\dn brahma.na.h} = \genitivephrase/\locativephrase\ \brahmantemp\\
+  &&&\note{\noun, \neuter, \genitivecase, \locativecase}\\
+  &&&\note{\nounrootbrahman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\cara}{moving}
 \newcommand{\notecara}{\note{\adjective}}
