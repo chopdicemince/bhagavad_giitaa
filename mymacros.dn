@@ -430,6 +430,13 @@
   &&&\note{\nounroottad}
 }
 
+\newcommand{\taiH}{%
+  tai.h = {\dn tai.h} = \instrumentalphrase\ those/them\\
+  &&&\note{\pronoun, \demonstrative, \thirdperson}\\
+  &&&\note{\male, \neuter, \plural, \instrumentalcase}\\
+  &&&\note{\nounroottad}
+}
+
 \newcommand{\teSAm}{%
   te.saam = {\dn te.saam} = \genitivephrase\ them; their\\
   &&&\note{\pronoun, \demonstrative, \thirdperson}\\
