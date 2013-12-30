@@ -4603,6 +4603,7 @@
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootpRthivI}{\nounroot{\dn p.rthivii}{p.rthivii}}
 \newcommand{\pRthivItemp}{earth; land}
+\newcommand{\pRthivIdualtemp}{two earths; lands}
 
 \newcommand{\pRthivI}{%
   p.rthivii = {\dn p.rthivii} = \pRthivItemp\\
@@ -4613,6 +4614,14 @@
 \newcommand{\pRthivIm}{%
   p.rthiviim = {\dn p.rthiviim} = \pRthivItemp\\
   &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootpRthivI}
+}
+
+\newcommand{\pRthivyoH}{%
+  p.rthivyo.h = {\dn p.rthivyo.h}\\
+  &&&= \genitivephrase/\locativephrase\ \pRthivIdualtemp\\
+  &&&\note{\noun, \female, \dual}\\
+  &&&\note{\genitivecase, \locativecase}\\
   &&&\note{\nounrootpRthivI}
 }
 % ------------------------------------------------------------------------------
