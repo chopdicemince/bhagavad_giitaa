@@ -1734,11 +1734,7 @@ known-selves.\\
   &&&= known\\
   &&&\note{\adjective}\\
   &&&\\
-  &&ma|naam&aatmanaam\\
-  &&&= {\dn aatmanaam}\\
-  &&&= of selves; souls\\
-  &&&\note{\noun, \male, \plural, \genitivecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  &&ma|naam&\aatmanaam\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------

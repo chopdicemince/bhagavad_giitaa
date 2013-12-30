@@ -1145,6 +1145,12 @@
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{\nounrootaatman}
 }
+
+\newcommand{\aatmanaam}{%
+  aatmanaam = {\dn aatmanaam} = \genitivephrase\ \aatmanpluraltemp\\
+  &&&\note{\noun, \male, \plural, \genitivecase}\\
+  &&&\note{\nounrootaatman}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\verbrootabhidhii}{\verbroot{\dn abhidhii}{abhidhii}}
 
