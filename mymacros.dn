@@ -4609,6 +4609,12 @@
   &&&\note{\noun, \female, \nominativecase}\\
   &&&\note{\nounrootpRthivI}
 }
+
+\newcommand{\pRthivIm}{%
+  p.rthiviim = {\dn p.rthiviim} = \pRthivItemp\\
+  &&&\note{\noun, \female, \accusativecase}\\
+  &&&\note{\nounrootpRthivI}
+}
 % ------------------------------------------------------------------------------
 \newcommand{\adjectiverootpriya}{\adjectiveroot{\dn priya}{priya}}
 \newcommand{\priyatemp}{pleasing; pleasant; favorite; loved; dear}
