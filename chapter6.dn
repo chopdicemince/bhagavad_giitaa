@@ -1626,10 +1626,7 @@ may think of not any (thing), also.\\
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn aatmasa.mstha.m}&aat|ma|&{\dn aatman}\\
-  &&&= O self; soul\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  2a&{\dn aatmasa.mstha.m}&aat|ma|&\aatman\\
   &&&\\
   &&sa.m|stha.m&sa.mstham\\
   &&&= {\dn sa.mstham}\\
@@ -2021,11 +2018,7 @@ Arjuna. Happiness, yes/no? If distress, yes/no? That devotee is
 paramount.\\
 
 \begin{tabular}{llll}
-  1a&{\dn aatmaupamyena}&aat|mau|&aatman\\
-  &&&= {\dn aatman}\\
-  &&&= O self; soul\\
-  &&&\note{\noun, \male, \vocativecase}\\
-  &&&\note{from {\dn aatman} = aatman}\\
+  1a&{\dn aatmaupamyena}&aat|mau|&\aatman\\
   &&&\\
   &&pa|mye|na&aupamyena\\
   &&&= {\dn aupamyena}\\

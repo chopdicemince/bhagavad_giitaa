@@ -1089,29 +1089,29 @@
 }
 % ------------------------------------------------------------------------------
 \newcommand{\nounrootaatman}{\nounroot{\dn aatman}{aatman}}
-\newcommand{\aatman}{self; soul}
+\newcommand{\aatmantemp}{self; soul}
 \newcommand{\aatmanpluraltemp}{selves; souls}
 
 \newcommand{\aatmaa}{%
-  aatmaa = {\dn aatmaa} = \aatman\\
+  aatmaa = {\dn aatmaa} = \aatmantemp\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounrootaatman}
 }
 
 \newcommand{\aatmaanam}{%
-  aatmaanam = {\dn aatmaanam} = \aatman\\
+  aatmaanam = {\dn aatmaanam} = \aatmantemp\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{\nounrootaatman}
 }
 
 \newcommand{\aatmanaa}{%
-  aatmanaa = {\dn aatmanaa} = \instrumentalphrase\ a/the \aatman\\
+  aatmanaa = {\dn aatmanaa} = \instrumentalphrase\ a/the \aatmantemp\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{\nounrootaatman}
 }
 
 \newcommand{\AtmanaH}{%
-  aatmana.h = {\dn aatmana.h} = \ablativephrase/\genitivephrase\ a/the \aatman;\\
+  aatmana.h = {\dn aatmana.h} = \ablativephrase/\genitivephrase\ a/the \aatmantemp;\\
   &&&selves; souls\\
   &&&\note{\noun, \male}\\
   &&&\note{\ablativecase, \genitivecase}\\
@@ -1120,8 +1120,14 @@
 }
 
 \newcommand{\aatmani}{%
-  aatmani = {\dn aatmani} = \locativephrase\ a/the \aatman\\
+  aatmani = {\dn aatmani} = \locativephrase\ a/the \aatmantemp\\
   &&&\note{\noun, \male, \locativecase}\\
+  &&&\note{\nounrootaatman}
+}
+
+\newcommand{\aatman}{%
+  aatman = {\dn aatman} = \vocativephrase\ \aatmantemp\\
+  &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{\nounrootaatman}
 }
 
