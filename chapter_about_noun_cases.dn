@@ -1,15 +1,53 @@
-\chapter*{Noun cases (declensions)}
+\chapter*{Noun cases/declensions}
 
-The following pages have tables of noun cases/declensions. Each noun
-appears in the Bhagavad Gita (specifically, at least one of its cases
-appears).
+The following pages have the cases/declensions of various nouns. For
+some nouns, at least one of their cases appears in the Bhagavad
+Gita.\\
+
+Note: we use the convention that Case 8 is the vocative case. Not all
+people follow this convention.\\
+
+If you are trying to memorize cases, below are some tips:
+
+\begin{itemize}
+
+\item In the tables of cases, memorize by columns, not by rows. That
+  is, first choose ``singular,'' ``dual,'' or ``plural,'' and then try
+  to memorize all the cases for your choice.
+
+\item First memorize the cases for ``dual.'' Often, for ``dual,'' the
+  (eight) cases have the following pattern: A, A, B, B, B, C, C, A
+  (but the last A could be a D). Sometimes, the B's end with ``bhyaam
+  = {\dn bhyaam},'' and the C's end with ``o.h = {\dn o.h}.''
+
+\item Sometimes, male nouns and neuter nouns share many
+  cases. Sometimes the only differences appear in Case 1 (nominative)
+  and Case 2 (accusative).
+
+\item Sometimes, neuter nouns have the same cases for Case 1
+  (nominative) and Case 2 (accusative).
+
+\item Sometimes, Case 8 (vocative) is the same as (or very similar to)
+  Case 1 (nominative).
+
+\item Sometimes, noun roots which end with ``u'' have ``v'' in some of
+  their cases.
+
+\item Sometimes, cases seem to follow a pattern, regardless of the
+  gender of the noun, or other factors. For example, a case which ends
+  with ``.su = {\dn .su}'' or ``su = {\dn su}'' might be Case 7
+  (locative) plural, which means ``at/in/on things.''
+
+\end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Male noun root ending with ``a''}
+\section*{Male noun root which ends with: a}
 
-{\dn ratha akaaranta puli"ngam} = ratha ``a''-end male-gender.\\
+ratha = {\dn ratha} = chariot, warrior, enjoyment.\\
 
-ratha = {\dn ratha} = chariot, warrior, enjoyment.\\\
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
+between the two armies.\\
 
 \begin{tabular}{|l|l|l|l|l|}
   \hline
@@ -46,13 +84,13 @@ ratha = {\dn ratha} = chariot, warrior, enjoyment.\\\
   \hline
   6&genitive&&&\\
   &&&&\\
-  &{\dn .si.s.thii}&{\dn rathasya}&{\dn rathabhyo.h}&{\dn rathaanaam}\\
-  &.si.s.thii&rathasya&rathabhyo.h&rathaanaam\\
+  &{\dn .si.s.thii}&{\dn rathasya}&{\dn rathayo.h}&{\dn rathaanaam}\\
+  &.si.s.thii&rathasya&rathayo.h&rathaanaam\\
   \hline
   7&locative&&&\\
   &&&&\\
-  &{\dn saptamii}&{\dn rathe}&{\dn rathabhyo.h}&{\dn rathe.su}\\
-  &saptamii&rathe&rathabhyo.h&rathe.su\\
+  &{\dn saptamii}&{\dn rathe}&{\dn rathayo.h}&{\dn rathe.su}\\
+  &saptamii&rathe&rathayo.h&rathe.su\\
   \hline
   8&vocative&&&\\
   &&&&\\
@@ -60,3 +98,273 @@ ratha = {\dn ratha} = chariot, warrior, enjoyment.\\\
   &sambodhana&ratha&rathau&rathaa.h\\
   \hline
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Male noun root which ends with: u}
+
+baahu = {\dn baahu} = forearm; arm.\\
+
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 2, Verse 68, K.r.sna addresses Arjuna as {\dn mahaabaaho} =
+mahaabaaho = mighty-arm.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn baahu.h}&{\dn bahuu}&{\dn baahava.h}\\
+  &prathamaa&baahu.h&bahuu&baahava.h\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn baahum}&{\dn baahuu}&{\dn baahuun}\\
+  &dvitiiyaa&baahum&baahuu&baahuun\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn baahunaa}&{\dn baahubhyaam}&{\dn baahubhi.h}\\
+  &t.rtiiyaa&baahunaa&baahubhyaam&baahubhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn baahave}&{\dn baahubhyaam}&{\dn baahubhya.h}\\
+  &caturthii&baahave&baahuubhyaam&baahubhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn baaho.h}&{\dn baahubhyaam}&{\dn baahubhya.h}\\
+  &pa\~{}ncamii&baaho.ht&baahubhyaam&baahubhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn baaho.h}&{\dn baahvo.h}&{\dn baahuunaam}\\
+  &.si.s.thii&baaho.h&baahvo.h&baahuunaam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn baahau}&{\dn baahvo.h}&{\dn baahu.su}\\
+  &saptamii&baahau&baahvo.h&baahu.su\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&{\dn baaho}&{\dn baahuu}&{\dn baahava.h}\\
+  &sambodhana&baaho&baahuu&baahava.h\\
+  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Neuter noun root which ends with: a}
+
+phala = {\dn phala} = fruit; result.\\
+
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 2, Verse 43, K.r.sna talks with Arjuna about ``action fruit''
+(``fruit of action'').\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn phalam}&{\dn phale}&{\dn phalaani}\\
+  &prathamaa&phalam&phale&phalaani\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn phalam}&{\dn phale}&{\dn phalaani}\\
+  &dvitiiyaa&phalam&phale&phalaani\\
+  \hline
+\end{tabular}\\
+
+The rows for cases 3 to 8 follow the same forms as if the noun were
+male.\\
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Neuter noun root which ends with: an}
+
+karman = {\dn karman} = act; action; work; doing; deed.\\
+
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 2, Verse 43, K.r.s.na talks with Arjuna about ``action fruit''
+(``fruit of action'').\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn karma}&{\dn karma.nii}&{\dn karmaa.ni}\\
+  &prathamaa&karma&karma.nii&karmaa.ni\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn karma}&{\dn karma.nii}&{\dn karmaa.ni}\\
+  &dvitiiyaa&karma&karma.nii&karmaa.ni\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn karma.naa}&{\dn karmabhyaam}&{\dn karmabhi.h}\\
+  &t.rtiiyaa&karma.naa&karmabhyaam&karmabhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn karma.ne}&{\dn karmabhyaam}&{\dn karmabhya.h}\\
+  &caturthii&karma.ne&karmabhyaam&karmabhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn karma.ne}&{\dn karmabhyaam}&{\dn karmabhya.h}\\
+  &pa\~{}ncamii&karma.ne&karmabhyaam&karmabhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn karma.na.h}&{\dn karma.no.h}&{\dn karma.naam}\\
+  &.si.s.thii&karma.na.h&karma.no.h&karma.naam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn karma.na.h}&{\dn karma.no.h}&{\dn karmasu}\\
+  &saptamii&karma.na.h&karma.no.h&karmasu\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&{\dn karma(n)}&{\dn karma.ni}&{\dn karmaa.ni}\\
+  &sambodhana&karma(n)&karma.ni&karmaa.ni\\
+  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Female noun root which ends with: aa}
+
+senaa = {\dn senaa} = army.\\
+
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
+between the two armies.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn senaa}&{\dn sene}&{\dn senaa.h}\\
+  &prathamaa&senaa&sene&senaa.h\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn senaam}&{\dn sene}&{\dn senaa.h}\\
+  &dvitiiyaa&senaam&sene&senaa.h\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn senayaa}&{\dn senaabhyaam}&{\dn senaabhi.h}\\
+  &t.rtiiyaa&senayaa&senaabhyaam&senaabhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn senaayai}&{\dn senaabhyaam}&{\dn senaabhya.h}\\
+  &caturthii&senaayai&senaabhyaam&senaabhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn senaayaa.h}&{\dn senaabhyaam}&{\dn senaabhya.h}\\
+  &pa\~{}ncamii&senaayaa.h&senaabhyaam&senaabhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn senaayaa.h}&{\dn senayo.h}&{\dn senaanaam}\\
+  &.si.s.thii&senaayaa.h&senayo.h&senaanaam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn senaayaam}&{\dn senayo.h}&{\dn senaasu}\\
+  &saptamii&senaayaam&senayo.h&senaasu\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&{\dn sene}&{\dn sene}&{\dn senaa.h}\\
+  &sambodhana&sene&sene&senaa.h\\
+  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section*{Female noun root which ends with: i}
+
+buddhi = {\dn buddhi} = brainpower; intelligence.\\
+
+At least one case of this noun appears in the Bhagavad Gita: In
+Chapter 3, Verse 42, K.r.s.na tells Arjuna that intelligence is better
+than the mind.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn buddhi.h}&{\dn buddhii}&{\dn buddhaya.h}\\
+  &prathamaa&buddhi.h&buddhii&buddhaya.h\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn buddhim}&{\dn buddhii}&{\dn buddhii.h}\\
+  &dvitiiyaa&buddhim&buddhii&buddhii.h\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn buddhyaa}&{\dn buddhibhyaam}&{\dn buddhibhi.h}\\
+  &t.rtiiyaa&buddhyaa&buddhibhyaam&buddhibhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn buddhyai}/{\dn buddhaye}&{\dn buddhibhyaam}&{\dn buddhibhya.h}\\
+  &caturthii&buddhyai/buddhaye&buddhibhyaam&buddhibhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn buddhyaa.h}/{\dn buddhe.h}&{\dn buddhibhyaam}&{\dn buddhibhya.h}\\
+  &pa\~{}ncamii&buddhyaa.h/buddhe.h&{\dn buddhibhyaam}&buddhibhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn buddhyaa.h}/{\dn buddhe.h}&{\dn buddhyo.h}&{\dn buddhiinaam}\\
+  &.si.s.thii&buddhyaa.h/buddhe.h&buddhyo.h&buddhiinaam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn buddhyaam}/{\dn buddhau}&{\dn buddhyo.h}&{\dn buddhi.su}\\
+  &saptamii&buddhyaam/buddhau&buddhyo.h&buddhi.su\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&{\dn buddhe}&{\dn buddhii}&{\dn buddhaya.h}\\
+  &sambodhana&buddhe&buddhii&buddhaya.h\\
+  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
