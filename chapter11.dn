@@ -28,9 +28,10 @@ eight.)\\
   &&&\note{from {\dn anugraha.h} = anugraha.h}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&\paramam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn guhyamadhyaatmasa.mj~nitam}&gu|hya|ma|&\guhyam\\
   &&&\\
   &&dhyaat|ma|&\adhyaatmam\\
@@ -38,10 +39,9 @@ eight.)\\
   &&sa.m|j\~{}ni|tam&{\dn sa.mj~nitam}\\
   &&&= known; called; named\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yattvayokta.m}&yat|&\yat\\
   &&&\\
   &&tva|yok|&tvayaa = {\dn tvayaa} = \tvayaa\\
@@ -58,9 +58,10 @@ eight.)\\
   &&na&tena = {\dn tena} = by using that/it\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn tat} = tat}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn moho.aya.m}&mo|ho|&moha.h\\
   &&&= {\dn moha.h}\\
   &&&= confusion; bewilderment\\
@@ -75,6 +76,9 @@ eight.)\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 2}
@@ -291,9 +295,10 @@ thousands---various divine forms and various color forms.\\
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
   &{\dn ruupaa.ni}&ruu|paa|.ni&\rUpANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "sata"so.atha}&"sa|ta|"so|&"sata"sa.h\\
   &&&= {\dn "sata"sa.h}\\
   &&&= (?) by hundreds\\
@@ -303,10 +308,9 @@ thousands---various divine forms and various color forms.\\
   &&&\\
   &{\dn sahasra"sa.h}&sa|ha|sra|"sa\h{a}&by thousands\\
   &&&\note{\adverb}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn naanaavidhaani}&naa|naa|&{\dn naanaa}\\
   &&&= various; variously\\
   &&&\note{\adjective, \adverb, \indeclinable}\\
@@ -317,9 +321,10 @@ thousands---various divine forms and various color forms.\\
   &{\dn divyaani}&di|vyaa|ni&divine\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn divyam} = divyam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naanaavar.naak.rtiini}&naa|naa|&{\dn naanaa}\\
   &&&= various; variously\\
   &&&\note{\adjective, \adverb, \indeclinable}\\
@@ -337,6 +342,9 @@ thousands---various divine forms and various color forms.\\
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 6}
@@ -427,9 +435,10 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&&\\
   &&k.rts|na.m&k.rtsnam = {\dn k.rtsnam} = all\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pa"syaadya}&pa|"syaa|&\pazya\\
   &&&\\
   &&dya&adya = {\dn adya} = today\\
@@ -445,18 +454,18 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&ca|ram&caram = {\dn caram} = \caram\\
   &&&\notecaram\\
   &&&\note{from {\dn cara.h} = cara.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn dehe}&de|he&\dehe\\
   &&&\\
   &{\dn gu.daake"sa}&gu|.daa|ke|"sa&\guDAkeza\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yaccaanyaddra.s.tumicchasi}&yac|&\yat\\
   &&&\\
   &&caa|&\ca\\
@@ -471,6 +480,9 @@ non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   &&&\\
   &&cha|si&\icchasi\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 8}
@@ -1034,6 +1046,7 @@ syllables, instead of the usual eight.)\\
   &&&\\
   &&stham&\stham\\
 \end{tabular}
+\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn .r.sii.m"sca}&.r|.sii.m"s&.r.siin\\
@@ -1767,7 +1780,8 @@ things), the worlds (are) pained---likewise, I (am pained).\\
 
 (Note: In this verse, each half-line has eleven main syllabes, instead
 of the usual eight.)\\
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ruupa.m}&ruu|pa.m&\ruupam\\
   &&&\\
@@ -1848,9 +1862,6 @@ of the usual eight.)\\
   &&&\\
   &&ham&\aham\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 24}
@@ -2193,9 +2204,10 @@ instead of the usual eight.)\\
   &&&= (?)\\
   &&&\\
   &{\dn vi"santi}&vi|"san|ti&\vizanti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn da.m.s.traakaraalaani}&da.m|.s.traa|&{\dn da.m.s.traa}\\
   &&&= tooth\\
   &&&\note{\noun, \female}\\
@@ -2208,10 +2220,9 @@ instead of the usual eight.)\\
   &{\dn bhayaanakaani}&bha|yaa|na|kaa|ni&dreadful\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn bhayaanakam} = bhayaanakam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kecidvilagnaa}&ke|ci|dvi|&kecid\\
   &&&= {\dn kecid}\\
   &&&= (?)\\
@@ -2232,9 +2243,10 @@ instead of the usual eight.)\\
   &&&= at/in/on the interiors; gaps\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn antaram} = antaram}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sand.r"syante}&dan|d.r|"syan|te&(they) are seen\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sa.md.r"s} = sa.md.r"s}\\
@@ -2253,6 +2265,9 @@ instead of the usual eight.)\\
   &&&\note{\noun, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn a"ngam} = a"ngam}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 28}
@@ -3629,7 +3644,8 @@ you are pleasure-lying-down (or) sitting in occurrences of eating,
 
 (Note: In this verse, each half-line has eleven main syllables,
 instead of the usual eight.)\\
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yaccaavahaasaarthamasatk.rto.asi}\\
   &&&\\
@@ -3729,6 +3745,9 @@ instead of the usual eight.)\\
   &&&= provable; measurable\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 43}
@@ -4662,9 +4681,10 @@ see(n). You (have) seen me just as (I was).\\
   &&na&\na\\
   &&&\\
   &{\dn tapasaa}&ta|pa|saa&\tapasaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn daanena}&daa|ne|na&\daanena\\
@@ -4678,10 +4698,9 @@ see(n). You (have) seen me just as (I was).\\
   &&&= by using a/the sacrifice; offering\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn ijyaa} = ijyaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sakya}&"sa|kya&able; possible\\
   &&&\note{\adjective}\\
   &&&\\
@@ -4690,9 +4709,10 @@ see(n). You (have) seen me just as (I was).\\
   &&vi|dho&\vidhaH\\
   &&&\\
   &{\dn dra.s.tu.m}&dra|.s.tu.m&\draSTum\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn d.r.s.tavaanasi}&d.r|.s.ta|vaa|na|&d.r.s.tavaan\\
   &&&= {\dn d.r.s.tavaan}\\
   &&&= (?) seen\\
@@ -4705,6 +4725,9 @@ see(n). You (have) seen me just as (I was).\\
   &&&\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 11, Verse 54}
@@ -4788,9 +4811,10 @@ O son of Paa.n.du (O Arjuna).\\
   &&mat|&\mat\\
   &&&\\
   &&pa|ra|mo&\paramaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn madbhakta.h}&mad|&\mat\\
   &&&\\
   &&bhak|ta\h{a}&\bhaktaH\\
@@ -4800,10 +4824,9 @@ O son of Paa.n.du (O Arjuna).\\
   &&var|ji|ta\h{a}&{\dn varjita.h}\\
   &&&= devoid of\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nirvaira.h}&nir|vai|ra\h{a}&peaceful\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -4812,9 +4835,10 @@ O son of Paa.n.du (O Arjuna).\\
   &&&\notesarva\\
   &&&\\
   &&bhuu|te|.su&\bhUteSu\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
