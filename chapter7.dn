@@ -26,9 +26,10 @@ me completely. Hear that.\\
   &&ma|naa\h{aa}&\manAH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yoga.m}&yo|ga.m&\yogam\\
   &&&\\
   &{\dn yu~njanmadaa"sraya.h}&yu\~{}n|jan|&\yuJjan\\
@@ -37,10 +38,9 @@ me completely. Hear that.\\
   &&&\\
   &&"sra|ya\h{a}&aa"sraya.h = {\dn aa"sraya.h} = shelter\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn asa.m"saya.m}&a|&\aprefix\\
   &&&\\
   &&sa.m|"sa|ya.m&sa.m"sayam\\
@@ -56,9 +56,10 @@ me completely. Hear that.\\
   &&&\note{from {\dn samagra.h} = samagra.h}\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yathaa}&ya|thaa&\yathaa\\
   &&&\\
   &{\dn j~naasyasi}&j\~{}naa|sya|si&(?) (you) will know\\
@@ -69,6 +70,9 @@ me completely. Hear that.\\
   &&&\\
   &&ch.r|.nu&\zRNu\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 2}
@@ -93,9 +97,10 @@ be known.\\
   &&&= knowledge; science; art\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&mi|da.m&\idam\\
   &&&\\
   &{\dn vak.syaamya"se.sata.h}&va|k.syaa|mya|&vak.syaami\\
@@ -108,10 +113,9 @@ be known.\\
   &&&= {\dn a"se.sata.h}\\
   &&&= fully\\
   &&&\note{\adverb}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yajj~naatvaa}&yaj|&\yat\\
   &&&\\
   &&j\~{}naat|vaa&\jJAtvA\\
@@ -128,9 +132,10 @@ be known.\\
   &&&= {\dn anyat}\\
   &&&= another\\
   &&&\note{\adjective, \pronoun}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&j\~{}naa|ta|vya|ma|&j\~{}naatavyam\\
   &&&= {\dn j~naatavyam}\\
   &&&= to be known\\
@@ -142,6 +147,9 @@ be known.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn ava"si.s} = ava"si.s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 3}
@@ -305,9 +313,10 @@ Arjuna). By this (is done) the world.\\
   &&nyaa.m&anyaam = {\dn anyaam} = another; other; different; strange\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn anyaa} = anyaa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn prak.rti.m}&pra|k.r|ti.m&\prakRtim\\
   &&&\\
   &{\dn viddhi}&vid|dhi&\viddhiH\\
@@ -315,10 +324,9 @@ Arjuna). By this (is done) the world.\\
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn paraam}&pa|raam&\paraam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn jiivabhuutaa.m}&jii|va|&jiiva.h\\
   &&&= {\dn jiiva.h}\\
   &&&= life; living being\\
@@ -332,9 +340,10 @@ Arjuna). By this (is done) the world.\\
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yayeda.m}&ya|ye|&yayaa = {\dn yayaa} = (?) by using one/whom/what\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn yat} = yat}\\
@@ -345,6 +354,9 @@ Arjuna). By this (is done) the world.\\
   &&&\\
   &{\dn jagat}&ja|gat&\jagat\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 6}
@@ -738,9 +750,10 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\note{from {\dn saattvika.h} = saattvika.h}\\
   &&&\\
   &{\dn bhaavaa}&bhaa|vaa&\bhAvAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn raajasaastaamasaa"sca}&raa|ja|saa|staa|&raajasaa.h\\
   &&&= {\dn raajasaa.h}\\
   &&&= passionate\\
@@ -756,10 +769,9 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&ca&\ca\\
   &&&\\
   &{\dn ye}&ye&\ye\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn matta}&mat|ta&matta.h = {\dn matta.h} = from me\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -770,9 +782,10 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &{\dn taanviddhi}&taan|&\taan\\
   &&&\\
   &&vid|dhi&\viddhiH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn tvaha.m}&tva|&\tu\\
@@ -785,6 +798,9 @@ thus. But (know) those. I am not in those. Those (are) in me.\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 13}
@@ -817,9 +833,10 @@ changeable.\\
   &&&= by using births; behaviors\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&re|bhi\h{i}&ebhi.h\\
   &&&= {\dn ebhi.h}\\
   &&&= (?)\\
@@ -829,10 +846,9 @@ changeable.\\
   &&da.m&\idam\\
   &&&\\
   &{\dn jagat}&ja|gat&\jagat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mohita.m}&mo|hi|ta.m&mohitam\\
   &&&= {\dn mohitam}\\
   &&&= deceived\\
@@ -841,9 +857,10 @@ changeable.\\
   &{\dn naabhijaanaati}&naa|&\na\\
   &&&\\
   &&bhi|jaa|naa|ti&\abhijaanaati\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn maamebhya.h}&maa|me|&\maam\\
   &&&\\
   &&bhya\h{a}&ebhya.h\\
@@ -856,6 +873,9 @@ changeable.\\
   &&&\\
   &&vya|yam&\vyayam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 14}
@@ -1266,9 +1286,10 @@ with a primal form---(the deities are) restrained by the self.\\
   &&j\~{}naa|naa\h{aa}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn j~naanam} = j\~{}naanam}\\
   &&&\note{= knowledge}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn prapadyante.anyadevataa.h}\\
   &&&\\
   &&pra|pa|dyan|te|&\prapadyante\\
@@ -1279,10 +1300,9 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&= deities\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn devata.h} = devata.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn ta.m}&ta.m&\tam\\
@@ -1298,9 +1318,10 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&= (?)\\
   &&&\note{similar: root, {\dn aasthaa} = aasthaa}\\
   &&&\note{= ``to side with''}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn prak.rtyaa}&pra|k.r|tyaa&\prakRtyA\\
   &&&\\
   &{\dn niyataa.h}&ni|ya|taa\h{aa}&\niyatAH\\
@@ -1309,6 +1330,9 @@ with a primal form---(the deities are) restrained by the self.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn sva.h} = sva.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Chapter 21}
@@ -1333,9 +1357,10 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{from {\dn tanu.h} = tanu.h}\\
   &&&\\
   &{\dn bhakta.h}&bhak|ta\h{a}&\bhaktaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn "sraddhayaarcitumicchati}\\
   &&&\\
   &&"srad|dha|yaar|&\zraddhayA\\
@@ -1347,10 +1372,9 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{root: {\dn arc} = arc}\\
   &&&\\
   &&cha|ti&\icchati\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tasya}&ta|sya&\tasya\\
   &&&\\
   &{\dn tasyaacalaa.m}&ta|syaa|&\tasya\\
@@ -1364,9 +1388,10 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\note{from {\dn calaa} = calaa}\\
   &&&\\
   &{\dn "sraddhaa.m}&"srad|dhaa.m&\zraddhAm\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn taameva}&taa|me|&\taam\\
   &&&\\
   &&va&\eva\\
@@ -1379,6 +1404,9 @@ him)---really, I distribute that non-shaking faith.\\
   &&&\\
   &&ham&\aham\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 22}
@@ -1763,7 +1791,10 @@ cherish me (with) a firm vow.\\
   &&ga|tam&\gatam\\
   &&&\\
   &{\dn paapa.m}&paa|pa.m&\paapam\\
-  % ----------------------------------------------------------------------------
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   \hline
   &&&\\
   1b&{\dn janaanaa.m}&ja|naa|naa.m&\janaanaam\\
@@ -1773,10 +1804,9 @@ cherish me (with) a firm vow.\\
   &&&\note{\adjective}\\
   &&&\\
   &&kar|ma|.naam&\karmaNAm\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn te}&te&\te\\
   &&&\\
   &{\dn dvandvamohanirmuktaa}&dvan|dva|&dvandvam\\
@@ -1794,9 +1824,10 @@ cherish me (with) a firm vow.\\
   &&&= freed\\
   &&&\note{\adjective, \male, \plural, \locativecase}\\
   &&&\note{from {\dn nirmukta.h} = nirmukta.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhajante}&bha|jan|te&\bhajante\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
@@ -1809,6 +1840,9 @@ cherish me (with) a firm vow.\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn vratam} = vratam = vow}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 7, Verse 29}
@@ -1900,9 +1934,10 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\note{from {\dn adhidaiva.h} = adhidaiva.h}\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn saadhiyaj~na.m}&saa|&\saha\\
   &&&\\
   &&dhi|ya|j\~{}na.m&adhiyaj\~{}nam\\
@@ -1917,10 +1952,9 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &&&\\
   &{\dn vidu.h}&vi|du\h{u}&wise\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn prayaa.nakaale.api}&pra|yaa|.na|&prayaa.nam\\
   &&&= {\dn prayaa.nam}\\
   &&&= departure; trip\\
@@ -1933,9 +1967,10 @@ departure-time (at death), they (know) me, yoked in the mind.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn te}&te&\te\\
   &&&\\
   &{\dn vidur}&vi|du\h{u}&wise\\
