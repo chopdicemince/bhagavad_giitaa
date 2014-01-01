@@ -34,9 +34,10 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&&= branch; part\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn "saakhaa} = "saakhaa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|"svat|tha.m&a"svattham = {\dn a"svattham} = fig tree\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn a"svattha.h} = a"svattha.h}\\
@@ -46,10 +47,9 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&|&\aprefix\\
   &&&\\
   &&vya|yam&\vyayam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn chandaa.msi}&chan|daa.m|si&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn chandas} = chandas}\\
   &&&\note{= chant}\\
@@ -59,9 +59,10 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &{\dn par.naani}&par|.naa|ni&leaves; wings\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn par.nam} = par.nam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yasta.m}&ya|&\yaH\\
   &&&\\
   &&ta.m&\tam\\
@@ -75,6 +76,9 @@ non-perishable, whose leaves (are) chant(s). One who (knows) that
   &&vit&{\dn vit}\\
   &&&= (?)\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 15, Verse 2}
@@ -293,9 +297,10 @@ instead of the usual eight.)\\
   &&&= {\dn parimaargitavyam}\\
   &&&= to be sought after\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yasmingataa}&ya|smin|&\yasmin\\
   &&&\\
   &&ga|taa&\gatAH\\
@@ -310,10 +315,9 @@ instead of the usual eight.)\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tameva}&ta|me|&\tam\\
   &&&\\
   &&va&\eva\\
@@ -329,9 +333,10 @@ instead of the usual eight.)\\
   &{\dn puru.sa.m}&pu|ru|.sa.m&\puruSam\\
   &&&\\
   &{\dn prapadye}&pra|pa|dye&(?) \prapadyate\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yata.h}&ya|ta\h{a}&\yataH\\
   &&&\\
   &{\dn prav.rtti.h}&pra|v.rt|ti\h{i}&tendency; behavior; action; work; doing\\
@@ -343,6 +348,9 @@ instead of the usual eight.)\\
   &{\dn puraa.nii}&pu|raa|.nii&towns; cities\\
   &&&\note{\noun, \neuter, \plural}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 15, Verse 5}
@@ -578,9 +586,10 @@ God---having taken these (things), (the being) travels with
   &{\dn yadavaapnoti}&ya|da|&\yat\\
   &&&\\
   &&vaap|no|ti&\avaapnoti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn yaccaapyutkraamatii"svara.h}\\
   &&&\\
   &&yac|&\yat\\
@@ -596,10 +605,9 @@ God---having taken these (things), (the being) travels with
   &&&\note{root: {\dn utkram} = utkram}\\
   &&&\\
   &&"sva|ra\h{a}&\IzvaraH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn g.rhiitvaitaani}&g.r|hii|tvai|&g.rhiitvaa\\
   &&&= {\dn g.rhiitvaa}\\
   &&&= having taken\\
@@ -611,9 +619,10 @@ God---having taken these (things), (the being) travels with
   &{\dn sa.myaati}&sa.m|yaa|ti&(he/she/it) meets; travels with\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sa.myaa} = sa.myaa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn vaayurgandhaanivaa"sayaat}\\
   &&&\\
   &&vaa|yur|&\vAyuH\\
@@ -632,6 +641,9 @@ God---having taken these (things), (the being) travels with
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn aa"saya.h} = aa"saya.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 15, Verse 9}
@@ -847,9 +859,10 @@ in a fire? (Know) that fire of me.\\
   &&ga|ta.m&\gatam\\
   &&&\\
   &{\dn tejo}&te|jo&\tejas\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn jagadbhaasayate.akhilam}\\
   &&&\\
   &&ja|gad|&\jagat\\
@@ -863,10 +876,9 @@ in a fire? (Know) that fire of me.\\
   &&&= {\dn akhilam}\\
   &&&= all\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yaccandramasi}&yac|&\yat\\
   &&&\\
   &&can|dra|ma|si&{\dn candramasi}\\
@@ -879,9 +891,10 @@ in a fire? (Know) that fire of me.\\
   &&caag|&\ca\\
   &&&\\
   &&nau&\agnau\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tattejo}&tat|&\tat\\
   &&&\\
   &&te|jo&\tejas\\
@@ -891,6 +904,9 @@ in a fire? (Know) that fire of me.\\
   &{\dn maamakam}&maa|ma|kam&of me (my)\\
   &&&\note{\pronoun, \firstperson, \genitivecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 15, Verse 13}
@@ -1115,6 +1131,7 @@ instead of the usual eight.)\\
   &&&= to be known\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   2b&{\dn vedaantak.rdvedavideva}&ve|daan|ta|&vedaanta.h\\
@@ -1160,9 +1177,10 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &{\dn puru.sau}&pu|ru|.sau&\puruSau\\
   &&&\\
   &{\dn loke}&lo|ke&\loke\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn k.sara"scaak.sara}&k.sa|ra"s|&k.sara.h\\
   &&&= {\dn k.sara.h}\\
   &&&= perishable\\
@@ -1180,19 +1198,19 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn k.sara.h}&k.sa|ra\h{a}&perishable\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|.ni&\sarvANi\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kuu.tastho.ak.sara}&kuu|.ta|&kuu.tam\\
   &&&= {\dn kuu.tam}\\
   &&&= illusion; lie; mountain peak\\
@@ -1208,6 +1226,9 @@ non-perishable (being) is called mountain-peak-standing (best).\\
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 15, Verse 17}
@@ -1423,9 +1444,10 @@ Arjuna). Having known this---intelligence may be, and action-action
   &&&= {\dn "saastram}\\
   &&&= text\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&mi|da|muk|&\idam\\
   &&&\\
   &&ta.m&\uktam\\
@@ -1439,10 +1461,9 @@ Arjuna). Having known this---intelligence may be, and action-action
   &&&= O sin; evil\\
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn agham} = agham}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn etadbuddhvaa}&e|tad|&\etat\\
   &&&\\
   &&bud|dhvaa&{\dn buddhvaa}\\
@@ -1458,9 +1479,10 @@ Arjuna). Having known this---intelligence may be, and action-action
   &&&= (?)\\
   &&&\\
   &&syaat|&\syaat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&k.r|ta|&k.rtam\\
   &&&= {\dn k.rtam}\\
   &&&= action; work; doing\\
