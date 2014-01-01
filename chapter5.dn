@@ -96,9 +96,10 @@ better.\\
   &&yo|ga"s|&\yogaH\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ni.h"sreyasakaraavubhau}&ni.h|"sre|ya|sa|&ni.h"sreyasam\\
   &&&= {\dn ni.h"sreyasam}\\
   &&&= supreme happiness\\
@@ -113,10 +114,9 @@ better.\\
   &&vu|bhau&ubhau = {\dn ubhau} = two; both\\
   &&&\note{\pronoun?, \male?, \dual}\\
   &&&\note{from {\dn uba.h} = uba.h?}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tayostu}&ta|yo|&tayo.h\\
   &&&= {\dn tayo.h}\\
   &&&= of those/them two; at/in/on those/them two\\
@@ -132,9 +132,10 @@ better.\\
   &&&= from renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn sannyaasa.h} = sannyaasa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&kar|ma|&\karma\\
   &&&\\
   &&yo|go&\yogaH\\
@@ -143,6 +144,9 @@ better.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vi"si.s} = vi"si.s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 3}
@@ -815,9 +819,10 @@ one anus, and one penis opening.)\\
   &&kar|maa|.ni&\karmANi\\
   &&&\\
   &{\dn manasaa}&ma|na|saa&\manasaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sannyasyaaste}&san|nya|syaa|&sannyasya\\
   &&&= {\dn sannyasya}\\
   &&&= (?)\\
@@ -833,10 +838,9 @@ one anus, and one penis opening.)\\
   &{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn va"sii}&va|"sii&\vazI\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn navadvaare}&na|va|&{\dn nava}\\
   &&&= nine\\
   &&&\note{\noun, \allgenders, \plural}\\
@@ -848,9 +852,10 @@ one anus, and one penis opening.)\\
   &&&\note{from {\dn puram} = puram}\\
   &&&\\
   &{\dn dehii}&de|hii&\dehii\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naiva}&nai|&\na\\
   &&&\\
   &&va&\eva\\
@@ -863,6 +868,9 @@ one anus, and one penis opening.)\\
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: {\dn k.r} = k.r}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 14}
@@ -1017,9 +1025,10 @@ one (God).\\
   &&|&\aprefix\\
   &&&\\
   &&j\~{}naa|na.m&\jJAnam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ye.saa.m}&ye|.saa.m&\yeSAm\\
   &&&\\
   &{\dn naa"sitamaatmana.h}&naa|"si|ta|maat|&naa"sitam\\
@@ -1029,10 +1038,9 @@ one (God).\\
   &&&\note{from {\dn naa"sita.h} = naa"sita.h}\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn te.saamaadityavajj~naana.m}&te|.saa|maa|&\teSAm\\
   &&&\\
   &&di|tya|&aaditya.h\\
@@ -1043,15 +1051,19 @@ one (God).\\
   &&vaj|&\vat\\
   &&&\\
   &&j\~{}naa|na.m&\jJAnam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn prakaa"sayati}&pra|kaa|"sa|ya|ti&\prakAzayati\\
   &&&\\
   &{\dn tatparam}&tat|&\tat\\
   &&&\\
   &&pa|ram&\param\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 17}
@@ -1071,9 +1083,10 @@ stains.\\
   &&sta|daat|&\tat\\
   &&&\\
   &&maa|na|&\AtmAnaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&stan|&\tat\\
   &&&\\
   &&ni.s|.thaa|&ni.s.thaa.h\\
@@ -1087,10 +1100,9 @@ stains.\\
   &&pa|raa|ya|.naa\h{aa}&people who are devoted; engaged; dependent\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn paraaya.na.h} = paraaya.na.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gacchantyapunaraav.rtti.m}&gac|chan|tya|&\gacchanti\\
   &&&\\
   &&pu|na|raa|&apuna.h\\
@@ -1104,9 +1116,10 @@ stains.\\
   &&&= return; cycle; repetition\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn aav.rtti.h} = aav.rtti.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naananirdhuutakalma.saa.h}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&nir|dhuu|ta|&{\dn nirdhuuta}\\
@@ -1118,6 +1131,9 @@ stains.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn kalma.sa.h} = kalma.sa.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 18}
@@ -1210,9 +1226,10 @@ are standing (with) God.\\
   &&&= {\dn sarga.h}\\
   &&&= offspring; creation; puff of air\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn ye.saa.m}&ye|.saa.m&\yeSAm\\
   &&&\\
   &{\dn saamye}&saa|mye&at/in/on sameness; equality; similarity\\
@@ -1222,10 +1239,9 @@ are standing (with) God.\\
   &{\dn sthita.m}&sthi|ta.m&\sthitam\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&\manaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nirdo.sa.m}&nir|do|.sa.m&nirdo.sam\\
   &&&= {\dn nirdo.sam}\\
   &&&= without defect; guilt; stain\\
@@ -1236,9 +1252,10 @@ are standing (with) God.\\
   &{\dn sama.m}&sa|ma.m&\samam\\
   &&&\\
   &{\dn brahma}&brah|ma&\brahma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tasmaadbrahma.ni}&tas|maad|&\tasmaat\\
   &&&\\
   &&brah|ma|.ni&{\dn brahma.ni}\\
@@ -1252,6 +1269,9 @@ are standing (with) God.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 20}
@@ -1273,9 +1293,10 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&\\
   &{\dn praapya}&praa|pya&attainable; accessible; available\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn nodvijetpraapya}&nod|&\na\\
   &&&\\
   &&vi|jet|&udvijet\\
@@ -1292,10 +1313,9 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&|&\aprefix\\
   &&&\\
   &&pri|yam&\priyam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sthirabuddhirasammuu.dho}&sthi|ra|&{\dn sthira}\\
   &&&= stable; fixed; resolute\\
   &&&\note{\adjective}\\
@@ -1305,9 +1325,10 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&|&\aprefix\\
   &&&\\
   &&sam|muu|.dho&\sammUDhaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn brahmavidbrahma.ni}&brah|ma|&\brahma\\
   &&&\\
   &&vid|&{\dn vid} = knowing\\
@@ -1320,6 +1341,9 @@ foolish, (is) God-knowing, (and is) standing (with) God.\\
   &&&\\
   &{\dn sthita.h}&sthi|ta\h{a}&\sthitaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 21}
@@ -1348,9 +1372,10 @@ non-decaying happiness.\\
   &&&\note{\adjective}\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vindatyaatmani}&vin|da|tyaat|&\vindati\\
   &&&\\
   &&ma|ni&\aatmani\\
@@ -1358,10 +1383,9 @@ non-decaying happiness.\\
   &{\dn yatsukham}&yat|&\yat\\
   &&&\\
   &&su|kham&\sukham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn brahmayogayuktaatmaa}&brah|ma|&\brahma\\
@@ -1371,9 +1395,10 @@ non-decaying happiness.\\
   &&yuk|taat|&\yuktaH\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sukhamak.sayama"snute}&su|kha|mak|&\sukham\\
   &&&\\
   &&|&\aprefix\\
@@ -1389,6 +1414,9 @@ non-decaying happiness.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn a"s} = a"s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 22}
@@ -1412,9 +1440,10 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&jaa&\jAH\\
   &&&\\
   &{\dn bhogaa}&bho|gaa&\bhogAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn du.hkhayonaya}&du.h|kha|&\duHkham\\
   &&&\\
   &&yo|na|ya&yonaya.h\\
@@ -1426,10 +1455,9 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn te}&te&\te\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aadyantavanta.h}&aa|dyan|&\AdiH\\
   &&&\\
   &&ta|&\antaH\\
@@ -1438,9 +1466,10 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &&&= (?)\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn te.su}&te|.su&\teSu\\
@@ -1452,6 +1481,9 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.\\
   &{\dn budha.h}&bu|dha\h{a}&wise man; god\\
   &&&\note{\noun, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 23}
@@ -1548,9 +1580,10 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&&= {\dn aaraama.h}\\
   &&&= pleasure; garden\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&sta|thaan|&\tathaa\\
   &&&\\
   &&tar|&\antaH\\
@@ -1560,10 +1593,9 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&va&\eva\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
@@ -1575,9 +1607,10 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&&= final liberation; ultimate happiness\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn brahmabhuuto.adhigacchati}&brah|ma|&\brahma\\
   &&&\\
   &&bhuu|to'|&bhuuta.h\\
@@ -1587,6 +1620,9 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
   &&&\\
   &&dhi|gac|cha|ti&\adhigacchati\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 5, Verse 25}
