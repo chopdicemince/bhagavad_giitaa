@@ -25,9 +25,10 @@ is God called?\\
   &{\dn kimadhyaatma.m}&ki|ma|&\kim\\
   &&&\\
   &&dhyaat|ma.m&\adhyaatmam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ki.m}&ki.m&\kim\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
@@ -35,10 +36,9 @@ is God called?\\
   &{\dn puru.sottama}&pu|ru|.sot|&\puruSaH\\
   &&&\\
   &&ta|ma&\uttama\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn adhibhuuta.m}&a|dhi|bhuu|ta.m&\adhibhuutam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -49,9 +49,10 @@ is God called?\\
   &&&= {\dn proktam}\\
   &&&= said\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ma|dhi|dai|va.m&adhidaivam\\
   &&&= {\dn adhidaivam}\\
   &&&= God\\
@@ -62,6 +63,9 @@ is God called?\\
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 2}
@@ -154,9 +158,10 @@ is called the self. Being-birth-doing is called action.\\
   &{\dn brahma}&brah|ma&\brahma\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&\paramam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn svabhaavo.adhyaatmamucyate}\\
   &&&\\
   &&sva|&\svaH\\
@@ -166,10 +171,9 @@ is called the self. Being-birth-doing is called action.\\
   &&'dhyaat|ma|mu|&\adhyaatmam\\
   &&&\\
   &&cya|te&\ucyate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhuutabhaavodbhavakaro}&bhuu|ta|&\bhuutam\\
   &&&\\
   &&bhaa|vod|&\bhAvaH\\
@@ -183,9 +187,10 @@ is called the self. Being-birth-doing is called action.\\
   &&&= {\dn kara.h}\\
   &&&= tax; doing; sunbeam; moonbeam\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn visarga.h}&vi|sar|ga\h{a}&birth; departure; discharge\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -195,6 +200,9 @@ is called the self. Being-birth-doing is called action.\\
   &&&= called; named\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 4}
@@ -341,9 +349,10 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &{\dn smaranbhaava.m}&sma|ran&\smaran\\
   &&&\\
   &&bhaa|va.m&\bhaavam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tyajatyante}&tya|ja|tyan|&tyajati\\
   &&&= {\dn tyajati}\\
   &&&= (he/she/it) abandons\\
@@ -355,10 +364,9 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &{\dn kalevaram}&ka|le|va|ram&body\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn tamevaiti}&ta|me|&\tam\\
@@ -368,9 +376,10 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&ti&\iti\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sadaa}&sa|daa&always\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -382,6 +391,9 @@ body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   &&&= born\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 7}
@@ -1343,9 +1355,10 @@ not vanish in all beings destroyed.\\
   &&bhaa|vo|&\bhAvaH\\
   &&&\\
   &&nyo&\anyaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&|&\aprefix\\
   &&&\\
   &&vyak|to&vyakta.h\\
@@ -1366,10 +1379,9 @@ not vanish in all beings destroyed.\\
   &&&{\dn sanaatana.h}\\
   &&&= eternal; ancient\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\\
   &{\dn sa}&sa&\saH\\
@@ -1377,9 +1389,10 @@ not vanish in all beings destroyed.\\
   &{\dn sarve.su}&sar|ve|.su&\sarveSu\\
   &&&\\
   &{\dn bhuute.su}&bhuu|te|.su&\bhUteSu\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na"syatsu}&na|"syat|su&(?) at/in/on people/things destroyed\\
   &&&\note{\adjective, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn na"syat} = na"syat}\\
@@ -1390,6 +1403,9 @@ not vanish in all beings destroyed.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vina"s} = vina"s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 21}
@@ -1418,9 +1434,10 @@ my paraount home.\\
   &{\dn ityuktastamaahu.h}&i|tyuk|&\iti\\
   &&&\\
   &&ta|&\uktaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&sta|maa|&\tam\\
   &&&\\
   &&hu\h{u}&aahu.h\\
@@ -1432,10 +1449,9 @@ my paraount home.\\
   &{\dn gatim}&ga|tim&going; path\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn gati.h} = gati.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ya.m}&ya.m&\yam\\
   &&&\\
   &{\dn praapya}&praa|pya&attainable\\
@@ -1446,9 +1462,10 @@ my paraount home.\\
   &{\dn nivartante}&ni|var|tan|te&(they) abandon; return\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{from {\dn niv.rt} = niv.rt}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn taddhaama}&tad|&\tat\\
   &&&\\
   &&dhaa|ma&dhaamam\\
@@ -1460,6 +1477,9 @@ my paraount home.\\
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 22}
@@ -1478,9 +1498,10 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   &{\dn para.h}&pa|ra\h{a}&\paraH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
   &&&\\
   &{\dn labhyastvananyayaa}&la|bhya|&labhya.h\\
@@ -1498,10 +1519,9 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   &&&another; other; different; strange\\
   &&&\note{\adjective, \female, \instrumentalcase}\\
   &&&\note{from {\dn anyaa} = anyaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yasyaanta.h}&ya|syaan|&\yasya\\
   &&&\\
   &&ta\h{a}&\antaH\\
@@ -1509,9 +1529,10 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   &{\dn sthaani}&sthaa|ni&\sthaani\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yena}&ye|na&(?) by using one/whom/what\\
   &&&\note{\pronoun, \male, \instrumentalcase}\\
   &&&\note{from {\dn ya.h} = ya.h}\\
@@ -1525,6 +1546,9 @@ not by a strange (faith). Steadfast beings (are) (in) of God. Using
   &&&= spread; extended\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 23}
@@ -1617,9 +1641,10 @@ go (to) God.\\
   &{\dn "sukla.h}&"su|kla\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn "suklam} = "suklam}\\
   &&&\note{= white thing}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn .sa.nmaasaa}&.sa.n|&.sa.t = {\dn .sa.t} = \SaT\\
   &&&\noteSaT\\
   &&&\note{from {\dn .sa.s} = .sa.s}\\
@@ -1640,10 +1665,9 @@ go (to) God.\\
   &&&= {\dn ayanam}\\
   &&&= going; equinox; solstice\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tatra}&ta|tra&\tatra\\
   &&&\\
   &{\dn prayaataa}&pra|yaa|taa&prayaataa.h\\
@@ -1653,9 +1677,10 @@ go (to) God.\\
   &&&\note{from {\dn prayaata.h} = prayaata.h}\\
   &&&\\
   &{\dn gacchanti}&gac|chan|ti&\gacchanti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn brahma}&brah|ma&\brahma\\
   &&&\\
   &{\dn brahmavido}&brah|ma|&\brahma\\
@@ -1667,6 +1692,9 @@ go (to) God.\\
   &&&\\
   &{\dn janaa.h}&ja|naa\h{aa}&\janAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 8, Verse 25}
@@ -1891,9 +1919,10 @@ syllables is eight.)\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn daane.su}&daa|ne|.su&\dAneSu\\
   &&&\\
   &{\dn yatpu.nyaphala.m}&yat|&\yat\\
@@ -1905,10 +1934,9 @@ syllables is eight.)\\
   &&&\\
   &{\dn pradi.s.tam}&pra|di|.s.tam&indicated\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn atyeti}&a|tye|ti&(?) (he/she/it) surpasses\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
@@ -1922,9 +1950,10 @@ syllables is eight.)\\
   &{\dn viditvaa}&vi|dit|vaa&having known\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn vid} = vid}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yogii}&yo|gii&\yogii\\
   &&&\\
   &{\dn para.m}&pa|ra.m&\param\\
