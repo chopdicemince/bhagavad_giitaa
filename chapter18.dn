@@ -305,9 +305,10 @@ purifying of great minds.\\
   &&ta|pa\h{a}&\tapas\\
   &&&\\
   &&kar|ma&\karma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn tyaajya.m}&tyaa|jya.m&tyaajyam\\
@@ -320,10 +321,9 @@ purifying of great minds.\\
   &&va&\eva\\
   &&&\\
   &{\dn tat}&tat&\tat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yaj~no}&ya|j\~{}no&\yajJaH\\
   &&&\\
   &{\dn daana.m}&daa|na.m&\daanam\\
@@ -333,15 +333,19 @@ purifying of great minds.\\
   &&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn paavanaani}&paa|va|naa|ni&pure; purifying\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn paavanam} = paavanam}\\
   &&&\\
   &{\dn manii.si.naam}&ma|nii|.si|.naam&\manISiNAm\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 6}
@@ -474,9 +478,10 @@ abandoned)---that (man), having done passion abandonment---not really,
   &{\dn yatkarma}&yat|&\yat\\
   &&&\\
   &&kar|ma&\karma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn kaayakle"sabhayaattyajet}\\
   &&&\\
   &&kaa|ya|&kaaya.h\\
@@ -496,10 +501,9 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{{\dn tyajate} = tyajate = (he/she/it) abandons}\\
   &&&\note{root: {\dn tyaj} = tyaj}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn k.rtvaa}&k.r|tvaa&\kRtvA\\
@@ -515,9 +519,10 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&&= abandonment\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn tyaaga.h} = tyaaga.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naiva}&nai|&\na\\
   &&&\\
   &&va&\eva\\
@@ -534,6 +539,9 @@ abandoned)---that (man), having done passion abandonment---not really,
   &&&\note{{\dn labhate} = labhate}\\
   &&&\note{root: {\dn labh} = labh}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 9}
@@ -554,9 +562,10 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &{\dn yatkarma}&yat|&\yat\\
   &&&\\
   &&kar|ma|&\karma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
   &&&\\
   &{\dn kriyate.arjuna}&kri|ya|te'r|&kriyate\\
@@ -566,10 +575,9 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&&\note{= ``to act; work; do''}\\
   &&&\\
   &&ju|na&\arjuna\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa"nga.m}&sa"n|ga.m&\saGgam\\
   &&&\\
   &{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
@@ -579,9 +587,10 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn tyaaga.h}&tyaa|ga\h{a}&abandonment\\
@@ -594,6 +603,9 @@ abandonment is true. (This statement is) an opinion (of me).\\
   &&&\\
   &{\dn mata.h}&ma|ta\h{a}&\mataH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 10}
@@ -754,9 +766,10 @@ not of abandoners, somewhere.\\
   &&&= mixed\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn trividha.m}&tri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
   &&&\\
@@ -769,10 +782,9 @@ not of abandoners, somewhere.\\
   &{\dn karma.na.h}&kar|ma|.na\h{a}&\karmaNaH\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhavatyatyaaginaa.m}&bha|va|tya|&\bhavati\\
   &&&\\
   &&|&\aprefix\\
@@ -785,9 +797,10 @@ not of abandoners, somewhere.\\
   &&&\\
   &{\dn pretya}&pre|tya&after death; in the next world\\
   &&&\note{\adverb, \indeclinable}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn tu}&tu&\tu\\
@@ -801,6 +814,9 @@ not of abandoners, somewhere.\\
   &{\dn kvacit}&kva|cit&somewhat; somewhere\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 13}
@@ -1221,9 +1237,10 @@ Just as (full?), hear these, also.\\
   &&&\note{from {\dn kart.r} = kart.r}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tridhaiva}&tri|dhai|&tridhaa\\
   &&&= {\dn tridhaa}\\
   &&&= in three ways\\
@@ -1237,10 +1254,9 @@ Just as (full?), hear these, also.\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn bheda.h} = bheda.h}\\
   &&&\note{= difference; gap}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn procyate}&pro|cya|te&(?)\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: (?)}\\
@@ -1251,9 +1267,10 @@ Just as (full?), hear these, also.\\
   &&&= at/in/on a/the appearance; counting\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn sa"nkhyaanam} = sa"nkhyaanam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yathaavacch.r.nu}&ya|thaa|&\yathaa\\
   &&&\\
   &&vac|&\vat\\
@@ -1264,6 +1281,9 @@ Just as (full?), hear these, also.\\
   &&&\\
   &&pi&\api\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 20}
@@ -1283,9 +1303,10 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   &{\dn yenaika.m}&ye|nai|&\yena\\
   &&&\\
   &&ka.m&\ekam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn bhaavamavyayamiik.sate}\\
   &&&\\
   &&bhaa|va|ma|&\bhaavam\\
@@ -1299,10 +1320,9 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   &&&= (he/she/it) sees\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn iik.s} = iik.s}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn avibhakta.m}&a|&\aprefix\\
   &&&\\
   &&vi|bhak|ta.m&vibhaktam\\
@@ -1313,9 +1333,10 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   &{\dn vibhakte.su}&vi|bhak|te|.su&at/in/on people/things divided\\
   &&&\note{\adjective, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn vibhaktam} = vibhaktam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tajj~naana.m}&taj|&\tat\\
   &&&\\
   &&j\~{}naa|na.m&\jJAnam\\
@@ -1326,6 +1347,9 @@ sees non-(division) in divided (beings). (Know) that good knowledge.\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 21}
@@ -1408,9 +1432,10 @@ ignorance, (it is) said.\\
   &&va|de|&\vat\\
   &&&\\
   &&ka|smin|&\ekasmin\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&kaar|ye&\kaarye\\
   &&&\\
   &{\dn saktamahaitukam}&sak|ta|ma|&saktam\\
@@ -1423,10 +1448,9 @@ ignorance, (it is) said.\\
   &&hai|tu|kam&{\dn haitukam}\\
   &&&= having a cause; reason\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn atattvaarthavadalpa.m}\\
   &&&\\
   &&a|&\aprefix\\
@@ -1443,9 +1467,10 @@ ignorance, (it is) said.\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
   &&tat|&\tat\\
@@ -1461,6 +1486,9 @@ ignorance, (it is) said.\\
   &&&= uttered; said\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 23}
@@ -1768,9 +1796,10 @@ be) of passion.\\
   &&&\\
   &&prep|sur&prepsu.h = {\dn prepsu.h} = desiring\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&lub|dho&lubdha.h\\
   &&&= {\dn lubdha.h}\\
   &&&= greedy\\
@@ -1793,10 +1822,9 @@ be) of passion.\\
   &&"su|ci\h{i}&{\dn "suci.h}\\
   &&&= white; clean; pure\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn har.sa"sokaanvita.h}&har|.sa|&har.sa.h\\
   &&&= {\dn har.sa.h}\\
   &&&= happiness; sexual excitement; erection\\
@@ -1812,9 +1840,10 @@ be) of passion.\\
   &{\dn kartaa}&kar|taa&actor; worker; doer\\
   &&&\note{\noun, \male}\\
   &&&\note{from {\dn kart.r} = kart.r}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn raajasa.h}&raa|ja|sa\h{a}&(?) from/of passion; dirt-like particle;\\
   &&&impurity; menstrual waste\\
   &&&\note{\noun, \neuter}\\
@@ -1824,6 +1853,9 @@ be) of passion.\\
   &{\dn parikiirtita.h}&pa|ri|kiir|ti|ta\h{a}&proclaimed; said\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 28}
@@ -1993,9 +2025,10 @@ person.\\
   &&&\note{from {\dn niv.rtti.h} = niv.rtti.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kaaryaakaarye}&kaar|yaa|&\kaaryam\\
   &&&\\
   &&|&\aprefix\\
@@ -2007,10 +2040,9 @@ person.\\
   &&|&\aprefix\\
   &&&\\
   &&bha|ye&\bhaye\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bandha.m}&ban|dha.m&bandham\\
   &&&= {\dn bandham}\\
   &&&= binding; bonding\\
@@ -2024,9 +2056,10 @@ person.\\
   &{\dn yaa}&yaa&\yaa\\
   &&&\\
   &{\dn vetti}&vet|ti&\vetti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
   &&&\\
   &{\dn saa}&saa&\saa\\
@@ -2036,6 +2069,9 @@ person.\\
   &{\dn saattvikii}&saat|tvi|kii&(?) person true; good; pure; energetic\\
   &&&\note{\noun, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 31}
@@ -2059,9 +2095,10 @@ of passion.\\
   &&dhar|ma.m&\dharmam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kaarya.m}&kaar|ya.m&\kaaryam\\
   &&&\\
   &{\dn caakaaryameva}&caa|&\ca\\
@@ -2073,10 +2110,9 @@ of passion.\\
   &&va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn ayathaavatprajaanaati}\\
   &&&\\
   &&a|&\aprefix\\
@@ -2086,9 +2122,10 @@ of passion.\\
   &&vat|&\vat\\
   &&&\\
   &&pra|jaa|naa|ti&\prajaanaati\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn buddhi.h}&bud|dhi\h{i}&\buddhiH\\
   &&&\\
   &{\dn saa}&saa&\saa\\
@@ -2100,6 +2137,9 @@ of passion.\\
   &&&\note{\noun, \male}\\
   &&&\note{similar: \noun, \neuter, {\dn rajas} = rajas}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 32}
@@ -2459,9 +2499,10 @@ said---self-intelligence-peace-born.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&va&\iva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn pari.naame.am.rtopamam}\\
   &&&\\
   &&pa|ri|.naa|me|&{\dn pari.naame}\\
@@ -2478,10 +2519,9 @@ said---self-intelligence-peace-born.\\
   &&&= {\dn upamam}\\
   &&&= uppermost; best; similar\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tatsukha.m}&tat|&\tat\\
   &&&\\
   &&su|kha.m&{\dn dukha.m}\\
@@ -2499,9 +2539,10 @@ said---self-intelligence-peace-born.\\
   &&&= {\dn proktam}\\
   &&&= proclaimed; said\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&maat|ma|&\aatmaa\\
   &&&\\
   &&bud|dhi|&\buddhiH\\
@@ -2510,6 +2551,9 @@ said---self-intelligence-peace-born.\\
   &&&\\
   &&jam&\jam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 38}
@@ -2533,9 +2577,10 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   &&&= from yoking; combination; compound\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn sa.myoga.h} = sa.myoga.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&dyat|&\yat\\
   &&&\\
   &&ta|da|&\tat\\
@@ -2555,10 +2600,9 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   &&&= {\dn upamam}\\
   &&&= uppermost; best; similar\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pari.naame}&pa|ri|.naa|me&at/in/on change\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn pari.naama.h} = pari.naama.h}\\
@@ -2569,9 +2613,10 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&va&\iva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tatsukha.m}&tat|&\tat\\
   &&&\\
   &&su|kha.m&\sukham\\
@@ -2583,7 +2628,10 @@ ambrosia, (but) in (after) change, (is) venom-like---that happiness
   &&&\note{(?) from {\dn rajas} = rajas}\\
   &&&\\
   &{\dn sm.rtam}&sm.r|tam&\smRtam\\
-  \end{tabular}
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chaper 18, Verse 39}
@@ -2614,9 +2662,10 @@ ignorance.\\
   &&&\note{from {\dn anubandha.h} = anubandha.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn mohanamaatmana.h}&mo|ha|na|maat|&mohanam\\
@@ -2625,10 +2674,9 @@ ignorance.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn nidraalasyapramaadottha.m}\\
   &&&\\
   &&ni|draa|&{\dn nidraa}\\
@@ -2649,9 +2697,10 @@ ignorance.\\
   &&&= {\dn uttham}\\
   &&&= coming forth\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
   &&tat|&\tat\\
@@ -2667,6 +2716,9 @@ ignorance.\\
   &&&= uttered; said\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 40}
@@ -2978,9 +3030,10 @@ fourth caste---also, self-behavior-born.\\
   &&&= {\dn vaa.nijyam}\\
   &&&= commerce\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vai"syakarma}&vai|"sya|&vai"sya.h\\
   &&&= {\dn vai"sya.h}\\
   &&&= person in the third caste (farmers)\\
@@ -2993,10 +3046,9 @@ fourth caste---also, self-behavior-born.\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
   &&jam&\jam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn paricaryaatmaka.m}&pa|ri|car|yaat|&paricaryaa\\
   &&&= {\dn paricaryaa}\\
   &&&= service\\
@@ -3008,9 +3060,10 @@ fourth caste---also, self-behavior-born.\\
   &&&\note{\prefix, \suffix}\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "suudrasyaapi}&"suu|dra|syaa|&"suudrasya\\
   &&&= {\dn "suudrasya}\\
   &&&= of a/the person in the fourth caste\\
@@ -3026,6 +3079,9 @@ fourth caste---also, self-behavior-born.\\
   &&&\\
   &&jam&\jam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 45}
@@ -4178,9 +4234,10 @@ thus, O Kuru (O Arjuna).\\
   &&&= {\dn aakhyaatam}\\
   &&&= said\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn guhyaadguhyatara.m}&gu|hyaad|&\guhyaat\\
   &&&\\
   &&gu|hya|&\guhyam\\
@@ -4188,10 +4245,9 @@ thus, O Kuru (O Arjuna).\\
   &&ta|ra.m&\taram\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn vim.r"syaitada"se.se.na}\\
   &&&\\
   &&vi|m.r|"syai|&vim.r"sya\\
@@ -4206,9 +4262,10 @@ thus, O Kuru (O Arjuna).\\
   &&&= by using all\\
   &&&\note{\adjective, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn a"se.sam} = a"se.sam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yathecchasi}&ya|thec|&\yathaa\\
   &&&\\
   &&cha|si&\icchasi\\
@@ -4217,6 +4274,9 @@ thus, O Kuru (O Arjuna).\\
   &&&\\
   &{\dn kuru}&ku|ru&\kuru\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 64}
@@ -4500,9 +4560,10 @@ no-doubt.\\
   &{\dn parama.m}&pa|ra|ma.m&\paramam\\
   &&&\\
   &{\dn guhya.m}&gu|hya.m&\guhyam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn madbhakte.svabhidhaasyati}\\
   &&&\\
   &&mad|&\mat\\
@@ -4518,10 +4579,9 @@ no-doubt.\\
   &&&= (?)\\
   &&&\note{similar: \verbb, root, {\dn abhidhaa} = abhidhaa}\\
   &&&\note{= ``to say''}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhakti.m}&bhak|ti.m&\bhaktim\\
   &&&\\
   &{\dn mayi}&ma|yi&\mayi\\
@@ -4529,9 +4589,10 @@ no-doubt.\\
   &{\dn paraa.m}&pa|raa.m&\paraam\\
   &&&\\
   &{\dn k.rtvaa}&k.r|tvaa&\kRtvA\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn maamevai.syatyasa.m"saya.h}\\
   &&&\\
   &&maa|me|&\maam\\
@@ -4551,6 +4612,9 @@ no-doubt.\\
   &&&= doubt\\
   &&&\note{\noun, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 69}
@@ -4707,9 +4771,10 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &&&\note{\adjective, \male}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "s.r.nuyaadapi}&"s.r|.nu|yaa|da|&"s.r.nuyaat\\
   &&&= {\dn "s.r.nuyaat}\\
   &&&= (?)\\
@@ -4722,10 +4787,9 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn nara.h}&na|ra\h{a}&\naraH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn so.api}&so|&\saH\\
   &&&\\
   &&'pi&\api\\
@@ -4738,9 +4802,10 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &&"su|bhaa/l|&\zubhAn\\
   &&&\\
   &&lo|kaan|&\lokaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&praap|nu|yaat|&{\dn praapnuyaat}\\
   &&&= (?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
@@ -4753,6 +4818,9 @@ Faith-full and non-displeased---also, whichever man hears---he, also,
   &&&\\
   &&kar|ma|.naam&\karmaNAm\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 72}
@@ -4776,9 +4844,10 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tvayaikaagre.na}&tva|yai|&tvayaa = {\dn tvayaa} = \tvayaa\\
   &&&\notetvayaa\\
   &&&\note{from {\dn tvam} = tvam}\\
@@ -4792,10 +4861,9 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&\note{from {\dn agram} = agram}\\
   &&&\\
   &{\dn cetasaa}&ce|ta|saa&\cetasaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn kaccidaj~naanasammoha.h}\\
   &&&\\
   &&kac|ci|da|&kaccit\\
@@ -4807,9 +4875,10 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&sam|mo|ha\h{a}&\sammohaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn pra.na.s.taste}&pra|.na|.s.ta|&pra.na.s.ta.h\\
   &&&= {\dn pra.na.s.ta.h}\\
   &&&= gone; destroyed; dead\\
@@ -4821,6 +4890,9 @@ using one-best mind. \dots (?)\dots non-knowledge-stupidity of you
   &&&\\
   &&ja|ya&\jaya\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 73}
@@ -4987,9 +5059,10 @@ himself.\\
   &&&= (?) (he) heard\\
   &&&\note{\verbb, \pasttense, \thirdperson, \singular, \male}\\
   &&&\note{root: {\dn "sru} = "sru}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ne|tad|&\etat\\
   &&&\\
   &&gu|hya|ma|&\guhyam\\
@@ -4997,10 +5070,9 @@ himself.\\
   &&ha.m&\aham\\
   &&&\\
   &{\dn param}&pa|ram&\param\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yoga.m}&yo|ga.m&\yogam\\
   &&&\\
   &\multicolumn{3}{l}{\dn yoge"svaraatk.r.s.naatsaak.saatkathayata.h}\\
@@ -5013,9 +5085,10 @@ himself.\\
   &&&= from \textkrsna\\
   &&&\note{\noun, \male, \ablativecase}\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&saa|k.saat|&{\dn saak.saat}\\
   &&&= visibly; obviously\\
   &&&\note{\adverb, \indeclinable}\\
@@ -5029,6 +5102,9 @@ himself.\\
   &{\dn svayam}&sva|yam&myself; himself; herself; \dots\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 18, Verse 76}
