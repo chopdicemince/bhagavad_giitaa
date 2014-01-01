@@ -23,9 +23,10 @@ known, O \textkrsna.\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn k.setra.m}&k.se|tra.m&\kSetram\\
   &&&\\
   &{\dn k.setraj~nameva}&k.se|tra|&\kSetram\\
@@ -37,10 +38,9 @@ known, O \textkrsna.\\
   &&va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn etadveditumicchaami}\\
   &&&\\
   &&e|ta|dve|&\etat\\
@@ -52,9 +52,10 @@ known, O \textkrsna.\\
   &&&\note{root: (?) {\dn vid} = vid}\\
   &&&\\
   &&chaa|mi&\icchaami\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
@@ -66,6 +67,9 @@ known, O \textkrsna.\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&\kezava\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 2}
@@ -90,9 +94,10 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &{\dn "sariira.m}&"sa|rii|ra.m&\zarIram\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn k.setramityabhidhiiyate}\\
   &&&\\
   &&k.se|tra|mi|&\kSetram\\
@@ -100,10 +105,9 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&tya|&\iti\\
   &&&\\
   &&bhi|dhii|ya|te&\abhidhiiyate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn etadyo}&e|ta|&\etat\\
   &&&\\
   &&dyo&\yaH\\
@@ -113,9 +117,10 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn praahu.h}&praa|hu\h{u}&(?) ``is known''\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn k.setraj~na}&k.se|tra|&\kSetram\\
   &&&\\
   &&j\~{}na&{\dn j~na}\\
@@ -131,6 +136,9 @@ This body, O son of Kuntii (O Arjuna) is known (as) ``place.'' One
   &&&= knowledge\\
   &&&\note{\noun, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 3}
@@ -224,9 +232,10 @@ me.\\
   &&&\note{\adjective}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yadvikaari}&ya|dvi|&\yat\\
   &&&\\
   &&kaa|ri&vikaari\\
@@ -240,10 +249,9 @@ me.\\
   &&ca&\ca\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -258,9 +266,10 @@ me.\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tatsamaasena}&tat|&\tat\\
   &&&\\
   &&sa|maa|se|na&{\dn samaasena}\\
@@ -272,6 +281,9 @@ me.\\
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 5}
@@ -483,7 +495,7 @@ said.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Chapter 13, Verse 12}
+\section*{Chapter 13, Verse 8}
 
 \kRSNasaidtoarjuna\\
 
@@ -794,9 +806,10 @@ here in another way.\\
   &&&= {\dn nityatvam}\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn nitya} = nitya = eternal}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn tattvaj~naanaarthadar"sanam}\\
   &&&\\
   &&tat|tva|&\tattvam\\
@@ -808,10 +821,9 @@ here in another way.\\
   &&dar|"sa|nam&{\dn dar"sanam}\\
   &&&= sight; opinion\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn etajj~naanamiti}&e|taj|&\etat\\
   &&&\\
   &&j\~{}naa|na|mi|&\jJAnam\\
@@ -822,9 +834,10 @@ here in another way.\\
   &&&= {\dn proktam}\\
   &&&= proclaimed; said\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ma|&\aprefix\\
   &&&\\
   &&j\~{}naa|na.m&\jJAnam\\
@@ -836,6 +849,9 @@ here in another way.\\
   &&'nya|thaa&anyathaa = {\dn anyathaa} = in another way\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 13}
@@ -857,9 +873,10 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&tat|&\tat\\
   &&&\\
   &&pra|va|k.syaa|mi&\pravakSyAmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn yajj~naatvaam.rtama"snute}\\
   &&&\\
   &&yaj|&\yat\\
@@ -876,10 +893,9 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&= (he/she/it) attains; masters\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn a"s} = a"s}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn anaadi}&a|naa|&\an\\
   &&&\\
   &&di&\AdiH\\
@@ -889,9 +905,10 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&pa|ra.m&\param\\
   &&&\\
   &{\dn brahma}&brah|ma&\brahma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &\multicolumn{3}{l}{\dn sattannaasaducyate}\\
@@ -913,6 +930,9 @@ from-me-paramount, not true---that---not not-true, (it is) said.\\
   &&&\\
   &&cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 14}
@@ -1016,9 +1036,10 @@ enjoyer.\\
   &&&= wrong appearance; wrong logic\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aabhaasa.h} = aabhaasa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn sarvendriyavivarjitam}\\
   &&&\\
   &&sar|ven|&sarva\\
@@ -1031,10 +1052,9 @@ enjoyer.\\
   &&vi|var|ji|tam&{\dn vivarjitam}\\
   &&&= freed; free of; abandoned\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn asakta.m}&a|&\aprefix\\
   &&&\\
   &&sak|ta.m&saktam\\
@@ -1054,9 +1074,10 @@ enjoyer.\\
   &&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn nirgu.na.m}&nir|&\niH\\
   &&&\\
   &&gu|.na.m&\guNam\\
@@ -1069,6 +1090,9 @@ enjoyer.\\
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 16}
@@ -1090,9 +1114,10 @@ near.\\
   &&ca&\ca\\
   &&&\\
   &{\dn bhuutaanaamacara.m}&bhuu|taa|naa|&\bhuutaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&ca|ra.m&caram\\
@@ -1110,10 +1135,9 @@ near.\\
   &&va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn suuk.smatvaattadavij~neya.m}\\
   &&&\\
   &&suu|k.sma|tvaat|&{\dn suuk.smatvaat}\\
@@ -1129,9 +1153,10 @@ near.\\
   &&&= {\dn vij~neyam}\\
   &&&= knowable\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn duurastha.m}&duu|ra|&\duuram\\
   &&&\\
   &&stha.m&\stham\\
@@ -1147,6 +1172,9 @@ near.\\
   &&&\\
   &{\dn tat}&tat&\tat\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 17}
@@ -1239,18 +1267,18 @@ each (being).\\
   &{\dn tajjyotistamasa.h}&taj|&\tat\\
   &&&\\
   &&jyo|ti|&\jyotiH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&sta|ma|sa\h{a}&\tamasaH\\
   &&&\\
   &{\dn paramucyate}&pa|ra|mu|&\param\\
   &&&\\
   &&cya|te&\ucyate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn j~neya.m}&j\~{}ne|ya.m&j\~{}neyam\\
@@ -1264,9 +1292,10 @@ each (being).\\
   &&&= {\dn gamyam}\\
   &&&= able to be gone to; gotten; known\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn h.rdi}&h.r|di&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn h.rd} = h.rd = heart}\\
   &&&\\
@@ -1275,6 +1304,9 @@ each (being).\\
   &{\dn vi.s.thitam}&vi|.s.thi|tam&standing\\
   &&&\note{\adjective}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 19}
@@ -2092,9 +2124,10 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&&= (?) from having strings; attributes\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{from {\dn gu.natvam} = gu.natvam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&pa|ra|maat|&\paramaH\\
   &&&\\
   &&maa|&\aatmaa\\
@@ -2104,10 +2137,9 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&|&\aprefix\\
   &&&\\
   &&vya|ya\h{a}&\vyayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sariirastho.api}&"sa|rii|ra|&\zarIram\\
   &&&\\
   &&stho|&\sthaH\\
@@ -2115,9 +2147,10 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&'pi&\api\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn karoti}&ka|ro|ti&\karoti\\
@@ -2126,6 +2159,9 @@ Arjuna). (It) does not act. (It) is not attached.\\
   &&&\\
   &{\dn lipyate}&li|pya|te&\lipyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 13, Verse 33}
@@ -2269,9 +2305,10 @@ paramount (place).\\
   &&&\note{from {\dn j~na.h} = j\~{}na.h}\\
   &&&\\
   &&va|&\evam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&man|ta|ra.m&antaram\\
   &&&= {\dn antaram}\\
   &&&= gap; difference\\
@@ -2285,10 +2322,9 @@ paramount (place).\\
   &&&= at/in/on eyes\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn cak.su.h} = cak.su.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhuutaprak.rtimok.sa.m}&bhuu|ta|&\bhuutam\\
   &&&\\
   &&pra|k.r|ti|&\prakRtiH\\
@@ -2296,9 +2332,10 @@ paramount (place).\\
   &&mo|k.sa.m&\mokSam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ye}&ye&\ye\\
   &&&\\
   &{\dn viduryaanti}&vi|dur|&vidu.h\\
