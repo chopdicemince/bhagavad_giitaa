@@ -18,9 +18,11 @@ the Bhagavad Gita}
 \author{Winston C. Yang}
 \maketitle
 % ------------------------------------------------------------------------------
+\tableofcontents
+\newpage
+% ------------------------------------------------------------------------------
 \include{chapter_about_the_bhagavad_gita}
 \include{chapter_about_this_book}
-\include{chapter_about_hinduism}
 \include{chapter_about_sanskrit_history}
 \include{chapter_about_sanskrit_transliteration}
 \include{chapter_about_sanskrit_grammar}

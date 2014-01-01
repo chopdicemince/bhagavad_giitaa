@@ -1,4 +1,4 @@
-\chapter*{Chapter 2}
+\mychapter{Chapter 2}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 2, Verse 1}
