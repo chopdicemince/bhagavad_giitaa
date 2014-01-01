@@ -27,9 +27,10 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   &&&\\
   &&sa.m|"sud|dhir|&sa.m"suddhi.h = {\dn sa.m"suddhi.h} = purity\\
   &&&\note{\noun, \female}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&yo|ga|&\yogaH\\
@@ -38,10 +39,9 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn vyavasthita} = vyavasthita}\\
   &&&\note{= steadfast}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn daana.m}&daa|na.m&\daanam\\
   &&&\\
   &{\dn dama"sca}&da|ma"s|&dama.h\\
@@ -54,9 +54,10 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   &{\dn yaj~na"sca}&ya|j\~{}na"s|&\yajJaH\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn svaadhyaayastapa}&svaa|dhyaa|ya|sta|&\svAdhyAyaH\\
   &&&\\
   &&pa&\tapas\\
@@ -64,6 +65,9 @@ restraint, and sacrifice, study, asceticism, sincerity, \dots\\
   &{\dn aarjavam}&aar|ja|vam&sincerity; honesty; straightness\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 2}
@@ -492,9 +496,10 @@ sexual-desire-(motive)?\\
   &&pra|ti|.s.tha.m&\pratiSTham\\
   &&&\\
   &{\dn te}&te&\te\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn jagadaahuranii"svaram}\\
   &&&\\
   &&ja|ga|daa|&\jagat\\
@@ -506,10 +511,9 @@ sexual-desire-(motive)?\\
   &&nii|&\an\\
   &&&\\
   &&"sva|ram&\Izvaram\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn aparasparasambhuuta.m}\\
   &&&\\
   &&a|&\aprefix\\
@@ -522,9 +526,10 @@ sexual-desire-(motive)?\\
   &&&= {\dn sambhuutam}\\
   &&&= born\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn kimanyatkaamahaitukam}\\
   &&&\\
   &&ki|ma|&\kim\\
@@ -540,6 +545,9 @@ sexual-desire-(motive)?\\
   &&&= caused by; motivated by\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 9}
@@ -563,9 +571,10 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&= {\dn ava.s.tabhya}\\
   &&&= to be stopped\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn na.s.taatmaano.alpabuddhaya.h}\\
   &&&\\
   &&na|.s.taat|&na.s.ta\\
@@ -581,10 +590,9 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&\note{\adjective}\\
   &&&\\
   &&bud|dha|ya\h{a}&\buddhayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn prabhavantyugrakarmaa.na.h}\\
   &&&\\
   &&pra|bha|van|tyu|&\prabhavanti\\
@@ -598,9 +606,10 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&= (?)\\
   &&&\note{similar:}\\
   &&&\note{{\dn karman} = karman}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn k.sayaaya}&k.sa|yaa|ya&by using decay\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn k.saya.h} = k.saya.h}\\
@@ -615,6 +624,9 @@ demons)---small (occurrences of) intelligence---prevail. Ghastly
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn hita.h} = hita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 10}
@@ -886,9 +898,10 @@ is. This, also, for me, will be, again, money.\\
   &&&= {\dn labdham}\\
   &&&= gotten\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&mi|ma.m&\imam\\
   &&&\\
   &{\dn praapsye}&praap|sye&(?)\\
@@ -898,10 +911,9 @@ is. This, also, for me, will be, again, money.\\
   &{\dn manoratham}&ma|no|&\manaH\\
   &&&\\
   &&ra|tham&\ratham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn idamastiidamapi}&i|da|ma|&\idam\\
   &&&\\
   &&stii|&\asti\\
@@ -911,9 +923,10 @@ is. This, also, for me, will be, again, money.\\
   &&pi&\api\\
   &&&\\
   &{\dn me}&me&\me\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhavi.syati}&bha|vi|.sya|ti&(he/she/it) will be\\
   &&&\note{\verbb, \futuretensecertain, \thirdperson, \singular}\\
   &&&\note{root: {\dn as} = as, {\dn bhuu} = bhuu}\\
@@ -922,6 +935,9 @@ is. This, also, for me, will be, again, money.\\
   &&&\\
   &&dha|nam&\dhanam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 14}
@@ -1023,9 +1039,10 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&\note{from {\dn vat} = vat}\\
   &&&\\
   &&smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ko.anyo.asti}&ko|&\kaH\\
   &&&\\
   &&'nyo|&\anyaH\\
@@ -1038,10 +1055,9 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yak.sye}&ya|k.sye&(?) (I) will sacrifice to\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -1055,9 +1071,10 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&= (I) will be merry\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn mud} = mud}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn ityaj~naanavimohitaa.h}\\
   &&&\\
   &&i|tya|&\iti\\
@@ -1071,6 +1088,9 @@ be merry. Thus, (demons have) non-knowledge (and are) confused.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vimohita.h} = vimohita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 16}
@@ -1170,9 +1190,10 @@ non-law-previous.\\
   &&&= stiff\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn stabdha.h} = stabdha.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn dhanamaanamadaanvitaa.h}\\
   &&&\\
   &&dha|na|&\dhanam\\
@@ -1189,10 +1210,9 @@ non-law-previous.\\
   &&&= having\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn anvita.h} = anvita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yajante}&ya|jan|te&(they) sacrifice to\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -1205,9 +1225,10 @@ non-law-previous.\\
   &&ya|j\~{}nai|&\yajJaiH\\
   &&&\\
   &&ste&\te\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn dambhenaavidhipuurvakam}\\
   &&&\\
   &&dam|bhe|naa|&dambhena\\
@@ -1227,6 +1248,9 @@ non-law-previous.\\
   &&&= previous\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 16, Verse 18}
@@ -1654,9 +1678,10 @@ said (by me)---in this world, (you) are able to do action.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn te}&te&\te\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn kaaryaakaaryavyavasthitau}\\
   &&&\\
   &&kaar|yaa|&\kaaryam\\
@@ -1669,10 +1694,9 @@ said (by me)---in this world, (you) are able to do action.\\
   &&&= steadfast\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn vyavasthita.h} = vyavasthita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naatvaa}&j\~{}naa|tvaa&\jJAtvA\\
   &&&\\
   &{\dn "saastravidhaanokta.m}&"saa|stra|&"saastram\\
@@ -1688,8 +1712,10 @@ said (by me)---in this world, (you) are able to do action.\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&ta.m&\uktam\\
-  % ----------------------------------------------------------------------------
-  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   &&&\\
   2b&{\dn karma}&kar|ma&\karma\\
   &&&\\
