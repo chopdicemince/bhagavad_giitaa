@@ -15,9 +15,10 @@ displeasure---associated with science and art, which, having known
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn ida.m}&i|da.m&\idam\\
   &&&\\
   &{\dn tu}&tu&\tu\\
@@ -42,10 +43,9 @@ displeasure---associated with science and art, which, having known
   &&&= at/in/on envy; jealousy; displeasure\\
   &&&\note{\noun, \female, \locativecase}\\
   &&&\note{from {\dn asuuyaa} = asuuyaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn vij~naanasahita.m}&vi|j\~{}naa|na|&vij\~{}naanam\\
@@ -58,9 +58,10 @@ displeasure---associated with science and art, which, having known
   &&&= {\dn sahitam}\\
   &&&= associated with\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yajj~naatvaa}&yaj|&\yat\\
   &&&\\
   &&j\~{}naat|vaa&\jJAtvA\\
@@ -74,9 +75,6 @@ displeasure---associated with science and art, which, having known
   &&&\\
   &&"su|bhaat&\zubhAt\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 2}
@@ -227,9 +225,10 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &&da.m&\idam\\
   &&&\\
   &{\dn sarva.m}&sar|va.m&\sarvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn jagadavyaktamuurtinaa}&ja|ga|da|&\jagat\\
   &&&\\
   &&|&\aprefix\\
@@ -245,10 +244,9 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &&&= by using a/the form\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn muurti.h} = muurti.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn matsthaani}&mat|&\mat\\
   &&&\\
   &&sthaa|ni&\sthaani\\
@@ -258,9 +256,10 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &&&\notesarva\\
   &&&\\
   &&bhuu|taa|ni&{\dn bhuutaani}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn caaha.m}&caa|&\ca\\
@@ -271,6 +270,9 @@ By me, all this world is spread, by (my) non-visible form. All beings
   &&&\\
   &&va|sthi|ta\h{a}&\avasthitaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 5}
@@ -798,9 +800,10 @@ mind, (at) the start, and not-changeable.\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn daivii.m}&dai|vii.m&daiviim\\
   &&&= {\dn daiviim}\\
   &&&= female deity; goddess\\
@@ -814,10 +817,9 @@ mind, (at) the start, and not-changeable.\\
   &&&= occupying\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn aa"srita.h} = aa"srita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhajantyananyamanaso}&bha|jan|tya|&\bhajanti\\
   &&&\\
   &&na|&\an\\
@@ -825,9 +827,10 @@ mind, (at) the start, and not-changeable.\\
   &&nya|&\anyam\\
   &&&\\
   &&ma|na|so&\manasaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naatvaa}&j\~{}naat|vaa&\jJAtvA\\
   &&&\\
   &{\dn bhuutaadimavyayam}&bhuu|taa|&\bhuutam\\
@@ -838,6 +841,9 @@ mind, (at) the start, and not-changeable.\\
   &&&\\
   &&vya|yam&\vyayam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 14}
@@ -1466,18 +1472,18 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&\note{root: {\dn cint} = cint}\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ye}&ye&\ye\\
   &&&\\
   &{\dn janaa.h}&ja|naa\h{aa}&\janAH\\
   &&&\\
   &{\dn paryupaasate}&par|yu|paa|sa|te&(?) \paryupaaste\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
   &{\dn nityaabhiyuktaanaa.m}&ni|tyaa|&\nityaH\\
@@ -1487,9 +1493,10 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&= of people/things attacked; diligent; learned\\
   &&&\note{\adjective, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn abhiyukta.h} = abhiyukta.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yogak.sema.m}&yo|ga|&yoga.h\\
   &&&= {\dn yoga.h}\\
   &&&= yoking\\
@@ -1509,6 +1516,9 @@ the yoking-safety of those eternal(ly)-diligent (beings).\\
   &&&\\
   &&ham&\aham\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 23}
@@ -1531,9 +1541,10 @@ with a non-(good-)behavior.\\
   &&&\note{from {\dn devata.h} = devata.h}\\
   &&&\\
   &&bhak|taa&\bhaktAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yajante}&ya|jan|te&(they) worship\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -1545,10 +1556,9 @@ with a non-(good-)behavior.\\
   &&&= connected\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn anvita.h} = anvita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn te.api}&te|&\te\\
   &&&\\
   &&'pi&\api\\
@@ -1558,9 +1568,10 @@ with a non-(good-)behavior.\\
   &&va&\eva\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yajantyavidhipuurvakam}&ya|jan|tya|&yajanti\\
   &&&= {\dn yajanti}\\
   &&&= (they) worship\\
@@ -1576,6 +1587,9 @@ with a non-(good-)behavior.\\
   &&&= with\\
   &&&\note{\preposition, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 24}
@@ -1741,9 +1755,10 @@ pure-self.\\
   &&&= water\\
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -1753,10 +1768,9 @@ pure-self.\\
   &{\dn prayacchati}&pra|yac|cha|ti&(he/she/it) presents\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn prayam} = prayam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tadaha.m}&ta|da|&\tat\\
   &&&\\
   &&ha.m&\aham\\
@@ -1768,9 +1782,10 @@ pure-self.\\
   &&&= presented; offered; sacrificed\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ma|"snaa|mi&a"snaami\\
   &&&= {\dn a"snaami}\\
   &&&= (I) enjoy\\
@@ -1784,6 +1799,9 @@ pure-self.\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 27}
@@ -1809,9 +1827,10 @@ Arjuna), that (is) a giving (to) me.\\
   &&&= (you) enjoy; eat\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn a"s} = a"s}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yajjuho.si}&yaj|&\yat\\
   &&&\\
   &&ju|ho|.si&{\dn juho.si}\\
@@ -1824,10 +1843,9 @@ Arjuna), that (is) a giving (to) me.\\
   &&&\note{root: {\dn daa} = daa}\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yattapasyasi}&yat|&\yat\\
   &&&\\
   &&ta|pa|sya|si&{\dn tapasyasi}\\
@@ -1836,9 +1854,10 @@ Arjuna), that (is) a giving (to) me.\\
   &&&\note{root: {\dn tapasya} = tapasya}\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tatkuru.sva}&tat|&\tat\\
   &&&\\
   &&ku|ru|.sva&{\dn kuru.sva}\\
@@ -1851,6 +1870,9 @@ Arjuna), that (is) a giving (to) me.\\
   &&&= giving\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 28}
@@ -1871,9 +1893,10 @@ yoked-self, (you) will approach me.\\
   &&pha|lai|re|&\phalaiH\\
   &&&\\
   &&va.m&\evam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mok.syase}&mo|k.sya|se&(you) will be free\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn mok.s} = mok.s}\\
@@ -1887,10 +1910,9 @@ yoked-self, (you) will approach me.\\
   &&&\\
   &&nai\h{i}&{\dn nai.h}\\
   &&&= (?)\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sannyaasayogayuktaatmaa}&san|nyaa|sa|&sannyaasa.h\\
   &&&= {\dn sannyaasa.h}\\
   &&&= abandonment\\
@@ -1901,9 +1923,10 @@ yoked-self, (you) will approach me.\\
   &&yuk|taat|&\yuktaH\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vimukto}&vi|muk|to&\vimuktaH\\
   &&&\\
   &{\dn maamupai.syasi}&maa|mu|&\maam\\
@@ -1916,6 +1939,9 @@ yoked-self, (you) will approach me.\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn upe} = upe}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 29}
@@ -1936,9 +1962,10 @@ also, I (am) in them.\\
   &&&\notesarva\\
   &&&\\
   &&bhuu|te|.su&\bhUteSu\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -1953,10 +1980,9 @@ also, I (am) in them.\\
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ye}&ye&\ye\\
   &&&\\
   &{\dn bhajanti}&bha|jan|ti&\bhajanti\\
@@ -1966,9 +1992,10 @@ also, I (am) in them.\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn mayi}&ma|yi&\mayi\\
   &&&\\
   &{\dn te}&te&\te\\
@@ -1981,6 +2008,9 @@ also, I (am) in them.\\
   &&&\\
   &&ham&\aham\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 9, Verse 30}
@@ -2269,9 +2299,10 @@ really, (you are) devoted to me.\\
   &{\dn madbhakto}&mad|&\mat\\
   &&&\\
   &&bhak|to&\bhaktaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn madyaajii}&ma|dyaa|&\mat\\
   &&&\\
   &&jii&yaajii = {\dn yaajii} = (?) worshipper\\
@@ -2285,10 +2316,9 @@ really, (you are) devoted to me.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&ru&\kuru\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn maamevai.syasi}&maa|me|&\maam\\
   &&&\\
   &&vai|&\eva\\
@@ -2305,9 +2335,10 @@ really, (you are) devoted to me.\\
   &&&\note{root: (?)}\\
   &&&\\
   &&va|&\evam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&maat|maa|na.m&\aatmaanam\\
   &&&\\
   &{\dn matparaaya.na.h}&mat|&\mat\\
