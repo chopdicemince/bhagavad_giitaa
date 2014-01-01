@@ -3,7 +3,7 @@ all: gita.pdf
 # ------------------------------------------------------------------------------
 gita.pdf: gita.tex
 	pdflatex gita.tex # Run 1.
-#	pdflatex gita.tex # Run 2. For any references.
+	pdflatex gita.tex # Run 2. For any references.
 
 gita.tex: gita.dn \
   mymacros.tex \
