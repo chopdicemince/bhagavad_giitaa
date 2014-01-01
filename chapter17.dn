@@ -29,9 +29,10 @@ Goodness? Passion? Ignorance?\\
   &&&\\
   &&s.r|jya&uts.rjya = {\dn uts.rjya} = abandoning\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yajante}&ya|jan|te&(they) sacrifice\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -43,10 +44,9 @@ Goodness? Passion? Ignorance?\\
   &&&= having\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn anvita.h} = anvita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
   &{\dn ni.s.thaa}&ni|.s.thaa&steadfastness\\
@@ -57,9 +57,10 @@ Goodness? Passion? Ignorance?\\
   &{\dn kaa}&kaa&\kaa\\
   &&&\\
   &{\dn k.r.s.na}&k.r|.s.na&\kRSNa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sattvamaaho}&sat|tva|maa|&\sattvam\\
   &&&\\
   &&ho&aaho\\
@@ -71,6 +72,9 @@ Goodness? Passion? Ignorance?\\
   &&&\\
   &&ma\h{a}&\tamas\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 2}
@@ -312,9 +316,10 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&= terrible\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tapyante}&ta|pyan|te&(they) heat; torment; suffer\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn tap} = tap}\\
@@ -324,10 +329,8 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &{\dn tapo}&ta|po&\tapas\\
   &&&\\
   &{\dn janaa.h}&ja|naa\h{aa}&\janAH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
   2a&\multicolumn{3}{l}{\dn dambhaaha"nkaarasa.myuktaa.h}\\
   &&&\\
   &&dam|bhaa|&dambha.h\\
@@ -344,9 +347,10 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&= yoked\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn yukta.h} = yukta.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn kaamaraagabalaanvitaa.h}\\
   &&&\\
   &&kaa|ma|&\kAmaH\\
@@ -361,6 +365,9 @@ sexual-love(-and)-desire(-and)-strength-having.\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn anvita.h} = anvita.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 6}
@@ -382,9 +389,10 @@ demon(-occurrences-of)-steadfastness.\\
   &{\dn "sariirastha.m}&"sa|rii|ra|&\zarIram\\
   &&&\\
   &&stha.m&\stham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+%-- ----------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn bhuutagraamamacetasa.h}\\
   &&&\\
   &&bhuu|ta|&\bhuutam\\
@@ -398,10 +406,9 @@ demon(-occurrences-of)-steadfastness.\\
   &&|&\aprefix\\
   &&&\\
   &&ce|ta|sa\h{a}&\cetasaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn caivaanta.h}&cai|&\ca\\
@@ -413,9 +420,10 @@ demon(-occurrences-of)-steadfastness.\\
   &{\dn "sariirastha.m}&"sa|rii|ra|&\zarIram\\
   &&&\\
   &&stha.m&\stham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn taanviddhyaasurani"scayaan}\\
   &&&\\
   &&taan|&\taan\\
@@ -429,6 +437,9 @@ demon(-occurrences-of)-steadfastness.\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn ni"scaya.h} = ni"scaya.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 7}
@@ -749,9 +760,10 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &&&\note{from {\dn aakaa"nk.sin} = aakaa"nk.sin}\\
   &&&\\
   &&ya|j\~{}no&\yajJaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vidhidi.s.to}&vi|dhi|&vidhi.h\\
   &&&= {\dn vidhi.h}\\
   &&&= law; rule; behavior\\
@@ -767,10 +779,9 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &{\dn ijyate}&i|jya|te&(he/she/it) is sacrified to; worshipped\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yaj} = yaj}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ya.s.tavyameveti}&ya|.s.ta|vya|me|&ya.s.tavyam\\
   &&&= {\dn ya.s.tavyam}\\
   &&&= to be worshipped; adored\\
@@ -781,9 +792,10 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &&ti&\iti\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&\manaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn samaadhaaya}&sa|maa|dhaa|ya&samaadhaaya.h\\
   &&&= {\dn samaadhaaya.h}\\
   &&&= fix; completion; accomplishment\\
@@ -794,6 +806,9 @@ worshipped---really, thus, that mind accomplishment is good.\\
   &{\dn sattvika.h}&sat|tvi|ka\h{a}&true; good; pure; energetic\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 12}
@@ -1032,9 +1047,10 @@ austerity.\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn vaakya.m}&vaa|kya.m&\vaakyam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn satya.m}&sa|tya.m&\satyam\\
   &&&\\
   &{\dn priyahita.m}&pri|ya|&priya\\
@@ -1050,10 +1066,9 @@ austerity.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn svaadhyaayaabhyasana.m}&svaa|dhyaa|yaa|&\svAdhyAyaH\\
   &&&\\
   &&bhya|sa|na.m&abhyasanam\\
@@ -1064,9 +1079,10 @@ austerity.\\
   &{\dn caiva}&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vaa.nmaya.m}&vaa.n|&vaak\\
   &&&= {\dn vaak}\\
   &&&= voice\\
@@ -1080,6 +1096,9 @@ austerity.\\
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 16}
@@ -1160,9 +1179,10 @@ austerity is acknowledged as) good.\\
   &&&= {\dn taptam}\\
   &&&= hot; molten; angry; austere\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tapastattrividha.m}&ta|pa|&\tapas\\
   &&&\\
   &&stat|&\tat\\
@@ -1177,10 +1197,9 @@ austerity is acknowledged as) good.\\
   &&&\note{from {\dn vidha.h} = vidha.h}\\
   &&&\\
   &{\dn narai.h}&na|rai\h{i}&\naraiH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn aphalaakaa"nk.sibhiryuktai.h}\\
   &&&\\
   &&a|&\aprefix\\
@@ -1197,9 +1216,10 @@ austerity is acknowledged as) good.\\
   &&&= by using people/things yoked\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn yukta.h} = yukta.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn saattvika.m}&saat|tvi|ka.m&saattvikam\\
   &&&= {\dn saattvikam}\\
   &&&= true; good; pure; energetic\\
@@ -1210,6 +1230,9 @@ austerity is acknowledged as) good.\\
   &&&\note{{\dn parica.s.te} = parica.s.te = (he/she/it) acknowledges}\\
   &&&\note{root: {\dn paricak.s} = paricak.s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 18}
@@ -1236,9 +1259,10 @@ passion---trembling (and) non-eternal.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&tha.m&\artham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tapo}&ta|po&\tapas\\
   &&&\\
   &{\dn dambhena}&dam|bhe|na&by using deceit; feigning; hypocrisy\\
@@ -1250,10 +1274,9 @@ passion---trembling (and) non-eternal.\\
   &&va&\eva\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kriyate}&kri|ya|te&(?)\\
   &&&\note{similar: \verbb, root, {\dn k.r} = k.r = ``to do''}\\
   &&&\\
@@ -1265,9 +1288,10 @@ passion---trembling (and) non-eternal.\\
   &&&= {\dn proktam}\\
   &&&= proclaimed; said\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn raajasa.m}&raa|ja|sa.m&raajasam\\
   &&&= {\dn raajasam}\\
   &&&= (?) passion; dust-like particle; impurity; menstrual waste\\
@@ -1285,6 +1309,9 @@ passion---trembling (and) non-eternal.\\
   &&&= eternal\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 19}
@@ -1307,9 +1334,10 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&ma|no&\AtmanaH\\
   &&&\\
   &{\dn yatpii.dayaa}&yat|&\yat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&pii|.da|yaa&{\dn pi.dayaa}\\
   &&&= by using pain\\
   &&&\note{\noun, \female, \instrumentalcase}\\
@@ -1320,10 +1348,9 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&\note{= action; work; doing}\\
   &&&\\
   &{\dn tapa.h}&ta|pa\h{a}&\tapas\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn parasyotsaadanaartha.m}\\
   &&&\\
   &&pa|ra|syot|&parasya\\
@@ -1341,9 +1368,10 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&tha.m&\artham\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn tattaamasamudaah.rtam}\\
   &&&\\
   &&tat|&\tat\\
@@ -1359,6 +1387,9 @@ using pain, of other(-people's)-destruction-purpose, yes/no---that
   &&&= uttered; said; called\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 20}
@@ -1713,9 +1744,10 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&= {\dn abhisandhaaya}\\
   &&&= desiring\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn phala.m}&pha|la.m&\phalam\\
   &&&\\
   &{\dn yaj~natapa.hkriyaa.h}&ya|j\~{}na|&\yajJaH\\
@@ -1727,10 +1759,9 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn daanakriyaa"sca}&daa|na|&\daanam\\
   &&&\\
   &&kri|yaa"s|&kriyaa.h\\
@@ -1746,9 +1777,10 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\note{\adjective, \female, \plural}\\
   &&&\note{from {\dn vividhaa} = vividhaa}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kriyante}&kri|yan|te&(?)\\
   &&&\note{similar: \verbb, root, {\dn k.r} = k.r}\\
   &&&\note{= ``to act; work; do''}\\
@@ -1762,6 +1794,9 @@ start action, (it is) said, eternally, of God-wise(-persons).\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn kaa"nk.saa} = kaa"nk.saa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 26}
@@ -1793,9 +1828,10 @@ Arjuna) \dots\\
   &&&\note{from {\dn bhaava.h} = bhaava.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn sadityetatprayujyate}\\
   &&&\\
   &&sa|di|&sat\\
@@ -1811,10 +1847,9 @@ Arjuna) \dots\\
   &&&= (he/she/it) is suitable\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn prayuj} = prayuj}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pra"saste}&pra|"sa|ste&at/in/on a/the person/thing good\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn pra"sasta.h} = pra"sasta.h}\\
@@ -1822,9 +1857,10 @@ Arjuna) \dots\\
   &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sacchabda.h}&sac|&sat\\
   &&&= {\dn sat}\\
   &&&= true; good\\
@@ -1838,6 +1874,9 @@ Arjuna) \dots\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yuj} = yuj}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 17, Verse 27}
@@ -1927,9 +1966,10 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &{\dn datta.m}&dat|tam&{\dn dattam}\\
   &&&= donation; gift\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tapastapta.m}&ta|pa|stap|&\tapas\\
   &&&\\
   &&ta.m&taptam\\
@@ -1945,10 +1985,9 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn asadityucyate}&a|&\aprefix\\
   &&&\\
   &&sa|di|&sat\\
@@ -1961,9 +2000,10 @@ Arjuna). And that (is) not after death or (and) not in this world.\\
   &&cya|te&\ucyate\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn ca}&ca&\ca\\
