@@ -25,9 +25,10 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -36,10 +37,9 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&speech\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yatte.aha.m}&yat|&\yat\\
   &&&\\
   &&te|&\te\\
@@ -50,9 +50,10 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\\
   &&&(?) pleased\\
   &&&\note{\adjective(?)}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
@@ -67,6 +68,9 @@ will say one (piece of) advice desireable (and) pleasing.\\
   &&&\note{\adjective, \female(?), \instrumentalcase}\\
   &&&\note{from {\dn kaamyaa} = kaamyaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 2}
@@ -160,9 +164,10 @@ using (of) all sins.\\
   &&di.m&\aadim\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vetti}&vet|ti|&\vetti\\
   &&&\\
   &{\dn lokamahe"svaram}&lo|ka|&\lokaH\\
@@ -170,10 +175,9 @@ using (of) all sins.\\
   &&ma|he|&\mahaan\\
   &&&\\
   &&"sva|ram&\Izvaram\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn asammuu.dha.h}&a|&\aprefix\\
   &&&\\
   &&sam|muu|.dha\h{a}&\sammUDhaH\\
@@ -183,9 +187,10 @@ using (of) all sins.\\
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn martya.h} = martya.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sarvapaapai.h}&sar|va|&sarva\\
   &&&= {\dn sarva}\\
   &&&= \sarva\\
@@ -197,6 +202,9 @@ using (of) all sins.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pramuc} = pramuc}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 4}
@@ -285,9 +293,10 @@ really---separate kinds.\\
   &&&= {\dn tu.s.ti.h}\\
   &&&= contentment\\
   &&&\note{\noun, \female}\\
-  % ---------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&sta|po&\tapas\\
   &&&\\
   &{\dn daana.m}&daa|na.m&\daanam\\
@@ -303,18 +312,18 @@ really---separate kinds.\\
   &&&= {\dn ya"sa.h}\\
   &&&= fame\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhavanti}&bha|van|ti&\bhavanti\\
   &&&\\
   &{\dn bhaavaa}&bhaa|vaa&\bhAvAH\\
   &&&\\
   &{\dn bhuutaanaa.m}&bhuu|taa|naa.m&\bhuutaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn matta}&mat|ta\h{a}&(?) ``me''\\
   &&&\\
   &{\dn eva}&e|va&\eva\\
@@ -323,6 +332,9 @@ really---separate kinds.\\
   &&&\\
   &&vi|dhaa\h{aa}&\vidhAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 6}
@@ -663,9 +675,10 @@ knowledge-lamp-brightness.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&tha|&\artham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|ha|ma|&\aham\\
   &&&\\
   &&|&\aprefix\\  
@@ -675,10 +688,9 @@ knowledge-lamp-brightness.\\
   &&ja.m|&\jam\\
   &&&\\
   &&ta|ma\h{a}&\tamas\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn naa"sayaamyaatmabhaavastho}&naa|"sa|yaa|myaat|&naa"sayaami\\
   &&&= {\dn naa"sayaami}\\
   &&&= (I) ruin\\
@@ -690,9 +702,10 @@ knowledge-lamp-brightness.\\
   &&bhaa|va|&\bhAvaH\\
   &&&\\
   &&stho&\sthaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naanadiipena}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&dii|pe|na&{\dn diipena}\\
@@ -704,6 +717,9 @@ knowledge-lamp-brightness.\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn bhaasvat} = bhaasvat}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 12}
@@ -730,9 +746,10 @@ powerful.\\
   &{\dn dhaama}&dhaa|ma&O residence\\
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn dhaamam} = dhaamam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pavitra.m}&pa|vi|tra.m&pavitram\\
   &&&= {\dn pavitram}\\
   &&&= pure; holy\\
@@ -742,10 +759,9 @@ powerful.\\
   &&&\\
   &{\dn bhavaan}&bha|vaan&you\\
   &&&\note{\pronoun, \secondperson, \singular, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn puru.sa.m}&pu|ru|.sa.m&\puruSam\\
   &&&\\
   &{\dn "saa"svata.m}&"saa|"sva|ta.m&"saa"svatam\\
@@ -757,9 +773,10 @@ powerful.\\
   &&&= {\dn divyam}\\
   &&&= divine\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&maa|di|&\AdiH\\
   &&&\\
   &&de|va|ma|&\devam\\
@@ -772,6 +789,9 @@ powerful.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn vibhu.h} = vibhu.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 13}
@@ -869,9 +889,10 @@ visible form of you.\\
   &{\dn manye}&ma|nye&(I) think\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn man} = man}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yanmaa.m}&yan|&\yat\\
   &&&\\
   &&maa.m&\maam\\
@@ -879,10 +900,9 @@ visible form of you.\\
   &{\dn vadasi}&va|da|si&\vadasi\\
   &&&\\
   &{\dn ke"sava}&ke|"sa|va&\kezava\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn hi}&hi&\hi\\
@@ -898,9 +918,10 @@ visible form of you.\\
   &&&= visible form; inflection; vowel\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn vyakti.h} = vyakti.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vidurdevaa}&vi|dur|&vidu.h\\
   &&&= {\dn vidu.h}\\
   &&&= wise\\
@@ -914,6 +935,9 @@ visible form of you.\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn daanava.h} = daanava.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 15}
@@ -1227,9 +1251,10 @@ of me is no end.\\
   &&&\note{\verbb, \futuretensecertain}\\
   &&&\note{\firstperson, \singular}\\
   &&&\note{root: {\dn kath} = kath}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn divyaa}&di|vyaa&divyaa.h = {\dn divyaa.h} = divine\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn divya.h} = divya.h}\\
@@ -1242,10 +1267,9 @@ of me is no end.\\
   &&&= (items of) power; wealth\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn vibhuuti.h} = vibhuuti.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn praadhaanyata.h}&praa|dhaa|nya|ta\h{a}&principally\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -1255,9 +1279,10 @@ of me is no end.\\
   &&&= O best\\
   &&&\note{\adjective, \male, \vocativecase}\\
   &&&\note{from {\dn "sre.s.tha.h} = "sre.s.tha.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naastyanto}&naa|&\na\\
   &&&\\
   &&styan|&\asti\\
@@ -1270,6 +1295,9 @@ of me is no end.\\
   &&&\\
   &{\dn me}&me&\me\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 20}
@@ -1617,9 +1645,10 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&&\note{\noun, \male}\\
   &&&\\
   &&ha.m&\aham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn giraamasmyekamak.saram}&gi|raa|ma|&giraam\\
   &&&= {\dn giraam}\\
   &&&= (?) of speeches; words; syllables\\
@@ -1634,10 +1663,9 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&&= {\dn ak.saram}\\
   &&&= letter (of the alphabet); syllable; sound\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yaj~naanaa.m}&ya|j\~{}naa|naa.m&\yajJAnAm\\
   &&&\\
   &{\dn japayaj~no.asmi}&ja|pa|&japa.h\\
@@ -1648,9 +1676,10 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&ya|j\~{}no|&\yajJaH\\
   &&&\\
   &&'smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sthaavaraa.naa.m}&sthaa|va|raa|.naa.m&sthaavaraa.naam\\
   &&&= {\dn sthaavaraa.naam}\\
   &&&= of things standing; staying; steadfast\\
@@ -1666,6 +1695,9 @@ muttering-prayer-sacrifice. Of things steadfast, (I am) the
   &&&= house\\
   &&&\note{\noun, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 26}
@@ -2608,9 +2640,10 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&&\notesarva\\
   &&&\\
   &&bhuu|taa|naa.m&\bhuutaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn biija.m}&bii|ja.m&\biijam\\
   &&&\\
   &{\dn tadahamarjuna}&ta|da|&\tat\\
@@ -2618,10 +2651,9 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&ha|mar|&\aham\\
   &&&\\
   &&ju|na&\arjuna\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn tadasti}&ta|da|&\tat\\
@@ -2634,9 +2666,10 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &{\dn yatsyaanmayaa}&yat|&\yat\\
   &&&\\
   &&syaan|&\syaat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ma|yaa&\mayaa\\
   &&&\\
   &{\dn bhuuta.m}&bhuu|ta.m&\bhuutam\\
@@ -2655,6 +2688,9 @@ being---moving (or) not-moving---who (is) without using me, perhaps.\\
   &&&\notecaram\\
   &&&\note{from {\dn cara.h} = cara.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 40}
@@ -2748,9 +2784,10 @@ brightness-part-birth (of that quality from me).\\
   &&mat|&\mat\\
   &&&\\
   &&sat|tva.m&\sattvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "sriimaduurjitameva}&"srii|ma|duur|&"sriimat\\
   &&&= {\dn "sriimat}\\
   &&&= splendid\\
@@ -2764,10 +2801,9 @@ brightness-part-birth (of that quality from me).\\
   &&va&\eva\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tattadevaavagaccha}&tat|&\tat\\
   &&&\\
   &&ta|de|&\tat\\
@@ -2783,9 +2819,10 @@ brightness-part-birth (of that quality from me).\\
   &&&\note{root: {\dn avagam} = avagam}\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn tejo.a.m"sasambhavam}&te|jo'.m|&\tejas\\
@@ -2800,6 +2837,9 @@ brightness-part-birth (of that quality from me).\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sambhava.h} = sambhava.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 10, Verse 42}
