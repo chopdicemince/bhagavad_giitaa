@@ -156,19 +156,19 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\\
   &&'dya&adya = {\dn adya} = today\\
   &&&\note{\adverb, \indeclinable}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yoga.h}&yo|ga\h{a}&\yogaH\\
   &&&\\
   &{\dn prokta.h}&prok|ta\h{a}&said; declared; called\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &{\dn puraatana.h}&pu|raa|ta|na\h{a}&\purAtanaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhakto.asi}&bhak|to|&\bhaktaH\\
   &&&\\
   &&'si&\asi\\
@@ -184,9 +184,10 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &{\dn ceti}&ce|&\ca\\
   &&&\\
   &&ti&\iti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn rahasya.m}&ra|ha|sya.m&rahasyam\\
   &&&= {\dn rahasyam}\\
   &&&= mystery; secret\\
@@ -198,6 +199,9 @@ are my follower and friends.'' Surely, this mystery is the best.\\
   &&&\\
   &&ta|mam&\uttamam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 4}
@@ -225,9 +229,10 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\note{from {\dn bhavaan} = bhavaan}\\
   &&&\\
   &{\dn janma}&jan|ma&\janma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn janma}&jan|ma&\janma\\
@@ -235,10 +240,9 @@ is higher (older). How may I know this: you, at the beginning, said
   &{\dn vivasvata.h}&vi|va|sva|ta\h{a}&of Vivasvaan (the sun god)\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn vivasvaan} = vivasvaan}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kathametadvijaaniiyaa.m}&ka|tha|me|&katham\\
   &&&= {\dn katham}\\
   &&&= how\\
@@ -251,9 +255,10 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&= (?) (I) may know; understand; learn\\
   &&&\note{\verbb, \subjunctivemood, \firstperson, \singular}\\
   &&&\note{root: {\dn vij~naa} = vij\~{}naa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tvamaadau}&tva|maa|&\tvam\\
   &&&\\
   &&dau&adau = {\dn adau} = at the beginning\\
@@ -265,6 +270,9 @@ is higher (older). How may I know this: you, at the beginning, said
   &&&\\
   &{\dn iti}&i|ti&\iti\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 5}
@@ -289,9 +297,10 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\\
   &{\dn vyatiitaani}&vya|ti|taa|ni&passed; gone; abandoned\\
   &&&\note{\adjective, \neuter, \plural}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn janmaani}&jan|maa|ni&\janmaani\\
   &&&\\
   &{\dn tava}&ta|va&\tava\\
@@ -299,10 +308,9 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &{\dn caarjuna}&caar|&\ca\\
   &&&\\
   &&ju|na&\arjunaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn taanyaha.m}&taa|nya|&\taani\\
   &&&\\
   &&ha.m&\aham\\
@@ -310,9 +318,10 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &{\dn veda}&ve|da&\vedaH\\
   &&&\\
   &{\dn sarvaa.ni}&sar|vaa|ni&\sarvANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
@@ -321,6 +330,9 @@ all of them. You do not, O destroyer of enemies (O Arjuna).\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 6}
@@ -345,9 +357,10 @@ self-magic.\\
   &&vya|yaat|&\vyayaH\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhuutaanaamii"svaro.api}&\multicolumn{2}{l}{bhuu|taa|naa|mii"s|}\\
   &&&\\
   &&&\bhuutaanaam\\
@@ -357,10 +370,9 @@ self-magic.\\
   &&'pi&\api\\
   &&&\\
   &{\dn san}&san&(?)\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn prak.rti.m}&pra|k.r|ti.m&\prakRtim\\
   &&&\\
   &{\dn svaamadhi.s.thaaya}&svaa|ma|&\svaam\\
@@ -370,9 +382,10 @@ self-magic.\\
   &&&= (?)\\
   &&&\note{similar: \noun, \neuter, {\dn adhi.s.thaanam} = adhi.s.thaanam}\\
   &&&\note{= position; site; residence}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sambhavaamyaatmamaayayaa}&\multicolumn{2}{l}{sam|bha|vaa|myaat|}\\
   &&&\\
   &&&\sambhavaami\\
@@ -383,6 +396,9 @@ self-magic.\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn maayaa} = maayaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 7}
@@ -519,9 +535,10 @@ goes toward me, O Arjuna.\\
   &&&= heavenly; divine; beautiful\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&me|va.m&\evam\\
   &&&\\
   &{\dn yo}&yo&\yaH\\
@@ -530,10 +547,9 @@ goes toward me, O Arjuna.\\
   &&&\\
   &{\dn tattvata.h}&tat|tva|ta\h{a}&really\\
   &&&\note{\adverb, \indeclinable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tyaktvaa}&tyak|tvaa&\tyaktvaa\\
   &&&\\
   &{\dn deha.m}&de|ha.m&\deham\\
@@ -541,9 +557,10 @@ goes toward me, O Arjuna.\\
   &{\dn punarjanma}&pu|nar|&\punaH\\
   &&&\\
   &&jan|ma&\janma\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naiti}&nai|&\na\\
   &&&\\
   &&ti&\eti\\
@@ -556,6 +573,9 @@ goes toward me, O Arjuna.\\
   &&&\\
   &&ju|na&\arjuna\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 10}
@@ -635,9 +655,10 @@ follow my path, O prince (O Arjuna), all together.\\
   &{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn prapadyante}&pa|pa|dyan|te&\prapadyante\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn taa.mstathaiva}&taa.m|&\taan\\
   &&&\\
   &&sta|thai|&\tathaa\\
@@ -651,10 +672,9 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\note{root: {\dn bhaj} = bhaj}\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn vartmaanuvartante}&vart|maa|&vartman\\
@@ -667,9 +687,10 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&= (they) obey; respect; follow\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn anuv.rt} = anuv.rt}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn manu.syaa.h}&ma|nu|.sysaa\h{aa}&men; husbands; humans\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
@@ -678,6 +699,9 @@ follow my path, O prince (O Arjuna), all together.\\
   &&&\\
   &{\dn sarva"sa.h}&sar|va|"sa\h{a}&\sarvazaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 12}
@@ -961,9 +985,10 @@ will be free from non-grace.\\
   &&kar|me|&\karma\\
   &&&\\
   &&ti&\iti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kavayo.apyatra}&ka|va|yo|&kavaya.h\\
   &&&= {\dn kavaya.h}\\
   &&&= wise\\
@@ -976,10 +1001,9 @@ will be free from non-grace.\\
   &{\dn mohitaa.h}&mo|hi|taa\h{aa}&deceived\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn mohita.h} = mohita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tatte}&tat|&\tat\\
   &&&\\
   &&te&\te\\
@@ -987,9 +1011,10 @@ will be free from non-grace.\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn pravak.syaami}&pra|vak|.syaa|mi&\pravakSyAmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yajj~naatvaa}&yaj|&\yat\\
   &&&\\
   &&j\~{}naat|vaa&\jJAtvA\\
@@ -1002,6 +1027,9 @@ will be free from non-grace.\\
   &&&\\
   &&"su|bhaat&\zubhAt\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 17}
@@ -1089,9 +1117,10 @@ men. He is occupied with all actions done.\\
   &{\dn pa"syedakarma.ni}&pa|"sye|&pa"syet = {\dn pa"syet} = (he/she/it) may see\\
   &&&\note{\verbb, \subjunctivemood, \thirdperson, \singular}\\
   &&&\note{root: {\dn pa"s} = pa"s}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&da|&\aprefix\\
   &&&\\
   &&kar|ma|.ni&\karmaNi\\
@@ -1101,10 +1130,9 @@ men. He is occupied with all actions done.\\
   &{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn buddhimaanmanu.sye.su}&bud|dhi|&\buddhiH\\
@@ -1116,9 +1144,10 @@ men. He is occupied with all actions done.\\
   &&&= at/in/on men; husbands; humans\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn manu.sya.h} = manu.sya.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
@@ -1131,6 +1160,9 @@ men. He is occupied with all actions done.\\
   &&k.rt&doing\\
   &&&\note{\adjective}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 19}
@@ -1661,9 +1693,10 @@ union in the fire, in the knowledge on fire.\\
   &&dri|ya|&\indriyam\\
   &&&\\
   &&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn praa.nakarmaa.ni}&praa|.na|&\prANaH\\
   &&&\\
   &&kar|maa|.ni&\karmANi\\
@@ -1675,10 +1708,9 @@ union in the fire, in the knowledge on fire.\\
   &&&= at/in/on something different; other; strange\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn apara.h} = apara.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aatmasa.myamayogaagnau}&aat|ma|&\aatmaa\\
   &&&\\
   &&sa.m|ya|ma&sa.myama.h\\
@@ -1689,9 +1721,10 @@ union in the fire, in the knowledge on fire.\\
   &&yo|gaag|&\yogaH\\
   &&&\\
   &&nau&\agnau\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn juhvati}&juh|va|ti&\juhvati\\
   &&&\\
   &{\dn j~naanadiipite}&j\~{}naa|na|&\jJAnam\\
@@ -1701,6 +1734,9 @@ union in the fire, in the knowledge on fire.\\
   &&&\note{\adjective, \neuter, \locativecase}\\
   &&&\note{from {\dn diipitam} = diipitam}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 28}
@@ -1720,9 +1756,10 @@ prepared men who have taken vows.\\
   &&sta|po|&\tapas\\ 
   &&&\\
   &&yaj|\~{}naa&\yajJAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yogayaj~naastathaapare}&yo|ga|&\yogaH\\
   &&&\\
   &&yaj|\~{}naa|&\yajJAH\\
@@ -1734,10 +1771,9 @@ prepared men who have taken vows.\\
   &&&= at/in/on something different; other; strange\\
   &&&\note{\noun, \male?, \locativecase}\\
   &&&\note{from {\dn apara.h} = apara.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn svaadhyaayaj~naanayaj~naa"sca}&svaa|dhyaa|yaj|&\svAdhyAyaH\\
   &&&\\
   &&\~{}naa|na|&\jJAnam\\
@@ -1745,9 +1781,10 @@ prepared men who have taken vows.\\
   &&yaj|\~{}naa"s|&\yajJAH\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yataya.h}&ya|ta|ya\h{a}&(?)\\
   &&&\note{similar: \adjective, {\dn yata} = yata}\\
   &&&\note{= governed; controlled; restrained}\\
@@ -1765,6 +1802,9 @@ prepared men who have taken vows.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 29}
 
 \kRSNasaidtoarjuna\\
@@ -1774,8 +1814,7 @@ breath, thus. In another person, having stopped the
 breath-downward-air-path, the breath is restraining and going away. In
 another person, (with) suppressed foods, he offers breaths in
 breaths.\\
-\newpage
-% ------------------------------------------------------------------------------
+
 \begin{tabular}{llll}
   1a&{\dn apaane}&a|paa|ne&at/in/on downwaird air\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -1871,6 +1910,9 @@ breaths.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 30}
 
 \kRSNasaidtoarjuna\\
@@ -1892,9 +1934,10 @@ the eternal God.\\
   &&&= {\dn vida.h}\\
   &&&= knowledge; discovery\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yaj~nak.sapitakalma.saa.h}&yaj|\~{}na|&\yajJaH\\
   &&&\\
   &&k.sa|pi|ta|&ruined; suppressed; destroyed\\
@@ -1905,10 +1948,9 @@ the eternal God.\\
   &&&= stains; sins; dirtiness\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn kalma.sam} = kalma.sam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yaj~na"si.s.taam.rtabhujo}&yaj|\~{}na|&\yajJaH\\
   &&&\\
   &&"si.s|.taa|&"si.sta\\
@@ -1925,9 +1967,10 @@ the eternal God.\\
   &&&= {\dn bhuja.h}\\
   &&&= hand; arm; branch\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yaanti}&yaan|ti&\yaanti\\
   &&&\\
   &{\dn brahma}&brah|ma&\brahma\\
@@ -1936,6 +1979,9 @@ the eternal God.\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 31}
@@ -1957,9 +2003,10 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&|&\aprefix\\
   &&&\\
   &&yaj|\~{}na|sya&\yajJasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kuto.anya.h}&ku|to|&\kutaH\\
   &&&\\
   &&'nya\h{a}&\anyaH\\
@@ -1970,9 +2017,6 @@ another (world), O very good Kuru (O Arjuna)?\\
   &&&= very good; very virtuous; very venerable\\
   &&&\note{\adjective}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 32}
@@ -2229,9 +2273,10 @@ sin.\\
   &{\dn paapebhya.h}&\multicolumn{2}{l}{paa|pe|bhya\h{a}}\\
   &&&\\
   &&&\pApebhyaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sarvebhya.h}&\multicolumn{2}{l}{sar|ve|bhya\h{a}}\\
   &&&\\
   &&&\sarvebhyaH\\
@@ -2243,10 +2288,9 @@ sin.\\
   &&&\note{\adjective}\\
   &&&\\
   &&ta|ma\h{a}&\tamaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarva.m}&sar|va.m&\sarvam\\
   &&&\\
   &{\dn j~naanaplavenaiva}&j\~{}naa|na|&\jJAnam\\
@@ -2258,9 +2302,10 @@ sin.\\
   &&&\note{from {\dn plava.h} = plava.h}\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn v.rjina.m}&v.r|ji|na.m&v.rjinam\\
   &&&= {\dn v.rjinam}\\
   &&&= sin; evil; vice\\
@@ -2271,6 +2316,9 @@ sin.\\
   &&&\note{\verbb, \futuretensecertain, \secondperson, \singular}\\
   &&&\note{root: {\dn sa.mt.R} = sa.mt.rr}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 37}
@@ -2400,9 +2448,10 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &&la|bha|te&\labhate\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tatpara.h}&tat|&\tat\\
   &&&\\
   &&pa|ra\h{a}&\paraH\\
@@ -2415,10 +2464,9 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &&dri|ya\h{a}&indriya.h\\
   &&&= {\dn indriya.h}\\
   &&&= (?) \indriyam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn labdhvaa}&lab|dhvaa&\labdhvaa\\
@@ -2426,9 +2474,10 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &{\dn paraa.m}&pa|raa.m&\paraam\\
   &&&\\
   &{\dn "saantim}&"saan|tim&\zAntim\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn acire.naadhigacchati}\\
   &&&\\
   &&a|ci|re|.naa|&acire.na\\
@@ -2438,6 +2487,9 @@ sense. Having gotten knowledge, he gets the greatest peace soon.\\
   &&&\\
   &&dhi|gac|cha|ti&\adhigacchati\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 4, Verse 40}
@@ -2583,9 +2635,10 @@ descendant of Bharata (O Arjuna).\\
   &&&= {\dn sambhuutam}\\
   &&&= combined; produced; born\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn h.rtstha.m}&h.rt|&h.rtpi.n.dam = {\dn h.rtpi.n.dam} = heart\\
   &&&\note{\noun, \neuter}\\
   &&&\\
@@ -2598,10 +2651,9 @@ descendant of Bharata (O Arjuna).\\
   &&&= (?)\\
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn chittvaina.m}&chit|tvai|&\chittvaa\\
   &&&\\
   &&na.m&\enam\\
@@ -2613,9 +2665,10 @@ descendant of Bharata (O Arjuna).\\
   &&&\note{from {\dn sa.m"saya.h} = sa.m"saya.h}\\
   &&&\\
   &{\dn yogamaati.s.thotti.s.tha}&yo|ga|&\yogam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&maa|ti.s|.thot|&aati.s.tha\\
   &&&= {\dn aati.s.tha}\\
   &&&= (?) aati.s.thataam\\
