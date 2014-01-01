@@ -38,12 +38,22 @@ If you are trying to memorize cases, below are some tips:
   with ``.su = {\dn .su}'' or ``su = {\dn su}'' might be Case 7
   (locative) plural, which means ``at/in/on things.''
 
+\item Sometimes, a case has an ``n = {\dn n}'' sound near the end. But
+  if there is an ``r = {\dn r}'' sound before the ``n'' and near it,
+  the ``n'' might become retroflex: .n = {\dn .n}. Presumably, the
+  retroflex sound is easier to pronounce because the tongue is already
+  near the back of the mouth for the ``r'' sound.
+
+\item Sometimes, people write ``s = {\dn s}'' instead of ``.h = {\dn
+  .h}''. For example: karma.nas = {\dn karma.nas} = karma.na.h = {\dn
+  karma.na.h} = of/at/in/on action.
+
 \end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Male noun root which ends with: a}
 
-ratha = {\dn ratha} = chariot, warrior, enjoyment.\\
+Example: ratha = {\dn ratha} = chariot, warrior, enjoyment.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
 Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
@@ -102,7 +112,7 @@ between the two armies.\\
 % ------------------------------------------------------------------------------
 \section*{Male noun root which ends with: u}
 
-baahu = {\dn baahu} = forearm; arm.\\
+Example: baahu = {\dn baahu} = forearm; arm.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
 Chapter 2, Verse 68, K.r.sna addresses Arjuna as {\dn mahaabaaho} =
@@ -118,8 +128,8 @@ mahaabaaho = mighty-arm.\\
   \hline
   1&nominative&&&\\
   &&&&\\
-  &{\dn prathamaa}&{\dn baahu.h}&{\dn bahuu}&{\dn baahava.h}\\
-  &prathamaa&baahu.h&bahuu&baahava.h\\
+  &{\dn prathamaa}&{\dn baahu.h}&{\dn baahuu}&{\dn baahava.h}\\
+  &prathamaa&baahu.h&baahuu&baahava.h\\
   \hline
   2&accusative&&&\\
   &&&&\\
@@ -134,12 +144,12 @@ mahaabaaho = mighty-arm.\\
   4&dative&&&\\
   &&&&\\
   &{\dn caturthii}&{\dn baahave}&{\dn baahubhyaam}&{\dn baahubhya.h}\\
-  &caturthii&baahave&baahuubhyaam&baahubhya.h\\
+  &caturthii&baahave&baahubhyaam&baahubhya.h\\
   \hline
   5&ablative&&&\\
   &&&&\\
   &{\dn pa~ncamii}&{\dn baaho.h}&{\dn baahubhyaam}&{\dn baahubhya.h}\\
-  &pa\~{}ncamii&baaho.ht&baahubhyaam&baahubhya.h\\
+  &pa\~{}ncamii&baaho.h&baahubhyaam&baahubhya.h\\
   \hline
   6&genitive&&&\\
   &&&&\\
@@ -161,11 +171,11 @@ mahaabaaho = mighty-arm.\\
 % ------------------------------------------------------------------------------
 \section*{Neuter noun root which ends with: a}
 
-phala = {\dn phala} = fruit; result.\\
+Example: phala = {\dn phala} = fruit; result.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
-Chapter 2, Verse 43, K.r.sna talks with Arjuna about ``action fruit''
-(``fruit of action'').\\
+Chapter 2, Verse 43, K.r.sna talks with Arjuna about {\dn karmaphala}
+= karmaphala = action-fruit (fruit of action).\\
 
 \begin{tabular}{|l|l|l|l|l|}
   \hline
@@ -193,11 +203,11 @@ male.\\
 % ------------------------------------------------------------------------------
 \section*{Neuter noun root which ends with: an}
 
-karman = {\dn karman} = act; action; work; doing; deed.\\
+Example: karman = {\dn karman} = act; action; work; doing; deed.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
-Chapter 2, Verse 43, K.r.s.na talks with Arjuna about ``action fruit''
-(``fruit of action'').\\
+Chapter 2, Verse 43, K.r.s.na talks with Arjuna about {\dn karmaphala}
+= karmaphala = action-fruit (fruit of action).\\
 
 \begin{tabular}{|l|l|l|l|l|}
   \hline
@@ -252,7 +262,7 @@ Chapter 2, Verse 43, K.r.s.na talks with Arjuna about ``action fruit''
 % ------------------------------------------------------------------------------
 \section*{Female noun root which ends with: aa}
 
-senaa = {\dn senaa} = army.\\
+Example: senaa = {\dn senaa} = army.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
 Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
@@ -311,7 +321,7 @@ between the two armies.\\
 % ------------------------------------------------------------------------------
 \section*{Female noun root which ends with: i}
 
-buddhi = {\dn buddhi} = brainpower; intelligence.\\
+Example: buddhi = {\dn buddhi} = brainpower; intelligence.\\
 
 At least one case of this noun appears in the Bhagavad Gita: In
 Chapter 3, Verse 42, K.r.s.na tells Arjuna that intelligence is better
@@ -348,7 +358,7 @@ than the mind.\\
   5&ablative&&&\\
   &&&&\\
   &{\dn pa~ncamii}&{\dn buddhyaa.h}/{\dn buddhe.h}&{\dn buddhibhyaam}&{\dn buddhibhya.h}\\
-  &pa\~{}ncamii&buddhyaa.h/buddhe.h&{\dn buddhibhyaam}&buddhibhya.h\\
+  &pa\~{}ncamii&buddhyaa.h/buddhe.h&buddhibhyaam&buddhibhya.h\\
   \hline
   6&genitive&&&\\
   &&&&\\
