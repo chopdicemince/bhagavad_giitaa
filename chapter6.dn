@@ -24,9 +24,10 @@ not active.\\
   &{\dn karmaphala.m}&kar|ma|&\karma\\
   &&&\\
   &&pha|la.m&\phalam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kaarya.m}&kaar|ya.m&\kaaryam\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
@@ -34,10 +35,9 @@ not active.\\
   &{\dn karoti}&ka|ro|ti&\karoti\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn sannyaasii}&san|nyaa|sii&(?)\\
@@ -49,9 +49,10 @@ not active.\\
   &{\dn yogii}&yo|gii&\yogii\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn niragnirna}&ni|rag|&\niH\\
@@ -67,6 +68,9 @@ not active.\\
   &&&= not active; not working\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 2}
@@ -92,9 +96,10 @@ not active.\\
   &{\dn praahuryoga.m}&praa|hur|&praahu.h\\
   &&&= {\dn praahu.h}\\
   &&&= (?)\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&yo|ga.m&\yogam\\
   &&&\\
   &{\dn ta.m}&ta.m&\tam\\
@@ -102,10 +107,9 @@ not active.\\
   &{\dn viddhi}&vid|dhi&\viddhiH\\
   &&&\\
   &{\dn paa.n.dava}&paa.n|.da|va&\pANDava\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn hyasannyastasa"nkalpo}&hya|&\hi\\
@@ -118,9 +122,10 @@ not active.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &&sa"n|kal|po&\saGkalpaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yogii}&yo|gii&\yogii\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
@@ -128,6 +133,9 @@ not active.\\
   &{\dn ka"scana}&ka"s|ca|na&someone; anyone\\
   &&&\note{\pronoun, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 3}
@@ -338,9 +346,10 @@ an enemy.\\
   &&ma|na|sta|&\AtmanaH\\
   &&&\\
   &&sya&\tasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yenaatmaivaatmanaa}&ye|naat|&\yena\\
   &&&\\
   &&mai|&\aatmaa\\
@@ -351,10 +360,9 @@ an enemy.\\
   &&&\\
   &{\dn jita.h}&ji|ta\h{a}&overcome; subdued; conquered\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn anaatmanastu}&a|naat|&\an\\
   &&&\\
   &&ma|na|&\AtmanaH\\
@@ -364,9 +372,10 @@ an enemy.\\
   &{\dn "satrutve}&"sa|tru|tve&(?)\\
   &&&\note{similar: \noun, \female, {\dn "satrutaa} = "satrutaa}\\
   &&&\note{= enmity; hostility}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn vartetaatmaiva}&var|te|taat|&varteta\\
   &&&= {\dn varteta}\\
   &&&= (he/she/it) might be; live; behave\\
@@ -381,6 +390,9 @@ an enemy.\\
   &&&\note{similar: \noun, \female, {\dn "satrutaa} = "satrutaa}\\
   &&&\note{= enmity; hostility}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 7}
@@ -748,9 +760,10 @@ is virtuous.\\
   &{\dn mana.h}&ma|na\h{a}&\manaH\\
   &&&\\
   &{\dn k.rtvaa}&k.rt|vaa&\kRtvA\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yatacittendriyakriya.h}&ya|ta|&{\dn yata}\\
   &&&= yoked; controlled; subdued; governed\\
   &&&\note{\adjective}\\
@@ -766,10 +779,9 @@ is virtuous.\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn kriyaa} = kriyaa}\\
   &&&\note{= action; work}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn upavi"syaasane}&u|pa|vi|"syaa|&upavi"sya\\
   &&&= {\dn upavi"sya}\\
   &&&= seated\\
@@ -786,9 +798,10 @@ is virtuous.\\
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn yu~njaka} = yu\~{}njaka}\\
   &&&\note{= doing}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&dyo|ga|maat|&\yogam\\
   &&&\\
   &&ma|&\aatmaa\\
@@ -798,6 +811,9 @@ is virtuous.\\
   &&&\note{similar: \adjective, {\dn vi"suddha} = vi"suddha}\\
   &&&\note{= virtuous; pure; clean}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 13}
@@ -826,9 +842,10 @@ looking in all directions.\\
   &&&= neck\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn griiva.h} = griiva.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn dhaarayannacala.m}&dhaa|ra|yan|&dhaarayan\\
   &&&= {\dn dhaarayan}\\
   &&&= bearing; holding\\
@@ -845,10 +862,9 @@ looking in all directions.\\
   &&&\\
   &{\dn sthira.h}&sthi|ra\h{a}&steadfast; still\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn samprek.sya}&sam|prek|.sya&(?)\\
   &&&\note{similar: root: {\dn samprek.s} = samprek.s}\\
   &&&\note{= ``to see carefully''}\\
@@ -865,9 +881,10 @@ looking in all directions.\\
   &{\dn sva.m}&sva.m&self; soul; friend; relative; wealth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn sva.h} = sva.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn di"sa"scaanavalokayan}&di|"sa"s|&di"sa.h\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn di"saa} = di"saa}\\
@@ -881,6 +898,9 @@ looking in all directions.\\
   &&&\note{\presentparticiple}\\
   &&&\note{root: (?)}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 14}
@@ -1031,9 +1051,10 @@ Arjuna.\\
   &{\dn yogo.asti}&yo|go|&\yogaH\\
   &&&\\
   &&'sti&\asti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn caikaantamana"snata.h}&cai|&\ca\\
@@ -1048,10 +1069,9 @@ Arjuna.\\
   &&&= (?) of something eating\\
   &&&\note{\adjective, \male(?), \genitivecase}\\
   &&&\note{from {\dn a"snat} = a"snat}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn caatisvapna"siilasya}&caa|&\ca\\
@@ -1065,9 +1085,10 @@ Arjuna.\\
   &&&= of a/the shape; disposition; virtue\\
   &&&\note{\noun, \neuter, \genitivecase}\\
   &&&\note{from {\dn "siilam} = "siilam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn jaagrato}&jaa|gra|to&jaagrata.h\\
   &&&= {\dn jaagrata.h}\\
   &&&= (?)\\
@@ -1083,6 +1104,9 @@ Arjuna.\\
   &&&\\
   &&ju|na&\arjuna\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 17}
@@ -1347,9 +1371,10 @@ he is still and does not move intrinsically.\\
   &{\dn yattadbuddhigraahyamatiindriyam}&yat|&\yat\\
   &&&\\
   &&tad|&\tat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&bud|dhi|&\buddhiH\\
   &&&\\
   &&graa|hya|ma|&graahyam\\
@@ -1361,10 +1386,9 @@ he is still and does not move intrinsically.\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&dri|yam&\indriyam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vetti}&vet|ti&\vetti\\
   &&&\\
   &{\dn yatra}&ya|tra&wherever\\
@@ -1377,9 +1401,10 @@ he is still and does not move intrinsically.\\
   &&vaa|&\eva\\
   &&&\\
   &&ya.m&\ayam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sthita"scalati}&sthi|ta"s|&\sthitaH\\
   &&&\\
   &&ca|la|ti&{\dn calati}\\
@@ -1390,6 +1415,9 @@ he is still and does not move intrinsically.\\
   &{\dn tattvata.h}&tat|tva|ta\h{a}&intrinsically\\
   &&&\note{\adverb, \indeclinable}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 22}
@@ -1413,9 +1441,10 @@ teacher, also, the person does not swerve.\\
   &&pa|ra.m&\param\\
   &&&\\
   &{\dn laabha.m}&laa|bha.m&\laabham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn manyate}&man|ya|te&\manyate\\
   &&&\\
   &{\dn naadhika.m}&naa|&\na\\
@@ -1427,10 +1456,9 @@ teacher, also, the person does not swerve.\\
   &&&\note{from {\dn adhika.h} = adhika.h}\\
   &&&\\
   &{\dn tata.h}&ta|ta\h{a}&\tataH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yasminsthito}&yas|min|&\yasmin\\
   &&&\\
   &&sthi|to&\sthitaH\\
@@ -1438,9 +1466,10 @@ teacher, also, the person does not swerve.\\
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn du.hkhena}&du.h|khe|na&\duHkhena\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn guru.naapi}&gu|ru|.naa|&\guruNA\\
   &&&\\
   &&pi&\api\\
@@ -1451,6 +1480,9 @@ teacher, also, the person does not swerve.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn vical} = vical}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 23}
@@ -1476,9 +1508,10 @@ contacting material objects) is called yoking.\\
   &&&= yoking; combination; compound\\
   &&&\note{\noun, \male, \nominativecase}\\
   &&&\note{\nounroot{\dn sa.myoga}{sa.myoga}}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&vi|yo|ga.m&viyogam\\
   &&&= {\dn viyogam}\\
   &&&= division; abandonment\\
@@ -1494,9 +1527,6 @@ contacting material objects) is called yoking.\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn sa~nj~nita.h} = sa\~{}nj\~{}nita.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 24}
@@ -1855,9 +1885,10 @@ all-seeing.\\
   &&stha|maat|&\stham\\
   &&&\\
   &&maa|na.m&\aatmaanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sarvabhuutaanicaatmani}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|taa|ni|&\bhuutaani\\
@@ -1865,10 +1896,9 @@ all-seeing.\\
   &&caat|&\ca\\
   &&&\\
   &&ma|ni&\aatmani\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn iik.sate}&iik|.sa|te&(he/she/it) thinks; looks\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{from {\dn iik.s} = iik.s}\\
@@ -1878,9 +1908,10 @@ all-seeing.\\
   &&yuk|taat|&\yuktaH\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sarvatra}&sar|va|tra&\sarvatra\\
   &&&\\
   &{\dn samadar"sana.h}&sa|ma|&\samaH\\
@@ -1889,6 +1920,9 @@ all-seeing.\\
   &&&= seeing\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 30}
@@ -1964,9 +1998,10 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhajatyekatvamaasthita.h}&bha|ja|tye|&\bhajati\\
   &&&\\
   &&ka|tva|maa|&ekatvam\\
@@ -1975,10 +2010,9 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&sthi|ta\h{a}&\AsthitaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarvathaa}&sar|va|thaa&altogether\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -1988,9 +2022,10 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\note{\adjective, \male}\\
   &&&\\
   &&'pi&\api\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yogii}&yo|gii&\yogii\\
@@ -2001,6 +2036,9 @@ seated. Atogether, present, also, that devotee lives in me.\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn v.rt} = v.rt}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 32}
@@ -2084,9 +2122,10 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&&\\
   &{\dn prokta.h}&prok|ta.h&proclaimed; perceived\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn saamyena}&saa|mye|na&by using sameness; equality; similarity\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn saamyam} = saamyam}\\
@@ -2094,10 +2133,9 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &{\dn madhusuudana}&ma|dhu|&\madhu\\
   &&&\\
   &&suu|da|na&\suudana\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn etasyaaha.m}&e|ta|syaa|&\etasya\\
   &&&\\
   &&ha.m&\aham\\
@@ -2105,9 +2143,10 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ca~ncalatvaatsthiti.m}&ca\~{}n|ca|la|tvaat|&(?)\\
   &&&\note{similar: \adjective, {\dn ca~ncala} = ca\~{}ncala}\\
   &&&\note{= shaking; moving to and fro}\\
@@ -2121,6 +2160,9 @@ do not see (of) this. (I am) shaking and steadfast.\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn sthiraa} = sthiraa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 34}
@@ -2221,9 +2263,10 @@ aversion, (it can be) domesticated.\\
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mano}&ma|no&\manaH\\
   &&&\\
   &{\dn durnigraha.m}&dur|ni|gra|ha.m&durnigraham\\
@@ -2235,10 +2278,9 @@ aversion, (it can be) domesticated.\\
   &{\dn calam}&ca|lam&shaking; moving\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn cala.h} = cala.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn abhyaasena}&a|bhyaa|se|na&by using practice\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn abhyaasa.h} = abhyaasa.h}\\
@@ -2246,7 +2288,7 @@ aversion, (it can be) domesticated.\\
   &{\dn tu}&tu&\tu\\
   &&&\\
   &{\dn kaunteya}&kaun|te|ya&\kaunteya\\
-  % ----------------------------------------------------------------------------
+% ------------------------------------------------------------------------------
   \hline
   &&&\\
   2b&{\dn vairaagye.na}&vai|raa|gye|.na&by using aversion; freedom; indifference\\
@@ -2560,19 +2602,19 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\\
   &&mu|tra&amutra = {\dn amutra} = in the next world/life\\
   &&&\note{\adverb}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vinaa"sastasya}&vi|naa|"sa|sta|&vinaa"sasa.h = {\dn vinaa"sasa.h} = decay; death; destruction\\
   &&&\note{\noun, \male}\\
   &&&\\
   &&sya&\tasya\\
   &&&\\
   &{\dn vidyate}&vi|dya|te&\vidyate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn hi}&hi&\hi\\
@@ -2588,9 +2630,10 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\note{\adjective}\\
   &&&\\
   &&ka"s|cid|&\kazcit\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&dur|ga|ti.m&durgatim\\
   &&&= {\dn durgatim}\\
   &&&= distress; poverty\\
@@ -2603,6 +2646,9 @@ does his (a devotee's) destruction exist. Surely, a good-doing
   &&&\\
   &{\dn gacchati}&gac|cha|ti&\gacchati\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 6, Verse 41}
