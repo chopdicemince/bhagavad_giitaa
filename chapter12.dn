@@ -23,18 +23,18 @@ God)---of those, who are yoked-(knowing)-most?\\
   &&yuk|taa&\yuktAH\\
   &&&\\
   &{\dn ye}&ye&\ye\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhaktaastvaa.m}&bhak|taa|&\bhaktAH\\
   &&&\\
   &&stvaa.m&\tvaam\\
   &&&\\
   &{\dn paryupaasate}&par|yu|paa|sa|te&(?) \paryupaaste\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ye}&ye&\ye\\
   &&&\\
   &{\dn caapyak.saramavyakta.m}&caa|&\ca\\
@@ -54,9 +54,10 @@ God)---of those, who are yoked-(knowing)-most?\\
   &&&= {\dn vyaktam}\\
   &&&= visible; clear\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
   &{\dn ke}&ke&what/who\\
@@ -70,6 +71,9 @@ God)---of those, who are yoked-(knowing)-most?\\
   &&&\\
   &&ta|maa\h{aa}&\tamAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 12, Verse 2}
@@ -86,9 +90,10 @@ In me, ones (who) (attain) me, (in) mind, (are) eternal(ly)-yoked
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn mayyaave"sya}&may|yaa|&\mayi\\
   &&&\\
   &&ve|"sya&aave"sya\\
@@ -104,10 +109,9 @@ In me, ones (who) (attain) me, (in) mind, (are) eternal(ly)-yoked
   &{\dn ye}&ye&\ye\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn nityayuktaa}&ni|tya|&\nityaH\\
   &&&\\
   &&yuk|taa&\yuktAH\\
@@ -172,9 +176,10 @@ best-standing, the non-moving, the fixed, \dots\\
   &&nir|de|"sya|&nirde"syam = {\dn nirde"syam} = definite\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&vyak|ta.m&vyaktam = {\dn vyaktam} = visible; clear\\
@@ -182,10 +187,9 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn paryupaasate}&par|yu|paa|sa|te&(?) \paryupaaste\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarvatragamacintya.m}&sar|va|tra|&\sarvatra\\
   &&&\\
   &&ga|ma|&gam = {\dn gam} = ``to go''\\
@@ -200,9 +204,10 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}{llll}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kuu.tasthamacala.m}&kuu|.ta|&kuu.tam\\
   &&&= {\dn kuu.tam}\\
   &&&= mountain peak; best\\
@@ -222,6 +227,9 @@ best-standing, the non-moving, the fixed, \dots\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 12, Verse 4}
@@ -310,9 +318,10 @@ attain a person/thing.\\
   &&ta|ra|ste|&\taraH\\
   &&&\\
   &&.saa|&\teSAm\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&vyak|taa|&vyakta\\
@@ -329,10 +338,9 @@ attain a person/thing.\\
   &&&\note{\adjective}\\
   &&&\\
   &&ce|ta|saam&\cetasaam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn avyaktaa}&a|&\aprefix\\
   &&&\\
   &&vyak|taa&{\dn vyaktaa}\\
@@ -347,9 +355,10 @@ attain a person/thing.\\
   &&&\note{\noun, \female}\\
   &&&\\
   &&du.h|kha.m&\duHkham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn dehavadbhiravaapyate}\\
   &&&\\
   &&de|ha|&\dehaH\\
@@ -369,6 +378,9 @@ attain a person/thing.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section*{Chapter 12, Verse 6}
 
 \kRSNasaidtoarjuna\\
@@ -385,9 +397,10 @@ paramount (things)---not using another (thing)---really, using yoking
   &{\dn sarvaa.ni}&sar|vaa|.ni&\sarvANi\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mayi}&ma|yi&\mayi\\
   &&&\\
   &{\dn sannyasya}&san|nya|sya&(?) ``of abandonment''\\
@@ -397,10 +410,9 @@ paramount (things)---not using another (thing)---really, using yoking
   &{\dn matparaa.h}&mat|&\mat\\
   &&&\\
   &&pa|raa\h{aa}&\parAH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ananyenaiva}&a|na|&\an\\
   &&&\\
   &&nye|nai|&\anyena\\
@@ -408,9 +420,10 @@ paramount (things)---not using another (thing)---really, using yoking
   &&va&\eva\\
   &&&\\
   &{\dn yogena}&yo|ge|na&\yogena\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn maa.m}&maa.m&\maam\\
   &&&\\
   &{\dn dhyaayanta}&dhyaa|yan|ta&(?)\\
@@ -419,6 +432,9 @@ paramount (things)---not using another (thing)---really, using yoking
   &&&\\
   &{\dn upaasate}&u|paa|sa|te&(?) \upaaste\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 12, Verse 7}
@@ -968,9 +984,10 @@ of me.\\
   &&&\note{root: {\dn udvij} = udvij}\\
   &&&\\
   &{\dn loko}&lo|ko&\lokaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn lokaan}&lo|kaan&\lokaan\\
   &&&\\
   &{\dn nodvijate}&no|&\na\\
@@ -984,10 +1001,9 @@ of me.\\
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn har.saamar.sabhayodvegairmukto}\\
   &&&\\
   &&har|.saa|&har.sa.h\\
@@ -1011,9 +1027,10 @@ of me.\\
   &&&= {\dn udvega.h}\\
   &&&= distress\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&muk|to&mukta.h\\
   &&&= {\dn mukta.h}\\
   &&&= free (liberated)\\
@@ -1029,6 +1046,9 @@ of me.\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section*{Chapter 12, Verse 16}
@@ -1334,18 +1354,18 @@ devotees (are) very favorite (people) of me.\\
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &&da.m&\idam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yathokta.m}&ya|thok|&\yathaa\\
   &&&\\
   &&ta.m&\uktam\\
   &&&\\
   &{\dn paryupaasate}&par|yu|paa|sa|te&(?) \paryupaaste\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sraddadhaanaa}&"srad|da|dhaa|naa&"sraddadhaanaa.h\\
   &&&= {\dn "sraddadhaanaa.h}\\
   &&&= faithful\\
@@ -1355,9 +1375,10 @@ devotees (are) very favorite (people) of me.\\
   &{\dn matparamaa}&mat|&\mat\\
   &&&\\
   &&pa|ra|maa&\paramAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhaktaaste.atiiva}&bhak|taa|&\bhaktAH\\
   &&&\\
   &&ste|&\te\\
