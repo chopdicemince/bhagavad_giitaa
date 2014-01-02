@@ -221,9 +221,9 @@ Sanskrit has three ``persons.'' A ``person'' is called a {\dn
 persons in English.\\
 
 \begin{tabular}{lllllll}
-  1&English first person&{\dn uttama.h}&=&uttama.h&=&last\\
-  2&English second person&{\dn madhyama.h}&=&madhyama.h&=&middle\\
-  3&English third person&{\dn prathama.h}&=&prathama.h&=&first\\
+  1&English first person (I)&{\dn uttama.h}&=&uttama.h&=&ultimate; last\\
+  2&English second person (you)&{\dn madhyama.h}&=&madhyama.h&=&middle\\
+  3&English third person (he/she/it)&{\dn prathama.h}&=&prathama.h&=&premier; primary; first\\
 \end{tabular}
 % ------------------------------------------------------------------------------
 \section{Names of the cases}
@@ -278,7 +278,7 @@ A case is called a {\dn vibhakti.h} = vibhakti.h.\\
   &=
   &\transliteration{t.rtiiyaa}
   &instrumental
-  &I go \underline{using/by the car}.
+  &I go \underline{by using the car}.
   \\
   4
   &fourth
