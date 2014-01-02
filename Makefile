@@ -9,6 +9,7 @@ gita.tex: gita.dn \
   mymacros.tex \
   chapter_about_the_bhagavad_gita.tex \
   chapter_about_this_book.tex \
+  chapter_about_the_license_of_this_book.tex \
   chapter_about_sanskrit_history.tex \
   chapter_about_sanskrit_transliteration.tex \
   chapter_about_sanskrit_grammar.tex \
@@ -42,6 +43,9 @@ chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
 
 chapter_about_this_book.tex: chapter_about_this_book.dn
 	devnag chapter_about_this_book.dn
+
+chapter_about_the_license_of_this_book.tex: chapter_about_the_license_of_this_book.dn
+	devnag chapter_about_the_license_of_this_book.dn
 
 chapter_about_sanskrit_history.tex: chapter_about_sanskrit_history.dn
 	devnag chapter_about_sanskrit_history.dn
