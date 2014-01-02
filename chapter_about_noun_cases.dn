@@ -2,7 +2,7 @@
 
 The following pages have the cases/declensions of various nouns. For
 some nouns, at least one of their cases appears in the Bhagavad
-Gita.\\
+Giitaa.\\
 
 Note: we use the convention that Case 8 is the vocative case. Not all
 people follow this convention.\\
@@ -51,11 +51,287 @@ If you are trying to memorize cases, below are some tips:
 \end{itemize}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Male noun root which ends with: a}
+\section{First-person pronoun (I, me)}
+
+Noun root: {\dn asmad} = asmad.\\
+
+In English, some first-person pronouns start with an ``m'' sound, like
+``me,'' ``my,'' and ``mine.'' A similar situation exists in
+Sanskrit. (And in other languages, like Spanish, French, and
+Italian.)\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn aham}&{\dn aavaam}&{\dn vayam}\\
+  &prathamaa&aham&aavaam&vayam\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn maam}/{\dn maa}&{\dn aavaam}/{\dn nau}&{\dn asmaan}/{\dn na.h}\\
+  &dvitiiyaa&maam/maa&aavaam/nau&asmaan/na.h\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn mayaa}&{\dn aavaabhyaam}&{\dn asmaabhi.h}\\
+  &t.rtiiyaa&mayaa&aavaabhyaam&asmaabhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn mahyam}/{\dn me}&{\dn aavaabhyaam}/{\dn nau}&{\dn asmabhyam}/{\dn na.h}\\
+  &caturthii&mahyam/me&aavaabhyaam/nau&asmabhyam/na.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn mat}&{\dn aavaabhyaam}&{\dn asmat}\\
+  &pa\~{}ncamii&mat&aavaabhyaam&asmat\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn mama}/{\dn me}&{\dn aavayo.h}/{\dn nau}&{\dn asmaakam}/{\dn na.h}\\
+  &.si.s.thii&mama/me&aavayo.h/nau&asmaakam/na.h\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn mayi}&{\dn aavayo.h}&{\dn asmaasu}\\
+  &saptamii&mayi&aavayo.h&asmaasu\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&&&\\
+  &sambodhana&(none)&(none)&(none)\\
+  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\section{Second-person pronoun (you)}
+
+Noun root: {\dn yu.smad} = yu.smad.\\
+
+In English, some second-person pronouns start with a ``you'' sound. A
+similar situation exists in Sanskrit. (Also, in Sanskrit, some
+second-person pronouns start with a ``t'' or ``v'' sound. A similar
+situation exists in languages like Spanish, French, and Italian.)\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn tvam}&{\dn yuvaam}&{\dn yuuyam}\\
+  &prathamaa&tvam&yuvaam&yuuyam\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn tvaam}/{\dn tvaa}&{\dn yuvaam}/{\dn vaam}&{\dn yu.smaan}/{\dn va.h}\\
+  &dvitiiyaa&tvaam/tvaa&yuvaam/vaam&yu.smaan/va.h\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn tvayaa}&{\dn yuvaabhyaam}&{\dn yu.smaabhi.h}\\
+  &t.rtiiyaa&tvayaa&yuvaabhyaam&yu.smaabhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn tubhyam}/{\dn te}&{\dn yuvaabhyaam}/{\dn vaam}&{\dn yu.smabhyam}/{\dn va.h}\\
+  &caturthii&tubhyam/te&yuvaabhyaam/vaam&yu.smabhyam/va.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn tvat}&{\dn yuvaabhyaam}&{\dn yu.smat}\\
+  &pa\~{}ncamii&tvat&yuvaabhyaam&yu.smat\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn tava}/{\dn te}&{\dn yuvayo.h}/{\dn vaam}&{\dn yu.smaakam}/{\dn va.h}\\
+  &.si.s.thii&tava/te&yuvayo.h/vaam&yu.smaakam/va.h\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn tvayi}&{\dn yuvayo.h}&{\dn yu.smaasu}\\
+  &saptamii&tvayi&yuvayo.h&yu.smaasu\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&&&\\
+  &sambodhana&(none)&(none)&(none)\\
+  \hline
+\end{tabular}
+\newpage
+% -----------------------------------------------------------------------------
+\section{Male demonstrative third-person pronoun (that/he)}
+
+Noun root: {\dn tad} = tad.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn sa.h}&{\dn tau}&{\dn te}\\
+  &prathamaa&sa.h&tau&te\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn tam}&{\dn tau}&{\dn taan}\\
+  &dvitiiyaa&tam&tau&taan\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn tena}&{\dn taabhyaam}&{\dn tai.h}\\
+  &t.rtiiyaa&tena&taabhyaam&tai.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn tasmai}&{\dn taabhyaam}&{\dn tebhya.h}\\
+  &caturthii&tasmai&taabhyaam&tebhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn tasmaat}&{\dn taabhyaam}&{\dn tebhya.h}\\
+  &pa\~{}ncamii&tasmaat&taabhyaam&tebhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn tasya}&{\dn tayo.h}&{\dn te.saam}\\
+  &.si.s.thii&tasya&tayo.h&te.saam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn tasmin}&{\dn tayo.h}&{\dn te.su}\\
+  &saptamii&tasmin&tayo.h&te.su\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&&&\\
+  &sambodhana&(none)&(none)&(none)\\
+  \hline
+\end{tabular}\\
+
+A related male demonstrative third-person pronoun is {\dn e.sa.h} =
+e.sa.h = this/he.\\
+
+Two related male interrogative third-person pronouns are {\dn ka.h} =
+ka.h = what/who, and {\dn ya.h} = ya.h = which.
+\newpage
+% ------------------------------------------------------------------------------
+\section{Neuter demonstrative third-person pronoun (that/it)}
+
+Noun root: {\dn tad} = tad.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn tat}&{\dn te}&{\dn taani}\\
+  &prathamaa&tat&te&taani\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn tat}&{\dn te}&{\dn taani}\\
+  &dvitiiyaa&tat&te&taani\\
+  \hline
+\end{tabular}\\
+
+Cases 3 to 8 are the same as for the corresponding male pronoun: sa.h
+= {\dn sa.h}.\\
+
+A related neuter demonstrative third-person pronoun is {\dn etat} =
+etat = this/it.\\
+
+Two related neuter interrogative third-person pronouns are {\dn kim} =
+kim = what/who, and {\dn yat} = yat = which.
+\newpage
+% ------------------------------------------------------------------------------
+\section{Female demonstrative third-person pronoun (that/she)}
+
+Noun root: {\dn tad} = tad.\\
+
+\begin{tabular}{|l|l|l|l|l|}
+  \hline
+  &&&&\\
+  &{\dn vibhakti.h}&{\dn ekavacanam}&{\dn dvivacanam}&{\dn bahuvacanam}\\
+  &vibhakti.h&ekavacanam&dvivacanam&bahuvacanam\\
+  &&&&\\
+  &case/declension&singular&dual&plural\\
+  \hline
+  1&nominative&&&\\
+  &&&&\\
+  &{\dn prathamaa}&{\dn saa}&{\dn te}&{\dn taa.h}\\
+  &prathamaa&saa&te&taa.h\\
+  \hline
+  2&accusative&&&\\
+  &&&&\\
+  &{\dn dvitiiyaa}&{\dn taam}&{\dn te}&{\dn taa.h}\\
+  &dvitiiyaa&taam&te&taa.h\\
+  \hline
+  3&instrumental&&&\\
+  &&&&\\
+  &{\dn t.rtiiyaa}&{\dn tayaa}&{\dn taabhyaam}&{\dn taabhi.h}\\
+  &t.rtiiyaa&tayaa&taabhyaam&taabhi.h\\
+  \hline
+  4&dative&&&\\
+  &&&&\\
+  &{\dn caturthii}&{\dn tasyai}&{\dn taabhyaam}&{\dn taabhya.h}\\
+  &caturthii&tasyai&taabhyaam&taabhya.h\\
+  \hline
+  5&ablative&&&\\
+  &&&&\\
+  &{\dn pa~ncamii}&{\dn tasyaa.h}&{\dn taabhyaam}&{\dn taabhya.h}\\
+  &pa\~{}ncamii&tasyaa.h&taabhyaam&taabhya.h\\
+  \hline
+  6&genitive&&&\\
+  &&&&\\
+  &{\dn .si.s.thii}&{\dn tasyaa.h}&{\dn tayo.h}&{\dn taasaam}\\
+  &.si.s.thii&tasyaa.h&tayo.h&taasaam\\
+  \hline
+  7&locative&&&\\
+  &&&&\\
+  &{\dn saptamii}&{\dn tasyaam}&{\dn tayo.h}&{\dn taasu}\\
+  &saptamii&tasyaam&tayo.h&taaasu\\
+  \hline
+  8&vocative&&&\\
+  &&&&\\
+  &{\dn sambodhana}&&&\\
+  &sambodhana&(none)&(none)&(none)\\
+  \hline
+\end{tabular}\\
+
+A related female demonstrative third-person pronoun is {\dn e.saa} =
+e.saa = this/she.\\
+
+Two related female interrogative third-person pronouns are {\dn kaa} =
+kaa = what/who, and {\dn yaa} = yaa = which.
+\newpage
+% ------------------------------------------------------------------------------
+\section{Male noun root which ends with: a}
 
 Example: ratha = {\dn ratha} = chariot, warrior, enjoyment.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
 between the two armies.\\
 
@@ -110,11 +386,11 @@ between the two armies.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Male noun root which ends with: u}
+\section{Male noun root which ends with: u}
 
 Example: baahu = {\dn baahu} = forearm; arm.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 2, Verse 68, K.r.sna addresses Arjuna as {\dn mahaabaaho} =
 mahaabaaho = mighty-arm.\\
 
@@ -169,11 +445,11 @@ mahaabaaho = mighty-arm.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Neuter noun root which ends with: a}
+\section{Neuter noun root which ends with: a}
 
 Example: phala = {\dn phala} = fruit; result.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 2, Verse 43, K.r.sna talks with Arjuna about {\dn karmaphala}
 = karmaphala = action-fruit (fruit of action).\\
 
@@ -201,11 +477,11 @@ The rows for cases 3 to 8 follow the same forms as if the noun were
 male.\\
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Neuter noun root which ends with: an}
+\section{Neuter noun root which ends with: an}
 
 Example: karman = {\dn karman} = act; action; work; doing; deed.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 2, Verse 43, K.r.s.na talks with Arjuna about {\dn karmaphala}
 = karmaphala = action-fruit (fruit of action).\\
 
@@ -260,11 +536,11 @@ Chapter 2, Verse 43, K.r.s.na talks with Arjuna about {\dn karmaphala}
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Female noun root which ends with: aa}
+\section{Female noun root which ends with: aa}
 
 Example: senaa = {\dn senaa} = army.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 1, Verse 21, Arjuna tells K.r.s.na to stop their chariot
 between the two armies.\\
 
@@ -319,11 +595,11 @@ between the two armies.\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\section*{Female noun root which ends with: i}
+\section{Female noun root which ends with: i}
 
 Example: buddhi = {\dn buddhi} = brainpower; intelligence.\\
 
-At least one case of this noun appears in the Bhagavad Gita: In
+At least one case of this noun appears in the Bhagavad Giitaa: In
 Chapter 3, Verse 42, K.r.s.na tells Arjuna that intelligence is better
 than the mind.\\
 
