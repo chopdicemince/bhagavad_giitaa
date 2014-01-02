@@ -22,3 +22,5 @@ the code on other versions of Linux or on other operating systems.
 The code can take some time to run. To make it run faster, you can
 temporarily comment out or temporarily delete lines in the following
 files: book.dn, Makefile.
+
+Winston C. Yang
