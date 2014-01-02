@@ -4,10 +4,7 @@
 \hbadness=20000
 \vbadness=20000
 % ------------------------------------------------------------------------------
-\newcommand{\mychapter}[1]{%
-  \chapter*{#1}%
-  \addcontentsline{toc}{chapter}{#1}
-}
+\newcommand{\bhagavadgiitaa}{Bhagavad Giitaa:}
 % ------------------------------------------------------------------------------
 % Change the text color.
 \definecolor{mygray}{gray}{0.55}
