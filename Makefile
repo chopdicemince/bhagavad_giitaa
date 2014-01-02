@@ -1,13 +1,13 @@
-all: gita.pdf
-	xdg-open gita.pdf
+all: book.pdf
+	xdg-open book.pdf
 # ------------------------------------------------------------------------------
-gita.pdf: gita.tex
-	pdflatex gita.tex # Run 1.
-	pdflatex gita.tex # Run 2. For any references.
+book.pdf: book.tex
+	pdflatex book.tex # Run 1.
+	pdflatex book.tex # Run 2. For any references.
 
-gita.tex: gita.dn \
+book.tex: book.dn \
   mymacros.tex \
-  chapter_about_the_bhagavad_gita.tex \
+  chapter_about_the_bhagavad_giitaa.tex \
   chapter_about_this_book.tex \
   chapter_about_the_license_of_this_book.tex \
   chapter_about_sanskrit_history.tex \
@@ -33,13 +33,13 @@ gita.tex: gita.dn \
   chapter17.tex \
   chapter18.tex \
 
-	devnag gita.dn
+	devnag book.dn
 # ------------------------------------------------------------------------------
 mymacros.tex: mymacros.dn
 	devnag mymacros.dn
 
-chapter_about_the_bhagavad_gita.tex: chapter_about_the_bhagavad_gita.dn
-	devnag chapter_about_the_bhagavad_gita.dn
+chapter_about_the_bhagavad_giitaa.tex: chapter_about_the_bhagavad_giitaa.dn
+	devnag chapter_about_the_bhagavad_giitaa.dn
 
 chapter_about_this_book.tex: chapter_about_this_book.dn
 	devnag chapter_about_this_book.dn
