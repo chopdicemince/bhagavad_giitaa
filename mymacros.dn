@@ -95,6 +95,25 @@
 \newcommand{\conditionalmood}{conditional mood}
 \newcommand{\gerund}{gerund}
 % ------------------------------------------------------------------------------
+% Define a translation environment.
+%
+% Shade the background.
+%
+% The code below is a paraphrase of code from:
+%
+% http://answers.google.com/answers/threadview?id=282787
+
+\makeatletter\newenvironment{mytranslation}{%
+  \begin{lrbox}{\@tempboxa}%
+    \begin{minipage}%
+      {\columnwidth}%
+  }%
+  {%
+    \end{minipage}%
+  \end{lrbox}%
+  \colorbox{lightgray}{\usebox{\@tempboxa}}
+}\makeatother
+% ------------------------------------------------------------------------------
 % Translations of words, from Sanskrit to English.
 
 % A command name must start with a backslash and must have only
