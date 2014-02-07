@@ -38,6 +38,39 @@ The main characters are:
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 1}
 
+\quad
+
+\begin{tabular}{lll}
+0&{\dn dh.rtaraa.s.tra}&{\dn uvaaca}\\
+&{dh.rtaraa.s.tra}&{uvaaca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1a&{\dn dharmak.setre}&{\dn kuruk.setre}\\
+&{dharmak.setre}&{kuruk.setre}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn samavetaa}&{\dn yuyutsava.h}\\
+&{samavetaa}&{yuyutsava.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn maamakaa.h}&{\dn paa.n.davaa"scaiva}\\
+&{maamakaa.h}&{paa.n.davaa"scaiva}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn kimakurvata}&{\dn sa~njaya}\\
+&{kimakurvata}&{sa\~{}njaya}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 (King) \textdhrtaraastra\ said (to \textsanjaya):\\
 
@@ -45,7 +78,8 @@ At the virtue place---at the Kuru place---together, wanting to fight,
 (are) my (sons) and the Paa.n.davas. Really, what did they do, O
 \textsanjaya?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&\textdhrtaraastra\\
   &&&\note{\noun, \proper, \male}\\
@@ -111,6 +145,33 @@ At the virtue place---at the Kuru place---together, wanting to fight,
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 2}
 
+\quad
+
+\begin{tabular}{llll}
+1a&{\dn d.r.s.tvaa}&{\dn tu}&{\dn paa.n.davaaniika.m}\\
+&{d.r.s.tvaa}&{tu}&{paa.n.davaaniika.m}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn vyuu.dha.m}&{\dn duryodhanastadaa}\\
+&{vyuu.dha.m}&{duryodhanastadaa}\\
+\\
+\end{tabular}
+
+\begin{tabular}{ll}
+2a&{\dn aacaaryamupasa"ngamya}\\
+&{aacaaryamupasa"ngamya}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn raajaa}&{\dn vacanamabraviit}\\
+&{raajaa}&{vacanamabraviit}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \textsanjaya\ said (to King \textdhrtaraastra):\\
 
@@ -118,7 +179,8 @@ But, having seen the Paa.n.dava army arranged, \textduryodhana---the
 king---then said this group of words (to) the nearby teacher (Dro.na):
 \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
   &&&\\
@@ -180,6 +242,27 @@ king---then said this group of words (to) the nearby teacher (Dro.na):
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 3}
 
+\quad
+
+\begin{tabular}{lllll}
+1ab&{\dn pa"syaitaa.m}&{\dn paa.n.duputraa.naamaacaarya}&{\dn mahatii.m}&{\dn camuum}\\
+&{pa"syaitaa.m}&{paa.n.duputraa.naamaacaarya}&{mahatii.m}&{camuum}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn vyuu.dhaa.m}&{\dn drupadaputre.na}\\
+&{vyuu.dhaa.m}&{drupadaputre.na}\\
+\\
+\end{tabular}
+
+\begin{tabular}{llll}
+2b&{\dn tava}&{\dn "si.sye.na}&{\dn dhiimataa}\\
+&{tava}&{"si.sye.na}&{dhiimataa}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
@@ -187,7 +270,8 @@ See these (men, soliders) of the Paa.n.du-sons, O teacher (O
 Dro.na)---a great army, arranged, by using a Drupada-son---by using a
 wise student of you.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn pa"syaitaa.m}&pa"|syai|&\pazya\\
   &&&\\
@@ -254,13 +338,41 @@ wise student of you.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 4}
 
+\quad
+
+\begin{tabular}{lll}
+1a&{\dn atra}&{\dn "suuraamahe.svaasaa}\\
+&{atra}&{"suuraamahe.svaasaa}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn bhiimaarjunasamaa}&{\dn yudhi}\\
+&{bhiimaarjunasamaa}&{yudhi}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn yuyudhaano}&{\dn viraa.ta"sca}\\
+&{yuyudhaano}&{viraa.ta"sca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn drupada"sca}&{\dn mahaaratha.h}\\
+&{drupada"sca}&{mahaaratha.h}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
 Here (are) warriors---mighty-archers, Bhiima-and-Arjuna-similar---at
 the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn atra}&a|tra&\atra\\
   &&&\\
@@ -322,13 +434,41 @@ the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 5}
 
+\quad
+
+\begin{tabular}{ll}
+1a&{\dn dh.r.s.taketu"scekitaana.h}\\
+&{dh.r.s.taketu"scekitaana.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn kaa"siraaja"sca}&{\dn viiryavaan}\\
+&{kaa"siraaja"sca}&{viiryavaan}\\
+\\
+\end{tabular}
+
+\begin{tabular}{ll}
+2a&{\dn purujitkuntibhosja"sca}\\
+&{purujitkuntibhosja"sca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn "saibya"sca}&{\dn narapu"ngava.h}\\
+&{"saibya"sca}&{narapu"ngava.h}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
 Dh.r.s.taketu, Cekitaana, and Kaa"siraaja (are) powerful---Purujit and
 Kuntibhoja (are, too). And Saibya (is) a man-bull.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r|.s.ta|ke|tu"s|&dh.r.s.taketu.h\\
   &&&= {\dn dh.r.s.taketu.h}\\
@@ -388,13 +528,41 @@ Kuntibhoja (are, too). And Saibya (is) a man-bull.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 6}
 
+\quad
+
+\begin{tabular}{lll}
+1a&{\dn yudhaamanyu"sca}&{\dn vikraanta}\\
+&{yudhaamanyu"sca}&{vikraanta}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn uttamaujaa"sca}&{\dn viiryavaan}\\
+&{uttamaujaa"sca}&{viiryavaan}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn saubhadro}&{\dn draupadeyaa"sca}\\
+&{saubhadro}&{draupadeyaa"sca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{llll}
+2b&{\dn sarva}&{\dn eva}&{\dn mahaarathaa.h}\\
+&{sarva}&{eva}&{mahaarathaa.h}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
 And strong Yudhaamanyu, and strong Uttamaujaa, the son of Subhadraa
 and the sons of Draupadii---all, really, (are) mighty-warriors.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yudhaamanyu"sca}&yu|dhaa|ma|nyu"s|&yudhaamanyu.h\\
   &&&= {\dn yudhaamanyu.h}\\
@@ -450,6 +618,33 @@ and the sons of Draupadii---all, really, (are) mighty-warriors.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 7}
 
+\quad
+
+\begin{tabular}{lllll}
+1a&{\dn asmaaka.m}&{\dn tu}&{\dn vi"si.s.taa}&{\dn ye}\\
+&{asmaaka.m}&{tu}&{vi"si.s.taa}&{ye}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn taannibodha}&{\dn dvijottama}\\
+&{taannibodha}&{dvijottama}\\
+\\
+\end{tabular}
+
+\begin{tabular}{llll}
+2a&{\dn naayakaa}&{\dn mama}&{\dn sainyasya}\\
+&{naayakaa}&{mama}&{sainyasya}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn sa.mj~naartha.m}&{\dn taanbraviimite}\\
+&{sa.mj\~{}naartha.m}&{taanbraviimite}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
@@ -457,7 +652,8 @@ But those (soliders) who are of us (are) excellent---consider those, O
 Brahman-ultimate (O Dro.na)---leaders-of-the-soldier of me. The
 name-purpose (of the leaders)---I say those for you: \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn asmaaka.m}&a|smaa|ka.m&\asmaakam\\
   &&&\\
@@ -528,6 +724,33 @@ name-purpose (of the leaders)---I say those for you: \dots
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 8}
 
+\quad
+
+\begin{tabular}{lll}
+1a&{\dn bhavaanbhii.sma"sca}&{\dn kar.na"sca}\\
+&{bhavaanbhii.sma"sca}&{kar.na"sca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn k.rpa"sca}&{\dn samiti.mjaya.h}\\
+&{k.rpa"sca}&{samiti.mjaya.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn a"svatthaamaa}&{\dn vikar.na"sca}\\
+&{a"svatthaamaa}&{vikar.na"sca}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn saumadattistathaiva}&{\dn ca}\\
+&{saumadattistathaiva}&{ca}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
@@ -535,7 +758,8 @@ You and Bhii.sma and Kar.na and K.rpa (are)
 group-victorious. A"svatthaamaa, and Vikar.na, and the son of
 Sumadatta, likewise, really (are).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|&bhavaan = {\dn bhavaan} = you\\
   &&&\note{\pronoun, \male, \secondperson, \singular}\\
@@ -599,6 +823,33 @@ Sumadatta, likewise, really (are).
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 9}
 
+\quad
+
+\begin{tabular}{lllll}
+1a&{\dn anye}&{\dn ca}&{\dn bahava.h}&{\dn "suuraa}\\
+&{anye}&{ca}&{bahava.h}&{"suuraa}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn madarthe}&{\dn tyaktajiivitaa.h}\\
+&{madarthe}&{tyaktajiivitaa.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{ll}
+2a&{\dn naanaa"sastraprahara.naa.h}\\
+&{naanaa"sastraprahara.naa.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn sarve}&{\dn yuddhavi"saaradaa.h}\\
+&{sarve}&{yuddhavi"saaradaa.h}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
@@ -606,7 +857,8 @@ And in many other warriors, in the purpose of me, (are)
 abandoned-lives (and) many weapons. All (the warriors) (are)
 war-wise.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn anye}&a|nye&\anye\\
   &&&\\
@@ -659,6 +911,33 @@ war-wise.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 10}
 
+\quad
+
+\begin{tabular}{lll}
+1a&{\dn aparyaapta.m}&{\dn tadasmaaka.m}\\
+&{aparyaapta.m}&{tadasmaaka.m}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn bala.m}&{\dn bhii.smaabhirak.sitam}\\
+&{bala.m}&{bhii.smaabhirak.sitam}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn paryaapta.m}&{\dn tvidamete.saa.m}\\
+&{paryaapta.m}&{tvidamete.saa.m}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2b&{\dn bala.m}&{\dn bhiimaabhirak.sitam}\\
+&{bala.m}&{bhiimaabhirak.sitam}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \duryodhanasaidtodroNa\\
 
@@ -666,7 +945,8 @@ Not-limited (is) that force of us, (which is) Bhii.sma-protected. But
 limited (is) this force of these (the Paa.n.davas), (which is)
 Bhiima-protected.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aparyaapta.m}&a|&\aprefix\\
   &&&\\
@@ -725,13 +1005,41 @@ Bhiima-protected.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 11}
 
+\quad
+
+\begin{tabular}{llll}
+1a&{\dn ayane.su}&{\dn ca}&{\dn sarve.su}\\
+&{ayane.su}&{ca}&{sarve.su}\\
+\\
+\end{tabular}
+
+\begin{tabular}{ll}
+1b&{\dn yathaabhaagamavasthitaa.h}\\
+&{yathaabhaagamavasthitaa.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{ll}
+2a&{\dn bhii.smamevaabhirak.santu}\\
+&{bhii.smamevaabhirak.santu}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lllll}
+2b&{\dn bhavanta.h}&{\dn sarva}&{\dn eva}&{\dn hi}\\
+&{bhavanta.h}&{sarva}&{eva}&{hi}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 (\textduryodhana\ said to the warriors:)\\
 
 At all main points---and, properly, part-steadfast---really, protect
 Bhii.sma, O you all, really, surely.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ayane.su}&a|ya|ne|.su&at/in/on the equinox and solstice points\\
   &&&= at/in/on the main points\\
@@ -789,12 +1097,40 @@ Bhii.sma, O you all, really, surely.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 12}
 
+\quad
+
+\begin{tabular}{lll}
+1a&{\dn tasya}&{\dn sa~njanayanhar.sa.m}\\
+&{tasya}&{sa\~{}njanayanhar.sa.m}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+1b&{\dn kuruv.rddha.h}&{\dn pitaamaha.h}\\
+&{kuruv.rddha.h}&{pitaamaha.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{lll}
+2a&{\dn si.mhanaada.m}&{\dn vinadyoccai.h}\\
+&{si.mhanaada.m}&{vinadyoccai.h}\\
+\\
+\end{tabular}
+
+\begin{tabular}{llll}
+2b&{\dn "sa"nkha.m}&{\dn dadhmau}&{\dn prataapavaan}\\
+&{"sa"nkha.m}&{dadhmau}&{prataapavaan}\\
+\\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 Joining the happiness of him (\textduryodhana), the Kuru venerable paternal
 grandfather (Bhii.sma) roars a lion sound loudly and blows a conch
 shell powerfully.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasya}&ta|sya&\tasya\\
   &&&\\
@@ -1367,7 +1703,7 @@ mighty-master (O King \textdhrtaraastra): \dots
 \begin{tabular}{llll}
   2a&{\dn prav.rtte}&pra|v.rt|te&(?) pravartate\\
   &&&= {\dn pravartate}\\
-  &&&= \hesheit\ proceeded; started\\ 
+  &&&= \hesheit\ proceeded; started\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn prav.rt} = prav.rt}\\
   &&&\\
