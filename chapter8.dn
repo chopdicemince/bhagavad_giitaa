@@ -3,6 +3,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 1}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn kim}&{\dn tadbrahma}&{\dn kimadhyaatma.m}\\
+  &{kim}&{tadbrahma}&{kimadhyaatma.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn ki.m}&{\dn karma}&{\dn puru.sottama}\\
+  &{ki.m}&{karma}&{puru.sottama}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllllll}
+  2ab&{\dn adhibhuuta.m}&{\dn ca}&{\dn ki.m}&{\dn proktamadhidaiva.m}&{\dn kim}&{\dn ucyate}\\
+  &{adhibhuuta.m}&{ca}&{ki.m}&{proktamadhidaiva.m}&{kim}&{ucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   Arjuna said (to \textkrsna):\\
 
@@ -10,7 +37,8 @@
   man-ultimate (O \textkrsna)? And what (is) said (about) creation? What
   is God called?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -72,6 +100,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 2}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn adhiyaj~na.h}&{\dn katha.m}&{\dn ko.atra}\\
+  &{adhiyaj\~{}na.h}&{katha.m}&{ko.atra}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn dehe.asminmadhusuudana}\\
+  &{dehe.asminmadhusuudana}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn prayaa.nakaale}&{\dn ca}&{\dn katha.m}\\
+  &{prayaa.nakaale}&{ca}&{katha.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn j~neyo.asi}&{\dn niyataatmabhi.h}\\
+  &{j\~{}neyo.asi}&{niyataatmabhi.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -80,7 +135,8 @@
   time of departure (at death), how are you to be known by
   restrained-selves (by people who know self-control)?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn adhiyaj~na.h}&\multicolumn{2}{l}{a|dhi|ya|j\~{}na\h{a}}\\
   &&&\\
@@ -136,13 +192,47 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 3}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn ak.sara.m}&{\dn brahma}&{\dn parama.m}\\
+  &{ak.sara.m}&{brahma}&{parama.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn svabhaavo.adhyaatmamucyate}\\
+  &{svabhaavo.adhyaatmamucyate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn bhuutabhaavodbhavakaro}\\
+  &{bhuutabhaavodbhavakaro}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn visarga.h}&{\dn karmasa.mj~nita.h}\\
+  &{visarga.h}&{karmasa.mj\~{}nita.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
   God (is) not changeable (and is) paramount. The self-behavior (of God)
   is called the self. Being-birth-doing is called action.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&\multicolumn{3}{l}{\dn "sriibhagavaanuvaaca}\\
   &&&\\
@@ -213,6 +303,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 4}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn adhibhuuta.m}&{\dn k.saro}&{\dn bhaava.h}\\
+  &{adhibhuuta.m}&{k.saro}&{bhaava.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn puru.sa"scaadhidaivatam}\\
+  &{puru.sa"scaadhidaivatam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn adhiyaj~no.ahamevaatra}\\
+  &{adhiyaj\~{}no.ahamevaatra}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn dehe}&{\dn dehabh.rtaa.m}&{\dn vara}\\
+  &{dehe}&{dehabh.rtaa.m}&{vara}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -220,7 +337,8 @@
   of a sacrifice, really, here in the body of people/things bearing a
   body, O best (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn adhibhuuta.m}&a|dhi|bhuu|ta.m&\adhibhuutam\\
   &&&\\
@@ -276,6 +394,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 5}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn antakaale}&{\dn ca}&{\dn maameva}\\
+  &{antakaale}&{ca}&{maameva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn smaranmuktvaa}&{\dn kalevaram}\\
+  &{smaranmuktvaa}&{kalevaram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn ya.h}&{\dn prayaati}&{\dn sa}&{\dn madbhaava.m}\\
+  &{ya.h}&{prayaati}&{sa}&{madbhaava.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn yaati}&{\dn naastyatra}&{\dn sa.m"saya.h}\\
+  &{yaati}&{naastyatra}&{sa.m"saya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -283,7 +428,8 @@
   freed (from the) body, one goes---he goes (to) my behavior. Doubt is
   not here.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn antakaale}&an|ta|&\antaH\\
   &&&\\
@@ -340,6 +486,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 6}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn ya.m}&{\dn ya.m}&{\dn vaapi}&{\dn smaranbhaava.m}\\
+  &{ya.m}&{ya.m}&{vaapi}&{smaranbhaava.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tyajatyante}&{\dn kalevaram}\\
+  &{tyajatyante}&{kalevaram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn ta.m}&{\dn tamevaiti}&{\dn kaunteya}\\
+  &{ta.m}&{tamevaiti}&{kaunteya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sadaa}&{\dn tadbhaavabhaavita.h}\\
+  &{sadaa}&{tadbhaavabhaavita.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -348,7 +521,8 @@
   body. Really, thus, O son of Kuntii (O Arjuna)---always, that behavior
   (is) born.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ya.m}&ya.m&\yam\\
   &&&\\
@@ -410,13 +584,35 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 7}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn tasmaatsarve.su}&{\dn kaale.su}\\
+  &{tasmaatsarve.su}&{kaale.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn maamanusmara}&{\dn yudhya}&{\dn ca}\\
+  &{maamanusmara}&{yudhya}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2ab&{\dn mayyarpitamanobuddhirmaamevai.syasyasa.m"saya.h}\\
+  &{mayyarpitamanobuddhirmaamevai.syasyasa.m"saya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   Therefore, at all times, remembering me, fight, and, (with your) mind
   (and) intelligence placed in me, really, you will attain me, no doubt.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasmaatsarve.su}&tas|maat|&\tasmaat\\
   &&&\\
@@ -479,6 +675,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 8}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn abhyaasayogayuktena}\\
+  &{abhyaasayogayuktena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn cetasaa}&{\dn naanyagaaminaa}\\
+  &{cetasaa}&{naanyagaaminaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn parama.m}&{\dn puru.sa.m}&{\dn divya.m}\\
+  &{parama.m}&{puru.sa.m}&{divya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn yaati}&{\dn paarthaanucintayan}\\
+  &{yaati}&{paarthaanucintayan}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -486,7 +709,8 @@
   going, thinking, a man goes (to) the paramount, divine, man
   (\textkrsna), O prince (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn abhyaasayogayuktena}&a|bhyaa|sa|&abhyaasa.h\\
   &&&= {\dn abhyaasa.h}\\
@@ -538,6 +762,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 9}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn kavi.m}&{\dn puraa.namanu"saasitaaram}\\
+  &{kavi.m}&{puraa.namanu"saasitaaram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn a.nora.niiyaa.msamanusmaredya.h}\\
+  &{a.nora.niiyaa.msamanusmaredya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn sarvasya}&{\dn dhaataaramacintyaruupam}\\
+  &{sarvasya}&{dhaataaramacintyaruupam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn aadityavar.na.m}&{\dn tamasa.h}&{\dn parastaat}\\
+  &{aadityavar.na.m}&{tamasa.h}&{parastaat}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -549,7 +800,8 @@
   11, 10, 11, 11. Usually, in a verse, in each line, the number of main
   syllables is eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kavi.m}&ka|vi.m&kavim\\
   &&&= {\dn kavim}\\
@@ -638,6 +890,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 10}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn prayaa.nakaale}&{\dn manasaacalena}\\
+  &{prayaa.nakaale}&{manasaacalena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn bhaktyaa}&{\dn yukto}&{\dn yogabalena}&{\dn caiva}\\
+  &{bhaktyaa}&{yukto}&{yogabalena}&{caiva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn bhruvormadhye}&{\dn praa.namaave"sya}&{\dn samyak}\\
+  &{bhruvormadhye}&{praa.namaave"sya}&{samyak}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2b&{\dn sa}&{\dn ta.m}&{\dn para.m}&{\dn puru.samupaiti}&{\dn divyam}\\
+  &{sa}&{ta.m}&{para.m}&{puru.samupaiti}&{divyam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -650,7 +929,8 @@
   11, 11, 11, 12. Usually, in a verse, in each line, the number of main
   syllables is eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn prayaa.nakaale}&pra|yaa|.na|&prayaa.nam\\
   &&&= {\dn prayaa.nam}\\
@@ -731,6 +1011,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 11}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yadak.sara.m}&{\dn vedavido}&{\dn vadanti}\\
+  &{yadak.sara.m}&{vedavido}&{vadanti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn vi"santi}&{\dn yadyatayo}&{\dn viitaraagaa.h}\\
+  &{vi"santi}&{yadyatayo}&{viitaraagaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn yadicchanto}&{\dn brahmacarya.m}&{\dn caranti}\\
+  &{yadicchanto}&{brahmacarya.m}&{caranti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn tatte}&{\dn pada.m}&{\dn sa"ngrahe.na}&{\dn pravak.sye}\\
+  &{tatte}&{pada.m}&{sa"ngrahe.na}&{pravak.sye}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -743,7 +1050,8 @@
   11, 11, 11, 11. Usually, in a verse, in each line, the number of main
   syllables is eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yadak.sara.m}&ya|da|&\yat\\
   &&&\\
@@ -820,6 +1128,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 12}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn sarvadvaaraa.ni}&{\dn sa.myamya}\\
+  &{sarvadvaaraa.ni}&{sa.myamya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn mano}&{\dn h.rdi}&{\dn nirudhya}&{\dn ca}\\
+  &{mano}&{h.rdi}&{nirudhya}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn muurdhnyaadhaayaatmana.h}&{\dn praa.namaasthito}&{\dn yogadhaara.naam}\\
+  &{muurdhnyaadhaayaatmana.h}&{praa.namaasthito}&{yogadhaara.naam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -827,7 +1156,8 @@
   heart---the breath of the self placed (at the) head---sitting---(these
   situations) are of people remembering yoking.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvadvaaraa.ni}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\
@@ -885,6 +1215,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 13}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn o.m}&{\dn ityekaak.sara.m}&{\dn brahma}\\
+  &{o.m}&{ityekaak.sara.m}&{brahma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn vyaaharanmaamanusmaran}\\
+  &{vyaaharanmaamanusmaran}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn ya.h}&{\dn prayaati}&{\dn tyajandeha.m}\\
+  &{ya.h}&{prayaati}&{tyajandeha.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn sa}&{\dn yaati}&{\dn paramaa.m}&{\dn gatim}\\
+  &{sa}&{yaati}&{paramaa.m}&{gatim}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -892,7 +1249,8 @@
   God---me---one goes, abandoning the body. He goes (on) the paramount
   path.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn o.m}&o.m&a syllable in meditation\\
   &&&\\
@@ -952,6 +1310,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 14}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn ananyacetaa.h}&{\dn satata.m}\\
+  &{ananyacetaa.h}&{satata.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn yo}&{\dn maam}&{\dn smarati}&{\dn nitya"sa.h}\\
+  &{yo}&{maam}&{smarati}&{nitya"sa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn tasyaaha.m}&{\dn sulabha.h}&{\dn paartha}\\
+  &{tasyaaha.m}&{sulabha.h}&{paartha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn nityayuktasya}&{\dn yogina.h}\\
+  &{nityayuktasya}&{yogina.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -959,7 +1344,8 @@
   (am) easy to get, O prince (O Arjuna)---of an eternal(ly)-yoked
   person.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ananyacetaa.h}&a|na|&\an\\
   &&&\\
@@ -1011,6 +1397,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 15}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn maamupetya}&{\dn punarjanma}\\
+  &{maamupetya}&{punarjanma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn du.hkhaalayama"saa"svatam}\\
+  &{du.hkhaalayama"saa"svatam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn naapnuvanti}&{\dn mahaatmaana.h}\\
+  &{naapnuvanti}&{mahaatmaana.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn sa.msiddhi.m}&{\dn paramaa.m}&{\dn gataa.h}\\
+  &{sa.msiddhi.m}&{paramaa.m}&{gataa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1018,7 +1431,8 @@
   are) not (in a) non-eternal distress-place. They (are) of a
   great-self, (and are) gone (to) a paramount success.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maamupetya}&maa|mu|&\maam\\
   &&&\\
@@ -1076,6 +1490,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 16}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn aabrahmabhuvanaallokaa.h}\\
+  &{aabrahmabhuvanaallokaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn punaraavartino.arjuna}\\
+  &{punaraavartino.arjuna}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn maamupetya}&{\dn tu}&{\dn kaunteya}\\
+  &{maamupetya}&{tu}&{kaunteya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn punarjanma}&{\dn na}&{\dn vidyate}\\
+  &{punarjanma}&{na}&{vidyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1083,7 +1524,8 @@
   Arjuna---but, approaching me, O son of Kuntii (O Arjuna), a (man) is
   not again-born.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aabrahmabhuvanaallokaa.h}\\
   &&&\\
@@ -1142,6 +1584,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 17}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn sahasrayugaparyantamaharyadbrahma.novidu.h}\\
+  &{sahasrayugaparyantamaharyadbrahma.novidu.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn raatri.m}&{\dn yugasahasraantaa.m}\\
+  &{raatri.m}&{yugasahasraantaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn te.ahoraatravido}&{\dn janaa.h}\\
+  &{te.ahoraatravido}&{janaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1149,7 +1612,8 @@
   a night is a thousand-eon(s). Those men (know about) the day and
   night.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn sahasrayugaparyantamaharyadbrahma.novidu.h}\\
   &&&\\
@@ -1215,6 +1679,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 18}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn avyaktaadvyaktaya.h}&{\dn sarvaa.h}\\
+  &{avyaktaadvyaktaya.h}&{sarvaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn prabhavantyaharaagame}\\
+  &{prabhavantyaharaagame}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn raatryaagame}&{\dn praliiyante}\\
+  &{raatryaagame}&{praliiyante}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn tatraivaavyaktasa.mj~nake}\\
+  &{tatraivaavyaktasa.mj\~{}nake}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1222,7 +1713,8 @@
   day-approach. At the night-approach, they are absorbed there---really,
   a non-visible sign.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn avyaktaadvyaktaya.h}\\
   &&&\\
@@ -1300,6 +1792,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 19}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn bhuutagraama.h}&{\dn sa}&{\dn evaaya.m}\\
+  &{bhuutagraama.h}&{sa}&{evaaya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn bhuutvaa}&{\dn bhuutvaa}&{\dn praliiyate}\\
+  &{bhuutvaa}&{bhuutvaa}&{praliiyate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn raatryaagame.ava"sa.h}&{\dn paartha}\\
+  &{raatryaagame.ava"sa.h}&{paartha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn prabhavatyaharaagame}\\
+  &{prabhavatyaharaagame}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1307,7 +1826,8 @@
   being) is absorbed at the night-approach, not submissive, O prince (O
   Arjuna). (A being) is powerful at the day-approach.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhuutagraama.h}&bhuu|ta|&bhuuta.h\\
   &&&= {\dn bhuuta.h}\\
@@ -1375,6 +1895,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 20}
 
+\quad
+
+\begin{tabular}{lll}
+  1ab&{\dn parastasmaattu}&{\dn bhaavo.anyo.avyakto.avyaktaatsanaatana.h}\\
+  &{parastasmaattu}&{bhaavo.anyo.avyakto.avyaktaatsanaatana.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn ya.h}&{\dn sa}&{\dn sarve.su}&{\dn bhuute.su}\\
+  &{ya.h}&{sa}&{sarve.su}&{bhuute.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn na"syatsu}&{\dn na}&{\dn vina"syati}\\
+  &{na"syatsu}&{na}&{vina"syati}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1382,7 +1923,8 @@
   non-visible thing (and) from a visible (thing). That eternal one does
   not vanish in all beings destroyed.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn parastasmaattu}&pa|ra|sta|&\paraH\\
   &&&\\
@@ -1450,6 +1992,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 21}
 
+\quad
+
+\begin{tabular}{lllll}
+  1ab&{\dn avyakto.ak.sara}&{\dn ityuktastamaahu.h}&{\dn paramaa.m}&{\dn gatim}\\
+  &{avyakto.ak.sara}&{ityuktastamaahu.h}&{paramaa.m}&{gatim}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn ya.m}&{\dn praapya}&{\dn na}&{\dn nivartante}\\
+  &{ya.m}&{praapya}&{na}&{nivartante}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn taddhaama}&{\dn parama.m}&{\dn mama}\\
+  &{taddhaama}&{parama.m}&{mama}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1457,7 +2020,8 @@
   \dots---they do not abandon the attainable paramount path. That (is)
   my paraount home.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn avyakto.ak.sara}&a|&\aprefix\\
   &&&\\
@@ -1526,6 +2090,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 22}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn puru.sa.h}&{\dn sa}&{\dn para.h}&{\dn paartha}\\
+  &{puru.sa.h}&{sa}&{para.h}&{paartha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn bhaktyaa}&{\dn labhyastvananyayaa}\\
+  &{bhaktyaa}&{labhyastvananyayaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn yasyaanta.h}&{\dn sthaani}&{\dn bhuutaani}\\
+  &{yasyaanta.h}&{sthaani}&{bhuutaani}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn yena}&{\dn sarvamida.m}&{\dn tata.m}\\
+  &{yena}&{sarvamida.m}&{tata.m}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1533,7 +2124,8 @@
   not by a strange (faith). Steadfast beings (are) (in) of God. Using
   (God), each (of these beings) is spread.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn puru.sa.h}&pu|ru|.sa\h{a}&\puruSaH\\
   &&&\\
@@ -1597,13 +2189,35 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 23}
 
+\quad
+
+\begin{tabular}{llllll}
+  1ab&{\dn yatra}&{\dn kaale}&{\dn anaav.rttimaav.rtti.m}&{\dn caiva}&{\dn yogina.h}\\
+  &{yatra}&{kaale}&{anaav.rttimaav.rtti.m}&{caiva}&{yogina.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn prayaataa}&{\dn yaanti}&{\dn ta.m}&{\dn kaala.m}\\
+  &{prayaataa}&{yaanti}&{ta.m}&{kaala.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn vak.syaami}&{\dn bharatar.sabha}\\
+  &{vak.syaami}&{bharatar.sabha}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   Wherever, at a time, a non-return and a return, really, dead yoked
   person go (to)---I will say that time, O Bharata-bull (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yatra}&ya|tra&wherever\\
   &&&\note{\adverb}\\
@@ -1668,6 +2282,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 24}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn agnirjyotiraha.h}&{\dn "sukla.h}\\
+  &{agnirjyotiraha.h}&{"sukla.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn .sa.nmaasaa}&{\dn uttaraaya.nam}\\
+  &{.sa.nmaasaa}&{uttaraaya.nam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn tatra}&{\dn prayaataa}&{\dn gacchanti}\\
+  &{tatra}&{prayaataa}&{gacchanti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn brahma}&{\dn brahmavido}&{\dn janaa.h}\\
+  &{brahma}&{brahmavido}&{janaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1675,7 +2316,8 @@
   months, north, equinox or solstice. The beings (who are) God-(knowing)
   go (to) God.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn agnirjyotiraha.h}&ag|nir|&\agniH\\
   &&&\\
@@ -1747,6 +2389,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 25}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn dhuumo}&{\dn raatristathaa}&{\dn k.r.s.na.h}\\
+  &{dhuumo}&{raatristathaa}&{k.r.s.na.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn .sa.nmaasaa}&{\dn dak.si.naayanam}\\
+  &{.sa.nmaasaa}&{dak.si.naayanam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2ab&{\dn tatra}&{\dn caandramasa.m}&{\dn jyotiryogii}&{\dn praapya}&{\dn nivartate}\\
+  &{tatra}&{caandramasa.m}&{jyotiryogii}&{praapya}&{nivartate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1754,7 +2417,8 @@
   equinox or solstice---there, brightness---a yoked person returns
   (from) the attainable moon (after dying and going there).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn dhuumo}&dhuu|mo&dhuuma.h\\
   &&&= {\dn dhuuma.h}\\
@@ -1818,6 +2482,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 26}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn "suklak.r.s.ne}&{\dn gatii}&{\dn hyete}\\
+  &{"suklak.r.s.ne}&{gatii}&{hyete}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn jagata.h}&{\dn "saa"svate}&{\dn mate}\\
+  &{jagata.h}&{"saa"svate}&{mate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn ekayaa}&{\dn yaatyanaav.rttimanyayaavartate}&{\dn puna.h}\\
+  &{ekayaa}&{yaatyanaav.rttimanyayaavartate}&{puna.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1826,7 +2511,8 @@
   path of whiteness), a man goes (to) final freedom. By the other
   (path---the path of blackness), a man returns (to earth) again.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "suklak.r.s.ne}&"su|kla|&"suklam\\
   &&&= {\dn "suklam}\\
@@ -1891,6 +2577,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 27}
 
+\quad
+
+\begin{tabular}{lllllll}
+  1ab&{\dn naite}&{\dn s.rtii}&{\dn paartha}&{\dn jaananyogii}&{\dn muhyati}&{\dn ka"scana}\\
+  &{naite}&{s.rtii}&{paartha}&{jaananyogii}&{muhyati}&{ka"scana}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn tasmaatsarve.su}&{\dn kaale.su}\\
+  &{tasmaatsarve.su}&{kaale.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn yogayukto}&{\dn bhavaarjuna}\\
+  &{yogayukto}&{bhavaarjuna}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1898,7 +2605,8 @@
   person---anybody---is not confused. Therefore, at all times, be
   yoking-yoked, O Arjuna.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naite}&nai|&\na\\
   &&&\\
@@ -1949,6 +2657,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 8, Verse 28}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn vede.su}&{\dn yaj\~{}ne.su}&{\dn tapa.hsu}&{\dn caiva}\\
+  &{vede.su}&{yaj\~{}ne.su}&{tapa.hsu}&{caiva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn daane.su}&{\dn yatpu.nyaphala.m}&{\dn pradi.s.tam}\\
+  &{daane.su}&{yatpu.nyaphala.m}&{pradi.s.tam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn atyeti}&{\dn tatsarvamida.m}&{\dn viditvaa}\\
+  &{atyeti}&{tatsarvamida.m}&{viditvaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn yogii}&{\dn para.m}&{\dn sthaanamupaiti}&{\dn caadyam}\\
+  &{yogii}&{para.m}&{sthaanamupaiti}&{caadyam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1960,7 +2695,8 @@
   11, 11, 11, 11. Usually, in a verse, in each line, the number of
   syllables is eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vede.su}&ve|de|.su&\vedeSu\\
   &&&\\
