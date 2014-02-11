@@ -3,13 +3,47 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 1}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn sannyaasa.m}&{\dn karma.naa.m}&{\dn k.r.s.na}\\
+  &{sannyaasa.m}&{karma.naa.m}&{k.r.s.na}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn punaryoga.m}&{\dn ca}&{\dn "sa.msasi}\\
+  &{punaryoga.m}&{ca}&{"sa.msasi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn yacchreya}&{\dn etayoreka.m}\\
+  &{yacchreya}&{etayoreka.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn tanme}&{\dn bruuhi}&{\dn suni"scitam}\\
+  &{tanme}&{bruuhi}&{suni"scitam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 Arjuna said:\\
 
 O \textkrsna, you say renunciation of actions again, and union. Which
 one in these two---confidence---that is for me---say, definitely.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -75,6 +109,33 @@ one in these two---confidence---that is for me---say, definitely.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 2}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1a&{\dn sannyaasa.h}&{\dn karmayoga"sca}\\
+  &{sannyaasa.h}&{karmayoga"sca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn ni.h"sreyasakaraavubhau}\\
+  &{ni.h"sreyasakaraavubhau}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn tayostu}&{\dn karmasannyaasaatkarmayogo}&{\dn vi"si.syate}\\
+  &{tayostu}&{karmasannyaasaatkarmayogo}&{vi"si.syate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 God (\textkrsna) said:\\
 
@@ -82,7 +143,8 @@ Renunciation (of) action, and union---supreme happiness (is) the two,
 both. But, of those two---from action-renunciation, action-union is
 better.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -155,6 +217,33 @@ better.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 3}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn j~neya.h}&{\dn sa}&{\dn nityasannyaasii}\\
+  &{j\~{}neya.h}&{sa}&{nityasannyaasii}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  1b&{\dn yo}&{\dn na}&{\dn dve.s.ti}&{\dn na}&{\dn kaa"nk.sati}\\
+  &{yo}&{na}&{dve.s.ti}&{na}&{kaa"nk.sati}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn nirdvandvo}&{\dn hi}&{\dn mahaabaaho}\\
+  &{nirdvandvo}&{hi}&{mahaabaaho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sukha.m}&{\dn bandhaatpramucyate}\\
+  &{sukha.m}&{bandhaatpramucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -162,7 +251,8 @@ To be known, he is an eternal renouncer who does not hate and does not
 desire---indifferent to two things, surely, O great-arm (O
 Arjuna). Happily---from bondage, he is free.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~neya.h}&j\~{}ne|ya\h{a}&to be known\\
   &&&\note{\adjective}\\
@@ -221,6 +311,27 @@ Arjuna). Happily---from bondage, he is free.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 4}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn saa"nkhyayogau}&{\dn p.rthagbaalaa.h}\\
+  &{saa"nkhyayogau}&{p.rthagbaalaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn pravadanti}&{\dn na}&{\dn pa.n.ditaa.h}\\
+  &{pravadanti}&{na}&{pa.n.ditaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn ekamapyaasthita.h}&{\dn samyagubhayorvindate}&{\dn phalam}\\
+  &{ekamapyaasthita.h}&{samyagubhayorvindate}&{phalam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -228,7 +339,8 @@ Boys, not scholars, say that the two reasoning-unions are
 different. Also, one (who is) existing properly in two things gets
 fruit.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn saa"nkhyayogau}&saa"n|khya|&saa"nkyaa\\
   &&&= {\dn saa"nkhyaa}\\
@@ -289,6 +401,33 @@ fruit.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 5}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yatsaa"nkhyai.h}&{\dn praapyate}&{\dn sthaana.m}\\
+  &{yatsaa"nkhyai.h}&{praapyate}&{sthaana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tadyogairapi}&{\dn gamyate}\\
+  &{tadyogairapi}&{gamyate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2a&{\dn eka.m}&{\dn saa"nkhya.m}&{\dn ca}&{\dn yoga.m}&{\dn ca}\\
+  &{eka.m}&{saa"nkhya.m}&{ca}&{yoga.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn ya.h}&{\dn pa"syati}&{\dn sa}&{\dn pa"syati}\\
+  &{ya.h}&{pa"syati}&{sa}&{pa"syati}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -296,7 +435,8 @@ One position is gotten using things of philosophy. That is also gone
 using unions. And one who sees a thing of philosophy and a union as
 one thing---he sees.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yatsaa"nkhyai.h}&yat|&\yat\\
   &&&\\
@@ -356,13 +496,41 @@ one thing---he sees.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 6}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn sannyaasastu}&{\dn mahaabaaho}\\
+  &{sannyaasastu}&{mahaabaaho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn du.hkhamaaptumayogata.h}\\
+  &{du.hkhamaaptumayogata.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn yogayukto}&{\dn munirbrahma}\\
+  &{yogayukto}&{munirbrahma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn na}&{\dn cire.naadhigacchati}\\
+  &{na}&{cire.naadhigacchati}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
 But renunciation, O great-arm (O Arjuna), is non-action, to get
 grief. A union-joined a sage, using no delay, gets God.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sannyaasastu}&san|nyaa|sa|&sannyaasa.h\\
   &&&= {\dn sannyaasa.h}\\
@@ -421,6 +589,33 @@ grief. A union-joined a sage, using no delay, gets God.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 7}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn yogayukto}&{\dn vi"suddhaatmaa}\\
+  &{yogayukto}&{vi"suddhaatmaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn vijitaatmaa}&{\dn jitendriya.h}\\
+  &{vijitaatmaa}&{jitendriya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn sarvabhuutaatmabhuutaatmaa}\\
+  &{sarvabhuutaatmabhuutaatmaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn kurvannapi}&{\dn na}&{\dn lipyate}\\
+  &{kurvannapi}&{na}&{lipyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -428,7 +623,8 @@ A union-joined (person is a) pure self, a conquered self, (and
 possesses) conquered sense. \dots (?) Each being, self, being, self
 (?) \dots Doing (action), also, he does not stick (to bad things).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yogayukto}&yo|ga|&\yogaH\\
   &&&\\
@@ -488,6 +684,27 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 8}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn naiva}&{\dn ki~ncitkaromiiti}\\
+  &{naiva}&{ki\~{}ncitkaromiiti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn yukto}&{\dn manyeta}&{\dn tattvavit}\\
+  &{yukto}&{manyeta}&{tattvavit}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2ab&{\dn pa"sya~n"s.r.nvansp.r"sa~njighranna"snangacchansvapan"svasan}\\
+  &{pa"sya\~{}n"s.r.nvansp.r"sa\~{}njighranna"snangacchansvapan"svasan}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -495,7 +712,8 @@ possesses) conquered sense. \dots (?) Each being, self, being, self
 truth-knowing.  Seeing, hearing, touching, smelling, eating, going,
 sleeping, breathing, \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naiva}&nai|&\na\\
   &&&\\
@@ -576,13 +794,35 @@ sleeping, breathing, \dots
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 9}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn pralapanvis.rjang.rh.nannunmi.sannimi.sannapi}\\
+  &{pralapanvis.rjang.rh.nannunmi.sannimi.sannapi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn indriyaa.niindriyaarthe.su}\\
+  &{indriyaa.niindriyaarthe.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn vartanta}&{\dn iti}&{\dn dhaarayan}\\
+  &{vartanta}&{iti}&{dhaarayan}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
 \dots talking, renouncing, getting, opening the eyes, closing the
 eyes, also---senses---they are undergoing in sense-meanings.''
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn pralapanvis.rjang.rh.nannunmi.sannimi.sannapi}\\
   &&&\\
@@ -643,6 +883,33 @@ eyes, also---senses---they are undergoing in sense-meanings.''
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 10}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn brahma.nyaadhaaya}&{\dn karmaa.ni}\\
+  &{brahma.nyaadhaaya}&{karmaa.ni}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn sa"nga.m}&{\dn tyaktvaa}&{\dn karoti}&{\dn ya.h}\\
+  &{sa"nga.m}&{tyaktvaa}&{karoti}&{ya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn lipyate}&{\dn na}&{\dn sa}&{\dn paapena}\\
+  &{lipyate}&{na}&{sa}&{paapena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn padmapatramivaambhasaa}\\
+  &{padmapatramivaambhasaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -650,7 +917,8 @@ Having abandoned attachment, one does God-delivered actions. He is not
 attached using sin (is not attached to sin), as a lotus leaf using
 water (as a lotus leaf is not attached to water).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn brahma.nyaadhaaya}&brah|ma|.nyaa|&brahma.ni\\
   &&&= {\dn brahma.ni}\\
@@ -710,6 +978,33 @@ water (as a lotus leaf is not attached to water).
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 11}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn kaayena}&{\dn manasaa}&{\dn buddhyaa}\\
+  &{kaayena}&{manasaa}&{buddhyaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn kevalairindriyairapi}\\
+  &{kevalairindriyairapi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn yogina.h}&{\dn karma}&{\dn kurvanti}\\
+  &{yogina.h}&{karma}&{kurvanti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sa"nga.m}&{\dn tyaktvaatma"suddhaye}\\
+  &{sa"nga.m}&{tyaktvaatma"suddhaye}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -717,7 +1012,8 @@ Using the body, using the mind, using knowledge, using pure things,
 using senses, also, followers do action, having abandoned attachment,
 (with) soul-purity.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaayena}&kaa|ye|na&by using a/the body\\
   &&&\note{\noun, \male, \instrumentalcase}\\
@@ -767,6 +1063,33 @@ using senses, also, followers do action, having abandoned attachment,
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 12}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yukta.h}&{\dn karmaphala.m}&{\dn tyaktvaa}\\
+  &{yukta.h}&{karmaphala.m}&{tyaktvaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn "saantimaapnoti}&{\dn nai.s.thikiim}\\
+  &{"saantimaapnoti}&{nai.s.thikiim}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn ayukta.h}&{\dn kaamakaare.na}\\
+  &{ayukta.h}&{kaamakaare.na}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn phale}&{\dn sakto}&{\dn nibhadhyate}\\
+  &{phale}&{sakto}&{nibhadhyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -774,7 +1097,8 @@ A (person of) union, having abandoned action-fruit (action-results),
 gets perfect peace. A (person of) non-union, using desire-action,
 attached to fruit (results), is bound.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
   &&&\\
@@ -825,6 +1149,33 @@ attached to fruit (results), is bound.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 13}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn sarvakarmaa.ni}&{\dn manasaa}\\
+  &{sarvakarmaa.ni}&{manasaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn sannyasyaaste}&{\dn sukha.m}&{\dn va"sii}\\
+  &{sannyasyaaste}&{sukha.m}&{va"sii}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn navadvaare}&{\dn pure}&{\dn dehii}\\
+  &{navadvaare}&{pure}&{dehii}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn naiva}&{\dn kurvanna}&{\dn kaarayan}\\
+  &{naiva}&{kurvanna}&{kaarayan}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -836,7 +1187,8 @@ body---not really doing (actions) and not causing (actions).\\
 with its nine openings: two ears, two eyes, two nostrils, one mouth,
 one anus, and one penis opening.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvakarmaa.ni}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\
@@ -901,6 +1253,33 @@ one anus, and one penis opening.)
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 14}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn na}&{\dn kart.rtva.m}&{\dn na}&{\dn karmaa.ni}\\
+  &{na}&{kart.rtva.m}&{na}&{karmaa.ni}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn lokasya}&{\dn s.rjati}&{\dn prabhu.h}\\
+  &{lokasya}&{s.rjati}&{prabhu.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn na}&{\dn karmaphalasa.myoga.m}\\
+  &{na}&{karmaphalasa.myoga.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn svabhaavastu}&{\dn pravartate}\\
+  &{svabhaavastu}&{pravartate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -908,7 +1287,8 @@ The leader of the world (of the city that is the male human body) does
 not produce being a doer, nor actions, nor
 action-fruit-combination. But nature starts (these things).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -966,6 +1346,33 @@ action-fruit-combination. But nature starts (these things).
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 15}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn naadatte}&{\dn kasyacitpaapa.m}\\
+  &{naadatte}&{kasyacitpaapa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn na}&{\dn caiva}&{\dn suk.rta.m}&{\dn vibhu.h}\\
+  &{na}&{caiva}&{suk.rta.m}&{vibhu.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn aj~naanenaav.rta.m}&{\dn j~naana.m}\\
+  &{aj\~{}naanenaav.rta.m}&{j\~{}naana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn tena}&{\dn muhyanti}&{\dn jantava.h}\\
+  &{tena}&{muhyanti}&{jantava.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -973,7 +1380,8 @@ Really, a ruler does not take the sin and good-action of
 anyone. Beings are confused by that (situation), using
 non-knowledge---covered knowledge.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naadatte}&naa|&\na\\
   &&&\\
@@ -1039,6 +1447,33 @@ non-knowledge---covered knowledge.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 16}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn j~naanena}&{\dn tu}&{\dn tadaj~naana.m}\\
+  &{j\~{}naanena}&{tu}&{tadaj\~{}naana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn ye.saa.m}&{\dn naa"sitamaatmana.h}\\
+  &{ye.saa.m}&{naa"sitamaatmana.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn te.saamaadityavajj~naana.m}\\
+  &{te.saamaadityavajj\~{}naana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn prakaa"sayati}&{\dn tatparam}\\
+  &{prakaa"sayati}&{tatparam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1046,7 +1481,8 @@ But by knowledge, that non-knowledge of the self of ones is
 destroyed. The sun-like knowledge of those illuminates that greatest
 one (God).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~naanena}&j\~{}naa|ne|na&\jJAnena\\
   &&&\\
@@ -1100,6 +1536,27 @@ one (God).
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 17}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn tad buddhayastadaatmaanastanni.s.thaastatparaaya.naa.h}\\
+  &{tad buddhayastadaatmaanastanni.s.thaastatparaaya.naa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn gacchantyapunaraav.rtti.m}\\
+  &{gacchantyapunaraav.rtti.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn j~naananirdhuutakalma.saa.h}\\
+  &{j\~{}naananirdhuutakalma.saa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1107,7 +1564,8 @@ That enlightened people, that self people, that dependent people, that
 devoted people---they go again, in a cycle, to knowledge, deprived of
 stains.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn tad buddhayastadaatmaanastanni.s.thaastatparaaya.naa.h}\\
   &&tad|&\tat\\
@@ -1172,6 +1630,33 @@ stains.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 18}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn vidyaavinayasampanne}\\
+  &{vidyaavinayasampanne}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn braahma.ne}&{\dn gavi}&{\dn hastini}\\
+  &{braahma.ne}&{gavi}&{hastini}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn "suni}&{\dn caiva}&{\dn "svapaake}&{\dn ca}\\
+  &{"suni}&{caiva}&{"svapaake}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn pa.n.ditaa.h}&{\dn samadar"sina.h}\\
+  &{pa.n.ditaa.h}&{samadar"sina.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1179,7 +1664,8 @@ Knowledge and propriety are produced. And wise men are same-seeing
 (impartial) at a Brahman, (at) a cow, (at) a female elephant, (at) a
 female dog, and really, at a dog-eater (an outcast).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vidyaavinayasampanne}&vi|dyaa|&{\dn vidyaa}\\
   &&&= knowledge; magic; science\\
@@ -1240,6 +1726,33 @@ female dog, and really, at a dog-eater (an outcast).
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 19}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn ihaiva}&{\dn tairjita.h}&{\dn sargo}\\
+  &{ihaiva}&{tairjita.h}&{sargo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn ye.saa.m}&{\dn saamye}&{\dn sthita.m}&{\dn mana.h}\\
+  &{ye.saa.m}&{saamye}&{sthita.m}&{mana.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn nirdo.sa.m}&{\dn hi}&{\dn sama.m}&{\dn brahma}\\
+  &{nirdo.sa.m}&{hi}&{sama.m}&{brahma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn tasmaadbrahma.ni}&{\dn te}&{\dn sthitaa.h}\\
+  &{tasmaadbrahma.ni}&{te}&{sthitaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1248,7 +1761,8 @@ In this world, really, by those (people), creation is conquered:
 (such a person) is without defect and equal (to) God. Therefore, they
 are standing (with) God.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ihaiva}&i|hai|&\iha\\
   &&&\\
@@ -1268,7 +1782,7 @@ are standing (with) God.
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  2a&{\dn ye.saa.m}&ye|.saa.m&\yeSAm\\
+  1b&{\dn ye.saa.m}&ye|.saa.m&\yeSAm\\
   &&&\\
   &{\dn saamye}&saa|mye&at/in/on sameness; equality; similarity\\
   &&&\note{\noun, \neuter, \locativecase}\\
@@ -1314,6 +1828,33 @@ are standing (with) God.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 20}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn na}&{\dn prah.r.syetpriya.m}&{\dn praapya}\\
+  &{na}&{prah.r.syetpriya.m}&{praapya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn nodvijetpraapya}&{\dn caapriyam}\\
+  &{nodvijetpraapya}&{caapriyam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn sthirabuddhirasammuu.dho}\\
+  &{sthirabuddhirasammuu.dho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn brahmavidbrahma.ni}&{\dn sthita.h}\\
+  &{brahmavidbrahma.ni}&{sthita.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1321,7 +1862,8 @@ are standing (with) God.
 fear attainable non-pleasure. (He has a) stable-mind, (is) not
 foolish, (is) God-knowing, (and is) standing (with) God.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -1388,6 +1930,33 @@ foolish, (is) God-knowing, (and is) standing (with) God.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 21}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn baahyaspar"se.svasaktaatmaa}\\
+  &{baahyaspar"se.svasaktaatmaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn vindatyaatmani}&{\dn yatsukham}\\
+  &{vindatyaatmani}&{yatsukham}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn sa}&{\dn brahmayogayuktaatmaa}\\
+  &{sa}&{brahmayogayuktaatmaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn sukhamak.sayama"snute}\\
+  &{sukhamak.sayama"snute}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1395,7 +1964,8 @@ foolish, (is) God-knowing, (and is) standing (with) God.
 happiness in the self. That self is God-union-yoked. The person gets
 non-decaying happiness.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn baahyaspar"se.svasaktaatmaa}&baa|hya|&{\dn baahya} = external; outdoor\\
   &&&\note{\adjective}\\
@@ -1463,6 +2033,33 @@ non-decaying happiness.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 22}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn ye}&{\dn hi}&{\dn sa.mspar"sajaa}&{\dn bhogaa}\\
+  &{ye}&{hi}&{sa.mspar"sajaa}&{bhogaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn du.hkhayonaya}&{\dn eva}&{\dn te}\\
+  &{du.hkhayonaya}&{eva}&{te}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn aadyantavanta.h}&{\dn kaunteya}\\
+  &{aadyantavanta.h}&{kaunteya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn na}&{\dn te.su}&{\dn ramate}&{\dn budha.h}\\
+  &{na}&{te.su}&{ramate}&{budha.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1470,7 +2067,8 @@ Surely, ones (who have) touch-produced pleasures (have) grief like
 (from) a womb. Really, those (pleasures have) a start and end, O son
 of Kuntii (O Arjuna). A wise man does not enjoy (in) them.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
   &&&\\
@@ -1532,6 +2130,33 @@ of Kuntii (O Arjuna). A wise man does not enjoy (in) them.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 23}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn "saknotiihaiva}&{\dn ya.h}&{\dn so.dhu.m}\\
+  &{"saknotiihaiva}&{ya.h}&{so.dhu.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn praak"sariiravimok.sa.naat}\\
+  &{praak"sariiravimok.sa.naat}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn kaamakrodhodbhava.m}&{\dn vega.m}\\
+  &{kaamakrodhodbhava.m}&{vega.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2b&{\dn sa}&{\dn yukta.h}&{\dn sa}&{\dn sukhii}&{\dn nara.h}\\
+  &{sa}&{yukta.h}&{sa}&{sukhii}&{nara.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1539,7 +2164,8 @@ In this world, really, one can endure, long ago, the body (from)
 abandonment, (and from) sexual love, and anger born of speed. He is
 joined. He is a happy man.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "saknotiihaiva}&"sak|no|tii|&"saknoti\\
   &&&= {\dn "saknoti}\\
@@ -1605,6 +2231,27 @@ joined. He is a happy man.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 24}
 
+\quad
+
+\begin{tabular}{lll}
+  1ab&{\dn yo.anta.hsukho.antaraaraamastathaantarjyotireva}&{\dn ya.h}\\
+  &{yo.anta.hsukho.antaraaraamastathaantarjyotireva}&{ya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn sa}&{\dn yogii}&{\dn brahmanirvaa.na.m}\\
+  &{sa}&{yogii}&{brahmanirvaa.na.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn brahmabhuuto.adhigacchati}\\
+  &{brahmabhuuto.adhigacchati}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1612,7 +2259,8 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
 (who has) inside-brightness, really---he (is an) ascetic, a God-being,
 (who) gets God-ultimate-happiness.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yo.anta.hsukho.antaraaraamastathaantarjyotireva}\\
   &&&\\
@@ -1675,6 +2323,27 @@ One (who is) inside-happy (and has) inside-pleasure---likewise, one
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 25}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn labhante}&{\dn brahmanirvaa.nam.r.saya.h}&{\dn k.sii.nakalma.saa.h}\\
+  &{labhante}&{brahmanirvaa.nam.r.saya.h}&{k.sii.nakalma.saa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn chinnadvaidhaa}&{\dn yataatmaana.h}\\
+  &{chinnadvaidhaa}&{yataatmaana.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sarvabhuutahite}&{\dn rataa.h}\\
+  &{sarvabhuutahite}&{rataa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1682,7 +2351,8 @@ They know God-ultimate-happiness (who are) thin-wicked (who do little
 wickedness), cut into two, controlled in the self, and enjoying in the
 benefit of each being.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn labhante}&la|bhan|te&\labhante\\
   &&&\\
@@ -1743,6 +2413,33 @@ benefit of each being.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 26}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn kaamakrodhavimuktaanaa.m}\\
+  &{kaamakrodhavimuktaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn yatiinaa.m}&{\dn yatacetasaam}\\
+  &{yatiinaa.m}&{yatacetasaam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn abhito}&{\dn brahmanirvaa.na.m}\\
+  &{abhito}&{brahmanirvaa.na.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn vartate}&{\dn viditaatmanaam}\\
+  &{vartate}&{viditaatmanaam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1750,7 +2447,8 @@ The desire and anger of people freed, of sages, of controlled
 minds---in the near future, God-ultimate-happiness is of the
 known-selves.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaamakrodhavimuktaanaa.m}&kaa|ma|&\kAmaH\\
   &&&\\
@@ -1804,6 +2502,27 @@ known-selves.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 27}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn spar"saank.rtvaa}&{\dn bahirbaahyaa.m"scak.su"scaivaantare}&{\dn bhruvo.h}\\
+  &{spar"saank.rtvaa}&{bahirbaahyaa.m"scak.su"scaivaantare}&{bhruvo.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn praa.naapaanau}&{\dn samau}&{\dn k.rtvaa}\\
+  &{praa.naapaanau}&{samau}&{k.rtvaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn naasaabhyantaracaari.nau}\\
+  &{naasaabhyantaracaari.nau}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1811,7 +2530,8 @@ Having done outside touches---eye and really, between two
 brows---having done the same exhalation and inhalation, moving the
 inside nose, \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn spar"saank.rtvaa}&spar|"saan|&{\dn spar"saan}\\
   &&&= contacts; touches; feelings\\
@@ -1887,6 +2607,27 @@ inside nose, \dots
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 28}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn yatendriyamanobuddhirmunirmok.saparaaya.na.h}\\
+  &{yatendriyamanobuddhirmunirmok.saparaaya.na.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn vigatecchaabhayakrodho}\\
+  &{vigatecchaabhayakrodho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2b&{\dn ya.h}&{\dn sadaa}&{\dn mukta}&{\dn eva}&{\dn sa.h}\\
+  &{ya.h}&{sadaa}&{mukta}&{eva}&{sa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1894,7 +2635,8 @@ inside nose, \dots
 freeing as the goal, (with) gone want, fear, and anger. One always is
 freed, really---he.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yatendriyamanobuddhirmunirmok.saparaaya.na.h}\\
   &&&\\
@@ -1950,6 +2692,33 @@ freed, really---he.
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 29}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn bhoktaara.m}&{\dn yaj~natapasaa.m}\\
+  &{bhoktaara.m}&{yaj\~{}natapasaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn sarvalokamahe"svaram}\\
+  &{sarvalokamahe"svaram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn suh.rda.m}&{\dn sarvabhuutaanaa.m}\\
+  &{suh.rda.m}&{sarvabhuutaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn j~naatvaa}&{\dn maa.m}&{\dn "saantim.rcchati}\\
+  &{j\~{}naatvaa}&{maa.m}&{"saantim.rcchati}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
 \kRSNasaidtoarjuna\\
 
@@ -1957,7 +2726,8 @@ freed, really---he.
 each-world-great-leader, a friend of all beings---having known me, a
 person gets peace.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhoktaara.m}&bhok|taa|ra.m&(?)\\
   &&&\note{similar: \noun, \male, {\dn bhokt.r} = bhokt.r}\\
