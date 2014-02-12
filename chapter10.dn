@@ -278,7 +278,7 @@
   &&&\\
   &&sam|muu|.dha\h{a}&\sammUDhaH\\
   &&&\\
-  &{\dn sa}&sa&\saH\\  
+  &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
@@ -956,6 +956,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 11}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn te.saamevaanukampaarthamahamaj~naanaja.mtama.h}\\
+  &{te.saamevaanukampaarthamahamaj\~{}naanaja.mtama.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn naa"sayaamyaatmabhaavastho}\\
+  &{naa"sayaamyaatmabhaavastho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn j~naanadiipena}&{\dn bhaasvataa}\\
+  &{j\~{}naanadiipena}&{bhaasvataa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -963,7 +984,8 @@
   non-knowledge---born (of) darkness, self-behavior-staying---using the
   knowledge-lamp-brightness.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn te.saamevaanukampaarthamahamaj~naanaja.mtama.h}\\
   &&&\\
@@ -983,7 +1005,7 @@
 \begin{tabular}{llll}
   1b&&ma|ha|ma|&\aham\\
   &&&\\
-  &&|&\aprefix\\  
+  &&|&\aprefix\\
   &&&\\
   &&j\~{}naa|na|&\jJAnam\\
   &&&\\
@@ -1026,6 +1048,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 12}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1a&{\dn para.m}&{\dn brahma}&{\dn para.m}&{\dn dhaama}\\
+  &{para.m}&{brahma}&{para.m}&{dhaama}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn pavitra.m}&{\dn parama.m}&{\dn bhavaan}\\
+  &{pavitra.m}&{parama.m}&{bhavaan}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2ab&{\dn puru.sa.m}&{\dn "saa"svata.m}&{\dn divyamaadidevamaja.m}&{\dn vibhum}\\
+  &{puru.sa.m}&{"saa"svata.m}&{divyamaadidevamaja.m}&{vibhum}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   Arjuna said (to \textkrsna):\\
 
@@ -1033,7 +1082,8 @@
   paramount man, eternal (and) divine, the first deity, not-born, (and)
   powerful.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -1100,13 +1150,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 13}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn aahustvaam.r.saya.h}&{\dn sarve}\\
+  &{aahustvaam.r.saya.h}&{sarve}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn devar.sirnaaradastathaa}\\
+  &{devar.sirnaaradastathaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn asito}&{\dn devalo}&{\dn vyaasa.h}\\
+  &{asito}&{devalo}&{vyaasa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn svaya.m}&{\dn caiva}&{\dn bravii.si}&{\dn me}\\
+  &{svaya.m}&{caiva}&{bravii.si}&{me}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
   All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   (know?) you. And (yourself), really, you say (something) for me.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aahustvaam.r.saya.h}&aa|hu|&aahu.h\\
   &&&= {\dn aahu.h}\\
@@ -1175,6 +1253,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 14}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn sarvametad.rta.m}&{\dn manye}\\
+  &{sarvametad.rta.m}&{manye}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn yanmaa.m}&{\dn vadasi}&{\dn ke"sava}\\
+  &{yanmaa.m}&{vadasi}&{ke"sava}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn na}&{\dn hi}&{\dn te}&{\dn bhagavanvyakti.m}\\
+  &{na}&{hi}&{te}&{bhagavanvyakti.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn vidurdevaa}&{\dn na}&{\dn daanavaa.h}\\
+  &{vidurdevaa}&{na}&{daanavaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -1182,7 +1287,8 @@
   (O \textkrsna). Surely, God, not deities and not demons (know) the
   visible form of you.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvametad.rta.m}&sar|va|me|&\sarvam\\
   &&&\\
@@ -1250,6 +1356,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 15}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn svayamevaatmanaatmaana.m}\\
+  &{svayamevaatmanaatmaana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn vettha}&{\dn tva.m}&{\dn puru.sottama}\\
+  &{vettha}&{tva.m}&{puru.sottama}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn bhuutabhaavana}&{\dn bhuute"sa}\\
+  &{bhuutabhaavana}&{bhuute"sa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn devadeva}&{\dn jagatpate}\\
+  &{devadeva}&{jagatpate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -1257,7 +1390,8 @@
   ultimate-man, O being-birth-giver, O being-lord, O deity-deity (O
   deity of deities), O world-lord.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn svayamevaatmanaatmaana.m}&sva|ya|me|&svayam\\
   &&&= {\dn svayam}\\
@@ -1320,6 +1454,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 16}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn vaktumarhasya"se.se.na}\\
+  &{vaktumarhasya"se.se.na}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn divyaa}&{\dn hyaatmavibhuutaya.h}\\
+  &{divyaa}&{hyaatmavibhuutaya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn yaabhirvibhuutibhirlokaanimaa.mstva.m}&{\dn vyaapya}&{\dn ti.s.thasi}\\
+  &{yaabhirvibhuutibhirlokaanimaa.mstva.m}&{vyaapya}&{ti.s.thasi}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -1327,7 +1482,8 @@
   self---using (items) of power, (you) stay (in) these penetrable
   worlds.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vaktumarhasya"se.se.na}&vak|tu|mar|&vaktum\\
   &&&= {\dn vaktum}\\
@@ -1394,6 +1550,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 17}
 
+\quad
+
+\begin{tabular}{llllll}
+  1ab&{\dn katha.m}&{\dn vidyaamaha.m}&{\dn yogi.mstvaa.m}&{\dn sadaa}&{\dn paricintayan}\\
+  &{katha.m}&{vidyaamaha.m}&{yogi.mstvaa.m}&{sadaa}&{paricintayan}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn ke.su}&{\dn ke.su}&{\dn ca}&{\dn bhaave.su}\\
+  &{ke.su}&{ke.su}&{ca}&{bhaave.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn cintyo.asi}&{\dn bhagavanmayaa}\\
+  &{cintyo.asi}&{bhagavanmayaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -1401,7 +1578,8 @@
   of you? And ``in-what-in-what'' (whatever) existences are you to be
   thought, O God, by me?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
   &&&\note{\adverb}\\
@@ -1466,6 +1644,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 18}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn vistare.naatmano}&{\dn yoga.m}\\
+  &{vistare.naatmano}&{yoga.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn vibhuuti.m}&{\dn ca}&{\dn janaardana}\\
+  &{vibhuuti.m}&{ca}&{janaardana}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn bhuuya.h}&{\dn kathaya}&{\dn t.rptirhi}\\
+  &{bhuuya.h}&{kathaya}&{t.rptirhi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn "s.r.nvato}&{\dn naasti}&{\dn me.am.rtam}\\
+  &{"s.r.nvato}&{naasti}&{me.am.rtam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -1473,7 +1678,8 @@
   (things about your) yoking and power. Contentment, surely---is not
   (hearing) (you like) nectar for me?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vistare.naatmano}&vi|sta|re|.naat|&vistare.na\\
   &&&= {\dn vistare.na}\\
@@ -1543,6 +1749,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 19}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn hanta}&{\dn te}&{\dn kathayi.syaami}\\
+  &{hanta}&{te}&{kathayi.syaami}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn divyaa}&{\dn hyaatmavibhuutaya.h}\\
+  &{divyaa}&{hyaatmavibhuutaya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn praadhaanyata.h}&{\dn kuru"sre.s.tha}\\
+  &{praadhaanyata.h}&{kuru"sre.s.tha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn naastyanto}&{\dn vistarasya}&{\dn me}\\
+  &{naastyanto}&{vistarasya}&{me}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
@@ -1550,7 +1789,8 @@
   about), surely, principally, O Kuru-best (O Arjuna). The extensiveness
   of me is no end.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -1620,6 +1860,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 20}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn ahamaatmaa}&{\dn gu.daake"sa}\\
+  &{ahamaatmaa}&{gu.daake"sa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn sarvabhuutaa"sayasthita.h}\\
+  &{sarvabhuutaa"sayasthita.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn ahamaadi"sca}&{\dn madhya.m}&{\dn ca}\\
+  &{ahamaadi"sca}&{madhya.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn bhuutaanaamanta}&{\dn eva}&{\dn ca}\\
+  &{bhuutaanaamanta}&{eva}&{ca}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1627,7 +1894,8 @@
   heart of each being). And I (am) the beginning and middle and end of
   beings, really.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ahamaatmaa}&a|ha|maat|&\aham\\
   &&&\\
@@ -1663,7 +1931,7 @@
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  &{\dn bhuutaanaamanta}&bhuu|taa|naa|man|&\bhuutaanaam\\
+  2b&{\dn bhuutaanaamanta}&bhuu|taa|naa|man|&\bhuutaanaam\\
   &&&\\
   &&ta&\antaH\\
   &&&\\
@@ -1675,6 +1943,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 21}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn aadityaanaamaha.m}&{\dn vi.s.nurjyoti.saa.m}&{\dn ravira.m"sumaan}\\
+  &{aadityaanaamaha.m}&{vi.s.nurjyoti.saa.m}&{ravira.m"sumaan}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn mariicirmarutaamasmi}\\
+  &{mariicirmarutaamasmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn nak.satraa.naamaha.m}&{\dn "sa"sii}\\
+  &{nak.satraa.naamaha.m}&{"sa"sii}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1682,7 +1971,8 @@
   (I am) the (luminous) sun. (I) am Mariici, of the gods of the winds or
   storms. Of stars, I (am) the moon.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aadityaanaamaha.m}&\multicolumn{2}{l}{aa|di|tyaa|naa|ma|}\\
   &&&\\
@@ -1748,6 +2038,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 22}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn vedaanaa.m}&{\dn saamavedo.asmi}\\
+  &{vedaanaa.m}&{saamavedo.asmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn devaanaamasmi}&{\dn vaasava.h}\\
+  &{devaanaamasmi}&{vaasava.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn indriyaa.naa.m}&{\dn mana"scaasmi}\\
+  &{indriyaa.naa.m}&{mana"scaasmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn bhuutaanaamasmi}&{\dn cetanaa}\\
+  &{bhuutaanaamasmi}&{cetanaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1756,7 +2073,8 @@
   king of the gods). Of senses, (I) am the mind. And of beings, (I) am
   consciousness.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vedaanaa.m}&ve|daa|naa.m&\vedaanaam\\
   &&&\\
@@ -1804,6 +2122,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 23}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn rudraa.naa.m}&{\dn "sa"nkara"scaasmi}\\
+  &{rudraa.naa.m}&{"sa"nkara"scaasmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn vitte"so}&{\dn yak.sarak.sasaam}\\
+  &{vitte"so}&{yak.sarak.sasaam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn vasuunaa.m}&{\dn paavaka"scaasmi}\\
+  &{vasuunaa.m}&{paavaka"scaasmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn meru.h}&{\dn "sikhari.naamaham}\\
+  &{meru.h}&{"sikhari.naamaham}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1811,7 +2156,8 @@
   (I am) the money-lord. Of the eight Vasu gods, (I) am fire, and of
   peaks (of mountains), I (am) Meru.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn rudraa.naa.m}&ru|draa|.naa.m&rudraa.naam = {\dn rudraa.naam} = of sons of Rudra\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
@@ -1883,6 +2229,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 24}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn purodhasaa.m}&{\dn ca}&{\dn mukhya.m}&{\dn maa.m}\\
+  &{purodhasaa.m}&{ca}&{mukhya.m}&{maa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn viddhi}&{\dn paartha}&{\dn b.rhaspatim}\\
+  &{viddhi}&{paartha}&{b.rhaspatim}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn senaaniinaamaha.m}&{\dn skanda.h}\\
+  &{senaaniinaamaha.m}&{skanda.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sarasaamasmi}&{\dn saagara.h}\\
+  &{sarasaamasmi}&{saagara.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1890,7 +2263,8 @@
   B.rhaspati (the god of prayers). Of generals, I (am) Skanda (the god
   of war). Of (bodies of) water, (I) am the sea.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn purodhasaa.m}&pu|ro|dha|saa.m&purodhasaam\\
   &&&= {\dn purodhasaam}\\
@@ -1951,6 +2325,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 25}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn mahar.sii.naa.m}&{\dn bh.rguraha.m}\\
+  &{mahar.sii.naa.m}&{bh.rguraha.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn giraamasmyekamak.saram}\\
+  &{giraamasmyekamak.saram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn yaj~naanaa.m}&{\dn japayaj~no.asmi}\\
+  &{yaj\~{}naanaa.m}&{japayaj\~{}no.asmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sthaavaraa.naa.m}&{\dn himaalaya.h}\\
+  &{sthaavaraa.naa.m}&{himaalaya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1959,7 +2360,8 @@
   muttering-prayer-sacrifice. Of things steadfast, (I am) the
   ``winter-house'' (``Himaalaya'' mountains).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mahar.sii.naa.m}&ma|har|&\mahaan\\
   &&&\\
@@ -2032,6 +2434,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 26}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn a"svattha.h}&{\dn sarvav.rk.saa.naa.m}\\
+  &{a"svattha.h}&{sarvav.rk.saa.naa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn devar.sii.naa.m}&{\dn ca}&{\dn naarada.h}\\
+  &{devar.sii.naa.m}&{ca}&{naarada.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn gandharvaa.naa.m}&{\dn citraratha.h}\\
+  &{gandharvaa.naa.m}&{citraratha.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn siddhaanaa.m}&{\dn kapilo}&{\dn muni.h}\\
+  &{siddhaanaa.m}&{kapilo}&{muni.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -2039,7 +2468,8 @@
   Naarada. Of musician gods, (I am) Citraratha. Of successful men, (I
   am) the monk Kapila.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn a"svattha.h}&a|"svat|tha\h{a}&fig tree\\
   &&&\note{\noun, \male}\\
@@ -2100,6 +2530,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 27}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn uccai.h"sravasama"svaanaa.m}\\
+  &{uccai.h"sravasama"svaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn viddhi}&{\dn maam}&{\dn am.rtodbhavam}\\
+  &{viddhi}&{maam}&{am.rtodbhavam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn airaavata.m}&{\dn gajendraa.naa.m}\\
+  &{airaavata.m}&{gajendraa.naa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn naraa.naa.m}&{\dn ca}&{\dn naraadhipam}\\
+  &{naraa.naa.m}&{ca}&{naraadhipam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -2108,7 +2565,8 @@
   Indra (god of the sky, king of the gods), (I am) Airaavata. And of
   men, (I am) the man-king.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn uccai.h"sravasama"svaanaa.m}&\multicolumn{2}{l}{uc|cai.h|"sra|va|sa|ma|}\\
   &&&\\
@@ -2181,6 +2639,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 28}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn aayudhaanaamaha.m}&{\dn vajra.m}\\
+  &{aayudhaanaamaha.m}&{vajra.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn dhenuunaamasmi}&{\dn kaamadhuk}\\
+  &{dhenuunaamasmi}&{kaamadhuk}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn prajana"scaasmi}&{\dn kandarpa.h}\\
+  &{prajana"scaasmi}&{kandarpa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sarpaa.naamasmi}&{\dn vaasuki.h}\\
+  &{sarpaa.naamasmi}&{vaasuki.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -2189,7 +2674,8 @@
   (cow). And impregnation---(I) am Cupid (the god of love). Of serpents,
   (I) am Vaasuki (the king of serpents).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aayudhaanaamaha.m}&aa|yu|dhaa|naa|ma|&aayudhaanaam\\
   &&&= {\dn aayudhaanaam}\\
@@ -2255,6 +2741,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 29}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn ananta"scaasmi}&{\dn naagaanaa.m}\\
+  &{ananta"scaasmi}&{naagaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn varu.no}&{\dn yaadasaamaham}\\
+  &{varu.no}&{yaadasaamaham}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn pit.R.naamaryamaa}&{\dn caasmi}\\
+  &{pit.R.naamaryamaa}&{caasmi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn yama.h}&{\dn sa.myamataamaham}\\
+  &{yama.h}&{sa.myamataamaham}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -2266,7 +2779,8 @@
   (Literally, ``Ananta'' means ``no end'': {\dn ananta.h} = ananta.h = an
   + anta.h = {\dn an} + {\dn anta.h} = no + end.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ananta"scaasmi}&a|nan|ta"s|&ananta.h\\
   &&&= {\dn ananta.h}\\
@@ -2331,6 +2845,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 30}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn prahlaada"scaasmi}&{\dn daityaanaa.m}\\
+  &{prahlaada"scaasmi}&{daityaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn kaala.h}&{\dn kalayataamaham}\\
+  &{kaala.h}&{kalayataamaham}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn m.rgaa.naa.m}&{\dn ca}&{\dn m.rgendro.aha.m}\\
+  &{m.rgaa.naa.m}&{ca}&{m.rgendro.aha.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn vainateya"sca}&{\dn pak.si.naam}\\
+  &{vainateya"sca}&{pak.si.naam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -2339,7 +2880,8 @@
   deer-(god). And of birds, (I am) Vainateya (Garu.da, the eagle ridden
   by Vi.s.nu).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn prahlaada"scaasmi}&prah|laa|da"s&prahlaada.h\\
   &&&= {\dn prahlaada.h}\\
