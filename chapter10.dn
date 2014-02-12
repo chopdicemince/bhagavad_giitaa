@@ -3,13 +3,47 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 1}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn bhuuya}&{\dn eva}&{\dn mahaabaaho}\\
+  &{bhuuya}&{eva}&{mahaabaaho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn "s.r.nu}&{\dn me}&{\dn parama.m}&{\dn vaca.h}\\
+  &{"s.r.nu}&{me}&{parama.m}&{vaca.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn yatte.aha.m}&{\dn priiyamaa.naaya}\\
+  &{yatte.aha.m}&{priiyamaa.naaya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn vak.syaami}&{\dn hitakaamyayaa}\\
+  &{vak.syaami}&{hitakaamyayaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna:)\\
 
   Being, really, O great-arm (O Arjuna), hear my paramount speech. I
   will say one (piece of) advice desireable (and) pleasing.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -77,13 +111,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 2}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn na}&{\dn me}&{\dn vidu.h}&{\dn suraga.naa.h}\\
+  &{na}&{me}&{vidu.h}&{suraga.naa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn prabhava.m}&{\dn na}&{\dn mahar.saya.h}\\
+  &{prabhava.m}&{na}&{mahar.saya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn ahamaadirhi}&{\dn devaanaa.m}\\
+  &{ahamaadirhi}&{devaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn mahar.sii.naa.m}&{\dn ca}&{\dn sarva"sa.h}\\
+  &{mahar.sii.naa.m}&{ca}&{sarva"sa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   (Neither) the god-groups (nor) a great-sage (know) my birth. I (am)
   the beginning, surely, of deities and great-sages, altogether.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -147,6 +209,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 3}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yo}&{\dn maamajamanaadi.m}&{\dn ca}\\
+  &{yo}&{maamajamanaadi.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn vetti}&{\dn lokamahe"svaram}\\
+  &{vetti}&{lokamahe"svaram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn asammuu.dha.h}&{\dn sa}&{\dn martye.su}\\
+  &{asammuu.dha.h}&{sa}&{martye.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sarvapaapai.h}&{\dn pramucyate}\\
+  &{sarvapaapai.h}&{pramucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -154,7 +243,8 @@
   world-great-god---he is not-senseless in mortal beings. (He) is free
   using (of) all sins.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yo}&yo&(?) one/who/what\\
   &&&\note{\pronoun, \male}\\
@@ -215,6 +305,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 4}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn buddhirj~naanamasammoha.h}\\
+  &{buddhirj\~{}naanamasammoha.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn k.samaa}&{\dn satya.m}&{\dn dama.h}&{\dn "sama.h}\\
+  &{k.samaa}&{satya.m}&{dama.h}&{"sama.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn sukha.m}&{\dn du.hkha.m}&{\dn bhavo.abhaavo}\\
+  &{sukha.m}&{du.hkha.m}&{bhavo.abhaavo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn bhaya.m}&{\dn caabhayameva}&{\dn ca}\\
+  &{bhaya.m}&{caabhayameva}&{ca}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -222,7 +339,8 @@
   self-control, peace, happiness, distress, birth, non-birth, fear and
   non-fear, really, and \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn buddhirj~naanamasammoha.h}\\
   &&&\\
@@ -281,6 +399,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 5}
 
+\quad
+
+\begin{tabular}{llllll}
+  1ab&{\dn ahi.msaa}&{\dn samataa}&{\dn tu.s.tistapo}&{\dn daana.m}&{\dn ya"so.aya"sa.h}\\
+  &{ahi.msaa}&{samataa}&{tu.s.tistapo}&{daana.m}&{ya"so.aya"sa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn bhavanti}&{\dn bhaavaa}&{\dn bhuutaanaa.m}\\
+  &{bhavanti}&{bhaavaa}&{bhuutaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn matta}&{\dn eva}&{\dn p.rthagvidhaa.h}\\
+  &{matta}&{eva}&{p.rthagvidhaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -288,7 +427,8 @@
   donation, fame, non-fame are behaviors of beings (of me)
   really---separate kinds.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ahi.msaa}&a|&\aprefix\\
   &&&\\
@@ -349,6 +489,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 6}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn mahar.saya.h}&{\dn sapta}&{\dn puurve}\\
+  &{mahar.saya.h}&{sapta}&{puurve}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn catvaaro}&{\dn manavastathaa}\\
+  &{catvaaro}&{manavastathaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn madbhaavaa}&{\dn maanasaa}&{\dn jaataa}\\
+  &{madbhaavaa}&{maanasaa}&{jaataa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn ye.saa.m}&{\dn loka}&{\dn imaa.h}&{\dn prajaa.h}\\
+  &{ye.saa.m}&{loka}&{imaa.h}&{prajaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -357,7 +524,8 @@
   to (my) mind. Ones (of) the world---these (people) bearing---(are)
   born (from them).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mahar.saya.h}&ma|har|&{\dn maha}\\
   &&&= great\\
@@ -425,13 +593,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 7}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn etaa.m}&{\dn vibhuuti.m}&{\dn yoga.m}&{\dn ca}\\
+  &{etaa.m}&{vibhuuti.m}&{yoga.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn mama}&{\dn yo}&{\dn vetti}&{\dn tattvata.h}\\
+  &{mama}&{yo}&{vetti}&{tattvata.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn so.avikalpena}&{\dn yogena}\\
+  &{so.avikalpena}&{yogena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn yujyate}&{\dn naatra}&{\dn sa.m"saya.h}\\
+  &{yujyate}&{naatra}&{sa.m"saya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   One (who) knows truthfully these power and yoking of me---he, using
   no-choice, using yoking, is yoked here, no doubt.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn etaa.m}&e|taa.m&\etaan\\
   &&&\\
@@ -488,13 +684,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 8}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn aha.m}&{\dn sarvasya}&{\dn prabhavo}\\
+  &{aha.m}&{sarvasya}&{prabhavo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn matta.h}&{\dn sarva.m}&{\dn pravartate}\\
+  &{matta.h}&{sarva.m}&{pravartate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn iti}&{\dn matvaa}&{\dn bhajante}&{\dn maa.m}\\
+  &{iti}&{matvaa}&{bhajante}&{maa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn budhaa}&{\dn bhaavasamanvitaa.h}\\
+  &{budhaa}&{bhaavasamanvitaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   I (am) the birth of all. From me, each proceeds. Thus, having known
   (me), wise men associated with behavior cherish me.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aha.m}&a|ha.m&\aham\\
   &&&\\
@@ -548,6 +772,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 9}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn maccittaa}&{\dn madgatapraa.naa}\\
+  &{maccittaa}&{madgatapraa.naa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn bodhayanta.h}&{\dn parasparam}\\
+  &{bodhayanta.h}&{parasparam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn kathayanta"sca}&{\dn maa.m}&{\dn nitya.m}\\
+  &{kathayanta"sca}&{maa.m}&{nitya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn tu.syanti}&{\dn ca}&{\dn ramanti}&{\dn ca}\\
+  &{tu.syanti}&{ca}&{ramanti}&{ca}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -555,7 +806,8 @@
   mutually informing and telling (one another about) me, eternally---and
   (they) are pleased and (they) enjoy (me).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maccittaa}&mac|&\mat\\
   &&&\\
@@ -613,6 +865,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 10}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn te.saa.m}&{\dn satatayuktaanaa.m}\\
+  &{te.saa.m}&{satatayuktaanaa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn bhajataa.m}&{\dn priitipuurvakam}\\
+  &{bhajataa.m}&{priitipuurvakam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn dadaami}&{\dn buddhiyoga.m}&{\dn ta.m}\\
+  &{dadaami}&{buddhiyoga.m}&{ta.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn yena}&{\dn maamupayaanti}&{\dn te}\\
+  &{yena}&{maamupayaanti}&{te}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -620,7 +899,8 @@
   friendliness-previous, I give that intelligence-yoking (to) those
   (who) approach me.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
