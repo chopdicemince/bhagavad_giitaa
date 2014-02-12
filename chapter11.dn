@@ -4736,6 +4736,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 41}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn sakheti}&{\dn matvaa}&{\dn prasabha.m}&{\dn yadukta.m}\\
+  &{sakheti}&{matvaa}&{prasabha.m}&{yadukta.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllllll}
+  1b&{\dn he}&{\dn k.r.s.na}&{\dn he}&{\dn yaadava}&{\dn he}&{\dn sakheti}\\
+  &{he}&{k.r.s.na}&{he}&{yaadava}&{he}&{sakheti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn ajaanataa}&{\dn mahimaana.m}&{\dn taveda.m}\\
+  &{ajaanataa}&{mahimaana.m}&{taveda.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn mayaa}&{\dn pramaadaatpra.nayena}&{\dn vaapi}\\
+  &{mayaa}&{pramaadaatpra.nayena}&{vaapi}\\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -4747,7 +4774,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sakheti}&sa|khe|&sakha\\
   &&&= {\dn sakha}\\
@@ -4836,6 +4864,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 42}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn yaccaavahaasaarthamasatk.rto.asi}\\
+  &{yaccaavahaasaarthamasatk.rto.asi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn vihaara"sayyaasanabhojane.su}\\
+  &{vihaara"sayyaasanabhojane.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn eko.athavaapyacyuta}&{\dn tatsamak.sa.m}\\
+  &{eko.athavaapyacyuta}&{tatsamak.sa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn tatk.saamaye}&{\dn tvaamahamaprameyam}\\
+  &{tatk.saamaye}&{tvaamahamaprameyam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -4955,6 +5010,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 43}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn pitaasi}&{\dn lokasya}&{\dn caraacarasya}\\
+  &{pitaasi}&{lokasya}&{caraacarasya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn tvamasya}&{\dn puujya"sca}&{\dn gururgariiyaan}\\
+  &{tvamasya}&{puujya"sca}&{gururgariiyaan}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn na}&{\dn tvatsamo.astyabhyadhika.h}&{\dn kuto.anyo}\\
+  &{na}&{tvatsamo.astyabhyadhika.h}&{kuto.anyo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn lokatraye.apyapratimaprabhaava}\\
+  &{lokatraye.apyapratimaprabhaava}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -4967,7 +5049,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn pitaasi}&pi|taa|&\pitaa\\
   &&&\\
@@ -5066,6 +5149,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 44}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn tasmaatpra.namya}&{\dn pra.nidhaaya}&{\dn kaaya.m}\\
+  &{tasmaatpra.namya}&{pra.nidhaaya}&{kaaya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn prasaadaye}&{\dn tvaamahamii"samii.dyam}\\
+  &{prasaadaye}&{tvaamahamii"samii.dyam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn piteva}&{\dn putrasya}&{\dn sakheva}&{\dn sakhyu.h}\\
+  &{piteva}&{putrasya}&{sakheva}&{sakhyu.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn priya.h}&{\dn priyaayaarhasi}&{\dn deva}&{\dn so.dhum}\\
+  &{priya.h}&{priyaayaarhasi}&{deva}&{so.dhum}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -5077,7 +5187,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasmaatpra.namya}&tas|maat|&\tasmaat\\
   &&&\\
@@ -5162,6 +5273,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 45}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn ad.r.s.tapuurva.m}&{\dn h.r.sito.asmi}&{\dn d.r.s.tvaa}\\
+  &{ad.r.s.tapuurva.m}&{h.r.sito.asmi}&{d.r.s.tvaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  1b&{\dn bhayena}&{\dn ca}&{\dn pravyathita.m}&{\dn mano}&{\dn me}\\
+  &{bhayena}&{ca}&{pravyathita.m}&{mano}&{me}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2a&{\dn tadeva}&{\dn me}&{\dn dar"saya}&{\dn deva}&{\dn ruupa.m}\\
+  &{tadeva}&{me}&{dar"saya}&{deva}&{ruupa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn prasiida}&{\dn deve"sa}&{\dn jagannivaasa}\\
+  &{prasiida}&{deve"sa}&{jagannivaasa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -5173,7 +5311,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ad.r.s.tapuurva.m}&a|&\aprefix\\
   &&&\\
@@ -5258,6 +5397,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 46}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn kirii.tina.m}&{\dn gadina.m}&{\dn cakrahastam}\\
+  &{kirii.tina.m}&{gadina.m}&{cakrahastam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn icchaami}&{\dn tvaa.m}&{\dn dra.s.tumaha.m}&{\dn tathaiva}\\
+  &{icchaami}&{tvaa.m}&{dra.s.tumaha.m}&{tathaiva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn tenaiva}&{\dn ruupe.na}&{\dn caturbhujena}\\
+  &{tenaiva}&{ruupe.na}&{caturbhujena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn sahasrabaaho}&{\dn bhava}&{\dn vi"svamuurte}\\
+  &{sahasrabaaho}&{bhava}&{vi"svamuurte}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -5268,7 +5434,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kirii.tina.m}&ki|rii|.ti|na.m&kirii.tinam\\
   &&&= {\dn kirii.tinam}\\
@@ -5347,6 +5514,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 47}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn mayaa}&{\dn prasannena}&{\dn tavaarjuneda.m}\\
+  &{mayaa}&{prasannena}&{tavaarjuneda.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn ruupa.m}&{\dn para.m}&{\dn dar"sitamaatmayogaat}\\
+  &{ruupa.m}&{para.m}&{dar"sitamaatmayogaat}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn tejomaya.m}&{\dn vi"svamanantamaadya.m}\\
+  &{tejomaya.m}&{vi"svamanantamaadya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn yanme}&{\dn tvadanyena}&{\dn na}&{\dn d.r.s.tapuurvam}\\
+  &{yanme}&{tvadanyena}&{na}&{d.r.s.tapuurvam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
@@ -5358,7 +5558,8 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -5445,6 +5646,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 48}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn na}&{\dn vedayaj~naadhyayanairna}&{\dn daanair}\\
+  &{na}&{vedayaj\~{}naadhyayanairna}&{daanair}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn na}&{\dn ca}&{\dn kriyaabhirna}&{\dn tapobhirugrai.h}\\
+  &{na}&{ca}&{kriyaabhirna}&{tapobhirugrai.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn eva.mruupa.h}&{\dn "sakya}&{\dn aha.m}&{\dn n.rloke}\\
+  &{eva.mruupa.h}&{"sakya}&{aha.m}&{n.rloke}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn dra.s.tu.m}&{\dn tvadanyena}&{\dn kurupraviira}\\
+  &{dra.s.tu.m}&{tvadanyena}&{kurupraviira}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -5457,7 +5685,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -5537,6 +5766,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 49}
 
+\quad
+
+\begin{tabular}{lllllll}
+  1a&{\dn maa}&{\dn te}&{\dn vyathaa}&{\dn maa}&{\dn ca}&{\dn vimuu.dhabhaavo}\\
+  &{maa}&{te}&{vyathaa}&{maa}&{ca}&{vimuu.dhabhaavo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn d.r.s.tvaa}&{\dn ruupa.m}&{\dn ghoramiid.r.nmamedam}\\
+  &{d.r.s.tvaa}&{ruupa.m}&{ghoramiid.r.nmamedam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn vyapetabhii.h}&{\dn priitamanaa.h}&{\dn punastva.m}\\
+  &{vyapetabhii.h}&{priitamanaa.h}&{punastva.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn tadeva}&{\dn me}&{\dn ruupamida.m}&{\dn prapa"sya}\\
+  &{tadeva}&{me}&{ruupamida.m}&{prapa"sya}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \arjunasaidtokRSNa\\
 
@@ -5547,7 +5803,8 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maa}&maa&not\\
   &&&\note{\adverb, \indeclinable}\\
@@ -5624,6 +5881,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 50}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn sa~njaya}&{\dn uvaaca}\\
+  &{sa\~{}njaya}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1a&{\dn ityarjuna.m}&{\dn vaasudevastathoktvaa}\\
+  &{ityarjuna.m}&{vaasudevastathoktvaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn svaka.m}&{\dn ruupa.m}&{\dn dar"sayaamaasa}&{\dn bhuuya.h}\\
+  &{svaka.m}&{ruupa.m}&{dar"sayaamaasa}&{bhuuya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn aa"svaasayaamaasa}&{\dn ca}&{\dn bhiitamena.m}\\
+  &{aa"svaasayaamaasa}&{ca}&{bhiitamena.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn bhuutvaa}&{\dn puna.h}&{\dn saumyavapurmahaatmaa}\\
+  &{bhuutvaa}&{puna.h}&{saumyavapurmahaatmaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \textsanjaya\ said (to King \textdhrtaraastra):\\
 
@@ -5635,7 +5925,8 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
   &&&\\
@@ -5735,6 +6026,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 51}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn tava}&{\dn saumya.m}&{\dn janaardana}\\
+  &{tava}&{saumya.m}&{janaardana}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn d.r.s.tveda.m}&{\dn maanu.sa.m}&{\dn ruupa.m}\\
+  &{d.r.s.tveda.m}&{maanu.sa.m}&{ruupa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn idaaniimasmi}&{\dn sa.mv.rtta.h}\\
+  &{idaaniimasmi}&{sa.mv.rtta.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn sacetaa.h}&{\dn prak.rti.m}&{\dn gata.h}\\
+  &{sacetaa.h}&{prak.rti.m}&{gata.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   Arjuna said (to \textkrsna):\\
 
@@ -5742,7 +6066,8 @@
   I am happened (I am in good) consciousness, (and my) primal form (is)
   gone.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -5809,6 +6134,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 52}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1a&{\dn sudurdar"samida.m}&{\dn ruupa.m}\\
+  &{sudurdar"samida.m}&{ruupa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn d.r.s.tavaanasi}&{\dn yanmama}\\
+  &{d.r.s.tavaanasi}&{yanmama}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn devaa}&{\dn apyasya}&{\dn ruupasya}\\
+  &{devaa}&{apyasya}&{ruupasya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn nitya.m}&{\dn dar"sanakaa"nk.si.na.h}\\
+  &{nitya.m}&{dar"sanakaa"nk.si.na.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
@@ -5816,7 +6174,8 @@
   (the form) of me. Deities also, of this eternal form, are
   sight-desirous.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -5888,6 +6247,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 53}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn naaha.m}&{\dn vedairna}&{\dn tapasaa}\\
+  &{naaha.m}&{vedairna}&{tapasaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn na}&{\dn daanena}&{\dn na}&{\dn cejyayaa}\\
+  &{na}&{daanena}&{na}&{cejyayaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn "sakya}&{\dn eva.mvidho}&{\dn dra.s.tu.m}\\
+  &{"sakya}&{eva.mvidho}&{dra.s.tu.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn d.r.s.tavaanasi}&{\dn maa.m}&{\dn yathaa}\\
+  &{d.r.s.tavaanasi}&{maa.m}&{yathaa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -5895,7 +6281,8 @@
   donation, and no by sacrifice, really, (am) I, (my) form, able to (be)
   see(n). You (have) seen me just as (I was).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naaha.m}&naa|&\na\\
   &&&\\
@@ -5957,6 +6344,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 54}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn bhaktyaa}&{\dn tvananyayaa}&{\dn "sakya}\\
+  &{bhaktyaa}&{tvananyayaa}&{"sakya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn ahameva.mvidho.arjuna}\\
+  &{ahameva.mvidho.arjuna}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn j~naatu.m}&{\dn dra.s.tu.m}&{\dn ca}&{\dn tattvena}\\
+  &{j\~{}naatu.m}&{dra.s.tu.m}&{ca}&{tattvena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn prave.s.tu.m}&{\dn ca}&{\dn parantapa}\\
+  &{prave.s.tu.m}&{ca}&{parantapa}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -5964,7 +6378,8 @@
   (my) form, O Arjuna---to know and to see, and, by truth, to cover (my
   form), O destroying of enemies (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
   &&&\\
@@ -6019,6 +6434,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 55}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn matkarmak.rnmatparamo}\\
+  &{matkarmak.rnmatparamo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn madbhakta.h}&{\dn sa"ngavarjita.h}\\
+  &{madbhakta.h}&{sa"ngavarjita.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn nirvaira.h}&{\dn sarvabhuute.su}\\
+  &{nirvaira.h}&{sarvabhuute.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn ya.h}&{\dn sa}&{\dn maameti}&{\dn paa.n.dava}\\
+  &{ya.h}&{sa}&{maameti}&{paa.n.dava}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -6026,7 +6468,8 @@
   me, devoid of attachment, peaceful (to) all beings---he approaches me,
   O son of Paa.n.du (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn matkarmak.rnmatparamo}\\
   &&&\\
