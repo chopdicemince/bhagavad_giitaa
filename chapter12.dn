@@ -3,6 +3,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 1}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn eva.m}&{\dn satatayuktaa}&{\dn ye}\\
+  &{eva.m}&{satatayuktaa}&{ye}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn bhaktaastvaa.m}&{\dn paryupaasate}\\
+  &{bhaktaastvaa.m}&{paryupaasate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn ye}&{\dn caapyak.saramavyakta.m}\\
+  &{ye}&{caapyak.saramavyakta.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn te.saa.m}&{\dn ke}&{\dn yogavittamaa.h}\\
+  &{te.saa.m}&{ke}&{yogavittamaa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   Arjuna said (to \textkrsna):\\
 
@@ -10,7 +43,8 @@
   (whoever worships) the non-changeable (and) non-visible (Brahma, or
   God)---of those, who are yoked-(knowing)-most?
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -80,6 +114,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 2}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1a&{\dn mayyaave"sya}&{\dn mano}&{\dn ye}&{\dn maa.m}\\
+  &{mayyaave"sya}&{mano}&{ye}&{maa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn nityayuktaa}&{\dn upaasate}\\
+  &{nityayuktaa}&{upaasate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llllll}
+  2ab&{\dn "sraddhayaa}&{\dn parayopetaaste}&{\dn me}&{\dn yuktatamaa}&{\dn mataa.h}\\
+  &{"sraddhayaa}&{parayopetaaste}&{me}&{yuktatamaa}&{mataa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
@@ -87,7 +148,8 @@
   (and) (wait). Using faith, using the paramount (thing), having
   (things), they, for me, (are) thought (to be) the yoked-most.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
@@ -154,6 +216,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 3}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn ye}{\dn tvak.saramanirde"syamavyakta.m}&{\dn paryupaasate}\\
+  &{ye}{tvak.saramanirde"syamavyakta.m}&{paryupaasate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn sarvatragamacintya.m}&{\dn ca}\\
+  &{sarvatragamacintya.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn kuu.tasthamacala.m}&{\dn dhruvam}\\
+  &{kuu.tasthamacala.m}&{dhruvam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -161,7 +244,8 @@
   non-visible, the everywhere-(going), the non-thinkable, and the
   best-standing, the non-moving, the fixed, \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
   &&&\\
@@ -240,6 +324,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 4}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn sanniyamyendriyagraama.m}\\
+  &{sanniyamyendriyagraama.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn sarvatra}&{\dn samabuddhaya.h}\\
+  &{sarvatra}&{samabuddhaya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn te}&{\dn praapnuvanti}&{\dn maameva}\\
+  &{te}&{praapnuvanti}&{maameva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sarvabhuutahite}&{\dn rataa.h}\\
+  &{sarvabhuutahite}&{rataa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -247,7 +358,8 @@
   the same-intelligence---those attain me, really, pleased at
   each-being-good.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn sanniyamyendriyagraama.m}\\
   &&&\\
@@ -307,6 +419,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 5}
 
+\quad
+
+\begin{tabular}{ll}
+  1ab&{\dn kle"so.adhikataraste.saamavyaktaasaktacetasaam}\\
+  &{kle"so.adhikataraste.saamavyaktaasaktacetasaam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn avyaktaa}&{\dn hi}&{\dn gatirdu.hkha.m}\\
+  &{avyaktaa}&{hi}&{gatirdu.hkha.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn dehavadbhiravaapyate}\\
+  &{dehavadbhiravaapyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -315,7 +448,8 @@
   occurrence of distress. Body \dots (?) \dots causes a person/thing to
   attain a person/thing.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn kle"so.adhikataraste.saamavyaktaasaktacetasaam}\\
   &&&\\
@@ -393,6 +527,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 6}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn ye}&{\dn tu}&{\dn sarvaa.ni}&{\dn karmaa.ni}\\
+  &{ye}&{tu}&{sarvaa.ni}&{karmaa.ni}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn mayi}&{\dn sannyasya}&{\dn matparaa.h}\\
+  &{mayi}&{sannyasya}&{matparaa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn ananyenaiva}&{\dn yogena}\\
+  &{ananyenaiva}&{yogena}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn maa.m}&{\dn dhyaayanta}&{\dn upaasate}\\
+  &{maa.m}&{dhyaayanta}&{upaasate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -400,7 +561,8 @@
   paramount (things)---not using another (thing)---really, using yoking
   (and) (thinking), (they) (pay) homage (to) me.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
   &&&\\
@@ -451,6 +613,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 7}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn te.saamaha.m}&{\dn samuddhartaa}\\
+  &{te.saamaha.m}&{samuddhartaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn m.rtyusa.msaarasaagaraat}\\
+  &{m.rtyusa.msaarasaagaraat}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn bhavaami}&{\dn na}&{\dn ciraatpaartha}\\
+  &{bhavaami}&{na}&{ciraatpaartha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn mayyaave"sitacetasaam}\\
+  &{mayyaave"sitacetasaam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -458,7 +647,8 @@
   from the sea---not from a thing lasting a long time, O prince (O
   Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn te.saamaha.m}&te|.saa|ma|&\teSAm\\
   &&&\\
@@ -517,6 +707,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 8}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn mayyeva}&{\dn mana}&{\dn aadhatsva}\\
+  &{mayyeva}&{mana}&{aadhatsva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn mayi}&{\dn buddhi.m}&{\dn nive"saya}\\
+  &{mayi}&{buddhi.m}&{nive"saya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn nivasi.syasi}&{\dn mayyeva}\\
+  &{nivasi.syasi}&{mayyeva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn ata}&{\dn uurdhva.m}&{\dn na}&{\dn sa.m"saya.h}\\
+  &{ata}&{uurdhva.m}&{na}&{sa.m"saya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -524,7 +741,8 @@
   intelligence. (You) will live in me, really. From here, (be) upright
   (and have) no doubt.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mayyeva}&may|ye|&\mayi\\
   &&&\\
@@ -562,7 +780,7 @@
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  2b&{\dn ata}&a|ta&\ataH\\  
+  2b&{\dn ata}&a|ta&\ataH\\
   &&&\\
   &{\dn uurdhva.m}&uur|dhva.m&uurdhvam\\
   &&&= {\dn uurdhvam}\\
@@ -578,6 +796,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 9}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn atha}&{\dn citta.m}&{\dn samaadhaatu.m}\\
+  &{atha}&{citta.m}&{samaadhaatu.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn na}&{\dn "sakno.si}&{\dn mayi}&{\dn sthiram}\\
+  &{na}&{"sakno.si}&{mayi}&{sthiram}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn abhyaasayogena}&{\dn tato}\\
+  &{abhyaasayogena}&{tato}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn maamicchaaptu.m}&{\dn dhana~njaya}\\
+  &{maamicchaaptu.m}&{dhana\~{}njaya}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -585,7 +830,8 @@
   steadfast mind---from there, using repetition-yoking, (get) a wish to
   attain me, O money-victory (O Arjuna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&\atha\\
   &&&\\
@@ -645,6 +891,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 12, Verse 10}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn abhyaase.apyasamartho.asi}\\
+  &{abhyaase.apyasamartho.asi}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn matkarmaparamo}&{\dn bhava}\\
+  &{matkarmaparamo}&{bhava}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn madarthamapi}&{\dn karmaa.ni}\\
+  &{madarthamapi}&{karmaa.ni}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn kurvansiddhimavaapsyasi}\\
+  &{kurvansiddhimavaapsyasi}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -652,7 +925,8 @@
   from-me-action, be from-me-profit, also. (You) will attain success
   doing actions.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn abhyaase.apyasamartho.asi}\\
   &&&\\
