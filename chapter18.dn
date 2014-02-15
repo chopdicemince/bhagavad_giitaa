@@ -3,6 +3,39 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 1}
 
+\quad
+
+\begin{tabular}{lll}
+  0&{\dn arjuna}&{\dn uvaaca}\\
+  &{arjuna}&{uvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1a&{\dn sannyaasasya}&{\dn mahaabaaho}\\
+  &{sannyaasasya}&{mahaabaaho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tattvamicchaami}&{\dn veditum}\\
+  &{tattvamicchaami}&{veditum}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn tyaagasya}&{\dn ca}&{\dn h.r.siike"sa}\\
+  &{tyaagasya}&{ca}&{h.r.siike"sa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn p.rthakke"sini.suudana}\\
+  &{p.rthakke"sini.suudana}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   Arjuna said (to \textkrsna):\\
 
@@ -10,7 +43,8 @@
   truth---and of abandonment, O \textkrsna, separately, O Ke"si-destroyer
   (O \textkrsna).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
@@ -66,15 +100,49 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 2}
 
+\quad
+
+\begin{tabular}{ll}
+  0&{\dn "sriibhagavaanuvaaca}\\
+  &{"sriibhagavaanuvaaca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1a&{\dn kaamyaanaa.m}&{\dn karma.naa.m}&{\dn nyaasa.m}\\
+  &{kaamyaanaa.m}&{karma.naa.m}&{nyaasa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn sannyaasa.m}&{\dn kavayo}&{\dn vidu.h}\\
+  &{sannyaasa.m}&{kavayo}&{vidu.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn sarvakarmaphalatyaaga.m}\\
+  &{sarvakarmaphalatyaaga.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn praahustyaaga.m}&{\dn vicak.sa.naa.h}\\
+  &{praahustyaaga.m}&{vicak.sa.naa.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   God (\textkrsna) said (to Arjuna):\\
 
   Abandonment of desireable actions, abandonment \dots (?)
   \dots. Each-action-fruit-abandonment, abandonment \dots (?) \dots.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1a&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
+  0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
   &&&\\
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
@@ -82,7 +150,7 @@
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn kaamyaanaa.m}&kaa|myaa|naa.m&kaamyaanaam\\
+  1a&{\dn kaamyaanaa.m}&kaa|myaa|naa.m&kaamyaanaam\\
   &&&= {\dn kaamyaanaam}\\
   &&&= of people/things desirable\\
   &&&\note{\adjective, \male, \plural, \genitivecase}\\
@@ -152,6 +220,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 3}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn tyaajya.m}&{\dn do.savadityeke}\\
+  &{tyaajya.m}&{do.savadityeke}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn karma}&{\dn praahur}&{\dn manii.si.na.h}\\
+  &{karma}&{praahur}&{manii.si.na.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn yaj~nadaanatapa.hkarma}\\
+  &{yaj\~{}nadaanatapa.hkarma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn na}&{\dn tyaajyamiti}&{\dn caapare}\\
+  &{na}&{tyaajyamiti}&{caapare}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -159,7 +254,8 @@
   minds. And ``Sacrifice-donation-austerity-action (is) not to be
   abandoned,'' (says) another (great mind).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tyaajya.m}&tyaa|jya.m&tyaajyam\\
   &&&= {\dn tyaajyam}\\
@@ -224,6 +320,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 4}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn ni"scaya.m}&{\dn "s.r.nu}&{\dn me}&{\dn tatra}\\
+  &{ni"scaya.m}&{"s.r.nu}&{me}&{tatra}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tyaage}&{\dn bharatasattama}\\
+  &{tyaage}&{bharatasattama}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn tyaago}&{\dn hi}&{\dn puru.savyaaghra}\\
+  &{tyaago}&{hi}&{puru.savyaaghra}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn trividha.h}&{\dn samprakiirtita.h}\\
+  &{trividha.h}&{samprakiirtita.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -231,7 +354,8 @@
   Arjuna). Abandonment, surely, O man-tiger (O Arjuna)---three-kind(s)
   (are) called.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ni"scaya.m}&ni"s|ca|ya.m&ni"scayam\\
   &&&= {\dn ni"scayam}\\
@@ -297,6 +421,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 5}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn yaj~nadaanatapa.hkarma}\\
+  &{yaj\~{}nadaanatapa.hkarma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn na}&{\dn tyaajya.m}&{\dn kaaryameva}&{\dn tat}\\
+  &{na}&{tyaajya.m}&{kaaryameva}&{tat}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn yaj~no}&{\dn daana.m}&{\dn tapa"scaiva}\\
+  &{yaj\~{}no}&{daana.m}&{tapa"scaiva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn paavanaani}&{\dn manii.si.naam}\\
+  &{paavanaani}&{manii.si.naam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -304,7 +455,8 @@
   really---that. Sacrifice, donation, and austerity, really, (are)
   purifying of great minds.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yaj~nadaanatapa.hkarma}\\
   &&&\\
@@ -360,6 +512,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 6}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn etaanyapi}&{\dn tu}&{\dn karmaa.ni}\\
+  &{etaanyapi}&{tu}&{karmaa.ni}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  1b&{\dn sa"nga.m}&{\dn tyaktvaa}&{\dn phalaani}&{\dn ca}\\
+  &{sa"nga.m}&{tyaktvaa}&{phalaani}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn kartavyaaniiti}&{\dn me}&{\dn paartha}\\
+  &{kartavyaaniiti}&{me}&{paartha}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn ni"scita.m}&{\dn matamuttamam}\\
+  &{ni"scita.m}&{matamuttamam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -367,7 +546,8 @@
   fruits (results)---(are) worthy actions, thus, for me, O prince (O
   Arjuna)---sure, ultimate opinion.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn etaanyapi}&e|taa|nya|&\etaani\\
   &&&\\
@@ -417,6 +597,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 7}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn niyatasya}&{\dn tu}&{\dn sannyaasa.h}\\
+  &{niyatasya}&{tu}&{sannyaasa.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn karma.no}&{\dn nopapadyate}\\
+  &{karma.no}&{nopapadyate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2ab&{\dn mohaattasya}&{\dn parityaagastaamasa.h}&{\dn parikiirtita.h}\\
+  &{mohaattasya}&{parityaagastaamasa.h}&{parikiirtita.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -424,7 +625,8 @@
   the abandonment of that (customary action), (is) of ignorance, (it is)
   proclaimed.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn niyatasya}&ni|ya|ta|sya&\niyatasya\\
   &&&\\
@@ -476,6 +678,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 8}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn du.hkhamityeva}&{\dn yatkarma}\\
+  &{du.hkhamityeva}&{yatkarma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn kaayakle"sabhayaattyajet}\\
+  &{kaayakle"sabhayaattyajet}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn sa}&{\dn k.rtvaa}&{\dn raajasa.m}&{\dn tyaaga.m}\\
+  &{sa}&{k.rtvaa}&{raajasa.m}&{tyaaga.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn naiva}&{\dn tyaagaphala.m}&{\dn labhet}\\
+  &{naiva}&{tyaagaphala.m}&{labhet}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -483,7 +712,8 @@
   abandoned)---that (man), having done passion abandonment---not really,
   (is) abandonment-fruit (attained).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn du.hkhamityeva}&du.h|kha|mi|&\duHkham\\
   &&&\\
@@ -562,6 +792,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 9}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn kaaryamityeva}&{\dn yatkarma}\\
+  &{kaaryamityeva}&{yatkarma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn niyata.m}&{\dn kriyate.arjuna}\\
+  &{niyata.m}&{kriyate.arjuna}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn sa"nga.m}&{\dn tyaktvaa}&{\dn phala.m}&{\dn caiva}\\
+  &{sa"nga.m}&{tyaktvaa}&{phala.m}&{caiva}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn sa}&{\dn tyaaga.h}&{\dn saattviko}&{\dn mata.h}\\
+  &{sa}&{tyaaga.h}&{saattviko}&{mata.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -569,7 +826,8 @@
   Arjuna---having abandoned yoking and fruit (results), really---that
   abandonment is true. (This statement is) an opinion (of me).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaaryamityeva}&kaar|ya|mi|&\kaaryam\\
   &&&\\
@@ -628,6 +886,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 10}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn na}&{\dn dve.s.tyaku"sala.m}&{\dn karma}\\
+  &{na}&{dve.s.tyaku"sala.m}&{karma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn ku"sale}&{\dn naanu.sajjate}\\
+  &{ku"sale}&{naanu.sajjate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn tyaagii}&{\dn sattvasamaavi.s.to}\\
+  &{tyaagii}&{sattvasamaavi.s.to}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn medhaavii}&{\dn chinnasa.m"saya.h}\\
+  &{medhaavii}&{chinnasa.m"saya.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -635,7 +920,8 @@
   happiness---(such is) an abandoner. Goodness-having, a wise person
   (is) cut-doubt (has cut away doubt).
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -694,6 +980,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 11}
 
+\quad
+
+\begin{tabular}{lllll}
+  1a&{\dn na}&{\dn hi}&{\dn dehabh.rtaa}&{\dn "sakya.m}\\
+  &{na}&{hi}&{dehabh.rtaa}&{"sakya.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tyaktu.m}&{\dn karmaa.nya"se.sata.h}\\
+  &{tyaktu.m}&{karmaa.nya"se.sata.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn yastu}&{\dn karmaphalatyaagii}\\
+  &{yastu}&{karmaphalatyaagii}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn sa}&{\dn tyaagiityabhidhiiyate}\\
+  &{sa}&{tyaagiityabhidhiiyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -701,7 +1014,8 @@
   fully. But one---an action-fruit abandoner---that abandoner, thus,
   \dots (?) \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
   &&&\\
@@ -764,6 +1078,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 12}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn ani.s.tami.s.ta.m}&{\dn mi"sra.m}&{\dn ca}\\
+  &{ani.s.tami.s.ta.m}&{mi"sra.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn trividha.m}&{\dn karma.na.h}&{\dn phalam}\\
+  &{trividha.m}&{karma.na.h}&{phalam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn bhavatyatyaaginaa.m}&{\dn pretya}\\
+  &{bhavatyatyaaginaa.m}&{pretya}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2b&{\dn na}&{\dn tu}&{\dn sannyaasinaa.m}&{\dn kvacit}\\
+  &{na}&{tu}&{sannyaasinaa.m}&{kvacit}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -771,7 +1112,8 @@
   action. (This) fruit is of non-abandoners. But after death, (it is)
   not of abandoners, somewhere.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ani.s.tami.s.ta.m}&a|ni|&\an\\
   &&&\\
@@ -845,6 +1187,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 13}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn pa~ncaitaani}&{\dn mahaabaaho}\\
+  &{pa\~{}ncaitaani}&{mahaabaaho}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn kaara.naani}&{\dn nibodha}&{\dn me}\\
+  &{kaara.naani}&{nibodha}&{me}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn saa"nkhye}&{\dn k.rtaante}&{\dn proktaani}\\
+  &{saa"nkhye}&{k.rtaante}&{proktaani}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn siddhaye}&{\dn sarvakarma.naam}\\
+  &{siddhaye}&{sarvakarma.naam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -852,7 +1221,8 @@
   philosophy of me, in an action-end, (it is) said, (is) (success) of
   all actions.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn pa~ncaitaani}&pa\~{}n|cai|&pa\~{}nca = {\dn pa~nca} = \paJca\\
   &&&\notepaJca\\
@@ -911,6 +1281,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 14}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn adhi.s.thaana.m}&{\dn tathaa}&{\dn kartaa}\\
+  &{adhi.s.thaana.m}&{tathaa}&{kartaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn kara.na.m}&{\dn ca}&{\dn p.rthagvidham}\\
+  &{kara.na.m}&{ca}&{p.rthagvidham}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn vividhaa"sca}&{\dn p.rthakce.s.taa}\\
+  &{vividhaa"sca}&{p.rthakce.s.taa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn daiva.m}&{\dn caivaatra}&{\dn pa~ncamam}\\
+  &{daiva.m}&{caivaatra}&{pa\~{}ncamam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -918,7 +1315,8 @@
   separately, various actions, and the deity---really, here (is) the
   fifth.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn adhi.s.thaana.m}&a|dhi|.s.thaa|na.m&adhi.s.thaanam\\
   &&&= {\dn adhi.s.thaanam}\\
@@ -986,13 +1384,35 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 15}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn "sariiravaa.nmanobhiryatkarma}&{\dn praarabhate}&{\dn nara.h}\\
+  &{"sariiravaa.nmanobhiryatkarma}&{praarabhate}&{nara.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2a&{\dn nyaayya.m}&{\dn vaa}&{\dn vipariita.m}&{\dn vaa}\\
+  &{nyaayya.m}&{vaa}&{vipariita.m}&{vaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn pa~ncaite}&{\dn tasya}&{\dn hetava.h}\\
+  &{pa\~{}ncaite}&{tasya}&{hetava.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   Body, voice, mind---what action a man starts, correct, yes/no, (or)
   opposite, yes/no---these five of him \dots (?) \dots
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn "sariiravaa.nmanobhiryatkarma}\\
   &&&\\
@@ -1020,7 +1440,7 @@
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
-  1b&{\dn nyaayya.m}&nyaay|ya.m&nyaayyam\\
+  2a&{\dn nyaayya.m}&nyaay|ya.m&nyaayyam\\
   &&&= {\dn nyaayyam}\\
   &&&= correct; proper; usual\\
   &&&\note{\adjective, \neuter}\\
@@ -1050,13 +1470,29 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 16}
 
+\quad
+
+\begin{tabular}{lllllll}
+  1ab&{\dn tatraiva.m}&{\dn sati}&{\dn kartaaramaatmaana.m}&{\dn kevala.m}&{\dn tu}&{\dn ya.h}\\
+  &{tatraiva.m}&{sati}&{kartaaramaatmaana.m}&{kevala.m}&{tu}&{ya.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllll}
+  2ab&{\dn pa"syatyak.rtabuddhitvaanna}&{\dn sa}&{\dn pa"syati}&{\dn durmati.h}\\
+  &{pa"syatyak.rtabuddhitvaanna}&{sa}&{pa"syati}&{durmati.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   There, really, a female---but one who sees an actor-self only---(has)
   non-action intelligence. That man does not see---very bad mind.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tatraiva.m}&ta|trai|&\tatra\\
   &&&\\
@@ -1126,6 +1562,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 17}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yasya}&{\dn naaha"nk.rto}&{\dn bhaavo}\\
+  &{yasya}&{naaha"nk.rto}&{bhaavo}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn buddhiryasya}&{\dn na}&{\dn lipyate}\\
+  &{buddhiryasya}&{na}&{lipyate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lllllll}
+  2ab&{\dn hatvaapi}&{\dn sa}&{\dn imaa/llokaanna}&{\dn hanti}&{\dn na}&{\dn nibadhyate}\\
+  &{hatvaapi}&{sa}&{imaa/llokaanna}&{hanti}&{na}&{nibadhyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1133,7 +1590,8 @@
   attach---also, having killed these (people), he does not kill (and) is
   not bound.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yasya}&ya|sya&(?) of one/whom/what\\
   &&&\note{\pronoun, \male, \genitivecase}\\
@@ -1185,6 +1643,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 18}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn j~naana.m}&{\dn j~neya.m}&{\dn parij~naataa}\\
+  &{j\~{}naana.m}&{j\~{}neya.m}&{parij\~{}naataa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn trividhaa}&{\dn karmacodanaa}\\
+  &{trividhaa}&{karmacodanaa}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn kara.na.m}&{\dn karma}&{\dn karteti}\\
+  &{kara.na.m}&{karma}&{karteti}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn trividha.h}&{\dn karmasa"ngraha.h}\\
+  &{trividha.h}&{karmasa"ngraha.h}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1192,7 +1677,8 @@
   (of) acction-impelling (things). Action, action [sic], (and) an actor,
   thus, (are) three-kind(s) (of) action-group.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
@@ -1240,7 +1726,7 @@
   % ----------------------------------------------------------------------------
   \hline
   &&&\\
-  1b&{\dn trividha.h}&tri|&trii.ni = {\dn trii.ni} = three\\
+  2b&{\dn trividha.h}&tri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&vi|dha\h{a}&\vidhaH\\
@@ -1255,6 +1741,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 19}
 
+\quad
+
+\begin{tabular}{llllll}
+  1a&{\dn j~naana.m}&{\dn karma}&{\dn ca}&{\dn kartaa}&{\dn ca}\\
+  &{j\~{}naana.m}&{karma}&{ca}&{kartaa}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  1b&{\dn tridhaiva}&{\dn gu.nabhedata.h}\\
+  &{tridhaiva}&{gu.nabhedata.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn procyate}&{\dn gu.nasa"nkhyaane}\\
+  &{procyate}&{gu.nasa"nkhyaane}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2b&{\dn yathaavacch.r.nu}&{\dn taanyapi}\\
+  &{yathaavacch.r.nu}&{taanyapi}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1262,7 +1775,8 @@
   really---string-difference, \dots (?) \dots, in a string-appearance.
   Just as (full?), hear these, also.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
@@ -1326,13 +1840,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 20}
 
+\quad
+
+\begin{tabular}{lll}
+  1a&{\dn sarvabhuute.su}&{\dn yenaika.m}\\
+  &{sarvabhuute.su}&{yenaika.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn bhaavamavyayamiik.sate}\\
+  &{bhaavamavyayamiik.sate}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn avibhakta.m}&{\dn vibhakte.su}\\
+  &{avibhakta.m}&{vibhakte.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn tajj~naana.m}&{\dn viddhi}&{\dn saattvikam}\\
+  &{tajj\~{}naana.m}&{viddhi}&{saattvikam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   In all beings, by which one non-changeable existence (is), (a person)
   sees non-(division) in divided (beings). (Know) that good knowledge.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvabhuute.su}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\
@@ -1394,6 +1936,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 21}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn p.rthaktvena}&{\dn tu}&{\dn yajj~naana.m}\\
+  &{p.rthaktvena}&{tu}&{yajj\~{}naana.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn naanaabhaavaanp.rthagvidhaan}\\
+  &{naanaabhaavaanp.rthagvidhaan}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2a&{\dn vetti}&{\dn sarve.su}&{\dn bhuute.su}\\
+  &{vetti}&{sarve.su}&{bhuute.su}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn tajj~naana.m}&{\dn viddhi}&{\dn raajasam}\\
+  &{tajj\~{}naana.m}&{viddhi}&{raajasam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1401,7 +1970,8 @@
   (and) separate kinds in all beings---(know) that knowledge (as)
   passion.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn p.rthaktvena}&p.r|thak|tve|na&\pRthaktvena\\
   &&&\\
@@ -1454,6 +2024,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 22}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn yattu}&{\dn k.rtsnavadekasminkaarye}&{\dn saktamahaitukam}\\
+  &{yattu}&{k.rtsnavadekasminkaarye}&{saktamahaitukam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn atattvaarthavadalpa.m}&{\dn ca}\\
+  &{atattvaarthavadalpa.m}&{ca}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn tattaamasamudaah.rtam}\\
+  &{tattaamasamudaah.rtam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1461,7 +2052,8 @@
   cause, non-truth-profit-full, and little---that (knowledge) (is)
   ignorance, (it is) said.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yattu}&yat|&\yat\\
   &&&\\
@@ -1537,6 +2129,27 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 23}
 
+\quad
+
+\begin{tabular}{llll}
+  1ab&{\dn niyata.m}&{\dn sa"ngarahitamaraagadve.sata.h}&{\dn k.rtam}\\
+  &{niyata.m}&{sa"ngarahitamaraagadve.sata.h}&{k.rtam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn aphalaprepsunaa}&{\dn karma}\\
+  &{aphalaprepsunaa}&{karma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn yattatsaattvikamucyate}\\
+  &{yattatsaattvikamucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1544,7 +2157,8 @@
   action---non-fruit-desiring action---what (action)---that (is called)
   good.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
   &&&\\
@@ -1604,13 +2218,41 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 24}
 
+\quad
+
+\begin{tabular}{llll}
+  1a&{\dn yattu}&{\dn kaamepsunaa}&{\dn karma}\\
+  &{yattu}&{kaamepsunaa}&{karma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  1b&{\dn saaha"nkaare.na}&{\dn vaa}&{\dn puna.h}\\
+  &{saaha"nkaare.na}&{vaa}&{puna.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn kriyate}&{\dn bahulaayaasa.m}\\
+  &{kriyate}&{bahulaayaasa.m}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn tadraajasamudaah.rtam}\\
+  &{tadraajasamudaah.rtam}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   But what desire-desire [sic] action, using pride, yes/no, again (is
   done with) much effort---that (action) is called passion.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yattu}&yat|&\yat\\
   &&&\\
@@ -1676,13 +2318,35 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 25}
 
+\quad
+
+\begin{tabular}{llllll}
+  1ab&{\dn anubandha.m}&{\dn k.saya.m}&{\dn hi.msaamanapek.sya}&{\dn ca}&{\dn pauru.sam}\\
+  &{anubandha.m}&{k.saya.m}&{hi.msaamanapek.sya}&{ca}&{pauru.sam}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{lll}
+  2a&{\dn mohaadaarabhyate}&{\dn karma}\\
+  &{mohaadaarabhyate}&{karma}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2b&{\dn yattattaamasamucyate}\\
+  &{yattattaamasamucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
   Not regarding binding, decay, killing, and manliness---from confusion,
   action (begins). What---that (action) is called ignorance.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn anubandha.m}&a|nu|ban|dha.m&anubandham\\
   &&&= {\dn anubandham}\\
@@ -1755,6 +2419,33 @@
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 18, Verse 26}
 
+\quad
+
+\begin{tabular}{ll}
+  1a&{\dn muktasa"ngo.anaha.mvaadii}\\
+  &{muktasa"ngo.anaha.mvaadii}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  1b&{\dn dh.rtyutsaahasamanvita.h}\\
+  &{dh.rtyutsaahasamanvita.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{ll}
+  2a&{\dn siddhyasiddhyornirvikaara.h}\\
+  &{siddhyasiddhyornirvikaara.h}\\
+  \\
+\end{tabular}
+
+\begin{tabular}{llll}
+  2b&{\dn kartaa}&{\dn saattvika}&{\dn ucyate}\\
+  &{kartaa}&{saattvika}&{ucyate}\\
+  \\
+\end{tabular}
+
+% ------------------------------------------------------------------------------
 \begin{mytranslation}
   \kRSNasaidtoarjuna\\
 
@@ -1762,7 +2453,8 @@
   non-changed-in-success(-and)-non-success---(such an) actor is called
   good.
 \end{mytranslation}
-
+\newpage
+% ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn muktasa"ngo.anaha.mvaadii}\\
   &&&\\
