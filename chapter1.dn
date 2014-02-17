@@ -78,7 +78,7 @@ The main characters are:
   (are) my (sons) and the Paa.n.davas. Really, what did they do, O
   \textsanjaya?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn dh.rtaraa.s.tra}&dh.r|ta|raa|.s.tra&\textdhrtaraastra\\
@@ -95,9 +95,10 @@ The main characters are:
   &{\dn kuruk.setre}&ku|ru|&\kuruH\\
   &&&\\
   &&k.se|tre&\kSetre\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn samavetaa}&sa|ma|ve|taa&samavetaa.h\\
   &&&= {\dn samavetaa.h}\\
   &&&= together\\
@@ -108,10 +109,9 @@ The main characters are:
   &&&\note{\adjective}\\
   &&&\note{similar: \adjective, {\dn yuyutsu} = yuyutsu}\\
   &&&\note{= wanting to fight}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn maamakaa.h}&maa|ma|kaa\h{aa}&my\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn maamaka.h} = maamaka.h}\\
@@ -179,7 +179,7 @@ The main characters are:
   king---then said this group of words (to) the nearby teacher (Dro.na):
   \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
@@ -199,9 +199,10 @@ The main characters are:
   &&&= battle; front; army\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aniika.h} = aniika.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vyuu.dha.m}&vyuu|.dha.m&vyuu.dham\\
   &&&= {\dn vyuu.dham}\\
   &&&= moved apart; distributed; arranged\\
@@ -212,10 +213,9 @@ The main characters are:
   &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&sta|daa&\tadaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aacaaryamupasa"ngamya}&aa|caar|ya|mu|&aacaaryam\\
   &&&= {\dn aacaaryam}\\
   &&&= teacher\\
@@ -270,7 +270,7 @@ The main characters are:
   Dro.na)---a great army, arranged, by using a Drupada-son---by using a
   wise student of you.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn pa"syaitaa.m}&pa"|syai|&\pazya\\
@@ -287,9 +287,10 @@ The main characters are:
   &&&= of sons\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn putra.h} = putra.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&maa|caar|ya&aacaarya = {\dn aacaarya} = O teacher\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn aacaarya.h} = aacaarya.h}\\
@@ -303,10 +304,9 @@ The main characters are:
   &{\dn camuum}&ca|muum&army\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn camuu.h} = camuu.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vyuu.dhaa.m}&vyuu|.dhaa.m&moved apart; distributed; arranged\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn vyuu.dhaa} = vyuu.dhaa}\\
@@ -371,7 +371,7 @@ The main characters are:
   Here (are) warriors---mighty-archers, Bhiima-and-Arjuna-similar---at
   the fight: Yuyudhaana and Viraata, and Drupada, a mighty warrior.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn atra}&a|tra&\atra\\
@@ -388,9 +388,10 @@ The main characters are:
   &&&= bows; archers\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn i"svaasa.h} = i"svaasa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhiimaarjunasamaa}&bhii|maar|&bhiima = {\dn bhiima} = Bhiima\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
@@ -401,10 +402,9 @@ The main characters are:
   &{\dn yudhi}&yu|dhi&(?) at/in/on a/the fight\\
   &&&\note{\noun, \female, \locativecase}\\
   &&&\note{from {\dn yudh} = yudh}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yuyudhaano}&yu|yu|dhaa|no&yuyudhaana.h\\
   &&&= {\dn yuyudhaana.h}\\
   &&&= Yuyudhaana\\
@@ -467,7 +467,7 @@ The main characters are:
   Dh.r.s.taketu, Cekitaana, and Kaa"siraaja (are) powerful---Purujit and
   Kuntibhoja (are, too). And Saibya (is) a man-bull.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn dh.r.s.taketu"scekitaana.h}&dh.r|.s.ta|ke|tu"s|&dh.r.s.taketu.h\\
@@ -561,7 +561,7 @@ The main characters are:
   And strong Yudhaamanyu, and strong Uttamaujaa, the son of Subhadraa
   and the sons of Draupadii---all, really, (are) mighty-warriors.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yudhaamanyu"sca}&yu|dhaa|ma|nyu"s|&yudhaamanyu.h\\
@@ -652,7 +652,7 @@ The main characters are:
   Brahman-ultimate (O Dro.na)---leaders-of-the-soldier of me. The
   name-purpose (of the leaders)---I say those for you: \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn asmaaka.m}&a|smaa|ka.m&\asmaakam\\
@@ -758,7 +758,7 @@ The main characters are:
   group-victorious. A"svatthaamaa, and Vikar.na, and the son of
   Sumadatta, likewise, really (are).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhavaanbhii.sma"sca}&bha|vaan|&bhavaan = {\dn bhavaan} = you\\
@@ -775,9 +775,10 @@ The main characters are:
   &&&\note{\noun, \proper, \male}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn k.rpa"sca}&k.r|pa"s|&k.rpa.h\\
   &&&= {\dn k.rpa.h}\\
   &&&= K.rpa\\
@@ -792,10 +793,9 @@ The main characters are:
   &&&\note{from {\dn samiti.h} = samiti.h}\\
   &&&\\
   &&ja|ya\h{a}&\jayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn a"svatthaamaa}&a"s|vat|thaa|maa&A"svatthaamaa\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
@@ -857,7 +857,7 @@ The main characters are:
   abandoned-lives (and) many weapons. All (the warriors) (are)
   war-wise.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn anye}&a|nye&\anye\\
@@ -868,9 +868,10 @@ The main characters are:
   &&&\note{\adjective, \noun, \pronoun, \male}\\
   &&&\\
   &{\dn "suuraa}&"suu|raa&\zUrAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn madarthe}&ma|dar|&\me\\
   &&&\\
   &&the&\arthe\\
@@ -882,10 +883,9 @@ The main characters are:
   &&&\note{similar:}\\
   &&&\note{{\dn jiivatha.h} = jiivatha.h = breath; virtue; life}\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn naanaa"sastraprahara.naa.h}&naa|naa|&various; many\\
   &&&\note{\adjective}\\
   &&&\\
@@ -945,7 +945,7 @@ The main characters are:
   limited (is) this force of these (the Paa.n.davas), (which is)
   Bhiima-protected.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aparyaapta.m}&a|&\aprefix\\
@@ -958,9 +958,10 @@ The main characters are:
   &{\dn tadasmaaka.m}&ta|da|&\tat\\
   &&&\\
   &&smaa|ka.m&\asmaakam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bala.m}&ba|la.m&\balam\\
   &&&\\
   &{\dn bhii.smaabhirak.sitam}&bhii|.smaa|&bhii.sma.h\\
@@ -972,10 +973,9 @@ The main characters are:
   &&&= {\dn abhirak.sitam}\\
   &&&= guarded; protected; preserved\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn paryaapta.m}&par|yaap|ta.m&paryaaptam\\
   &&&= {\dn paryaaptam}\\
   &&&= enough; limited\\
@@ -1038,7 +1038,7 @@ The main characters are:
   At all main points---and, properly, part-steadfast---really, protect
   Bhii.sma, O you all, really, surely.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ayane.su}&a|ya|ne|.su&at/in/on the equinox and solstice points\\
@@ -1129,7 +1129,7 @@ The main characters are:
   grandfather (Bhii.sma) roars a lion sound loudly and blows a conch
   shell powerfully.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasya}&ta|sya&\tasya\\
@@ -1226,7 +1226,7 @@ The main characters are:
   copies of a kind of musical instrument---really, were struck, by using
   force. That sound was tumultuous.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
@@ -1241,9 +1241,10 @@ The main characters are:
   &&&\note{\noun, \male}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pa.navaanakagomukhaa.h}&pa|.na|vaa|&pa.navaa.h\\
   &&&= {\dn pa.navaa.h}\\
   &&&= small drums; small cymbals\\
@@ -1260,10 +1261,9 @@ The main characters are:
   &&&= plural of a kind of musical instrument\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn gomukha.h} = gomukha.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn sahasaivaabhyahanyanta}\\
   &&&\\
   &&sa|ha|sai|&sahasaa\\
@@ -1280,9 +1280,10 @@ The main characters are:
   &&&= (?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn hanyate} = hanyate = (he/she/it) is struck; is killed}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &\multicolumn{3}{l}{\dn "sabdastumulo.abhavat}\\
@@ -1298,6 +1299,9 @@ The main characters are:
   &&&\note{\verbb, \pasttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bhuu} = bhuu}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 14}
@@ -1334,7 +1338,7 @@ The main characters are:
   standing, \textkrsna\ and the Paa.n.dava (Arjuna) really blew two divine
   conch shells.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
@@ -1352,9 +1356,10 @@ The main characters are:
   &&&\note{from {\dn haya.h} = haya.h}\\
   &&&\\
   &&yuk|te&\yukte\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mahati}&ma|ha|ti&\mahati\\
   &&&\\
   &{\dn syandane}&syan|da|ne&at/in/on a/the flowing; chariot; coach\\
@@ -1364,10 +1369,9 @@ The main characters are:
   &{\dn sthitau}&sthi|tau&standing; staying; stopping; still\\
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn sthita.h} = sthita.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn maadhava.h}&maa|dha|va\h{a}&\textkrsna\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -1427,7 +1431,7 @@ The main characters are:
   Pau.n.dra (the conch shell of Bhiima), a mighty conch shell, (was
   blown) by Bhiima, the act-wolf-stomach (the man who ate a lot).\\
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn paa~ncajanya.m}&paa\~{}n|ca|ja|nya.m&paa\~{}ncajanyam\\
@@ -1438,9 +1442,10 @@ The main characters are:
   &&&\note{from {\dn paa~ncajanya.h} = paa\~{}ncajanya.h}\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&\hRSIkezaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn devadatta.m}&de|va|dat|ta.m&devadattam\\
   &&&= {\dn devadattam}\\
   &&&= Devadatta\\
@@ -1451,10 +1456,9 @@ The main characters are:
   &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
   &&&\\
   &&ja|ya\h{a}&\jayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pau.n.dra.m}&pau.n|.dra.m&pau.n.dram\\
   &&&= {\dn pau.n.dram}\\
   &&&= Pau.n.dra\\
@@ -1467,9 +1471,10 @@ The main characters are:
   &{\dn mahaa"sa"nkha.m}&ma|haa|&\mahaan\\
   &&&\\
   &&"sa"n|kha.m&\zaGkham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhiimakarmaa}&bhii|ma|&bhiima.h\\
   &&&= {\dn bhiima.h}\\
   &&&= Bhiima\\
@@ -1487,6 +1492,9 @@ The main characters are:
   &&&= stomach; abdomen; belly\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 16}
@@ -1523,7 +1531,7 @@ The main characters are:
   Yudhi.s.thira. Nakula and Sahadeva (blew) (the two conch shells)
   Sugho.sa and Ma.nipu.spaka.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn anantavijaya.m}&a|nan|ta|vi|ja|ya.m&anantavijayam\\
@@ -1612,7 +1620,7 @@ The main characters are:
 
   and Saatyaki (the charioteer of Lord \textkrsna), (who is) not-defeated;\dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaa"sya"sca}&kaa|"sya"s|&kaa"sya.h\\
@@ -1628,9 +1636,10 @@ The main characters are:
   &&&= {\dn i.svaasa.h}\\
   &&&= bow; archer; warrior\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "sikha.n.dii}&"si|kha.n|.dii&"Sikha.n.dii\\
   &&&\note{\noun, \proper, \male}\\
   &&&\\
@@ -1639,10 +1648,9 @@ The main characters are:
   &{\dn mahaaratha.h}&ma|haa|&\mahaan\\
   &&&\\
   &&ra|tha\h{a}&\rathaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn dh.r.s.tadyumno}&dh.r|.s.ta|dyum|no&dh.r.s.tadyumna.h\\
   &&&= {\dn dh.r.s.tadyumna.h}\\
   &&&= Dh.r.s.tadyumna\\
@@ -1709,7 +1717,7 @@ The main characters are:
   (\textdhrtaraastra)---and the son of Subhadraa, (who has a) mighty
   arm---(they) blew conch shells separately, separately [sic].
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn drupado}&dru|pa|do&drupada.h\\
@@ -1799,7 +1807,7 @@ The main characters are:
   \textdhrtaraastra, the sky, and the earth, and really (was) a
   resounding tumult.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sa}&sa&\saH\\
@@ -1812,9 +1820,10 @@ The main characters are:
   &{\dn dhaartaraa.s.traa.naa.m}&\multicolumn{2}{l}{dhaar|ta|raa|.s.traa|.naa.m}\\
   &&&\\
   &&&\dhArtarASTrANAm\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn h.rdayaani}&h.r|da|yaa|ni&hearts\\
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{from {\dn h.rdayam} = h.rdayam}\\
@@ -1825,10 +1834,9 @@ The main characters are:
   &&&\note{\singular, {\dn vyadadharati} = vyadadharati}\\
   &&&\note{= (he/she/it) divides; separates}\\
   &&&\note{root: {\dn vidh.r} = vidh.r}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nabha"sca}&na|bha"s|&nabha.h\\
   &&&= {\dn nabha.h}\\
   &&&= sky\\
@@ -1906,7 +1914,7 @@ The main characters are:
   bow. Then, (to) \textkrsna, (he) said this group of words, O
   mighty-master (O King \textdhrtaraastra): \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn atha}&a|tha&\atha\\
@@ -2020,7 +2028,7 @@ The main characters are:
   non-disappearing (one) (O \textkrsna), while (I) see these
   fight-desires-(soldiers), standing, \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
@@ -2103,7 +2111,7 @@ The main characters are:
 
   \dots by using what, by using me, to be fought with, in this war, in effort.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kairmayaa}&kair|&\kaiH\\
@@ -2169,7 +2177,7 @@ The main characters are:
   intelligence of the son (\textduryodhana) of \textdhrtaraastra, in a
   war (with) a pleasing wish.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yotsyamaanaanavek.se.aha.m}&\multicolumn{2}{l}{yot|sya|maa|naa|na|}\\
@@ -2278,7 +2286,7 @@ The main characters are:
   Bharata (O King \textdhrtaraastra), in the middle of the two armies.
   \textkrsna\ (was the listener), having stopped the chariot-ultimate.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
@@ -2292,16 +2300,17 @@ The main characters are:
   &&muk|to&\uktaH\\
   &&&\\
   &{\dn h.r.siike"so}&h.r|.sii|ke|"so&\hRSIkezaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
-  1b&{\dn gu.daake"sena}&gu|.daa|ke|"se|na&\guDAkezena\\
-  &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
+  &&&\\
+  1b&{\dn gu.daake"sena}&gu|.daa|ke|"se|na&\guDAkezena\\
+  &&&\\
+  &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn senayorubhayormadhye}&se|na|yo|&\senayoH\\
   &&&\\
   &&ru|bha|yor|&\ubhayoH\\
@@ -2350,7 +2359,7 @@ The main characters are:
   (\textkrsna) said, ``O son of P.rthaa (O Arjuna), see these joined
   Kurus.''
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhii.smadro.napramukhata.h}&bhii|.sma|&{\dn bhii.sma}\\
@@ -2436,7 +2445,7 @@ The main characters are:
   of sons, husbands of sisters of wives---likewise, fathers-in-law, and
   friends, really, in the two armies, also.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn tatraapa"syatsthitaanpaartha.h}}\\
@@ -2459,9 +2468,10 @@ The main characters are:
   &&&= son of P.rthaa\\
   &&&= Arjuna\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pit.Rnatha}&pi|t.rr|na|&pit.rrn\\
   &&&= {\dn pit.Rn}\\
   &&&= fathers\\
@@ -2471,10 +2481,9 @@ The main characters are:
   &&tha&\atha\\
   &&&\\
   &{\dn pitaamahaan}&pi|taa|ma|haan&\pitaamahaan\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn aacaaryaanmaatulaanbhraat.Rnputraanpautraansakhii.mstathaa}\\
   &&&\\
   &&aa|caar|yaan|&{\dn aacaaryaan}\\
@@ -2577,7 +2586,7 @@ The main characters are:
   relatives, standing. Filled by using paramount kindness, being sad,
   (he) (said?)  this: \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn taansamiik.sya}&taan|&\taan\\
@@ -2594,9 +2603,10 @@ The main characters are:
   &{\dn kaunteya.h}&kaun|te|ya\h{a}&son of Kuntii\\
   &&&= Arjuna\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{{\dn sarvaanbandhuunavasthitaan}}\\
   &&&\\
   &&sar|vaan|&\sarvaan\\
@@ -2608,10 +2618,9 @@ The main characters are:
   &&&\note{from {\dn bandhu.h} = bandhu.h}\\
   &&&\\
   &&va|sthi|taan&\avasthitaan\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn k.rpayaa}&k.r|pa|yaa&\kRpayA\\
   &&&\\
   &{\dn parayaavi.s.to}&pa|ra|yaa|&\parayaa\\
@@ -2672,7 +2681,7 @@ The main characters are:
   Having seen this family, O \textkrsna, \dots (?) \dots ready, the arms
   and legs of me sink, and the mouth (of me) parches.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
@@ -2692,18 +2701,18 @@ The main characters are:
   &&&\note{from {\dn svajana.h} = svajana.h}\\
   &&&\\
   &{\dn k.r.s.na}&k.r|.s.na&\kRSNa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yuyutsu.m}&yu|yut|su.m&yuyutsum\\
   &&&= {\dn yuyutsum}\\
   &&&= (?)\\
   &&&\\
   &{\dn samupasthitam}&sa|mu|pa|sthi|tam&\samupasthitam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn siidanti}&sii|dan|ti&(they) sink; sit; weaken\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sad} = sad}\\
@@ -2759,7 +2768,7 @@ The main characters are:
   (goose pimples) is being born. The bow (of me) slips from the hand (of
   me). And the skin (of me) really burns.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vepathu"sca}&ve|pa|thu"s|&vepathu.h\\
@@ -2854,7 +2863,7 @@ The main characters are:
   And (I) am not able to stand. And (it is) as if the mind (of me)
   wanders. And (I) see inverse reasons, O hair-full (O \textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -2954,7 +2963,7 @@ The main characters are:
   war. (I) wish (for) no victory, O \textkrsna, and no kingdom, and (no)
   (acts of) happiness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -2964,9 +2973,10 @@ The main characters are:
   &{\dn "sreyo.anupa"syaami}&"sre|yo|&\zreyaH\\
   &&&\\
   &&'nu|pa|"syaa|mi&\anupazyAmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn hatvaa}&ha|tvaa&\hatvaa\\
   &&&\\
   &{\dn svajanamaahave}&sva|ja|na|maa|&svajanam\\
@@ -2980,10 +2990,9 @@ The main characters are:
   &&&= at/in/on a/the war\\
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn aahavam} = aahavam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn kaa"nk.se}&kaa"n|k.se&(I) wish; wait for; desire\\
@@ -2997,9 +3006,10 @@ The main characters are:
   &&&\note{from {\dn vijaya.h} = vijaya.h}\\
   &&&\\
   &{\dn k.r.s.na}&k.r|.s.na&\kRSNa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -3010,6 +3020,9 @@ The main characters are:
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 32}
@@ -3049,7 +3062,7 @@ The main characters are:
   whom (is) a desire for us (for) a kingdom, (acts of) enjoyment, and
   (acts of) happiness?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ki.m}&ki.m&\kim\\
@@ -3059,9 +3072,10 @@ The main characters are:
   &{\dn raajyena}&raa|jye|na&\raajyena\\
   &&&\\
   &{\dn govinda}&go|vin|da&\govinda\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ki.m}&ki.m&\kim\\
   &&&\\
   &{\dn bhogairjiivitena}&bho|gair|&\bhogaiH\\
@@ -3072,10 +3086,9 @@ The main characters are:
   &&&\note{from {\dn jiivitam} = jiivitam}\\
   &&&\\
   &{\dn vaa}&vaa&\vaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ye.saamarthe}&ye|.saa|mar|&\yeSAm\\
   &&&\\
   &&the&\arthe\\
@@ -3087,9 +3100,10 @@ The main characters are:
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &{\dn no}&no&\naH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn raajya.m}&raa|jya.m&\raajyam\\
   &&&\\
   &{\dn bhogaa.h}&bho|gaa\h{aa}&\bhogAH\\
@@ -3098,6 +3112,9 @@ The main characters are:
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 33}
@@ -3130,7 +3147,7 @@ The main characters are:
   pieces of money---teachers, fathers (ancestors), sons, likewise,
   really, and paternal grandfathers.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ta}&ta&\te\\
@@ -3172,10 +3189,9 @@ The main characters are:
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn putra.h} = putra.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&&sta|thai|&\tathaa\\
   &&&\\
   &&va&\eva\\
@@ -3184,9 +3200,6 @@ The main characters are:
   &&&\\
   &{\dn pitaamahaa.h}&pi|taa|ma|haa\h{aa}&\pitAmahAH\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 34}
@@ -3226,7 +3239,7 @@ The main characters are:
   also---O Madhu-killing (O \textkrsna). (K.r.s.na had killed a demon
   named ``Madhu.'')
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maatulaa.h}&maa|tu|laa\h{aa}&(\vocativephrase) maternal uncles\\
@@ -3243,9 +3256,10 @@ The main characters are:
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn pautra.h} = pautra.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "syaalaa.h}&"syaa|laa\h{aa}&(\vocativephrase) brothers of wives\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{\nominativecase, \vocativecase}\\
@@ -3258,10 +3272,9 @@ The main characters are:
   &&&\note{from {\dn sambandhin} = sambandhin}\\
   &&&\\
   &&sta|thaa&\tathaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn etaanna}&e|taan|&\etaan\\
   &&&\\
   &&na&not\\
@@ -3323,7 +3336,7 @@ The main characters are:
   \textdhrtaraastra---what pleasure may it be for us, O man-disturbance
   (O \textkrsna)?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn api}&a|pi&\api\\
@@ -3337,9 +3350,10 @@ The main characters are:
   &&&\note{{\dn loka.h} = loka.h}\\
   &&&\\
   &&raa|jya|sya&\raajyasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn heto.h}&he|to\h{o}&(?) for the sake of\\
   &&&\note{\preposition}\\
   &&&\\
@@ -3357,10 +3371,9 @@ The main characters are:
   &&&\note{\noun, \neuter, \locativecase}\\
   &&&\note{from {\dn k.rtam} = k.rtam}\\
   &&&\note{\indeclinable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nihatya}&ni|ha|tya&(?)\\
   &&&\note{similar: \adjective, {\dn nihata} = nihata}\\
   &&&\note{= destroyed; killed; gone}\\
@@ -3370,9 +3383,10 @@ The main characters are:
   &&&\dhArtarASTrAn\\
   &&&\\
   &&na\h{a}&\naH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kaa}&kaa&\kaa\\
   &&&\\
   &{\dn priiti.h}&prii|ti\h{i}&pleasure; friendship\\
@@ -3384,6 +3398,9 @@ The main characters are:
   &&&\\
   &&da|na&\ardana\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 36}
@@ -3417,7 +3434,7 @@ The main characters are:
   \textdhrtaraastra\ \dots (?) \dots family. Surely, having killed, how
   happy may (we) be, O \textkrsna?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn paapamevaa"srayedasmaanhatvaitaanaatataayina.h}}\\
@@ -3434,9 +3451,10 @@ The main characters are:
   &&&\note{root: {\dn aa"sri} = aa"sri}\\
   &&&\\
   &&smaan|&\asmaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ha|tvai|&\hatvaa\\
   &&&\\
   &&taa|naa|&\etaan\\
@@ -3446,10 +3464,9 @@ The main characters are:
   &&&= warriors\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn aatataayin} = aatataayin}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tasmaannaarhaa}&ta|smaan|&\tasmaat\\
   &&&\\
   &&naar|&\na\\
@@ -3540,7 +3557,7 @@ The main characters are:
   end (as) an action (of) wickedness, and sin in a friend-rebellion
   \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yadyapyete}&ya|dya|&\yadi\\
@@ -3552,9 +3569,10 @@ The main characters are:
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn pa"syanti}&pa|"syan|ti&\pazyanti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn lobhopahatacetasa.h}&lo|bho|&lobha.h\\
   &&&= {\dn lobha.h}\\
   &&&= strong desire; greed\\
@@ -3566,10 +3584,9 @@ The main characters are:
   &&&\note{\adjective, \male}\\
   &&&\\
   &&ce|ta|sa\h{a}&\cetasaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kulak.sayak.rta.m}&ku|la|&\kulam\\
   &&&\\
   &&k.sa|ya|&k.saya.h\\
@@ -3588,9 +3605,10 @@ The main characters are:
   &&&= defect; wickedness\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn mitradrohe}&mi|tra|&mitram\\
   &&&= {\dn mitram}\\
   &&&= friend\\
@@ -3608,6 +3626,9 @@ The main characters are:
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 38}
@@ -3646,7 +3667,7 @@ The main characters are:
   clan-end (is) an action (of) wickedness. \dots intelligent (?) \dots,
   O man-disturbance (O \textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
@@ -3661,9 +3682,10 @@ The main characters are:
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&smaa|bhi\h{i}&\asmAbhiH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn paapaadasmaannivartitum}&paa|paa|da|&\paapaat\\
   &&&\\
   &&smaan|&asmaat\\
@@ -3676,10 +3698,9 @@ The main characters are:
   &&&= to stop; disappear; return\\
   &&&\note{\verbb, \infinitive}\\
   &&&\note{root: {\dn niv.rt} = niv.rt}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kulak.sayak.rta.m}&ku|la|&\kulam\\
   &&&\\
   &&k.sa|ya|&k.saya.h\\
@@ -3698,9 +3719,10 @@ The main characters are:
   &&&= defect; wickedness\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn prapa"syadbhirjanaardana}&pra|pa|"syad|bhir|&prapa"syadbhi.h\\
   &&&= {\dn prapa"syadbhi.h}\\
   &&&= (?)\\
@@ -3711,6 +3733,9 @@ The main characters are:
   &&&\\
   &&da|na&\ardana\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 39}
@@ -3742,7 +3767,7 @@ The main characters are:
   At a clan-end, the ancient clan-acts-of-virtue perish. And at a
   destroyed act of virtue, a non-act-of-virtue overcomes all the clan.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kulak.saye}&ku|la|&\kulam\\
@@ -3842,7 +3867,7 @@ The main characters are:
   \textkrsna), a color-mixture is born. (A ``color mixture'' is a child
   of parents of mixed castes, and is viewed as a bad person.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{{\dn adharmaabhibhavaatk.r.s.na}}\\
@@ -3858,9 +3883,10 @@ The main characters are:
   &&&\note{from {\dn abhibhava.h} = abhibhava.h}\\
   &&&\\
   &&k.r|.s.na&\kRSNa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pradu.syanti}&pra|du|.syan|ti&(they) become defiled; fall; worsen\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pradu.s} = pradu.s}\\
@@ -3870,10 +3896,9 @@ The main characters are:
   &&stri|ya\h{a}&(?) women\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn strii} = strii}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn strii.su}&strii|.su&at/in/on a/the women\\
   &&&\note{\noun, \female, \plural, \locativecase}\\
   &&&\note{from {\dn strii} = strii}\\
@@ -3940,7 +3965,7 @@ The main characters are:
   lost-food-water-actions (that is, the mixtures do not offer food or
   water to their ancestors).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sa"nkaro}&sa"n|ka|ro&sa"nkara.h\\
@@ -3957,9 +3982,10 @@ The main characters are:
   &&&\note{root: {\dn narakaaya} = narakaaya}\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kulaghnaanaa.m}&ku|la|&\kulam\\
   &&&\\
   &&ghnaa|naa.m&ghnaanaam\\
@@ -3971,10 +3997,9 @@ The main characters are:
   &{\dn kulasya}&ku|la|sya&\kulasya\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn patanti}&pa|tan|ti&(they) fall; sink\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn pat} = pat}\\
@@ -3991,9 +4016,10 @@ The main characters are:
   &&.saa.m&e.saam\\
   &&&= {\dn e.saam}\\
   &&&= (?) \eteSAm\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn luptapi.n.dodakakriyaa.h}\\
   &&&\\
   &&lup|ta|&lost; robbed; broken; hurt\\
@@ -4015,6 +4041,9 @@ The main characters are:
   &&&\note{\nominativecase, \accusativecase, \vocativecase}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 42}
@@ -4054,7 +4083,7 @@ The main characters are:
   ``color mixture'' is a child of parents of mixed castes, and is viewed
   as a bad person.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn do.sairetai.h}&do|.sai|&do.sai.h\\
@@ -4072,9 +4101,10 @@ The main characters are:
   &&&= of killers\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn ghna.h} = ghna.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{{\dn var.nasa"nkarakaarakai.h}}\\
   &&&\\
   &&var|.na|&var.na.h\\
@@ -4090,10 +4120,9 @@ The main characters are:
   &&kaa|ra|kai\h{i}&by using things acting; working; doing\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn kaaraka.h} = kaaraka.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn utsaadyante}&ut|saa|dyan|te&(?)\\
   &&&\note{similar:}\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
@@ -4159,7 +4188,7 @@ The main characters are:
   \textkrsna)---in hell, definitely, the dwelling is, thus \dots (?)
   \dots.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn utsannakuladharmaa.naa.m}\\
@@ -4171,9 +4200,10 @@ The main characters are:
   &&ku|la|&\kulam\\
   &&&\\
   &&dhar|maa|.naa.m&\dharmANAm\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn manu.syaa.naa.m}&ma|nu|.syaa|.naa.m&manu.syaa.naam\\
   &&&= {\dn manu.syaa.naam}\\
   &&&= of husbands; humans; men\\
@@ -4183,10 +4213,9 @@ The main characters are:
   &{\dn janaardana}&ja|naar|&\janaH\\
   &&&\\
   &&da|na&\ardana\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn narake}&na|ra|ke&\narake\\
   &&&\\
   &{\dn niyata.m}&ni|ya|ta.m&\niyatam\\
@@ -4244,7 +4273,7 @@ The main characters are:
   kingdom---happily, by using a strong desire, (we are) ready to kill a
   family.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aho}&a|ho&ah!\\
@@ -4256,9 +4285,10 @@ The main characters are:
   &{\dn mahatpaapa.m}&ma|hat|&\mahat\\
   &&&\\
   &&paa|pa.m&\paapam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kartu.m}&kar|tu.m&\kartum\\
   &&&\\
   &{\dn vyavasitaa}&vya|va|si|taa&vyavasitaa.h\\
@@ -4269,10 +4299,9 @@ The main characters are:
   &&&\note{from {\dn vyavasita.h} = vyavasita.h}\\
   &&&\\
   &{\dn vayam}&va|yam&\vayam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yadraajyasukhalobhena}&ya|draa|&\yat\\
   &&&\\
   &&jya|&\raajyam\\
@@ -4283,9 +4312,10 @@ The main characters are:
   &&&= by using strong desire; greed; confusion\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn lobha.h} = lobha.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn hantu.m}&han|tu.m&\hantum\\
   &&&\\
   &{\dn svajanamudyataa.h}&sva|ja|na|mu|&svajanam\\
@@ -4301,6 +4331,9 @@ The main characters are:
   &&&\note{\nominativecase, \vocativecase}\\
   &&&\note{from {\dn udyata.h} = udyata.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 1, Verse 45}
@@ -4327,7 +4360,7 @@ The main characters are:
   (kill) me, (with) no remedy (and) (with) no weapon, on the
   battlefield---that, for me, (is) more comfortable.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yadi}&ya|di&\yadi\\
@@ -4436,15 +4469,16 @@ The main characters are:
   the chariot middle part, (enters), let(ting) go (of) an arrow and
   bow---sorrow(ful), terrified, mental(ly).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn evamuktvaarjuna.h}&e|va|mukt|&\evam\\
   &&&\\
   &&vaar|&\uktvaa\\
@@ -4468,10 +4502,9 @@ The main characters are:
   &{\dn upaavi"sat}&u|paa|vi|"sat&(?) upaavi"sati = {\dn upaavi"sati} = (he/she/it) enters\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn upaavi"s} = upaavi"s}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vis.rjya}&vi|s.r|jya&sent out; let go; brought about\\
   &&&\note{\adjective}\\
   &&&\\
@@ -4486,9 +4519,10 @@ The main characters are:
   &&&= arc; Sagittarius; bow (in archery)\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn caapa.h} = caapa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "sokasa.mvignamaanasa.h}&"so|ka|&\zokaH\\
   &&&\\
   &&sa.m|vig|na|&{\dn sa.mvigna}\\
