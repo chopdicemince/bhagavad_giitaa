@@ -42,7 +42,7 @@
   O \textkrsna, you say renunciation of actions again, and union. Which
   one in these two---confidence---that is for me---say, definitely.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
@@ -60,9 +60,10 @@
   &{\dn karma.naa.m}&kar|ma|.naa.m&\karmaNAm\\
   &&&\\
   &{\dn k.r.s.na}&k.r.s|.na&\kRSNa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn punaryoga.m}&pu|nar|&\punaH\\
   &&&\\
   &&yo|ga.m&\yogam\\
@@ -72,10 +73,9 @@
   &{\dn "sa.msasi}&"sa.m|sa|si&(you) say; predict; praise; revile\\
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn "sa.ms} = "sa.ms}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yacchreya}&yac|&\yat\\
   &&&\\
   &&chre|ya&\zreyaH\\
@@ -89,9 +89,10 @@
   &&&\note{from {\dn e.sa.h} = e.sa.h}\\
   &&&\\
   &&ka.m&\ekam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tanme}&tan|&\tat\\
   &&&\\
   &&me&\me\\
@@ -105,6 +106,9 @@
   &{\dn suni"scitam}&su|ni"s|ci|tam&definitely\\
   &&&\note{\adverb}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 2}
@@ -143,7 +147,7 @@
   both. But, of those two---from action-renunciation, action-union is
   better.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -151,9 +155,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn sannyaasa.h}&san|nyaa|sa\h{a}&renunciation; abandonment; asceticism\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -162,10 +167,9 @@
   &&yo|ga"s|&\yogaH\\
   &&&\\
   &&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn ni.h"sreyasakaraavubhau}&ni.h|"sre|ya|sa|&ni.h"sreyasam\\
   &&&= {\dn ni.h"sreyasam}\\
   &&&= supreme happiness\\
@@ -251,7 +255,7 @@
   desire---indifferent to two things, surely, O great-arm (O
   Arjuna). Happily---from bondage, he is free.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~neya.h}&j\~{}ne|ya\h{a}&to be known\\
@@ -264,9 +268,10 @@
   &&san|nyaa|sii&{\dn sannyaasii}\\
   &&&= renouncer\\
   &&&\note{\noun, \male?}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yo}&yo&ya.h = (?) one/who/which\\
   &&&\note{\pronoun, \male}\\
   &&&\\
@@ -279,10 +284,9 @@
   &{\dn kaa"nk.sati}&kaa"nk|.sa|ti&(he/she/it) wishes; expects; desires\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn kaa"nk.s} = kaa"nk.s}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn nirdvandvo}&nir|dvan|dvo&nirdvandva.h\\
   &&&= {\dn nirdvandva.h}\\
   &&&= indifferent to two things\\
@@ -339,7 +343,7 @@
   different. Also, one (who is) existing properly in two things gets
   fruit.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn saa"nkhyayogau}&saa"n|khya|&saa"nkyaa\\
@@ -435,7 +439,7 @@
   using unions. And one who sees a thing of philosophy and a union as
   one thing---he sees.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yatsaa"nkhyai.h}&yat|&\yat\\
@@ -449,9 +453,10 @@
   &&&\note{root: {\dn praap} = praap}\\
   &&&\\
   &{\dn sthaana.m}&sthaa|na.m&\sthaanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn tadyogairapi}&ta|dyo|&\tat\\
   &&&\\
   &&gai|ra|&yogai.h\\
@@ -465,10 +470,9 @@
   &{\dn gamyate}&ga|mya|te&(?) (he/she/it) is gone; is caused to go\\
   &&&\note{\verbb, (?)}\\
   &&&\note{root: {\dn gam} = gam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn eka.m}&e|ka.m&\ekam\\
   &&&\\
   &{\dn saa"nkhya.m}&saa"n|khya.m&saa"nkhyam\\
@@ -481,9 +485,10 @@
   &{\dn yoga.m}&yo|ga.m&\yogam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% -----------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ya.h}&ya\h{a}&\yaH\\
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
@@ -492,6 +497,9 @@
   &&&\\
   &{\dn pa"syati}&pa|"sya|ti&\pazyati\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 6}
@@ -529,7 +537,7 @@
   But renunciation, O great-arm (O Arjuna), is non-action, to get
   grief. A union-joined a sage, using no delay, gets God.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sannyaasastu}&san|nyaa|sa|&sannyaasa.h\\
@@ -542,9 +550,10 @@
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn du.hkhamaaptumayogata.h}&du.h|kha|maap|&\duHkham\\
   &&&\\
   &&tu|ma|&aaptum\\
@@ -561,10 +570,9 @@
   &&&\note{similar:}\\
   &&&\note{{\dn yoga.h} = yoga.h = yogaH}\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yogayukto}&yo|ga|&\yogaH\\
   &&&\\
   &&yuk|to&\yuktaH\\
@@ -623,7 +631,7 @@
   possesses) conquered sense. \dots (?) Each being, self, being, self
   (?) \dots Doing (action), also, he does not stick (to bad things).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yogayukto}&yo|ga|&\yogaH\\
@@ -636,9 +644,10 @@
   &&&\note{\adjective}\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vijitaatmaa}&vi|ji|taat|&vijita\\
   &&&= {\dn vijita}\\
   &&&= subdued; conquered\\
@@ -654,10 +663,9 @@
   &&dri|ya\h{a}&indriya.h\\
   &&&= {\dn indriya.h}\\
   &&&= (?) \indriyam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarvabhuutaatmabhuutaatmaa}&sar|va|&{\dn sarva}\\
   &&&= \sarva\\
   &&&\notesarva\\
@@ -669,9 +677,10 @@
   &&bhuu|taat|&\bhuutam\\
   &&&\\
   &&maa&\aatmaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn kurvannapi}&kur|van|&\kurvan\\
   &&&\\
   &&na|pi&\api\\
@@ -680,6 +689,9 @@
   &&&\\
   &{\dn lipyate}&li|pya|te&\lipyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 8}
@@ -712,7 +724,7 @@
   truth-knowing.  Seeing, hearing, touching, smelling, eating, going,
   sleeping, breathing, \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naiva}&nai|&\na\\
@@ -728,9 +740,10 @@
   &&&\note{root: {\dn k.r} = k.r}\\
   &&&\\
   &&ti&\iti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yukto}&yuk|to&\yuktaH\\
   &&&\\
   &{\dn manyeta}&man|ye|ta&(he/she/it) thinks\\
@@ -743,10 +756,9 @@
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn vid} = vid}\\
   &&&\note{= knowing; getting; understanding}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{2}{l}{\dn pa"sya~n"s.r.nvansp.r"sa~njighranna"snangacchansvapan"svasan}\\
   &&&\\
   &&pa|"sya\~{}n&\pazyan\\
@@ -766,9 +778,10 @@
   &&&= smelling\\
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: {\dn ghraa} = ghraa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&na"s|nan|&a"snan\\
   &&&= {\dn a"snan}\\
   &&&= eating\\
@@ -790,6 +803,9 @@
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: {\dn "svas} = "svas}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 9}
@@ -821,7 +837,7 @@
   \dots talking, renouncing, getting, opening the eyes, closing the
   eyes, also---senses---they are undergoing in sense-meanings.''
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn pralapanvis.rjang.rh.nannunmi.sannimi.sannapi}\\
@@ -840,9 +856,10 @@
   &&&= getting\\
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: {\dn grah} = grah}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&nun|mi|.san|&unmi.san\\
   &&&= {\dn unmi.san}\\
   &&&= shining; opening the eyes\\
@@ -855,10 +872,9 @@
   &&&\note{root: {\dn nimi.s} = nimi.s}\\
   &&&\\
   &&na|pi&\api\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn indriyaa.niindriyaarthe.su}&in|dri|yaa|.niin|&\indriyANi\\
   &&&\\
   &&dri|yaar|&\indriyam\\
@@ -917,7 +933,7 @@
   attached using sin (is not attached to sin), as a lotus leaf using
   water (as a lotus leaf is not attached to water).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn brahma.nyaadhaaya}&brah|ma|.nyaa|&brahma.ni\\
@@ -932,9 +948,10 @@
   &&&\note{part of speech (?)}\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sa"nga.m}&sa"n|ga.m&\saGgam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
@@ -942,10 +959,9 @@
   &{\dn karoti}&ka|ro|ti&\karoti\\
   &&&\\
   &{\dn ya.h}&ya\h{a}&\yaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn lipyate}&li|pya|te&\lipyate\\
   &&&\\
   &{\dn na}&na&\na\\
@@ -953,9 +969,10 @@
   &{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn paapena}&paa|pe|na&\paapena\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn padmapatramivaambhasaa}&pad|ma|&padma.h\\
   &&&= {\dn padma.h}\\
   &&&= lotus\\
@@ -974,6 +991,9 @@
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn ambhas} = ambhas}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 11}
@@ -1012,7 +1032,7 @@
   using senses, also, followers do action, having abandoned attachment,
   (with) soul-purity.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaayena}&kaa|ye|na&by using a/the body\\
@@ -1022,9 +1042,10 @@
   &{\dn manasaa}&ma|na|saa&\manasaa\\
   &&&\\
   &{\dn buddhyaa}&bud|dhyaa&\buddhyaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kevalairindriyairapi}&ke|va|lai|rin|&kevalai.h\\
   &&&= {\dn kevalai.h}\\
   &&&= by using things pure; alone; complete\\
@@ -1034,10 +1055,9 @@
   &&dri|yai|ra|&\indriyaiH\\
   &&&\\
   &&pi&\api\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yogina.h}&yo|gi|na\h{a}&\yoginaH\\
   &&&\\
   &{\dn karma}&kar|ma&\karma\\
@@ -1097,7 +1117,7 @@
   gets perfect peace. A (person of) non-union, using desire-action,
   attached to fruit (results), is bound.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
@@ -1107,9 +1127,10 @@
   &&pha|la.m&\phalam\\
   &&&\\
   &{\dn tyaktvaa}&tyakt|vaa&\tyaktvaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "saantimaapnoti}&"saan|ti|maap|&\zAntim\\
   &&&\\
   &&no|ti&\aapnoti\\
@@ -1117,10 +1138,9 @@
   &{\dn nai.s.thikiim}&nai.s|.thi|kiim&fixed; constant; complete; perfect\\
   &&&\note{\adjective, \female, \accusativecase}\\
   &&&\note{from {\dn nai.s.thikii} = nai.s.thikii}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ayukta.h}&a|&\aprefix\\
   &&&\\
   &&yuk|ta\h{a}&\yuktaH\\
@@ -1187,7 +1207,7 @@
   with its nine openings: two ears, two eyes, two nostrils, one mouth,
   one anus, and one penis opening.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvakarmaa.ni}&sar|va|&{\dn sarva}\\
@@ -1287,7 +1307,7 @@
   not produce being a doer, nor actions, nor
   action-fruit-combination. But nature starts (these things).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -1300,9 +1320,10 @@
   &{\dn na}&na&\na\\
   &&&\\
   &{\dn karmaa.ni}&kar|maa|.ni&\karmANi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn lokasya}&lo|ka|sya&of a/the world; human race; place\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn loka.h} = loka.h}\\
@@ -1313,10 +1334,9 @@
   &&&\\
   &{\dn prabhu.h}&pra|bhu\h{u}&ruler; king; leader\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn na}&na&\na\\
   &&&\\
   &{\dn karmaphalasa.myoga.m}&kar|ma|&\karma\\
@@ -1380,7 +1400,7 @@
   anyone. Beings are confused by that (situation), using
   non-knowledge---covered knowledge.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naadatte}&naa|&\na\\
@@ -1396,9 +1416,10 @@
   &&&\note{= of whom (whose); of what}\\
   &&&\\
   &&paa|pa.m&\paapam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn caiva}&cai|&\ca\\
@@ -1414,10 +1435,9 @@
   &&&\\
   &{\dn vibhu.h}&vi|bhu\h{u}&lord; ruler\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aj~naanenaav.rta.m}&a|&\aprefix\\
   &&&\\
   &&j\~{}naa|ne|naa|&\jJAnena\\
@@ -1481,7 +1501,7 @@
   destroyed. The sun-like knowledge of those illuminates that greatest
   one (God).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn j~naanena}&j\~{}naa|ne|na&\jJAnena\\
@@ -1564,7 +1584,7 @@
   devoted people---they go again, in a cycle, to knowledge, deprived of
   stains.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn tad buddhayastadaatmaanastanni.s.thaastatparaaya.naa.h}\\
@@ -1608,10 +1628,9 @@
   &&&= return; cycle; repetition\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn aav.rtti.h} = aav.rtti.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn j~naananirdhuutakalma.saa.h}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&nir|dhuu|ta|&{\dn nirdhuuta}\\
@@ -1623,9 +1642,6 @@
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn kalma.sa.h} = kalma.sa.h}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 18}
@@ -1664,7 +1680,7 @@
   (impartial) at a Brahman, (at) a cow, (at) a female elephant, (at) a
   female dog, and really, at a dog-eater (an outcast).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vidyaavinayasampanne}&vi|dyaa|&{\dn vidyaa}\\
@@ -1761,7 +1777,7 @@
   (such a person) is without defect and equal (to) God. Therefore, they
   are standing (with) God.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ihaiva}&i|hai|&\iha\\
@@ -1862,7 +1878,7 @@
   fear attainable non-pleasure. (He has a) stable-mind, (is) not
   foolish, (is) God-knowing, (and is) standing (with) God.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -1964,7 +1980,7 @@
   happiness in the self. That self is God-union-yoked. The person gets
   non-decaying happiness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn baahyaspar"se.svasaktaatmaa}&baa|hya|&{\dn baahya} = external; outdoor\\
@@ -2067,7 +2083,7 @@
   (from) a womb. Really, those (pleasures have) a start and end, O son
   of Kuntii (O Arjuna). A wise man does not enjoy (in) them.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
@@ -2164,7 +2180,7 @@
   abandonment, (and from) sexual love, and anger born of speed. He is
   joined. He is a happy man.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "saknotiihaiva}&"sak|no|tii|&"saknoti\\
@@ -2183,9 +2199,10 @@
   &&&= {\dn so.dhum}\\
   &&&= to endure\\
   &&&\note{\verbb, \infinitive}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn praak"sariiravimok.sa.naat}&praak|&{\dn praak}\\
   &&&= long ago\\
   &&&\note{\adverb, \indeclinable}\\
@@ -2196,10 +2213,9 @@
   &&&= from abandonment; liberation\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{from {\dn vimok.sa.nam} = vimok.sa.nam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kaamakrodhodbhava.m}&kaa|ma|&\kAmaH\\
   &&&\\
   &&kro|dho|&\krodhaH\\
@@ -2214,9 +2230,10 @@
   &&&= speed; agitation; force\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn vega.h} = vega.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn yukta.h}&yuk|ta\h{a}&\yuktaH\\
@@ -2227,6 +2244,9 @@
   &&&\\
   &{\dn nara.h}&na|ra\h{a}&\naraH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 24}
@@ -2259,7 +2279,7 @@
   (who has) inside-brightness, really---he (is an) ascetic, a God-being,
   (who) gets God-ultimate-happiness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yo.anta.hsukho.antaraaraamastathaantarjyotireva}\\
@@ -2351,7 +2371,7 @@
   wickedness), cut into two, controlled in the self, and enjoying in the
   benefit of each being.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn labhante}&la|bhan|te&\labhante\\
@@ -2447,7 +2467,7 @@
   minds---in the near future, God-ultimate-happiness is of the
   known-selves.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kaamakrodhavimuktaanaa.m}&kaa|ma|&\kAmaH\\
@@ -2455,9 +2475,10 @@
   &&kro|dha|&\krodhaH\\
   &&&\\
   &&vi|muk|taa|naa.m&\vimuktaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yatiinaa.m}&ya|tii|naa.m&yatiinaam\\
   &&&= {\dn yatiinaam}\\
   &&&= of sages; ascetics; devotees\\
@@ -2469,10 +2490,9 @@
   &&&\note{\adjective}\\
   &&&\\
   &&ce|ta|saam&\cetasaam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn abhito}&a|bhi|to&abhita.h\\
   &&&= {\dn abhita.h}\\
   &&&= near; on all sides\\
@@ -2530,7 +2550,7 @@
   brows---having done the same exhalation and inhalation, moving the
   inside nose, \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn spar"saank.rtvaa}&spar|"saan|&{\dn spar"saan}\\
@@ -2548,9 +2568,10 @@
   &&&= outside; outer; external\\
   &&&\note{\adjective, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn baahya.h} = baahya.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&cak|.su"s|&cak.su.h = {\dn cak.su.h} = eye\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -2568,10 +2589,9 @@
   &&&\note{\noun, \female, \dual,}\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn bhru.h} = bhru.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn praa.naapaanau}&praa|.naa|&\prANAH\\
   &&&\\
   &&paa|nau&apaanau\\
@@ -2585,9 +2605,10 @@
   &&&\note{from {\dn sama.h} = sama.h}\\
   &&&\\
   &{\dn k.rtvaa}&kr.t|vaa&\kRtvA\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naasaabhyantaracaari.nau}&naa|saa|&{\dn naasa}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn nasa.h} = nasa.h}\\
@@ -2603,6 +2624,9 @@
   &&&\note{\adjective, \male, \dual}\\
   &&&\note{from {\dn caarin} = caarin}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 5, Verse 28}
@@ -2635,7 +2659,7 @@
   freeing as the goal, (with) gone want, fear, and anger. One always is
   freed, really---he.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yatendriyamanobuddhirmunirmok.saparaaya.na.h}\\
@@ -2650,19 +2674,18 @@
   &&no|&\manaH\\
   &&&\\
   &&bud|dhir|&\buddhiH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&mu|nir|&\muniH\\
   &&&\\
   &&mok|.sa|&\mokSaH\\
   &&&\\
   &&pa|raa|ya|.na\h{a}&being the goal\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
   2a&{\dn vigatecchaabhayakrodho}&vi|ga|tec|&vigata\\
   &&&= {\dn vigata}\\
   &&&= gone; dead\\
@@ -2726,7 +2749,7 @@
   each-world-great-leader, a friend of all beings---having known me, a
   person gets peace.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhoktaara.m}&bhok|taa|ra.m&(?)\\
@@ -2740,9 +2763,10 @@
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn taapasa.h} = taapasa.h}\\
   &&&\note{= ascetic}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sarvalokamahe"svaram}&sar|va|&\sarvaH\\
   &&&\\
   &&lo|ka|&\lokaH\\
@@ -2750,10 +2774,9 @@
   &&ma|he"s|&\mahaan\\
   &&&\\
   &&va|ram&\Izvaram\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn suh.rda.m}&su|h.r|da.m&suh.rdam\\
   &&&= {\dn suh.rdam}\\
   &&&= friend\\
