@@ -43,7 +43,7 @@
   of knowledge---which, having known (it), all monks from here (have)
   gone (to) paramount success.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -51,27 +51,28 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn bhuuya.h}&bhuu|ya\h{a}&again\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &{\dn pravak.syaami}&pra|va|k.syaa|mi&\pravakSyAmi\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn j~naanaanaa.m}&j\~{}naa|naa|naa.m&\jJAnAnAm\\
   &&&\\
   &{\dn j~naanamuttamam}&j\~{}naa|na|mut|&\jJAnam\\
   &&&\\
   &&ta|mam&\uttamam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn yajj~naatvaa}&yaj|&\yat\\
   &&&\\
   &&j\~{}naa|tvaa&\jJAtvA\\
@@ -81,10 +82,9 @@
   &&&\note{from {\dn muni.h} = muni.h}\\
   &&&\\
   &{\dn sarve}&sar|ve&\sarve\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn paraa.m}&pa|raa.m&\paraam\\
   &&&\\
   &{\dn siddhimito}&sid|dhi|mi|&\siddhim\\
@@ -135,7 +135,7 @@
   creation. Also, (people who know this knowledge) are not born in
   pulverization, and (they) are not afraid.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ida.m}&i|da.m&\idam\\
@@ -147,9 +147,10 @@
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn upaa"srita} = upaa"srita}\\
   &&&\note{= leaning on; lying on; taking refuge in}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn saadharmyamaagataa.h}&saa|dhar|mya|maa|&saadharmyam\\
@@ -158,10 +159,9 @@
   &&&\note{\noun, \neuter}\\
   &&&\\
   &&ga|taa\h{aa}&\AgatAH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarge.api}&sar|ge|&{\dn sarge}\\
   &&&= at/in/on a/the behavior; creation; living thing\\
   &&&\note{\noun, \male, \locativecase}\\
@@ -226,7 +226,7 @@
   I put the fetus, the origin of me, in him, the great God. The joining
   of all beings is from there, O descendant of Bharata (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mama}&ma|ma&\mama\\
@@ -269,19 +269,15 @@
   &&&\notesarva\\
   &&&\\
   &&bhuu|taa|naa.m&\bhuutaanaam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 4}
@@ -313,7 +309,7 @@
   In all origins, O son of Kuntii (O Arjuna), forms are born---which, of
   those---God-great-origin---I (am) the seed-giving father.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvayoni.su}&sar|va|&{\dn sarva}\\
@@ -401,7 +397,7 @@
   primal-form-joinings (occur), the (strings) restrain the
   non-perishable being in the body, O great-arm (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sattva.m}&sat|tva.m&\sattvam\\
@@ -431,10 +427,9 @@
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn dehe}&de|he&\dehe\\
   &&&\\
   &{\dn dehinamavyayam}&de|hi|na|ma|&\dehinam\\
@@ -443,9 +438,6 @@
   &&&\\
   &&vya|yam&\vyayam\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 6}
@@ -478,7 +470,7 @@
   (and) happiness, using sticking---and knowledge, using sticking---O
   non-sin (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tatra}&ta|tra&\tatra\\
@@ -493,9 +485,10 @@
   &&&= from dirtiness\\
   &&&\note{\noun, \neuter, \ablativecase}\\
   &&&\note{from {\dn malatvam} = malatvam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&pra|kaa|"sa|ka|ma|&prakaa"sakam\\
   &&&= {\dn prakaa"sakam}\\
   &&&= shining; showing; bright\\
@@ -508,10 +501,9 @@
   &&&= sickness; disease\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn aamaya.h} = aamaya.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sukhasa"ngena}&su|kha|&\sukham\\
   &&&\\
   &&sa"n|ge|na&\saGgena\\
@@ -519,9 +511,10 @@
   &{\dn badhnaati}&badh|naa|ti&(he/she/it) binds\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn bandh} = bandh}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naanasa"ngena}&j\~{}naa|na|&\jJAnam\\
   &&&\\
   &&sa"n|ge|na&\saGgena\\
@@ -536,6 +529,9 @@
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn agham} = agham}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 7}
@@ -574,7 +570,7 @@
   birth. It binds a being---O son of Kuntii (O Arjuna)---using
   action-sticking.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn rajo}&ra|jo&\rajas\\
@@ -587,9 +583,10 @@
   &&&\note{\adjective, \neuter}\\
   &&&\\
   &{\dn viddhi}&vid|dhi&\viddhiH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn t.r.s.naasa"ngasamudbhavam}\\
   &&&\\
   &&t.r|.s.naa|&{\dn t.r.s.naa}\\
@@ -602,10 +599,9 @@
   &&&= source; birth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn samudbhava.h} = samudbhava.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tannibadhnaati}&tan|&\tat\\
   &&&\\
   &&ni|badh|naa|ti&\nibadhnaati\\
@@ -652,7 +648,7 @@
   all beings. It binds, using (occurrences of) carelessness, laziness,
   (and) sleep, O descendant of Bharata (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tamastvaj~naanaja.m}&ta|ma|&\tamas\\
@@ -700,19 +696,15 @@
   &&&= by using (occurrences of) sleep; sleepiness\\
   &&&\note{\noun, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn nidraa} = nidraa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&&stan|&\tat\\
   &&&\\
   &&ni|badh|naa|ti&\nibadhnaati\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 9}
@@ -751,7 +743,7 @@
   of Bharata (O Arjuna), but ignorance---knowledge-cover(ing)---sticks
   in madness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sattva.m}&sat|tva.m&\sattvam\\
@@ -759,18 +751,18 @@
   &{\dn sukhe}&su|khe&\sukhe\\
   &&&\\
   &{\dn sa~njayati}&sa\~{}n|ja|ya|ti&\saJjayati\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn raja.h}&ra|ja\h{a}&\rajas\\
   &&&\\
   &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naanamaav.rtya}&j\~{}naa|na|maa|&\jJAnam\\
   &&&\\
   &&v.r|tya&aav.rtya\\
@@ -832,7 +824,7 @@
   sometimes superiority), really. Ignorance (and) goodness---passion (is
   sometimes superiority), thus.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn rajastama"scaabhibhuuya}\\
@@ -847,18 +839,18 @@
   &&&= {\dn abhibhuuyam}\\
   &&&= superiority\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sattva.m}&sat|tva.m&\sattvam\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn raja.h}&ra|ja\h{a}&\rajas\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&\sattvam\\
@@ -868,9 +860,10 @@
   &&cai|&\ca\\
   &&&\\
   &&va&\eva\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tama.h}&ta|ma\h{a}&\tamas\\
   &&&\\
   &{\dn sattva.m}&sat|tva.m&\sattvam\\
@@ -879,6 +872,9 @@
   &&&\\
   &&thaa&\tathaa\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 11}
@@ -904,7 +900,7 @@
   At all doors on this body, brightness is knowledge---when (this
   situation happens), then goodness is from getting powerful, thus.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvadvaare.su}&sar|va|&{\dn sarva}\\
@@ -992,7 +988,7 @@
   Strong-desire behavior beginning---action, non-peace, desire,
   passion---these are born in abundan(ce), O Bharata-bull (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn lobha.h}&lo|bha\h{a}&strong desire; greed\\
@@ -1007,9 +1003,10 @@
   &&&= {\dn aarambha.h}\\
   &&&= beginning; undertaking\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn karma.naama"sama.h}&kar|ma|.naa|ma|&\karmaNAm\\
   &&&\\
   &&|&\aprefix\\
@@ -1018,10 +1015,9 @@
   &&&\\
   &{\dn sp.rhaa}&sp.r|haa&desire; wish\\
   &&&\note{\noun, \female}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn rajasyetaani}&ra|ja|sye|&\rajasi\\
   &&&\\
   &&taa|ni&\etaani\\
@@ -1082,7 +1078,7 @@
   Non-light, non-behavior, madness, and confusion, really, and
   ignorance---these are born in abundan(ce), O Kuru-son (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aprakaa"so.aprav.rtti"sca}\\
@@ -1102,9 +1098,10 @@
   &&&\note{\noun, \female}\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pramaado}&pra|maa|do&pramaada.h\\
   &&&= {\dn pramaada.h}\\
   &&&= carelessness; madness; mistake\\
@@ -1118,10 +1115,9 @@
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tamasyetaani}&ta|ma|sye|&\tamasi\\
   &&&\\
   &&taa|ni&\etaani\\
@@ -1173,7 +1169,7 @@
   pulverization, then (he) attains ultimate (pieces of) knowledge (and)
   non-dirtiness worlds.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yadaa}&ya|daa&k\yadaa\\
@@ -1185,9 +1181,10 @@
   &&&\note{from {\dn prav.rddham} = prav.rddham}\\
   &&&\\
   &{\dn tu}&tu&\tu\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn pralaya.m}&pra|la|ya.m&pralayam\\
   &&&= {\dn pralayam}\\
   &&&= pulverization\\
@@ -1201,10 +1198,9 @@
   &&bh.rt&{\dn bh.rt}\\
   &&&= bearing; wearing\\
   &&&\note{\adjective}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tadottamavidaa.m}&ta|dot|&\tadaa\\
   &&&\\
   &&ta|ma|&\uttamaH\\
@@ -1220,9 +1216,10 @@
   &\multicolumn{3}{l}{\dn lokaanamalaanpratipadyate}\\
   &&&\\
   &&lo|kaa|&\lokaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&na|&\aprefix\\
   &&&\\
   &&ma|laan|&{\dn malaan}\\
@@ -1235,6 +1232,9 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn pratipad} = pratipad}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 15}
@@ -1273,7 +1273,7 @@
   action-stickings. Likewise, dead, in ignorance, (a person) is born in
   stupid stations in life.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn rajasi}&ra|ja|si&\rajasi\\
@@ -1285,19 +1285,19 @@
   &&&\note{from {\dn pralaya.h} = pralaya.h}\\
   &&&\\
   &{\dn gatvaa}&ga|tvaa&\gatvaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn karmasa"ngi.su}&kar|ma|&\karma\\
   &&&\\
   &&sa"n|gi|.su&{\dn sa"ngi.su}\\
   &&&= (?) \saGgeSu\\
   &&&\\
   &{\dn jaayate}&jaa|ya|te&\jaayate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\\
   &{\dn praliinastamasi}&pra|lii|na|sta|&praliina.h\\
@@ -1350,7 +1350,7 @@
   the fruit of passion (is) distress. Non-knowledge (is) the fruit of
   ignorance.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn karma.na.h}&kar|ma|.na\h{a}&\karmaNaH\\
@@ -1368,9 +1368,10 @@
   &&&= {\dn aahu.h}\\
   &&&= (?)\\
   &&&\note{similar: \noun, \female, {\dn aahuu} = aahuu = call}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn saattvika.m}&saat|tvi|ka.m&saattvikam\\
   &&&= {\dn saattvikam}\\
   &&&= good; energetic\\
@@ -1384,10 +1385,9 @@
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn rajasastu}&ra|ja|sa|&\rajasaH\\
   &&&\\
   &&stu&\tu\\
@@ -1395,17 +1395,21 @@
   &{\dn phala.m}&pha|la.m&\phalam\\
   &&&\\
   &{\dn du.hkhamaj~naana.m}&du.h|kha|&\duHkham\\
-  % ----------------------------------------------------------------------------
-  \hline
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
+  2b&&ma|&\aprefix\\
   &&&\\
-  &&ma|&\aprefix\\
-  &&&\\
-  2b&&j\~{}naa|na.m&\jJAnam\\
+  &&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn tamasa.h}&ta|ma|sa\h{a}&\tamasaH\\
   &&&\\
   &{\dn phalam}&pha|lam&\phalam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 17}
@@ -1444,7 +1448,7 @@
   really. And madness(-and)-confusion (are born) from darkness---from
   you---and non-knowledge, really.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sattvaatsa~njaayate}&sat|tvaat|&\sattvaat\\
@@ -1452,9 +1456,10 @@
   &&sa\~{}n|jaa|ya|te&\saJjAyate\\
   &&&\\
   &{\dn j~naana.m}&j\~{}naa|nam&\jJAnam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn rajaso}&ra|ja|so&\rajasaH\\
   &&&\\
   &{\dn lobha}&lo|bha&lobha.h\\
@@ -1465,10 +1470,9 @@
   &{\dn eva}&e|va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pramaadamohau}&pra|maa|da|&pramaada.h\\
   &&&= {\dn pramaada.h}\\
   &&&= madness; mistake; carelessness\\
@@ -1480,9 +1484,10 @@
   &&&\note{from {\dn moha.h} = moha.h}\\
   &&&\\
   &{\dn tamaso}&ta|ma|so&\tamasaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhavato.aj~naanameva}&bha|va|to|&bhavata.h\\
   &&&= {\dn bhavata.h}\\
   &&&= from/of you\\
@@ -1498,6 +1503,9 @@
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 18}
@@ -1536,7 +1544,7 @@
   middle. The lowest-string-action-standing people: people in ignorance
   go down.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn uurdhva.m}&uur|dhva.m&uurdhvam\\
@@ -1549,9 +1557,10 @@
   &{\dn sattvasthaa}&sat|tva|&\sattvam\\
   &&&\\
   &&sthaa&\sthAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn madhye}&ma|dhye&\madhye\\
   &&&\\
   &{\dn ti.s.thanti}&ti|.s.than|ti&\tiSThanti\\
@@ -1560,10 +1569,9 @@
   &&&passion; menstrual waste\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn raajasa.h} = raajasa.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn jaghanyagu.nav.rttisthaa}&ja|gha|nya|&{\dn jaghanya}\\
   &&&= least; lowest; last\\
   &&&\note{\adjective}\\
@@ -1625,7 +1633,7 @@
   When a seer sees not-another person (as) a (string)-actor---and (he)
   knows the paramount (string)---he gets from-me-behavior.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naanya.m}&naa|&\na\\
@@ -1643,9 +1651,10 @@
   &&&= (?) actor; worker; doer\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn kart.r} = kart.r}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn yadaa}&ya|daa&\yadaa\\
   &&&\\
   &{\dn dra.s.taanupa"syati}&dra|.s.taa|&{\dn dra.staa}\\
@@ -1654,10 +1663,9 @@
   &&&\note{from {\dn dra.s.t.r} = dra.s.t.r}\\
   &&&\\
   &&nu|pa|"sya|ti&\anupazyati\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gu.nebhya"sca}&gu|.ne|bhya"s|&\guNebhyaH\\
   &&&\\
   &&ca&\ca\\
@@ -1665,9 +1673,10 @@
   &{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn vetti}&vet|ti&\vetti\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn madbhaava.m}&mad|&\mat\\
   &&&\\
   &&bhaa|va.m&\bhaavam\\
@@ -1676,6 +1685,9 @@
   &&&\\
   &&'dhi|gac|cha|ti&\adhigacchati\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 20}
@@ -1703,7 +1715,7 @@
   birth-death-old-age-distress---freed (from these things)---(he)
   attains non-(death).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn gu.naanetaanatiitya}&gu|.naa|ne|&\guNAn\\
@@ -1717,9 +1729,10 @@
   &&&\\
   &{\dn triindehii}&triin|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&de|hii&\dehii\\
   &&&\\
   &{\dn dehasamudbhavaan}&de|ha|&\dehaH\\
@@ -1728,10 +1741,9 @@
   &&&= births; origins\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn samudbhava.h} = samudbhava.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn janmam.rtyujaraadu.hkhairvimukto.am.rtama"snute}\\
   &&&\\
   &&jan|ma|&\janma\\
@@ -1796,15 +1808,16 @@
   (does the person have)? And how does (the person) travel though these
   three strings?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn kairli"ngaistriingu.naanetaanatiito}\\
   &&&\\
   &&kair|&\kaiH\\
@@ -1821,10 +1834,9 @@
   &&gu|.naa|ne|&\guNAn\\
   &&&\\
   &&taa|&\etaan\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&&na|tii|to&atiita.h\\
   &&&= {\dn atiita.h}\\
   &&&= gone; passed through\\
@@ -1835,9 +1847,10 @@
   &{\dn prabho}&pra|bho&O lord\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn prabhu.h} = prabhu.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn kimaacaara.h}&ki|maa|&\kim\\
   &&&\\
   &&caa|ra\h{a}&aacaara.h\\
@@ -1867,6 +1880,9 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn ativ.rt} = ativ.rt}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 22}
@@ -1912,7 +1928,7 @@
   started---(whoever) does not desire (these things when they are)
   vanished, \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -1920,9 +1936,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn prakaa"sa.m}&pra|kaa|"sa.m&prakaa"sam\\
   &&&= {\dn prakaa"sam}\\
   &&&= brightness; light; clearness; splendor\\
@@ -1938,10 +1955,9 @@
   &&&\note{from {\dn prav.rtti.h} = prav.rtti.h}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn mohameva}&mo|ha|me|&moham\\
   &&&= {\dn moham}\\
   &&&= mistake; confusion; bewilderment\\
@@ -1963,9 +1979,10 @@
   &{\dn samprav.rttaani}&sam|pra|v.rt|taa|ni&started; gone\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn samprav.rttam} = samprav.rttam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn niv.rttaani}&ni|v.rt|taa|ni&vanished; gone\\
@@ -1976,6 +1993,9 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn kaa"nk.s} = kaa"nk.s}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 23}
@@ -2014,7 +2034,7 @@
   this) does not swerve. (They) are strings, thus, really. Whoever
   stands does not go \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn udaasiinavadaasiino}&u|daa|sii|na|&udaasiina.h\\
@@ -2029,9 +2049,10 @@
   &&&= {\dn aasiina.h}\\
   &&&= seated\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn gu.nairyo}&gu|.nai|&\guNaiH\\
   &&&\\
   &&yo&\yaH\\
@@ -2043,10 +2064,9 @@
   &&&= (he/she/it) swerves; diverts; stirs up\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn vical} = vical}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gu.naa}&gu|.naa&\guNAH\\
   &&&\\
   &{\dn vartanta}&var|tan|te&(they) are\\
@@ -2056,9 +2076,10 @@
   &{\dn ityeva.m}&i|tye|&\iti\\
   &&&\\
   &&va.m&\evam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yo.avati.s.thati}&yo|&\yaH\\
   &&&\\
   &&'va|ti|.s.tha|ti&\avatiSThati\\
@@ -2071,6 +2092,9 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn i"ng} = i"ng}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 24}
@@ -2105,7 +2129,7 @@
   (person)---steadfast---equal(ly) (disposed to) reproach (and)
   self-praise \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn samadu.hkhasukha.h}&sa|ma|&{\dn sama}\\
@@ -2213,7 +2237,7 @@
   all-undertaking(s)---he (such a person) is called
   string-passed-through (``successful'').
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn maanaapamaanayostulyastulyo}\\
@@ -2226,9 +2250,10 @@
   &&&= {\dn tulya}\\
   &&&= equal; similar; comparable\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&stu|lyo&tulya.h\\
   &&&= {\dn tulya.h}\\
   &&&= equal; similar; comparable\\
@@ -2249,10 +2274,9 @@
   &&&\note{\noun, \male, \dual}\\
   &&&\note{\genitivecase, \locativecase}\\
   &&&\note{from {\dn pak.saya.h} = pak.saya.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn sarvaarambhaparityaagii}\\
   &&&\\
   &&sar|va|&sarva\\
@@ -2268,9 +2292,10 @@
   &&pa|ri|tyaa|gii&{\dn parityaagii}\\
   &&&= (?) abandoner\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn gu.naatiita.h}&gu|.naa|&\guNaH\\
   &&&\\
   &&tii|ta\h{a}&atiita.h\\
@@ -2282,6 +2307,9 @@
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 14, Verse 26}
@@ -2313,7 +2341,7 @@
   And whoever, using non-deviation (and) devotion-yoking, serves me---he
   (is) passed through these strings---he is suited (for) God-becoming.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maa.m}&maa.m&\maam\\
@@ -2328,9 +2356,10 @@
   &&&= by using a/the deviation; violation; vice\\
   &&&\note{\noun, \male, \instrumentalcase}\\
   &&&\note{from {\dn vyabhicaara.h} = vyabhicaara.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhaktiyogena}&bhak|ti|&\bhaktiH\\
   &&&\\
   &&yo|ge|na&\yogena\\
@@ -2338,10 +2367,9 @@
   &{\dn sevate}&se|va|te&(he/she/it) serves; stays\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn sev} = sev}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &\multicolumn{3}{l}{\dn gu.naansamatiityaitaanbrahmabhuuyaaya}\\
@@ -2397,7 +2425,7 @@
   Surely, I (am) steadfastness, of the non-dead (and) non-changeable and
   eternal and devotion (and) happiness and complete God.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn brahma.no}&bra|ma|.no&\brahmaNaH\\
@@ -2411,9 +2439,10 @@
   &&&\note{\noun, \female}\\
   &&&\\
   &&ha|&\aham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&m.r|ta|syaa|&m.rtasya\\
@@ -2427,10 +2456,9 @@
   &&vya|ya|sya&\vyayasya\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "saa"svatasya}&"saa|"sva|ta|sya&of a/the person/thing eternal\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn "saa"svata.h} = "saa"svata.h}\\
