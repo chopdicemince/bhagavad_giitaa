@@ -46,15 +46,16 @@
   (Note: Verse part 1a has nine main syllables instead the usual
   eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn madanugrahaaya}&ma|da|&\mat\\
   &&&\\
   &&nu|gra|haa|ya&anugrahaaya\\
@@ -64,10 +65,9 @@
   &&&\note{from {\dn anugraha.h} = anugraha.h}\\
   &&&\\
   &{\dn parama.m}&pa|ra|ma.m&\paramam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn guhyamadhyaatmasa.mj~nitam}&gu|hya|ma|&\guhyam\\
   &&&\\
   &&dhyaat|ma|&\adhyaatmam\\
@@ -75,9 +75,10 @@
   &&sa.m|j\~{}ni|tam&{\dn sa.mj~nitam}\\
   &&&= known; called; named\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn yattvayokta.m}&yat|&\yat\\
   &&&\\
   &&tva|yok|&tvayaa = {\dn tvayaa} = \tvayaa\\
@@ -94,10 +95,9 @@
   &&na&tena = {\dn tena} = by using that/it\\
   &&&\note{\pronoun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn tat} = tat}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn moho.aya.m}&mo|ho|&moha.h\\
   &&&= {\dn moha.h}\\
   &&&= confusion; bewilderment\\
@@ -153,7 +153,7 @@
   by me, from you, O lotus-leaf-non-destruction (O \textkrsna). And also,
   the greatness (of you) (is) non-changeable.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhavaapyayau}&bha|vaa|&\bhavaH\\
@@ -167,9 +167,10 @@
   &{\dn hi}&hi&\hi\\
   &&&\\
   &{\dn bhuutaanaa.m}&bhuu|taa|naa.m&\bhuutaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "srutau}&"sru|tau&(?)\\
   &&&\note{similar: \verbb, root, {\dn "sru} = "sru = ``to hear''}\\
   &&&\\
@@ -179,10 +180,9 @@
   &&&\note{\adverb}\\
   &&&\\
   &{\dn mayaa}&ma|yaa&\mayaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tvatta.h}&tvat|ta\h{a}&(?) tvat = {\dn tvat} = from you\\
   &&&\note{\pronoun, \secondperson, \singular, \ablativecase}\\
   &&&\note{from {\dn tvam} = tvam}\\
@@ -203,9 +203,10 @@
   &&&= O destruction\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn k.sa.h} = k.sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn maahaatmyamapi}&maa|haa|mya|ma|&maahaatmyam\\
   &&&= {\dn maahaatmyam}\\
   &&&= greatness\\
@@ -219,6 +220,9 @@
   &&&\\
   &&vya|yam&\vyayam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 3}
@@ -245,7 +249,7 @@
   paramount-God (O \textkrsna). (I) wish to see the majestic form of you,
   O ultimate-man (O \textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn evametadyathaattha}&e|va|me|&\evam\\
@@ -328,7 +332,7 @@
   O yoking-God, from there, for me, you---show the non-changeable self
   (of you).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn manyase}&ma|nya|se&\manyase\\
@@ -341,9 +345,10 @@
   &&&= {\dn "sakyam}\\
   &&&= able\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mayaa}&ma|yaa&\mayaa\\
   &&&\\
   &{\dn dra.s.tumiti}&dra|.s.tu|mi|&\draSTum\\
@@ -353,10 +358,9 @@
   &{\dn prabho}&pra|bho&O lord\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn prabhu.h} = prabhu.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yoge"svara}&yo|ge&\yogaH\\
   &&&\\
   &&"sva|ra&\Izvara\\
@@ -367,9 +371,10 @@
   &{\dn me}&me&\me\\
   &&&\\
   &{\dn tva.m}&tva.m&\tvam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn dar"sayaatmaanamavyayam}&dar|"sa|yaat|&dar"saya\\
   &&&= {\dn dar"saya}\\
   &&&= (?) dar"sayatu\\
@@ -384,6 +389,9 @@
   &&&\\
   &&vya|yam&\vyayam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 5}
@@ -427,7 +435,7 @@
   See the forms of me, O prince (O Arjuna), by hundreds, also, by
   thousands---various divine forms and various color forms.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -435,9 +443,10 @@
   &&bha|va|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn pa"sya}&pa|"sya&\pazya\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -445,10 +454,9 @@
   &{\dn paartha}&paar|tha&\paartha\\
   &&&\\
   &{\dn ruupaa.ni}&ruu|paa|.ni&\rUpANi\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn "sata"so.atha}&"sa|ta|"so|&"sata"sa.h\\
   &&&= {\dn "sata"sa.h}\\
   &&&= (?) by hundreds\\
@@ -527,7 +535,7 @@
   Maruts (gods), thus. See many marvels not seen (by) previous people, O
   descendant of Bharata (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn pa"syaadityaanvasuunrudraana"svinau}\\
@@ -550,9 +558,10 @@
   &&&= the eleven Rudras (gods)\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn rudra.h} = rudra.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&na|"svi|nau&a"svinau = {\dn a"svinau} = two A"sviniis\\
   &&&\note{\noun, \male(?), \dual}\\
   &&&\note{from {\dn a"svina.h} = a"svina.h}\\
@@ -563,10 +572,9 @@
   &&&\note{from {\dn marut} = marut}\\
   &&&\\
   &&thaa&\tathaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bahuunyad.r.s.tapuurvaa.ni}&ba|huu|nya|&\bahuuni\\
   &&&\\
   &&|&\aprefix\\
@@ -586,7 +594,7 @@
   &&&\\
   &&car|yaa|.ni&\AzcaryANi\\
   &&&\\
-  &{\dn bhaarata}&bhaa|ra|ta|&\\bhaarata\\
+  &{\dn bhaarata}&bhaa|ra|ta|&\bhaarata\\
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
@@ -626,7 +634,7 @@
   non-moving (things) in the body of me, O Arjuna. And (you) wish to see
   (whatever) other (thing).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ihaikastha.m}&i|hai|&\iha\\
@@ -718,7 +726,7 @@
   But (you) are not able to see me using this self-eye, really. (I) give
   for you a divine eye. See the yoking power of me.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -732,9 +740,10 @@
   &&&\note{root: (?) {\dn "sak} = "sak}\\
   &&&\\
   1b&{\dn dra.s.tumanenaiva}&dra|.s.tu|&\draSTum\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   &&ma|ne|nai|&\anena\\
   &&&\\
   &&va&\eva\\
@@ -745,10 +754,9 @@
   &&&= (?) by using seeing; eye\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn cak.sus} = cak.sus}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn divya.m}&di|vya.m&divyam\\
   &&&= {\dn divyam}\\
   &&&= divine\\
@@ -760,9 +768,10 @@
   &&&\\
   &{\dn cak.su.h}&ca|k.su\h{u}&eye\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn pa"sya}&pa|"sya&\pazya\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -775,6 +784,9 @@
   &&&\note{\noun, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 9}
@@ -813,7 +825,7 @@
   things), from there, O King (\textdhrtaraastra), (showed) to the prince
   (Arjuna) the paramount form power (of \textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
@@ -829,9 +841,10 @@
   &{\dn tato}&ta|to&\tataH\\
   &&&\\
   &{\dn raajanmahaayoge"svaro}&raa|jan|&\raajan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|haa|&\mahaan\\
   &&&\\
   &&yo|ge|&\yogaH\\
@@ -840,10 +853,9 @@
   &&&\\
   &{\dn hari.h}&ha|ri\h{i}&God\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn dar"sayaamaasa}&dar|"sa|yaa|maa|&dar"sayaam\\
   &&&= {\dn dar"sayaam}\\
   &&&= (?)\\
@@ -901,7 +913,7 @@
   Many mouth(s) and eye(s). Many wonderful (sight)(s). Many divine
   decoration(s). Many divine, ready weapon(s).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn anekavaktranayanamanekaadbhutadar"sanam}\\
@@ -1011,7 +1023,7 @@
   fragrance ointment. All marvelous, divine, non-end(ing),
   all-directions-fac(ing).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn divyamaalyaambaradhara.m}\\
@@ -1034,9 +1046,10 @@
   &&&= {\dn dharam}\\
   &&&= holding; wearing; carrying\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn divyagandhaanulepanam}\\
   &&&\\
   &&di|vya|&{\dn divya}\\
@@ -1052,10 +1065,9 @@
   &&&= {\dn anulepanam}\\
   &&&= anointment; ointment\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sarvaa"scaryamaya.m}&sar|vaa"s|&sarva\\
   &&&= {\dn sarva}\\
   &&&= \sarva\\
@@ -1121,7 +1133,7 @@
   suitable (light) would be the brightness of his great self
   (\textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn divi}&di|vi&(?) divya\\
@@ -1132,9 +1144,10 @@
   &{\dn suuryasahasrasya}&suur|ya|&\sUryaH\\
   &&&\\
   &&sa|ha|sra|sya&\sahasrasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhavedyugapadutthitaa}&bha|ve|dyu|&bhavet\\
   &&&= {\dn bhavet}\\
   &&&= (?) (he/she/it) were; may be\\
@@ -1150,10 +1163,9 @@
   &&&= {\dn utthitaa}\\
   &&&= born\\
   &&&\note{\adjective, \female}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yadi}&ya|di&\yadi\\
   &&&\\
   &{\dn bhaa.h}&bhaa\h{aa}&lights\\
@@ -1166,9 +1178,10 @@
   &{\dn saa}&saa&\saa\\
   &&&\\
   &{\dn syaad}&syaad&\syaat\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhaasastasya}&bhaa|sa|sta|&bhaasa.h\\
   &&&= {\dn bhaasa.h}\\
   &&&= brightness; light\\
@@ -1180,6 +1193,9 @@
   &&&\\
   &&ma|na\h{a}&\AtmanaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 13}
@@ -1274,6 +1290,9 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 14}
 
 \quad
@@ -1310,7 +1329,7 @@
   (with excitement), (in a state of paying homage), using the (his)
   head, (done-homage?), was saying (homage) (to) the deity (\textkrsna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
@@ -1326,9 +1345,10 @@
   &&&= {\dn aavi.s.ta.h}\\
   &&&= filled\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn h.r.s.taromaa}&h.r|.s.ta|&{\dn h.r.s.ta}\\
   &&&= bristling; excited\\
   &&&\note{\adjective}\\
@@ -1339,10 +1359,9 @@
   &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
   &&&\\
   &&ja|ya\h{a}&\jayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pra.namya}&pr|.na|mya&(?) state of paying homage\\
   &&&\note{part of speech(?)}\\
   &&&\\
@@ -1416,15 +1435,16 @@
   (Note: In this verse, each half-line (ignoring line 0) has eleven main
   syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn devaa.mstava}&de|vaa.m|&\devaan\\
@@ -1452,10 +1472,9 @@
   &&&= assembly; association\\
   &&&\note{\noun, \male, \plural, \accusativecase}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn brahmaa.namii"sa.m}&brah|maa|.na|mii&(?) Brahma; God\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from (?) {\dn brahmaa} = brahmaa}\\
@@ -1630,6 +1649,9 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 17}
 
 \quad
@@ -1669,7 +1691,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kirii.tina.m}&ki|rii|.ti|na.m&kirii.tinam\\
@@ -1715,10 +1737,9 @@
   &&&\\
   &&man|tam&{\dn mantam}\\
   &&&= (?)\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
@@ -1772,6 +1793,9 @@
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn prameya.h} = prameya.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 18}
@@ -1832,10 +1856,9 @@
   &&&= {\dn veditavyam}\\
   &&&= to be known\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn tvamasya}&tva|ma|&\tvam\\
   &&&\\
   &&sya&\asya\\
@@ -1970,10 +1993,9 @@
   &&ne|tram&{\dn netram}\\
   &&&= eye\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pa"syaami}&pa|"syaa|mi&\pazyAmi\\
   &&&\\
   &{\dn tvaa.m}&tvaa.m&\tvaam\\
@@ -2050,7 +2072,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+%\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn dyaavaap.rthivyoridamantara.m}\\
@@ -2113,10 +2135,9 @@
   &{\dn taveda.m}&ta|ve|&\tava\\
   &&&\\
   &&da.m&\idam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn lokatraya.m}&lo|ka|&\lokaH\\
   &&&\\
   &&tra|ya.m&trayam\\
@@ -2133,6 +2154,9 @@
   &&&\\
   &&man&\aatman\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 21}
@@ -2174,7 +2198,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn amii}&a|mii&(?)\\
@@ -2213,10 +2237,9 @@
   &{\dn g.r.nanti}&g.r|.nan|ti&(they) call out; praise\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn g.R} = g.rr}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn svastiityuktvaa}&sva|stii|&(?) svasti.h\\
   &&&= {\dn svasti.h}\\
   &&&= success; ``Success! (Hail!)''\\
@@ -2259,6 +2282,9 @@
   &&&\note{\adjective, \female, \plural, \instrumentalcase}\\
   &&&\note{from {\dn pu.skalaa} = pu.skalaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 22}
@@ -2409,6 +2435,9 @@
   &&&\\
   &{\dn sarve}&sar|ve&\sarve\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 23}
@@ -2604,10 +2633,9 @@
   &&&= color\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn var.na.h} = var.na.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn vyaattaanana.m}&vyaat|taa|&vyaatta\\
   &&&= {\dn vyaatta}\\
   &&&= vast; open\\
@@ -2647,10 +2675,9 @@
   &&ta|raat|&\antaH\\
   &&&\\
   &&maa&\aatmaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn dh.rti.m}&dh.r|ti.m&dh.rtim\\
   &&&= {\dn dh.rtim}\\
   &&&= determination; steadfastness\\
@@ -2671,6 +2698,9 @@
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn vi.s.nu.h} = vi.s.nu.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 25}
@@ -2734,10 +2764,9 @@
   &&&\note{\noun, \neuter, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn mukham} = mukham}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn d.r.s.tvaiva}&d.r.s.t|vai&\dRSTvA\\
   &&&\\
   &&va&\eva\\
@@ -2846,7 +2875,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn amii}&a|mii&(?)\\
@@ -2888,10 +2917,9 @@
   &&&= by using groups; assemblies; associations\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn sa"ngha.h} = sa"ngha.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhii.smo}&bhii|.smo&Bhii.sma\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -2935,6 +2963,9 @@
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn mukhya.h} = mukhya.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 27}
@@ -2995,10 +3026,9 @@
   &&&= (?)\\
   &&&\\
   &{\dn vi"santi}&vi|"san|ti&\vizanti\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn da.m.s.traakaraalaani}&da.m|.s.traa|&{\dn da.m.s.traa}\\
   &&&= tooth\\
   &&&\note{\noun, \female}\\
@@ -3011,9 +3041,10 @@
   &{\dn bhayaanakaani}&bha|yaa|na|kaa|ni&dreadful\\
   &&&\note{\adjective, \neuter, \plural}\\
   &&&\note{from {\dn bhayaanakam} = bhayaanakam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn kecidvilagnaa}&ke|ci|dvi|&kecid\\
   &&&= {\dn kecid}\\
   &&&= (?)\\
@@ -3034,10 +3065,9 @@
   &&&= at/in/on the interiors; gaps\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn antaram} = antaram}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn sand.r"syante}&dan|d.r|"syan|te&(they) are seen\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn sa.md.r"s} = sa.md.r"s}\\
@@ -3100,7 +3130,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+%\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yathaa}&ya|thaa&\yathaa\\
@@ -3145,10 +3175,9 @@
   &&&\note{from {\dn abhimukha.h} = abhimukha.h}\\
   &&&\\
   &{\dn dravanti}&dra|van|ti&\dravanti\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tathaa}&ta|thaa&\tathaa\\
   &&&\\
   &{\dn tavaamii}&ta|vaa|&\tava\\
@@ -3185,6 +3214,9 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn abhivijval} = abhivijval}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 29}
@@ -3226,7 +3258,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yathaa}&ya|thaa&\yathaa\\
@@ -3246,9 +3278,10 @@
   &&&= flying insects\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn pata"nga.h} = pata"nga.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn naa"saaya}&naa|"saa|ya&\nAzAya\\
@@ -3261,10 +3294,9 @@
   &&&= speed; forces; outbursts\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vega.h} = vega.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tathaiva}&ta|thai|&\tathaa\\
   &&&\\
   &&va&\eva\\
@@ -3274,9 +3306,10 @@
   &{\dn vi"santi}&vi|"san|ti&\vizanti\\
   &&&\\
   &{\dn lokaas}&lo|kaas&\lokAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn tavaapi}&ta|vaa|&\tava\\
   &&&\\
   &&pi&\api\\
@@ -3294,6 +3327,9 @@
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn vega.h} = vega.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 30}
@@ -3336,7 +3372,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn lelihyase}&le|li|hya|se&(?) lelihyasi\\
@@ -3380,10 +3416,9 @@
   &&&= (?) by using fires\\
   &&&\note{\noun, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn jvalat} = jvalat}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tejobhiraapuurya}&te|jo|bhi|raa|&tejobhi.h\\
   &&&= {\dn tejobhi.h}\\
   &&&= (?) by using \dots\\
@@ -3403,9 +3438,10 @@
   &&&= all; complete\\
   &&&\note{\adjective, \neuter}\\
   &&&\note{\nominativecase, \accusativecase}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhaasastavograa.h}&bhaa|sa|sta|&bhaasa.h\\
   &&&= {\dn bhaasa.h}\\
   &&&= brightness; light\\
@@ -3549,10 +3585,9 @@
   &&&= {\dn aadyam}\\
   &&&= first\\
   &&&\note{\adjective, \neuter(?)}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn na}&na&\na\\
   &&&\\
   &{\dn hi}&hi&\hi\\
@@ -3612,7 +3647,7 @@
   (Note: In this verse, each half-line (excluding line 0) has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -3755,10 +3790,9 @@
   &&&\note{similar:}\\
   &&&\note{{\dn labhate} = labhate}\\
   &&&\note{root: {\dn labh} = labh}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn jitvaa}&ji|tvaa&having won\\
   &&&\note{\verbb, \perfectparticiple}\\
   &&&\note{root: {\dn ji} = ji}\\
@@ -3799,10 +3833,9 @@
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
   &&va&\eva\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn nimittamaatra.m}&ni|mit|ta|&nimittam\\
   &&&= {\dn nimittam}\\
   &&&= motive; cause\\
@@ -3820,6 +3853,9 @@
   &&&\note{\noun, \male(?), \vocativecase}\\
   &&&\note{from {\dn savyasaacin} = savyasaacin}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 34}
@@ -3942,10 +3978,9 @@
   &{\dn vyathi.s.thaa}&vya|thi|.s.thaa&vyathi.s.thaa.h\\
   &&&= {\dn vyathi.s.thaa.h}\\
   &&&= (?)\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn yudhyasva}&yu|dhya|sva&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{{\dn yudhyate} = yudhyate = (he/she/it) fights}\\
@@ -4013,15 +4048,16 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn etacchrutvaa}&e|tac|&\etat\\
   &&&\\
   &&chru|tvaa&\zrutvA\\
@@ -4031,10 +4067,9 @@
   &{\dn ke"savasya}&ke|"sa|va|sya&of \textkrsna\\
   &&&\note{\noun, \male, \genitivecase}\\
   &&&\note{from {\dn ke"sava.h} = ke"sava.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn k.rtaa~njalirvepamaana.h}&k.r|taa\~{}n|&k.rta\\
   &&&= {\dn k.rta}\\
   &&&= acted upon; worked on; done\\
@@ -4080,10 +4115,9 @@
   &{\dn k.r.s.na.m}&k.r.s|.na.m&\textkrsna\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn k.r.s.na.h} = k.r.s.na.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn sagadgada.m}&sa|gad|ga|da.m&sagadgadam\\
   &&&= {\dn sagadgadam}\\
   &&&= with a stammer\\
@@ -4103,6 +4137,9 @@
   &&&\note{{\dn pra.namate} = pra.namate = (he/she/it) pays homage}\\
   &&&\note{root: {\dn pra.nam} = pra.nam}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 36}
@@ -4150,15 +4187,16 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn sthaane}&sthaa|ne&\sthaane\\
   &&&\\
   &{\dn h.r.siike"sa}&h.r|"sii|ke|"sa&\hRSIkeza\\
@@ -4168,10 +4206,9 @@
   &{\dn prakiirtyaa}&pra|kiir|tyaa&by using celebration\\
   &&&\note{\noun, \female, \instrumentalcase}\\
   &&&\note{from {\dn prakiirti.h} = prakiirti.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&\multicolumn{3}{l}{\dn jagatprah.r.syatyanurajyate}\\
   &&&\\
   &&ja|gat|&\jagat\\
@@ -4294,10 +4331,9 @@
   &&ma|haat|&\mahaan\\
   &&&\\
   &&man&\aatman\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn gariiyase}&ga|rii|ya|se&(?) at/in/on a/the person/thing\\
   &&&more valuable/important/heavy\\
   &&&\note{\adjective, \male, \locativecase}\\
@@ -4400,7 +4436,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tvamaadideva.h}&tva|maa|&\tvam\\
@@ -4521,7 +4557,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn vaayuryamo.agnirvaru.na.h}\\
@@ -4734,6 +4770,9 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 41}
 
 \quad
@@ -4859,9 +4898,6 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\quad
-\newpage
-% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 42}
 
 \quad
@@ -4954,10 +4990,9 @@
   &&&= at/in/on (occurrences of) enjoyment; eating; food; cooking\\
   &&&\note{\noun, \neuter, \plural, \locativecase}\\
   &&&\note{from {\dn bhojanam} = bhojanam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn eko.athavaapyacyuta}\\
   &&&\\
   &&e|ko|&\ekaH\\
@@ -5003,9 +5038,6 @@
   &&&= provable; measurable\\
   &&&\note{\adjective, \neuter}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 43}
@@ -5071,10 +5103,9 @@
   &&&= of a/the person/thing moving\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn cara.h} = cara.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn tvamasya}&tva|ma|&\tvam\\
   &&&\\
   &&sya&\asya\\
@@ -5187,7 +5218,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasmaatpra.namya}&tas|maat|&\tasmaat\\
@@ -5229,10 +5260,9 @@
   &&&= worthy of praise\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn ii.dya.h} = ii.dya.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn piteva}&pi|te|&\pitaa\\
   &&&\\
   &&va&\iva\\
@@ -5249,9 +5279,10 @@
   &&va&\iva\\
   &&&\\
   &{\dn sakhyu.h}&sa|khyu\h{u}&(?)\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn priya.h}&pri|ya\h{a}&\priyaH\\
   &&&\\
   &{\dn priyaayaarhasi}&pri|yaa|yaar|&\priyAyAH\\
@@ -5333,10 +5364,9 @@
   &&'smi&\asmi\\
   &&&\\
   &{\dn d.r.s.tvaa}&dr|.s.tvaa&\dRSTvA\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn bhayena}&bha|ye|na&\bhayena\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -5434,7 +5464,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kirii.tina.m}&ki|rii|.ti|na.m&kirii.tinam\\
@@ -5473,10 +5503,9 @@
   &{\dn tathaiva}&ta|thai|&\tathaa\\
   &&&\\
   &&va&\eva\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn tenaiva}&te|nai|&tena = {\dn tena} = by using that/him\\
   &&&\note{\pronoun, \thirdperson, \male, \instrumentalcase}\\
   &&&\note{from {\dn sa.h} = sa.h}\\
@@ -5510,6 +5539,9 @@
   &&&\note{\noun, \female, \vocativecase}\\
   &&&\note{from {\dn muurtaa} = muurtaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 47}
@@ -5558,7 +5590,7 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -5566,9 +5598,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn mayaa}&ma|yaa&\mayaa\\
   &&&\\
   &{\dn prasannena}&pra|san|ne|na&by using pleasure; happiness\\
@@ -5580,10 +5613,9 @@
   &&ju|ne|&\arjuna\\
   &&&\\
   &&da.m&\idam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn ruupa.m}&ruu|pa.m&\ruupam\\
   &&&\\
   &{\dn para.m}&pa|ra.m&\param\\
@@ -5726,10 +5758,9 @@
   &&&= by using people/things formidable\\
   &&&\note{\adjective, \neuter, \plural, \instrumentalcase}\\
   &&&\note{from {\dn ugram} = ugram}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn eva.mruupa.h}&e|va.m|&\evam\\
   &&&\\
   &&ruu|pa\h{a}&(?) \ruupam\\
@@ -5844,10 +5875,9 @@
   &&ma|me|&\mama\\
   &&&\\
   &&dam&\idam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vyapetabhii.h}&vya|pe|ta|bhii\h{ii}&by using people/things vanished\\
   &&&\note{\adjective, \male, \plural, \instrumentalcase}\\
   &&&\note{from {\dn vyapeta.h} = vyapeta.h}\\
@@ -5925,15 +5955,16 @@
   (Note: In this verse, except for line 0, each half-line has eleven
   main syllables, instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn sa~njaya}&sa\~{}n|ja|ya&\saJjayaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn ityarjuna.m}&i|tyar|&\iti\\
   &&&\\
   &&ju|na.m&arjunam\\
@@ -5951,10 +5982,9 @@
   &&thok|&\tathaa\\
   &&&\\
   &&tvaa&\uktvaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn svaka.m}&sva|ka.m&svakam\\
   &&&= {\dn svakam}\\
   &&&= self\\
@@ -6001,10 +6031,9 @@
   &&&\note{from {\dn bhiita.h} = bhiita.h}\\
   &&&\\
   &&na.m&\enam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
   &&&\\
   &{\dn puna.h}&pu|na\h{a}&\punaH\\
@@ -6022,6 +6051,9 @@
   &&&\\
   &&maa&\aatmaa\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 51}
@@ -6066,15 +6098,16 @@
   I am happened (I am in good) consciousness, (and my) primal form (is)
   gone.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn d.r.s.tveda.m}&d.r|.s.tve|&\dRSTvA\\
   &&&\\
   &&da.m&\idam\\
@@ -6086,10 +6119,9 @@
   &&&\note{from {\dn maanu.sa.h} = maanu.sa.h}\\
   &&&\\
   &{\dn ruupa.m}&ruu|pa.m&\ruupam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn tava}&ta|va&\tava\\
   &&&\\
   &{\dn saumya.m}&sau|mya.m&sauymam\\
@@ -6101,10 +6133,9 @@
   &{\dn janaardana}&ja|naar|&\janaH\\
   &&&\\
   &&da|na&\ardana\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn idaaniimasmi}&idaa|nii|ma|&idaanim = {\dn idaaniim} = now\\
   &&&\note{\adverb, \indeclinable}\\
   &&&\\
@@ -6112,9 +6143,10 @@
   &&&\\
   &{\dn sa.mv.rtta.h}&sa.m|v.rt|ta\h{a}&happened\\
   &&&\note{\adjective, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sacetaa.h}&sa|&{\dn sa}\\
   &&&= (?)\\
   &&&\\
@@ -6174,7 +6206,7 @@
   (the form) of me. Deities also, of this eternal form, are
   sight-desirous.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -6182,9 +6214,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn sudurdar"samida.m}&su|&{\dn su} = good; very\\
   &&&\note{\prefix}\\
   &&&\\
@@ -6199,10 +6232,9 @@
   &&da.m&\idam\\
   &&&\\
   &{\dn ruupa.m}&ruu|pa.m&\ruupam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn d.r.s.tavaanasi}&d.r|.s.ta|vaa|na|&d.r.s.tavaan\\
   &&&= {\dn d.r.s.tavaan}\\
   &&&= (?) seen\\
@@ -6281,7 +6313,7 @@
   donation, and no by sacrifice, really, (am) I, (my) form, able to (be)
   see(n). You (have) seen me just as (I was).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naaha.m}&naa|&\na\\
@@ -6321,10 +6353,9 @@
   &&vi|dho&\vidhaH\\
   &&&\\
   &{\dn dra.s.tu.m}&dra|.s.tu.m&\draSTum\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn d.r.s.tavaanasi}&d.r|.s.ta|vaa|na|&d.r.s.tavaan\\
   &&&= {\dn d.r.s.tavaan}\\
   &&&= (?) seen\\
@@ -6337,9 +6368,6 @@
   &&&\\
   &{\dn yathaa}&ya|thaa&\yathaa\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 11, Verse 54}
@@ -6378,7 +6406,7 @@
   (my) form, O Arjuna---to know and to see, and, by truth, to cover (my
   form), O destroying of enemies (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn bhaktyaa}&bhak|tyaa&\bhaktyaa\\
@@ -6396,9 +6424,10 @@
   &&&\\
   &{\dn "sakya}&"sa|kya&able; possible\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ahameva.mvidho.arjuna}&a|ha|me|&\aham\\
   &&&\\
   &&va.m|&\evam\\
@@ -6406,10 +6435,9 @@
   &&vi|dho'r|&\vidhaH\\
   &&&\\
   &&ju|na&\arjuna\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn j~naatu.m}&j\~{}naa|tu.m&\jJAtum\\
   &&&\\
   &{\dn dra.s.tu.m}&dra|.s.tu.m&\draSTum\\
@@ -6468,7 +6496,6 @@
   me, devoid of attachment, peaceful (to) all beings---he approaches me,
   O son of Paa.n.du (O Arjuna).
 \end{mytranslation}
-\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn matkarmak.rnmatparamo}\\
