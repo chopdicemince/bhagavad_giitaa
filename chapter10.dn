@@ -42,7 +42,7 @@
   Being, really, O great-arm (O Arjuna), hear my paramount speech. I
   will say one (piece of) advice desireable (and) pleasing.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -50,9 +50,10 @@
   &&bha|ga|vaa|nu&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn bhuuya}&bhuu|ya&bhuuya.h = {\dn bhuuya.h} = becoming; being\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -61,10 +62,9 @@
   &{\dn mahaabaaho}&ma|haa|&\mahaan\\
   &&&\\
   &&baa|ho&\baaho\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
   &&&\\
   &{\dn me}&me&\me\\
@@ -73,9 +73,10 @@
   &&&\\
   &{\dn vaca.h}&va|ca\h{a}&speech\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn yatte.aha.m}&yat|&\yat\\
   &&&\\
   &&te|&\te\\
@@ -86,10 +87,9 @@
   &&&\\
   &&&(?) pleased\\
   &&&\note{\adjective(?)}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn vak.syaami}&va|k.syaa|mi&(I) will say\\
   &&&\note{\verbb, \futuretensecertain, \firstperson, \singular}\\
   &&&\note{root: {\dn vac} = vac}\\
@@ -144,7 +144,7 @@
   (Neither) the god-groups (nor) a great-sage (know) my birth. I (am)
   the beginning, surely, of deities and great-sages, altogether.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -160,9 +160,10 @@
   &&&= groups\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn ga.na.h} = ga.na.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn prabhava.m}&pra|bha|va.m&birth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn prabhava.h} = prabhava.h}\\
@@ -176,10 +177,9 @@
   &&&= (?)\\
   &&&\note{similar: \noun, \male, {\dn .r.si.h} = .r.si.h}\\
   &&&\note{= sage; saint}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ahamaadirhi}&a|ha|maa|&\aham\\
   &&&\\
   &&dir|&\AdiH\\
@@ -187,9 +187,10 @@
   &&hi&\hi\\
   &&&\\
   &{\dn devaanaa.m}&de|vaa|naa.m&\devaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn mahar.sii.naa.m}&ma|har|&maha\\
   &&&= {\dn maha}\\
   &&&= great\\
@@ -205,6 +206,9 @@
   &&&\\
   &{\dn sarva"sa.h}&sar|va|"sa\h{a}&\sarvazaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 3}
@@ -282,10 +286,9 @@
   &{\dn martye.su}&mar|tye|.su&at/in/on mortal beings\\
   &&&\note{\noun, \male, \plural, \locativecase}\\
   &&&\note{from {\dn martya.h} = martya.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn sarvapaapai.h}&sar|va|&sarva\\
   &&&= {\dn sarva}\\
   &&&= \sarva\\
@@ -338,7 +341,7 @@
   self-control, peace, happiness, distress, birth, non-birth, fear and
   non-fear, really, and \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn buddhirj~naanamasammoha.h}\\
@@ -350,9 +353,10 @@
   &&|&\aprefix\\
   &&&\\
   &&sam|mo|ha\h{a}&\sammohaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn k.samaa}&k.sa|maa&k.samaa.h\\
   &&&= {\dn k.samaa.h}\\
   &&&= related to people/things\\
@@ -366,10 +370,9 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn "sama.h}&"sa|ma\h{a}&\zamaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sukha.m}&su|kha.m&\sukham\\
   &&&\\
   &{\dn du.hkha.m}&du.h|kha.m&\duHkham\\
@@ -379,9 +382,10 @@
   &&'|&\aprefix\\
   &&&\\
   &&bhaa|vo&\bhAvaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhaya.m}&bha|ya.m&\bhayam\\
   &&&\\
   &{\dn caabhayameva}&caa|&\ca\\
@@ -394,6 +398,9 @@
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 5}
@@ -426,7 +433,7 @@
   donation, fame, non-fame are behaviors of beings (of me)
   really---separate kinds.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ahi.msaa}&a|&\aprefix\\
@@ -523,7 +530,7 @@
   to (my) mind. Ones (of) the world---these (people) bearing---(are)
   born (from them).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mahar.saya.h}&ma|har|&{\dn maha}\\
@@ -542,9 +549,10 @@
   &{\dn puurve}&puur|ve&at/in/on a/the person/thing previous\\
   &&&\note{\adjective, \male, \locativecase}\\
   &&&\note{from {\dn puurva.h} = puurva.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn catvaaro}&cat|vaa|ro&catvaara.h\\
   &&&= {\dn catvaara.h}\\
   &&&= four\\
@@ -558,10 +566,9 @@
   &&&\note{from {\dn manu.h} = manu.h}\\
   &&&\\
   &&thaa&\tathaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn madbhaavaa}&mad|&\mat\\
   &&&\\
   &&bhaa|vaa&\bhAvAH\\
@@ -577,9 +584,10 @@
   &&&= born\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn jaata.h} = jaata.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ye.saa.m}&ye|.saa.m&\yeSAm\\
   &&&\\
   &{\dn loka}&lo|ka&\lokaH\\
@@ -588,6 +596,9 @@
   &&&\\
   &{\dn prajaa.h}&pra|jaa\h{aa}&\prajAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 7}
@@ -625,7 +636,7 @@
   One (who) knows truthfully these power and yoking of me---he, using
   no-choice, using yoking, is yoked here, no doubt.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn etaa.m}&e|taa.m&\etaan\\
@@ -639,9 +650,10 @@
   &{\dn yoga.m}&yo|ga.m&\yogam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn mama}&ma|ma&\mama\\
   &&&\\
   &{\dn yo}&yo&\yaH\\
@@ -650,10 +662,9 @@
   &&&\\
   &{\dn tattvata.h}&tat|tva|ta\h{a}&truthfully\\
   &&&\note{\adverb, \indeclinable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn so.avikalpena}&so|&\saH\\
   &&&\\
   &&'|&\aprefix\\
@@ -716,7 +727,7 @@
   I (am) the birth of all. From me, each proceeds. Thus, having known
   (me), wise men associated with behavior cherish me.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aha.m}&a|ha.m&\aham\\
@@ -805,7 +816,6 @@
   mutually informing and telling (one another about) me, eternally---and
   (they) are pleased and (they) enjoy (me).
 \end{mytranslation}
-\newpage
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn maccittaa}&mac|&\mat\\
@@ -821,19 +831,19 @@
   &&ga|ta|&\gataH\\
   &&&\\
   &&praa|.naa&\prANAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bodhayanta.h}&bo|dha|yan|ta\h{a}&(?)\\
   &&&\note{similar: \noun, \male, {\dn bodha.h} = bodha.h}\\
   &&&\note{= knowledge; informing}\\
   &&&\\
   &{\dn parasparam}&pa|ra|spa|ram&mutually\\
   &&&\note{\adverb, \indeclinable}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kathayanta"sca}&ka|tha|yan|ta"s|&kathayanta.h\\
   &&&= {\dn kathayanta.h}\\
   &&&= (?) ``tell''\\
@@ -898,7 +908,7 @@
   friendliness-previous, I give that intelligence-yoking (to) those
   (who) approach me.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn te.saa.m}&te|.saa.m&\teSAm\\
@@ -906,9 +916,10 @@
   &{\dn satatayuktaanaa.m}&sa|ta|ta|&\satataH\\
   &&&\\
   &&yuk|taa|naa.m&\yuktaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhajataa.m}&bha|ja|taa.m&bhajataam\\
   &&&= {\dn bhajataam}\\
   &&&= (?)\\
@@ -925,10 +936,9 @@
   &&&= previous\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn puurvaka.h} = puurvaka.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn dadaami}&da|daa|mi&\dadaami\\
   &&&\\
   &{\dn buddhiyoga.m}&bud|dhi|&\buddhiH\\
@@ -936,9 +946,10 @@
   &&yo|ga.m&\yogam\\
   &&&\\
   &{\dn ta.m}&ta.m&\tam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yena}&ye|na&\yena\\
   &&&\\
   &{\dn maamupayaanti}&maa|mu|&\maam\\
@@ -951,6 +962,9 @@
   &&&\\
   &{\dn te}&te&\te\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 11}
@@ -983,7 +997,7 @@
   non-knowledge---born (of) darkness, self-behavior-staying---using the
   knowledge-lamp-brightness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn te.saamevaanukampaarthamahamaj~naanaja.mtama.h}\\
@@ -1081,15 +1095,16 @@
   paramount man, eternal (and) divine, the first deity, not-born, (and)
   powerful.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn para.m}&pa|ra.m&\param\\
   &&&\\
   &{\dn brahma}&brah|ma&\brahma\\
@@ -1099,10 +1114,9 @@
   &{\dn dhaama}&dhaa|ma&O residence\\
   &&&\note{\noun, \neuter, \vocativecase}\\
   &&&\note{from {\dn dhaamam} = dhaamam}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn pavitra.m}&pa|vi|tra.m&pavitram\\
   &&&= {\dn pavitram}\\
   &&&= pure; holy\\
@@ -1112,9 +1126,10 @@
   &&&\\
   &{\dn bhavaan}&bha|vaan&you\\
   &&&\note{\pronoun, \secondperson, \singular, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn puru.sa.m}&pu|ru|.sa.m&\puruSam\\
   &&&\\
   &{\dn "saa"svata.m}&"saa|"sva|ta.m&"saa"svatam\\
@@ -1126,10 +1141,9 @@
   &&&= {\dn divyam}\\
   &&&= divine\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&&maa|di|&\AdiH\\
   &&&\\
   &&de|va|ma|&\devam\\
@@ -1182,7 +1196,7 @@
   All sages---deity-sage---Naarada, likewise, Asita, Devala, and Vyaasa
   (know?) you. And (yourself), really, you say (something) for me.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aahustvaam.r.saya.h}&aa|hu|&aahu.h\\
@@ -1198,9 +1212,10 @@
   &&&\note{from {\dn .r.si.h} = .r.si.h}\\
   &&&\\
   &{\dn sarve}&sar|ve&\sarve\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn devar.sirnaaradastathaa}&de|var|&\devaH\\
   &&&\\
   &&.sir|&.r.si.h\\
@@ -1214,10 +1229,9 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&thaa&\tathaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn asito}&a|si|to&asita.h\\
   &&&= {\dn asita.h}\\
   &&&= Asita\\
@@ -1286,7 +1300,7 @@
   (O \textkrsna). Surely, God, not deities and not demons (know) the
   visible form of you.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvametad.rta.m}&sar|va|me|&\sarvam\\
@@ -1389,7 +1403,7 @@
   ultimate-man, O being-birth-giver, O being-lord, O deity-deity (O
   deity of deities), O world-lord.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn svayamevaatmanaatmaana.m}&sva|ya|me|&svayam\\
@@ -1402,9 +1416,10 @@
   &&ma|naat|&\aatmanaa\\
   &&&\\
   &&maa|na.m&\aatmaanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vettha}&vet|tha|&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular,}\\
   &&&\note{{\dn vetti} = vetti = (he/she/it) knows}\\
@@ -1415,10 +1430,9 @@
   &{\dn puru.sottama}&pu|ru|.sot|&\puruSaH\\
   &&&\\
   &&ta|ma&\uttama\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhuutabhaavana}&bhuu|ta|&\bhuutam\\
   &&&\\
   &&bhaa|va|na&bhaavana\\
@@ -1434,9 +1448,10 @@
   &&&= O lord\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn ii"sa.h} = ii"sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn devadeva}&de|va|&\devaH\\
   &&&\\
   &&de|va&deva\\
@@ -1449,6 +1464,9 @@
   &&&\\
   &&pa|te&\pate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 16}
@@ -1481,7 +1499,7 @@
   self---using (items) of power, (you) stay (in) these penetrable
   worlds.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vaktumarhasya"se.se.na}&vak|tu|mar|&vaktum\\
@@ -1497,9 +1515,10 @@
   &&&= by using all\\
   &&&\note{\adjective, \male, \genitivecase}\\
   &&&\note{from {\dn a"se.sa.h} = a"se.sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn divyaa}&di|vyaa&divyaa.h\\
   &&&= {\dn divyaa.h}\\
   &&&= divine\\
@@ -1516,10 +1535,9 @@
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn vibhuuta} = vibhuuta}\\
   &&&\note{= great}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn yaabhirvibhuutibhirlokaanimaa.mstva.m}\\
   &&&\\
   &&yaa|bhir|&\yAbhiH\\
@@ -1531,9 +1549,10 @@
   &&&\note{from {\dn vibhuuti.h} = vibhuuti.h}\\
   &&&\\
   &&lo|kaa|&\lokaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&ni|maa.m|&\imaan\\
   &&&\\
   &&stva.m&\tvam\\
@@ -1545,6 +1564,9 @@
   &&&\note{\verbb, \presenttense, \secondperson, \singular}\\
   &&&\note{root: {\dn sthaa} = sthaa}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 17}
@@ -1577,7 +1599,7 @@
   of you? And ``in-what-in-what'' (whatever) existences are you to be
   thought, O God, by me?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn katha.m}&ka|tha.m&katham = {\dn katham} = how\\
@@ -1597,9 +1619,10 @@
   &&&= O \textkrsna\\
   &&&\note{\noun, \male, \vocativecase}\\
   &&&\note{from {\dn yogin} = yogin}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&stvaa.m&\tvaam\\
   &&&\\
   &{\dn sadaa}&sa|daa&eternally; always\\
@@ -1608,10 +1631,9 @@
   &{\dn paricintayan}&pa|ri|cin|ta|yan&thinking of\\
   &&&\note{\verbb, \presentparticiple}\\
   &&&\note{root: {\dn paricint} = paricint}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ke.su}&ke|.su&\keSu\\
   &&&\\
   &{\dn ke.su}&ke|.su&\keSu\\
@@ -1677,7 +1699,7 @@
   (things about your) yoking and power. Contentment, surely---is not
   (hearing) (you like) nectar for me?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vistare.naatmano}&vi|sta|re|.naat|&vistare.na\\
@@ -1689,9 +1711,10 @@
   &&ma|no&\AtmanaH\\
   &&&\\
   &{\dn yoga.m}&yo|ga.m&\yogam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vibhuuti.m}&vi|bhuu|ti.m&vibhuutim\\
   &&&= {\dn vibhuutim}\\
   &&&= power; wealth\\
@@ -1703,10 +1726,9 @@
   &{\dn janaardana}&ja|naar|&\janaH\\
   &&&\\
   &&da|na&\ardana\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn bhuuya.h}&bhuu|ya\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn bhuuyam} = bhuuyam}\\
   &&&\note{= being; becoming}\\
@@ -1723,9 +1745,10 @@
   &&&\note{\noun, \female}\\
   &&&\\
   &&hi&\hi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "s.r.nvato}&"s.r.n|va|to&"s.r.nvata.h\\
   &&&= {\dn "s.r.nvata.h}\\
   &&&= (?)\\
@@ -1744,6 +1767,9 @@
   &&&= nectar; ambrosia\\
   &&&\note{\noun, \neuter}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 19}
@@ -1788,7 +1814,7 @@
   about), surely, principally, O Kuru-best (O Arjuna). The extensiveness
   of me is no end.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -1796,9 +1822,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn hanta}&han|ta&``interjection''\\
   &&&\note{\interjection, \indeclinable}\\
   &&&\\
@@ -1808,10 +1835,9 @@
   &&&\note{\verbb, \futuretensecertain}\\
   &&&\note{\firstperson, \singular}\\
   &&&\note{root: {\dn kath} = kath}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn divyaa}&di|vyaa&divyaa.h = {\dn divyaa.h} = divine\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn divya.h} = divya.h}\\
@@ -1893,7 +1919,7 @@
   heart of each being). And I (am) the beginning and middle and end of
   beings, really.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ahamaatmaa}&a|ha|maat|&\aham\\
@@ -1901,9 +1927,10 @@
   &&maa&\aatmaa\\
   &&&\\
   &{\dn gu.daake"sa}&gu|.daa|ke|"sa&\guDAkeza\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sarvabhuutaa"sayasthita.h}&sar|va|&\sarvam\\
   &&&\\
   &&bhuu|taa|&\bhuutam\\
@@ -1914,10 +1941,9 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&sthi|ta\h{a}&\sthitaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ahamaadi"sca}&a|ha|maa|&\aham\\
   &&&\\
   &&di"s|&\AdiH\\
@@ -1927,9 +1953,10 @@
   &{\dn madhya.m}&ma|dhya.m&\madhyam\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bhuutaanaamanta}&bhuu|taa|naa|man|&\bhuutaanaam\\
   &&&\\
   &&ta&\antaH\\
@@ -1938,6 +1965,9 @@
   &&&\\
   &{\dn ca}&ca&\ca\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 21}
@@ -1970,7 +2000,7 @@
   (I am) the (luminous) sun. (I) am Mariici, of the gods of the winds or
   storms. Of stars, I (am) the moon.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aadityaanaamaha.m}&\multicolumn{2}{l}{aa|di|tyaa|naa|ma|}\\
@@ -1986,9 +2016,10 @@
   &&&= {\dn vi.s.nu.h}\\
   &&&= Vi.s.nu\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&jyo|ti|.saam&\jyotiinaam\\
   &&&\\
   &{\dn ravira.m"sumaan}&ra|vi|ra.m|&ravi\\
@@ -2001,10 +2032,9 @@
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn a.m"sumat} = a.m"sumat}\\
   &&&\note{= luminous; radiant}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mariicirmarutaamasmi}&ma|rii|cir|&mariici.h\\
   &&&= {\dn mariici.h}\\
   &&&= Mariici\\
@@ -2072,7 +2102,7 @@
   king of the gods). Of senses, (I) am the mind. And of beings, (I) am
   consciousness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn vedaanaa.m}&ve|daa|naa.m&\vedaanaam\\
@@ -2085,9 +2115,10 @@
   &&ve|do|&\vedaH\\
   &&&\\
   &&'smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn devaanaamasmi}&de|vaa|naa|ma|&\devaanaam\\
   &&&\\
   &&smi&\asmi\\
@@ -2096,10 +2127,9 @@
   &&&= Indra\\
   &&&= king of the gods\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn indriyaa.naa.m}&in|dri|yaa|.naa.m&\indriyANAm\\
   &&&\\
   &{\dn mana"scaasmi}&ma|na"s|&\manaH\\
@@ -2155,7 +2185,7 @@
   (I am) the money-lord. Of the eight Vasu gods, (I) am fire, and of
   peaks (of mountains), I (am) Meru.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn rudraa.naa.m}&ru|draa|.naa.m&rudraa.naam = {\dn rudraa.naam} = of sons of Rudra\\
@@ -2170,9 +2200,10 @@
   &&caa|&\ca\\
   &&&\\
   &&smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vitte"so}&vit|te|&vittam\\
   &&&= {\dn vittam}\\
   &&&= money\\
@@ -2194,10 +2225,9 @@
   &&&= of demons\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn raak.sa.h} = raak.sa.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vasuunaa.m}&va|suu|naa.m&of the eight Vasu gods\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn vasu.h} = vasu.h}\\
@@ -2262,7 +2292,7 @@
   B.rhaspati (the god of prayers). Of generals, I (am) Skanda (the god
   of war). Of (bodies of) water, (I) am the sea.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn purodhasaa.m}&pu|ro|dha|saa.m&purodhasaam\\
@@ -2280,9 +2310,10 @@
   &&&\note{from {\dn mukhya.h} = mukhya.h}\\
   &&&\\
   &{\dn maa.m}&maa.m&\maam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn viddhi}&vid|dhi&\viddhiH\\
   &&&\\
   &{\dn paartha}&paar|tha&\paartha\\
@@ -2291,10 +2322,9 @@
   &&&= the god of prayers\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn b.rhaspati.h} = b.rhaspati.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn senaaniinaamaha.m}&se|naa|nii|naa|ma|&senaaniinaam\\
   &&&= {\dn senaaniinaam}\\
   &&&= (?) of generals\\
@@ -2359,7 +2389,7 @@
   muttering-prayer-sacrifice. Of things steadfast, (I am) the
   ``winter-house'' (``Himaalaya'' mountains).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mahar.sii.naa.m}&ma|har|&\mahaan\\
@@ -2467,7 +2497,7 @@
   Naarada. Of musician gods, (I am) Citraratha. Of successful men, (I
   am) the monk Kapila.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn a"svattha.h}&a|"svat|tha\h{a}&fig tree\\
@@ -2482,9 +2512,10 @@
   &&&= of trees\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn v.rk.sa.h} = v.rk.sa.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn devar.sii.naa.m}&de|var|&\devaH\\
   &&&\\
   &&.sii|.naa.m&.r.sii.naam\\
@@ -2497,10 +2528,9 @@
   &&&\\
   &{\dn naarada.h}&naa|ra|da\h{a}&Naarada\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn gandharvaa.naa.m}&gan|dhar|vaa|.naa.m&gandharvaa.naam\\
   &&&= {\dn gandharvaa.naam}\\
   &&&= of musician gods\\
@@ -2564,7 +2594,7 @@
   Indra (god of the sky, king of the gods), (I am) Airaavata. And of
   men, (I am) the man-king.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn uccai.h"sravasama"svaanaa.m}&\multicolumn{2}{l}{uc|cai.h|"sra|va|sa|ma|}\\
@@ -2580,9 +2610,10 @@
   &&&= of horses\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn a"sva.h} = a"sva.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn viddhi}&vid|dhi&\viddhiH\\
   &&&\\
   &{\dn maam}&maam&\maam\\
@@ -2599,10 +2630,9 @@
   &&&= birth\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn udbhava.h} = udbhava.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn airaavata.m}&ai|raa|va|ta.m&airaavatam\\
   &&&= {\dn airaavatam}\\
   &&&= Airaavata\\
@@ -2619,9 +2649,10 @@
   &&&= of things of Indra (god of the sky, king of the gods)\\
   &&&\note{\noun, \male(?), \plural, \genitivecase}\\
   &&&\note{from {\dn indra.h} = indra.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naraa.naa.m}&na|raa|.naa.m&\narANAm\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2634,6 +2665,9 @@
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn adhipa.h} = adhipa.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 28}
@@ -2673,7 +2707,7 @@
   (cow). And impregnation---(I) am Cupid (the god of love). Of serpents,
   (I) am Vaasuki (the king of serpents).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aayudhaanaamaha.m}&aa|yu|dhaa|naa|ma|&aayudhaanaam\\
@@ -2690,9 +2724,10 @@
   &&&(weapon of Indra, god of the sky,\\
   &&&and king of gods)\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn dhenuunaamasmi}&dhe|nuu|naa|ma|&dhenuunaam\\
   &&&= {\dn dhenuunaam}\\
   &&&= of cows\\
@@ -2707,10 +2742,9 @@
   &&&= (?)\\
   &&&\note{similar: \adjective, {\dn dugha} = dugha}\\
   &&&\note{= yielding}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn prajana"scaasmi}&pra|ja|na"s|&prajana.h\\
   &&&= {\dn prajana.h}\\
   &&&= father; impregnation\\
@@ -2778,7 +2812,7 @@
   (Literally, ``Ananta'' means ``no end'': {\dn ananta.h} = ananta.h = an
   + anta.h = {\dn an} + {\dn anta.h} = no + end.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ananta"scaasmi}&a|nan|ta"s|&ananta.h\\
@@ -2795,9 +2829,10 @@
   &&&= of cobras; serpents\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn naaga.h} = naaga.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn varu.no}&va|ru|.no&varu.na.h\\
   &&&= {\dn varu.na.h}\\
   &&&= Varu.na (god of water)\\
@@ -2810,10 +2845,9 @@
   &&&\note{from {\dn yaadas} = yaadas}\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pit.R.naamaryamaa}&pi|t.rr|.naa|mar|&pit.rr.naam\\
   &&&= {\dn pit.R.naam}\\
   &&&= of fathers; paternal ancestors\\
@@ -2879,7 +2913,7 @@
   deer-(god). And of birds, (I am) Vainateya (Garu.da, the eagle ridden
   by Vi.s.nu).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn prahlaada"scaasmi}&prah|laa|da"s&prahlaada.h\\
@@ -2897,9 +2931,10 @@
   &&&= of demons\\
   &&&\note{\noun, \male, \plural, \genitivecase}\\
   &&&\note{from {\dn daitya.h} = daitya.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn kaala.h}&kaa|la\h{a}&\kAlaH\\
   &&&\\
   &{\dn kalayataamaham}&ka|la|ya|taa|ma|&kalayataam\\
@@ -2907,10 +2942,9 @@
   &&&= (?)\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn m.rgaa.naa.m}&m.r|gaa|.naa.m&m.rgaa.naam\\
   &&&= {\dn m.rgaa.naam}\\
   &&&= of deer\\
@@ -2983,7 +3017,7 @@
   (am) Raama. And of fish, (I) am an alligator. Of streams, (I) am the
   Ga"nga (Ganges) River.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn pavana.h}&pa|va|na\h{a}&purifier; air; wind; Pavana (god of wind)\\
@@ -2998,9 +3032,10 @@
   &&&\note{root: {\dn puu} = puu}\\
   &&&\\
   &&smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn raama.h}&raa|ma\h{a}&Raama\\
   &&&\note{\noun, \male}\\
   &&&\\
@@ -3013,10 +3048,9 @@
   &&&\note{from {\dn bh.rta.h} = bh.rta.h}\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn jha.saa.naa.m}&jha|.saa|.naa.m&jha.saa.naam\\
   &&&= {\dn jha.saa.naam}\\
   &&&= of fish\\
@@ -3083,7 +3117,7 @@
   Arjuna. Of (pieces of) knowledge, (I am) self-knowledge. Of
   (occurrences of) saying, I (am) a theory.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sargaa.naamaadiranta"sca}&sar|gaa|.naa|maa|&sargaa.naam\\
@@ -3097,9 +3131,10 @@
   &&ta"s|&\antaH\\
   &&&\\
   &&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn madhya.m}&ma|dhya.m&\madhyam\\
   &&&\\
   &{\dn caivaahamarjuna}&cai|&\ca\\
@@ -3109,10 +3144,9 @@
   &&ha|mar|&\aham\\
   &&&\\
   &&ju|na&\arjuna\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn adhyaatmavidyaa}&a|dhyaat|ma|&\adhyaatmaa\\
   &&&\\
   &&vi|dyaa&{\dn vidyaa}\\
@@ -3176,7 +3210,7 @@
   compound word, (I am) duality. I, really, (am) non-(decaying) time. I
   (am) in-all-directions-(facing).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ak.saraa.naamakaaro.asmi}&a|k.sa|raa|.naa|&ak.saraa.naam\\
@@ -3195,9 +3229,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&'smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn dvandva.h}&dvan|dva\h{a}&(?)\\
   &&&\note{similar: \noun, \neuter, {\dn dvandvam} = dvandvam}\\
   &&&\note{= duality}\\
@@ -3207,10 +3242,9 @@
   &&&\note{from {\dn saamaasikam} = saamaasikam}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ahamevaak.saya.h}&a|ha|me|&\aham\\
   &&&\\
   &&vaa|&\eva\\
@@ -3271,7 +3305,7 @@
   of women, (I am) fame, splendor, voice, remembering, intelligence,
   steadfastness, (and) patience.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn m.rtyu.h}&m.r|tyu\h{u}&death; god of disease\\
@@ -3287,9 +3321,10 @@
   &&caa|&\ca\\
   &&&\\
   &&ha|&\aham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&mud|bha|va"s|&udbhava.h\\
   &&&= {\dn udbhava.h}\\
   &&&= birth\\
@@ -3300,10 +3335,9 @@
   &{\dn bhavi.syataam}&bha|vi|.sya|taam&(?) of imminent things\\
   &&&\note{\adjective, \male(?), \plural, \genitivecase}\\
   &&&\note{from {\dn bhavi.syat} = bhavi.syat}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn kiirti.h}&kiir|ti\h{i}&\kIrtiH\\
   &&&\\
   &{\dn "sriirvaakca}&"sriir|&zrI\\
@@ -3368,7 +3402,7 @@
   calendar, believed to be auspicious). Of seasons, (I am) the
   flower-abundance.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn b.rhatsaama}&b.r|hat|&{\dn b.rhat}\\
@@ -3389,9 +3423,10 @@
   &&&= of songs\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn saaman} = saaman}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn gaayatrii}&gaa|ya|trii&song with 24 syllables\\
   &&&\note{\noun, \female}\\
   &&&\\
@@ -3402,10 +3437,9 @@
   &&&\note{from {\dn chandas} = chandas}\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn maasaanaa.m}&maa|saa|naa.m&maasaanaam\\
   &&&= {\dn maasaanaam}\\
   &&&= of moons; months\\
@@ -3476,7 +3510,7 @@
   (am) brightness. Of determination, (I) am victory. Of
   strength-full-things, I (am) strength.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn dyuuta.m}&dyuu|ta.m&dyuutam\\
@@ -3497,9 +3531,10 @@
   &&&\note{root: {\dn chal} = chal}\\
   &&&\\
   &&smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn tejastejasvinaamaham}\\
   &&&\\
   &&te|ja|ste|&\tejas\\
@@ -3511,10 +3546,9 @@
   &&&\note{from {\dn tejasvin} = tejasvin}\\
   &&&\\
   &&ham&\aham\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn jayo.asmi}&ja|yo|&\jayaH\\
   &&&\\
   &&'smi&\asmi\\
@@ -3525,9 +3559,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&'smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn sattva.m}&sat|tva.m&\sattvam\\
   &&&\\
   &{\dn sattvavataamaham}&sat|tva|&\sattvam\\
@@ -3539,6 +3574,9 @@
   &&&\\
   &&ham&\aham\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 37}
@@ -3577,7 +3615,7 @@
   Paa.n.davas, (I am) money-victory. Of monks, also, I (am) Vyaasa. Of
   sages, (I am) the sage U"sanaa.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn v.r.s.niinaa.m}&v.r|.s.nii|naa.m&v.r.s.niinaam\\
@@ -3592,9 +3630,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&'smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn paa.n.davaanaa.m}&paa.n|.da|vaa|naa.m&paa.n.davaanaam\\
   &&&= {\dn paa.n.davaanaam}\\
   &&&= of Paa.n.davas\\
@@ -3604,10 +3643,9 @@
   &{\dn dhana~njaya.h}&dha|na\~{}n|&\dhanam\\
   &&&\\
   &&ja|ya\h{a}&\jayaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn muniinaamapyaha.m}&mu|nii|naa|ma|&\muniinaam\\
   &&&\\
   &&pya|&\api\\
@@ -3670,7 +3708,7 @@
   wanting to win, (I) am ethics. And really, of mysteries, (I) am
   silence. Of knowledge-full-people, I (am) knowledge.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn da.n.do}&da.n|.do&da.n.dah\\
@@ -3685,9 +3723,10 @@
   &&&\note{from {\dn damayat} = damayat}\\
   &&&\\
   &&smi&\asmi\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn niitirasmi}&nii|ti|ra|&niiti.h\\
   &&&= {\dn niiti.h}\\
   &&&= policy; ethics; behavior; morality\\
@@ -3698,10 +3737,9 @@
   &{\dn jigii.sataam}&ji|gii|.sa|taam&(?) of people wanting to win\\
   &&&\note{\noun, \male(?), \plural, \genitivecase}\\
   &&&\note{from {\dn jigii.sat} = jigii.sat}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn mauna.m}&mau|na.m&maunam\\
   &&&= {\dn maunam}\\
   &&&= silence\\
@@ -3714,9 +3752,10 @@
   &&smi&\asmi\\
   &&&\\
   &{\dn guhyaanaa.m}&gu|hyaa|naa.m&\guhyaanaam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn j~naana.m}&j\~{}naa|na.m&\jJAnam\\
   &&&\\
   &{\dn j~naanavataamaham}&j\~{}naa|na|&\jJAnam\\
@@ -3728,6 +3767,9 @@
   &&&\\
   &&ham&\aham\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 39}
@@ -3759,7 +3801,7 @@
   And also, I (am) that one seed of all beings, O Arjuna. That is not a
   being---moving (or) not-moving---who (is) without using me, perhaps.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yaccaapi}&yac|&\yat\\
@@ -3862,7 +3904,7 @@
   me, O destroying-of-enemies (O Arjuna). But this (speech) proclaimed
   by me (is) a (brief description) of the power vastness (of me).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn naanto.asti}&naan|&\na\\
@@ -3878,9 +3920,10 @@
   &&&= of divine things\\
   &&&\note{\noun, \neuter, \plural, \genitivecase}\\
   &&&\note{from {\dn divyam} = divyam}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn vibhuutiinaa.m}&vi|bhuu|tii|naa.m&vibhuutiinaam\\
   &&&= {\dn vibhuutiinaam}\\
   &&&= of (occurrences of) power; wealth\\
@@ -3888,10 +3931,9 @@
   &&&\note{from {\dn vibhuuti.h} = vibhuuti.h}\\
   &&&\\
   &{\dn parantapa}&pa|ran|ta|pa&\parantapa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn e.sa}&e|.sa&\eSaH\\
   &&&\\
   &{\dn tuudde"sata.h}&tuud|&\tu\\
@@ -4032,9 +4074,6 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\quad
-\newpage
-% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 10, Verse 42}
 
 \quad
@@ -4065,7 +4104,7 @@
   Arjuna? I, using one part, (am) steadfast---stopped (is) all this
   world.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn athavaa}&a|tha|&\atha\\
@@ -4079,9 +4118,10 @@
   &&&= by using that/it\\
   &&&\note{\pronoun, \thirdperson, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn tat} = tat}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn ki.m}&ki.m&\kim\\
   &&&\\
   &{\dn j~naatena}&j\~{}naa|te|na&by using a/the person/thing known\\
@@ -4091,10 +4131,9 @@
   &{\dn tavaarjuna}&ta|vaar|&\tava\\
   &&&\\
   &&ju|na&\arjuna\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vi.s.tabhyaahamida.m}&vi|.s.ta|bhyaa|&vi.s.tabhya\\
   &&&= {\dn vi.s.tabhya}\\
   &&&= (?) ``stopped''\\
@@ -4107,9 +4146,10 @@
   &&&= {\dn k.rtsnam}\\
   &&&= all\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&&me|kaa.m|&\ekaH\\
   &&&\\
   &&"se|na&a.m"sena\\
