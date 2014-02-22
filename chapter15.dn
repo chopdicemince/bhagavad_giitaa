@@ -37,7 +37,7 @@
   non-perishable, whose leaves (are) chant(s). One who (knows) that
   (tree)---he (knows).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -45,9 +45,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca|&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn uurdhvamuulamadha.h"saakhama"svattha.m}\\
   &&&\\
   &&uur|dhva|&{\dn uurdhva} = upright\\
@@ -64,10 +65,9 @@
   &&&= branch; part\\
   &&&\note{\noun, \female, \accusativecase}\\
   &&&\note{from {\dn "saakhaa} = "saakhaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&&ma|"svat|tha.m&a"svattham = {\dn a"svattham} = fig tree\\
   &&&\note{\noun, \male, \accusativecase}\\
   &&&\note{from {\dn a"svattha.h} = a"svattha.h}\\
@@ -175,10 +175,9 @@
   &&&\\
   &{\dn "saakhaa}&"saa|khaa&branch; part\\
   &&&\note{\noun, \female}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn gu.naprav.rddhaa}&gu|.na|&\guNaH\\
   &&&\\
   &&pra|v.rd|dhaa&prav.rddhaa.h\\
@@ -362,9 +361,6 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
-\quad
-\newpage
-% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 4}
 
 \quad
@@ -404,7 +400,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tata.h}&ta|ta\h{a}&\tataH\\
@@ -537,10 +533,9 @@
   &&&= defects; evil; sins\\
   &&&\note{\noun, \male, \plural}\\
   &&&\note{from {\dn do.sa.h} = do.sa.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn adhyaatmanityaa}&a|dhyaat|ma|&\adhyAtmaH\\
   &&&\\
   &&ni|tyaa&\nityAH\\
@@ -631,7 +626,7 @@
   moon. Nor fire. One, having gone (to) that paramount residence of me,
   does not return.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn na}&na&\na\\
@@ -644,9 +639,10 @@
   &&&\note{root: {\dn bhaas} = bhaas}\\
   &&&\\
   &{\dn suuryo}&suur|yo&\sUryaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn na}&na&\na\\
   &&&\\
   &{\dn "sa"saa"nko}&"sa|"saa"n|ko&"sa"saa"nka.h\\
@@ -658,10 +654,9 @@
   &&&\\
   &{\dn paavaka.h}&paa|va|ka\h{a}&fire; god of fire; saint\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yadgatvaa}&yad|&\yat\\
   &&&\\
   &&ga|tvaa&\gatvaa\\
@@ -671,9 +666,10 @@
   &{\dn nivartante}&ni|var|tan|te&(they) vanish; stop; retreat; return\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn niv.rt} = niv.rt}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn taddhaama}&tad|&\tat\\
   &&&\\
   &&dhaa|ma&dhaamam\\
@@ -686,6 +682,9 @@
   &&&\\
   &{\dn mama}&ma|ma&\mama\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 7}
@@ -723,7 +722,7 @@
   Really, a part of me (is) in the life-world. An eternal life-devotee
   masters the mind-six-senses, (while being) primal-form-standing.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mamaivaa.m"so}&ma|mai|&\mama\\
@@ -741,9 +740,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&lo|ke&\loke\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn jiivabhuuta.h}&jii|va|&jiiva.h\\
   &&&= {\dn jiiva.h}\\
   &&&= life\\
@@ -755,10 +755,9 @@
   &&&\\
   &{\dn sanaatana.h}&sa|naa|ta|na\h{a}&eternal\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn mana.h.sa.s.thaaniindriyaa.ni}\\
   &&&\\
   &&ma|na\h{a}&\manaH\\
@@ -818,7 +817,7 @@
   God---having taken these (things), (the being) travels with
   (them)---(like) wind-scents from a receptacle.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "sariira.m}&"sa|rii|ra.m&\zarIram\\
@@ -921,7 +920,7 @@
   An ear, an eye, and touch, a tongue, a nose, really,
   and---(standing)---and this mind. (A being) serves (these) objects.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "srotra.m}&"sro|tra.m&"srotram\\
@@ -938,9 +937,10 @@
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn rasana.m}&ra|sa|na.m&\rasanam\\
   &&&\\
   &{\dn ghraa.nameva}&ghraa|.na|me|&ghraa.nam\\
@@ -951,10 +951,9 @@
   &&va&\eva\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn adhi.s.thaaya}&a|dhi|.s.thaa|ya&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{{\dn adhiti.s.thati} = adhiti.s.thati}\\
@@ -1023,7 +1022,7 @@
   string-having? Stupid (people) do not see. Knowledge-eyes (people)
   see.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn utkraamanta.m}&ut|kraa|man|ta.m&utkraamantam\\
@@ -1039,9 +1038,10 @@
   &{\dn vaapi}&vaa|&{\dn vaa} = \vaa\\
   &&&\\
   &&pi&\api\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn bhu~njaana.m}&bhu\~{}n|jaa|na.m&(?)\\
   &&&\note{similar: \verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{{\dn bhunakti} = bhunakti = (he/she/it) enjoys}\\
@@ -1055,10 +1055,9 @@
   &&&= {\dn anvitam}\\
   &&&= having\\
   &&&\note{\adjective, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vimuu.dhaa}&vi|muu|.dhaa&\vimUDhAH\\
   &&&\\
   &{\dn naanupa"syanti}&naa|&\na\\
@@ -1114,7 +1113,7 @@
   steadfast. \dots (?) \dots Also, non-acted-on-selves---non-minds---do
   not see this (situation).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yatanto}&ya|tan|to&yatanta.h\\
@@ -1126,9 +1125,10 @@
   &&cai|&\ca\\
   &&&\\
   &&na.m&\enam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn pa"syantyaatmanyavasthitam}\\
   &&&\\
   &&pa|"syan|tyaat|&\pazyanti\\
@@ -1136,10 +1136,9 @@
   &&ma|nya|&\aatmani\\
   &&&\\
   &&va|sthi|tam&\avasthitam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn yatanto.apyak.rtaatmaano}\\
   &&&\\
   &&ya|tan|to|&yatanta.h\\
@@ -1156,9 +1155,10 @@
   &&&\note{\adjective}\\
   &&&\\
   &&maa|no&\AtmAnaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn naina.m}&nai|&\na\\
   &&&\\
   &&na.m&\enam\\
@@ -1169,6 +1169,9 @@
   &&&\\
   &&ce|ta|sa\h{a}&\cetasaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 12}
@@ -1206,7 +1209,7 @@
   What sun-gone fire shines on all the world? What in the moon? And what
   in a fire? (Know) that fire of me.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yadaadityagata.m}&ya|daa|&\yat\\
@@ -1304,7 +1307,7 @@
   Using power, I bear beings and (enter) \dots (?) \dots. And having
   been the moon, (and) made of juice, (I) cause all plants to prosper.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn gaamaavi"sya}&gaa|maa|&gaam\\
@@ -1322,9 +1325,10 @@
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn bhuutaani}&bhuu|taa|ni&\bhuutaani\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn dhaarayaamyahamojasaa}\\
   &&&\\
   &&dhaa|ra|yaa|mya|&dhaarayaami\\
@@ -1340,10 +1344,9 @@
   &&&= (?) by using power\\
   &&&\note{\noun, \neuter, \instrumentalcase}\\
   &&&\note{from {\dn ojas} = ojas}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pu.s.naami}&pu|.s.naa|mi&(I) propser; cause to prosper\\
   &&&\note{\verbb, \presenttense, \firstperson, \singular}\\
   &&&\note{root: {\dn pu.s} = pu.s}\\
@@ -1362,9 +1365,10 @@
   &&&\note{\pronoun, \adjective, \adverb, \female, \plural}\\
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\note{from {\dn sarvaa} = sarvaa}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn somo}&so|mo&soma.h\\
   &&&= {\dn soma.h}\\
   &&&= moon\\
@@ -1379,6 +1383,9 @@
   &&&= made of\\
   &&&\note{\suffix}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 14}
@@ -1417,7 +1424,7 @@
   (to) breath (and) air going down to the anus---digest four kind(s)
   (of) food.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aha.m}&a|ha.m&\aham\\
@@ -1428,9 +1435,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &{\dn bhuutvaa}&bhuu|tvaa&\bhuutvaa\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn praa.ninaa.m}&praa|.ni|naa.m&praa.ninaam\\
   &&&= {\dn praa.ninaam}\\
   &&&= (?) of breathing/living things\\
@@ -1443,10 +1451,9 @@
   &&&= {\dn aa"srita.h}\\
   &&&= occupying\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn praa.naapaanasamaayukta.h}\\
   &&&\\
   &&praa|.naa|&\prANaH\\
@@ -1524,7 +1531,7 @@
   (Note: In this verse, each half-line has eleven main syllables,
   instead of the usual eight.)
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sarvasya}&sar|va|sya&\sarvasya\\
@@ -1557,10 +1564,9 @@
   &&&\note{\noun, \neuter}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn vedai"sca}&ve|dai"s|&\vedaiH\\
   &&&\\
   &&ca&\ca\\
@@ -1608,6 +1614,9 @@
 \end{tabular}
 \newpage
 % ------------------------------------------------------------------------------
+\quad
+\newpage
+% ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 16}
 
 \quad
@@ -1644,7 +1653,7 @@
   non-perishable, really. And all beings (are called) perishable. A
   non-perishable (being) is called mountain-peak-standing (best).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn dvaavimau}&dvaa|&dvau = {\dn dvau} = two\\
@@ -1748,7 +1757,7 @@
   who (enters) the (group of three worlds) (and) bears (them)---the
   non-changeable God.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn uttama.h}&ut|ta|ma\h{a}&\uttamaH\\
@@ -1758,9 +1767,10 @@
   &&stva|&\tu\\
   &&&\\
   &&nya\h{a}&\anyaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn paramaatmetyudaah.rta.h}\\
   &&&\\
   &&pa|ra|maat|&\paramaH\\
@@ -1773,10 +1783,9 @@
   &&&= {\dn udaah.rta.h}\\
   &&&= uttered; said; called\\
   &&&\note{\adjective, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yo}&yo&\yaH\\
   &&&\\
   &{\dn lokatrayamaavi"sya}&lo|ka|&\lokaH\\
@@ -1793,9 +1802,10 @@
   &&&\note{{\dn aavi"sati} = aavi"sati}\\
   &&&\note{= (he/she/it) approaches; attains; enters}\\
   &&&\note{root: {\dn aavi"s} = aavis"}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn bibhartyavyaya}&bi|bhar|tya|&bibharti\\
   &&&= {\dn bibharti}\\
   &&&= (he/she/it) bears; carries\\
@@ -1808,6 +1818,9 @@
   &&&\\
   &{\dn ii"svara.h}&ii|"sva|ra\h{a}&\IzvaraH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 18}
@@ -1841,7 +1854,7 @@
   here (therefore), (I) am---in the world, and in (sacred)
   knowledge---known (as) the ultimate man.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn yasmaatk.saramatiito.ahamak.saraadapi}\\
@@ -1860,9 +1873,10 @@
   &&&\note{\adjective, \male}\\
   &&&\\
   &&'ha|&\aham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&k.sa|raa|da|&k.saraat\\
@@ -1876,10 +1890,9 @@
   &{\dn cottama.h}&cot|&\ca\\
   &&&\\
   &&ta|ma\h{a}&\uttamaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ato.asmi}&a|to|&\ataH\\
   &&&\\
   &&'smi&\asmi\\
@@ -1889,9 +1902,10 @@
   &{\dn vede}&ve|de&\vede\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn prathita.h}&pra|thi|ta\h{a}&known; spread; famous\\
   &&&\note{\adjective, \male}\\
   &&&\\
@@ -1899,6 +1913,9 @@
   &&&\\
   &&ta|ma\h{a}&\uttamaH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 15, Verse 19}
@@ -1937,7 +1954,7 @@
   all-(knowing), serves me, using all-behavior, O son of Bharata (O
   Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yo}&yo&\yaH\\
@@ -1949,9 +1966,10 @@
   &&|&\aprefix\\
   &&&\\
   &&sam|muu|.dho&\sammUDhaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn jaanaati}&jaa|naa|ti&(he/she/it) knows\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn j~naa} = j\~{}naa}\\
@@ -1959,10 +1977,9 @@
   &{\dn puru.sottamam}&pu|ru|.sot|&\puruSaH\\
   &&&\\
   &&ta|mam|&\uttamam\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn sa}&sa&\saH\\
   &&&\\
   &{\dn sarvavidbhajati}&sar|va|&{\dn sarva}\\
@@ -2013,7 +2030,7 @@
   Arjuna). Having known this---intelligence may be, and action-action
   [sic]---O son of Bharata (O Arjuna).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn iti}&i|ti&\iti\\
