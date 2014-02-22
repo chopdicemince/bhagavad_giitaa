@@ -43,15 +43,16 @@
   rule(s)---but what (about) the steadfastness of those, O \textkrsna?
   Goodness? Passion? Ignorance?
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn arjuna}&ar|ju|na&\arjunaH\\
   &&&\\
   &{\dn uvaaca}&u|vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn ye}&ye&\ye\\
   &&&\\
   &\multicolumn{3}{l}{\dn "saastravidhimuts.rjya}\\
@@ -65,10 +66,9 @@
   &&&\\
   &&s.r|jya&uts.rjya = {\dn uts.rjya} = abandoning\\
   &&&\note{\adjective}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn yajante}&ya|jan|te&(they) sacrifice\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -80,9 +80,10 @@
   &&&= having\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn anvita.h} = anvita.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2a&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
   &{\dn ni.s.thaa}&ni|.s.thaa&steadfastness\\
@@ -93,10 +94,9 @@
   &{\dn kaa}&kaa&\kaa\\
   &&&\\
   &{\dn k.r.s.na}&k.r|.s.na&\kRSNa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn sattvamaaho}&sat|tva|maa|&\sattvam\\
   &&&\\
   &&ho&aaho\\
@@ -155,7 +155,7 @@
   is) in goodness, in passion, and, really, in darkness. And thus, hear
   that (faith).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   0&{\dn "sriibhagavaanuvaaca}&"srii|&\zrI\\
@@ -163,9 +163,10 @@
   &&bha|ga|vaa|nu|&\bhagavaan\\
   &&&\\
   &&vaa|ca&\uvaaca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1a&{\dn trividhaa}&tri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
   &&&\\
@@ -174,10 +175,9 @@
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   1b&{\dn dehinaa.m}&de|hi|naa.m&\dehinaam\\
   &&&\\
   &{\dn saa}&saa&\saa\\
@@ -261,7 +261,7 @@
   Arjuna).  The faith \dots (?) \dots (of) this man---who---(is) what he
   is faithful with, really.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sattvaanuruupaa}&sat|tvaa|&\sattvam\\
@@ -273,18 +273,18 @@
   &&&\note{from {\dn anuruupa.h} = anuruupa.h}\\
   &&&\\
   &{\dn sarvasya}&sar|va|sya&\sarvasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn "sraddhaa}&"srad|dhaa&\zraddhA\\
   &&&\\
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn bhaarata}&bhaa|ra|ta&\bhaarata\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sraddhaamayo.aya.m}&"srad|dhaa|&\zraddhA\\
   &&&\\
   &&ma|yo|&maya.h\\
@@ -294,9 +294,10 @@
   &&'ya.m&\ayam\\
   &&&\\
   &{\dn puru.so}&pu|ru|s.o&\puruSaH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yo}&yo|&\yaH\\
   &&&\\
   &{\dn yacchraddha.h}&yac|&\yat\\
@@ -312,6 +313,9 @@
   &&&\\
   &{\dn sa.h}&sa\h{a}&\saH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 4}
@@ -344,7 +348,7 @@
   spirit-(demons). Ignorant men sacrifice (to) ghosts, spirit-groups,
   and in another.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yajante}&ya|jan|te&(they) sacrifice\\
@@ -358,9 +362,10 @@
   &&&\note{from {\dn saattvika.h} = saattvika.h}\\
   &&&\\
   &{\dn devaanyak.sarak.saa.msi}&de|vaa|&\devaan\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&nya|k.sa|&yak.sam\\
   &&&= {\dn yak.sam}\\
   &&&= spirit; ghost\\
@@ -375,10 +380,9 @@
   &&&impure; related to menstrual waste\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn raajasa.h} = raajasa.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn pretaanbhuutaga.naa.m"scaanye}\\
   &&&\\
   &&pre|taan|&{\dn pretaan}\\
@@ -397,9 +401,10 @@
   &&caa|&\ca\\
   &&&\\
   &&nye&\anye\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn yajante}&ya|jan|te&(they) sacrifice\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -412,6 +417,9 @@
   &&&\\
   &{\dn janaa.h}&ja|naa\h{aa}&\janAH\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 5}
@@ -450,7 +458,7 @@
   are deceit-ego-yoked, (and are)
   sexual-love(-and)-desire(-and)-strength-having.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn a"saastravihita.m}&a|&\aprefix\\
@@ -562,7 +570,7 @@
   really, in the body-standing---(know) those (as)
   demon(-occurrences-of)-steadfastness.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn kar.sayanta.h}&kar|.sa|yan|ta\h{a}&(?)\\
@@ -664,7 +672,7 @@
   sacrifice, austerity, thus, donation. Of those, hear this
   difference.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn aahaarastvapi}&aa|haa|ra|&aahaara.h\\
@@ -677,9 +685,10 @@
   &&pi&\api\\
   &&&\\
   &{\dn sarvasya}&sar|va|sya&\sarvasya\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn trividho}&tri|&trii.ni = {\dn trii.ni} = three\\
   &&&\note{\noun, \neuter}\\
   &&&\\
@@ -688,10 +697,9 @@
   &{\dn bhavati}&bha|va|ti&\bhavati\\
   &&&\\
   &{\dn priya.h}&pri|ya\h{a}&\priyaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn yaj~nastapastathaa}&ya|j\~{}na|sta|&\yajJaH\\
   &&&\\
   &&pa|sta|&\tapas\\
@@ -699,9 +707,10 @@
   &&thaa&\tathaa\\
   &&&\\
   &{\dn daana.m}&daa|na.m&\daanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn te.saa.m}&te|.saa.m&\teSAm\\
   &&&\\
   &{\dn bhedamima.m}&bhe|da|mi|&bhedam\\
@@ -714,6 +723,9 @@
   &&&\\
   &{\dn "s.r.nu}&"s.r|.nu&\zRNu\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 8}
@@ -746,7 +758,7 @@
   life-goodness-strength-health-happiness-pleasure-increasing. (They
   are) savory, oily, steadfast, (and) pleasing to the heart.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aayu.hsattvabalaarogyasukhapriitivivardhanaa.h}\\
@@ -763,9 +775,10 @@
   &&&= {\dn aarogyam}\\
   &&&= health\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&su|kha&\sukham\\
   &&&\\
   &&prii|ti|&priiti.h\\
@@ -777,10 +790,9 @@
   &&&= increasing\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn vivardhana.h} = vivardhana.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn rasyaa.h}&ra|syaa\h{aa}&savory; juicy\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn rasya.h} = rasya.h}\\
@@ -845,7 +857,7 @@
   bitter-sour-salty-very-hot-hot-rough-hot (thing). (They are)
   distress(-and)-heat(-and)-sickness-causing.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn ka.tvamlalava.naatyu.s.natiik.s.naruuk.savidaahina.h}\\
@@ -872,9 +884,10 @@
   &&&= {\dn u.s.na}\\
   &&&= hot; pungent; acrid\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&tii|k.s.na|&{\dn tiik.s.na}\\
   &&&= hot; pungent; acidic\\
   &&&\note{\adjective}\\
@@ -889,10 +902,9 @@
   &&&\note{\adjective, \male(?)}\\
   &&&\note{\ablativecase, \genitivecase}\\
   &&&\note{from {\dn vidaahin} = vidaahin}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn aahaaraa}&aa|haa|raa&aahaaraa.h\\
   &&&= {\dn aahaaraa.h}\\
   &&&= diets; foods; (occurrences of) eating\\
@@ -911,9 +923,10 @@
   &&&= desired; cherished; worshipped\\
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn i.s.ta.h} = i.s.ta.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn du.hkha"sokaamayapradaa.h}&du.h|kha|&\duHkham\\
   &&&\\
   &&"so|kaa|&\zokaH\\
@@ -928,6 +941,9 @@
   &&&\note{\adjective, \male, \plural}\\
   &&&\note{from {\dn prada.h} = prada.h}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 10}
@@ -966,7 +982,7 @@
   hours old), gone-aroma (without aroma), putrid, stale, and,
   what---remaining, also, and non-pure.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yaatayaama.m}&yaa|ta|&yaata\\
@@ -983,9 +999,10 @@
   &{\dn gatarasa.m}&ga|ta|&\gataH\\
   &&&\\
   &&ra|sa.m&\rasam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn puuti}&puu|ti&putrid\\
   &&&\note{\adjective}\\
   &&&\\
@@ -997,10 +1014,9 @@
   &{\dn ca}&ca&\ca\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ucchi.s.tamapi}&uc|chi|.s.ta|ma|&ucchi.s.tam\\
   &&&= {\dn ucchi.s.tam}\\
   &&&= impure; remaining; rejected\\
@@ -1068,7 +1084,7 @@
   sacrificed law-displayed (according to the law), (and) to be
   worshipped---really, thus, that mind accomplishment is good.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn aphalaakaa"nk.sibhiryaj~no}\\
@@ -1116,10 +1132,9 @@
   &&ti&\iti\\
   &&&\\
   &{\dn mana.h}&ma|na\h{a}&\manaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn samaadhaaya}&sa|maa|dhaa|ya&samaadhaaya.h\\
   &&&= {\dn samaadhaaya.h}\\
   &&&= fix; completion; accomplishment\\
@@ -1130,9 +1145,6 @@
   &{\dn sattvika.h}&sat|tvi|ka\h{a}&true; good; pure; energetic\\
   &&&\note{\adjective, \male}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 12}
@@ -1171,7 +1183,7 @@
   sacrificed, O Bharata-best (O Arjuna)---(know) that sacrifice (as)
   passion.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn abhisandhaaya}&a|bhi|san|dhaa|ya&desiring\\
@@ -1180,9 +1192,10 @@
   &{\dn tu}&tu&\tu\\
   &&&\\
   &{\dn phala.m}&pha|la.m&\phalam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn dambhaarthamapi}&dam|bhaar|&dambha.h\\
   &&&= {\dn dambha.h}\\
   &&&= deceit; feigning; hypocrisy\\
@@ -1197,10 +1210,9 @@
   &&va&\eva\\
   &&&\\
   &{\dn yat}&yat&\yat\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn ijyate}&i|jya|te&(he/she/it) is sacrificed; worshipped\\
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yaj} = yaj}\\
@@ -1213,9 +1225,10 @@
   &&&= O best\\
   &&&\note{\adjective, \male, \vocativecase}\\
   &&&\note{from {\dn "sre.s.tha.h} = "sre.s.tha.h}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn ta.m}&ta.m&\tam\\
   &&&\\
   &{\dn yaj~na.m}&ya|j\~{}na.m&\yajJam\\
@@ -1226,6 +1239,9 @@
   &&&\note{\noun, \neuter, \accusativecase}\\
   &&&\note{(?) from {\dn rajas} = rajas}\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 13}
@@ -1263,7 +1279,7 @@
   Law-absence, not-much food, hymn-absence, not-sincere, faith-abandoned
   sacrifice (is acknowledged as) ignorance.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn vidhihiinamas.r.s.taanna.m}\\
@@ -1284,9 +1300,10 @@
   &&&= {\dn annam}\\
   &&&= rice; food\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn mantrahiinamadak.si.nam}\\
   &&&\\
   &&man|tra|&mantra.h\\
@@ -1305,10 +1322,9 @@
   &&&= south; sincere\\
   &&&\note{\adjective, \male, \accusativecase}\\
   &&&\note{from {\dn dak.si.na.h} = dak.si.na.h}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn "sraddhaavirahita.m}&"srad|dhaa|&\zraddhA\\
   &&&\\
   &&vi|ra|hi|ta.m&virahitam\\
@@ -1364,7 +1380,7 @@
   sincerity, God-religious-behavior, and non-harm---(this group of
   characteristics) is called body austerity.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn devadvijagurupraaj~napuujana.m}\\
@@ -1382,9 +1398,10 @@
   &&&= {\dn praaj~na.h}\\
   &&&= wise man\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&puu|ja|na.m&puujanam\\
   &&&= {\dn puujanam}\\
   &&&= worship\\
@@ -1399,10 +1416,9 @@
   &&&= {\dn aarjavam}\\
   &&&= sincerity; straightness\\
   &&&\note{\noun, \neuter}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn brahmacaryamahi.msaa}\\
   &&&\\
   &&brah|ma|&\brahma\\
@@ -1419,9 +1435,10 @@
   &&&\note{\noun, \female}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn "saariira.m}&"saa|rii|ra.m&"saariiram\\
   &&&= {\dn "saariiram}\\
   &&&= body; anatomy; feces\\
@@ -1431,6 +1448,9 @@
   &&&\\
   &{\dn ucyate}&u|cya|te&\ucyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 15}
@@ -1469,7 +1489,7 @@
   and practice, really---(this group of characteristics) is called voice
   austerity.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn anudvegakara.m}&a|nu|&\an\\
@@ -1568,7 +1588,7 @@
   Mind-peace, benevolence, slience, self-restraint, behavior-purity,
   thus---this (group of characteristics) is called austerity-mind.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn mana.hprasaada.h}&ma|na\h{a}&\manaH\\
@@ -1579,9 +1599,10 @@
   &&&= {\dn saumyatvam}\\
   &&&= gentleness; benevolence\\
   &&&\note{\noun, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn maunamaatmavinigraha.h}\\
   &&&\\
   &&mau|na|maat|&maunam\\
@@ -1594,10 +1615,9 @@
   &&vi|ni|gra|ha\h{a}&{\dn vinigraha.h}\\
   &&&= restraint; division\\
   &&&\note{\noun, \male}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn bhaavasa.m"suddhirityetattapo}\\
   &&&\\
   &&bhaa|va|&\bhAvaH\\
@@ -1660,7 +1680,7 @@
   using men desiring non-fruit (non-results), (who are) yoked. (This
   austerity is acknowledged as) good.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn "sraddhayaa}&"srad|dha|yaa&\zraddhayA\\
@@ -1763,7 +1783,7 @@
   one who (does) that in this world---(is) proclaimed (as)
   passion---trembling (and) non-eternal.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn satkaaramaanapuujaartha.m}\\
@@ -1866,7 +1886,7 @@
   using pain, of other(-people's)-destruction-purpose, yes/no---that
   (is) called ignorance.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn muu.dhagraahe.naatmano}&muu|.dha|&\mUDhaH\\
@@ -1974,7 +1994,7 @@
   benefactor, at a place, and at a time, and at (to) a competent
   person---that donation (is) remembered (as) good.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn daatavyamiti}&daa|ta|vya|mi|&daatavyam\\
@@ -1987,9 +2007,10 @@
   &{\dn yaddaana.m}&yad|&\yat\\
   &&&\\
   &&daa|na.m&\daanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn diiyate.anupakaari.ne}\\
   &&&\\
   &&dii|ya|te|&{\dn diiyate}\\
@@ -2002,10 +2023,9 @@
   &&&= (?) at/in/on a/the benefactor\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{(?) from {\dn upakaarin} = upakaarin}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn de"se}&de|"se&at/in/on at/the country; place\\
   &&&\note{\noun, \male, \locativecase}\\
   &&&\note{from {\dn de"sa.h} = de"sa.h}\\
@@ -2019,9 +2039,10 @@
   &&&\note{from {\dn paatram} = paatram}\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn taddaana.m}&tad|&\tat\\
   &&&\\
   &&daa|na.m&\daanam\\
@@ -2033,6 +2054,9 @@
   &&&\\
   &{\dn sm.rtam}&sm.r|tam&\smRtam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 21}
@@ -2071,7 +2095,7 @@
   results), yes/no, again, and reluctant---that donation (is) remembered
   (as) passion.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yattu}&yat|&\yat\\
@@ -2089,9 +2113,10 @@
   &&&\note{\noun, \male}\\
   &&&\\
   &&tha.m&\artham\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn phalamuddi"sya}&pha|la|mud|&\phalam\\
   &&&\\
   &&di|"sya&uddi"sya\\
@@ -2102,10 +2127,9 @@
   &{\dn vaa}&vaa&\vaa\\
   &&&\\
   &{\dn puna.h}&pu|na\h{a}&\punaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn diiyate}&dii|ya|te&(?)\\
   &&&\\
   &{\dn ca}&ca&\ca\\
@@ -2161,7 +2185,7 @@
   people, \dots (?) \dots non-true action, without respect---that
   (donation is) called ignorance.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn ade"sakaale}&a|&\aprefix\\
@@ -2175,9 +2199,10 @@
   &{\dn yaddaanamapaatrebhya"sca}&yad|&\yat\\
   &&&\\
   &&daa|na|&\daanam\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&&ma|&\aprefix\\
   &&&\\
   &&paa|tre|bhya"s&\pAtrebhyaH\\
@@ -2185,10 +2210,9 @@
   &&ca&\ca\\
   &&&\\
   &{\dn diiyate}&dii|ya|te&(?)\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&\multicolumn{3}{l}{\dn asatk.rtamavaj~naata.m}\\
   &&&\\
   &&a|&\aprefix\\
@@ -2262,7 +2286,7 @@
   kind(s)---remembered by those people with divine knowledge and
   (occurrences of) (sacred) knowledge and sacrifices decreed long ago.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn o.m}&o.m&traditional syllable of meditation\\
@@ -2280,9 +2304,10 @@
   &&&= {\dn nirde"sa.h}\\
   &&&= instruction\\
   &&&\note{\noun, \male}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn brahma.nastrividha.h}&brah|ma|.na|&\brahmaNaH\\
   &&&\\
   &&stri|&trii.ni = {\dn trii.ni} = three\\
@@ -2291,10 +2316,9 @@
   &&vi|dha\h{a}&\vidhaH\\
   &&&\\
   &{\dn sm.rta.h}&sm.r|ta\h{a}&\smRtaH\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn braahma.naastena}&braah|ma|.naa|ste|&braahma.naa.h\\
   &&&= {\dn braahma.naa.h}\\
   &&&= people with divine knowledge\\
@@ -2358,7 +2382,7 @@
   Therefore ``O.m''---indicating---sacrifice-donation-austerity-actions
   start action, (it is) said, eternally, of God-wise(-persons).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn tasmaad}&tas|maad&therefore\\
@@ -2372,9 +2396,10 @@
   &&&= {\dn udaah.rtya}\\
   &&&= indicating\\
   &&&\note{\adjective}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&\multicolumn{3}{l}{\dn yaj~nadaanatapa.hkriyaa.h}\\
   &&&\\
   &&ya|j\~{}na|&\yajJaH\\
@@ -2387,10 +2412,9 @@
   &&&= actions; works; doings\\
   &&&\note{\noun, \female, \plural}\\
   &&&\note{from {\dn kriyaa} = kriyaa}\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn pravartante}&pra|var|tan|te&(they) start; happen\\
   &&&\note{\verbb, \presenttense, \thirdperson, \plural}\\
   &&&\note{root: {\dn prav.rt} = prav.rt}\\
@@ -2402,15 +2426,19 @@
   &&&\note{\nominativecase, \accusativecase}\\
   &&&\\
   &&taa\h{aa}&\uktAH\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&{\dn satata.m}&sa|ta|ta.m&\satatam\\
   &&&\\
   &{\dn brahmavaadinaam}&brah|ma|&\brahma\\
   &&&\\
   &&vaa|di|naam&\vaadinaam\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 25}
@@ -2449,7 +2477,7 @@
   (results)---sacrifice-austerity-actions and various donation-actions
   (are done), using liberation-(desires).
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&\multicolumn{3}{l}{\dn tadityanabhisandhaaya}\\
@@ -2555,7 +2583,7 @@
   a good action, thus. The ``sat (true)'' word is yoked, O prince (O
   Arjuna) \dots
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn sadbhaave}&sad|&sat\\
@@ -2607,10 +2635,9 @@
   &{\dn karma.ni}&kar|ma|.ni&\karmaNi\\
   &&&\\
   &{\dn tathaa}&ta|thaa&\tathaa\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2b&{\dn sacchabda.h}&sac|&sat\\
   &&&= {\dn sat}\\
   &&&= true; good\\
@@ -2624,9 +2651,6 @@
   &&&\note{\verbb, \presenttense, \thirdperson, \singular}\\
   &&&\note{root: {\dn yuj} = yuj}\\
 \end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 27}
@@ -2665,7 +2689,7 @@
   situation, is called ``sat'' (true). And action, really, that (is)
   related, (is) ``sat'' (true), really, \dots (?) \dots.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn yaj~ne}&ya|j\~{}ne&\yajJe\\
@@ -2675,9 +2699,10 @@
   &{\dn daane}&daa|ne&\daane\\
   &&&\\
   &{\dn ca}&ca&\ca\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   1b&{\dn sthiti.h}&sthi|ti\h{i}&standing; steadfastness; state (situation)\\
   &&&\note{\noun, \female}\\
   &&&\\
@@ -2691,10 +2716,9 @@
   &{\dn cocyate}&co|&\ca\\
   &&&\\
   &&cya|te&\ucyate\\
-\end{tabular}
-\newpage
-% ------------------------------------------------------------------------------
-\begin{tabular}{llll}
+  % ----------------------------------------------------------------------------
+  \hline
+  &&&\\
   2a&{\dn karma}&kar|ma&\karma\\
   &&&\\
   &{\dn caiva}&cai|&\ca\\
@@ -2707,9 +2731,10 @@
   &&&= {\dn arthiiyam}\\
   &&&= related to; destined for\\
   &&&\note{\adjective, \neuter}\\
-  % ----------------------------------------------------------------------------
-  \hline
-  &&&\\
+\end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\begin{tabular}{llll}
   2b&\multicolumn{3}{l}{\dn sadityevaabhidhiiyate}\\
   &&&\\
   &&sa|di|&sat\\
@@ -2723,6 +2748,9 @@
   &&&\\
   &&bhi|dhii|ya|te&\abhidhiiyate\\
 \end{tabular}
+\newpage
+% ------------------------------------------------------------------------------
+\quad
 \newpage
 % ------------------------------------------------------------------------------
 \section{\bhagavadgiitaa\ Chapter 17, Verse 28}
@@ -2761,7 +2789,7 @@
   not using faith (is) ``asat'' (non-true), (it is) said, O prince (O
   Arjuna). And that (is) not after death or (and) not in this world.
 \end{mytranslation}
-\newpage
+
 % ------------------------------------------------------------------------------
 \begin{tabular}{llll}
   1a&{\dn a"sraddhayaa}&a|&\aprefix\\
