@@ -1,26 +1,35 @@
 \chapter{About this book}
 
 In this book, we use a fairly fixed format for translating each verse
-of the Bhagavad Giitaa.
+of the Bhagavad Giitaa. (Below, we talk about the Velthuis
+transliteration. A later chapter will explain this.)
 
 The translation of each verse always starts on a left page and uses an
-even number of pages. The last page in a translation might be a blank,
-placeholder page.
+even number of pages. The pages contain:
 
-The first page in each translation has the translated text of the
-whole verse---the translated text may closely follow the Sanskrit, and
-may or may not be easy to understand.
+\begin{itemize}
 
-Each page in the translation, if it is not blank, has a table with
-four columns: (1) an identification code (such as 0, 1a, 1b, 2a, 2b,
-3a, 3b) for a line of the verse, (2) the Sanskrit text (written in
-Devanagari), (3) the Velthuis transliteration of the Sanskrit text,
-including long dashes for syllable breaks, and (4) possible
-translations of the Sanskrit text. (A later chapter explains the
-Velthuis transliteration.)
+\item The Sanskrit/Devanaagarii of the verse. We add labels to parts
+  of the text.
 
-Having a fixed format such as the format above may help people easily
-find what they are interested in, by focusing on nearly the same
-regions on each page. For example, if someone is interested in only
-the whole-verse translations, that person can scroll through the
-pages, looking at only the top parts of left pages.
+\item A Velthuis transliteration.
+
+\item A translation of the whole verse. The translation may closely
+  follow the Sanskrit, and may or may not be easy to understand.
+
+\item A table with four columns:
+
+  \begin{itemize}
+
+  \item A column for the labels which we mentioned above.
+
+  \item A column for the Sanskrit.
+
+  \item A column for the Velthuis transliteration. We add long dashes
+    to indicate syllable breaks.
+
+  \item A translation of the Sanskrit.
+
+  \end{itemize}
+
+\end{itemize}
